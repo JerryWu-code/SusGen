@@ -35,7 +35,7 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
         
         # check if the file is downloaded, yes mark the df_status as 1, no mark as 0
         if os.path.exists(data_path + "/" + file_name) and os.path.getsize(data_path + "/" + file_name) > 256000:
-            df.loc[i, "Status"] = int(1)
+            df.loc[i, "Status"] = 1
             continue
         
         cmd = "wget -O " + shlex.quote(data_path + "/" + file_name) + " " + shlex.quote(
@@ -46,19 +46,19 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
 
             if result.returncode == 0:
                 if os.path.getsize(data_path + "/" + file_name) > 256000: # ignore the pdfs that less than 250KB
-                    df.loc[i, "Status"] = int(1)
+                    df.loc[i, "Status"] = 1
 
                 else:
                     os.remove(os.path.join(data_path, file_name))
-                    df.loc[i, "Status"] = int(0)
+                    df.loc[i, "Status"] = 0
 
             else:
                 print(f"wget command failed with error: {result.stderr}")
-                df.loc[i, "Status"] = int(0)
+                df.loc[i, "Status"] = 0
 
         except subprocess.TimeoutExpired:
             print(f"Download timed out for: {df['Report URL'][i]}")
-            df.loc[i, "Status"] = int(0)
+            df.loc[i, "Status"] = 0
 
     # save the status
     if updated_list:
