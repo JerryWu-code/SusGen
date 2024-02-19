@@ -35,42 +35,31 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
         
         # check if the file is downloaded, yes mark the df_status as 1, no mark as 0
         if os.path.exists(data_path + "/" + file_name):
+            df.loc[i, "Status"] = 1
             continue
+        
+        cmd = "wget -O " + shlex.quote(data_path + "/" + file_name) + " " + shlex.quote(df["Report URL"][i]) + " --no-check-certificate"
+        result = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=35)
+
+        if result.returncode == 0:
+            if os.path.getsize(data_path + "/" + file_name) > 256000: # ignore the pdfs that less than 250KB
+                 df.loc[i, "Status"] = 1
+
+            else:
+                os.remove(os.path.join(data_path, file_name))
+                df.loc[i, "Status"] = 0
 
         else:
-            # if timeout, try again, else skip
-            for _ in range(3):
-                cmd = "wget -O " + shlex.quote(data_path + "/" + file_name) + " " + shlex.quote(df["Report URL"][i])
-                result = subprocess.run(cmd, shell=True, capture_output=True)
-                if result.returncode != 0:
-                    print(f"wget command failed with error: {result.stderr.decode()}")
-                    df.loc[i, "Status"] = 0
-                    continue
-                try:
-                    # if the pdf could be opened and the file is not empty, mark the status as 1
-                    if os.path.getsize(data_path + "/" + file_name) > 256000: # ignore the pdfs that less than 250KB
-                        with open(data_path + "/" + file_name, "rb") as pdf:
-                            df.loc[i, "Status"] = 1
-                            break
-                except:
-                    if os.path.exists(data_path + "/" + file_name):
-                        os.remove(data_path + "/" + file_name)
-                    df.loc[i, "Status"] = 0
-                    continue
+            print(f"wget command failed with error: {result.stderr.decode()}")
+            df.loc[i, "Status"] = 0
 
     # save the status
     if updated_list:
         df.to_csv(updated_list, index=False)
 
-# delete the pdfs that cant be opened and not ended with "pdf"
-def check_pdfs(data_path=raw_data_path):
-    for file in os.listdir(data_path):
-        if not file.endswith(".pdf"):
-            os.remove(data_path, file)
-
 def main():
     download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
-    download_pdfs(target_list=esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
+    # download_pdfs(target_list=esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
 
 if __name__ == "__main__":
     main()
