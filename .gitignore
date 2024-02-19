@@ -1,0 +1,6 @@
+# ignore the MacOS system cache file
+.DS_Store
+*/.DS_Store
+
+# ignore some PDFs
+data/raw_data/*.pdf
