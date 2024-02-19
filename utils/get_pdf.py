@@ -34,32 +34,39 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
         file_name = str(df["Company"][i]) + "_" + str(df["Year Published"][i]) + suffix + ".pdf"
         
         # check if the file is downloaded, yes mark the df_status as 1, no mark as 0
-        if os.path.exists(data_path + "/" + file_name):
-            df.loc[i, "Status"] = 1
+        if os.path.exists(data_path + "/" + file_name) and os.path.getsize(data_path + "/" + file_name) > 256000:
+            df.loc[i, "Status"] = int(1)
             continue
         
-        cmd = "wget -O " + shlex.quote(data_path + "/" + file_name) + " " + shlex.quote(df["Report URL"][i]) + " --no-check-certificate"
-        result = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=35)
+        cmd = "wget -O " + shlex.quote(data_path + "/" + file_name) + " " + shlex.quote(
+            df["Report URL"][i]) + " --no-check-certificate"
+        
+        try:
+            result = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=35)
 
-        if result.returncode == 0:
-            if os.path.getsize(data_path + "/" + file_name) > 256000: # ignore the pdfs that less than 250KB
-                 df.loc[i, "Status"] = 1
+            if result.returncode == 0:
+                if os.path.getsize(data_path + "/" + file_name) > 256000: # ignore the pdfs that less than 250KB
+                    df.loc[i, "Status"] = int(1)
+
+                else:
+                    os.remove(os.path.join(data_path, file_name))
+                    df.loc[i, "Status"] = int(0)
 
             else:
-                os.remove(os.path.join(data_path, file_name))
-                df.loc[i, "Status"] = 0
+                print(f"wget command failed with error: {result.stderr}")
+                df.loc[i, "Status"] = int(0)
 
-        else:
-            print(f"wget command failed with error: {result.stderr.decode()}")
-            df.loc[i, "Status"] = 0
+        except subprocess.TimeoutExpired:
+            print(f"Download timed out for: {df['Report URL'][i]}")
+            df.loc[i, "Status"] = int(0)
 
     # save the status
     if updated_list:
         df.to_csv(updated_list, index=False)
 
 def main():
-    download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
-    # download_pdfs(target_list=esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
+    # download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
+    download_pdfs(target_list=updated_esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
 
 if __name__ == "__main__":
     main()
