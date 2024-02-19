@@ -62,11 +62,12 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
 
     # save the status
     if updated_list:
+        df["Status"] = df["Status"].astype("Int64")
         df.to_csv(updated_list, index=False)
 
 def main():
     # download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
-    download_pdfs(target_list=updated_esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
+    download_pdfs(target_list=esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
 
 if __name__ == "__main__":
     main()
