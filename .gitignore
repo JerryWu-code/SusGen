@@ -4,3 +4,9 @@
 
 # ignore some PDFs
 data/raw_data/*.pdf
+
+# ignore the wget logs
+wget-*
+
+# ignore the .gitignore itself
+.gitignore*
