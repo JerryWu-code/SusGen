@@ -2,8 +2,8 @@
 .DS_Store
 */.DS_Store
 
-# ignore some PDFs
-data/raw_data/*.pdf
+# ignore PDFs inside raw_data
+# data/raw_data/*.pdf
 
 # ignore the wget logs
 wget-*
