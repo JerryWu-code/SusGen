@@ -1,0 +1,29 @@
+---
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: data/train-*
+  - split: test
+    path: data/test-*
+dataset_info:
+  features:
+  - name: input
+    dtype: string
+  - name: output
+    dtype: string
+  - name: instruction
+    dtype: string
+  splits:
+  - name: train
+    num_bytes: 11144078
+    num_examples: 11400
+  - name: test
+    num_bytes: 2076314
+    num_examples: 2136
+  download_size: 1290513
+  dataset_size: 13220392
+---
+# Dataset Card for "fingpt-finred-re"
+
+[More Information needed](https://github.com/huggingface/datasets/blob/main/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)

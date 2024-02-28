@@ -1,0 +1,24 @@
+---
+dataset_info:
+  features:
+  - name: input
+    dtype: string
+  - name: output
+    dtype: string
+  - name: instruction
+    dtype: string
+  splits:
+  - name: train
+    num_bytes: 20914549
+    num_examples: 17110
+  download_size: 10813846
+  dataset_size: 20914549
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: data/train-*
+---
+# Dataset Card for "fingpt-fiqa_qa"
+
+[More Information needed](https://github.com/huggingface/datasets/blob/main/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)

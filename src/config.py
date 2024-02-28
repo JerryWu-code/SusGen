@@ -14,4 +14,8 @@ updated_esg_list = os.path.join(list_path, "esg_new.csv") # The path to the upda
 
 #############################################################################
 # Path for the extracted pdf & text
-extract_path = os.path.join("data/examples/extractText_sus", "")# The path to the extract part
+extract_path = os.path.join("data/examples/extractText_sus", "")
+
+#############################################################################
+# Path for financial instruction tuning dataset
+cache_dir = os.path.join("data/", "fin_instruction")
