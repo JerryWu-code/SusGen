@@ -12,7 +12,14 @@ from huggingface_hub import snapshot_download
 
 # token = os.getenv("HUGGING_FACE_TOKEN")
 
-repo_ids = ["FinGPT/fingpt-finred", "FinGPT/fingpt-finred-re", "FinGPT/fingpt-fiqa_qa"]
+repo_ids = [
+    "FinGPT/fingpt-finred", 
+    "FinGPT/fingpt-finred-re", 
+    "FinGPT/fingpt-fiqa_qa",
+    "climatebert/tcfd_recommendations",
+    "rexarski/TCFD_disclosure",
+]
+
 repo_type = "dataset"
 use_auth_token = True
 
