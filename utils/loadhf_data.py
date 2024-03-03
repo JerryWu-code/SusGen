@@ -9,23 +9,43 @@ sys.path.append(project_root)
 
 from src.config import cache_dir
 from huggingface_hub import snapshot_download
+from datasets import load_dataset
 
 # token = os.getenv("HUGGING_FACE_TOKEN")
-
-repo_ids = [
-    "FinGPT/fingpt-finred", 
-    "FinGPT/fingpt-finred-re", 
-    "FinGPT/fingpt-fiqa_qa",
-    "climatebert/tcfd_recommendations",
-    "rexarski/TCFD_disclosure",
-]
-
 repo_type = "dataset"
-use_auth_token = True
 
-for repo_id in repo_ids:
-    snapshot_path = snapshot_download(repo_id=repo_id, 
-                                      repo_type=repo_type,
-                                      cache_dir=cache_dir,
-                                      use_auth_token=use_auth_token)
-    print(f"This Repository {repo_id} has been downloaded to：{snapshot_path}")
+def download_datasets(repo_ids, repo_type, cache_dir):
+    for repo_id in repo_ids:
+        dataset = load_dataset(
+            path=repo_id, 
+            cache_dir=cache_dir,
+        )
+        print(f"Downloaded {repo_id} to {cache_dir}")
+
+def load_datasets(repo_ids, cache_dir):
+    datasets = {}
+    for repo_id in repo_ids:
+        dataset = load_dataset(repo_id, cache_dir=cache_dir)
+        datasets[repo_id] = dataset
+    return datasets
+
+def main():
+    repo_ids = [
+        "FinGPT/fingpt-finred", 
+        "FinGPT/fingpt-finred-re", 
+        "FinGPT/fingpt-fiqa_qa",
+        "climatebert/tcfd_recommendations",
+        "rexarski/TCFD_disclosure",
+    ]
+    # 1. Download the datasets
+    # download_datasets(repo_ids, repo_type, cache_dir)
+
+    # 2. Load the datasets
+    datasets = load_datasets(repo_ids, cache_dir)
+    for name, data in datasets.items():
+        print(f"Dataset: {name}")
+        df = data['train'].to_pandas()
+        print(df.head(), "\n\n")
+
+if __name__ == "__main__":
+    main()
