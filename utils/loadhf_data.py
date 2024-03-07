@@ -7,7 +7,7 @@ import os, sys
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
-from src.config import cache_dir
+from src.config import cache_dir, example_path
 from huggingface_hub import snapshot_download
 from datasets import load_dataset
 
@@ -46,6 +46,9 @@ def main():
         print(f"Dataset: {name}")
         df = data['train'].to_pandas()
         print(df.head(), "\n\n")
+        # save to csv
+
+        df.to_csv(f"{example_path}/fin_instruction/{name.split('/')[-1]}.csv", index=False)
 
 if __name__ == "__main__":
     main()

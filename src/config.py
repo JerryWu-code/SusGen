@@ -13,6 +13,8 @@ updated_tcfd_list = os.path.join(list_path, "tcfd_new.csv") # The path to the up
 updated_esg_list = os.path.join(list_path, "esg_new.csv") # The path to the updated ESG list
 
 #############################################################################
+# Path for examples
+example_path = os.path.join("data/examples")
 # Path for the extracted pdf & text
 extract_path = os.path.join("data/examples/extractText_sus", "")
 
