@@ -21,3 +21,4 @@ llama/llama-2-7b/consolidated.00.pth
 
 # ignore some original files from llama repo
 llama/Responsible-Use-Guide.pdf
+llama/download.sh
