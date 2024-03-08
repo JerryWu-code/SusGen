@@ -4,12 +4,19 @@
 
 # ignore the python package cache
 src/__pycache__
+__pycache__/
 
 # ignore PDFs inside raw_data
 # data/raw_data/*.pdf
 
 # ignore the wget logs
 wget-*
+
+# ignore the checkpoint files
+*/ckpts
+llama/llama-2-7b/
+llama/tokenizer.model
+llama/tokenizer_checklist.chk
 
 # ignore the .gitignore itself
 # .gitignore*
