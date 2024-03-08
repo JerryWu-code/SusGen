@@ -14,9 +14,10 @@ wget-*
 
 # ignore the checkpoint files
 */ckpts
-llama/llama-2-7b/
-llama/tokenizer.model
-llama/tokenizer_checklist.chk
+llama/llama-2-7b/consolidated.00.pth
 
 # ignore the .gitignore itself
 # .gitignore*
+
+# ignore some original files from llama repo
+llama/Responsible-Use-Guide.pdf
