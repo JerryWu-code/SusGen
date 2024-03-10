@@ -14,12 +14,12 @@ wget-*
 
 # ignore the checkpoint files
 /ckpts
-/Mistral-7B-Instruct-v0.2
-!/Mistral-7B-Instruct-v0.2/test.py
-/llama/llama-2-7b/consolidated.00.pth
-/mistral/ckpts/consolidated.00.pth
-/mistral/ckpts/params.json
-/mistral/ckpts/tokenizer.model
+Mistral-7B-Instruct-v0.2-hf
+!Mistral-7B-Instruct-v0.2-hf/config.json
+llama-2-7b/consolidated.00.pth
+!llama-2-7b/params.json
+Mistral-7B-Instruct-v0.2-origin
+!Mistral-7B-Instruct-v0.2-origin/params.json
 
 # ignore the .gitignore itself
 # .gitignore*

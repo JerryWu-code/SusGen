@@ -32,7 +32,7 @@ def sample(logits: torch.Tensor, temperature: float, top_p: float):
 
 
 @torch.inference_mode()
-def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, max_tokens: int,  temperature: float, chunk_size: int = None):
+def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, max_tokens: int, end_token: str = "</s>", temperature: float = 1.0, chunk_size: int = None):
     model = model.eval()
     B, V = len(prompts), model.args.vocab_size
 
@@ -91,9 +91,20 @@ def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, ma
     # decode
     generated_tokens = []
     assert last_token_prelogits is not None
+
+    end_generated = [False] * len(prompts)  # add end token to generated sequence
     for i_token in range(max_tokens):
         next_token = sample(last_token_prelogits, temperature=temperature, top_p=0.8)
 
+        # Check if end token is generated
+        for i, token in enumerate(next_token):
+            if not end_generated[i] and token == end_token:
+                end_generated[i] = True
+
+        # Break if all sequences have generated end token
+        if all(end_generated):
+            break
+            
         last_token_logits = torch.log_softmax(last_token_prelogits, dim=-1)
         for i in range(B):
             logprobs[i].append(last_token_logits[i, next_token[i]].item())
@@ -131,7 +142,7 @@ def interactive(model_path: str, max_tokens: int = 35, temperature: float = 0.7,
 
 
 def demo(
-    model_path: str, max_tokens: int = 35, temperature: float = 0, num_pipeline_ranks=1
+    model_path: str, max_tokens: int = 128, temperature: float = 0, num_pipeline_ranks=1
 ):
     if num_pipeline_ranks > 1:
         torch.distributed.init_process_group()
@@ -146,9 +157,31 @@ def demo(
 
     res, _logprobs = generate(
         [
-            "This is a test",
-            "This is another great test",
-            "This is a third test, mistral AI is very good at testing. ",
+            ("<s> [INST] Compose a welcome email within 200 words for new customers who have just made their first purchase with your product."
+            "Start by expressing your gratitude for their business, and then convey your excitement for having them as a customer."
+            "Include relevant details about their recent order. Sign the email with \"The Fun Shop Team\".\n"
+
+            "Order details:\n"
+            "- Customer name: Anna\n"
+            "- Product: hat\n"
+            "- Estimate date of delivery: Feb. 25, 2024\n"
+            "- Return policy: 30 days [/INST]\n"),
+
+            """<s> [INST] Translate English to French, and then only output a dictionary:\n
+            [sea otter,
+            peppermint,
+            plush girafe,
+            cheese] [/INST]\n
+            """,
+
+            "<s> [INST] {user_instruction} \n Question:{question} [/INST]".format(
+                    user_instruction=(
+                        "You are a senior equity analyst with expertise in climate science"
+                        "evaluating a company 's sustainability report, "
+                        "you will answer the question in detail."
+                    ),
+                    question="What is the company's carbon footprint?"
+            ),
         ],
         transformer,
         tokenizer,

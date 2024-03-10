@@ -1,17 +1,15 @@
 # Author: "WHATX" -- Wu Qilong
 # Institute: National University of Singapore, A Star IHPC
 # Description: Use this to:
-"""
-    1. Load the model and tokenizer from the local directory and test inference.
-    2. Turn the weights into consolidated format for deployment.
-"""
+#    1. Load the model and tokenizer from the local directory and test inference.
+#    2. Turn the weights into consolidated format for deployment.
 
 #############################################################################
 import torch
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig
 
-def load_model(model_path="./"):
+def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
     # 1.Load the tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
 
@@ -50,7 +48,7 @@ def generate_text(model, tokenizer, device, prompt, max_length=1024, temperature
     
     return generated_text
 
-def turn_weights_to_consolidated_format(model, tokenizer, model_path="./"):
+def turn_weights_to_consolidated_format(model, tokenizer, model_path):
     if hasattr(model, 'module'):
         # The original model is stored in the `module` attribute
         model = model.module
@@ -65,7 +63,8 @@ def turn_weights_to_consolidated_format(model, tokenizer, model_path="./"):
 
 def main():
     # 1.Load the model and tokenizer
-    model, tokenizer, device, config = load_model(model_path="./")
+    path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    model, tokenizer, device, config = load_model(model_path=path)
     # 2.Set the model to evaluation mode
     model.eval()
 
