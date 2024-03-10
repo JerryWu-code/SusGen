@@ -17,7 +17,7 @@ def main(
     temperature: float = 0.6,
     top_p: float = 0.9,
     max_seq_len: int = 128,
-    max_gen_len: int = 64,
+    max_gen_len: int = 1024,
     max_batch_size: int = 4,
 ):
     """
@@ -54,14 +54,14 @@ def main(
         cheese =>""",
 
         ##### Type 3 Instruction based prompt ~ current bad performance need to be tuned
-        "<s>[INST] {user_instruction} [/INST] {model_response}</s>".format(
+        "{user_instruction} \n Question:{question}".format(
             user_instruction=(
-                "You are a senior equity analyst with expertise in climate science."
-                # "evaluating a company 's sustainability report, "
-                # "you will answer the question in detail."
+                "You are a senior equity analyst with expertise in climate science"
+                "evaluating a company 's sustainability report, "
+                "you will answer the question in detail."
             ),
-            model_response="What is the company's carbon footprint?",
-        ),
+            question="What is the company's carbon footprint?",
+        )
     ]
     results = generator.text_completion(
         prompts,

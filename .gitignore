@@ -3,7 +3,7 @@
 */.DS_Store
 
 # ignore the python package cache
-src/__pycache__
+*/__pycache__
 __pycache__/
 
 # ignore PDFs inside raw_data
@@ -15,6 +15,7 @@ wget-*
 # ignore the checkpoint files
 */ckpts
 llama/llama-2-7b/consolidated.00.pth
+mistral/Mistral-7B-Instruct-v0.2
 
 # ignore the .gitignore itself
 # .gitignore*
