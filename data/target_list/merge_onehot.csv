@@ -1,5 +1,5 @@
 Company,Report URL,Type of Report,Year Published,Industry,Geography,Status,SDGs,TNFD,TCFD,GRI,UN_SDGs,SFDR,NFRD,NGFS,UNGC,SASB,TCFD_QA
-Wolfspeed,https://assets.wolfspeed.com/uploads/2022/10/Wolfspeed_Sustainability_Report_2022.pdf,"TCFD,SASB,GRI,UN_SDGs",2022,"Energy Equipment and Services, Manufacturing",United States of America,1,0,0,1,1,1,0,0,0,0,1,0
+Wolfspeed,https://assets.wolfspeed.com/uploads/2022/10/Wolfspeed_Sustainability_Report_2022.pdf,"TCFD,SASB,GRI,UN_SDGs",2022,"Energy Equipment and Services, Manufacturing",United States of America,1,0,0,1,1,1,0,0,0,0,1,1
 WEC Energy Group,https://www.wecenergygroup.com/csr/cr2020/wec-corporate-responsibility-report-2020.pdf#pagemode=bookmarks,"SASB,TCFD,GRI",2020,Electric and Gas Utilities,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
 Vistra,https://www.vistracorp.com/wp-content/uploads/2021/05/2020-sustainability-report.pdf,"GRI,SASB,TCFD",2020,Electric and Gas Utilities,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
 Vale,http://www.vale.com/EN/investors/information-market/annual-reports/sustainability-reports/Sustainability%20Reports/Relatorio_sustentabilidade_vale_2019_alta_en.pdf,GRI,2019,Metals and Mining,Brazil,1,0,0,0,1,0,0,0,0,0,0,0
@@ -14,16 +14,16 @@ Suzano,https://r2020.suzano.com.br/wp-content/uploads/2021/05/SuzanoReport2020.p
 Sun Life Financial,https://www.sunlife.com/content/dam/sunlife/regional/global-marketing/documents/com/sustainability-report-2020-e.pdf,"GRI,SASB",2020,Insurance,Canada,1,0,0,0,1,0,0,0,0,0,1,0
 SSE,https://www.sse.com/investors/reports-and-results/?year=2018/18,SASB,2022,Electric and Gas Utilities,United Kingdom,1,0,0,0,0,0,0,0,0,0,1,0
 SSE,https://www.sse.com/investors/reports-and-results/?year=2018/16,SASB,2021,Electric and Gas Utilities,United Kingdom,1,0,0,0,0,0,0,0,0,0,1,0
-Siemens,https://assets.new.siemens.com/siemens/assets/api/uuid:16c327d3-3e02-427e-952f-e7f610d954fe/siemens-sustainability-information-2019.pdf,"GRI,TCFD",2020,Health Care Equipment and Services,Germany,1,0,0,1,1,0,0,0,0,0,0,0
-Siemens,https://assets.new.siemens.com/siemens/assets/api/uuid:13f56263-0d96-421c-a6a4-9c10bb9b9d28/sustainability2020-en.pdf,"GRI,TCFD",2020,Health Care Equipment and Services,Germany,1,0,0,1,1,0,0,0,0,0,0,0
-Schlumberger,https://www.slb.com/sustainability/pdf/SLB_2020_Sustainability_Report.pdf,"TCFD,SASB",2020,Oil and Gas,United States of America,1,0,0,1,0,0,0,0,0,0,1,0
+Siemens,https://assets.new.siemens.com/siemens/assets/api/uuid:16c327d3-3e02-427e-952f-e7f610d954fe/siemens-sustainability-information-2019.pdf,"GRI,TCFD",2020,Health Care Equipment and Services,Germany,1,0,0,1,1,0,0,0,0,0,0,1
+Siemens,https://assets.new.siemens.com/siemens/assets/api/uuid:13f56263-0d96-421c-a6a4-9c10bb9b9d28/sustainability2020-en.pdf,"GRI,TCFD",2020,Health Care Equipment and Services,Germany,1,0,0,1,1,0,0,0,0,0,0,1
+Schlumberger,https://www.slb.com/sustainability/pdf/SLB_2020_Sustainability_Report.pdf,"TCFD,SASB",2020,Oil and Gas,United States of America,1,0,0,1,0,0,0,0,0,0,1,1
 RWE,https://www.rwe.com/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/cr-report-2020.pdf,GRI,2020,Electric and Gas Utilities,Germany,1,0,0,0,1,0,0,0,0,0,0,0
 Royal Dutch Shell,https://reports.shell.com/sustainability-report/2020/servicepages/downloads/files/shell-sustainability-report-2020.pdf,GRI,2020,Oil and Gas,Netherlands,1,0,0,0,1,0,0,0,0,0,0,0
 Royal Dutch Shell,https://reports.shell.com/sustainability-report/2019/servicepages/downloads/files/shell_sustainability_report_2019.pdf,GRI,2019,Oil and Gas,Netherlands,1,0,0,0,1,0,0,0,0,0,0,0
 Rockefeller Asset Management,https://rcmbrand.rockco.com/wp-content/uploads/2021/04/Rockefeller-Sustainable-Investing-Annual-Report-2020-1.pdf,"TCFD,SASB",2020,Asset Managers,United States of America,1,0,0,1,0,0,0,0,0,0,1,0
 Rockefeller Asset Management,https://rcm.rockco.com/insights_item/rockefeller-asset-management-2019-esg-annual-report/,SASB,2020,Asset Managers,United States of America,1,0,0,0,0,0,0,0,0,0,1,0
-Prudential,https://www.prudentialplc.com/~/media/Files/P/Prudential-V3/reports/2020/esg-report-2020.pdf,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
-Prudential,https://www.prudentialplc.com/~/media/Files/P/Prudential-V3/reports/2019/esg-report-2019.pdf,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
+Prudential,https://www.prudentialplc.com/~/media/Files/P/Prudential-V3/reports/2020/esg-report-2020.pdf,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
+Prudential,https://www.prudentialplc.com/~/media/Files/P/Prudential-V3/reports/2019/esg-report-2019.pdf,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
 Prudential,https://www.prudentialplc.com/~/media/Files/P/Prudential-V3/reports/2018/esg-report-2018.pdf,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
 PPL Corporation,https://www.pplweb.com/wp-content/uploads/2021/05/PPL-2020-Corporate-Sustainability-Report.pdf,GRI,2020,Electric and Gas Utilities,United States of America,1,0,0,0,1,0,0,0,0,0,0,0
 Petrobras,https://api.mziq.com/mzfilemanager/v2/d/25fdf098-34f5-4608-b7fa-17d60b2de47d/bc68ff60-68af-8fea-e1f2-147561547e52?origin=1,GRI,2020,Oil and Gas,Brazil,1,0,0,0,1,0,0,0,0,0,0,0
@@ -35,23 +35,23 @@ OMV Group,https://omv.online-report.eu/en/sustainability-report/2020/servicepage
 OMV Group,https://www.omv.com/services/downloads/00/omv.com/1522187582080/dload_Sustainability%20Report%202019_new_en,GRI,2020,Oil and Gas,Austria,1,0,0,0,1,0,0,0,0,0,0,0
 OMV Group,https://www.omv.com/services/downloads/00/omv.com/1522185481528/dload_Sustainability%20Report%202018_en,GRI,2020,Oil and Gas,Austria,1,0,0,0,1,0,0,0,0,0,0,0
 NRG Energy,https://www.nrg.com/assets/documents/sustainability/2020-nrg-sustainability.pdf,"TCFD,SASB",2020,Electric and Gas Utilities,United States of America,1,0,0,1,0,0,0,0,0,0,1,0
-Novatek,https://www.novatek.ru/common/upload/doc/NOVATEK_SR_2020_ENG.pdf,"GRI,SASB,TCFD",2020,Oil and Gas,Russia,1,0,0,1,1,0,0,0,0,0,1,0
-Novatek,https://www.novatek.ru/common/upload/doc/2023/NOVATEK_SR_2022_ENG.pdf,"GRI,SASB,TCFD",2020,Oil and Gas,Russia,1,0,0,1,1,0,0,0,0,0,1,0
-Novartis,https://www.novartis.com/sites/www.novartis.com/files/novartis-in-society-report-2020.pdf,"GRI,SASB,TCFD",2022,Pharmaceutical,Switzerland,1,0,0,1,1,0,0,0,0,0,1,0
+Novatek,https://www.novatek.ru/common/upload/doc/NOVATEK_SR_2020_ENG.pdf,"GRI,SASB,TCFD",2020,Oil and Gas,Russia,1,0,0,1,1,0,0,0,0,0,1,1
+Novatek,https://www.novatek.ru/common/upload/doc/2023/NOVATEK_SR_2022_ENG.pdf,"GRI,SASB,TCFD",2020,Oil and Gas,Russia,1,0,0,1,1,0,0,0,0,0,1,1
+Novartis,https://www.novartis.com/sites/www.novartis.com/files/novartis-in-society-report-2020.pdf,"GRI,SASB,TCFD",2022,Pharmaceutical,Switzerland,1,0,0,1,1,0,0,0,0,0,1,1
 Nordea Bank,https://www.nordea.com/Images/33-353222/nordea-sustainability-report-2019.pdf,"GRI,TCFD",2020,Banks,Finland,1,0,0,1,1,0,0,0,0,0,0,0
 New Relic,https://newrelic.com/sites/default/files/2023-07/NewRelic-ImpactReport-2023-FINAL.pdf,"GRI,SASB,TCFD",2023,Services,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
 Nestle,https://www.nestle.com/sites/default/files/2021-03/creating-shared-value-report-2020-en.pdf,GRI,2020,Packaged Foods and Meats,Switzerland,1,0,0,0,1,0,0,0,0,0,0,0
-Moody&#8217;s,https://www.moodys.com/sites/products/ProductAttachments/CSR/Moodys_2019_CSR_Report.pdf,"GRI,SASB,TCFD",2020,Commercial and Professional Services,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
+Moody&#8217;s,https://www.moodys.com/sites/products/ProductAttachments/CSR/Moodys_2019_CSR_Report.pdf,"GRI,SASB,TCFD",2020,Commercial and Professional Services,United States of America,1,0,0,1,1,0,0,0,0,0,1,1
 Maersk,https://investor.maersk.com/static-files/76f5d65d-13eb-4604-b9fa-c10bf51d8ff1,"TCFD,SASB",2020,Maritime Transportation,Denmark,1,0,0,1,0,0,0,0,0,0,1,0
-Maersk,https://investor.maersk.com/static-files/7159c0ac-f547-465b-bc64-1dc05c6a7fd5,TCFD,2019,Maritime Transportation,Denmark,1,0,0,1,0,0,0,0,0,0,0,0
-Maersk,https://investor.maersk.com/static-files/57bf2e50-075d-49f2-a94c-129e68e407cc,TCFD,2018,Maritime Transportation,Denmark,1,0,0,1,0,0,0,0,0,0,0,0
-Landsec,https://landsec.com/sites/default/files/2021-06/Landsec_Sustainability_PerformanceAndDataReport_2021_Final.pdf,"GRI,SASB,TCFD",2020,Real Estate Management and Development,United Kingdom,1,0,0,1,1,0,0,0,0,0,1,0
-Landsec,https://landsec.com/sites/default/files/2020-06/Sustainability%20Performance%20and%20Data%20Report%202020.pdf,TCFD,2020,Real Estate Management and Development,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
-Landsec,https://landsec.com/sites/default/files/2019-06/Landsec_Sustainability_Performance_Data_2019.pdf,TCFD,2019,Real Estate Management and Development,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
+Maersk,https://investor.maersk.com/static-files/7159c0ac-f547-465b-bc64-1dc05c6a7fd5,TCFD,2019,Maritime Transportation,Denmark,1,0,0,1,0,0,0,0,0,0,0,1
+Maersk,https://investor.maersk.com/static-files/57bf2e50-075d-49f2-a94c-129e68e407cc,TCFD,2018,Maritime Transportation,Denmark,1,0,0,1,0,0,0,0,0,0,0,1
+Landsec,https://landsec.com/sites/default/files/2021-06/Landsec_Sustainability_PerformanceAndDataReport_2021_Final.pdf,"GRI,SASB,TCFD",2020,Real Estate Management and Development,United Kingdom,1,0,0,1,1,0,0,0,0,0,1,1
+Landsec,https://landsec.com/sites/default/files/2020-06/Sustainability%20Performance%20and%20Data%20Report%202020.pdf,TCFD,2020,Real Estate Management and Development,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
+Landsec,https://landsec.com/sites/default/files/2019-06/Landsec_Sustainability_Performance_Data_2019.pdf,TCFD,2019,Real Estate Management and Development,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
 JP Morgan Chase,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2020.pdf,"GRI,SASB,TCFD",2020,Banks,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
 JP Morgan Chase,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-cr-esg-report-2019.pdf,"GRI,SASB,TCFD",2019,Banks,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
-Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2020/eng/Consolidated_Non_Financial_Statement_2020.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,0
-Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2019/eng/DCNF%202019_en.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,0
+Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2020/eng/Consolidated_Non_Financial_Statement_2020.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,1
+Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2019/eng/DCNF%202019_en.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,1
 Hitachi,https://www.hitachi.com/sustainability/download/pdf/en_sustainability2020_print.pdf,GRI,2020,IT and Communications Services,Japan,1,0,0,0,1,0,0,0,0,0,0,0
 Hitachi,https://www.hitachi.com/sustainability/download/pdf/en_sustainability2019.pdf,GRI,2020,IT and Communications Services,Japan,1,0,0,0,1,0,0,0,0,0,0,0
 Hera Group,https://eng.gruppohera.it/group_eng/sustainability/sustainability-report/sr,GRI,2020,Multi-Utilities,Italy,1,0,0,0,1,0,0,0,0,0,0,0
@@ -73,7 +73,7 @@ Delta,https://www.delta.com/content/dam/delta-www/about-delta/corporate-responsi
 DBS,https://www.dbs.com/iwov-resources/images/sustainability/reporting/pdf/DBS%20Sustainability%20Report%202019%2020200306.pdf?pid=sg-group-pweb-sustainability-pdf-dbs-sustainability-report-2019,GRI,2020,Banks,Singapore,1,0,0,0,1,0,0,0,0,0,0,0
 Croda International,https://www.croda.com/en-gb/investors/annual-report#,TCFD,2020,Chemicals,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
 Credit Suisse,https://www.credit-suisse.com/about-us/en/reports-research/annual-reports.html,TCFD,2020,Banks,Switzerland,1,0,0,1,0,0,0,0,0,0,0,0
-CPP Investments,https://cdn3.cppinvestments.com/wp-content/uploads/2020/11/CPP-Investments-2020-SI-Report-EN-Optimized.pdf,TCFD,2020,Asset Managers,Canada,1,0,0,1,0,0,0,0,0,0,0,0
+CPP Investments,https://cdn3.cppinvestments.com/wp-content/uploads/2020/11/CPP-Investments-2020-SI-Report-EN-Optimized.pdf,TCFD,2020,Asset Managers,Canada,1,0,0,1,0,0,0,0,0,0,0,1
 Coca-Cola Company,https://d1io3yog0oux5.cloudfront.net/cocacolacompany/files/pages/cocacolacompany/db/761/description/coca-cola-business-environmental-social-governance-report-2020.pdf,"GRI, UNGC",2020,Beverages,United States of America,1,0,0,0,1,0,0,0,0,1,0,0
 Coca-Cola Company,https://www.coca-colacompany.com/content/dam/journey/us/en/reports/coca-cola-business-and-sustainability-report-2019.pdf,"GRI, UNGC",2020,Beverages,United States of America,1,0,0,0,1,0,0,0,0,1,0,0
 City Developments Limited,https://www.cdlsustainability.com/pdf/CDL_ISR_2021.pdf,"TCFD, GRI, SASB",2020,Real Estate Management and Development,Singapore,1,0,0,1,1,0,0,0,0,0,1,0
@@ -108,15 +108,15 @@ Vodafone,https://investors.vodafone.com/sites/vodafone-ir/files/2021-05/vodafone
 Vistra,https://www.vistracorp.com/wp-content/uploads/2020/11/VST-2020-Climate-Report.pdf,TCFD,2020,Electric and Gas Utilities,United States of America,1,0,0,1,0,0,0,0,0,0,0,0
 Valero Energy,https://s23.q4cdn.com/587626645/files/doc_downloads/esg_reports/Review_of_Climate-Related_Risks_and_Opportunities_Web.pdf,TCFD,2018,Oil and Gas,United States of America,1,0,0,1,0,0,0,0,0,0,0,0
 TotalEnergies,https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2020-10/total-climate-report-2020.pdf,TCFD,2020,Oil and Gas,France,1,0,0,1,0,0,0,0,0,0,0,0
-TD Bank,https://www.td.com/document/PDF/ESG/2020-TCFD-Report.pdf,TCFD,2020,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,0
-Taiwan Semiconductor Manufacturing Company (TSMC),https://esg.tsmc.com/download/file/2022-TCFDReport-e.pdf,TCFD,2023,Manufacturing,Taiwan,1,0,0,1,0,0,0,0,0,0,0,0
+TD Bank,https://www.td.com/document/PDF/ESG/2020-TCFD-Report.pdf,TCFD,2020,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,1
+Taiwan Semiconductor Manufacturing Company (TSMC),https://esg.tsmc.com/download/file/2022-TCFDReport-e.pdf,TCFD,2023,Manufacturing,Taiwan,1,0,0,1,0,0,0,0,0,0,0,1
 SThree Plc,https://www.tcfdhub.org/wp-content/uploads/2022/06/39322-SThree-TCFD-Report-PF2_23.02.22.pdf,"TCFD, NGFS",2022,Recruiting,United Kingdom,1,0,0,1,0,0,0,0,1,0,0,0
-Standard Chartered,https://av.sc.com/corp-en/content/docs/tcfd-climate-change-disclosure.pdf,TCFD,2020,Banks,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
+Standard Chartered,https://av.sc.com/corp-en/content/docs/tcfd-climate-change-disclosure.pdf,TCFD,2020,Banks,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
 Société Générale,https://www.societegenerale.com/sites/default/files/documents/2020-12/societe-generale-climate-disclosure-report.pdf,"TCFD, NFRD",2020,Banks,France,1,0,0,1,0,0,0,1,0,0,0,0
 SK hynix,https://mis-prod-koce-homepage-cdn-01-blob-ep.azureedge.net/web/attach/4325948666031769.pdf,TCFD,2022,Manufacturing,South Korea,1,0,0,1,0,0,0,0,0,0,0,0
 Santander Group,https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2020/ias-2020-climate-finance-2020-21-en.pdf,TCFD,2021,Banks,Spain,1,0,0,1,0,0,0,0,0,0,0,0
 Santander Group,https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2019/ias-2019-climate-finance-2019-20-en.pdf,TCFD,2020,Banks,Spain,1,0,0,1,0,0,0,0,0,0,0,0
-Salesforce,https://s23.q4cdn.com/574569502/files/doc_downloads/2021/10/Salesforce-TCFD-Report.pdf,TCFD,2021,IT and Communications Services,United States of America,1,0,0,1,0,0,0,0,0,0,0,0
+Salesforce,https://s23.q4cdn.com/574569502/files/doc_downloads/2021/10/Salesforce-TCFD-Report.pdf,TCFD,2021,IT and Communications Services,United States of America,1,0,0,1,0,0,0,0,0,0,0,1
 Royal Bank of Canada,https://www.rbc.com/community-social-impact/_assets-custom/pdf/RBC-TCFD-Report-2020.PDF,TCFD,2020,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,0
 Royal Bank of Canada,https://www.rbc.com/community-social-impact/_assets-custom/pdf/RBC-TCFD-Report-2019.PDF,TCFD,2019,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,0
 Rio Tinto,https://www.riotinto.com/-/media/Content/Documents/Invest/Reports/Climate-Change-reports/RT-climate-report-2020.pdf?rev=c415a8138bd7408496ccb3834511abc0,TCFD,2020,Metals and Mining,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
