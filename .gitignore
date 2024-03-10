@@ -13,9 +13,13 @@ __pycache__/
 wget-*
 
 # ignore the checkpoint files
-*/ckpts
-llama/llama-2-7b/consolidated.00.pth
-mistral/Mistral-7B-Instruct-v0.2
+/ckpts
+/Mistral-7B-Instruct-v0.2
+!/Mistral-7B-Instruct-v0.2/test.py
+/llama/llama-2-7b/consolidated.00.pth
+/mistral/ckpts/consolidated.00.pth
+/mistral/ckpts/params.json
+/mistral/ckpts/tokenizer.model
 
 # ignore the .gitignore itself
 # .gitignore*
