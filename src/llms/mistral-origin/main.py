@@ -32,7 +32,7 @@ def sample(logits: torch.Tensor, temperature: float, top_p: float):
 
 
 @torch.inference_mode()
-def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, max_tokens: int, end_token: str = "</s>", temperature: float = 1.0, chunk_size: int = None):
+def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, max_tokens: int, end_token: str = "</s>", temperature: float = 0.7, chunk_size: int = None):
     model = model.eval()
     B, V = len(prompts), model.args.vocab_size
 
@@ -94,7 +94,7 @@ def generate(prompts: List[str], model: Transformer, tokenizer: Tokenizer, *, ma
 
     end_generated = [False] * len(prompts)  # add end token to generated sequence
     for i_token in range(max_tokens):
-        next_token = sample(last_token_prelogits, temperature=temperature, top_p=0.8)
+        next_token = sample(last_token_prelogits, temperature=temperature, top_p=0.9)
 
         # Check if end token is generated
         for i, token in enumerate(next_token):
@@ -142,7 +142,7 @@ def interactive(model_path: str, max_tokens: int = 35, temperature: float = 0.7,
 
 
 def demo(
-    model_path: str, max_tokens: int = 128, temperature: float = 0, num_pipeline_ranks=1
+    model_path: str, max_tokens: int = 300, temperature: float = 0, num_pipeline_ranks=1
 ):
     if num_pipeline_ranks > 1:
         torch.distributed.init_process_group()

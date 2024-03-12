@@ -14,10 +14,10 @@ from typing import List
 def main(
     ckpt_dir: str,
     tokenizer_path: str,
-    temperature: float = 0.6,
+    temperature: float = 0.7,
     top_p: float = 0.9,
-    max_seq_len: int = 128,
-    max_gen_len: int = 1024,
+    max_seq_len: int = 1024,
+    max_gen_len: int = 2048,
     max_batch_size: int = 4,
 ):
     """
@@ -61,6 +61,17 @@ def main(
                 "you will answer the question in detail."
             ),
             question="What is the company's carbon footprint?",
+        ),
+        (
+            "<s> [INST] Compose a welcome email within 200 words for new customers who have just made their first purchase with your product."
+            "Start by expressing your gratitude for their business, and then convey your excitement for having them as a customer."
+            "Include relevant details about their recent order. Sign the email with \"The Fun Shop Team\".\n"
+
+            "Order details:\n"
+            "- Customer name: Anna\n"
+            "- Product: hat\n"
+            "- Estimate date of delivery: Feb. 25, 2024\n"
+            "- Return policy: 30 days [/INST]\n"
         )
     ]
     results = generator.text_completion(
@@ -70,7 +81,7 @@ def main(
         top_p=top_p,
     )
     for prompt, result in zip(prompts, results):
-        print(prompt)
+        # print(prompt)
         print(f"> {result['generation']}")
         print("\n==================================\n")
 
