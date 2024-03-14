@@ -1,0 +1,34 @@
+[
+    {
+        "file": "xxx.pdf",
+        "content": {
+            "stategy":[
+                {
+                    "Q": "xxx?",
+                    "A": "xxx."
+                },
+                {
+                    "Q": "xxx?",
+                    "A": "xxx."
+                
+                }
+            ]
+        }
+    },
+    {
+        "file": "xxx.pdf",
+        "content": {
+            "stategy":[
+                {
+                    "Q": "xxx?",
+                    "A": "xxx."
+                },
+                {
+                    "Q": "xxx?",
+                    "A": "xxx."
+                
+                }
+            ]
+        }
+    }
+]

@@ -16,8 +16,8 @@ def main(
     tokenizer_path: str,
     temperature: float = 0.7,
     top_p: float = 0.9,
-    max_seq_len: int = 1024,
-    max_gen_len: int = 2048,
+    max_seq_len: int = 4096,
+    max_gen_len: int = 4096,
     max_batch_size: int = 4,
 ):
     """
@@ -38,6 +38,11 @@ def main(
         max_seq_len=max_seq_len,
         max_batch_size=max_batch_size,
     )
+
+    prompts_ = [
+        "The theory of relativity states that",
+        "Translate English to French: sea otter =>",
+    ]
 
     prompts: List[str] = [
         ##### Type 1
@@ -63,7 +68,8 @@ def main(
             question="What is the company's carbon footprint?",
         ),
         (
-            "<s> [INST] Compose a welcome email within 200 words for new customers who have just made their first purchase with your product."
+            "<s> [INST] {text} [/INST]\n".format(
+                text = "Compose a welcome email within 200 words for new customers who have just made their first purchase with your product."
             "Start by expressing your gratitude for their business, and then convey your excitement for having them as a customer."
             "Include relevant details about their recent order. Sign the email with \"The Fun Shop Team\".\n"
 
@@ -71,7 +77,8 @@ def main(
             "- Customer name: Anna\n"
             "- Product: hat\n"
             "- Estimate date of delivery: Feb. 25, 2024\n"
-            "- Return policy: 30 days [/INST]\n"
+            "- Return policy: 30 days"
+            )
         )
     ]
     results = generator.text_completion(
