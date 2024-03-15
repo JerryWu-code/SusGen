@@ -145,7 +145,6 @@ def vis_tsne(X, data_class, save_img="tsne.jpg"):
     plt.savefig(save_img)
     # plt.show()
 
-
 def lr_train(pretrained_path, data_path, tsne_name, save_path):
     """
     Finish the LR train process, including the data preparation.
@@ -204,10 +203,8 @@ if __name__ == "__main__":
 
     # LR predict
     pred_x = "./data/zero.csv"
-    # Load ckpt and data
+    # data to emb
     pretrained_model, tokenizer = load_model(pretrained_path) # 77%
-    data, data_class =  load_data(data_path, name="predict")
-
-    # emb
-    embeddings = emb_data(data, pretrained_model, tokenizer)
+    pred_data, data_class =  load_data(data_path, name="predict")
+    pred_embeddings = emb_data(predict_data, pretrained_model, tokenizer)
     # lr_predict(save_path, pred_x)
