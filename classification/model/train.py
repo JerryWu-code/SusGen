@@ -8,7 +8,7 @@ import numpy as np
 import sklearn
 import pickle
 import sys
-sys.path.append("./mistral-src")  # append the path where mistral-src was cloned
+sys.path.append("../../src/llms/mistral-origin")  # append the path where mistral-src was cloned
 
 from tqdm import tqdm
 from pathlib import Path
@@ -203,5 +203,11 @@ if __name__ == "__main__":
     lr_train(pretrained_path, data_path, tsne_name, save_path)
 
     # LR predict
-    # pred_x = 
+    pred_x = "./data/zero.csv"
+    # Load ckpt and data
+    pretrained_model, tokenizer = load_model(pretrained_path) # 77%
+    data, data_class =  load_data(data_path, name="predict")
+
+    # emb
+    embeddings = emb_data(data, pretrained_model, tokenizer)
     # lr_predict(save_path, pred_x)
