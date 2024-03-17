@@ -1,0 +1,184 @@
+Lazard Asset Management Task Force on Climate-Related Financial Disclosures (TCFD) Report. 
+HB33926
+
+
+2. 
+The Magnitude of the Climate Challenge. 
+We believe that climate change is one of the defining issues of our time and realize that actions taken today will have repercussions for centuries to come. Unfortunately, it is our view that in the years since the 1990 Kyoto Protocol—the first multilateral agreement to reduce greenhouse-gas emissions (GHG)—the gravity of the situation has been met with stronger rhetoric than action.
+Through this 30-year period global anthropogenic GHG emissions have risen c. 40% and atmospheric concentration of CO2 has risen c. 16% to 417 parts per million.1 In 2014 the World Bank found that the world is already locked into 1.5°C degree warming vs. pre-industrial levels, catalyzing the Paris Accord in 2015 which created a global framework for limiting warming to “well below 2° degrees, preferably to 1.5°C degrees”.
+In 2020, COVID-19 illustrated the magnitude of the challenge ahead. The COVID-related economic shock drove down emissions from fossil fuels and industry by c. 7% YoY—the same reduction rate required on average every year from now until 2050 to achieve the goals of the Paris Accord.2 While decoupling the economy from emissions is a daunting task requiring drastic policy and behavior changes, there are signs of hope. Technology and cost improvements continue to advance. The correlation between economic growth and emissions is rooted in part by current forms of energy and power generation. Over the last decade, the cost of (low carbon) renewable energy has declined significantly and now is cost competitive with fossil-based. 
+The economic shock drove down emissions from fossil fuels and industry by c. 7% YoY—the same reduction rate required on average every year from now until 2050 to achieve the goals of the Paris Accord.
+Exhibit 1 Framing climate change through the lens of examining the intersectionality of geopolitical considerations, transition dynamics, and physical impacts is designed to uncover investment insights.
+Geopolitical Transition. 
+Influences the extent of changes to the physical environment, including floods, sea level rise, drought, storm events, and other weather patterns/norms. 
+Ability to limit impacts through mechanisms such as insurance, investments in resiliency, or strategic changes to the built environment. 
+Influences the capacity utilization of renewable energy (e.g. structural changes to sun and wind availability)
+Damages to physical assets, shifts in natural capital stock and flow, and changes to human capital (e.g., migration trends, climate refugees). Also influences political will for change. 
+Policy changes can accelerate (or slow) transition efforts. 
+Transition will change trade agreements (e.g., carbon border adjustment tax) and shift the nature of sovereign competitive advantages in the global economy (e.g., from fossil reserves to the presence of sun and wind), and result in a significant shift in human capital deployment (the friction of which nations must ease)
+Physical Impacts. 
+Source: Lazard generation. More specifically, the cost of utility-scale solar power, concentrating solar power, onshore wind power and offshore wind power, has fallen 82%, 47%, 39%, and 29%, respectively.3. 
+The investment community currently talks about “energy transition”, “stranded assets”, and “the physical risk of climate change”. These ideas are important, but they tend to miss interrelated and sometimes multiplicative consequences, like both the impacts on and from geopolitics.
+Including geopolitical considerations introduces the important and complex concepts of equity and equality, which will be critical components of the evolving climate change narrative. For example, globally the wealthiest 1% account for over twice the emissions of the poorest 50%, while the physical impacts of climate change are expected to harm the least developed nations.
+
+
+3. 
+Furthermore, the countries which have generated the majority of cumulative emissions and increases in atmospheric carbon now have better capacity to transition than others further behind the economic ladder. These dynamics will be key considerations in future policy changes, in our view.
+As it relates to finance, there is also hope that positive realworld outcomes (e.g. averting worst case climate scenarios) can be achieved by rewiring incentives and reshaping the process of credit issuance. Recognition, measurement, behavior and consequences, are the four corners of a virtuous flywheel that has the potential to catalyze systemic change as various economic actors move through each phase (Exhibit 2).
+Our support for the TCFD evidences our recognition of the urgent climate issue and push for improved measurement across the corporate ecosystem. The details contained within demonstrate how our investment process and engagement activity contribute to changes in behavior, with consequences in the real economy.
+Further, Lazard Asset Management (LAM) has joined the Net Zero Asset Manager (NZAM) initiative, making the commitment to support the goal of net-zero greenhouse gas emissions by 2050 or sooner, in line with global efforts to limit warming to 1.5°C.
+Governance. 
+LAM’s Climate Change Investment Policy governs our approach based on three pillars: 1. Climate-Integrated Research 2. Climate-Focused Engagement 3. Transparency, Disclosure, and Reporting on Climate Issues. 
+LAM’s ESG Steering Committee, chaired by the Co-Heads of Sustainable Investment & ESG, is responsible for oversight, implementation, and updates to the policy. The committee coordinates and regularly communicates with the Lazard Investment Council, Oversight Committee, and Management Committee to support and ensure appropriate integration by relevant investment teams.
+LAM’s Global Risk Management team reports directly to the CEO and provides climate-related risk reports to senior management and portfolio managers on a monthly basis.
+Analogous to LAM’s broader approach to ESG integration our investment professionals incorporate an assessment of climaterelated risks and opportunities into their research where they are material.
+Strategy. 
+As a research-focused active investment manager, our climate strategy is rooted in understanding and anticipating the impact of climate change mitigation and adaptation efforts on the future cash flows of operating businesses that issue securities we may invest in. By doing so, we leverage our expertise in security valuation to appropriately calibrate risk/reward and to ultimately steward client capital and generate excess returns.
+We have developed a number of proprietary research frameworks, tools, models, and methods of analysis to increase our capabilities with respect to climate-focused research. For. 
+Exhibit 2 As this flywheel begins to cover more segments of society, particularly those charged with capital allocation, systemic initiatives to address climate change are likely to accelerate. 
+Recognition Measurement. 
+Behavior Consequences. 
+Source: Lazard. 
+Lazard Asset Management (LAM) has joined the Net Zero Asset Managers Initiative, making the commitment to support the goal of net-zero greenhouse gas emissions by 2050 or sooner, in line with global efforts to limit warming to 1.5°C.
+
+
+4 example, we’ve built a bottom-up carbon model that enables our analysts to run granular scenarios on issuers. We’ve also unpacked the statistical difference in third-party carbon proxy models to further understand data limitations and constraints.
+Beyond climate-integrated research, there are three additional components to our climate-change strategy: 1. climate-solution products 2. firm-wide engagement, and 3. external collaborative initiatives with key stakeholders. 
+LAM’s product suite includes investment funds that explicitly address climate-related challenges such as LAM’s Energy Transition Strategy, which seeks to own companies that will be central to the transition to a lower-carbon economy, quantitative portfolios with carbon tilts and carbon budgets, as well as fixed income strategies with material exposure to green bonds. We expect client demand to increase in these areas, representing a growing part of our assets under management and helping drive down our own attributed portfolio emissions.
+Firm-wide engagement with corporate management teams and boards are classified as either fact-finding or purposeful. With respect to our engagements on climate, fact-finding engagements can include pushing companies for better disclosure or an attempt to better understand the capex/opex implications of carbonemission reduction targets. Purposeful engagements may involve more contextual situations whereby we urge for changes in capital allocation, strategy, or governance. We believe both types of corporate engagement address climate risks or opportunities and simultaneously unlock shareholder value.
+The final component of our strategy includes active collaboration with numerous international organizations such as the Task Force for Climate-Related Disclosures (TCFD), Carbon Disclosure Project (CDP), Science Based Targets initiative (SBTi), Sustainable Accounting Standards Board (SASB), and the Institutional Investors Group on Climate Change (IIGCC).
+As IIGCC members, for example, we helped create the Net Zero Investment Framework for Asset Managers. In the fall of 2020, we also worked with the CDP’s Science Based Target (SBT) campaign that aligned a community of financial institutions representing $19 trillion of assets to co-sign engagement letters to 1,800 companies, urging them to adopt climate-related targets. Participating in external initiatives such as these will continue to be part of our climate strategy going forward.
+Risk Management. 
+We believe climate-integrated research conducted by our investment professionals provides the first layer of defense for transition, physical impact, and geopolitical risks. We actively assess these risks on a contextual basis, and from both bottom-up and top-down perspectives. For example, our proprietary carbon model forecasts companies’ carbon intensity and potential cost increases under various carbon pricing or tax scenarios.
+LAM’s analysts covering asset-intensive businesses have identified how companies are positioned to manage physical impacts in various warming scenarios. Analysts covering fossilbased industries regularly test their asset value/stranded asset assumptions. We provide transparency and evidence to our clients demonstrating when climate risks have influenced our buy/sell decisions, as applicable. From a geopolitical perspective, our analysis of sovereign bonds has long incorporated ESG considerations broadly, including the aforementioned (Exhibit 1) dynamics with respect to climate change which will have significant impacts on the creditworthiness of countries.
+At the portfolio level portfolio managers regularly monitor and report on investee company emissions. We’ve also created tools designed for portfolio managers to assess the impact of any trade on a portfolio’s carbon footprint. Our global risk management team, reporting directly to the CEO, incorporates climate analysis into its risk-monitoring workflow.
+Metrics and Targets. 
+As members of the IIGCC, we’ve assisted in creating the Net Zero Investment Framework for Asset Managers and have since joined the Net Zero Asset Manager (NZAM) initiative, committing to disclosing our portfolio emissions as well as lowering them over time, consistent with the pace of Parisaligned pathways. We plan to achieve portfolio emissions. 
+From a transition risk standpoint, we are committed to developing reduction targets for our attributed portfolio emissions that are aligned with the goals of the Paris Accord.
+LAM’s product suite includes investment funds that explicitly address climate-related challenges such Energy Transition, which seeks to own companies that will be central to the transition to a lower-carbon economy, quantitative portfolios with carbon tilts and carbon budgets, as well as fixed income strategies with heavy exposure to green bonds.
+
+
+5 reduction targets not through divestment policy, but by both engaging portfolio companies to reduce their emissions, increasing exposure to investee companies that are decarbonizing at rates in-line with Net Zero by 2050, or to (low carbon) firms providing climate solutions enabling decarbonization and profiting from what we call the “Green Wedge”. The Green Wedge refers to the significant gap between BAU and Parisaligned pathways.
+We are still exploring the best metrics and targets to calibrate physical impact and geopolitical risk. However, we have analyzed where we may have concentrated risks from the perspective of physical impacts induced by a changing climate, as well as related geopolitical implications. We expect this area of reporting and target setting to evolve over time as data improves and climate adaptation investment requirements emerge.
+We do not yet have confidence in the existing climate value-atrisk (VAR) methodologies put forth by third parties. As such, we have selected to inspect physical impact risk on a continuum, comparing LAM’s aggregate holdings and suite of portfolios to market benchmarks.
+Academics have also raised questions on the validity of using climate model information to appropriately inform financial risk. A recent paper entitled Business risk and the emergence of climate analytics4 argues, among other points, that: • Climate models leveraging Representative Concentration Pathways/Shared Socio-economic Pathways (RCPs/SSPs) do not provide reliable information at the city or asset scale, or on time scales of 10-20 years (primarily due to interdecadal variability as the dominate climate variable).
+• The false sense of security provided by some climate service providers may cause entities to mis-represent themselves (and their underlying risk) to investors and regulators. We acknowledge these and other limitations in our use of climaterelated physical risk data.
+In line with best practices in the industry, as well as the Partnership for Carbon Accounting in Financials (PCAF) methodology, our transition-risk-focus metrics at the portfolio level use the Weighted Average Carbon Intensity (WACI) of our investee companies and the emissions attributable to us based on nominal ownership or lending exposure (Exhibit 3).
+Exhibit 3 LAM’s Weighted Average Carbon Intensity (WACI) is higher than the MSCI ACWI with respect to Scope 1 and 2 emissions, but significantly lower when including Scope 3 emissions. 
+Weighted Average Carbon Intensity (t CO2e / $M) 0
+200 400 600 800. 
+Scope 3 Scope 2 Scope 1. 
+MSCI ACWI LAM 225 69 172 538 43 155. 
+As of December 2020.
+Carbon intensity = tCO2e/$M USD Revenue. Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management
+
+
+6. 
+Exhibit 4 Utilities and Materials drive ~80% of LAM’s Scope 1+2 portfolio emission intensity 0
+25 50 75 100. 
+Total Health Care Comm. Services Financials Consumer Discretionary Real Estate Consumer Staples Information Technology Energy Industrials Materials Utilities. 
+LAM WACI (Scope 1+2) Attribution by Sector (%) 68.0 12.0 8.4 3.5 2.9 1.2 1.1 1.0 0.7 0.6 0.4 100. 
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management. 
+Exhibit 5 LAM’s Scope 1+2 emissions footprint compared to the benchmark on a sector basis underscores focus areas for engaging firms on climate and decarbonization strategies. 
+Sector WACI (Scope 1+2): LAM vs. MSCI ACWI (t CO2e / $M) 0
+500 1000 1500 2000 2500 3000 3500. 
+MSCI ACWI LAM. 
+Consumer. 
+Staples. 
+Financials Health Care Consumer. 
+Discretionary. 
+Industrials Materials Comm. Services. 
+Energy Real Estate Information Technology. 
+Utilities. 
+Sector WACI (Scope 1+2): LAM vs. MSCI ACWI (t CO2e / $M) (%) -80 -60 -40 -20 0
+20 40 60 80. 
+Diff vs. Benchmark [RHS]
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management
+
+
+7. 
+Exhibit 6 For LAM, Scope 3 emissions exposures are driven from a broader set of sectors 0
+25 50 75 100. 
+Total Real Estate Financials Comm. Services Health Care Information Technology Consumer Discretionary Industrials Utilities Consumer Staples Energy Materials. 
+WACI (Scope 3) Attribution by Sector (%) 35.0 15.0 11.0 10.0 10.0 8.0 8.0 2.2 0.7 0.6 0.4 100. 
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management. 
+Exhibit 7 Scope 3 reporting is still in a nascent phase. For example, firms in the financial sector have yet to widely adopt PCAF and fully report the emissions embedded in investments and loan books.
+Sector WACI (Scope 3): LAM vs. MSCI ACWI (t CO2e / $M) 0
+1000 2000 3000 4000 5000. 
+MSCI ACWI LAM. 
+Financials Consumer Discretionary Energy Utilities Real Estate Comm. Services Industrials Materials Health Care Consumer Staples Information Technology. 
+Lack of reporting in the industry (%) -80 -60 -40 -20 0
+20 40 60 80. 
+Diff vs. Benchmark (% right side axis) *233%
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management
+
+
+8. 
+Exhibit 8 Stranded asset risk can be measured by sizing exposure to revenues linked to extractive activities as well as embedded emissions in investee companies’ proven fossil-based reserves. 
+Stranded Asset Risk (% of Overall LAM Portfolio Revenue) 0
+1 2
+3. 
+Percentage of portfolio revenue* from extractive activities 2020 2019 2018 2017 2016 2015 tCO2e (Embedded in Proven Reserves) Stranded Asset Risk (% of Overall LAM Portfolio Revenue) 0
+200,000,000 400,000,000 600,000,000 800,000,000 1,000,000,000 1,200,000,000. 
+Apportioned embedded emissions in portfolio** (tonnes CO2) 2020 2019 2018 2017 2016 2015. 
+As of December 2020 *Note portfolio coverage levels for 2015, 2016, 2017, 2018, 2019, and 2020 were 68%, 69%, 69%, 67%, 68%, and 67%, respectively.
+**Apportioned embedded emissions represent potential emissions from fossil reserves weighted adjusted by LAM’s ownership/lending exposure.
+Source: Trucost, Lazard Asset Management. 
+Exhibit 9 For climate engagement, LAM’s relevant investment professionals aim to focus on firms with the highest level of absolute emissions and where we have the potential to have more influence (e.g. higher ownership %)
+LAM’s Top 500 Holdings: Absolute Emissions vs. Exposure Scope 1+2+3 Emissions (t CO2e)
+Exposure (Weight %) 0.0 0.5 1.0 1.5 0
+100,000,000 200,000,000 300,000,000 400,000,000 500,000,000 600,000,000. 
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Trucost, Lazard Asset Management
+
+
+9. 
+Exhibit 10 This methodology is consistent with PCAF’s approach to “owned”/”attributed” emissions. According to the GHG Protocol, investment-related emissions fall under Scope 3—nearly half of our Scope 3 footprint is driven by just a handful of companies 0
+2,000,000 4,000,000 6,000,000 8,000,000 10,000,000 12,000,000 50% of Financed Emissions 70% of Financed Emissions (Net-Zero Engagement Focus)
+Scope 3 Financed Emissions (Unaudited Estimate)
+LAM Scope 3 Emissions Estimate (t CO2 e) ~10.6 Mt CO2e ~50 Companies ~22 Companies. 
+As of December 2020. 
+Note ~70% of LAM’s AUM is covered.
+Source: Sustainalytics, Lazard Asset Management. 
+Exhibit 11 Linking potential financial implications to the changing climate on physical assets is in very early stages and should be interpreted with caution. At an aggregate level, we find similar or lower risks within our portfolio versus the benchmark. However, we use this data to spot outliers and understand high-risk companies’ climate adaptation plans and/or awareness.
+Climate Change Physical Asset Risk: LAM Portfolio vs. MSCI ACWI in 2030 RCP 4.5 Scenario (Physical Asset Risk) 0.0 0.2 0.4 0.6 0.8 1.0. 
+MSCI ACWI LAM. 
+Sea Level Rise Flood Heat Wave Wildfire Cold Wave Water Stress Overall Physical Risk. 
+High Risk Low Risk. 
+Higher Risk vs. Benchmark Lower Risk vs. Benchmark (% Difference vs. Benchmark) -20 -15 -10 -5 0
+5 10 15 20. 
+Difference vs. Benchmark [RHS]
+As of December 2020. 
+Source: Trucost, Lazard Asset Management
+
+
+10. 
+Exhibit 12 ~34% of LAM AUM (relative to the covered universe) are on a 2 degree or below aligned pathway are on a 2°C aligned pathway – measured by an approach assessing historical and forecasted carbon intensity against the widely accepted Greenhouse Gas Emissions per unit of Value Added (GEVA) and Sector Decarbonization Approach (SDA) frameworks. Further, investee companies representing ~17% of AUM have partnered with the Science Based Targets initiative (SBTi) to set carbon reduction goals.
+Two Degree Alignment (%) 0
+25 50 75 100. 
+MSCI ACWI LAM. 
+Percentage of AUM on a 2°C degree aligned trajectory (relative to covered universe)* Percentage of AUM partnering with the Science Based Targets institution (SBTi) 17 34 33 21. 
+As of December 2020 *Note ~59% of LAM’s AUM and ~84% of the MSCI ACWI is covered by 2°C alignment analysis. 
+Source: Trucost, Lazard Asset Management. 
+Outlook. 
+There is broad scientific consensus on the dominant role of human activity in driving global warming. To reverse course, major changes are required from both the public and private sectors.
+As fiduciaries, we always focus on our clients’ best interests and how we can maximize long-term value. It is our belief that joining the Net Zero Asset Managers Initiative and making associated commitments is part of positioning our clients’ investments for the future based on our assessment of the sustainability of each company’s financial returns.
+We believe relative value and financial productivity will always remain critical components of LAM’s investment philosophy. However, one can’t understand the underlying drivers of those components without also understanding the scientific and political imperative to transform to a net-zero economy, the importance and nuance around the timing of the transformation, and the ability to anticipate how such factors will alter the trajectory for growth, profit, and terminal value for companies we look to invest in.
+
+
+This document is provided by Lazard Asset Management LLC or its affiliates (“Lazard”) for informational purposes only. Nothing herein constitutes investment advice or a recommendation relating to any security, commodity, derivative, investment management service, or investment product. Investments in securities, derivatives, and commodities involve risk, will fluctuate in price, and may result in losses. Certain assets held in Lazard’s investment portfolios, in particular alternative investment portfolios, can involve high degrees of risk and volatility when compared to other assets. Similarly, certain assets held in Lazard’s investment portfolios may trade in less liquid or efficient markets, which can affect investment performance. Past performance does not guarantee future results. This document is intended only for persons residing in jurisdictions where its distribution or availability is consistent with local laws and Lazard’s local regulatory authorizations. The Lazard entities that have issued this document are listed below, along with important limitations on their authorized activities. Australia: Issued by Lazard Asset Management Pacific Co., ABN 13 064 523 619, AFS License 238432, Level 39 Gateway, 1 Macquarie Place, Sydney NSW 2000, which is licensed by the Australian Securities and Investments Commission to carry on a financial services business. This document is intended for wholesale investors only. Canada: Issued by Lazard Asset Management (Canada) Inc., 30 Rockefeller Plaza, New York, NY 10112 and 130 King Street West, Suite 1800, Toronto, Ontario M5X 1E3, a registered portfolio manager providing services to non-individual permitted clients. Dubai: Issued and approved by Lazard Gulf Limited, Gate Village 1, Level 2, Dubai International Financial Centre, PO Box 506644, Dubai, United Arab Emirates. Registered in Dubai. International Financial Centre 0467. Authorised and regulated by the Dubai Financial Services Authority to deal with Professional Clients only. EU Member States: Issued by Lazard Asset Management (Deutschland) GmbH, Neue Mainzer Strasse 75, D-60311 Frankfurt am Main. Hong Kong: Issued by Lazard Asset Management (Hong Kong) Limited (AQZ743), One Harbour View Street, Central, Hong Kong. Lazard Asset Management (Hong Kong) Limited is a corporation licensed by the Hong Kong Securities and Futures Commission to conduct Type 1 (dealing in securities) and Type 4 (advising on securities) regulated activities only on behalf of “professional investors” as defined under the Hong Kong Securities and Futures Ordinance (Cap. 571 of the Laws of Hong Kong) and its subsidiary legislation. Korea: Issued by Lazard Korea Asset Management Co. Ltd., 10F Seoul Finance Center, 136 Sejong-daero, Jung-gu, Seoul, 100-768. People’s Republic of China: Issued by Lazard Asset Management. Lazard Asset Management does not carry out business in the P.R.C. and is not a licensed investment adviser with the China Securities Regulatory Commission or the China Banking Regulatory Commission. This document is for reference only and for intended recipients only. The information in this document does not constitute any specific investment advice on China capital markets or an offer of securities or investment, tax, legal or other advice or recommendation or, an offer to sell or an invitation to apply for any product or service of Lazard Asset Management. Singapore: Issued by Lazard Asset Management (Singapore) Pte. Ltd., 1 Raffles Place, #25-01 One Raffles Place Tower 1, Singapore 048616. Company Registration Number 201135005W, which provides services only to “institutional investors” or “accredited investors” as defined under the Securities and Futures Act, Chapter 289 of Singapore. Switzerland: Issued by Lazard Asset Management Schweiz AG, Usteristrasse 9, CH-8001 Zurich. United Kingdom: Issued or approved by Lazard Asset Management Ltd., 50 Stratton Street, London W1J 8LL. Registered in England Number 525667. Authorised and regulated by the Financial Conduct Authority (FCA), providing services only to persons classified as eligible counterparties or professional clients under the rules of the FCA. United States: Issued by Lazard Asset Management LLC, 30 Rockefeller Plaza, New York, NY 10112.
+Task Force on Climate-Related Financial Disclosures (TCFD) Report. 
+Notes 1 Source: World Resources Institute (WRI); National Oceanic and Atmospheric Administration 2 Source: Global Carbon Project; United Nations Environmental Programme (UNEP) 3 Source: International Renewable Energy Agency (IRENA), Lazard LCOE 4 Source: Business risk and the emergence of climate analytics. Fielder et al. Nature Climate Change. February 2021.
+Important Information. 
+Published on 5 May 2021.
+This content represents the views of the author(s), and its conclusions may vary from those held elsewhere within Lazard Asset Management. Lazard is committed to giving our investment professionals the autonomy to develop their own investment views, which are informed by a robust exchange of ideas throughout the firm.

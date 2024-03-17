@@ -1,0 +1,766 @@
+September 2020. 
+GETTING TO NET ZERO
+
+
+TOGETHER, LET’S SPEED UP THE ENERGY TRANSITION TO CREATE A CARBON-NEUTRAL SOCIETY BY 2050. 
+Foreword by Patrick Pouyanné, Chairman and Chief Executive Officer, Total. 
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Contents 09 Net Zero by 2050 10 Our Ambition 15 Scope 3: new objectives 17 An indicator to measure product carbon intensity 18 Acting on emissions 19 Energy efficiency 21 Target of zero routine flaring by 2030 22 Controlling methane emissions 25 Acting on products 26 Natural gas, biogas and hydrogen: allies of the energy transition 29 Electricity: building a world leader 32 Decarbonizing and saving liquid energies 34 Acting on demand 35 Mobility, transportation, industry: promoting less carbon-intensive energy 40 Investing in carbon sinks 41 De veloping carbon sinks 44 Mobilizing R&D for the energy transition 46 Shaping tomorrow’s energy 47 OGCI: Oil and Gas Companies pool their efforts 49 O n the front lines on carbon pricing 50 Industr y associations: reviewing to work better together 53 Appendices 01 Foreword by Patrick Pouyanné, Chairman and Chief Executive Officer, Total 08 Interview with Marie-Christine Coisne-Roquette, Lead Independent Director at Total 01
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 “It’s our job to meet growing energy needs while reducing carbon emissions.” - 60%
+Ambition for the reduction in the average carbon intensity indicator of energy products used by Total’s customers.
+Total took a major step forward in 2020 in its response to the climate challenge by setting a new ambition to get to net zero emissions for its global business by 2050, together with society. In this way, Total intends to contribute to the Paris Agreement’s carbon neutrality objective for the second half of the century.
+To get there, the Group has defined a number of interim milestones that are described in this report. Obviously, emissions from our operations (Scopes 1 and 2) are first on the list. Geographically, Europe is already on the road to carbon neutrality, and we are by its side. As for timing, short- and medium-term targets have been defined between now and 2050 concerning both the carbon intensity indicator for energy products sold and the absolute value of Scope 3 emissions linked to products used by our customers. Total is the first major to announce that emissions related to these products will decline in absolute value by 2030 thanks to changes in its energy product sales portfolio.
+The health crisis we are all currently facing has not shaken our convictions, for energy is a long-term industry and demand for energy will continue to grow. Estimates show that by 2050, some 10 billion people worldwide will need access to energy, an increase of around 50% from today. It’s our job to meet those growing needs while reducing carbon emissions. Combining these two objectives will require diversifying the Group’s offering towards lower carbon energies.
+The global energy mix will change in the drive towards a carbon-neutral society. The International Energy Agency’s Sustainable Development Scenario (SDS) and Total’s Rupture scenario, which hold the temperature rise to well below 2°C, both show that demand for oil will stabilize and then decline. The markets for low-carbon electricity and gases (natural gas, biogas and hydrogen), on the other hand, will see robust growth. Accordingly, we at Total are working proactively, to stay several steps ahead of the competition, to position the Group in these growing markets.
+Toward carbon neutrality. 
+The Paris Agreement calls for a carbon-neutral society by the second half of the century. Total’s ambition is to achieve carbon neutrality by 2050, together with society, for all its activities worldwide, from production to the energy products used by its customers. But we won’t be able to do that alone. We will need help from our customers, naturally, but also from governments and communities in our host countries, because States will have to implement policies that make carbon neutrality possible.
+
+The first part of this ambition is for Total to become carbon-neutral in its own GHG emissions, from its own production facilities (Scopes 1 and 2). We have control over these emissions and are responsible for them, so achieving carbon neutrality across these scopes is an obvious goal. We intend to lower our direct emissions by improving our energy efficiency, 4. 
+Less th 0
+an. 
+Mt CO2e. 
+Target 2025 GHG emissions (Scope 1+2) on operated oil and gas facilities.
+eliminating routine flaring, electrifying our processes and reducing methane emissions. To address the residual emissions, we are developing carbon sinks, such as nature-based solutions, by investing in forests, as well as carbon capture and storage. In our drive toward carbon neutrality, we have set an interim goal of reducing GHG emissions at our operated oil and gas facilities from 46 Mt CO2e in 2015 to less than 40 Mt CO2e by 2025. During that same period, Group production will have risen by nearly 50%.
+Next, our ambition for 2050 requires that we jointly achieve neutrality with our customers by working with them to reduce their direct emissions (Scope 1), which correspond to our indirect emissions (Scope 3). We do not have control over these indirect emissions. In energy, as with any commodity, demand typically drives supply, not the reverse. Total does not manufacture airplanes, cars or cement and cannot dictate whether a vehicle or aircraft will use gasoline, electricity or hydrogen. However, we can contribute actively to our customers’ choices and provide them with lower-carbon energy products, and, depending on changes in their consumption patterns, help them use less energy and choose energy sources with lower carbon intensity.
+Government incentives will play a critical role in supporting these efforts. Whenever a region of the world embarks on the path toward carbon neutrality, Total will be by their side.
+Europe has been a pioneer in this regard. Total is pledging to achieve carbon neutrality in Europe1 for all of its production and the energy products used by its customers (Scope 1+2+3) by 2050 or earlier. Europe accounts for some 60% of our Scope 3 emissions, so this is a major undertaking for Total. We are confident that Europe will adopt policies, regulations and a carbon price in line with its ambition, so that we can become carbon-neutral together. On the road to carbon neutrality in Europe by 2050, we have set an interim target in 2030 that calls for a 30% reduction in scope 3 emissions linked to the use of our products by our customers, in Europe compared to 2015.
+Lastly, at the global level, we will expand this carbon neutrality pledge to other regions when they adopt the same path as Europe, to ensure we become carbon-neutral together with society. And while we await those new regional commitments, we are moving ahead with our own global ambition to reduce the average carbon intensity of the energy products used by our customers by more than 60% by 2050, with interim steps of 15% by 2030 and 35% by 2040 (Scope 1+2+3). In addition, given the anticipated shift by our customers in Europe, we can already say that worldwide Scope 3 emissions will decline in absolute value by 2030.
+1. Refers here to the European Union, United Kingdom and Norway.
+Offshore wind turbines in the North Sea.
+03 02
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Key steps. 
+To fulfill this ambition, in Europe and elsewhere, Total must diversify its energy mix. In 2015, oil products accounted for 66% of our sales, gas 33% and electricity less than 1%. By 2019, our mix had already changed substantially, with oil products accounting for 55% of our sales, natural gas 40% and electricity 5%.
+To achieve a 15% reduction in the carbon intensity indicator for Group products by 2030, we see electricity, and particularly renewable power, surging to 15% of our sales versus 35% for oil products and 50% for natural gas.
+Total is therefore pursuing its efforts to become a major force in renewable energies. We have lifted our investment goal for gross renewable power generation capacity to 35 GW by 2025. Since 2015, Total has allocated more than 10% of its investments to renewables and electricity, more than any other major. That share will increase on average to more than 15% between 2021 and 2025 and to more than 20% between 2026 and 2030.
+To forge this broad energy Group, we are taking action on three fronts: our emissions, our products, and customer demand.
+Acting on emissions. 
+First, to reduce the Group’s emissions, we are continuing our campaign to make our industrial facilities more energy efficient on a lasting basis. This has translated into an improvement of more than 10% since 2010. For the 2018-2025 period, we are investing $450 million to maximize energy efficiency in the Refining & Chemicals segment, which accounts for 66% of Total’s energy consumption. In addition, routine flaring at upstream facilities has been cut by more than 80% since 2010.
+At the same time, we are reducing our methane emissions. If the integrated natural gas value chain is to fulfill its promise for the energy transition, it will need to strictly limit its emissions of methane, which has far greater warming potential than carbon dioxide. We have therefore made a commitment to maintain methane emissions at operated gas facilities close to zero, with a target of less than 0.1% of commercial gas produced. In addition, we have embarked on a second phase of the Oil & Gas Methane Partnership (OGMP), with a more ambitious methane reporting program that will extend gradually and include non-operated assets.
+To sustain this strong momentum in emissions reduction, we established a CO2 Task Force in 2019 that draws on Total’s full array of expertise. We also systematically post emissions data at the entrance to each industrial site, to raise awareness and motivate the workforce. Many small projects are contributing to lower emissions as well. A bottom-up review launched in 2020 to identify such projects across the Group revealed more than 500, some in the analysis stage and others already in execution.
+Acting on products. 
+Total is gradually reducing the average carbon content of its mix of energy products. To that end, we are taking decisive steps to ensure that gas and renewable energies figure more prominently.
+We are expanding our presence along the entire gas value chain, notably in LNG, the market experiencing the strongest growth (10% annually between 2015 and 2019) and in which we rank second worldwide. The Group is strengthening its production capacity with two major projects – Arctic LNG 2 in Russia and Mozambique LNG – while developing new markets thanks to regasification plants such as Dhamra in India to facilitate access to gas and promote the switch from coal to gas for power generation, thereby significantly reducing CO2 emissions.
+This growth in the natural gas chain will be accompanied by the incorporation of an increasing proportion of biogas or hydrogen. Total supports minimum incorporation rates for blending these “green” energy sources into gas, similar to the rules for biofuels. In 2020, Total created a new dedicated business unit to accelerate its growth in low-carbon hydrogen. We are continuing to open hydrogen filling stations in Germany (83 to date) and are now welcoming customers to our first station in France. In addition, we are considering a project to produce green hydrogen at the La Mède biorefinery in France via electrolysis powered by solar farms.
+Total is also pursuing its integrated expansion along the renewable energy value chain. The Group’s gross renewable generation capacity will have more than doubled in one year to 6,500 MW at end-2020 from 3,000 MW in 2019. This growth reflects an acceleration in new projects in 2020, with, for example, more than 5,000 MW of wind power in France, the United Kingdom and South Korea; more than 2,000 MW of solar assets in operation in India; more than 5,000 MW of solar projects in Spain and a giant 800 MW solar farm in Qatar. At the other end of the value chain, the Group has developed its marketing in France, Spain, Belgium and United Kingdom, with a portfolio of almost nine million gas and electricity customers in 2020.
+Acting on demand. 
+To support our customers through the energy transition, we will actively pursue a marketing strategy focused on the lowest-carbon products and scale back our offering for certain uses where competitive low-carbon alternatives are available.
+For example, Total will no longer sell fuel oil for power generation by 2025. Customers in France are being encouraged to switch from home heating oil to electricity, natural gas or wood through a special program.
+“Total continues to expand across the entire renewables value chain.” 35 GW. 
+Target capacity for renewable electricity generation by 2025.
+N°
+Tota l r2 anks second on the world LNG market.
+
+Hydrogen filling station in Germany.
+05 04
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Concerning electric mobility, we have announced the creation of a joint venture with Groupe PSA to develop electric vehicle battery manufacturing, leveraging the expertise of our Saft affiliate. The Group has also won a concession for 20,000 new EV charging stations in the greater Amsterdam area.
+In shipping, Total has signed an agreement with CMA CGM to encourage the use of LNG bunker fuel in place of fuel oil.
+Developing carbon sinks. 
+In addition to the actions being taken on these three fronts, Total is investing in two carbon sink solutions: natural carbon sinks, such as reforestation, and carbon capture and storage (CCS), as well as in R&D programs to develop negative emissions technologies like direct air capture.
+A new Nature-Based Solutions (NBS) business unit has been created with an annual budget of $100 million as of 2020 and targets sustainable storage capacity of 5 Mt CO2 per year by 2030. An initial agroforestry project in South America is about to be launched and several additional operations are being negotiated with our partners. Forest restoration and conservation will sequester tens of millions of tons of carbon over the next 30 years. These projects, located in both tropical and temperate regions, systematically include the value chains for local farm and forest production, in cooperation with local communities, to reduce the causes of deforestation and changing land use at the source.
+In the field of CCS, Total joined forces with Equinor and Shell to initiate the Northern Lights project in Norway. This is our first major project aimed at decarbonizing industries that have few alternatives to fossil energy, such as steel and cement manufacturing. The initial phase includes capacity to store up to 1.5 Mt CO2 per year. We are also studying other projects, notably in the Netherlands to make the most of depleted offshore fields that we operate.
+Collective momentum. 
+This momentum can only be sustained if it is shared. That’s why Total is forming partnerships with governments and consumers and championing policies that advance the cause of carbon neutrality, among them carbon pricing. This is a major tool for promoting the least carbon-intensive technologies. We must, of course, ensure that the carbon price trajectory is acceptable to customers, individuals and businesses alike. For that reason, Total supports a proposal by the Climate Leadership Council (of which Total is a founding member) to establish a carbon dividend, which creates an incentive for consumers while redistributing resources to those with the lowest incomes. Moreover, for each of our investments, we apply a carbon price of $40 a ton and a sensitivity analysis of $100 a ton as from 2030.
+Lastly, Total is a member of numerous industry associations. Each year, we review the main associations’ positions on climate change to confirm they coincide with our own. The vast majority of these organizations hold positions that are aligned with Total’s, but in some cases, there remain points of concern or even diverging views. This year, Total chose to withdraw from one organization and to engage in frank dialogue with two others to promote its own views as a member.
+Actions speak louder than words. 
+Our ambition for 2050 is credible only if we show we are ready to lead the way – and that’s just what we have done: no other energy major has decarbonized its energy mix as much as Total. Between 2015 and 2019, the Group reduced the carbon intensity of the energy products it sells by 6%. This performance reflects substantial investments, exceeding $20 billion, that have allowed Total to achieve a nearly eightfold increase in sales of electricity, while sales of LNG have more than tripled. And that trend is continuing: we will have nearly nine million customers for gas and electricity in Europe as of 2020. Clearly, actions speak louder than words.
+Total is on the move and changing as it carries out its mission to deliver energy that is both cleaner and more reliable. In our projections for 2030, we expect to be supplying a third more energy than in 2015, but with fewer associated emissions (Scope 1+2+3), as we are the first energy major to pledge that Scope 3 emissions linked to products used by our customers will decline in absolute value by 2030.
+We firmly believe this low-carbon strategy offers a strong competitive advantage, because it creates value for all of our stakeholders: customers, employees, shareholders and the community at large. Total’s energy transition is fundamentally aligning the interests of all its stakeholders.
+At Total, we’re not just paying lip service to carbon neutrality. It’s a path to which we are fully committed, as reflected in our concrete investments, the diversification of our businesses and the development of new expertise.
+“Our low-carbon strategy creates value for all of our stakeholders.” 40 $/t. 
+The price of carbon that Total factors into its investments.
+5 Mt CO2/ year. 
+Target for long-term storage in natural carbon sinks by 2030.
+Total SunPower solar power plant, Prieska, South Africa.
+07 06
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 “Total has reached a new milestone”
+Marie-Christine Coisne-Roquette, chairwoman and CEO of Sonepar, Lead Independent Director at Total, chairs the Governance & Ethics Committee.
+Lead Independent Director at Total, Marie-Christine Coisne-Roquette chairs the Governance & Ethics Committee.
+How do you view Total’s new climate ambition?
+This new ambition of carbon neutrality by 2050, announced on May 5, 2020, commits Total to major changes over the next thirty years. For the Board of Directors, this is an exciting challenge: we’ve reached a new milestone. In the face of global warming, Total has developed a policy that has become both broader and more clearly defined over time. This policy is now included in a holistic framework that encompasses all of Total’s different aspects and businesses.
+How does the Group plan to reconcile business growth with the energy transition?
+The world has a growing need for energy, and Total is working to address that need in the best way possible. The Group is tackling the energy transition with the long-term outlook that typifies its operations and a culture of stakeholder dialogue. Because Total knows that all players need to be on deck for the energy transition, it is rallying around it to encourage shifts in demand, as well as changes in the regulatory environment.
+How is the Board of Directors supporting Total in addressing climate change?
+The Board reviews projects proposed by the Executive Committee. It pays close attention to climate issues, monitors industry trends and challenges the strategies proposed by Total’s senior management. On their end, these executives keep us closely involved in decisions about low-carbon businesses. For example, the Executive Committee decided to consult the Board about the recent plan to invest in power distribution in Spain.
+Net Zero by 2050. 
+Total’s ambition is to get to net-zero emissions by 2050, together with society, for its global business across its production and energy products used by its customers.
+We’re fortunate to have people with deep climate expertise among our Board members. They inform our thinking about the pace of the transformation under way and its consistency with the various scenarios for growth in demand.
+What changes have you observed since joining the Board?
+I’ve been a member of the Board since 2011, the year Total acquired a stake in SunPower, and I’ve seen how climate has come to feature more prominently in the issues that management brings before the Board. The Paris Agreement in 2015 was a turning point. Rather than go on the defensive, Total chose a proactive strategy by seeking to play a role in the transition. That approach, led by Patrick Pouyanné, has ended up driving a transformation in our management and strategy.
+09 08
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Total supports the aim of the Paris Agreement, and its strategy aims to be consistent with these goals: Total’s strategy is built around the anticipated market evolutions stemming from the Paris Agreement goals and aims at capturing business opportunities linked to the decarbonization of energy. This strategy is resilient with long-term hydrocarbon prices aligned on a scenario well below 2°. And it is yielding concrete results: Total has reduced the average carbon intensity of the energy products it sells by 6% since 2015, a record that is unmatched by its industry peers.
+On the road to carbon neutrality Total shares the ambition to get to Net Zero emissions by 2050, together with society, for its global business across its production to the energy products used by its customers (Scope 1+2+3). To help the world and Total to get to Net Zero, Total will develop an active advocacy for policies that support Net Zero, including carbon pricing, and will mobilize its capabilities not only to deliver its own ambitions but also to help countries and corporations get to Net Zero as well. Total will work together with other businesses to enable decarbonization of energy use.
+To achieve that ambition, where Governments in a given region commit to take policies and regulations aiming at Net Zero, Total will commit to achieve Net Zero emissions by 2050 across all its production and energy products used by its customers in such a region. As the EU has set the target to achieve Net Zero emissions by 2050 and thereby lead the way for other regions to become carbon neutral over time, Total takes that commitment for all its businesses in Europe1.
+To achieve carbon neutrality, Total plans to review its emission reduction objectives based on progress in public policies, low-carbon technologies and actions taken by other players, including its customers, with its active support.
+Mobilizing sites to reduce their emissions The primary challenge is to reduce emissions from Total’s operations, a goal that in particular involves mobilizing each site’s operational teams. In 2020, more than 500 initiatives were identified for cutting emissions at each site, from improving energy efficiency to adopting new operating principles, optimizing processes or making changes to facilities.
+Total has set an interim objective of reducing Scope 1 (direct emissions) and Scope 2 (indirect emissions from purchased energy) GHG emissions at its operated oil and gas facilities from 46 Mt of CO2e in 2015 to less than 40 Mt of CO2e.
+Furthermore, the Group is aiming for carbon neutrality for all of its electricity purchases at. 
+Our ambition. 
+On May 5, 2020, Total announced its ambition to reach carbon neutrality for all of its operations, from production to the energy products used by its customers (Scope 1+2+3), by 2050 together with society. This ambition is backed by an integrated strategy across the gas, electricity and liquid fuels value chain and the development of carbon sinks.
+L40 ess than e. 
+Target 2025 GHG emissions ( Mt. 
+Scope 1+2) CO2 on operated oil and gas facilities.
+1. “Europe” refers here to the European Union, Norway and the United Kingdom.
+THREE MAJOR STEPS TO GET TO NET ZERO 1. Net Zero across Total’s worldwide operations by 2050 or sooner (Scope 1+2).
+2. Net Zero across all its production and energy products used by its customers in Europe 1 by 2050 or sooner (Scope 1+2+3).
+3. 60% or more reduction in the average carbon intensity of energy products used worldwide by Total customers by 2050, with intermediate steps of 15% by 2030 and 35% by 2040 (Scope 1+2+3).
+11 10
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 operated sites in Europe by 2025. All of its sites’ electricity needs – including those of its refineries – would therefore be met by renewable power generated through Total’s regional capacity.
+Moving towards lower carbon energy products Total has the ambition to reduce the average carbon intensity of the energy products used by its customers. That decline will depend on changes in consumption patterns and public policies deployed to help consumers transition. In the near term, Total is aiming for a reduction of at least 15% between 2015 – the date of the Paris Agreement – and 2030. Those efforts will be maintained and even accelerated over the longer term, to yield reductions in average carbon intensity of 35% by 2040 and 60% or more by 2050.
+For that purpose, the mix of energy products sold by the Group will be changing. In 2015, the sales mix consisted overwhelmingly of fossil fuel products, of which two thirds were oil products and one third were gas products. By 2030, however, the sales mix is projected to be 15% electricity, 50% gas products and about 35% oil products (with biofuels comprising 15% of the latter).
+Allocating investments Every significant capital expenditure, including Total’s investments in exploration, acquisition or development of oil and gas resources and in other forms of energy and technology, is subject to review in light of the goals laid out in the Paris Agreement. The Group will prepare an annual report -1. 
+Total ambition is to reduce by 15% % the average carbon intensity of5 energy products used by its customers between 2015 and 2030.
+50. 
+Ov er emissions-reduction initiatives identified in the field in 200 20.
+on the criteria it uses, including its price assumptions for oil, gas and carbon, and on progress made during the year.
+Total relies on long-term oil and gas price projections that are compatible with the Paris Agreement objectives, using a price trajectory that converges with the IEA SDS. Even if carbon prices are not currently in force in some of its host countries, Total applies a carbon price of $40 a ton for all of its investment decisions, and conducts a sensitivity. 
+Solar panels on a roof, United Arab Emirates.
+analysis with a projected carbon price of $100 a ton beginning in 2030.
+In its upstream businesses, Total gives preference to value creation over volumes. In renewable energies, Total is pursuing its growth in order to become a major international force. The Group currently allocates more than 10% of its investment budget to renewables and electricity, more than any other major. It will increase that percentage to over 20% by 2030.
+13 12
+
+
+0 10 20 30 40 50 60 1968 1978 1988 1998 2008 2018. 
+Global GHG emissions (Gt CO2e/year) 
+27% 22% 14% 10% 24% 55 Gt CO2e in 2018 25 Gt CO2e in 1968. 
+CO2 76% 3%
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+GLOBAL ANTHROPOGENIC GHG EMISSIONS. 
+Based on AR4 GWP 1 coef in particular GWP100CH4 = 25. 
+Methane and nitrous oxide CO2 from LULUCF 2. 
+CO2 from cement and flaring. 
+CO2 from gas CO2 from oil CO2 from coal. 
+Mboe/d 2018 2040 2050 350 300 250 200 150 100 50 0 TEO Rupture TEO Rupture IEA SDS IEA. 
+GLOBAL PRIMARY ENERGY DEMAND. 
+Gas Oil Coal. 
+Nuclear Renewables. 
+Sources: IEA World Energy Outlook 2019, Total Energy Outlook (TEO).
+According to the IPCC scenarios, if humanity is to limit the rise in temperatures from pre-industrial times to well below 2°C, it must achieve carbon neutrality between 2050 and 2070.
+To define an energy mix that would meet the world’s energy needs while reducing emissions, Total analyzed the scenarios prepared by the IEA up through 2040 and developed its own long-term scenarios to 2050 in its Total Energy Outlook. Those projections highlight some critical challenges and identify possible options for modifying the world energy mix.
+Total’s Rupture scenario, compatible with a temperature rise well below 2°C, assumes major technological, economic and political breakthroughs. The scenario presents slow growth in energy demand in 2050 and marked changes in the energy mix: renewables will have more than tripled and gas will have increased, while coal has become residual and oil will have sharply declined.
+The scenarios that underpin Total’s strategy. 
+Scope 3: new objectives. 
+Total has control over emissions related to its operations (Scopes 1 and 2), which means it can take the necessary steps to reduce them. Emissions related to the use of Total’s products by customers (Scope 3), by contrast, will depend on many other factors, and consumption choices by our customers in particular.
+The GHG Protocol 1 defines three categories, or Scopes, of GHG emissions by businesses: • Scope 1, which includes all emissions directly tied to a company’s operations.
+• Scope 2, which measures indirect emissions connected with a third party’s production of electric or heat energy that the company uses for its operations.
+• Scope 3, which includes other indirect emissions.
+Under Scope 3, Total reports, among others, emissions connected with customers’ end use of the products it sells, i.e. combustion to produce energy.
+A few examples for understanding a broad energy company’s Scope 3 emissions Between 85% and 90% of emissions from oil products are generated during their use (Scope 3), while just 10% to 15% are generated during production (Scopes 1 and 2).
+GHG emissions have more than doubled in the past 50 years and fossil fuel energy consumption accounts for more than 80% of global CO2 emissions and around two-thirds of GHG emissions.
+To illustrate the difference between Scopes 1, 2 and 3 (which is explained in the section that follows), note that the GHG emissions of 55 Gt of CO2e shown on this graphic correspond to Scope 1 emissions by businesses and individual emissions, i.e., total direct emissions. Indirect emissions categorized as Scope 2 or 3 emissions are not included.
+1. Global Warming Potential. 2. Land use, land-use change, and forestry. Source: Global Carbon Project; IPCC 5th report.
+1. The Greenhouse Gas Protocol was established in 1997 as part of a partnership between the World Resources Institute and the World Business Council for Sustainable Development.
+Indirect scope 3 emissions accounted for in relation to a company that supplies energy products correspond to the direct (Scope 1) emissions of the consumer of those products. For example, emissions tied to kerosene sold by Total are included first in the Scope 1 emissions of the airline that uses that kerosene, but are also accounted for in Total’s Scope 3 indirect emissions.
+Scope 3 emissions are not additive: several other players in the value chain will include the same emissions in their Scope 3 accounting as well. In our example, the emissions connected with an airplane flight are counted directly in the airline’s Scope 1 emissions, but also indirectly in the Scope 3 emissions for the aircraft manufacturer, the engine manufacturer, the fuel supplier and the airport.
+The cement industry offers another example. Limestone generates large quantities of CO2 when burned in kilns at high temperatures. This chemical reaction accounts for more than 60% of the GHG emissions generated to produce a ton of cement; the remainder derives from the combustion used to heat the kilns. Those emissions are included in. 
+Ov85 er of emissions from oil products arise% during their use (Scope 3).
+15 14
+
+
+30 100 2015 2019 2030 2040 2050. 
+Actual - 6% > - 15% - 35%
+Ambition vs. 2015 - 60% or more. 
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 the cement manufacturer’s Scope 1 direct emissions, but they are also recorded as Scope 3 indirect emissions for the cement kiln manufacturer, the cement plant builder and the energy provider. For the energy provider, only combustion-related emissions are included, i.e., four tons of CO2 for Total out of the 11 tons of CO2 emitted by the cement manufacturer.
+When calculating overall GHG emissions from human activity, only direct (Scope 1) emissions are considered; indirect emissions (Scopes 2 and 3) are not included.
+Scope 3 related to products used by Total’s clients - targets for 2030 For a broad energy company like Total, Scope 3 is valuable for estimating emissions associated with the end use of products sold (Category 11 of Scope 3 under the GHG Protocol). Emissions in that category are calculated on the basis of sales of finished products immediately prior to their end use, i.e., combustion to obtain energy. Stoichiometric emissions factors (oxidation of molecules into carbon dioxide) are then applied to those sales to produce an emissions factor 1.
+The volumes included in the calculation include liquid fuels sold by Marketing & Services and Refining 2 (oil products, biofuels), LNG sales from Total’s share of production and iGRP’s commercial sales of natural gas.
+Europe accounts for around 60% of Total’s Scope 3 emissions. They are primarily related to sale of petroleum products (1.5M b/d in 2019) and the marketing of gas products (10B cu.m/y in 2019).
+For those Scope 3 emissions, the Group is setting new 2030 targets: • In Europe, a 30% reduction in absolute emissions from 2015 levels – a major step toward neutrality by 2050.
+• Worldwide, a reduction in absolute emissions from 2015 levels, despite the anticipated growth in customer energy demand over the decade to come.
+Total’s carbon intensity indicator estimates the overall emissions associated with the energy products used by its customers. The indicator measures the average GHG emissions of these products per unit of energy across their entire life-cycle, from the time they are produced to their end use.
+Total calculates the indicator by dividing:
+The following numerator: • Emissions related to the production and processing of the energy products used by Total customers, calculated on the basis of average emission rates.
+• Emissions related to customers’ use of these energy products, calculated by applying stoichiometric emissions factors per product to obtain a quantity of emissions. Non-fuel products (asphalt and bitumen, lubricants, plastics, etc.) are not taken into account.
+• Total’s negative emissions stored through CCS and in natural carbon sinks.
+By the following denominator: • The quantity of energy sold. Average load factor and efficiency are used to obtain equivalents for electricity generated from fossil fuels and other sources.
+In accordance with IPIECA recommendations, when the nature of a value chain within an integrated company requires trade-offs, the maximum flows from that value chain are used for calculation purposes.
+This carbon intensity indicator declined by 6% between 2015 and 2019. That is an industry record, attributable to growth in natural gas and renewable energies and the actions Total has taken to improve energy efficiency in its business segments.
+An indicator to measure product carbon intensity. 
+Total has developed a carbon intensity indicator that evaluates the average GHG emissions for the energy products used by its customers. The Group can use the indicator to track customer demand for lower-carbon products and to evaluate the pace of the energy transition.
+Source: the French civil aviation authority (DGAC) and Aéroports de Paris, for a flight with 200 passengers. Source: SETIS, application for 18 tons of cement.
+AIRLINE 22 tCO2. 
+CEMENT MANUFACTURER 11 tCO2. 
+AIRCRAFT MANUFACTURER 22 tCO2. 
+CEMENT PLANT BUILDER 11 tCO2. 
+CEMENT KILN MANUFACTURER 11 tCO2. 
+ENGINE MANUFACTURER 22 tCO2. 
+TOTAL 22 tCO2. 
+AIRPORT 2 tCO2*
+TOTAL 4 tCO2* 
+Scope 1. 
+Scope 3 (not additive)
+Supply of goods and services. 
+AVIATION INDUSTRY. 
+Example: Kerosene-Related Emissions for a 1,000-km Flight. 
+CEMENT INDUSTRY. 
+Example: Emissions Connected With the Construction of a 100-sq.m House 1. The emission factors used are taken from a CDP Technical Note: Guidance methodology for estimation of Scope 3 category 11 emissions for oil and gas companies. 2. Wholesaling volumes.
+NET CARBON INTENSITY OF PRODUCTS SOLD. 
+Base 100 in 2015 (71 gCO2e/MJ) 400 200 2015 2030. 
+Europe Rest of world -30%
+SCOPE 3 EMISSIONS (MT CO2e) * Emissions connected with takeoff and landing. * Emissions related to the combustion.
+17 16
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+KEY FIGURES. 
+Total has set a target of improving energy efficiency at its industrial facilities by 1% a year. In 2011, it introduced the Group Energy Efficiency Index (GEEI) to provide a snapshot of the Group’s overall progress to date. The GEEI measures net primary energy consumption relative to Total’s level of activity. Since 2010, Total has improved energy efficiency at its operated facilities by more than 10%, and is continuing its efforts to maintain that pace.
+Total has invested nearly $450 million to maximize energy efficiency in the Refining & Chemicals business segment, which accounts for 66% of the Group’s energy consumption. Spanning almost 250 projects and expected to last seven years (2018-2025), that energy performance plan includes a wide array of initiatives that include measuring and tracking energy efficiency, sharing best practices, deploying technology to upgrade operations, improving heat integration, designing efficient facilities, installing energy management systems and cultivating an energy efficiency mindset.
+For example, at Total’s Normandy complex in Gonfreville l’Orcher, France, the Group has equipped its steam cracking furnaces with 170 wireless sensors that communicate via the low-power LoRa protocol. The resulting gains in furnace efficiency have yielded energy savings. In addition, 30 temperature sensors on the site’s buildings track the efficiency of the air conditioning system.
+By the end of 2020, all of Total’s operated sites that consume more than 50,000 tons of oil equivalent per year are projected to have an energy management system that can be audited in accordance with a standard such as ISO 50001. The standard sets out a roadmap for devising policies to enhance energy efficiency, with a particular focus on data management to ensure continuous improvement. All of Total’s sites in France are now ISO 50001-certified.
+en1. 
+More 0 than %
+ergy efficiency improvement since 2010 on our operated sites $450 million in investments in Refining & Chemicals over seven years, 250 projects. 
+Jubail refinery, Saudi Arabia.
+Energy efficiency. 
+Thanks to technological enhancements and innovation, backed by an increasingly climate-minded corporate culture, Total is making its operated sites more energy-efficient.
+Acting on emissions. 
+Cutting GHG emissions generated by the Group’s operations is the first step toward carbon neutrality. Total is aiming to reduce its direct emissions by 2050, by improving energy efficiency, eliminating routine flaring, electrifying its processes and continuing efforts to reduce methane emissions from oil and gas production.
+19 18
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 10 of Total’s electricity needs in Eur0 ope cover% ed by renewable energies by 2025.
+COVERAGE OF TOTAL’S OPERATED SITES ELECTRICITY NEEDS IN EUROPE BY RENEWABLE POWER. 
+The CO2 Fighters Squad is a cross-functional Total project located within GRP. Combining technical expertise and strong soft skills, the team works across Total to help its businesses fulfill their emissions reduction goals. The Squad is tasked with accelerating carbon reduction initiatives at each site, creating synergies among Total organizations and encouraging the emergence of new low-carbon solutions. To that end, it performs diagnostic analyses and offers consulting services to Total sites, conducts technical feasibility studies and builds business cases, and provides support for implementing solutions.
+The Squad’s toolbox includes Total’s full complement of low-carbon solutions, including those developed at GRP, as well as the sustainable mobility solutions developed by Marketing & Services.
+The Group is currently retrofitting its existing sites in a variety of ways to limit its reliance on flaring of any kind.
+Reduction of one third in Nigeria over five years In Nigeria, flaring has been reduced by one third in just five years, between 2014 and 2019, largely by reducing routing flaring by 70%. Total now aims to eliminate routine flaring in Nigeria completely by 2025, and to reduce all types of flaring by 80% over the same time period. Those goals appear within reach, given the success of new practices introduced at the Ofon field in the OML 102 block off the Nigerian coast.
+Phasing out routine flaring – a major step toward reducing direct GHG emissions – has been a Total priority since 2000, and the Group has vowed to refrain from the practice on all new projects. Consistent with that commitment, in 2014 Total became the first company to join the World Bank in launching the “Zero Routine Flaring by 2030” project. Today, that initiative brings together a number of oil and gas companies, producing countries and international institutions that share a common ambition to end routine flaring of associated gas in production activities by 2030. In 2017, Total met its interim objective of reducing routine flaring by 80% between 2010 and 2020.
+SPOTLIGHT: THREE TYPES OF FLARING. 
+Routine flaring, as defined by the Global Gas Flaring Reduction Partnership (part of the World Bank’s Zero Routine Flaring Initiative), refers to flaring during normal oil production operations in the absence of adequate geological conditions permitting the reinjection, on-site utilization or commercialization of produced gas. Routine flaring differs from occasional or intermittent flaring and does not include safety flaring, in which associated gas is flared to ensure that operations are conducted safely at production sites (emergency shutdown, safety-related tests, etc.).
+Egina FPSO. 
+The associated gas is now compressed and exported to the onshore Nigeria LNG plant instead of being flared. A similar strategy of exporting associated gas and ending routine flaring was adopted for the Egina field.
+Further initiatives are underway at other Nigerian fields such as those on block OML 58, where production has been optimized to eliminate the need for occasional flaring during compressor shutdowns.
+CO2 Fighters Squad: speeding the transition. 
+Target of zero routine flaring by 2030. 
+Total has long been committed to reducing routine flaring, and has eliminated it in the design of all its new projects. The Group has pledged to discontinue routine flaring altogether at its operated facilities by 2030.
+Total has identified more than 500 potential projects that could play a role in decarbonizing the Group’s operations. They range from installing renewable farms at the Group’s production sites to promoting hybrid shipping vessels, supplying facilities with biofuel and capturing and storing carbon emitted from Total refineries.
+Moreover, the Group expects to meet all of its electricity needs in Europe – totaling almost 6 TWh at its industrial and commercial sites and offices – with renewable power by 2025. To do that, Total will draw on several solar farms in Spain it acquired in 2020; they will generate almost 10 TWh by 2025, with the surplus energy being sold to third parties. Scope 2 from operated assets will be reduced by close to 2 Mt CO2 per year.
+Germany. 
+France. 
+Netherlands. 
+Belgium. 
+Spain 21 20
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+For more than three decades, Total has been taking steps to reduce and disclose its methane emissions using a detailed methodology 3. Its performance in that regard is among the industry’s best: the Group has cut its emissions by 45% since 2010 and committed in 2020 to maintaining methane emissions at operated gas facilities close to zero, with a target of less than 0.1% of commercial gas produced.
+Total’s methane emissions stood at 68 kt in 2019, 98% of which came from upstream operations. This represents a methane emissions intensity of around 0.2% of commercial gas produced at all operated upstream oil and gas installations. The goal is to maintain that methane emissions intensity at less than 0.2%.
+To do that, Total is addressing the primary sources of methane emissions: flaring (see previous pages), venting and fugitive emissions.
+For new projects, the Group follows design standards intended to ensure near-zero methane emissions. They include eliminating the use of instrument gas and continuous cold venting and systematically. 
+Programme, the European Commission and the Environmental Defense Fund. That research will help the Group focus investment where it can be most effective.
+In 2017, Total also became a signatory to the Methane Guiding Principles on reducing methane emissions across the natural gas value chain.
+Total supports regulatory initiatives aimed at reducing methane emissions, and in late 2019 the Group publicly voiced its opposition to the rollback of methane regulations in the United States.
+To detect fugitive emissions, Total uses ground-based infrared cameras to measure leakage on a regular basis. Those efforts will be supplemented with satellite-based or drone-mounted aerial devices as well as continuous measurement devices made possible by advances in technology. AUSEA 4 drones, developed in partnership with France’s National Center for Scientific Research (CNRS), use miniaturized sensors to quantify emissions, estimate their dispersion pattern and locate their source. They have been tested at Total’s industrial sites and also at the Group’s TADI 5 facility, located at a former plant site in Lacq, in southwestern France. There, Total tests and evaluates innovative technologies for detecting and measuring gas leaks.
+Taking collective action Total is involved in international partnerships and industry initiatives to improve and widely disseminate knowledge about methane emissions, as well as methods to detect, measure and reduce them. In particular, Total has signed onto a new phase with the Oil & Gas Methane Partnership (see sidebar) for a more extensive methane reporting framework.
+As a member of the Oil and Gas Climate Initiative (OGCI), which has made reducing methane emissions a priority, Total is providing technical and financial support to international research efforts such as the Methane Science Studies jointly funded by the United Nations Environment 1. Fourth IPCC report, which the UNFCCC recommends for use in national GHG inventories until 2024. 2. Saunois et al, The Global Methane Budget 2000-2017. 3. Methodology presented to the Society of Petroleum Engineers (SPE), document 179288-MS: How to Establish a Methane Reporting in Line with the UNEP-CCAC-OGMP. 4. Airborne Ultra-light Spectrometer for Environmental Application. 5. Transverse Anomaly Detection Infrastructure.
+SPOTLIGHT: ELGIN-FRANKLIN. 
+In 2018, Total embarked on an analysis of the sources of atmospheric methane release at its facilities (cold or process venting). In the course of that inventory, Elgin-Franklin was singled out as a site with significant emissions. The Elgin-Franklin gas and condensate field, which came on stream in 2001, is located in the British North Sea, approximately 240 kilometers east of Aberdeen, in Scotland.
+Vented emissions traced to the glycol regeneration unit totaled 3,600 tons of methane annually. Following an extensive study, engineers identified three solutions for cutting the site’s emissions. Their choice was to reroute the vent, a move that will prevent about 74 kt of CO2e annually.
+installing closed flares, as Total has already done on several projects: CLOV in Angola, Moho Nord in the Republic of the Congo and Egina in Nigeria.
+Total has also launched a major campaign to reduce emissions associated with venting (see sidebar) and is phasing out the use of instrument gas at all of its existing facilities.
+<
+Close t0 o zero metha.
+at ne i 1 ntensity % operated gas facilities.
+<
+Target0 methane int.
+ensit2 y at operat% ed oil and gas facilities.
+OGMP 2.0: ADOPTING A NEW REPORTING SCOPE. 
+Total participates in the Oil & Gas Methane Partnership (OGMP) of the United Nations Environment Programme, which brings together private businesses, governments and NGOs. The initiative promotes efforts to measure, reduce and report methane emissions.
+In 2020, Total joined OGMP 2.0, a new phase of the partnership aimed at defining a more ambitious reporting framework, expanded to the entire gas value chain and non-operated scope. That expanded framework includes itemized emissions by facility, reporting of inventory methodologies, the deployment of aerial measurement campaigns and the definition of target reductions for operated activities.
+Total’s membership in this new partnership is a tangible reflection of the Group’s methane strategy and its commitment to sharing best industry practices.
+The Elgin-Franklin Platform in the North Sea.
+Controlling methane emissions. 
+Methane is a potent GHG with a global warming potential at least 25 times greater than that of carbon dioxide over 100 years 1. Methane emissions are responsible for nearly one quarter of current global warming 2. Rapid reductions in those emissions are vital to ensure that natural gas can continue to play a key role in the energy transition.
+23 22
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Acting on products. 
+If the world is to meet the goals set out in the Paris Agreement, its energy mix will need to change. Total is building that change into its strategy, by expanding specifically in gases (natural gas, biogas and hydrogen) and electricity, primarily generated from renewable resources. When it comes to liquid fuels, the Group is solidifying its role in biofuels and concentrating on oil investments with a low breakeven point.
+Combustion Fugitive emissions Process venting Cold venting Flaring 2010 2015 2019 2025 66 kt CH4 150 100 50 0
+93 120 -45%
+Upstream oil and gas activities Upstream gas activities. 
+TOTAL’S SCOPE 1 EMISSIONS IN 2019. 
+Operated scope. 
+EMISSIONS SOURCES. 
+COMPARISON OF METHANE EMISSIONS INTENSITY. 
+Operated scope. 
+Total’s methane emissions in 2019 across its operated scope: 68 kt of CH4, of which 98% were generated by upstream operations and 2% were attributable to Refining & Chemicals.
+Upstream methane emissions declined by 45% between 2010 and 2019. The Group anticipates that this downtrend will continue, thanks primarily to projects to reduce flaring and venting.
+In 2019, methane emissions were caused by: • 34%: incomplete combustion of gases flared, estimated on a standardized basis at 2% (flaring) • 28%: occasional or continuous gas venting at selected facilities (cold venting) • 20%: certain units and equipment, including water treatment, oil and gas loading and unloading, glycol dehydration and gas-powered pneumatic devices (process venting) • 11%: leaks from valves, flanges and couplings (fugitive emissions)
+Comparison of Total’s methane emissions intensity in its upstream operated activities with the intensity levels reported by the EPA, the IEA, (World Energy Outlook 2017) and “Assessment of Methane Emissions from the U.S. Oil and Gas Supply Chain,” published in 2018 by Alvarez et al.
+EPA 2015. 
+IEA 2017. 
+Total 2019. 
+Alvarez and al. 2018. 
+Total 2019. 
+Methane emissions in figures. 
+CO2 CH4 N2O 2.0% 1.5% 1.0% 0.5% 0.0% 95% 4% 1% • 7%: incomplete gas combustion, particularly in turbines, furnaces, steam generators and heaters, estimated at 0.5 to 1% depending on the equipment (combustion).
+0.8% 1.9% < 0.2% < 0.1% 1.1%
+Total GHGs 41 Mt CO2e, of which: 25 24
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 component of the global energy mix over the next two decades, meeting about one-quarter of global energy demand.
+In emerging countries, which are still heavily coal-reliant and will eventually account for the bulk of demand, natural gas offers promise for power generation, as well as for heating and transportation.
+In India, for example, Total has joined forces with Adani, the country’s largest infrastructure conglomerate, to meet sharply growing demand for gas (see sidebar).
+In liquefied form, natural gas can be easily transported and routed to the point of consumption. Demand for liquefied natural gas (LNG) is surging worldwide (10% annual growth between 2015 and 2019), and Total is cementing its presence in the LNG value chain every year. With sales of 34 Mt of LNG in 2019 and global market share of about 10%, Total is the world’s second largest private-sector LNG provider, and aims to continue expanding its LNG portfolio to reach about 50 Mtpa by 2025.
+A thriving LNG portfolio Three major LNG projects were approved in 2019: Arctic LNG 2. 
+Natural gas produces half the GHG emissions of coal for power generation 1 and is a natural partner to renewable energies, which are intermittent and seasonal by nature. Abundant, affordable and growing fast (around 3% a year over the last decade), natural gas offers a rapid, pragmatic response in the fight against rising GHG emissions as a substitute for coal.
+According to the IEA’s SDS and Total’s Rupture scenario, natural gas will remain a substantial. 
+Natural gas, biogas and hydrogen: allies of the energy transition. 
+By expanding its presence across the value chain for natural gas, biogas and hydrogen, Total is decarbonizing its energy mix and ensuring access to reliable, flexible sources of renewable power.
+2015-2019. 
+Sales of LNG triple.
+2019. 
+Total acquires a 37.4% stake in Adani Gas Limited.
+2023. 
+The Arctic LNG 2 project to release its first shipment of LNG.
+KEY DATES. 
+YAMAL LNG AND ARCTIC LNG 2: TWO GIANT, COST-DISCIPLINED LNG PROJECTS. 
+Yamal LNG, located on Russia’s Yamal peninsula, began production in late 2013 and is one of the largest LNG projects in the world. It is tapping gas reserves of 4.6 billion barrels of oil equivalent from the huge South Tambey onshore gas and condensate field in Russia’s Arctic region, with production capacity of 16.5 Mtpa.
+Not far away, on the Gydan peninsula, the Arctic LNG 2 project got underway in late 2019. This similarly world-class project will have a production capacity of 19.8 Mtpa. Its first shipment of LNG is expected in 2023. The second and third liquefaction trains will begin operation in 2024 and 2026, respectively.
+These two projects are among the largest in Total’s portfolio, drawing on the immense onshore natural gas resources in Russia’s Yamal and Gydan peninsulas. Given the enormous scale of the projects, their environmental impact must be closely monitored. For example, flaring has been reduced to a minimum and latest-generation technology has been used for the turbines.
+BIOMETHANE: A DEDICATED BUSINESS UNIT. 
+On September 1, 2020, Total created a Biogas business unit within GRP’s Gas Division. The new entity will invest in developping and operating facilities able to produce biomethane from industrial and agricultural organic matter, in Europe and worldwide. The Biogas unit will purchase this biomethane output for consumption by Total and its customers. The Group aims to produce 1.5 TWh of biomethane annually by 2025, and to provide biomethane to meet 10% of the needs of its European gas-fired power plants in order to prevent the emission of 500,000 tons of CO2e per year by 2030.
+The Biogas unit will draw on Total’s existing operations in the biogas industry, including its sale and purchase agreements for more than 50 GWh/ year through its affiliates: Quadran-Méthanergy, which builds methanation and waste gas recovery units, Clean Energy in the U.S., and PitPoint, which maintains a network of bio-natural gas vehicle fuel and bio-liquefied natural gas stations in the Benelux countries and Germany.
+-
+Natural gas pr50 oduces half % the GHG emissions of coal for power generation.
+1. Sources: “Life Cycle Assessment of Greenhouse Gas Emissions Associated with Natural Gas and Coal in Different Geographical Contexts,” International Reference Centre for the Life Cycle of Products, Processes and Services, October 2016, and “Review of Life Cycle Analysis of Gas and Coal Supply and Power Generation from GHG and Air Quality Perspective,” Imperial College London, 2017.
+A PARTNERSHIP WITH ADANI: PROMOTING NATURAL GAS IN INDIA. 
+India’s natural gas market offers sizable growth potential. Domestic gas consumption has risen more than 5% in each of the past three years, as the Indian government actively seeks to diversify the country’s energy mix by replacing coal with natural gas and to expand the use of gas both in urban households and as a vehicle fuel. India has set an ambitious goal of increasing the share of natural gas in the country’s energy mix to 15% by 2030.
+To keep pace with that trend, Total joined forces with India’s Adani Group in 2018 to develop a broad energy offering for the domestic market. Their cooperation agreement includes the import and regasification of liquefied natural gas for sale to industrial and commercial customers, as well as the distribution of fuel and natural gas to consumers. The two partners are focusing in particular on expanding the Dhamra LNG regasification terminal on India’s eastern seaboard.
+Present in 50 countries, the Adani conglomerate operates numerous gas concessions in Indian cities, as well as a network of service stations in urban areas that sell compressed natural gas (CNG) for use as fuel. By 2030, Total and Adani aim to deploy a network of 1,500 service stations offering CNG and to deliver natural gas to six million urban households.
+in Russia, with a production capacity of 19.8 Mtpa, Mozambique LNG, with a capacity of 12.9 Mtpa and NLNG Train 7 in Nigeria, with a capacity of 7.6 Mtpa. These investments add to Total’s portfolio, which comprises a growing number of competitive LNG projects offering large resources and low-cost production destined primarily for markets in Asia (see sidebar).
+Alongside these natural gas developments, the existing network is incorporating a rising share of green gas – biogas or hydrogen – to help reduce emissions.
+27 26
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+KEY FIGURES. 
+Under the IEA’s SDS scenario, electricity will account for 31% of total final energy consumption in 2040 versus 19% in 2018. Demand will be driven by electric mobility, digital technology and broader access to electricity.
+As an integrated player across the value chain, Total is pursuing its strategy for producing, storing, trading and distributing electricity. Its electricity is generated from renewable energy sources, as well as from natural gas, the fossil fuel with the lowest GHG emissions and the ability to balance the intermittent nature of production from wind and solar farms.
+Total is taking a variety of steps to capture rapid growth in electricity, including numerous acquisitions and equity investments in large-scale projects around the world. From September 2016 to July 2020, the Group invested more than $8 billion – $1.5 to $2 billion annually.
+Expanding power generation capacity from renewable resources To bolster its renewable power generation capacity, Total has pursued a policy of dynamic external growth, acquiring Lampiris, Eren RE, Direct Energie with its affiliate Quadran since 2016.
+It also formed a joint venture with India’s Adani Group for solar energy distribution and took over EDP’s electricity sales operations in Spain. Total will have gross renewable power generation capacity of 6,500 MW at year-end 2020, compared to 3,000 MW a year earlier and less than 1,000 MW in 2017. The Group is aiming for installed capacity of 35,000 MW by 2025, of which 25,000 MW from already identified projects. Half of that will be developed in Europe, and solar power will account for more than three quarters of installed capacity.
+Strengthening power generation capacity from natural gas The Group has augmented its power generation capacity from natural gas, notably through the acquisition of new combined-cycle gas turbine (CCGT) power plants in Europe. In 2018, it purchased two CCGT plants in France from KKR-Energas, offering aggregate generation capacity of around 825 MW. Additional capacity totaling 450 MW is currently under construction in Landivisiau in France’s Brittany region. In Spain, Total acquired two further plants from EDP in May 2020, providing 850 MW in total capacity. The Group now boasts 3,600 MW of power generation capacity from natural gas.
+x increa1 se in g0 ross renewable capacity from 2016 to 2019.
+$8 billion invested between 2016 and 2020.
+9. 
+Almost million gas and electricity customers in 2020.
+Hydrogen, a promising energy source. 
+In July 2020, a Hydrogen business unit was set up within GRP. The new unit reflects Total’s ambition to become a producer and distributor of hydrogen. Conditions in Europe are ripe for hydrogen: as part of its goals for 2050, the European Union has announced a strategy to accelerate renewable hydrogen projects, particularly for industries where decarbonization and/or electrification are problematic. Hydrogen, produced from primary energy, serves as a gateway between the primary energy source and end applications. The rise in power generation from lower-carbon (and specifically renewable) energy sources is making it easier and easier to produce green hydrogen from water electrolysis.
+As a high-potential energy carrier, especially for heavy-duty vehicles, hydrogen can be used to produce energy and store electricity. Its use generates zero carbon emissions.
+The Group is continuing to deploy hydrogen filling stations through H2 Mobility Germany, a joint venture that operates a network. 
+LA MÈDE: A GREEN HYDROGEN PROJECT. 
+Total is developing plans to supply the La Mède biorefinery with five tons of green hydrogen per day by 2025. The electricity needed to power the process would be sourced from local photovoltaic plants. The project would allow Total to confirm its interest in becoming an active player in this value chain.
+La Mède biorefinery.
+Electricity: building a world leader. 
+Total is pursuing further growth in the renewable energy market, expanding its power generation and distribution capacity alike.
+THE BLUE HYDROGEN PROJECT AT THE ZEELAND REFINERY. 
+Total is considering a project to produce blue hydrogen at its Zeeland refinery in the Netherlands, a joint venture between Total (55%) and Lukoil (45%). Under the project, expected to get underway in late 2025, the steam methane reformer which produces hydrogen – one of the site’s biggest sources of carbon emissions – would be fitted with a carbon-capture system. The captured CO2 would be purified and liquefied onsite before being transported to Total’s platforms in the Dutch North Sea as part of the Aramis project. In all, the campaign is expected to reduce the refinery’s annual carbon emissions by 0.6 Mt out of 1.6 Mt (see p. 42).
+of 83 hydrogen filling stations across Germany, including 23 Total-branded outlets.
+In July 2020, its first hydrogen filling station in France began serving customers in Le Mans.
+29 28
+
+
+2016 6000 4000 2000 0
+2017 2018 2019 2020. 
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+OFFSHORE WIND ENERGY – SEAGREEN 1. 
+Total has acquired a stake in Seagreen 1, a major fixed-bottom offshore wind project. With a capacity of up to 1,500 MW, the wind farm will cover the energy needs of around one million U.K. households and be one of the largest off the coast of Scotland. Total is moving to a new level in fixed-bottom offshore wind power with this ambitious project, which is scheduled to come on stream in 2022.
+5,300 MW OF PHOTOVOLTAIC SOLAR ELECTRICITY IN SPAIN. 
+The Group enhanced its presence in Spain’s solar power market thanks to three agreements that will allow it to develop projects totaling 5,300 MW with three partners: 800 MW with Powertis, more than 1,200 MW with Solarbay Renewable Energy and more than 3,300 MW with Ignis.
+AL KHARSAAH SOLAR PV IPP PROJECT: 800 MW OF SOLAR POWER IN QATAR. 
+In 2020, Total signed agreements to develop an 800 MW solar plant located west of Doha. The project was awarded to a consortium of Total (49%) and Marubeni (51%) following the country’s first solar tender. The solar power plant will supply roughly 10% of Qatar’s peak electricity demand and reduce the country’s emissions by 26 Mt of CO2e over the life of the project.
+FURTHER OUT, FLOATING OFFSHORE WIND POWER. 
+In 2020 Total signed two agreements to develop its capacity in the promising technology of floating offshore wind power: • Acquisition of an 80% interest in Erebus, a 100 MW project in the Celtic Sea in an area with a water depth of 70 meters. A development of around 300 MW may be added to this project. Total is among the first companies to invest in this emerging technology in the U.K.
+• Partnership with Macquarie in South Korea to develop Bada, a project with potential capacity in excess of 2,000 MW. The final investment decision for phase 1 (500 MW) is expected in 2023.
+1,500 MW 5,300 MW 800 MW 2,400 MW. 
+Storage: a key piece of the puzzle In energy storage, our wholly-owned Saft subsidiary is pursuing its growth. Saft is adhering to its goal for 2025 of remaining a leader in its traditional industrial markets while expanding into electric mobility as well as the booming energy storage system (ESS) market, which is expected to grow by more than 20% annually over the next five years. Thanks to an industrial and commercial partnership signed with Tianneng in China, Saft now has access to mass production of lithium-ion cells, giving it a competitive foothold in the ESS market, and can capitalize on its renowned expertise in battery safety and stability. In addition, Saft is positioning itself as a battery operator. In France, it will provide frequency regulation services to the French grid operator RTE with 130 MWh of batteries, including 60 MWh under construction in Dunkirk and 25 MWh in Carling. Saft is also expanding strongly in electric mobility (see p. 35).
+DISTRIBUTION: CAPTURING 13 MILLION ELECTRICITY AND GAS CUSTOMERS BY 2025. 
+In gas and electricity distribution, Total is consolidating its position as a major player in the European market. As of 2020, it holds 7% of the market in Spain, 9% in the U.K., 10% in France and 12% in Belgium. Total will be supplying gas and electricity to more than nine million European customers in 2021, on track to meeting its ambition of serving more than 13 million customers by 2025.
+INSTALLED RENEWABLE POWER GENERATION CAPACITY (MW) 
+Rest of world Europe. 
+Solar Power Wind Power 2011. 
+Total acquires a majority stake in SunPower (photovoltaic solar power).
+2016. 
+Acquisition of Lampiris (renewable power distribution).
+2018. 
+Four million individual customers in gas and power distribution.
+2019 3,000 MW of installed renewable power capacity.
+KEY DATES 2020 6,500 MW of installed renewable power capacity.
+6,500 3,000 1,700 800 300 SOUTH AMERICA 3,000 MW. 
+INDIA 6,000 MW. 
+AFRICA 1,000 MW. 
+UNITED STATES 3,000 MW. 
+EUROPE 15,000 MW MIDDLE EAST 2,000 MW. 
+REST OF ASIA 2,000 MW. 
+CHINA 3,000 MW. 
+RENEWABLE POWER CAPACITY PROJECTS IN 2025 31 30
+
+
+300 150 0
+2019 2025. 
+Rest of the world Europe > 10% per year. 
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+However, significant investments will still be needed in the years ahead to meet demand for oil, given the natural decline in field output. Total is focusing on the most resilient oil projects, meaning those with the lowest breakeven point. It is also factoring in a long-term carbon price of $40/t in its cost evaluations, as well as a sensitivity analysis of $100/t as from 2030.
+In addition, Total is reducing the average carbon content of its lineup thanks to biofuels.
+Becoming a major player in biofuels To comply with European Union standards, biofuels must emit less than half the CO2e generated by equivalent fossil fuels across their lifecycle. For more than 20 years, Total has been a committed leader in biofuel research, production and distribution. The Group aims to become a major force in this market, with sales growth of more than 10% a year by 2030.
+To make that ambition a reality, Total is seeking to develop synergies with existing assets, such as its La Mède refinery, which was converted into a biorefinery in 2019 (see sidebar).
+In September 2020, the Group announced a project to convert its Grandpuits refinery into a. 
+Technological advances and the shift in usage to lower carbon energies will probably cause demand for oil to stabilize and then decline over the next decade, as illustrated in the IEA’s SDS and Total’s Rupture scenario. The Group is changing its mix to reflect this trend. Oil products accounted for 66% of sales in 2015, 55% in 2019, and could decline to 35% in 2030. By 2050, this share could shrink to 20%, with a quarter of that from biofuels, helping Total reduce the carbon intensity of the products it sells by 60%.
+Decarbonizing and saving liquid energies. 
+Oil should be used sparingly, for applications where it cannot be easily substituted. At the same time, biofuels and tomorrow’s e-fuels will need to take on a larger role.
+zero-crude complex including a biofuel plant which is expected to be commissioned in 2024. This plant will have a production capacity of 170 kt a year of sustainable jet biofuel, 120 kt a year of road biofuel and 50 kt a year of bionaphtha, for producing bioplastics (see page 39). For the most part, it will be supplied with animal fats from Europe and used cooking oil, supplemented with other vegetable oils, excluding palm oil. The conversion of the refinery will represent a total investment of over €500 million.
+Other projects in the United States and Asia are currently under review. In 2019, Total’s refineries produced 240 kt of biofuels that met the European Union’s criteria for sustainability and GHG emissions reduction.
+Concerning biofuel distribution, Total took a significant step in 2018 by acquiring Zema, a distributor in Brazil that operates a network. 
+E-FUELS: CARBON-NEUTRAL FUELS. 
+A new generation of synthetic fuels known as e-fuels is emerging, produced from low-carbon electricity and CO2 extracted from the atmosphere or biomass. These innovative, carbon-neutral fuels are the focus of special research and development projects. Total is testing new production processes using renewable electricity. For example, green hydrogen can be produced from water electrolysis powered by a low-carbon energy source and then combined with captured CO2 to make methanol or hydrocarbons, without relying on fossil fuel energy. These products can serve as drop-in replacements for conventional fuels, since they can be blended with fossil fuels in any proportion.
+of 280 service stations and sells blends with a biofuel content of around 30%. In 2019, Total blended 2.5 Mt of sustainable biofuel into its products in Europe, for a total volume of 3.6 Mt distributed worldwide. With growth in biofuel sales exceeding 10% annually, the Group anticipates that biofuels will account for about 15% of its fuel sales portfolio by 2030 and 25% by 2050.
+Second-generation, or advanced, biofuels Today, more than 90% of the biofuels on the market are first-generation biofuels, produced from sources such as vegetable oils and sugars. Total is encouraging the advent of secondgeneration biofuels derived from crop residues and non-agricultural biomass, so as to limit the use of inputs and minimize impacts on arable land. Known as advanced biofuels, these products will expand the range of the first generation, but they still present multiple technological hurdles. For more than a decade, Total’s R&D teams have been studying and developing technology to produce a wider array of practical and sustainable biomass resources. For example, the BioTfueL consortium, in which Total is a partner, is working on converting lignocellulose, a type of plant waste, into biofuel. Microalgae offer tantalizing possibilities as well, and Total is studying their potential use for producing oils without the need for agricultural land.
+2030. 
+TOTAL’S SALES OF BIOFUELS (KBOE/DAY) 3
+of biofuel dis.
+trib6 uted by Total Mt worldwide in 2019.
+LA MÈDE: A WORLD-CLASS BIOREFINERY. 
+To fulfill its ambition of being a leader in the market for biofuels, Total has converted its refinery in La Mède, France, into a world-class biorefinery. The facility, which came on stream in 2019, has the capacity to produce 500 kt of biofuel annually, mainly from feedstock that meets the European Union’s sustainability criteria.
+Fats (used cooking oil, animal fat, industrial residue) currently make up 25% of the production supply, with plant-based oils accounting for the rest. Total is hoping to increase the percentage of fats to 50% by 2025.
+The La Mède site also produces renewable naphtha, a biofuel for the gasoline market that can be used to manufacture renewable polymers as well, and bio LPG (renewable-origin liquefied natural gas) for transportation and heating applications. In addition, a study is currently being prepared on the viability of building a methane digester at La Mède as a starting point for biogas production and the launch of a green hydrogen production unit.
+33 32
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Consistent with its ambition to become the responsible energy major, Total is helping its customers navigate the energy transition. Changes in technology and public policy will influence the pace of that transition, but consumer practices will also play, above all, a decisive role. For this reason, Total will work with its customers to develop new usages and spur demand for lower-carbon energy.
+Paving the way for electric mobility The number of vehicles on the road worldwide could double to more than two billion by 2050, and more than half could be electric 1. As a stakeholder in this increasingly electrified future, Total is committed to offering integrated solutions, from supplying energy to providing a comprehensive charging service, allowing it to meet the needs of consumers (B2C), businesses (B2B) and governments (B2G).
+Batteries are one such solution, and in September 2020 Total joined forces with Groupe PSA to announce a joint venture known as Automotive Cells Company, or ACC, in which the two companies will pool their know-how to produce in Europe high-performance batteries for electric vehicles. ACC will be developing new lithium-ion cell technology at an R&D center in Bordeaux and a pilot site in Nersac, France. Once the R&D phase is complete, mass production will get under way at two “gigafactories” in Douvrin, France and Kaiserslautern, Germany. The partners hope to create total production capacity. 
+Mobility, transportation, industry: promoting less carbon-intensive energy. 
+Whether it’s electric mobility, alternative fuels or low-carbon solutions for industry, Total proposes complementary energy sources to help its customers through their energy transition.
+Charging station at the Limours-Janvry area in France.
+TOTAL MOBILITY. 
+Total Mobility is an onboard data recording solution that ensures optimal fleet management via a secure, user-friendly platform. It can be bundled with an eco-driving service to help end users reduce their fuel consumption, and thereby their CO2 emissions.
+1. Total Energy Outlook 2020.
+Acting on demand. 
+Total wants to make carbon neutrality an ambition shared with its customers. To shape demand, it is guiding its customers toward lower-carbon energy solutions and helping them use energy more efficiently.
+35 34
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0 of 48 GWh by 2030 – enough to equip one million electric vehicles annually, or about 10% of the European market. France, Germany and the European Union are lending financial support to this large-scale initiative, which represents a total investment of around €5 billion.
+In the area of charging networks, in 2018 the Group acquired G2mobility, a French leader in charging solutions for electric vehicles, whose expertise ranges from designing smart terminals to optimizing energy use management and selling integrated service packages. Total already operates more than 16,000 charging stations and is developing and marketing a complete charging solution, with smart terminals and a remote platform for tracking their use and energy consumption.
+Total is currently developing high power charging (HPC) stations for major European roadways and urban areas that can provide around 100 kilometers of range with a 10-minute charge, and aims to establish 500 such charging sites in Europe, including nearly 200 in France, by 2022.
+Total has been awarded Europe’s largest concession contract for EV charging, from Metropolitan Region Amsterdam. As part of this contract, it will install and operate up to 20,000 new public charge points in the Netherlands.
+Its objective is to operate 150,000 charge points across Europe, all power levels combined, by 2025.
+Encouraging customers to adopt LNG and hydrogen Natural gas vehicle (NGV) fuel, distributed in the form of compressed (CNG) or liquefied (LNG) natural gas, offers an alternative to electricity for reducing transportation-related carbon emissions, particularly when it includes biogas.
+With the 2017 acquisition of Netherlands-based PitPoint, Europe’s third largest NGV fuel supplier, Total accelerated the rollout of NGV fuel, particularly for trucks and transporters. It also has plans to develop a network of more than 600 service stations offering NGV fuel by 2025, including nearly a hundred stations in France (NGV fuel is currently available at 450 Total-affiliated service stations worldwide).
+GETTING TO ZERO COALITION: DECARBONIZING THE SHIPPING INDUSTRY. 
+In June 2020, Total joined the Getting to Zero Coalition to support the drive toward a zero-carbon shipping industry. The coalition’s ambition is to help reach the goal set by the International Maritime Organization of curtailing GHG emissions from shipping by at least half from 2008 levels by 2050. To meet that target, the coalition aims, through its members, to deploy commercially viable, zero-emission ocean-going vessels by 2030. Total is aiding the coalition’s efforts by sharing its expertise, notably in such priority areas for research as fuels, marine lubricants and zero-emission technologies for shipping vessels.
+In 2018, Total acquired a 25% stake in U.S.-based Clean Energy, one of the leading providers of natural gas fuel and renewable natural gas fuel for the North American transportation industry. Clean Energy installs and operates CNG and LNG filling stations and has a network of 550 service stations across the U.S. and Canada.
+Alongside NGV fuel, hydrogen for vehicles is a promising option for the future, especially for trains, trucks and urban mass transit. Hydrogen-powered bus fleets are poised for growth and Total is helping to make that a reality. Along with five other industrial partners (Air Liquide, Daimler, Linde, OMV and Shell), the Group is a founding member of Germany’s H2 Mobility consortium, whose goal is to promote hydrogen mobility in Germany (p. 28).
+Promoting wider use of natural gas fuel in the shipping industry The energy transition has come to the shipping industry as well, with substantial consequences for the climate at stake, given that over 90% of the world’s goods are transported by sea. The global marine fuel market represents approximately 265 Mt per year,
+TOTAL ECOSOLUTIONS: TRANSPARENCY AND STANDARDS. 
+Established in 2009, the Total Ecosolutions (TES) label highlights innovative solutions that deliver better environmental performance than the leading products on the market. Among the criteria used to award the label is whether a product or service reduces carbon emissions. Other environmental considerations play a role as well, such as whether the solution uses water and non-renewable resources more efficiently or has a reduced impact on biodiversity. In 2020, 95 products and services bear the TES label, including the Excellium line of fuels, Fuel Economy lubricants, SunPower solar panels and Saft’s MRX line of batteries. New solutions are added to the TES lineup on a regular basis. TES certification can also be withdrawn when a product no longer delivers environmental performance that exceeds the market standard, so the range is not fixed.
+One of the label’s strengths is its transparency. The evaluation process meets the requirements set forth in the ISO 14020 and 14021 standards governing self-declared environmental claims, and the entire program is certified by an independent auditor.
+Sales of TES-labeled products have avoided 14.8 Mt of CO2 emissions over the past eleven years. It’s another way Total is helping customers shrink their environmental footprint.
+In April 2019, to stay relevant and in step with rising expectations among customers and the broader community, TES began enlisting the help of outside stakeholders to administer the program. They include independent experts, academics and international research centers, all of whom enhance and strengthen the label’s mission.
+AVIATION: DEVELOPING SUSTAINABLE BIOFUELS. 
+In early 2020, the French government released a roadmap to sustainable aviation biofuel and issued a call for expressions of interest. In response, Total partnered with several aerospace firms to identify investment-ready projects in biofuel production units for the aeronautics industry. In September, as part of the conversion of the Grandpuits refinery, the Group announced the creation of a biofuel plant, with the capacity to produce 170 kt a year of sustainable jet biofuel.
+making the industry a significant contributor to GHG emissions. To address that issue, Total has introduced LNG bunker fuel, which reduces GHG emissions by around 20%, and signed an agreement in late 2019 with CMA-CGM to supply approximately 270,000 tons of LNG over 10 years.
+To help distribute maritime LNG, Total has commissioned the construction of two dedicated supply vessels, one to be based in northern Europe and the other in Marseille.
+In addition, Total has signed a pioneering agreement to charter its first two LNG-powered very large crude carriers (VLCCs). The two vessels, which can carry 300,000 tons of crude oil each, will be delivered in 2022 as part of its chartered fleet.
+16 charge points for electric vehicles operated by T ,000 otal.
+95 products and services carry the Total Eco Solutions label in 2020. 1. HPC: High Power Charge.
+37 36
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Plastics: promoting recycling and bioplastics. 
+Plastics are an essential part of everyday life thanks to their numerous attributes: they offer protection against bacteria both for food and in medical applications, and they’re strong, lightweight and easy to produce. In addition, thanks to their low weight, they help to reduce GHG emissions. But managing their end of life presents a major challenge. So Total is investing in recycling and bioplastics with the ambition of producing 30% recycled plastics by 2030; moreover, it aims to become the world’s top producer of polylactic acid (PLA) – considered the best of the bioplastics because it is biobased, biodegradable and recyclable – through its Total Corbion PLA joint venture.
+Total Corbion PLA operates a PLA production plant in Thailand with a capacity of 75,000 tons per year, and plans to build a second facility in Grandpuits, France offering additional capacity of 100,000 tons per year, with a startup scheduled in 2024.
+Total is focusing on all types of recycling, including complementary mechanical and chemical options. In mechanical recycling, the Group produces polyethylene and polypropylene grades containing at least 50% recycled materials, and is the French leader in high-performance recycled polypropylene for the automotive industry thanks to its Synova affiliate. Meanwhile, Total is leading multiple initiatives to test technology used for chemical recycling, notably through a partnership with Citeo, Recycling Technologies, Nestlé and Mars; it has also signed an agreement with PureCycle Technologies to purchase a portion of the latter’s production output and examine the feasibility of developing a new plant together in Europe.
+
+To address the challenge posed by end-of-life plastics, Total is investing extensively in recycling and biopolymers.
+HUTCHINSON: LIGHTER-WEIGHT VEHICLES, LOWER CO2 EMISSIONS. 
+Total’s expertise in innovative materials, such as composites and thermoplastics, is yet another springboard to a smaller carbon footprint for its customers. The goal is to expand every market for the mobility of the future, from automobiles to aviation and the rail industry. The use of lighter-weight materials can help reduce fuel consumption and, by extension, carbon emissions from an array of transportation options. Hutchinson, a wholly-owned Total affiliate, specializes in processing materials used in the mobility markets. Automakers and aircraft manufacturers are its primary customers.
+Moreover, thanks to its expertise in areas like reducing vehicle weight and thermal management for engines, Hutchinson is making a major contribution to the electrification of both passenger cars and commercial vehicles. The company draws on its R&D network to ensure continuous innovation, with a research center and 25 techcenters, including a laboratory in Singapore, and several partnerships with universities around the world.
+TOTAL IS INVESTING MORE THAN €500 MILLION TO CONVERT ITS GRANDPUITS REFINERY INTO A ZERO-CRUDE PLATFORM FOR BIOFUELS AND BIOPLASTICS. 
+By 2024, Total’s Grandpuits complex outside Paris will be home to France’s first chemical recycling plant. Total is planning to convert the refinery into a zero-crude complex, which will focus on four new industrial activities: production of biofuels primarily intended for the aviation industry, production of bioplastics, plastics recycling and the operation of two photovoltaic solar power plants. In partnership with Plastic Energy, the facility will annually convert 15,000 tons of plastic waste into Tacoil, a liquid feedstock for the production of polymers, helping the Group to achieve its objective of producing 30% of polymers from recycled materials by 2030.
+Prioritizing cleaner energy sources As part of its new climate ambition, Total is steering customers toward lower-carbon energy sources. Accordingly, it will be marketing fewer options for certain applications when competitive, low-carbon alternatives exist.
+For example, Total will no longer sell fuel oil for power generation by 2025, given that natural gas and renewables are competitive options that offer lower emissions than their liquid counterparts. It will be encouraging its customers in the shipping industry to use bunker fuel in tandem with LNG. And Total’s home heating oil customers in France are being offered an incentive through a special program to switch to renewables, natural gas or wood to heat their homes.
+Transportation and mobility: a global challenge Total has joined several coalitions focused on transportation, such as the Clean Skies for Tomorrow. 
+GREENFLEX: ENERGY PERFORMANCE AND ECO-EFFICIENT SOLUTIONS. 
+GreenFlex, a wholly-owned Total affiliate since 2017, provides business clients with a range of consulting and deployment services for projects to improve energy and environmental performance. Its 550 employees across Europe serve more than 750 clients. GreenFlex teams lend their expertise in four areas: strategic consulting, operational support, digital solutions and financing (notably via white certificates).
+In Le Havre, France, for example, GreenFlex experts partnered with an operations and maintenance firm on a steam system expansion project led by SEMEDI, a local specialist in industrial waste treatment and recovery, to connect three new industrial sites to the network. GreenFlex was key to the success of this landmark circular economy project in the industrial sector, conducting thermal studies, consulting on engineering and environmental issues and coordinating the work. In addition, the 3.2 kilometers of piping added to the network features innovative insulation technology selected by GreenFlex. By using energy produced from the industrial waste generated at neighboring facilities, the sites connected to the network in 2020 will be able to cut their annual carbon emissions by 10 kt.
+1. AWS, Carrefour, CMA CGM, Cluster Maritime Français, Crédit Agricole Corporate and Investment Bank, Engie, Faurecia, Michelin, Schneider Electric, Total and Wärtsilä.
+Coalition (aviation), Getting to Zero (shipping) and the Coalition for the Energy of the Future. This last group’s 11 multinational members 1 are working to speed the development of energy sources and technologies that can meet the challenges of sustainable mobility in the transportation and logistics industry, notably by reducing emissions.
+450 service stations in Total’s international network sell NGV.
+Smartphone app for charging an electric vehicle.
+39 38
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+I nvesting i n carbon sinks. 
+Total isn’t just curbing its emissions, adapting its energy mix and helping shape customer demand. It is also investing in natural carbon sinks and developing carbon capture and storage solutions. And it is focusing intensively on R&D to meet the challenges posed by carbon neutrality.
+Developing carbon sinks. 
+Beyond the many actions Total is taking concerning emissions, products and customer demand, it intends to diversify its business activities and balance out their footprint through negative emissions. Total is investing in two solutions: natural carbon sinks, such as forests, regenerative agriculture and wetlands, and carbon capture and storage (CCS).
+Nature-based solutions To develop natural carbon sinks, Total created a new Nature Based Solutions (NBS) business unit in June 2019. Backed by an annual budget of $100 million, it is tasked with funding, developing and managing projects to sequester carbon and reduce GHG emissions.
+The Group aims to reach sustainable carbon storage capacity of five million tons per year by 2030. It is acting on the principle that, in order to be viable over time, natural carbon sinks must be connected to an agricultural or forestry value chain that is local and sustainable. Regional issues related to carbon sink management can then be comprehensively addressed.
+For example, in one project currently being studied in Africa, workers will plant a forest of acacia trees spanning tens of thousands of hectares to recreate a forest environment and restore nutrients in very poor soil. The forest will then be developed to encourage the growth of endemic species and create the conditions for reestablishing a natural forest over many years. The project includes land for agroforestry crops, where local products can be grown alongside and on behalf of the surrounding communities, while wood from the project will help meet growing local and national demand. The initiative promises to sequester more than 10 million tons of CO2 equivalent over a period of 35 years.
+41 40
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+NORTHERN LIGHTS, A PIONEERING CCS PROJECT IN EUROPE. 
+Northern Lights arose out of a collaboration among Equinor, Total, Shell and the Norwegian government. In a world first, the project will transport CO2 by sea and move it to permanent underground storage on a commercial scale. This unique project could become the world’s first storage site to take delivery of CO2 from multiple industry sources in several countries. The initial development phase includes the capacity to transport and store up to 1.5 million tons of CO2 per year. The CO2 captured by industrial emitters will be transferred to the Northern Lights marine terminal and then transported by ship and injected in liquid form into a geological reservoir located some 2,800 meters below the seabed. The initial investment will amount to around 6.9 billion Norwegian kroner. Subject to final approval by the Norwegian government in 2020, Phase 1 should begin in 2024.
+Another campaign, also in Africa, aims to preserve an old-growth forest while expanding local production of wood, rubber and agricultural crops in a bid to avoid or capture more than 150 million tons of CO2e over thirty years. The project comes at a time of growing pressure on the forest as the local population expands.
+In South America, the new Business Unit is working on a project that would preserve a million hectares of virgin forest and foster a sustainable cocoa supply chain based on agroforestry. The initiative could avoid more than 15 million tons of CO2e over a decade.
+Carbon capture and storage (CCS) CCS refers to an industrial process for capturing carbon dioxide and storing it underground safely and permanently. According to the IEA SDS scenario, carbon capture and storage could represent 2,800 Mt CO2 a year in 2050, compared to current global volumes of around 35 Mt CO2 a year.
+Total began developing a pilot project for carbon capture, transportation and storage back in 2010, the first of its kind in Europe. Located in Lacq, in southern France, the facility covered the entire CCS chain, capturing and treating CO2 generated from a steam production unit and then storing it in an onsite reservoir. In 2017, the Group moved up to industrial-phase operations in a large-scale carbon storage project developed with Equinor and Shell on Norway’s continental shelf. The final investment decision was made in 2020 (Northern Lights project; see sidebar). Total is also a partner in a CCS project for the steelmaking industry (see sidebar).
+As part of a decarbonization project at its Zeeland refinery in the Netherlands (see p. 28), Total will slash CO2 emissions from the hydrogen production unit by 600 kt annually. The carbon will be captured, purified and liquefied, then transported by sea to Total’s complexes in the North Sea, where it will be injected into depleted gas fields for permanent storage as part of the Aramis project. Funding $
+Total carbon neutrality ventur 40 es projected portfolio0 m
+investment volume by 2025.
+through a national initiative by the Dutch government to reduce CO2 emissions, coupled with subsidies from the European Union, are helping to support the project economics.
+In 2019, Total joined the National Carbon Capture Center (NCCC) in the United States. The facility tests carbon capture technology on a pilot scale (10 tons of CO2 per day) with the goal of reducing carbon emissions from fossil fuel-based power plants. Through its evaluation of some 60 technologies, the NCCC has already reduced the projected cost of carbon capture by one third.
+Also in the United States, in early 2020, Total signed a partnership with Svante, LafargeHolcim and Oxy Low Carbon Ventures to assess the viability of a commercial-scale facility to capture and store 2 Mt of carbon annually at a cement plant in Colorado. The next phase of the project, front-end engineering and design, began in September 2020.
+Total Carbon Neutrality Ventures In 2019, Total announced that its venture capital arm will now focus entirely on carbon neutrality and will increase its investment capacity to $400 million over the next five years.
+These investments will support start-ups worldwide involved in developing innovative technology and business models that help companies reduce their energy consumption or the carbon intensity of their activities. The fund also invests in the circular economy and recycling. Now named Total Carbon Neutrality Ventures, it currently has investments in 35 businesses.
+THE DMX™ PROCESS IN DUNKIRK AIMS TO ACCELERATE CCS FOR STEELMAKING. 
+In mid-2019, a consortium of 11 European stakeholders including ArcelorMittal, Axens, IFP Energies Nouvelles (IFPEN) and Total, launched a project to demonstrate an innovative process called DMX™ for capturing CO2 from industrial activities.
+The 3D Project (for DMX™ Demonstration in Dunkirk), funded with a €19 million budget over four years, is part of a European Union research and innovation program.
+Coordinated by IFPEN, 3D has three key objectives: First, demonstrate the effectiveness of the DMX™ process in an industrial pilot that will be able to capture 0.5 tons of CO2 an hour. 
+GIVING TOTAL CUSTOMERS A WAY TO OFFSET THEIR CARBON EMISSIONS. 
+Certain Total entities want to be able to offer carbon-neutral products in response to a specific customer demand. Total has therefore developed carbon offsetting programs and provides customers with solutions to offset their carbon footprint from the use of its products and thereby contribute to the fight against global warming. The Group selects projects focused on such solutions as reforestation, deforestation prevention or biodigesters that generate high-quality carbon credits verified by independent international bodies, such as the Verified Carbon Standard or Gold Standard program, and that also yield multiple environmental and social benefits for local communities. In Germany, for example, half of all customers who purchase ThermoPlus Premium home heating oil have opted to pay a supplemental fee to offset the carbon footprint from their consumption.
+from steelmaking gases by 2021. Second, prepare the implementation of a first industrial unit at the ArcelorMittal site in Dunkirk that can capture more han one million tons of CO2 a year. And third, design the future European Dunkirk-North Sea cluster, anticipated to come on stream in 2035 with the ability to capture, process, transport and store 10 Mt of CO2 a year.
+43 42
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Mobilizing R&D for the energy transition. 
+Addressing the energy transition involves adapting processes, enlisting new materials and technologies, making use of smart data and exploring innovative improvement paths – all of which is at the heart of R&D. R&D is spearheading Total’s commitment to carbon neutrality as it works to find the best solutions to further the Group’ ambition.
+R&D is a key to long-term transformation. For this reason, the Group devotes more than 40% of its research effort to projects aimed at decarbonizing the energy mix. From renewable energies and hybrid power systems for mobility and industrial sites to biofuels and carbon capture, it is investing in strategic sectors that will contribute to carbon neutrality in the future.
+
+One area of strategic focus at Total R&D is the Low-Carbon Mix, for which its researchers are devising technologies and processes for carbon capture, utilization and storage (see page 42), developing carbon-neutral industrial tools and processes, and creating biofuels and bioproducts. For example, Total is supporting Canadian CCUS start-up Svante, which has developed unmatched technology for carbon capture via adsorption. It has also forged first-class partnerships to research low-carbon power generation from renewable energy sources and develop electricity storage (via Saft). The fruits of this research will be critical for the future of electric mobility “ALL-SOLID” BATTERIES: A PROMISING FIELD FOR ELECTRIC MOBILITY. 
+Whether they’re nickel-based or lithium-ion, today’s batteries all require the use of liquid electrolytes. With “all-solid” lithium batteries, by contrast, energy (or ions) can be stored using an ion-conducting solid electrolyte combined with a metallic lithium electrode. The advantages include greater capacity, lower cost and a significantly reduced fire risk. Saft, Total’s electric battery affiliate, is among a group of industrial powerhouses that have joined the European Battery Alliance in a bid to make all-solid batteries a reality.
+and the ability to manage intermittent renewable energy.
+The natural gas value chain is also a focus of attention for numerous R&D teams, who are testing new processes and exploring how liquefaction plants could be fully or partly electrified. New prospects are opening up for decarbonizing natural gas, which could have implications for hydrogen’s future as well. Currently, 95% of the world’s commercial hydrogen is produced from fossil fuels, with substantial associated CO2 emissions. There are a range of options for producing carbon-free hydrogen, including carbon capture and storage technology, water electrolysis that uses electricity from renewable sources, or new processes such as methane pyrolysis, in which natural gas is split into hydrogen and carbon.
+DEMETER: USING AI TO IDENTIFY A REGION’S RENEWABLE ENERGY POTENTIAL. 
+Total’s DEMETER R&D project (DEMocratized gEospatial inTelligencE woRkspace) includes three tools for automating analysis of satellite images on behalf of renewable energy (REN) and carbon sink projects. Solar Mapper, developed jointly with Google, will automatically assess a site’s solar potential (residential rooftops, for example) anywhere in the world, without the need for a high-resolution satellite image. Wind Mapper will similarly evaluate a site’s wind potential. The third tool, Forest Carbon Sinks, will identify indicators for monitoring operations in forest tracts or plantations that serve as natural carbon sinks.
+Mor40 e than of the R&D budget devoted % to low-carbon energies.
+THREE FRAMEWORK AGREEMENTS SIGNED IN 2019 TO BRING THE GROUP CLOSER TO CARBON NEUTRALITY • A five-year agreement with IFP Energies Nouvelles (IFPEN) on carbon capture, utilization and storage is designed to reduce infrastructure costs, enhance energy efficiency across the value chain and provide for large-scale CCUS deployment. The agreement also establishes a chair at the IFP School to train a new generation of researchers and international experts who will develop technology for reducing carbon in the atmosphere. For its part, Total has begun work on deploying bioenergy with carbon capture and storage (BECCS).
+• Under a five-year agreement with the French Alternative Energies and Atomic Energy Commission (CEA), the two organizations will develop joint R&D programs on topics related to energy, notably low-carbon energy. An initial project is already underway on using microalgae to convert CO2 into biofuels.
+• A four-year agreement with France’s National Center for Scientific Research (CNRS) will allow Total to pursue cooperation on many projects, notably in organic chemistry and photovoltaics.
+Satellite images taken in Australia within the DEMETER project.
+45 44
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+The OGCI was founded in 2014 by CEOs from major oil and gas firms, including Total, with the aim of supporting the transition to a carbon-neutral economy. In 2019, its member firms accounted for 32% of oil and gas production around the world, representing more than 20% of primary energy consumed, and they are active on a global scale.
+The OGCI promotes industry best practices in reporting, emissions reduction and carbon sequestration. Thanks to its expertise and financial resources,
+A fund for low-carbon technologies it can fund and monitor research for breakthrough technological solutions in a wide array of fields.
+In July 2020, the OGCI announced a new target for average carbon intensity in the upstream operations of its 12 member companies by 2025. The objective is between 20 and 21 kg of CO2e/boe by 2025, or an estimated reduction of between 36 and 52 Mt of CO2 per year at constant levels of production. In 2018 the OGCI had already announced its goal of reducing methane emissions to below 0.25% by 2025, from 0.32% in 2017. The members are aiming to go even further, if possible, to get to 0.20%.
+
+With an eye toward developing solutions for a sustainable low-carbon future, the OGCI created the OGCI Climate Investments fund in 2017, endowed with more than $1 billion over 10 years. The fund finances technologies that significantly reduce emissions. Examples include services for monitoring and measuring methane emissions via satellite (GHGSat), aircraft (Kairos Aerospace) or drone (SeekOps Inc.), and technology that uses CO2 as feedstock for the manufacture of polyols used. 
+THE OGCI-CI FUND: KEY FIGURES 32. 
+Of world hydrocarbon production. %
+Shaping t omorrow’s e nergy. 
+The challenges involved in successfully navigating the energy transition and keeping the average temperature rise well below 2°C are global ones. Total is taking action to meet those challenges thanks to its partnerships, participation in numerous professional organizations and efforts to promote an ambitious carbon pricing program.
+OGCI: oil and gas companies pool their efforts. 
+Total has teamed up with eleven other oil and gas companies within the Oil and Gas Climate Initiative (OGCI), a cooperative effort to identify, support and accelerate the development and deployment of solutions for reducing GHG emissions across the energy, industry and transportation value chain.
+$20 million allocated to methane reduction $36 million allocated to CO2 reduction $48 million allocated to CCUS 47 46
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+On the front lines on carbon pricing (UNFCCC) Executive Secretary and the President of the COP21 calling for the introduction of carbon pricing systems. In 2017, the Group joined the Climate Leadership Council (CLC) as a founding member, and other multinational firms from a variety of business sectors have since followed suit, joining the CLC’s call for a gradual approach to carbon pricing in the United States. The revenue generated by the carbon fee would be returned in full to citizens in the form of a Carbon Dividend, paid on an equal basis. Under the plan, the carbon fee would initially be set at $40 per ton. In the words of former U.S. Secretary of State James Baker, a co-author of the Carbon Dividends plan, “Our plan begins with a carbon tax, which economists view as the most economically efficient means of reducing emissions,” but “all of the money is paid back to the people… Our plan avoids regulations that stifle growth, and it pays for itself.”
+Carbon pricing, in which the price of energy reflects its carbon content, raises the cost of the most carbon-intensive energy sources. Putting a price on carbon provides an incentive for all stakeholders to move more quickly from coal to gas and renewable energies for power generation. Over time, it also helps to steer investment toward research into low-carbon technologies and carbon capture and storage. Proposals for a carbon tax or carbon trading scheme are emerging worldwide. In 2019, for example, Canada instituted a carbon tax of CAN $20 per ton; it is now CAN $30 per ton and will gradually increase to CAN $50 per ton by 2022. Other countries, including China and Mexico, have recently adopted pricing mechanisms of varying scopes, while the European Union has reformed its emissions trading scheme (ETS) in a bid to raise the price of carbon.
+ 
+Toward a balanced international mechanism Since 2014, the United Nations Global Compact has encouraged companies to voice public support for carbon pricing by promoting regulatory mechanisms appropriate to the local situation. In 2015, Total and five other global oil and gas companies (BG, BP, Eni, Equinor and Shell) addressed a joint letter to the United Nations Framework Convention on Climate Change. 
+Carbon pricing is a major tool for achieving carbon neutrality. For more than a decade, Total has been calling for the adoption of a global price on carbon and applying an internal carbon price when evaluating its own projects.
+A similar mechanism has been established in Canada, and the initiative is designed to be replicated in other countries. Total believes that carbon pricing is vital, because energy majors need stable public policies and predictable pricing signals to accelerate long-term investments in low-carbon products and technologies.
+Providing visibility regarding future constraints on GHG emissions is important to ensure that the energy mix can be adjusted accordingly. Total is encouraging the worldwide adoption of carbon pricing, with fair treatment for sectors that are subject to carbon leakage, as identified by the European Union. It is also working in alliance with the World Bank’s Carbon Pricing Leadership Coalition (CPLC).
+in polyurethanes – plastic materials with multiple applications (Econic Technologies). In 2019, the fund invested in 75F, a start-up developing a smart building energy management system (see sidebar).
+Strong support for CCS In 2019, the OGCI launched a campaign to foster the emergence of a carbon capture and storage industry that is commercially viable, safe and friendly to the environment and can meet the needs of numerous sectors beyond oil and gas. Known as CCUS Kickstarter, the initiative focuses on laying the groundwork for social, economic, technological, financial and regulatory conditions that encourage the emergence of a CCUS industry in multiple countries. Consistent with that agenda, in May 2019, OGCI Climate Investments pledged a commitment to Wabash Valley Resources, the largest CCS initiative in the United States. The project aims to capture 1.5 to 1.75 Mt of CO2 annually from an ammonia production plant. The OGCI is also supporting one of today’s biggest industrial and commercial CCS projects: Net Zero Teesside in the U.K. In July 2020, in partnership with the Global CCS Institute and Pale Blue Dot Energy, it also published the first independent catalog of geological sites worldwide that could be used for carbon storage.
+
+A common reporting method The OGCI has adopted a common methodology for reporting emissions. An independent third party (EY) ensures that these anonymized aggregate data are consistent. By adopting uniform practices, OGCI member companies can set mutual targets and improve their individual and collective performance. 19 projects/start-ups receiving funding from the OGCI-CI.
+AI FOR OPTIMIZING BUILDING ENERGY FLOWS. 
+A start-up called 75F has developed a smart monitoring system that combines software and connected devices to optimize HVAC energy consumption in commercial buildings. Its low-cost solution can be deployed quickly in both new and existing buildings. 75F uses machine learning algorithms to adjust building heating and lighting based on actual use, which reduces energy consumption by 30% to 50%. The start-up’s footprint extends to Asia, where energy use by climate control systems represents a major challenge.
+
+James Baker, former U.S. Secretary of State “Economists agree that a carbon tax is the most economically efficient means of reducing emissions.” 49 48
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+TOTAL’S LOBBYING ETHICS CHARTER. 
+With operations in more than 130 countries and a workforce of more than 100,000 employees, Total is a major economic force worldwide. Governments and civil society understandably have strong expectations about the world’s climate. Total’s lobbying activities are rooted in the values defined in its Code of Conduct. Since 2016, those activities have been governed by Total’s Lobbying Ethics Charter. Among other things, the charter requires that the corporate website include a list of the industry associations to which Total belongs. It also ensures that the Group’s publicly stated positions are consistent with those conveyed through its lobbying conducted directly or indirectly through professional organizations or associations. In cases where those positions diverge, the charter stipulates that Total’s position shall take precedence.
+Industry associations: reviewing to work better together. 
+Total is a member of many industry associations and has published a list of its affiliations since 2016. It typically cooperates with these organizations on technical matters, but some take public stances on other issues, such as climate. The Group verifies that those organizations hold positions aligned with its own, and regularly reviews each organization’s stance on climate issues.
+Total and industry organizations Total joins national and international business and industry associations, particularly when collective action is more effective than isolated steps. Through these organizations, the Group can help to define technical standards, for example, and also make its voice heard with regard to government regulations or policies related to its business.
+In most cases, an organization’s governance implies that adopted positions reflect a consensus view among its members, and accordingly may not reflect the views of every member. Total’s representatives make it their priority to support, defend and promote its position within those organizations. If there is disagreement, its representatives reaffirm Total’s stance and advocate changes in the organization’s position They may even propose that Total withdraw if the organization’s position does not change.
+ .
+Through this pragmatic approach, the Group ensures that its participation in industry organizations furthers its own stated positions.
+Acknowledging and responding to climate change is a major topic on the current agenda for public authorities, consumers and businesses. Associations have an important role to play in any discussion of how the goals in the Paris Agreement can be met. For example, Total supports several organizations whose positions on carbon pricing have helped to spur wider recognition of its value.
+A review of industry affiliations In 2019, Total examined the most significant industry associations to which it belongs to conduct a preliminary review of their stance on climate issues, and then updated that review in 2020. For those with a stated public position, the Group examined whether that position was aligned with its own, based on six criteria (see sidebar).
+Total may choose to state a position publicly in response to proposals that are clearly contrary to one or more of these criteria. In late 2019, for example, the Group voiced its opposition to a proposed rollback in methane regulations (for all of the criteria addressed by the association, the stated positions were in line with Total’s).
+Three associations had been classified as “Partially Aligned” in 2019 and were therefore reevaluated more closely.
+The American Chemistry Council (ACC): This association recently published its climate policy principles, which are aligned with Total’s positions, including with regard to the development of renewable energies (the criterion on which it was partially aligned in the 2019 analysis). Therefore, the ACC is now classified as “Aligned.”
+The American Petroleum Institute (API): The API demonstrated its intention to address climate as a separate issue by establishing a special committee, parallel to its long-standing Upstream and Downstream Committees. It has not, however, changed its support for a rollback in U.S. regulations on methane emissions. Consequently, the API remains classified as “Partially Aligned.” in the United States. In 2020, Total affirmed its support for policies in the U.S. that would improve financial transparency regarding payments made by the extractive industries, similar to those adopted for European businesses in recent years (including Total, as of 2015).
+For each criterion, public positions by industry associations that are contrary to those of the Group were considered to be “Not Aligned” and ambiguous positions were considered to be “Partially Aligned.” Concerning the first two criteria (scientific position and support for the Paris Agreement), the absence of a public position was interpreted as partial alignment. For the other criteria, the absence of a position was not taken into account in the review.
+Once Total had completed its analysis, it assigned each association to one of three categories, based on the level of alignment with its own positions: “Not Aligned” (at least one criterion with a “Not Aligned” position), “Partially Aligned” (one or more criteria with “Partially Aligned” positions), or “Aligned”
+A REVIEW OF INDUSTRY AFFILIATIONS BASED ON SIX CRITERIA 1. The scientific position: Total considers the link between human activity and climate change to be an established fact.
+2. The Paris Agreement: Total recognizes that the Paris Agreement is a major advance in the fight against climate change and supports the initiatives of the implementing States to fulfill its aims, notably those designed to achieve carbon neutrality.
+3. Carbon pricing: Total believes that it is necessary to implement carbon pricing to encourage energy efficiency, support low-carbon technology and develop carbon sinks, all critical to achieve carbon neutrality.
+4. The role of natural gas: Total considers that natural gas, combined with biogas and hydrogen, is a key component in the energy transition, specifically as an alternative to coal. The Group supports policies to reduce methane emissions from natural gas production and consumption and, in particular, campaigns to reduce the use of flaring (such as the World Bank’s Zero Routine Flaring by 2030 Initiative).
+5. Development of renewable energies: Total supports policies, initiatives and technologies to promote growth in renewable energies. The Group also supports the development of sustainable biofuels.
+ 6. Development of Carbon Capture, Utilization and Storage (CCUS): Total supports the development of CCUS, which is critical to achieve carbon neutrality by the second half of the century, as called for in the Paris Agreement.
+The Canadian Association of Petroleum Producers (CAPP): pursuant to its gradual exit from oil sands, Total will not be renewing its membership in this industry association.
+The 2020 analysis also found that the Texas Oil & Gas Association (TXOGA) supported the rollback of U.S. methane emission regulations; TXOGA was therefore classified as “Partially Aligned.”
+For the Partially Aligned associations, Total has chosen to advocate internally for changes in each association’s position.
+51 50
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+RESULTS OF OUR REVIEW OF EACH ASSOCIATION’S POSITION ON THE CLIMATE. 
+PARTIALLY ALIGNED. 
+American Petroleum Institute (API) Texas Oil & Gas Association (TXOGA)
+Our analysis indicates that these associations are partially aligned with Total on one or more of the following criteria: • The Paris Agreement (API).
+• Carbon pricing (API).
+• The development of renewable energies (API).
+• The role of natural gas (API, TXOGA), and particularly on the support by those organizations for the rollback of U.S. regulations on methane emissions.
+Our policy with these associations is as follows: • Express the points on which it disagrees.
+• Maintain its commitment to promoting its position.
+• Reevaluate its alignment in the future and reassess its membership if necessary.
+ALIGNED. 
+American Chemistry Council (ACC) Association Française des Entreprises Privées (AFEP, French Association of Private Enterprises) Association Française du Gaz (AFG, French Gas Association) Assomineraria (Italian Petroleum and Mining Industry Association) Australian Petroleum Production & Exploration Association (APPEA) Belgian Petroleum Federation (BPF) BusinessEurope European Chemical Industry Council (CEFIC) Danish Shipping (DS) Essenscia Eurogas European Round Table for Industry (ERT) France Chimie FuelsEurope International Air Transport Association (IATA) International Association of Oil & Gas Producers (IOGP) International Emissions Trading Association (IETA) IPIECA MEDEF Mineralölwirtschaftsverband (MWV) Norsk Olje Og Gass (NOROG) Oil & Gas Denmark (OGD) Oil and Gas UK (OGUK) UK Petroleum Industry Association (UKPIA) Union Française de l’Electricité (UFE) Union Française des Industries du Pétrole (UFIP) World Business Council for Sustainable Development (WBCSD)
+The analysis indicates that these associations are aligned with Total on the criteria selected for this review. Total will maintain its membership in these associations in order to promote its positions on the climate and other issues.
+Appendices 53 52
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+TCFD Reporting framework. 
+For its climate reporting, Total follows the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), structured around four main areas: governance, strategy, risk management, and metrics and targets. Established by the G20’s Financial Stability Board, the TCFD provides a standard for corporate climate communications. The table below cross-references the recommendations of the TCFD with the CDP questionnaire and the information published in Total’s Universal Registration Document (URD).
+TOPIC. 
+GOVERNANCE. 
+Disclose the organization’s governance around climate-related risks and opportunities.
+STRATEGY. 
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material.
+RISK MANAGEMENT. 
+Disclose how the organization identifies, assesses, and manages climate-related risks.
+METRICS AND TARGETS. 
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+R ECOMMENDATIONS OF THE TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES a) Describe the board’s oversight of climate-related risks and opportunities.
+LOCATION OF THIS INFORMATION IN TOTAL’S REPORTS 2019 URD – 5.6.1 CDP – C1.1 b) Describe management’s role in assessing and managing climaterelated risks and opportunities.
+a) Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+2019 URD – 5.6.1 CDP – C1.2 2019 URD – 5.6.2 CDP – C2 b) Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+c) Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
+2019 URD – 5.6.2 CDP – C3.1 a) Describe the organization’s processes for identifying and assessing climate-related risks.
+2019 URD – 5.6.2 2019 URD – 5.6.3 CDP – C2.1, C2.2 b) Describe the organization’s processes for managing climate-related risks.
+c) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.
+2019 URD – 5.6.3 CDP – C2.2 a) Disclose the metrics used by the organization to assess climaterelated risks and opportunities in line with its strategy and risk management process.
+2019 URD – 5.6.3 CDP – C3.1 2019 URD – 5.6.4 CDP – C6, C10 b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions, and the related risks.
+2019 URD – 5.6.4 CDP – C6, C10 c) Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+2019 URD – 5.6.4 CDP – C4.1, C4.2. 
+URD = Total’s 2019 Universal Registration Document CDP = Total’s 2020 response to the CDP Climate Change questionnaire. 
+Go to Total’s Universal Registration Document. 
+Go to Total’s answers to the 2020 CDP questionnaire 55 54
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+More. 
+Total offers a sustainability reporting and information process outlining our corporate social responsibility. In addition to the Universal Registration Document, all reporting information on this topic is available on our Sustainable Performance website. All of our publications and the latest news and reports can still be found on our corporate website, total.com.
+The following documents are included in the Universal Registration Document: • the 2019 annual financial report, • the Board of Directors’ report on corporate governance required under Article L. 225-37 of the French Commercial Code, • the description of the share buy-back program, • the report on the payments made to governments required under Article L. 225-102-3 of the French Commercial Code, • the reports from the statutory auditors.
+Sustainable performance. 
+In May 2016, Total launched a dedicated website to provide transparent information on our CSR challenges. The website, regularly updated, introduces the company’s policies, commitments and performance on all sustainability issues relevant to Total, particularly safety, climate, environmental stewardship, business ethics, human rights and community engagement. It also publicly discloses Total’s response to environmental, social and governance (ESG) reporting standards and indexes.
+1. Total complies with the petroleum industry value chain methodologies published by IPIECA, which are consistent with those in the GHG Protocol. In this document, only Category 11 of Scope 3 (Use of sold products), which is the most material, is reported. Emissions for this category are calculated based on sales of finished products for subsequent end use, i.e., combustion of the products to obtain energy. A stoichiometric emissions factor (oxidation of molecules into carbon dioxide) is applied to those sales to obtain a volume of emissions.
+Indicators. 
+GHG EMISSIONS 2015 2016 2017 2018 2019. 
+SCOPE 1 - OPERATED Mt CO2e 42 41 38 40. 
+Direct GHG emissions at operated sites 41. 
+BREAKDOWN BY SEGMENT. 
+Upstream Oil & Gas Operations (a) Mt CO2e 19 19 17 18 18. 
+Integrated Gas, Renewable & Power, Mt CO2e -0 0 2 3 excluding upstream gas operations Refining & Chemicals (b) Mt CO2e 22 22 21 21 20 (c) Marketing & Services Mt CO2e <1 <1 <1 <1 <1. 
+BREAKDOWN BY REGION. 
+Europe: E.U.27 + Norway + United Kingdom Mt CO2e 22 21 20 24 24. 
+Europe: Other (including Russia) Mt CO2e 1 < 1 < 1 < 1 < 1. 
+Africa Mt CO2e 12 12 10 11 11. 
+Americas Mt CO2e 4 4 4 4 4. 
+Asia/Oceania Mt CO2e 3 3 2 < 1 < 1. 
+Middle East Mt CO2e 1 1 1 1 1. 
+BREAKDOWN BY GHG TYPE. 
+CO2 Mt CO2e 39 38 35 38 39. 
+CH4 Mt CO2e 2 2 2 2 2. 
+N2O Mt CO2e <1 <1 <1 <1 <1 (d) SCOPE 2 - OPERATED Mt CO2e 4 4 4 4 4. 
+Indirect emissions from energy use at operated sites. 
+SCOPES 1 & 2 FROM OPERATED OIL AND GAS Mt CO2e 46 45 41 42 41.5 (a)+(b)+(c)+(d) FACILITIES. 
+SCOPE 1 - EQUITY SHARE Mt CO2e 50 51 50 54 55. 
+Direct GHG emissions based on equity share. 
+SCOPE 3 1 Mt CO2e 410 420 400 400 410. 
+Other indirect emissions – Use by customers of products sold for end use. 
+CARBON INTENSITY INDICATOR. 
+Carbon intensity of the energy products used by Total’s customers (71 gCO2e/MJ in 2015)
+Base 100 in 2015 100 99 97 95 94. 
+OTHER INDICATORS. 
+Group Energy Efficiency Indicator (GEEI) Base 100 in 2010 90.8 91.0 85.7 88.4 88.0. 
+Total daily volume of flaring (upstream oil and gas Mcu.m/d 7.2 7.1 5.4 6.5 5.7 activities, operated scope) (includes safety, routine and non-routine flaring)
+Of which routine flaring Mcu.m/d 2.3 1.7 1.0 1.1 0.9 57 56
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+Definitions. 
+Biogas A gas containing 60% methane and 40% carbon dioxide produced from the fermentation of organic waste.
+Biomethane An upgraded biogas containing concentrated methane. It can be injected into the gas distribution network and can be used as a substitute for natural gas in all its standard uses.
+Greenhouse gases T he six gases named in the Kyoto Protocol: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6), with their respective Global Warming Potential (GWP), as described in the 2007 IPCC report.
+Operated oil and gas facilities F acilities operated by the Group for its Upstream hydrocarbons activities as well as the activities of the Refining & Chemicals and Marketing & Services segments. They do not include power generation facilities based on renewable sources or natural gas such as combined-cycle gas power plants.
+Operated scope S ites and industrial assets in which Total SE, or one of the companies it controls, is the operator, i.e. either operates or contractually manages the operations.
+Glossary. 
+Units of measurement. 
+B or G billion b barrel boe/d. 
+CO2e cu.m barrel of oil equivalent per day. 
+CO2 equivalent cubic meters e. 
+J k
+equivalent joule thousand. 
+M million. 
+Mtpa t
+million tons per year (of LNG) metric ton. 
+TWh terawatt-hour. 
+W watts. 
+Acronyms. 
+AI Artificial Intelligence. 
+CCS Carbon Capture & Storage. 
+CCGT Combined Cycle Gas Turbine. 
+CCUS Carbon Capture, Utilization and Storage. 
+CNG Compressed Natural Gas. 
+CSR Corporate Social Responsibility. 
+EPA Environmental Protection Agency. 
+GHG Greenhouse Gas. 
+GRP Gas, Renewables & Power. 
+IEA International Energy Agency. 
+IPCC Intergovernmental Panel on Climate Change. 
+LNG Liquefied Natural Gas. 
+NGV fuel Natural Gas Vehicle Fuel. 
+OGCI Oil and Gas Climate Initiative. 
+R&D Research and Development. 
+SDS Sustainable Development Scenario from the IEA $ abbreviation for the United States dollar 59 58
+
+
+G E T T I N G T O N E T Z E R O S E P T E M B E R 2 0 2 0. 
+ILLUSTRATIONS Total; Xavier Aansart; Michel Cecconi; Beatrice Offshore Windfarm Limited; Bernard Blaise; Thierry Gonzalez; Nedim Imre; Michel Labelle; Win Initiatives; Total E&P Nigeria LTD; Ken Taylor; Laurent Villeret; Laurent Zylberman – Graphix Images; all rights reserved. Illustrations: Angélique Agasse.
+DESIGN AND PRODUCTION. 
+DISCLAIMER This report, from which no legal consequences may be drawn, is for information purposes only. The entities in which Total SE directly or indirectly owns interests are separate legal entities. Total SE shall not be held liable for their acts or omissions. The terms “Total,” “Total Group” and “Group” may be used in this document for convenience where general reference is made to Total SE and/or its affiliates. Similarly, the words “we,” “us” and “our” may also be used to refer to affiliates or to their employees. It cannot be inferred from the use of these expressions that Total SE or any of its affiliates is involved in the business or management of any other Total Group company. This document refers to a carbon intensity indicator for energy products used by Total customers that measures the weighted average greenhouse gas emissions of energy products sold by Total, from their production in Total facilities to their end use by Total customers. In addition to Total’s direct GHG emissions (Scope 1), this indicator includes indirect GHG emissions (Scopes 2 and 3) that Total does not control (for the definitions of Scopes 1, 2 and 3, refer to Total’s Universal Registration Document [URD]). This document may contain forward-looking information and statements that are based on business and financial data and assumptions made in a given business, financial, competitive and regulatory environment. They may prove to be inaccurate in the future and are subject to a number of risk factors. Neither Total SE. nor any of its affiliates assumes any obligation to investors or other stakeholders to update in part or in full any forward-looking information or statement, objective or trend contained in this document, whether as a result of new information, future events or otherwise. Additional information concerning factors, risks and uncertainties that may affect Total’s financial results or activities is provided in the most recent Universal Registration Document, the French-language version of which is filed with French securities regulator Autorité des Marchés Financiers (AMF), and in Form 20-F filed with the United States Securities and Exchange Commission (SEC).
+60. 
+E-accessible version. 
+The digital version of this document complies with Web content accessibility standards, WCAG 2.0, and is certified ISO 14289-1. Its design enables people with motor disabilities to browse through this PDF using keyboard commands. Accessible for people with visual impairments, it has been tagged in full so that it can be transcribed vocally by screen readers using any computer support. It has also been tested in full and validated by a visually-impaired expert.
+
+
+total.com. 
+Total is a broad energy company that produces and markets fuels, natural gas and electricity. Our 100,000 employees are committed to better energy that is more affordable, more reliable, cleaner and accessible to as many people as possible. Active in more than 130 countries, our ambition is to become the responsible energy major.
+Corporate Communications TOTAL SE 2, place Jean-Millier 92400 Courbevoie, France Tel.: +33 (0)1 47 44 45 46 Share capital: €6,641,697,357.50 Registered in Nanterre: RCS 542 051 180 www.total.com

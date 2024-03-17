@@ -1,0 +1,875 @@
+©2023 New Relic, Inc.
+New Relic 2023 Impact Report. 
+Social_ Governance_ Environment_
+
+
+Contents 03 04 09 18 24. 
+A Word From Our CEO. 
+Who We Are. 
+Our Mission, Culture, and Values. 
+New Relic by the Numbers. 
+Governance of ESG Issues. 
+Our Impact Priorities and Strategy. 
+FY23 ESG Accomplishments. 
+Relics. 
+Our Progress Highlights. 
+Growth and Impact. 
+Workforce Development. 
+Connection and Belonging. 
+Sustainable Productivity. 
+Looking Ahead. 
+Data Security and Trust. 
+Our Progress Highlights. 
+Data Security and Privacy. 
+Systemic Risks From Technology Disruptions. 
+Emerging Technology and Ethics. 
+Looking Ahead. 
+Environment. 
+Our Progress Highlights. 
+Building Our Climate Strategy. 
+Net-Zero by 2030. 
+Looking Ahead 30 37 43. 
+Equitable Access to Tech. 
+Our Progress Highlights. 
+Tech for Good. 
+Inspiring the Next Generation of Technologists. 
+Our Commitment to Open Source. 
+Enabling Relics to Give Back With Intention. 
+Looking Ahead. 
+Ethical Business Practices. 
+Our Progress Highlights. 
+Policy Updates. 
+Our Board of Directors and Governance. 
+Stakeholder Engagement. 
+Looking Ahead. 
+Appendix. 
+About This Report. 
+GRI, SASB, and TCFD Disclosures. 
+Data Tables
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+3 of 52 A Word From Our CEO. 
+A Word From Our CEO. 
+This year, New Relic turns 15 years old. We're proud to be an early pioneer in application performance monitoring, and we now have more engaged customers on our platform than any other.
+In many ways, however, we feel that we're just getting started on our mission to help the tens of millions of engineers around the world make decisions every day using telemetry data. We’re renewing our commitment to building a more equitable and sustainable future for all, mobilizing our business, people, and resources as leaders in observability to effect positive change while meeting the demands of our customers, investors, employees, and communities.
+Our ESG program is as ambitious as it is methodical. In fiscal year (FY) 2023, we began seeing the results of our strategies by operationalizing our previous ESG commitments. We’re particularly proud to be the first observability company to set a goal to achieve net-zero greenhouse gas (GHG) emissions by 2030 as part of our broader climate strategy. In aligning our business and sustainability goals, we are helping to slow climate change while positioning our business for long-term growth and competitive differentiation. This also allows us to evolve alongside our global customers, for whom decarbonization is becoming an increasingly important consideration when it comes to choosing technology providers.
+There is always more work to build upon and new external factors to contend with, such as the macroeconomic headwinds we faced last year. This FY23 impact report reflects the resiliency and dedication built into our program, presents our outcomes since first operationalizing our ESG strategy, and allows us to look forward and share our key goals for FY24 across each of our ESG focus areas. We will continue to deepen and strengthen our commitments across these impact focus areas, leveraging our obsession with data to hold ourselves accountable for our progress. I’m proud to share this report with you and hope it grants you a better understanding of our business.
+Bill Staples CEO of New Relic
+
+
+4 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Accountable. 
+Passionate. 
+Bold. 
+Who We Are. 
+Our Mission, Culture, and Values. 
+We believe that great software is built using data, not opinions. New Relic offers engineers a unified platform for all their telemetry—metrics, events, logs, and traces—and powerful full-stack observability tools that empower them to create better digital experiences.
+New Relic envisions a world where engineers can do their best work by harnessing observability insights at every stage of software development. We support this mission with a connected culture rooted in continuous learning, high performance, and advancement. Our employees (Relics) collaborate across continents, bringing their authentic selves to work every day to create valuable shared experiences.
+New Relic’s development is guided by our core values:
+Who We Are. 
+Authentic. 
+Connected
+
+
+Environment_
+Social_
+Governance_
+Who We Are. 
+One Place for All Data Collect all telemetry with open integrations and OpenTelemetry leadership.
+Platform Pricing Model Give observability tooling to every team to use with low TCO at scale.
+No More “Screen Swivels” Use all monitoring tools in one connected experience.
+New Relic by the Numbers ~2,700 Employees ~16,000 Paid Customers $925.6M FY23 Revenue 5 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+ONE PLATFORM TO RUN ANY DIGITAL BUSINESS WITH 30+ INTEGRATED CAPABILITIES: APM, SECURITY LOGS, INFRASTRUCTURE, AI, AND MANY MORE.
+Only unified telemetry data platform with hyperscale, high performance, and low incremental cost.
+
+
+Governance of ESG Issues. 
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+6 of 52 Who We Are. 
+We continue to deepen our commitments to ESG issues under our ESG operating team, which is led by our Director of Business Operations and ESG and our Senior Director of Social Impact and ESG.
+Management of New Relic's ESG strategy is overseen by a team of three executive sponsors composed of our Chief People and Diversity Officer, Chief Operating Officer, and Chief Legal Officer, who are also some of the longesttenured leaders in the company.
+This team reports directly to the Nominating and Corporate Governance Committee (NCGC) of our Board of Directors, ensuring our ESG practices are aligned with our corporate governance, ethics, and integrity standards.
+The NCGC takes into account and addresses any stockholder feedback it receives and meets biannually with executive sponsors. In turn, these executives meet monthly with the ESG operating team, who connect with Relics and other stakeholders to guide the company’s ESG strategy. The NCGC also delegates responsibility for managing and reporting on ESG impacts to a working group of leaders across the business and reviews and approves the reported information.
+More information on our Board of Directors can be found in the Corporate Governance section of our website.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+Who We Are. 
+Our Impact Priorities and Strategy. 
+New Relic has sought to grow sustainably from its founding. We began integrating ESG considerations into our operations early in our corporate history. In early FY22, we consolidated our company-wide efforts with the launch of a formal ESG program.
+We partnered with Business for Social Responsibility to conduct our first materiality assessment, consulting with key internal and external stakeholders.
+The material topics that we identified through this process became the pillars of our strategy, which we continued to execute in FY23. We focus our impact on the following areas:
+Relics We prioritize our people above everything because we understand our success depends on their well-being and our ability to nurture their growth.
+Data Security and Trust New Relic is committed to making the internet a more secure, resilient, and rights-respecting space.
+Environment Doing our part to curb climate change is a foundational priority for New Relic.
+Equitable Access to Tech We democratize access to observability tools through our software’s free tiers and New Relic’s commitment to open source. We enable Relics to leverage their skills, time, talents, and resources intentionally for the greater good.
+7 of 52
+
+
+8 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑ Who We Are. 
+Relics We completed our transition towards becoming a Flex First company, cultivating connection and belonging among our global workforce, blending in-office and remote work for employee flexibility.
+Read this section. 
+Data Security and Trust We consolidated management of data security issues by merging our Security, Legal, and Compliance departments into a single team.
+Read this section. 
+Environment We built and launched our strategy to achieve net-zero by 2030.
+Read this section. 
+Equitable Access to Tech We expanded free access to New Relic’s platform, donating $8.5M in product and discounts to nonprofits through our Social Impact program.
+Read this section. 
+FY23 ESG Accomplishments. 
+To keep our stakeholders updated on our progress and plans for the future, this report includes dedicated sections that highlight our accomplishments and outline our short-term goals.
+FY23 ESG Strategy and Work. 
+We published our inaugural ESG report in July 2022 and began work to operationalize strategies defined the previous fiscal year:
+
+
+9 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Relics. 
+People come first at New Relic.
+We integrate equity into everything we do— from hiring and promotions to identifying potential leaders and ensuring all Relics can shape their career growth. We take a datadriven approach to supporting Relics by building programs that support their growth and nourish their development.
+We continued to perfect and evolve our Flex First working model in FY23. Responding to new, postpandemic realities, we focused our efforts on developing an employee experience philosophy that includes creating the right conditions for all Relics to form meaningful connections and thrive with us.
+Relics
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+10 of 52. 
+Our Progress Highlights. 
+Relics. 
+Promoting a differentiated employee experience rooted in connection, belonging, and equity became a top priority in FY23; we appointed a full-time member to our People Team to lead this work.
+We published a new Gender Transition and Inclusion Support Policy and developed a selfpaced training called “Building a Better New Relic for Transgender Relics.”
+Recent updates to our ATS Avature allowed us to assess the effectiveness of the Mikey Rule in helping us diversify our employee population.
+We have made year-on-year progress on our journey towards becoming a more diverse, equitable company. Responding to gaps identified in our data analysis, we also remain committed to deepening our work to create more career development opportunities across several historically underrepresented groups, including Hispanic/Latinx and womenidentifying people in our workforce.
+↑ ↑ ↑ ↑
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+11 of 52. 
+Our Progress Highlights. 
+Compared to FY22, we can report a significant decrease in turnover across Relics from all groups in FY23. We specifically tracked 15–20 percentage point decreases among all regions, ages, and genders. We also more than doubled Black representation among our leaders in FY23, moving up 5 points to 9%.
+There is still opportunity to increase representation among women and Hispanic Relics, which will be a focus in this fiscal year. New Relic remains committed to creating an inclusive, diverse workplace, and we will continue to work towards materializing this vision year on year.
+Relics. 
+American Indian or Alaska Native (Not Hispanic or Latino)
+Asian (Not Hispanic or Latino)
+Black or African American (Not Hispanic or Latino)
+Hispanic or Latino. 
+Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+Not Declaring (Not Hispanic or Latino)
+Two or More Races (Not Hispanic or Latino)
+White (Not Hispanic or Latino) 6% 5%
+Leadership. 
+Non-Tech. 
+Tech 0 100% 80% 60% 40% 20%
+FY22. 
+FY23. 
+FY22. 
+FY23. 
+FY22. 
+FY23 68% 64% 21% 59% 19% 18% 57% 62% 26% 8% 3% 2% 4% 2% 26% 5% 9% 62% 7% 8% 1% 8% 8% 4% 1% 19% 4% 4% 4% 5%
+LEADERSHIP. 
+FY22. 
+FY23 75% 25% 81% 19%
+NON-TECH. 
+FY22. 
+FY23 57% 43% 58% 42%
+TECH. 
+FY22. 
+FY23 76% 24% 77% 23%
+ETHNICITY (USA) Male Female. 
+Male Female 2000 2500 3000 1500 1000 500 0. 
+FY22. 
+FY23 1491 1828 726 830. 
+GENDER • Unknown 12.41% • I am not a veteran 84.53% • I do not wish to self-identify 1.02% • Identify as a veteran NOT PROTECTED 0.51% • Identify as one or more PROTECTED 1.53% 8.1% 88.6% 1% 0.8% 1.5%
+FY22 FY23. 
+VETERAN STATUS OF EMPLOYEES • Unknown 37.8% • I do not wish to answer 4.19% • I do not have a disability 24.31% • I do not have a history of disability 28.6% • I have a disability 1.13% • I have a history of disability 3.97%
+FY22 FY23 8.1% 6.3% 24.6% 53.3% 1.1% 6.7%
+DISABILITY STATUS OF EMPLOYEES. 
+The data in this table is rounded to the nearest whole number, resulting in a total slightly exceeding 100%.
+Further data on Relics can be found in pages 46–51 of the appendix.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+12 of 52 Relics. 
+Growth and Impact. 
+DEI Strategy We believe that tech companies play a vital role in eliminating systemic barriers that perpetuate inequities in the tech industry and society at large.
+We take this responsibility seriously because we know that diversity is a key enabler of growth, product differentiation, and workforce engagement. It’s why we integrate DEI across all levels and aspects of our business, engaging every Relic, leader, department, and region of operation. Our DEI pillars of Engage, Scale, and Grow allow us to continually strengthen this commitment. Our most important work is framed by our Leader-led Action Plans (LLAPs), which guide our approach to expanding recruitment, retention, and career growth for underrepresented Relics. LLAPs are overseen by C-suite executives and designed to accelerate DEI throughout New Relic. Leaders build their LLAPs by evaluating their workforce demographics and setting measurable key results in order to close identified gaps across hiring, promotion, and attrition, as well in representation across leadership, technical roles, and our organization generally. In FY23, LLAPs centered on developing and diversifying our employee population by ensuring managers follow our Hiring for Success training (described below) and developing a deeper understanding of allyship that takes into account global differences.
+Engage We value leaders who understand the value and importance of diversity, equity, and inclusion in the mission and success of New Relic.
+Scale We promote deep organizational change that moves our organization’s culture, priorities, and structures towards our DEI goals and in support of our company mission.
+Grow We address and mitigate implicit bias in our processes to ensure we hire and promote talent from all backgrounds.
+Leadership involvement and accountability are defining features of our progress towards achieving DEI results.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+13 of 52 Relics. 
+Workforce Development. 
+Our work environment fosters the sustained growth and success of all Relics. We accomplish this by implementing equitable hiring practices that diversify our workforce, providing transparency and agency around promotion processes, and enabling Relics to expand their skills while acquiring new ones.
+Our Hiring For Success training is a major driver of this effort, giving Relics making hiring decisions the tools they need to recruit the best candidates, understand how bias can impact decisions, and how to mitigate bias in our global recruitment practices. In FY23, we deepened our efforts to improve our engagement with veteran's resumes by identifying potential barriers to mutual understanding.
+New Relic supports second-chance employment. Our applications for open roles do not directly ask candidates whether they have been convicted of a crime, allowing anyone to apply. Additionally, our background check process treats every candidate on a case-bycase basis. In instances where there is a prior conviction, we take into consideration the nature of the conviction as well as the position the candidate is applying for.
+Growing with New Relic We want Relics to be able to put down roots with us and flourish. In FY23, we continued defining job architectures through our Career Tracks initiative, which provides transparent career paths for Relics by clearly outlining the expectations, skills, and abilities associated with each role. This helps managers and employees to measure progress, evaluate promotion readiness, and identify development opportunities. We also launched speed mentoring and speed networking, allowing global Relics to grow their internal networks and gain exposure to different career paths and peer-to-peer mentorship. Our DEI team also held discussion sessions that combined career track overviews with stories from underrepresented leaders about their professional journeys to underscore the importance of representation, diverse career paths, and peer connection.
+We also prioritize developing early career talent through our robust internship programs, supporting a diverse talent pipeline for future growth. We are currently focused on reaching out to college students from underrepresented groups, especially those enrolled in historically Black colleges (HBCUs). Our summer 2022 internships provided meaningful experiences to 50 college students, 92% of whom hailed from underrepresented groups.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+14 of 52 Relics. 
+Connection and Belonging. 
+In a world where work is increasingly defined by virtual experiences, we’re pioneering initiatives that cultivate a sense of interconnectedness among our global Relics.
+Building a Better New Relic for All Supporting a vibrant, diverse workforce starts with deep listening and understanding. In Q2, we conducted a career development needs assessment for Relics who identify as women globally and for Relics in technical roles in the U.S. who identify as Black, Indigenous, and/or People of Color (BIPOC). Our assessment showed that while Relics have confidence in their ability to perform their jobs, they would like more mentorship, time to pursue role-specific and technical learning, as well as a greater understanding of other internal career opportunities. We have taken careful note of these needs, and will mobilize our resources to create strategies that respond to them.
+In an effort to provide greater support to our LGBTQIA+ Relics, we published a new Gender Transition and Inclusion Support Policy, which outlines manager and team responsibilities in supporting non-binary and transitioning Relics. We also developed a self-paced training called “Building a Better New Relic for Transgender Relics,” which sheds light on how to support transitioning employees and provides information about language, pronoun use, and the difference between gender identity and sexual orientation.
+We invest in conferences and partnerships that engage and tap into pools of top underrepresented talent. These activities bring critical value to New Relic’s efforts to build a more diverse, inclusive company.
+Employee Resource Groups (ERGs) Our ERGs are instrumental to moving New Relic towards ever greater inclusion and connection. They provide Relics with community, support, career and personal development opportunities, and access to peers who share commonalities and interests. ERGs receive our complete organizational support, including funding, executive sponsorship, and committee members that help drive shared activities.
+ERGs are the beating heart that powers New Relic’s commitments to celebrating cultural diversity as well as heritage and awareness moments. Every year, ERGs play a vital role in bringing communities together through both in-person and virtual gatherings for Relics and our customers.
+Our C-suite executives are highly involved in supporting the development of ERG leaders. Executives meet with ERG leaders biannually to understand community needs, annual plans, and key challenges. In FY23 we also launched informal job shadowing that paired five ERG leaders with executives, including our CEO.
+“In-person events are valuable opportunities to further promote belonging at New Relic—the sense of connectedness and joy is always palpable."
+Kim Camacho DIRECTOR OF DEI, NEW RELIC at New Relic Women Relics of Color Rainbow Relics Access at New Relic at New Relic Veterans
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+15 of 52. 
+Relics are becoming more professionally agile, finding their own rhythms, and creating work-life balances that suit them. We continue to prioritize workplace flexibility through our Flex First working model, allowing us to embody the future of work in our industry.
+Relics. 
+Employee Experience. 
+We engaged Relics through our year-end Gratitude Campaign and our Global Day of Service, encouraging teams to connect and reflect on their accomplishments.
+We gave our workforce time to decompress with our annual Relic Recharge Week, for which we closed our virtual and physical offices globally.
+Dec. '22. 
+More than 400 Relics participated in our annual Amazing Relic Hunt, a fun and authentic companywide exchange of personal stories and pictures.
+Sept. '22 Aug. '22. 
+Since fully embracing flexible ways of working, connecting Relics across continents in meaningful, unexpected ways has become a natural priority for us:
+New Relic 2023 Impact Report / Contents ↑ 15 of 52. 
+Supporting Relics Wherever They Are As employers, we want Relics’ experience with us to have a positive impact on their lives and their loved ones. Due to the nature of our skilled workforce, we pay well above a “living wage” standard in all of our locations, which allows our Relics to enjoy a standard of living above simply meeting basic needs. We also include compensation information in specific job postings (that is, a reasonable estimate of the listed position's pay range, other compensation and incentives, and benefits) to promote pay transparency and equity and to comply with applicable law.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+16 of 52 Relics. 
+Sustainable Productivity. 
+New Relic adheres to the philosophy of sustainable productivity, making sure we support all facets of Relics’ well-being with policies and professional environments that empower them to do their best work.
+Relic Health and Safety New Relic reopened offices worldwide in May 2022 with a reduced footprint, providing more workspace flexibility for Relics. We strongly encourage Relics to get vaccinated against the COVID-19 virus and support local vaccination requirements for workplace attendance. Since our last report and in response to changing conditions in the pandemic, we have discontinued our policy of requiring vaccination. We continue to encourage employee health and workplace safety.
+Mental Health and Well-being Wellness is woven into our people strategy and we promote a culture of learning around topics related to mental health. In FY23, we expanded our efforts by hosting 22 wellness events and several talks on topics ranging from emotional health to neurodivergent communications and impostor syndrome. We also partnered with The Black Girl Doctor to offer Relics several new trainings geared at supporting mental well-being.
+For more information on how we engage with and listen to Relics, consult the. 
+Stakeholder Engagement section of this report.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+17 of 52 Relics. 
+In the coming fiscal year, we will continue promoting a culture rooted in our values, one that allows Relics to be the best version of themselves at work in order to support New Relic’s mission. We will continue to build an organization that welcomes diversity and creates equitable opportunities for all Relics to thrive, raising the bar on this front through our high-performance culture.
+We will promote sustainable productivity so that Relics are energized rather than depleted by the pace of their work by refreshing our Flex First team agreements; this will include a template for aligning on team collaboration hours and launching our Thriving in Flex First Playbook.
+We will invest in programs that drive sound performance management, ensuring that all Relics have clear, challenging goals and a deeper understanding and connection to our company strategy.
+We will deliver specialized programming to continue to elevate our leadership capabilities.
+We will launch an international career development program for women in EMEA and APJ called Set to Augment Results (STAR).
+We will enhance our commitment to pay equity by launching a new strategy covering our philosophy on pay transparency.
+We will deliver training on global cultural competency to ensure Relics have the knowledge and skills needed to be successful in today’s interconnected global world.
+↑ ↑ ↑ ↑ ↑ ↑
+Looking Ahead Relics
+
+
+18 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Data Security and Trust. 
+Customers trust New Relic with their data. Because of that, we can deliver powerful insights driven by full observability.
+At every step of the way, our customers can rest easy knowing that their information is safe with us and that they have options for maintaining control over their data.
+We operate in a rapidly evolving technology and regulatory environment, so we strive to respond to changes quickly, remain transparent about our practices, and provide customers with resources to manage their data.
+Data Security and Trust New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+18 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+19 of 52 Data Security and Trust. 
+We centralized management of data security and trust issues into the hands of our newly minted Security, Legal, and Compliance (SLC) team, allowing us to integrate related considerations into our engineering work as well as to update and streamline our documentation, policies, and procedures.
+In FY23, New Relic responded quickly to changes in export law controls related to the war in Ukraine.
+We continue to maintain a well-established security program based on principles of transparency and accountability that leverage industry-standard technologies and practices, which is demonstrated through our commitments to certifications such as SOC 2 Type 2, FedRAMP Moderate Impact SaaS authorization, HITRUST, TISAX, and ISO 27001.
+Visitors to our websites can now also manage their cookies and "do not sell" preferences through a new “Your Privacy Choices” link. New Relic websites also respond to global privacy control signals.
+↑ ↑ ↑ ↑
+Our Progress Highlights
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+20 of 52. 
+New Relic’s approach to security and privacy is principles-based. We keep customers and the public informed about our privacy practices through our General Privacy Notice and Services Data Privacy Notice, which cover our collection, use, and disclosure of personal data, and how individuals can exercise their privacy rights.
+Customers can find tools, resources, and additional information on data security and privacy in New Relic’s privacy documentation.
+Securing Customer Data We are constantly evaluating and enhancing our internal cybersecurity and engineering standards. We use industry standards such as the NIST Cybersecurity Framework to measure and evaluate the effectiveness of our cybersecurity controls and risk management strategy. Improving customer-facing security issues is likewise a top priority as we continue to maintain a variety of certifications critical to our customers and set up audit responses for customer requests regarding the handling of their data.
+More information on New Relic’s approach to security policies and procedures is detailed in our Security Policy.
+Improved Governance and Assurance We have further improved alignment and collaboration between our SLC and product management teams to guide secure, compliant development from design to launch. The creation of our SLC team has standardized internal processes by allowing our engineers to integrate security and legal considerations into their workflows.
+Developing the organizational muscle we need to respond to a changing technology and regulatory environment ultimately benefits our customers. In keeping with our privacy by design principles, we enable New Relic’s developers to build security into products through our Secure Software Development Lifecycle initiative, which includes risk assessment, threat modeling, secure coding practices, and other best practices. Moreover, our new Vulnerability Management Tool empowers customers—and New Relic—with greater visibility into potential security issues and facilitates prioritization.
+Data Security and Trust. 
+Data Security and Privacy. 
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+20 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+21 of 52. 
+Data Security and Privacy. 
+Data Security and Trust. 
+Regulatory Compliance We diligently comply with regulatory requirements surrounding privacy. To that end, New Relic signs the following: (i) Data Protection Addendums with updated EU and UK standard contractual clauses (SCCs) and the Swiss addendum, (ii) Service Provider Addendums to meet the requirements of the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA) that also incorporates other state privacy laws such as those from Virginia, Connecticut, Colorado, and Utah. New Relic’s Vendor Code of Conduct lays out our expectation for vendors to respect and uphold our core values when doing business with us.
+We also make corresponding amendments to applicable vendor agreements. Our Security Policy has been updated to address the technical and organizational measures specified in Annex II of the SCCs, making it easier for customers to comply with their own regulatory requirements and understand how New Relic is upholding its obligations. We have also revised customer-facing materials and FAQs surrounding the SCCs and Service Provider Addendum updates, facilitating access to the latest terms and appropriate clauses for conducting international data transfers as well as making it easier to track and match regulatory requirements.
+To further strengthen our data governance, we have improved automation of our data mapping and work processing records through a strong relationship with data governance and compliance services. We also consolidated our audit process in FY23 and are expanding our internal controls compliance, such as the SOC 2 Type 2 report.
+Vendor and Export Compliance New Relic values its relationships with its suppliers and their role in helping us maintain our core values of accountability, authenticity, and connectedness. As part of our supply chain management, New Relic considers vendors’ ability to operate in accordance with these values by looking at their commitment to meeting compliance obligations like trade control, conflicts of interest, and protecting human rights.
+We do not discriminate against any world regions in offering our services; exclusion decisions are made in response to extreme factors like war and to comply with the law or sanctions applied for ethical reasons. In the context of Russia’s invasion of Ukraine, we took swift, decisive action to conform with changes to export laws stemming from the crisis.
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+21 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+22 of 52. 
+Systemic Risks From Technology Disruptions Emerging Technology and Ethics. 
+Data Security and Trust. 
+New Relic continually improves its preparedness to handle potential service disruptions and works to identify operational risks. We maintain a Business Continuity Plan, which we review on an annual basis. This helps New Relic mitigate potential disruptions through contingency strategies to help maintain operations and enable us to deliver quality client services.
+In line with our commitment to transparency, customers can monitor and receive notifications on product status by region and stay informed about any outages or interruptions in real time through our status page. We help enable customers to plan ahead by informing them of upcoming maintenance periods in advance, and prioritize performing scheduled maintenance when we anticipate it will be least disruptive for the majority of our customers.
+New Relic is a data-driven company built by engineers for engineers. Our customers are contractually prohibited from sending us inappropriate or sensitive data that would be used to violate human rights. ` As New Relic evolves, we will continue to develop our technology ethically and responsibly—and we expect our customers to engage with our services in the same way. We are always vigilant about reported misuse of our platform. This includes terminating accounts that violate our Terms of Service and Acceptable Use Policy.
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+22 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+23 of 52 Data Security and Trust. 
+Looking Ahead Data Security and Trust. 
+New Relic is always looking for ways to enhance protection of customer data throughout all our processes. We will continue to do so by adhering to our industry’s security best practices.
+We will continue to secure the integrity of the software and services that we provide customers with and the continued enhancement of controls over the software development lifecycle.
+As artificial intelligence (AI) and machine learning (ML) use continues to evolve, we will continue to strengthen and refine our policies around AI and ML use in a variety of potential use cases.
+↑ ↑
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+23 of 52
+
+
+24 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Environment. 
+New Relic believes that our responsibility to shape a better future includes safeguarding the planet.
+We realize that curbing climate change is a collective responsibility and we are eager to do our part.
+Environment
+
+
+Our Progress Highlights. 
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+25 of 52 Environment. 
+We developed a climate strategy that takes into account our facilities footprint, data centers, cloud usage, and corporate travel.
+We publicly announced our net-zero 2030 commitment and submitted our commitment letter to SBTi in order to set near-term emissions reduction targets.
+We made progress on offsetting our emissions.
+SCOPE 1 Purchased reforestation credits from Trees for Global Benefits Uganda to offset 100% of natural gas consumption based on our FY22 footprint .
+SCOPE 2 Purchased 100% clean energy to offset our FY22 Scope 2 global energy consumption through certified renewable energy certificates.
+SCOPE 3 Purchased 100% clean energy for all FY22 work-from-home emissions globally based on employee’s home ZIP Codes.
+↑ ↑ ↑
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+26 of 52. 
+WITHIN THE ORGANIZATION TOTAL ENERGY CONSUMED (IN GIGAJOULES)
+FY20 16,725. 
+APR. '19–MAR. '20. 
+FY21 14,353. 
+APR. '21–MAR. '22. 
+FY22 15,840. 
+APR. '21–MAR. '22. 
+FY23 31,095. 
+APR. '22–MAR. '23. 
+Environment. 
+Building Our Climate Strategy. 
+When we developed our ESG strategy in FY22, we identified "environment" as our biggest area of opportunity and established data baselines to understand our (GHG) emissions. We continued to build on this work over the last fiscal year by holding discussions with Relics across our business and identifying opportunities for carbon reductions.
+Together with qb. consulting, a women-owned ESG strategy and communications firm, we developed a formal climate strategy in Q4. Our goal to reach net-zero GHG emissions by 2030 is the cornerstone of this strategy, making New Relic the first observability company to declare this objective. Our climate strategy includes continual review of our GHG emissions inventory, committing to developing a plan to reduce emissions for facilities and assets, setting incremental targets, and reporting on our progress. We are also focused on improving the efficiency of our cloud use and inspiring our customers, partners, and suppliers to follow our lead. We are building our platform with several cloud providers to ensure New Relic can take advantage of the strongest environmental policies.
+NET EMISSIONS. 
+FY20: 45,920 TCO₂EQ FY21: 29,355 TCO₂EQ FY22: 33,216 TCO₂EQ FY23: 42,829 TCO₂EQ • cloud 45.41% • goods + services 22.00% • travel 8.69% • offices 7.60% • data centers 7.34% • marketing 4.73% • employees 4.23%
+FY23 EMISSIONS BY CATEGORY. 
+New Relic uses climate solutions platform Watershed to calculate our greenhouse gas emissions. Some of our emissions categories were subject to Watershed's methodology changes based on changes in climate science, changes in the world, and improvements in Watershed's methodology. For our FY23 footprint, we adjusted methodology assumptions related to the Covid19 pandemic. Impacted categories that increased due to these methodology changes include: employees, offices, goods + services, marketing, cloud usage, travel, and data centers. For FY23, New Relic moved from a fully spendbased estimate of cloud and data center emissions to a more granular and accurate activity-based measurement for cloud and data center emissions. Electricity usage emissions resulting from an activity based measurement can result in higher total MWh consumption year-over-year when this change is made due to the consumption actuals being higher than previously estimated averages. Activity-based measurement allows for more granular measurement of electricity used for compute and networking, which can lead to higher consumption numbers. In addition, New Relic’s cloud usage increased in FY23, contributing to the increase in total MWh electricity emissions.
+0 15k 35k 50k -5k. 
+FY21 FY20 FY22 FY23. 
+EMISSIONS DATA. 
+Scope 1 emissions. 
+Scope 2 emissions. 
+Scope 3 emissions. 
+Removals and Renewable Energy Credits. 
+Projected Removals and Renewable Energy Credits
+
+
+Environment New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+Net-Zero by 2030. 
+Net-zero means eliminating emissions to the greatest extent possible and offsetting any residual emissions with measurable removals.
+New Relic is underscoring this commitment by submitting its GHG emissions targets to the Science Based Targets initiative (SBTi), joining a global community of companies that are leading the transition to a net-zero economy. Setting 2030 as our target gives us the space to engage in rigorous work to achieve our goals. This date is also in line with guidance from the Intergovernmental Panel on Climate Change (IPCC), which has urged limiting global warming to 1.5°C (equivalent to 2.7°F) by 2050 to avoid the worst consequences of climate change.
+OUR STRATEGY RESTS ON THE FOLLOWING PILLARS Vendor Engagement on Climate. 
+Internal Efficiencies and Tracking. 
+Reduced Operational Footprint. 
+Policy Setting and Leadership Engagement. 
+We’re convinced that our business will be better-positioned for long-term growth and competitive differentiation by adhering to science-backed emissions targets and contributing to decarbonization.
+Vendor Engagement on Climate We are beginning to work with vendors to understand and reduce their operational emissions. This will allow us to align on a collective path forward that is compatible with our climate goals. Cloud infrastructure represents the biggest portion of New Relic’s total footprint at 45%, with Amazon Web Services (AWS) currently making up the bulk of those emissions. Our top vendors—Amazon, IBM, Google, Microsoft—have all published near-term reductions targets. We are also helping our customers optimize their own cloud usage through our Cloud Optimize open source app, which allows them to view their AWS EC2 data on our platform in order to reduce costs by identifying opportunities to drive operational efficiencies.
+Internal Efficiencies and Tracking We continue to refine our GHG emissions calculations using Watershed, a climate solutions platform, through which we’re able to gain a fine-grained understanding of our environmental impact. For increased accountability, we are disclosing climate-related risks and opportunities in this report in accordance with the Task Force on Climate-related Financial Disclosures (TCFD) framework.
+We are constantly re-evaluating our internal processes to home in on emissions reduction opportunities. Our Product teams are always working to iron out inefficiencies in our code, resulting in a platform that uses less energy. We’ve also migrated nearly 50% of our Kubernetes workloads to AWS Graviton processors, resulting in better performance per watt than any other AWS processor.
+Reduced Operational Footprint New Relic continually assesses its operational footprint and ensures climate remains a part of our criteria. We are currently in the process of reducing our real estate portfolio to meet our current demand as a Flex First company. In September 2022, we began efforts to reduce our operational footprint and are assessing the impact of these efforts on New Relic’s energy consumption. Policy Setting and Leadership Engagement We’re introducing and updating internal policies across New Relic’s business to ensure climate is a shared responsibility.
+One of the ways we do this is by providing Relics with disposal and recycling options for electronic waste, the fastest growing waste stream in the world. We facilitate quarterly electronic waste disposals at all our offices globally in partnership with Revivn, a hardware lifecycle management platform for disposing of information technology (IT) assets. Our Social Impact and IT teams partnered on a campaign with DonorsChoose to direct $54,231, accumulated over several years of equipment buyback funds, to support instructional technology projects for teachers in historically underfunded schools.
+We have also created a travel policy with climate language to reduce travel. Internally, we utilize TripActions to report on our GHG emissions data for corporate travel. This information is shared with cost center managers every quarter. This will allow us to reevaluate our progress towards our emissions reduction goals and improve emissions tracking.
+27 of 52
+
+
+Environment New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+“We have spent the past three years transforming our product and business model. Establishing science-based climate goals is the right decision and next step as we continue to future-proof our business. This also allows us to evolve alongside our global customers who are making similar strides towards a net-zero future and consider it a must-have when choosing their technology providers.”
+Bill Staples CEO, NEW RELIC 28 of 52
+
+
+29 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑ Environment. 
+Looking Ahead. 
+With our roadmap to net-zero and our first initiatives picking up steam, we look forward to continuing to execute on our climate strategy.
+We will fully operationalize our net-zero climate goal in FY24, taking steps across each of our strategic pillars to drive internal optimizations and efficiencies.
+We will continue to purchase removals and renewable energy for our Scope 1, 2, and workfrom-home (Scope 3) emissions based on our FY23 footprint.
+We will submit our SBTi near-term targets and complete our first submission to CDP.
+We will continue to migrate compute workloads to more carbon-efficient platforms and improve our cloud resource utilization by setting efficiency targets for all cloud applications.
+↑ ↑ ↑ ↑ ©2023 New Relic, Inc.
+Looking Ahead Environment 29 of 52 New Relic 2023 Impact Report / Contents ↑
+
+
+30 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Equitable Access to Tech. 
+New Relic is committed to driving programs and partnerships that democratize access to our observability tools and guide our employees to make informed decisions about how to use their time, talent, and wealth to impact their communities.
+In FY23, our attention turned to maturing our programs and refining our impact strategies to accelerate outcomes.
+We maximize the impact of our initiatives by utilizing our strengths as a business and expertise as leaders in observability. That means leveraging our assets, forming powerful partnerships, and activating our people to make progress towards our goals.
+Equitable Access to Tech
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+31 of 52. 
+We expanded the impact of our programs by hiring three full-time Relics to support the New Relic for Students and Observability for Good programs.
+We committed $100,000 of unrestricted funding for nonprofits to use in building their tech capacities.
+We exceeded our employee participation goal, with nearly 76% of Relics participating in volunteering or giving campaigns.
+↑ ↑ ↑
+Equitable Access to Tech. 
+Our Progress Highlights
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+32 of 52 Equitable Access to Tech. 
+Tech for Good. 
+New Relic supports the tech solutions that our world needs through NewRelic.org, our social impact division. We listen attentively to the nonprofits we join forces with to build lasting, meaningful relationships.
+Observability for Good and Pro Bono Our Observability for Good mission and team unlock more New Relic for nonprofits—for free. In addition to New Relic’s free tier, which is available to any user, we provide eligible organizations with access to up to five standard users and a terabyte of data per month at no charge. More information on our free-tier offerings can be found on our website.
+Twice a year, we also engage Relics in a two-week sprint supporting nonprofit customers through skills-based pro bono work. The long-term relationships we cultivate as part of pro bono work familiarize us with the organizations we work with on a deep level, allowing us to transcend our role as software vendors in order to become true partners.
+Impact Fund In May, we launched New Relic’s first Impact Fund as a new program and complement to our Tech for Good mission and initiatives. We invited nonprofits in the US to participate in a $100,000 funding round by applying for grants related to digital transformation. As a result, we selected five grantees from a pool of 115. We were not exclusively focused on funding nonprofit organizations who are Observability for Good customers.
+Grantee Spotlight: Supporting the Fight Against Homelessness Central City Concern (CCC) is dedicated to ending homelessness by taking a holistic, people-centric approach that supports housing, employment, social, enterprise, and case management services for their clients. To provide these services, CCC had historically relied on spreadsheets, outdated tracking methods, and databases that no longer served their needs. This changed in February, when New Relic's Impact Fund grant provided CCC with the backing it needed to implement powerful case management software that has transformed the way staff can leverage tech to serve clients.
+Offering transparency and a centralized database for tracking all of their services in one place, it has been a major improvement for CCC. The system allows staff to easily see how clients are engaging with other internal services, who they are being served by, and where they are living in CCC’s housing portfolio. In time, this observability will enable the organization’s teams to better deliver on their mission by empowering them to make data-driven decisions that improve client outcomes.
+IMPACT FUND GRANTEES
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+33 of 52 Equitable Access to Tech. 
+Inspiring the Next Generation of Technologists. 
+In addition to supporting organizations harnessing tech for good, New Relic is also committed to helping develop the technologists of the future.
+Students pursuing any educational path—from the university-enrolled to those in tech bootcamps—can access New Relic for Students through our partners or via GitHub Education. Qualifying students get 500 GB of data ingest and up to three full platform users to learn, collaborate, and innovate with. Recently, New Relic partnered with Platzi, an online learning platform that caters to students in Latin America, to create Portuguese and Spanish-language content on observability.
+Ensuring equitable access to tech for everyone requires us to be engaged members of our communities. We value our partnerships with nonprofit organizations because they amplify our ability to meet the needs of future technologists. Relics engage with learners within the context of these partnerships by showcasing their careers and illuminating paths to securing tech jobs.
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+34 of 52. 
+New Relic values collaboration over competition. We understand that sharing data and processes accelerates innovation and maximizes the reach and benefits of observability for all.
+Our open source page showcases our standards and activities, and our GitHub organization offers free observability tools.
+In the spirit of furthering access and collaboration, New Relic has been an active member of the Cloud Native Computing Foundation (CNCF) since 2018, and we’re top contributors to CNCF’s OpenTelemetry and Pixie projects. Last fiscal year, we were proud to see a dedicated group of Relics appointed as maintainers and technical committee members of the OpenTelemetry community, which has recognized our contributions towards advancing open source standards.
+Our Commitment to Open Source. 
+Equitable Access to Tech. 
+Enabling Relics to Give Back With Intention. 
+We are continuously finding new ways to foster connection and engage Relics as a distributed, Flex First company.
+We enable Relics to approach their volunteer work with intention and give them the tools to think critically about their own impact in order to maximize it.
+Volunteerism, giving, and educational programs are crucial to mobilizing Relics to make a difference. Every Relic has 16 hours of paid volunteer time off each year in addition to our annual day of service. In Q3, we activated Relics for our second annual 21 Days of Goodness & Day of Service campaign. Relics showed up powerfully for others by donating more than $138,000 and volunteering 4,020 hours across 137 projects.
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+34 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+35 of 52. 
+TO COMMUNITY PARTNERS $320,000. 
+FY22 $395,500. 
+FY23. 
+EMPLOYEE VOLUNTEER HOURS. 
+Volunteer time off (VTO) and pro bono volunteering 5,624. 
+FY22 7,967. 
+FY23. 
+TOTAL VALUE OF PRODUCTS AND DISCOUNTS. 
+To nonprofits through our Social Impact programs $6.5M. 
+FY22 $8.5M. 
+FY23. 
+TOTAL NUMBER OF RELICS WHO VOLUNTEERED 1,209. 
+FY22 2,059. 
+FY23. 
+Who participated in NewRelic.org initiatives. 
+PERCENTAGE OF RELICS. 
+FY22. 
+FY23 59% 76%
+EMPLOYEE-DIRECTED GIVING $326,000. 
+FY22 $339,621. 
+FY23. 
+TOTAL DONATIONS $646,000. 
+FY22 $735,121. 
+FY23. 
+FY22 594. 
+FY23 795. 
+OBSERVABILITY FOR GOOD NONPROFITS 1k 0
+©2023 New Relic, Inc.
+Equitable Access to Tech. 
+Social Impact by the Numbers. 
+Enabling Relics to Give Back With Intention
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+36 of 52 Equitable Access to Tech. 
+Looking Ahead. 
+We believe observability as a practice makes for a world that runs on better software, which is ultimately good for everyone. We will continue to invest in programs that engage our employees, equip our nonprofit partners, and drive a more equitable future.
+We will explore opportunities to integrate our Social Impact work with our climate strategies and priorities.
+We will pilot a new skills-based volunteer program that will allow us to leverage the skills of more Relics to support our community partners and the New Relic for Students program.
+We will refine outreach efforts and pro bono enablement to advance the technology skills and impact of our nonprofit customers through our Observability for Good program.
+We will continue to partner with organizations that share this mission and promote open source projects and standards.
+↑ ↑ ↑ ↑
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+Looking Ahead Equitable Access to Tech 36 of 52
+
+
+37 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Ethical Business Practices. 
+New Relic delivers on its mission to provide engineers with powerful observability tools by operating with the highest standards of ethics, integrity, and corporate governance.
+Wherever we are, we strive to be a force for good and hold ourselves accountable for the way we run our business.
+Ethical Business Practices
+
+
+38 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑ Ethical Business Practices. 
+We published an updated Modern Slavery and Human Trafficking Statement.
+We continued to keep privacy and security compliance at heart as we continue to develop our service offerings.
+We continued to engage with stakeholders to make sure we provide better experiences to our Relics and customers.
+↑ ↑ ↑ ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑ 38 of 52. 
+Our Progress Highlights
+
+
+39 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Ethical Business Practices New Relic 2023 Impact Report / Contents ↑ 39 of 52. 
+Policy Updates. 
+In August, we reaffirmed our commitment to complying with modern slavery laws and more effectively managing our modern slavery risks by publishing our updated Modern Slavery and Human Trafficking Statement, which addresses the reporting requirements under the United Kingdom Modern Slavery Act of 2015 and the Australian Modern Slavery Act 2018.
+We proactively implement our Privacy, Security, and Compliance by Design policy to address data security risks as part of product development (see our Security Policy). New Relic has also implemented an internal vulnerability management working group focused on eliminating technical debt as we continue to develop our service offerings.
+©2023 New Relic, Inc.
+
+
+40 of 52 ©2023 New Relic, Inc.
+New Relic 2023 Impact Report / Contents ↑
+Our Board of Directors and Governance. 
+Ethical Business Practices. 
+Our commitment to ethical business practices and compliance with laws and regulations is at the core of our corporate governance.
+The New Relic Board of Directors is our governing body, which has an independent majority and three standing committees: the Audit Committee, Compensation Committee, and Nominating and Corporate Governance Committee, all of which are composed of independent members of the board.
+These committees oversee risk management and provide strategic guidance in their respective areas while the entire Board provides oversight of and strategic guidance to senior management and makes sure that risk management is carried out generally.
+Our Code of Conduct outlines procedures that aim to prevent, assess, and mitigate conflicts of interest, all of which are overseen by the Board. We have not had any material-related party interests that require disclosure to stockholders. We have a formal process for stockholders to communicate their concerns to the Board of Directors as outlined in our Stockholder Communications Policy.
+More information on New Relic’s governance oversight can be found on our website.
+
+
+HIGHEST 3 SCORES. 
+APRIL 2022 RELIC ENGAGEMENT SURVEY STRENGTHS & PROGRESS. 
+FROM THIS SURVEY 91%
+TRENDING UPWARD SINCE SPRING ‘21 89%
+MANAGEMENT “My manager genuinely cares about my wellbeing”
+ALIGNMENT & INVOLVEMENT “I know how my work contributes to the goals of New Relic” 88%
+INCLUSION “I feel respected at New Relic” 80% 84%
+INCLUSION “I feel like I belong at New Relic”
+ENABLEMENT “We have enough autonomy to perform our jobs effectively” 83%
+ENGAGEMENT “I would recommend New Relic as a great place to work”
+Ethical Business Practices New Relic 2023 Impact Report / Contents ↑
+Stakeholder Engagement. 
+Listening to Relics We listen deeply to Relics through our employee surveys and strive to offer them a more perfect work experience. In April, we conducted our first survey with Culture Amp. Approximately 83% of Relics took this survey, and we’re proud to report a very favorable 70% overall engagement score, up 17 points from the previous fiscal year. The Relic survey delivers insights into how employees feel about action, leadership, service, and quality of work at New Relic. While progress was evident on all fronts, we will continue to listen closely and improve the quality of experience we create for Relics.
+A follow-up Relic Pulse Survey in October engaged employees to think critically about how to tackle the improvements needed to make our company stronger. An outstanding 90% of Relics participated and shared their candid feedback. The data gleaned from this survey was studied carefully by our CEO and C-suite executives to uncover opportunities for change.
+We conducted our first Global Benefits Survey in July, in which over half of Relics participated. Their feedback is essential to our ongoing efforts to provide market-competitive benefits to employees globally. This year's data will serve as a baseline for future benefits surveys. Though we understand there is always room to improve, we are pleased to share that this survey showed Relics appreciate their existing coverage, feel our benefits package is inclusive and accessible, and are satisfied with the company’s contribution towards their coverage.
+Listening and Responding to Customer Feedback Our business model is tied to customer success. By incorporating customer feedback into our processes, we are able to continuously learn, adapt, and innovate to meet their needs through our product and go-to-market strategy.
+We embed customer feedback into our product at various stages of product development. Common customer pain points surface in both our Explorers Hub community forum and Global Technical Support tickets, and these are regularly analyzed and have direct influence on our product roadmap. Furthermore, we run product preview (beta) programs to get early feedback on new features and encourage open and transparent dialogue. We work closely with our customers through dedicated customerfacing roles, including sales, technical, and support staff and provide opportunities for in-person connection around the world. These include FutureStack regional user conferences, FutureHACK design thinking workshops, industry developer events, and user group meet-ups. We also gather direct feedback through focus group surveys, account team surveys, and industry research, which culminates in the publication of our Annual Observability Study.
+PARTICIPATION RATE. 
+APRIL 2022 RELIC ENGAGEMENT SURVEY HIGH LEVEL RESULTS. 
+STEADY. 
+CONFIDENCE IN LEADERSHIP +25 PTS +17 PTS 66%
+ENGAGEMENT % FAVORABLE 70% 83%
+PARTICIPATION RATE. 
+STEADY. 
+CONFIDENCE IN LEADERSHIP +25 PTS +17 PTS 66%
+ENGAGEMENT % FAVORABLE 41 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+42 of 52. 
+Looking Ahead. 
+We’re dedicated to maintaining the highest standards of corporate governance, ethics, and integrity wherever we operate. We will continue to stand against corruption, uphold human rights, and work to ensure transparent, honest, and fair communication with our customers.
+New Relic 2023 Impact Report / Contents ↑ ©2023 New Relic, Inc.
+Looking Ahead Ethical Business Practices. 
+Ethical Business Practices 42 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+GRI, SASB, and TCFD Disclosures. 
+Appendix. 
+About This Report. 
+This report was published on July 11, 2023. The period covered by this report is from April 1, 2022 through March 31, 2023, which aligns with FY23, unless otherwise specified.
+In order to provide transparency and set standards for disclosure, we are reporting with reference to the Sustainable Accounting Standards Board (SASB), the Global Reporting Initiative (GRI) standards and the TCFD framework as guides, and we intend to continue to report our progress annually.
+We have reviewed this document to ensure the data contained within can be traced back to internal or external records. However, the non-financial data in this report has not been independently assured by a third party. As we work towards refining our strategic objectives and improving our initiatives, we value the input and feedback of our stakeholders and extended community members.
+If you have any questions, comments, or feedback, please reach out to us at esg@newrelic.com.
+In line with our commitment to supplier diversity, we partnered with qb. consulting, a small, women-owned ESG strategy and communications firm, to develop this report. We collaborated with FRINGE22 Studio, a BIPOC-owned design and creative strategy studio with a passion for social impact, for the report’s design.
+DISCLOSURE LOCATION AND/OR INFORMATION GRI, SASB, or TCFD Reference. 
+Organizational details FY23 Proxy Statement GRI 2-1-a, -b, -c. 
+Entities included in the organization’s sustainability reporting New Relic, Inc. GRI 2-2-a. 
+Reporting period, frequency, and contact point Page 43 GRI 2-3. 
+Restatements of information. 
+Board gender percentages were misstated in the FY22 report and have been updated on page 47. FY22 net emissions were slightly misstated in the FY22 report and have been updated on page 51. FY22 net emissions are lower than previously stated.
+GRI 2-4. 
+Activities, value chain, and other business relationships FY23 Form 10-K GRI 2-6-a, -b. 
+Employees Page 46 GRI 2-7. 
+Governance structure and composition Page 6 + Page 47 + FY23 Proxy Statement GRI 2-9. 
+Nomination and selection of the highest governance body FY23 Proxy Statement GRI 2-10. 
+Chair of the highest governance body FY23 Proxy Statement GRI 2-11. 
+Role of the highest governance body in overseeing the management of impacts Page 6 + FY23 Proxy Statement GRI 2-12. 
+Delegation of responsibility for managing impacts Page 6 + Page 40 GRI 2-13. 
+Role of the highest governance body in sustainability reporting Page 6 GRI 2-14. 
+Conflicts of interest Page 40 + Code of Conduct GRI 2-15. 
+Communication of critical concerns FY23 Proxy Statement GRI 2-16-a. 
+Remuneration policies FY23 Proxy Statement GRI 2-19-a. 
+Process to determine remuneration FY23 Proxy Statement GRI 2-20. 
+Annual total compensation ratio FY23 Proxy Statement GRI 2-21-a, -c. 
+Statement on sustainable development strategy Page 3 GRI 2-22. 
+Policy commitments Pages 20 – 22 + Page 39 + Corporate Governance Documents GRI 2-23-a, -c. 
+Processes to remediate negative impacts Pages 39 – 40 + Corporate Governance Documents GRI 2-25-a, -b. 
+Mechanisms for seeking advice and raising concerns Whistleblower Policy + Code of Conduct GRI 2-26. 
+Compliance with laws and regulations No significant instances of noncompliance GRI 2-27. 
+Membership associations Page 34 GRI 2-28. 
+Approach to stakeholder engagement Page 41 GRI 2-29 43 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+GRI, SASB, and TCFD Disclosures — Continued. 
+DISCLOSURE LOCATION AND/OR INFORMATION GRI, SASB, or TCFD Reference. 
+DISCLOSURES ABOUT PROCESS TO DETERMINE MATERIAL TOPICS AND LIST OF MATERIAL TOPICS. 
+Process to determine material topics Page 7 GRI 3-1. 
+List of material topics Page 7 GRI 3-2. 
+SASB ACTIVITY METRIC DISCLOSURES (1) Number of licenses or subscriptions, (2) percentage cloud-based Not disclosed, sensitive business information SASB (S&ITS) TC-SI-000.A (1) Data processing capacity, (2) percentage outsourced (1) Not disclosed, sensitive business information, (2) 84% outsourced SASB (S&ITS) TC-SI-000.B (1) Amount of data storage, (2) percentage outsourced (1) Not disclosed, sensitive business information, (2) 90% outsourced SASB (S&ITS) TC-SI-000.C. 
+RELICS. 
+DIVERSITY, EQUITY AND INCLUSION. 
+Management of material topics Pages 12–16 GRI 3-3-a, -b, -c, -d, -e-i, -f. 
+Diversity of governance bodies and employees Page 11 + Page 47 GRI 405-1-a-i, a-ii, -b. 
+Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees Page 11 + Page 49 SASB (S&ITS) TC-SI-330a.3. 
+EMPLOYEE HEALTH, SAFETY AND WELLBEING. 
+Management of material topics Page 16 GRI 3-3-a, -b, -c, -d-i. 
+Employee engagement as a percentage Page 41 SASB (S&ITS) TC-SI-330a.2. 
+WORKFORCE DEVELOPMENT. 
+Management of material topics Page 13 GRI 3-3-a, -b, -c, -d-i. 
+New employee hires and employee turnover Page 48 GRI 401-1. 
+Benefits provided to full-time employees that are not provided to temporary or part-time employees Page 41 + Page 50 GRI 401-2-a. 
+Parental leave Page 51 GRI 401-3. 
+SUSTAINABLE PRODUCTIVITY. 
+Management of material topics Page 16 GRI 3-3-a, -b, -c, -d-i. 
+DATA SECURITY AND TRUST. 
+DATA PRIVACY AND SECURITY. 
+Management of material topics Pages 18–23 GRI 3-3-a, -b, -c, -d-i, e-i. 
+Description of policies and practices relating to behavioral advertising and user privacy Pages 20–21 SASB (S&ITS) TC-SI-220a.1. 
+Number of users whose information is used for secondary purposes Our users’ information is used to provide the services and as set forth in our General Privacy Notice and Services Privacy Notice SASB (S&ITS) TC-SI-220a.2 44 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+DISCLOSURE LOCATION AND/OR INFORMATION GRI, SASB, or TCFD Reference. 
+Total amount of monetary losses as a result of legal proceedings associated with user privacy There have been no material monetary losses associated with any legal proceedings and link to 10-Q and 10-K SASB (S&ITS) TC-SI-220a.3 (1) Number of law enforcement requests for user information, (2) number of users whose information was requested, (3) percentage resulting in disclosure. 
+NR has received 0 national surveillance requests and there are no instances of required material disclosures. See Privacy Shield update for more information. SASB (S&ITS) TC-SI-220a.4 (1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected Not disclosing for reasons of confidentiality SASB (S&ITS) TC-SI-230a.1. 
+Description of approach to identifying and addressing data security risks, including use of third-party cybersecurity standards Security Policy SASB (S&ITS) TC-SI-230a.2. 
+SYSTEMIC RISK FROM TECHNOLOGY DISRUPTIONS. 
+Management of material topics Page 22 GRI 3-3-a, -b, -c, -d-i. 
+Number of (1) performance issues and (2) service disruptions; (3) total customer downtime Page 22 SASB (S&ITS) TC-SI-550a.1. 
+Description of business continuity risks related to disruptions of operations Page 22 SASB (S&ITS) TC-SI-550a.2. 
+EMERGING TECHNOLOGY AND ETHICS. 
+Management of material topics Page 22 GRI 3-3-a, -b, -c, -d-i. 
+Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations No related losses SASB (S&ITS) TC-SI-520a.1. 
+ENVIRONMENT. 
+ENERGY AND CLIMATE. 
+Management of material topics Pages 26–27 and New Relic Energy Climate Announcement GRI 3-3-a, -b, -c, -d, -e, TCFD Strategy. 
+Energy consumption within the organization Page 26 + Page 51 GRI 302-1-e. 
+Direct (Scope 1) GHG emissions Page 26 + Page 51 GRI 305-1-a, -g, TCFD Metrics and Targets. 
+Energy indirect (Scope 2) GHG emissions Page 26 + Page 51 GRI 305-2-a, -b, -g, TCFD Metrics and Targets. 
+Other indirect (Scope 3) GHG emissions Page 26 + Page 51 GRI 305-3-a, -g, TCFD Metrics and Targets (1) Total energy consumed, (2) percentage grid, electricity, (3) percentage renewable Page 51 SASB (S&ITS) TC-SI-130a.1. 
+Disclose the organization’s governance around climate related risks and opportunities Developing these components of the Energy and Climate strategy TCFD Governance. 
+Describe the organization’s processes for identifying, assessing and managing climate-related risks. Developing these components of the Energy and Climate strategy TCFD Risk Management. 
+Discussion of the integration of environmental considerations into strategic planning for data center needs Page 26 SASB (S&ITS) TC-SI-130a.3. 
+EQUITABLE ACCESS TO TECH. 
+Management of material topics Pages 32–36 GRI 3-3-a, -b, -c, -d-i. 
+GRI, SASB, and TCFD Disclosures — Continued 45 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+GRI 2-7 Employees a. Report the total number of employees, and a breakdown of this total by gender and by region: b-i. Permanent employees, and a breakdown by gender and by region; (all worker type Employee) b-ii. Temporary employees, and a breakdown by gender and by region; (all worker type Contingent Worker) b-iv. Full time employees, and a breakdown by gender and by region; b-v. Part time employees, and a breakdown by gender and by region;
+Data Table #1. 
+Region Gender FY22 Headcount FY23 Headcount. 
+AMER Female 556 601. 
+AMER Male 1049 1180. 
+APJ Female 46 92. 
+APJ Male 122 266. 
+EMEA Female 124 137. 
+EMEA Male 320 382. 
+All Regions Total 2217 2658. 
+Region Time Type Gender FY22 Headcount FY23 Headcount. 
+AMER Full time Female 556 601. 
+AMER Full time Male 1048 1180. 
+APJ Full time Female 46 91. 
+APJ Full time Male 122 266. 
+EMEA Full time Female 124 134. 
+EMEA Full time Male 320 382. 
+AMER Part time Male 1 0. 
+APJ Part time Female 0 1. 
+EMEA Part time Female 0 3. 
+Region Gender FY22 Headcount FY23 Headcount. 
+AMER Female 556 601. 
+AMER Male 1049 1180. 
+APJ Female 46 91. 
+APJ Male 122 266. 
+EMEA Female 124 134. 
+EMEA Male 320 382. 
+Region Gender FY22 Headcount FY23 Headcount. 
+AMER Unknown 137 76. 
+APJ Unknown 103 51. 
+EMEA Unknown 13 5 b-iii. Non-guaranteed hours employees, and a breakdown by gender and by region:
+Region Gender FY22 Headcount FY23 Headcount. 
+N/A N/A N/A N/A d. Report contextual information necessary to understand the data reported under 2-7-a and 2-7-b: N/A e. Describe significant fluctuations in the number of employees during the reporting period and between reporting periods: N/A c-i. In headcount, full-time equivalent (FTE), or using another methodology;
+Headcount based on Worker Status = 'Active' c-ii. At the end of the reporting period, as an average across the reporting period, or using another methodology;
+Snapshot date, end of reporting period c. Describe the methodologies and assumptions used to compile the data, including whether the numbers are reported:
+We do not keep track of gender, ethnicity, and age for contingent workers.
+To align with US government reporting requirements, data in this report uses their gender categories of “male” and “female.” New Relic respects that gender is nonbinary; reporting in this manner for legal compliance purposes does not represent our position on the issue.
+46 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑
+FY22* 64% MALE 36% FEMALE. 
+FY23 64% MALE 36% FEMALE. 
+Appendix. 
+FY22 67.3% MALE 32.7% FEMALE. 
+FY23 68.8% MALE 31.2% FEMALE. 
+Data Table #2 a. Percentage of individuals within the organization’s governance bodies: b. Percentage of employees per employee category: i. GENDER OF THE BOARD OF DIRECTORS ii. AGE GROUP OF THE BOARD OF DIRECTORS i. GENDER OF EMPLOYEES ii. AGE GROUP OF EMPLOYEES. 
+FY22 13.6% UNDER 30 70.8% 30–50 15.6% 50+
+FY23 16.9% UNDER 30 69.8% 30–50 13.3% 50+
+FY22 44.4% 30–50 55.6% 50+
+FY23 44.4% 30–50 55.6% 50+ b-iii. Other indicators of diversity where relevant (such as minority or vulnerable groups):
+Veteran status and disability status categories align with US government reporting requirements.
+Disability Status of Employees FY22 Headcount % FY23 Headcount %
+Unknown 37.8% 8.1%
+I do not wish to answer 4.19% 6.3%
+No, I don’t have a disability 24.31% 24.6%
+No, I don't have a disability, or a history/record of having a disability 28.6% 53.3%
+Yes, I have a disability (or previously had a disability) 1.13% 1.1%
+Yes, I have a disability, or have a history/record of having a disability 3.97% 6.7%
+Veteran Status of Employees (US Only) FY22 Headcount % FY23 Headcount %
+Unknown 12.41% 8.1%
+I am not a veteran 84.53% 88.6%
+I do not wish to self-identify 1.02% 1%
+Identify as a veteran, just not a protected veteran 0.51% 0.8%
+Identify as one or more of the classifications of protected veterans 1.53% 1.5%
+GRI 405-1 Diversity of governance bodies and employees ©2023 New Relic, Inc.
+*There was a misstatement of data in the FY22 report which listed Board gender data as 66.7% male and 33.3% female. The data has been corrected in this report to be 64% male and 36% female.
+47 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+Data Table #3. 
+Region FY22 New Hires FY22 Hire Rate FY23 New Hires FY23 Hire Rate. 
+AMER 624 42% 552 32%
+APJ 82 61% 230 91%
+EMEA 156 37% 168 35%
+Region FY22 Turnover FY22 Turnover Rate FY23 Turnover FY23 Turnover Rate. 
+AMER 602 40% 376 22%
+APJ 53 39% 39 16%
+EMEA 152 36% 93 20%
+Age Group FY22 New Hires FY22 Hire Rate FY23 New Hires FY23 Hire Rate. 
+Under 30 190 58% 272 68% 30-50 561 38% 600 35%
+Over 50 111 41% 78 24%
+Age Group FY22 Turnover FY22 Turnover Rate FY23 Turnover FY23 Turnover Rate. 
+Under 30 121 37% 76 19% 30-50 561 38% 351 21%
+Over 50 125 46% 81 24%
+Gender FY22 New Hires FY22 Hire Rate FY23 New Hires FY23 Hire Rate. 
+Female 306 46% 290 37%
+Male 555 40% 660 40%
+Unknown 1 N/A N/A N/A. 
+Gender FY22 Turnover FY22 Turnover Rate FY22 Turnover FY22 Turnover Rate. 
+Female 267 40% 187 24%
+Male 539 38% 321 19%
+Unknown 1 N/A N/A N/A a. Total number and rate of new employee hires during the reporting period, by age group, gender, and region. b. Total number and rate of employee turnover during the reporting period, by age group, gender, and region.
+GRI 401-1 New employee hires and employee turnover. 
+Hire rates are employee start counts or stop counts divided by average headcount per employee category in the respective fiscal year.
+48 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+Data Table #4. 
+SASB TC-SI-330a.3 Percentage of gender and racial/ethnic group representation for management, technical staff, and all other employees. 
+Management or leadership at New Relic is defined as VP level and above as defined by job level.
+Ethnicity categories align with US government reporting requirements.
+The data in this table is rounded to the nearest whole number, resulting in a total slightly exceeding 100%.
+©2023 New Relic, Inc.
+Gender FY22 Leadership FY22 Non-Tech FY22 Tech FY23 Leadership FY23 Non-Tech FY23 Tech. 
+Female 25% 43% 24% 19% 42% 23%
+Male 75% 57% 76% 81% 58% 77%
+Ethnicity (USA) FY22 Leadership FY22 Non-Tech FY22 Tech FY23 Leadership FY23 Non-Tech FY23 Tech. 
+American Indian or Alaska Native 0% 0% 0% 2% 0% 0%
+Asian 26% 18% 19% 26% 19% 21%
+Black or African American 4% 8% 4% 9% 8% 4%
+Hispanic or Latino 8% 7% 4% 5% 8% 5%
+Native Hawaiian or other Pacific Islander 0% 1% 0% 0% 1% 0%
+Not Declaring N/A N/A N/A N/A N/A N/A. 
+Two or More Races 0% 3% 5% 2% 4% 6%
+White (Not Hispanic or Latino) 62% 62% 68% 57% 59% 64% 49 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+Data Table #5. 
+Location Benefits *Benefits not available to part-time or temporary employees. 
+GLOBAL Employee assistance program (EAP), emotional health support through the Ginger app, Headspace for meditation, business travel insurance, 12 weeks parental leave (100% pay), 2 days of volunteer time off, NRgize funds (wellness funds every pay period), family formation benefits through Carrot ($6k per year, $18k lifetime benefit for infertility, surrogacy, adoption, egg freezing, etc.), employer discount program, generous vacation time to allow Relics to rest and recharge. 
+UNITED STATES. 
+Healthcare benefits (medical, dental, vision, telehealth), FSAs and HSA, commuter benefits, employer-paid life insurance and AD&D (+ voluntary buy-up options for life and AD&D), STD and LTD (pre-tax and post-tax options), 401(k) (+ employer match up to $6k per year), employee stock purchase program (stock ownership), voluntary legal benefit, voluntary pet insurance, 10 weeks paid medical time (100% pay), 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com; exempt employees accrue paid sick time at the rate of 1 hour for every 30 hours worked; exempt employees have unlimited PTO; employees are ensured stable scheduling. 
+AUSTRALIA Healthcare benefits (medical, dental, vision), retirement (10.5% of earnings up to a maximum of AUD 60,220 per quarter), employer-paid group life and total permanent disability, group salary continuance, employee stock purchase program (stock ownership), membership access to Care.com for child care. 
+BELGIUM Healthcare benefits (medical, dental, vision), employer-sponsored defined contribution pension, disability benefits, death benefits, 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+CANADA Healthcare benefits (medical, dental, vision), employer-paid life insurance and AD&D (+ voluntary buy-up options for life and AD&D), STD and LTD, retirement (+ employer match of 100% of employee contributions up to a maximum of 4% of base salary to the group DPSP), 10 days of subsidized back-up child care through. 
+Care.com and premium membership access to Care.com. 
+FRANCE Healthcare benefits (medical, dental and vision) employer-paid life and disability, meal voucher, 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+GERMANY Defined contribution pension (+ employer match up to 3% of annual gross base salary), LTD (long-term disability), employer-paid life insurance, 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+INDIA Healthcare benefits (medical, dental, vision, teleconsultations), group personal accident, home health checks. 
+IRELAND Healthcare benefits (medical, dental), defined contribution pension (+ employer match of 100% of employee contributions up to a maximum of 5% of basic annual salary), death-in service benefits, income protection/disability (STD and LTD), employee stock purchase program (stock ownership), 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+ISRAEL Healthcare benefits, defined contribution pension (no less than 14.83%), meal vouchers. 
+JAPAN Defined contribution pension (5% of pensionable salary capped at JPY 55,000 per month), employer -paid group term life insurance, group long term disability. 
+NETHERLANDS Defined contribution pension (10% of pensionable salaries up to € 114,866.00), AD&D, STD and LTD, 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+SINGAPORE Healthcare benefits (medical, dental, vision), group term life, total and permanent disability, group accidental death and dismemberment insurance. 
+SOUTH KOREA Benefit allowance to offset health and risk insurance expenses, retirement pension plan. 
+SPAIN Healthcare benefits (medical, dental, vision), employer-paid life and AD&D insurance, retirement (+ employer match of 100% of the employee's contributions up to 5% of salary), voluntary UpSpain program (reducing tax levels to pay for kindergarten, meals, transport), employee stock purchase program (stock ownership), 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+SWITZERLAND Healthcare benefits (medical, dental), STD and LTD, accident insurance, pension, 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+UNITED KINGDOM Healthcare benefits (medical, dental, vision), employer-paid life insurance, income protection, group personal pension plan (+ employer match of 100% of employee contributions at 5% of basic annual salary), bike to work scheme, employee stock purchase program (stock ownership), 10 days of subsidized back-up child care through Care.com and premium membership access to Care.com. 
+GRI 401-2-a Benefits which are standard for full-time employees of the organization but are not provided to temporary or part-time employees ©2023 New Relic, Inc.
+50 of 52
+
+
+New Relic 2023 Impact Report / Contents ↑ Appendix. 
+Data Table #6. 
+Data Table #7. 
+Region FY22 Female FY22 Male FY23 Female FY23 Male a. Total number of employees that are entitled to parental leave, by gender. 980 1994 1013 2138 b. Total number of employees that took parental leave, by gender. 59 100 47 101 c. Total number of employees that returned to work in the reporting period after parental leave ended, by gender. 46 92 36 87 d. Total number of employees that returned to work after parental leave ended who were still employed 12 months after their return to work, by gender. 30 70 22 58 e. (1) Return to work rate of employees that took parental leave, by gender. 78% 92% 77% 86% e. (2) Retention rate of employees that took parental leave, by gender. 70% 65% 61% 67%
+Demographic Female Male. 
+Asian Employees 8.2% 12.3%
+Black Employees 3.1% 3.1%
+Employees of Two or More Races 2.3% 2.4%
+Latina/o Employees 1.8% 4.5%
+Native Hawaiian or Pacific Islander Employees 0.3% 0.4%
+White Employees 18.0% 43.7%
+American Indian or Alaska Native Female Employees 0.1% 0%
+Employees of Other Ethnicities N/A N/A. 
+GRI 401-3 Parental Leave. 
+U.S. Employees by Race/Ethnicity and Gender % of total US population. 
+Data Table #8. 
+FY20 FY21 FY22 FY23. 
+MarketBased LocationBased MarketBased LocationBased MarketBased LocationBased MarketBased LocationBased. 
+Scope 1 emissions (tCO2eq) 156 156 168 168 185 185 268 268. 
+Scope 2 emissions (tCO2eq) 1,217 1,186 1,025 1,019 1,013 1,128 2,675 2,826. 
+Scope 3 emissions (tCO2eq) 44,547 44,541 28,162 28,159 32,019 32,016 39,886 46,509. 
+Net emissions (tCO2eq) 45,920 45,882 29,355 29,346 33,217 33,329 42,829 49,603. 
+Total energy consumed within the organization (gigajoules) 16,725 14,353 15,840 31,095. 
+Percentage grid electricity energy (as % of total energy)
+The remainder of total energy consumed in the organization is natural gas usage. 82% 76.78% 63.44% 78%
+Percentage renewable energy (as % of total energy) 0% 0% 13.33% 9.8%
+GRI 305-1-a Direct (Scope 1) GHG emissions; GRI 305-2-a Energy indirect (Scope 2) GHG emissions; GRI 305-3-a Other indirect (Scope 3) GHG emissions; GRI 302-1-e. Total energy consumption within the organization, in joules or multiples; SASB TC-SI-130a.1 (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable; TCFD Metrics and Targets.
+©2023 New Relic, Inc.
+51 of 52. 
+New Relic uses climate solutions platform Watershed to calculate our greenhouse gas emissions. Some of our emissions categories were subject to Watershed's methodology changes based on changes in climate science, changes in the world, and improvements in Watershed's methodology. For our FY23 footprint, we adjusted methodology assumptions related to the Covid19 pandemic. Impacted categories that increased due to these methodology changes include: employees, offices, goods + services, marketing, cloud usage, travel, and data centers. For FY23, New Relic moved from a fully spendbased estimate of cloud and data center emissions to a more granular and accurate activity-based measurement for cloud and data center emissions. Electricity usage emissions resulting from an activity based measurement can result in higher total MWh consumption year-over-year when this change is made due to the consumption actuals being higher than previously estimated averages. Activity-based measurement allows for more granular measurement of electricity used for compute and networking, which can lead to higher consumption numbers. In addition, New Relic’s cloud usage increased in FY23, contributing to the increase in total MWh electricity emissions.
+The data in this table is rounded to the nearest whole number and the totals represent sums of the rounded numbers.
+
+
+New Relic 2023 Impact Report / Contents ↑ 52 of 52. 
+About New Relic. 
+As a leader in observability, New Relic empowers engineers with a data-driven approach to planning, building, deploying, and running software. Offering the only unified data platform that empowers engineers to get all telemetry paired with powerful full-stack analysis tools, New Relic helps engineers do their best work with data, not opinions.
+Delivered through the industry’s first usage-based pricing, New Relic delivers more value by helping engineers improve cycle times, change failure rates, release frequency, and mean time to resolution. This improves uptime, reliability, and efficiency to deliver exceptional customer experiences that fuel growth.
+Visit Website © Copyright 2023, New Relic, Inc. All rights reserved. All trademarks, trade names, service marks and logos referenced herein belong to their respective companies.
+Cautionary Notes: This report may contain forward-looking statements regarding our future business expectations, which involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements. Forward-looking statements include all statements that are not purely historical and are often identified by the use of words such as, but not limited to: “aim,” “believe,” “can,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “project,” “potential,” “seek,” “should,” “target,” “will,” “would” and similar expressions or variations intended to identify forward-looking statements. Such statements include, but are not limited to: statements regarding our business plans and objectives, our strategies and systems for implementing our goals, our commitments to programs and policies, and our expectations and priorities for ESG initiatives. These statements reflect management’s current expectations, estimates and assumptions based on the information currently available to us. These forward-looking statements are not guarantees of future performance and involve significant risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from results, performance or achievements expressed or implied by the forward-looking statements contained in this report. Further information on factors that could affect our results and the forward-looking statements in this report is included in the filings we make with the SEC from time to time, including in our most recent Form 10-K and Form 10-Q, particularly under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Copies of these documents may be obtained by visiting our Investor Relations website at http://ir.newrelic.com or the SEC's website at www.sec.gov. We assume no obligation and do not intend to update these forward-looking statements, except as required by law. Historical and forward-looking statements contained in this report may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change in the future. Such historical and forward-looking statements may be subject to measurement uncertainties resulting from limitations inherent in the nature and the methods used for determining such information and may include estimates or approximations. We believe that such estimates are appropriate and reasonable; however, due to inherent uncertainties in making estimates and assumptions, actual results could differ from the original estimates. The precision of different measurement techniques may also vary. This report also includes certain information that is obtained or derived from published sources or third parties. The accuracy and completeness of such information are not guaranteed. Such information is subject to assumptions, estimates and other uncertainties, and we have not independently verified this information. The inclusion of topics in this report should not be read as implying that such topics are “material” in the context of the U.S. federal securities laws or any other regulatory framework, even where we use words such as “material” or “materiality. “Materiality” for purposes of our ESG reporting includes impacts on communities, the environment, and stakeholders such as employees, customers, and suppliers, and the inclusion of topics in this report, even when described as “material,” does not indicate that such topics are material to the Company’s business, operations, or financial condition.

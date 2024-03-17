@@ -1,0 +1,1411 @@
+Climate Action Report 2 July 2021
+
+
+or implied or projected by, the forward-looking information and statements. These risks and uncertainties include those discussed or identified in the filings with the Luxembourg Stock Market Authority for the Financial Markets (Commission de Surveillance du Secteur Financier) and the United States Securities and Exchange Commission (the “SEC”) made or to be made by ArcelorMittal, including ArcelorMittal’s latest Annual Report on Form 20-F on file with the SEC. In particular, ArcelorMittal’s carbon emissions targets are based on current assumptions with respect to the costs of implementing its targets (including the costs of green hydrogen and their evolution over time), government and societal support for the reduction of carbon emissions in particular regions and the advancement of technology and infrastructure related to the reduction of carbon emissions over time, which may not correspond in the future to ArcelorMittal’s current assumptions. For example, the Company could face significant financial impacts in Europe if it is unable to make the necessary investments to decarbonise and reach its 35% target by 2030 due to the design of European policy. ArcelorMittal undertakes no obligation to publicly update its forward-looking statements, whether as a result of new information, future events, or otherwise.
+This document contains forward-looking information and statements about ArcelorMittal and its subsidiaries. These statements include financial projections and estimates and their underlying assumptions, statements regarding plans, objectives and expectations with respect to future operations, products and services, and statements regarding future performance, as well as statements regarding ArcelorMittal’s plans, intentions, aims, ambitions and expectations, including with respect to ArcelorMittal’s carbon emissions. Forward-looking statements may be identified by the words “believe”, “expect”, “anticipate”, “target”, “accelerate”, “ambition”, “estimate”, “likely”, “may”, “outlook”, “plan”, “strategy”, “will” and similar expressions. Forwardlooking statements include all statements other than statements of historical fact. Although ArcelorMittal’s management believes that the expectations reflected in such forward-looking statements are reasonable, investors and holders of ArcelorMittal’s securities are cautioned that forward-looking information and statements are subject to numerous risks and uncertainties, many of which are difficult to predict and generally beyond the control of ArcelorMittal, that could cause actual results and developments to differ materially and adversely from those expressed in,
+Forward-looking statements. 
+Cover image: © Adobe. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 1
+
+
+Highlights from this report. 
+Leading the industry • New Group target of a 25% reduction in CO2e emissions intensity by 2030 (scope 1 and 2) • Europe target increased to 35% reduction in CO2e emissions intensity by 2030 (scope 1 and 2) 35%
+First to market • Customer appetite for low-carbon steel is real, as demonstrated by demand for our XCarb™ product • Competitive advantage with greater volumes, capturing commercial opportunities. 
+Funding • $10 billion total investment required to achieve 2030 Group decarbonisation target • Securing public funding support is a key focus and an opportunity to accelerate • ArcelorMittal’s expectation is that public funding covers 50% of the total cost of decarbonisation (capex and higher opex) so that companies are not rendered uncompetitive during the transition period. 
+World’s first zero carbon-emissions steel plant • World’s first full-scale zero carbon-emissions steel plant in Sestao, Spain, by 2025 • Plans for further steelmaking transformation in Europe and NAFTA. 
+Photo: © ArcelorMittal. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 2
+
+
+Forward-looking statements 1. 
+Highlights from this report 2. 
+Introduction 4. 
+Section 1 Progress overview 6 1.1 Progress in 2020 6 1.2 ArcelorMittal’s timeline since publication of its first Climate Action Report 7. 
+Section 2 Our decarbonisation strategy 11 2.1 Our targets 11 2.2 Our net-zero roadmap 12 2.3 Our plans: the DRI-based route 15 2.4 Costs, investments, and funding 30 2.5 The role of policy 31 2.6 Leading and collaborating 38. 
+Appendix 60. 
+A. How steel is made today 60. 
+B. Glossary 62. 
+C. Index of the Climate Action 100+ net-zero company benchmark 64. 
+C. Alignment with TCFD recommendations 66. 
+Section 3 Our opportunities, risks and governance of climate change 41 3.1 Opportunities 41 3.2 Risks 43 3.3 Governance 47. 
+Section 4 Metrics 49 4.1 Carbon performance in 2020 49. 
+Section 5 Technology 50 5.1 Technology pathways 50. 
+Section 6 The bigger picture 53 6.1 Circularity in our world and in the steel industry 53 6.2 The carbon challenges facing steel 58. 
+Contents. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 3
+
+
+Photo: © ArcelorMittal. 
+Introduction “ Steel is already the material of choice due to its lower carbon footprint and infinite recyclability. Crucially, as we decarbonise further, zero carbon-emissions steel has the potential to be the backbone of the buildings, infrastructure and transport systems that will enable governments, customers and investors to meet their net-zero commitments.”
+Aditya Mittal, CEO ArcelorMittal. 
+This is real and meaningful progress that is testament to the capabilities of our people. But we know we must continue to challenge ourselves to move faster. As we look ahead to COP26 at the end of the year, and even further ahead to what will be a decisive decade for charting the course to a net-zero economy, we must play our part in driving the systems change required globally to achieve net-zero by 2050.
+This is important because steel has a vital role to play in a net-zero world. Indeed, we believe zero carbon-emissions steel has the potential to be the backbone of the buildings, infrastructure, industry and machinery, and transport systems that will enable governments, customers, and investors to meet their own net-zero commitments.
+This report represents a further step forward in this regard.
+We have, for the first time, set a 2030 group CO2e emissions intensity reduction target. At 25%, this reflects the unequal pace of change that is the reality of the world’s decarbonisation journey. In regions like Europe, where we are observing an ‘Accelerate’ policy scenario, we can be more ambitious – with plans to reduce CO2e emissions intensity by 35% within the next decade. In other regions, we must recognise that without sufficient incentives and policy support, it is much harder for steel to decarbonise – and being a first mover will only result in being rendered uncompetitive in that market.
+Dear Stakeholders,
+Welcome to ArcelorMittal’s second Climate Action Report (CAR2). This follows our first group-wide Climate Action Report published in 2019 and our first Europe Climate Action Report published in 2020.
+We have seen a lot of progress since we published our first report – globally and within ArcelorMittal.
+Covid-19 has only further increased the momentum. The requirement to stimulate the economy postCovid is aligning with a desire to “build back better” thereby tackling two crises simultaneously.
+In May 2019, just 2.4% of the global economy was covered by a net-zero target. Two years later, more than 70% of the economy is now covered – although we must acknowledge that this is not yet backed up by plans to deliver.
+ArcelorMittal now has a net-zero by 2050 target and has recently announced plans for the world’s first full-scale zero carbon-emissions steel plant in Sestao, Spain. These plans will enable us to be ahead of our sector in the net-zero transition, generating significant opportunities in multiple aspects of our business.
+Our progress enables us to offer customers net-zero equivalent steel for the first time via an audited certification scheme. The first XCarb™ certified tonnes were sold in 2020. In 2021, the amount of this product available will increase to 120,000 tonnes, rising to 600,000 tonnes in 2022 as we continue to drive down our emissions following investments in new technologies.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 4
+
+
+Introduction. 
+We expect the pace of change to accelerate as other parts of the world become more ambitious with their transition plans. That optimism has given us the confidence to commit to publishing a Science Based Target within two years. We look forward to collaborating with the Science Based Targets initiative through a project to define a fit-for-purpose methodology to develop additional science-based target resources for the steel industry, building on the work we have been leading with our peers across our sector. Our hope is that this accelerates progress not only for ArcelorMittal, but across the entire industry.
+For our target setting today, midway through 2021, we assume progress in other regions of the world will be at least five years behind Europe.
+Policymaking therefore has a catalytic role to play. The Energy Transitions Commission, of which we are an active member, estimates that the required additional investments to achieve a zero carbonemissions economy in 2050 – while significant in absolute dollar terms – will amount to no more than 1% to 1.5% of global GDP (~US$1 trillion to US$2 trillion per year). Steel represents approximately 7-9% of global emissions. Investments that are comparatively small by global standards but massive for the industry have the potential to deliver outsized returns on the global carbon footprint. That makes it a sound goal of policy.
+We will continue to step up our advocacy for policies that support the acceleration of this transition, addressing the fact that both capex and opex costs will be significantly higher, at least in the short to medium term. This includes developing clean energy infrastructure, providing access to transition finance, and addressing the carbon leakage resulting from the unequal regional pace of change in an industry that is globally traded.
+Against this context, we believe it is sensible to continue to develop two pathways that have the potential to achieve zero-carbon emissions steel: Innovative DRI (Direct Reduced Iron) and Smart Carbon. A third pathway, Direct Electrolysis of Iron, also represents considerable potential – albeit within a longer time horizon.
+In Europe, our strategy at present is largely focused on the Innovative DRI pathway. This reflects the commitment in Europe to prioritise the availability of green hydrogen at competitive prices. Countries including Spain and Germany plan to accelerate the availability of renewable energy that will support the introduction of green hydrogen. This is the foundation of zero carbonemissions through the DRI-EAF (Direct Reduced Iron-Electric Arc Furnace) route and supports our plans in these countries.
+Smart Carbon also has the potential to achieve zero carbon-emissions. With the potential to also become carbon-negative, Smart Carbon harnesses bio-energy and carbon capture utilisation and storage (CCUS) – all technologies that the International Energy Agency and the UN Intergovernmental Panel on Climate Change see as critical to achieving net-zero by 2050.
+We are convinced that both of these technologies offer a real pathway for the steel industry to be competitive.
+However, these technologies today are still far from being competitive.
+The intention is that over time low carbon technologies will become more competitive as the carbon price increases and is applied globally and the decarbonisation technologies themselves become more mature and efficient. But this will take at least ten years and in the transition period support will be required to support the development of innovation while moderating capital spend which will not yield an immediate return and ensuring operational competitiveness.
+That is why we are asking for support with capex – estimated to be US$10 billion – to achieve our 25% target, as well as support on opex costs in the short to medium term.
+In many respects, the challenges confronting steelmaking today resemble those faced by renewable energy over a decade ago. In that case, the importance of solar and wind power was widely acknowledged yet the technology remained economically prohibitive. The levels of investment, innovation and adoption we have seen since, have reached up to 90 billion of annual European subsidies per annum and have driven the cost of solar and wind power down to be cheaper than coal. They were assisted by targeted, reliable and thoughtful policies that enabled both companies and their financing partners to make long-term planning decisions. We are optimistic that the same will happen in steel. It is too critical a material on so many levels for that not to be the case. And, as developing economies continue to grow, the world will need more steel – not less – to give a better quality of life to millions of people.
+Our activity and progress will continue to be overseen by a robust governance structure that includes an executive-level Climate Change Committee and the board-level Sustainable Development Committee, chaired by our lead independent director. Having set a 2030 group target, we will now link this to executive remuneration. In terms of our investment decisionmaking, each major capex project proposal is required to demonstrate its CO2 impact to the Investment Allocation Committee (IAC). The IAC considers both the potential future carbon cost as well as the capital cost of decarbonisation, to maximise our chances of achieving our targets while ensuring each project is economically justifiable and earns its cost of capital. It is a crucial part of our strategy to manage risk and deliver long-term growth.
+Over this past year, we have engaged with our stakeholders on climate more than ever before. I hope this report demonstrates how seriously we take your input, how closely we have listened to your questions, and how committed we are to providing solutions.
+We expect that the year ahead will enable us to make further progress on our journey to decarbonise. We look forward to leading the steel industry’s path to decarbonise.
+Aditya Mittal Chief executive officer. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 5
+
+
+Photo: © Shutterstock • Finance: Given the high levels of capex and opex required for the transition, it is critical there are policies in place to support regional and global competitiveness of assets that are first movers in the transition to net zero carbon steel and to create the necessary market conditions to ensure net zero steelmaking is commercially viable. Access to “green” or “transition” finance will be imperative for hard-to-abate sectors like steel. We continue to see encouraging progress on this front with considerable funds being made available by governments at both a national and continental level, for example, the EU Innovation Fund for which our CarbHFlex project was shortlisted. Financial institutions also have a vital role to play and the creation of a sub-group of the Centre for Climate Aligned Finance to look specifically at the steel sector is another welcome development. It is critical that both funding and finance is available to companies for which the transition is costly, but which cannot finance the transition by themselves.
+The steel industry’s transition to net zero by 2050 is a big challenge. Clearly, the steel sector has a central role to play in a successful transition. Additionally, as we have explained in our previous Climate Action Reports, the industry’s progress will be faster if there is a collaborative effort by all its stakeholders.
+Since the publication of our first Climate Action Report in July 2019, we have joined a number of important platforms that bring critical stakeholder groups together to identify the key levers required for the steel industry’s net-zero transition. These include the Energy Transition Commission (ETC), the World Economic Forum and the Centre for Climate Aligned Finance – all part of the Mission Possible Partnership – as well as other stakeholders in order to play an active role in accelerating progress, including ResponsibleSteel, the International Energy Agency and the ScienceBased Targets Initiative.
+Over the past two years, we have been encouraged by the active interest these groups and organisations have shown, the time they have taken to understand the unique challenges faced by the sector, and the willingness they have shown to work together to unlock and accelerate progress.
+Similar to Mission Possible Platform, we believe a number of key goals will support transition: coalition building, finance, policy engagement, demand signals and net-zero roadmap. Those levers can be powerful tailwinds to help us achieve our short-, medium- and long-term targets.
+• Technology roadmap: Technology progress continues to be encouraging. We remain confident that both the Innovative DRI route and the Smart Carbon route offer the potential to achieve net-zero by 2050. Low and zero carbon-emissions steelmaking projects are under construction and are expected to be operational in 2022. We are also developing a third technology route that utilises direct electrolysis.
+• Demand signal: One of the main challenges of the transition is that low-carbon steel costs considerably more to produce than the current ways of steelmaking. A customer demand signal for this premium steel is therefore an important foundation of the transition. Earlier this year, ArcelorMittal launched the first products under its new XCarb™ brand. XCarb™ green steel certificates and XCarb™ recycled and renewably-produced steel have both been very well received by customers and attracted a premium price. This gives us confidence that a demand signal, at least in Europe where the first products have launched, is real.
+Section 1 Progress overview 1.1 Progress in 2020 • Policy engagement: It is now generally well understood that without a supportive policy environment the steel industry will find it very hard to make significant decarbonisation progress. We are encouraged that stakeholders have taken the time to understand the specific policy instruments that will be required to accelerate the transition and are open to publishing joint policy positions with the industry. Policy is not uniform across the world and therefore it is logical to accept that those regions that are more ambitious with targeted policy will decarbonise their steel industry faster, provided they also take into account the requirement to protect against carbon leakage. As our own thinking on the optimum policy combination to accelerate progress develops, we intend to actively engage with governments in the regions where we operate to share that thinking and help shape policy.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 6
+
+
+September 2019. 
+ArcelorMittal commits to Equinor-led carbon capture and storage project. 
+The company signed a Memorandum of Understanding with international energy firm, Equinor to develop value chains in carbon capture and storage. ArcelorMittal will participate in a number of joint activities, including the development of logistics, exploring potential commercial models, and advocating on the topic of carbon capture and use (CCU) or storage (CCS).
+May 2019. 
+ArcelorMittal publishes first Climate Action Report. 
+In its first Climate Action Report, ArcelorMittal announced its ambition to significantly reduce CO2e or greenhouse gas emissions globally and become carbon-neutral in Europe by 2050. The report set out two technology pathways that can lead to net zero steelmaking and a range of low and zero carbon-emissions technologies.
+July 2019. 
+ArcelorMittal ranked best steel company for low carbon innovations. 
+CDP’s Melting Point report ranked ArcelorMittal first in five categories relating to steel companies’ readiness for a low carbon transition. The categories were low carbon innovations, transition opportunities, data transparency, renewable energy use, and board and executive climate management.
+Section 1 Progress overview 1.2 ArcelorMittal’s timeline since publication of its first Climate Action Report. 
+ArcelorMittal commissions design of demonstration plant for hydrogen steel production in Hamburg. 
+ArcelorMittal commissioned technology provider Midrex Technologies to design a demonstration plant at its Hamburg site to produce steel with hydrogen. The demonstration plant will produce around 100,000 tons of direct reduced iron per year, initially with grey hydrogen sourced from natural gas and eventually green hydrogen from renewable energy sources.
+ArcelorMittal unveils Belgium’s largest solar roof. 
+The installation of more than 27,000 solar panels on the roof of ArcelorMittal in Ghent was completed, creating the largest solar roof in Belgium. The project will aid ArcelorMittal Belgium’s journey to low-carbon steelmaking as the power generated will be used internally in Ghent.
+October 2019 worldsteel acknowledges ArcelorMittal’s excellence in sustainability. 
+For the third consecutive year, ArcelorMittal won worldsteel’s Steelie Award for excellence in sustainability. The award highlights the company’s industry leadership on sustainability and was given in recognition of ArcelorMittal publishing the steel sector’s first Climate Action Report in May 2019.
+December 2019. 
+ArcelorMittal Europe sets target to cut carbon emissions by 30% by 2030. 
+ArcelorMittal Europe announced its roadmap and plans to reduce CO2e emissions by 30% by 2030. The target is in line with the company’s ambition to become net zero in Europe by 2050 which was announced in May 2020.
+© CDP 2019 © Equinor. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 7
+
+
+Photo: © ArcelorMittal. 
+June 2020. 
+ArcelorMittal Europe sets out path to net-zero by 2050. 
+In its Climate Action in Europe Report, ArcelorMittal Europe announced details of how it plans to become net-zero by 2050. By investing in two routes for low carbon-emissions steelmaking – Smart Carbon and Innovative DRI – ArcelorMittal Europe can significantly reduce CO2e emissions by 2030 over a 2018 baseline.
+September 2020. 
+ArcelorMittal sets 2050 net-zero target. 
+ArcelorMittal announced a group-wide commitment to becoming net-zero by 2050, building on the commitment made in 2019 for its European business to reduce emissions by 30% by 2030, and become net zero by 2050.
+Section 1 Progress overview 1.2 ArcelorMittal’s timeline since publication of its first Climate Action Report. 
+October 2020. 
+ArcelorMittal Europe starts producing ‘green steel’
+ArcelorMittal Europe announced details of the CO2e emissions technology strategy that will enable it to offer its first green steel solutions to customers. Production will rise from 30,000 tonnes in 2020 to 120,000 tonnes in 2021 and 600,000 tonnes by 2022.
+December 2020. 
+ArcelorMittal ranked at global leadership level on climate action. 
+ArcelorMittal was again recognised by CDP for its strong performance in corporate transparency and action on climate change. ArcelorMittal successfully retained its A- score in the 2020 CDP Climate Change assessment, putting the company within the top quartile of all metal smelting, refining and forming companies and the top 10% of the steel industry.
+January 2020. 
+CDP recognises ArcelorMittal as a global leader on climate action. 
+CDP recognised ArcelorMittal for its leadership on corporate transparency and action on climate change from among over 8,000 companies worldwide that were scored on their 2019 disclosures. ArcelorMittal scored an A- in the 2019 CDP Climate Change assessment, an improvement from C in 2017, which means the company has now reached leadership level. The score put ArcelorMittal amongst the top 11% of companies within our industry.
+May 2020. 
+European Investment Bank makes €75 million loan to finance breakthrough technology. 
+The European Investment Bank, with the support of the European Commission, granted a €75 million loan to ArcelorMittal for the construction of two ground-breaking projects at the company’s Ghent facility in Belgium. The Carbalyst and Torero projects require total investment of €235 million and will save 350,000 tonnes of CO2 by converting waste and by-products into valuable new products.
+You can read more about these projects in chapter 2.2.2. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 8
+
+
+Photo: © Shutterstock. 
+June 2021. 
+ArcelorMittal XCarb™ innovation fund makes its first investment. 
+ArcelorMittal announced the completion of its first XCarb™ innovation fund investment since launching the initiative in March 2021. The Company has invested an initial $10 million in Heliogen, a renewable energy technology company that focuses on “unlocking the power of sunlight to replace fossil fuels”. Heliogen’s technology will harness solar energy by using a field of mirrors that will act as a multi-acre magnifying glass to concentrate and capture sunlight. The sunlight will then be subsequently converted into heat (HelioHeat™), electricity (HelioPower™) or clean fuels (HelioFuel™). All three Heliogen products have the potential to be applicable to the steelmaking process and support the steel industry’s transition to carbon-neutrality. In addition to the $10 million investment, ArcelorMittal and Heliogen have signed a Memorandum of Understanding that aims to evaluate the potential of Heliogen’s products in several of ArcelorMittal’s steel plants.
+Section 1 Progress overview 1.2 ArcelorMittal’s timeline since publication of its first Climate Action Report. 
+January 2021. 
+Vow ASA and ArcelorMittal join forces to build biogas plant in Luxembourg. 
+Specialist provider of technology for decarbonising industry, Vow ASA, signed a strategic Memorandum of Understanding with ArcelorMittal to work on a project to build a biogas production plant that will reduce CO2 emissions produced during the steelmaking process. The Rodange biogas plant is planned to come online in 2023.
+February 2021. 
+ArcelorMittal Asturias starts coke-oven gas injection for Blast Furnace B. 
+ArcelorMittal Asturias announced its coke-oven gas injection project for Blast Furnace B in its Gijón plant. The Smart Carbon technology allows gases from various sources to be injected into the blast furnace, resulting in a reduction in CO2 emissions of 125,000 tonnes a year, equivalent to the emissions generated by the annual consumption of 84,000 Spanish households.
+March 2021. 
+Air Liquide and ArcelorMittal join forces to decarbonise steel production in Dunkirk. 
+Air Liquide and ArcelorMittal signed a Memorandum of Understanding with the objective of implementing solutions to produce low-carbon steel in Dunkirk. The companies will join forces to develop innovative solutions involving low-carbon hydrogen and CO2 capture technologies.
+ArcelorMittal launches XCarb™
+ArcelorMittal launched its first three XCarb™ initiatives as part of the company’s journey to deliver on its 2050 net-zero commitment. XCarb™ will bring together all of ArcelorMittal’s reduced, low and zero-carbon products and steelmaking activities, as well as wider initiatives and green innovation projects, into a single effort focused on achieving demonstrable progress towards net zero steel. The three XCarb™ branded initiatives launched include: XCarb™ green steel certificates, XCarb™ recycled and renewably produced and the XCarb™ innovation fund.
+ArcelorMittal plans major investment in German sites. 
+ArcelorMittal announced plans to build a large-scale industrial plant for DRI and EAF-based steelmaking at the company’s site in Bremen. It also disclosed plans for an Innovative DRI pilot plant and EAF in Eisenhüttenstadt, following the announcement of the planned expansion of Germany’s hydrogen infrastructure. Using green hydrogen, up to 3.5 million tonnes of steel could be produced by the Bremen and Eisenhuttenstadt sites by 2030, with significantly lower CO2 emissions.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 9
+
+
+Photo: © ArcelorMittal. 
+July 2021. 
+ArcelorMittal Sestao to become the world’s first full-scale zero carbon-emissions steel plant. 
+The development is the result of a memorandum of understanding signed with the Government of Spain that will see an investment of €1 billion in the construction of a green hydrogen DRI plant at its plant in Gijón, as well as a new hybrid EAF. The DRI installation in Gijón will also enable ArcelorMittal Sestao to be the world’s first full-scale zero carbon-emissions steel plant. By 2025, the Sestao plant – which manufactures a range of flat steel products for the automotive and construction sectors, and general industry – will produce 1.6 million tonnes of zero carbon-emissions steel.
+ArcelorMittal celebrates industry-first with ResponsibleSteel™ site certifications. 
+The company’s steelmaking sites in ArcelorMittal Belgium (Geel, Genk, Gent and Liège), Luxembourg (Belval, Differdange and Rodange) and Germany (Bremen and Eisenhüttenstadt) are the first steel plants globally to be independently audited and found to meet the standards required for ResponsibleSteel, the industry’s first global multi-stakeholder standard and certification initiative.
+Agreement concludes second investment in ArcelorMittal’s XCarb™ innovation fund. 
+ArcelorMittal announced it has completed its second investment in the Company’s recently launched XCarb™ innovation fund, serving as lead investor in Form Energy’s $200 million Series D financing round, with a $25 million equity injection.
+ArcelorMittal and SEKISUI CHEMICAL announce carbon recycling partnership. 
+ArcelorMittal and SEKISUI CHEMICAL announced they are partnering on a project to capture and re-use carbon waste gases from the steelmaking process, which holds the potential to reduce dependence on fossil resources and contribute to the decarbonisation of steelmaking.
+ArcelorMittal publishes second Group Climate Action report. 
+ArcelorMittal announced publication of the second Group Climate Action report targeting 25% global reduction in CO2e emissions intensity by 2030 (scopes 1+2) with anticipated cost of US$10 billion; Europe target increased to 35% reduction in CO2e emissions intensity by 2030 (Scopes 1+2) reflecting recent announcement that Sestao will become Europe’s first full-scale zero carbon-emissions plant; new collaboration announced with Science Based Targets initiative; targets to be linked to executive remuneration.
+Section 1 Progress overview 1.2 ArcelorMittal’s timeline since publication of its first Climate Action Report. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 10
+
+
+These assumptions form the basis of the policybased outlook we outlined in our first Climate Action report, in which we demonstrated how the speed of decarbonisation by steelmakers is linked to policy developments.
+Our decarbonisation strategy in each part of the world where we operate is now based on the same assumptions. In some countries, for example Europe and Canada, we see sufficient policy incentives to enable ArcelorMittal to ‘Accelerate’ its decarbonisation plans. Where these conditions do not yet exist, we will continue to make improvements to ‘Move’, but it is difficult to ‘Accelerate’ without becoming uncompetitive in that market.
+Our policy-based scenarios demonstrate the role of policy support in driving the pace of decarbonisation.
+Accelerate globally. 
+Accelerate regionally. 
+Move. 
+Stagnate. 
+Pace of deployment of low-emissions technologies. 
+Level of policy RESPONSE. 
+HIGH LOW. 
+HIGH. 
+Jurisdiction 2021-25 2026-30 2031-35. 
+EU* Accelerate Accelerate Accelerate. 
+Canada** Accelerate Accelerate Accelerate. 
+USA Move Accelerate Accelerate. 
+Mexico Move Move Accelerate. 
+Kazakhstan Move Move Accelerate. 
+Ukraine Move Move Accelerate. 
+Brazil Move Accelerate Accelerate. 
+South Africa Move Accelerate Accelerate. 
+Section 2 Our decarbonisation strategy. 
+ArcelorMittal is committed to reaching net-zero on a global basis by 2050.
+We have now adopted an ambitious set of carbon targets with which to lead our sector: by 2030, we are targeting a 25% reduction in our CO2e emissions intensity across our global steel and mining operations, with an increased European target of 35% (up from 30%). Both targets cover both scope 1 and 2.
+These targets create the milestones we need to achieve in order to meet our long-term target of net-zero by 2050, and are set against our 2018 baseline.
+For the purpose of setting a group target, we have made a key set of assumptions as a base case: • The cost of green hydrogen will become increasingly competitive over the next decade but will still require government support • Carbon capture, utilisation and storage infrastructure will take time to be built at scale. While Europe is expected to take the lead, CCUS infrastructure has the potential to expand quickly in the US and Canada – providing some potential upside to our assumptions • Different regions of the world will continue to move at very different paces and the level of climate ambition will differ between jurisdictions at any given time • The introduction of climate-friendly policies in other regions will be 5-10 years behind Europe • As it has been reported, 2060 may not be a realistic net-zero target for developing economies, which may mean emissions do not peak until 2030. 
+ArcelorMittal’s decarbonisation plans will accelerate in each jurisdiction as the necessary policy conditions are in place. See section 2.5 for more details.
+ArcelorMittal’s expected response Based on anticipated policy developments in next 5 years * Scope and extension conditional upon appropriate level of European. 
+Union and Member States financial support as well as final revised ETS system and CBAM Canada ** Federal + Ontario, Quebec 2.1 Our targets 25% 35%
+New Group target of a 25% reduction in CO2e emissions intensity by 2030 (scope 1 and 2)
+Europe target increased to 35% reduction in CO2e emissions intensity by 2030 (scopes 1 and 2)
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 11
+
+
+cycles. Natural carbon cycles include use of sustainable forestry and agriculture residues, to produce bioenergy for use in steelmaking. Emissions from use of this bioenergy will be captured by the regrowth of the biomass waste used. Synthetic carbon cycles rely on use of waste plastics as energy source, transforming the carbon in waste gases through CCU into equivalent new plastics, and ensuring no emissions are generated.
+C. Increased use of scrap. 
+As well as using scrap in the EAF, we can increase the use of low-quality scrap in BF-BOF steelmaking process by improving steel scrap sorting and classification, installing scrap pre-melting technology and adjusting the steelmaking process to accommodate scrap.
+D. Clean electricity. 
+Reducing our scope 2 emissions means mainly focusing on sourcing low-carbon electricity. This will be an increasing challenge for ArcelorMittal as we launch projects to transition from BF-BOF technology to scrap and DRI-EAF technology, which will result in electricity becoming a greater part of the energy mix we use to make steel.
+We recognise we cannot rely on the electricity grid becoming more decarbonised as a whole and need to focus on increasing the amount of clean electricity we consume. We plan to do this by purchasing renewable energy certificates and by direct power purchase agreements (PPA) with suppliers from renewables projects.
+E. Offsetting residual emissions. 
+While ArcelorMittal is committed to achieving net zero by reducing CO2e emissions to the atmosphere from its operations, there are likely to remain residual emissions for which either there will be no feasible technological solution or the solution involves excessively high economic or social costs.
+For these residual emissions – today we estimate less than 5% of total emissions – ArcelorMittal will buy high-quality offsets or launch projects to generate high-quality carbon credits that would not have happened without the company’s intervention.
+B. Energy transformation. 
+Over recent decades, the steel industry has made enormous efficiency improvements in the efficient use of energy in BF-BOF steelmaking via multiple technologies. Further innovations continue to evolve which reduce CO2 emissions, such as the use of coke oven gas in the tuyeres of the blast furnace, drawing on the rich hydrogen content of the gas. However, these innovations continue to rely significantly on the use of fossil fuels.
+The energy used to make steel in future years will undergo a further and more radical transition of the industry to clean energy vectors, as we have described in our previous climate action reports. This will involve shifting to one or combination of three alternatives: clean electricity (which could be in the form of green hydrogen), continued use of fossil carbon coupled with CCS to ensure no carbon is emitted, and use of circular carbon either through natural or synthetic carbon. 
+A. Steelmaking transformation. 
+In the course of the coming decades, the steel industry will undergo a transformation of the assets used to make steel on a scale not seen for over 100 years. This includes switching ironmaking from the BF-BOF (Blast Furnace-Basic Oxygen Furnace) to the DRI, and from iron ore preparation in the sinter plant (using heat or pressure to compact a material) to the pellet plant (which compresses or moulds the iron material into the shape of a pellet). Ironmaking with pellets in the DRI is usually coupled with EAF.
+Historically there has been limited use of the DRI-EAF route except in regions with a very low natural gas price. However, given the increasing cost of carbon and the requirement to reduce emissions, transitioning to natural-gas based DRI-EAF can be a first step with a proven technology that has the potential to further innovate and decarbonise through the use of green hydrogen.
+For the first time, we are disclosing a roadmap that shows our journey to net zero.
+2.2.1 Five levers. 
+Our roadmap features five levers – in essence, groupings of actions and initiatives – that act as stepping stones to achieving carbon neutrality by 2050. These are:
+A. Steelmaking transformation. 
+B. Energy transformation. 
+C. Increased use of scrap. 
+D. Sourcing clean electricity. 
+E. Offsetting residual emissions. 
+Section 2 Our decarbonisation strategy 2.2 Our net-zero roadmap. 
+DRI-EAF Green electricity Green hydrogen Zero-emissions steel. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 12
+
+
+Up to 2030, the waterfall chart shows a breakdown of the 25% global reduction in CO2e emissions intensity we are targeting, taking into account announced projects and initiatives we expect to announce over the coming years.
+1. Announced projects – Innovative DRI-EAF 2. Announced projects – Smart Carbon and gas injection 3. Further projects in development in Europe 4. Project in NAFTA to be announced; further projects in development ex-Europe 5. Sourcing clean electricity. 
+We provide details of announced projects in Section 2.3.
+Section 2 Our decarbonisation strategy 2.2 Our net-zero roadmap. 
+Carbon in the atmosphere. 
+Carbon sequestered. 
+Bioenergy/ CCS with steelmaking as carbon removal 100% 2018. 
+Key A. Steelmaking transformation (footrprint change, energy efficiency, pellets) B. Energy transformation (CCUS, hydrogen, bioenergy) C. Increased scrap use D. Sourcing clean electricity E. Offsetting residual emissions 2030 2050. 
+Scope 1 75%
+Net-zero. 
+Scope 1 Offsetting Carbon removal Scope 2 Scope 2 -7.5% -5.1% -1.5% -2.1% -1.6% 2. Announced projects - Smart Carbon + gas injection 1. Announced projects - Innovative DRI-EAF 3. Further projects in development in Europe 4.1 Further projects in development ex-Europe 5. Sourcing clean electricity. 
+Steelmaking transformation. 
+Energy transformation. 
+Increased Scrap use. 
+Sourcing clean electricity Offsetting residual emissions. 
+B A, C A, B, C. 
+B
+A. 
+C
+D. 
+E A, B, C -7.4% 4. Project in NAFTA to be announced. 
+A, B, C D. 
+The waterfall chart 2030-2050 breakdown is for illustrative purposes only. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 13
+
+
+2.2.2 Technology pathways. 
+As we have explained in previous climate action reports, we have identified two viable decarbonisation technology pathways for steel: Innovative DRI and Smart Carbon, and a third pathway, direct electrolysis, which is promising but not yet mature.
+We have done a lot of work developing technologies for the two viable routes since the publication of our last report. While these technologies are still far from being commercially competitive, this work has reinforced the potential that both pathways have to produce net-zero steel.
+In Europe, the policy environment has enabled ArcelorMittal to accelerate plans to decarbonise steel. EU policy combined with support for significant projects to kickstart the development of hydrogen infrastructure in Europe and reduce the costs, alongside ambitious national commitments to deliver abundant supplies of clean energy and provide funding support for decarbonisation, make it possible to envision zero carbon-emissions steelmaking in first-mover countries across scope 1 and 2 emissions within the next five years: as set out in our detailed plan for our Sestao plant in Spain.
+As renewable and low-carbon electricity becomes increasingly available, the production of affordable, industrial-scale green hydrogen becomes a possibility and the prospect of zero carbonemissions steel made via the green hydrogen– DRI–EAF route becomes viable. In Europe, our strategy is largely focused on the Innovative DRI pathway. This reflects the commitment in Europe to prioritise the availability of green hydrogen at competitive prices. Given the significant variation across countries and regions in existing CO2 policy frameworks and in the availability and cost of the clean energy, we will continue to develop our Smart Carbon route. This combines bio-energy, carbon capture and utilisation – all technologies that the International Energy Agency (IEA) and the UN Intergovernmental Panel on Climate Change (IPCC) see as critical to achieving net-zero by 2050. Crucially, Smart Carbon gives us flexibility to adjust our carbon emission reduction plans to local steelmaking conditions.
+We are also cautiously optimistic about a third potential technology pathway – direct electrolysis of iron – which is currently in the research and development phase and showing good potential in our Siderwin project (see section 5.1 for more information).
+Section 2 Our decarbonisation strategy 2.2 Our net-zero roadmap. 
+Hydrogen DRI technology continues to advance, yet at today’s green hydrogen cost of $3.5-5/kg, we estimate that green hydrogen based DRI production would increase the cost of steel production by $150 to $250 per tonne compared to natural gas based DRI. On a like-for-like basis (excluding CO2 costs), hydrogen would need to fall below $1/kg to compete with natural gas DRI in Europe, and below $0.7/kg to compete in USA.
+If renewable energy costs – the highest contributor to green hydrogen costs – continue to fall, we estimate green hydrogen costs could drop to ~$1.5/kg by 2030. This still means that green hydrogen DRI would require significant public support beyond 2030 to be competitive versus other carbon neutral steelmaking routes.
+ArcelorMittal has recently joined the Hydeal consortium, which is focussed on creating the right environment to improve both the supply and market conditions required to drive down the price of green hydrogen to €1.5/kg. At this level it can start to be competitive with fossil fuels in the steel-making process.
+Should the costs of green hydrogen fall more quickly than our estimates – which could happen as a result of accelerated regulation and strong government support – then we will be ready to utilise green hydrogen in our DRI-EAF plants. At this point, we expect green hydrogen DRI-EAF to play a significant part in our emissions reduction after 2030.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 14 Hydrogen costs. 
+Clean electricity generation Water electrolysis Heating. 
+Hydrogen DRI H2 use for DRI production. 
+Carbon capture and storage Steelmaking. 
+Circular carbon. 
+Clean electricity and green hydrogen. 
+Carbon capture and storage and blue hydrogen. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+DRI. 
+H2O. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+IGAR. 
+BF-BOF. 
+DRI. 
+DRI
+
+
+Input of clean energy in the form of bioenergy from circular carbon from sustainable biomass. 
+Circular carbon. 
+Sustainable biomass. 
+Pyrolysis. 
+Circular carbon dioxide. 
+Clean electricity (post 2030)
+Clean electricity generation Electrolysis. 
+Carbon transport Carbon transport Carbon storage Carbon storage. 
+Bioenergy. 
+Reformer. 
+Carbon capture and storage. 
+Capturing, transporting and storing any non-circular carbon sources. 
+Carbon capture and storage. 
+Green hydrogen Input of clean energy in the form of hydrogen from clean electricity via electrolysis of water into steelmaking. 
+Blue hydrogen Input of clean energy in the form of hydrogen via separation and carbon capture and storage of carbon in natural gas. 
+Fossil fuels. 
+DRI – EAF 2.3.1 Decarbonisation projects 2021-2030 2.3.1.1 Announced projects – Innovative DRI-EAF. 
+At the forefront of our announcements in 2021 are detailed plans to develop a zero carbon-emissions steel plant in Sestao, Spain. It will produce zero carbonemissions steel across scope 1 and 2 emissions by 2025. We are also working on other new technologies for low carbon-emissions steelmaking.
+Making carbon-neutral steel: the DRI-based route. 
+Section 2 Our decarbonisation strategy 2.3 Our plans: the DRI-based route. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 15
+
+
+We will also construct a new hybrid EAF in Gijón. The construction of the DRI and EAF units will transition the Gijón plant away from BF-BOF steelmaking to DRI-EAF production, which generates a significantly lower carbon footprint.
+We have signed a Memorandum of Understanding with the Spanish government that will underpin the EUR1 billion required for the transition.
+Government support for this project is crucial, firstly from a funding perspective, given the significant cost associated with the transition to net zero steelmaking. Secondly, because it will enable ArcelorMittal to have access to green hydrogen supplied through a consortium of companies that will cooperate in the construction of the infrastructure required in order to produce hydrogen in the Iberian Peninsula using solar-powered electrolysis and to transport it directly through a network of pipelines. The initiative involves the construction of multiple large-scale solar farms, with the hydrogen produced in the same location, thereby reducing production costs, and transported directly via pipeline to Gijon and Sestao.
+Expected completion date: 2025. 
+Section 2 Our decarbonisation strategy 2.3 Our plans: the DRI-based route. 
+ArcelorMittal Spain. 
+Sestao: zero carbon-emissions steel plant Gijon: new DRI and EAF. 
+ArcelorMittal’s facility in Sestao will become the world’s first full-scale zero carbon-emissions steel plant. To achieve this, a ~2 million tonne green hydrogen-powered DRI unit will be constructed at our nearby Gijón plant, from which tonnes of DRI will be transported to Sestao to be used as feedstock for its two EAFs.
+By 2025, the Sestao plant – which manufactures a range of flat steel products for the automotive and construction sectors, and general industry – will produce 1.6 million tonnes of zero carbonemissions steel by: • Changing the metallic input by increasing the proportion of circular, recycled scrap, and using green hydrogen-produced DRI from Gijón in its two existing EAFs. This means the metallic input into Sestao’s EAFs will be from zero carbon emission sources (covering scope 1 and 2).
+• Powering all steelmaking assets (EAFs, rolling mill, finishing lines) with renewable electricity, either by establishing a renewable energy power purchase agreement (PPA) or buying renewable energy guarantees of origin (GOOs) certificates.
+• Introducing several key emerging technologies that will replace the small, remaining use of fossil fuel in the steelmaking process with carbonneutral energy inputs, such as sustainable biomass or green hydrogen. This will bring the plant to zero carbon-emissions on a scope 1 and 2 basis.
+Iron ore. 
+Scrap. 
+Renewable electricity generation Renewable electricity generation Electrolysis. 
+New Green Hydrogen DRI plant, Gijón. 
+Existing electric arc furnace (EAF) in Sestao fully decarbonised. 
+New EAF, Gijón. 
+This is how we will reduce CO2 from ArcelorMittal Spain by 2025. 
+DRI – EAF. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 16
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the DRI-based route. 
+Hamburg: Europe’s only EAF-DRI facility. 
+In Germany, ArcelorMittal already operates Europe’s only DRI-EAF plant in Hamburg, where the switch to using hydrogen instead of natural gas in the iron ore reduction process is being prepared. A project is underway to test the ability of hydrogen to reduce iron ore and form DRI on an industrial scale, as well as testing carbon-free DRI in the EAF steelmaking process. The objective is to reach industrial commercial maturity of the technology by 2025, initially producing 100,000 tonnes of DRI a year.
+The process of reducing iron ore with hydrogen will first be tested using grey hydrogen generated from gas separation.
+In the future, the plant should also be able to run on green hydrogen when it is available in sufficient quantities at affordable prices, with the clean energy for hydrogen production potentially coming from wind farms off the coast of Northern Germany.
+Supporting green hydrogen production. 
+To support and enable the availability of hydrogen for steel production, ArcelorMittal is participating in the establishment of regional hydrogen networks. These include North German hydrogen projects: the Clean Hydrogen Coastline to benefit Bremen and the Hydrogen Cluster East Brandenburg to enable hydrogen supply for Eisenhüttenstadt.
+ArcelorMittal is also collaborating with Shell, Mitsubishi and other cross-industry companies to form the Hamburg Green Hydrogen Hub, with the goal of generating energy from renewable sources.
+ArcelorMittal Germany. 
+Bremen and Eisenhüttenstadt: supporting zero carbon-emissions steelmaking. 
+We are planning to build a large-scale industrial plant for DRI and EAF-based steelmaking at our site in Bremen, as well as an innovative DRI pilot plant and EAF in Eisenhüttenstadtat. The Bremen plant will produce ~2 million tonnes of DRI per year and supply ArcelorMittal EAFs in Bremen and Eisenhüttenstadt.
+Bremen and Eisenhüttenstadt will produce up to 3.5 million tonnes of steel by 2030, with significantly lower CO2e emissions.
+Depending on the amount of hydrogen available, CO2e savings of more than 5 million tonnes could be possible.
+DRI – EAF. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 17
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the DRI-based route. 
+ArcelorMittal Canada. 
+Contrecoeur: Testing incremental use of hydrogen in existing facilities Status: Operational. 
+Our existing DRI plant in Quebec produces 1.7 million tonnes of DRI each year. In 2021 we are testing hydrogen injection in our DRI facility. The test is a “proof of principle” type aiming at building our knowledge about this greenhouse emission abatement technique and exploring its potential and viability beyond theoretical calculations or process modelling. The test will start with a limited injection of 5% within the energy mix and further phases are planned in the future. This is mostly attractive because renewable sources – specifically hydroelectric – provide 99% of Quebec’s energy.
+DRI – EAF. 
+ArcelorMittal France. 
+Dunkirk: preparing for the transition. 
+ArcelorMittal is currently studying the implementation of an innovative solution to produce low carbon steel in Dunkirk in partnership with Air Liquide. The project aims to combine a Direct Reduction Plant with arc furnaces to produce 2 Mt/y hot metal which would be a first of a kind. The project includes low carbon hydrogen use and would lead to CO2e savings.
+Commissioning is planned for 2025.
+This partnership between Air Liquide and ArcelorMittal is a first step towards the creation of an ecosystem at the forefront of low-carbon hydrogen and CO2 capture solutions that will be a source of competitiveness and attractiveness for various players in the Dunkirk industrial and port basin.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 18
+
+
+There is growing international consensus that clean hydrogen can and should play an important role in the world’s transition to a sustainable energy future. Hydrogen is a versatile energy carrier and is easy to use with many potential applications. These include powering road vehicles and ships, and serving as a primary fuel for steelmaking. Hydrogen – especially green hydrogen – has an important role to play in the future of steelmaking, in both the Innovative DRI and Smart Carbon technology pathways.
+Hydrogen can be produced from a range of sources with little to no carbon emissions. Green hydrogen uses solar or wind power to separate the hydrogen from water through electrolysis. Blue hydrogen extracts the hydrogen in natural gas and sequesters the resulting CO2 to minimise emissions. It has the potential to be a game-changer, as our recent announcement in Spain demonstrates, but widespread adoption of clean hydrogen faces significant challenges.
+Producing clean hydrogen today is expensive, 2 to 5 times costlier than CO2-emitting hydrogen produced today (grey hydrogen) and cannot compete on its own with other fuels such as natural gas, even when factoring in CO2 costs.
+Easy to use as a fuel, manipulating and transporting hydrogen is difficult due to its low density and logistics challenges are a formidable obstacle to widespread hydrogen use. Being one of the lightest gases with low energy density, transporting pure hydrogen long distances requires dedicated piping network, or alternatively hydrogen needs to be liquefied for road or ship transport. Only some of the necessary transport technology is commercially mature today and transporting hydrogen, particularly in liquid form, adds significant additional costs to using hydrogen.
+Policymakers, particularly in Europe and Japan, are supporting the development of green hydrogen production, pipeline and liquefaction infrastructure through to 2030 through various forms of public funding. This investment drive in hydrogen, together with further anticipated reductions in solar PV and wind power costs, will have a scale effect that is likely to lead to electrolyser and transport costs for hydrogen coming down significantly.
+However, with a high cost starting point, we believe that significant policy support may be needed in many jurisdictions beyond 2030 in both hydrogen production and the necessary transport infrastructure to sustain and expand hydrogen use in the steel industry.
+The role of hydrogen. 
+Photo: © Adobe. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 19
+
+
+IGAR. 
+BF-BOF. 
+Circular carbon (now)
+Torero Bioenergy Input of clean energy in the form of bioenergy from circular carbon from end of life plastics and from sustainable biomass. 
+Use of circular carbon to produce feedstock for biomaterials production. 
+Bio-ethanol. 
+Carbalyst End of life recycling. 
+Recycled carbon materials Chemical industry. 
+Sustainable biomass. 
+Clean electricity (post 2030)
+Fossil fuels. 
+Carbon capture and storage. 
+Capturing, transporting and storing any non-circular carbon sources. 
+Carbon capture and storage. 
+Green hydrogen Input of clean energy in the form of hydrogen from clean electricity via electrolysis of water into steelmaking. 
+Clean electricity generation Electrolysis. 
+Carbon transport Carbon transport Carbon storage Carbon storage. 
+Reformer. 
+Blue hydrogen Input of clean energy in the form of hydrogen via separation and carbon capture and storage of carbon in natural gas. 
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route 2.3.1 Decarbonisation projects 2021-2030 2.3.1.2 Announced projects – Smart Carbon. 
+We are constructing several commercial-scale projects to test and prove a range of Smart Carbon technologies, with key projects coming on-stream from 2022.
+Making carbon-neutral steel: the Smart Carbon route. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 20
+
+
+It can also be from capturing carbon gases produced by the iron and steelmaking process and converting into recyclable products. For example, plastic waste used as energy, for which exhaust carbon gases are turned back into equivalent amount of new plastics. Equivalency in the carbon content of waste plastics used and new plastics produced ensures the process is carbon neutral. This cycle also provides the plastics industry a circularity that it lacks today.
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route 4. Plastics are produced from waste carbon gases, with equivalent waste plastic converted back into energy for steelmaking 3. Equvialent amount of CO2 from atmosphere is absorbed by regrowth of plants 1. Bioenergy is produced from sustainable bio-residues before they decay into C02 2. CO2 from use of bioenergy in steelmaking is released into the atmosphere. 
+CO2 CO2. 
+Circular carbon: “Torero” and “Carbalyst”
+Circular carbon uses carbon-based energy that does not add carbon to our biosphere. It can be in the form of bioenergy from the natural carbon cycle, such as waste from sustainably-sourced construction wood, agriculture and forestry residues, where regrowth of managed forests and crops will recapture the CO2 emitted from the bioenergy used.
+We are developing two key technologies to enable use of circular carbon.
+“Torero” is a torrefaction process to make steelspecific renewable energy from waste wood and waste plastic.
+“Carbalyst” allows us to use steelmaking waste gases to produce basic chemicals such as bio-ethanol, which are the key building blocks of plastics.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 21
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route. 
+ArcelorMittal Ghent, Belgium “Torero”: At ArcelorMittal Ghent, we are constructing an industrial-scale demonstration plant that converts waste wood into renewable energy through a process called torrefaction. This source of waste wood is considered hazardous material if burnt in an incinerator as it emits harmful gasses. However, in a blast furnace no such pollutants can be formed. At the Ghent plant, two reactors will each produce 40,000 tonnes of bio-coal annually that can be used in the blast furnace as a substitute for coal. Construction of the €55 million project started in 2018: reactor #1 is expected to start production in 2022 and reactor #2 in 2024.
+Expected completion date: 2022 (reactor 1) & 2024 (reactor 2)
+Wood waste Drying Torrefaction Grinding Biocoal Substitute for coal. 
+Torero. 
+Pulverised biocoal. 
+Carbon capture and storage Steelmaking. 
+Circular carbon. 
+Clean electricity and green hydrogen. 
+Carbon capture and storage and blue hydrogen. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 22
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route “Carbalyst” is a family of technologies that capture carbon from the steel-making process for use elsewhere, either a biofuel or biochemical for use by the plastics industry.
+“Steelanol” uses gas-fermentation technology to transform carbon-rich industrial waste gases into advanced bioethanol for use in the transport sector and to make plastics.
+We are in the process of constructing an industrial scale Steelanol demonstration plant in Ghent, Belgium that will capture carbon off-gases from the blast furnace and convert them into bioethanol using microbes. The ~€180 million plant is expected to be completed in 2022 and will produce 80m litres of bioethanol annually.
+“CarbHFlex” is a process that uses microbes to produce acetone and isopropanol, both basic chemicals used to make plastics. This project has been shortlisted for IPCEI funding.
+Expected completion date: Steelanol 2022. 
+Carbon capture and storage Steelmaking. 
+Circular carbon. 
+From blast furnace off-gases. 
+Pressure swing absorption Bioreactor Distillation Renewable fuels and chemicals. 
+Carbalyst. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+IGAR. 
+BF-BOF. 
+Clean electricity and green hydrogen. 
+Carbon capture and storage and blue hydrogen. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 23
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route. 
+IGAR. 
+Carbon capture and storage Steelmaking. 
+Circular carbon. 
+Clean electricity and Blue hydrogen. 
+Carbon capture and storage and Green hydrogen. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+IGAR. 
+BF-BOF. 
+IGAR. 
+BF-BOF. 
+Off gases from blast furnace. 
+Heating. 
+CO2 removal. 
+Shaft. 
+Tuyeres. 
+IGAR. 
+Circular gas and IGAR. 
+Status: demonstration. 
+IGAR (Injection of Gas Reductant in blast furnace) is a transformative technology for the blast furnace, key to transition to carbon neutral blast furnace technology. IGAR increases the re-use of off-gases in the blast furnace, reducing the consumption of coal per tonne of steel produced and cutting CO2e emissions by up to 20%.
+It will capture waste carbon monoxide and hydrogen from steel gases and reinject into the blast furnace as a reductant gas. Additionally, this technology increases the concentration of hydrogen in blast furnace off-gases, increasing the amount of carbon captured in Carbalyst processes by increasing the production of biofuels and biochemicals. This technology will also allow green hydrogen to be injected directly into the blast furnace, as and when it becomes available and commercially viable.
+This technology can be further leveraged by injecting additional carbon monoxide and hydrogen from external clean energy sources, such as green hydrogen, further reducing coal use, CO2e emissions and waste gases of other industries e.g. chemicals.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 24
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: the Smart Carbon route. 
+Dunkirk: 3D. 
+Status: Pilot. 
+A pilot project in Dunkirk aims to capture CO2 off-gases at a rate of 0.5 metric tonnes of CO2 per hour for transport and storage. The process uses low temperature heat available across the plant to separate CO2 from other off-gases from the blast furnace to create a pure low-pressure CO2 gas stream suitable for internal reuse or piping for storage. This process could significantly lower CO2 capture costs versus alternative technologies. Regional infrastructure would be requested for all local industrial companies in order to optimise usage and efficiency of the solution.
+Expected completion date: 2023 3D impact and ramp up. 
+This carbon capture technology has the potential to be adopted across our blast furnace footprint but scaling will be highly dependent on development of CO2 transport and storage infrastructure in the regions we operate. We are actively engaged in carbon transport and storage at several locations in Europe and exploring the possibility in other regions.
+Deployment of our 3D technology will be linked to the development of CO2 pipeline infrastructure, as well as deployment of CO2 reuse technologies in our blast furnaces.
+CO2. 
+CO2. 
+CO2. 
+CO2 3D Carbon capture. 
+Clean electricity and green hydrogen. 
+Carbon capture and storage Steelmaking Carbon capture and storage and blue hydrogen. 
+Circular carbon. 
+Carbon capture and storage Steelmaking Carbon capture and storage. 
+Clean electricity. 
+Circular carbon. 
+IGAR. 
+BF-BOF. 
+CO2. 
+CO2. 
+CO2. 
+CO2. 
+Off gases from blast furnace. 
+Carbon capture. 
+CO2. 
+CO2. 
+CO2. 
+CO2. 
+Carbon transport and sequester. 
+For reuse in blast furnace or for Carbalyst process. 
+CO2. 
+CO2. 
+CO2. 
+CO2. 
+CO2 2.3.1.3 Announced projects – Blast furnace gas injection across ArcelorMittal Flat Europe sites. 
+ArcelorMittal Europe is implementing projects in almost all its flat products sites to use gases from different sources for blast furnace injection. Injecting hydrogen-rich coke oven gas is an efficient, cost-effective method that allows steelmakers to reduce CO2 emissions now.
+ArcelorMittal Asturias has the most advanced coke oven gas project, with injection of recovered hydrogen and methane containing gases from the coke ovens, announced in February 2021.
+The use of this innovative technology will result in a reduction in CO2 emissions of 125,000 tonnes a year.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 25
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: increased use of scrap. 
+Increased use of scrap. 
+As well as using scrap in the EAF, we can increase the use of low-quality scrap in BF-BOF steelmaking process by improving steel scrap sorting and classification, installing scrap premelting technology and adjusting the steelmaking process to accommodate scrap.
+Photo: © Adobe. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 26
+
+
+Section 2 Our decarbonisation strategy 2.3 Our plans: further projects under development 2.3.2 Further projects under development. 
+Our 2030 target also includes projects that are currently under discussion and development but have not yet been announced.
+These include but are not limited to the following:
+Europe: • Further investment in DRI and EAF installations linked to certain BF relines scheduled within the next decade • Additional smart carbon projects if and when current pilot projects prove successful. 
+ROW: • Implementation of upstream optimisation, specifically in the CIS region • Increased use of scrap and natural gas within the current footprint • Implementation of pelletising projects which will over time replace Group sintering processes • Project in NAFTA to be announced 2.3.3 Mining and shipping. 
+ArcelorMittal is developing different solutions to reduce its greenhouse gas emissions from its mining and processing operations.
+ArcelorMittal Mining Canada (AMMC) continues to study and trial zero carbon emissions iron ore pellet production. AMMC has undertaken trials to reduce its CO2e emissions associated with bunker fuel and solid fuels at the pellet plant through liquid fuel substitutions. It is working with the Global R&D team and ArcelorMittal’s experts to develop pellets with the objective of becoming the first zero carbon-emissions pellets supplier for the ArcelorMittal Group. These potential pathways include carbon capture, among other technologies. ArcelorMittal Liberia is exploring opportunities to reduce its GHG emissions by switching from largely diesel to the new West African ‘green power grid’.
+ArcelorMittal Mining will also act as an enabler for ArcelorMittal’s current steelmaking transition from blast furnace processes to cleaner DRI-based EAF processes by increasing the ratio of DR pellet production capacity.
+ArcelorMittal Termitau is developing a renewed strategy for its metallurgical coal mining operations, to ensure they meet the best safety standards possible whilst also significantly reducing the greenhouse gases that result from their methane-rich coal seams. Already at the Lenina mine, ArcelorMittal is developing a methane capture project, which converts the captured methane into electricity to power the underground mining equipment. When at full scale, such projects will enable the operations to be fully circular in terms of energy sourcing and use.
+Through its joint venture Global Chartering with Drylog, ArcelorMittal also co-owns a small shipping business, enabling us to capture value in both upstream and downstream transportation aspects of our value chain. In line with the International Maritime Organisation (IMO)’s decarbonisation strategy, our existing ships comply with the latest Energy Efficiency Index benchmarks. Any new ships we purchase are designed to align with environmental expectations of the industry. With our technical partners, we are exploring the potential for the transition to alternative fuels such as hydrogen and ammonia; and given the capitalintensive nature of this transition, the policy conditions that will make this possible.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 27
+
+
+Key to ensuring ArcelorMittal becomes net-zero by 2050 across all these parameters will be the five levers outlined earlier – steelmaking transformation, energy transformation, increased use of scrap, clean electricity and offsetting.
+For those residual emissions that would remain hard to abate, we may rely on high quality offsets, removing equivalent volumes of GHG emissions from other activities outside ArcelorMittal’s control in order to ensure that our own operations do not, on balance, contribute to increased concentrations of greenhouse gases in the atmosphere.
+Furthermore, we believe the steel industry is ideally positioned to become a key sector in carbon removals that will be increasingly necessary through 2050, and will dominate world’s decarbonisation efforts in the second half of this century. As one of the most efficient energy users of various streams of limited bioenergy available, and ease of capture of CO2 at the end of the process compared with other sectors such as power and cement, steel has potential for becoming the key industry to leverage bioenergy and carbon capture and storage (BECCS) to remove CO2 from the atmosphere.
+We recognise the importance of defining the constituent elements of net-zero to ensure we make necessary progress towards the challenge. The fundamental aspects of our net-zero outlook include: • Steelmaking: this means that all emissions within the boundary of core steelmaking emissions sources are incorporated into a net-zero target, incorporating the core carbon emissions of steelmaking, regardless of the level of vertical integration, including emissions from waste gas used for power generation, and the processing of iron ore reductants and other semi-processed inputs that are integral to iron and steelmaking, such as lime, pellets and coke and, in future, hydrogen and biomass. This has been outlined in the recent report by the Net-Zero Steel Pathway Methodology Project.
+• Co-products: It is important to recognise that different steelmaking technologies produce various other products that directly substitute production needs of other industries, such as cement. Thus, it is important that carbon emissions are allocated to all co-products we produce apart from steel, placing the right carbon burden on products and ensuring the optimal technological decisions are taken to become carbon neutral. These include cement, electricity and, shortly, the basic building blocks for plastics.
+• Mining and shipping: Ultimately, we need to work towards net-zero across our entire value chain as part of our net-zero by 2050 goal, including our mining and shipping emissions. ArcelorMittal’s significant iron ore mining activity provides an advantage. This vertical integration strengthens our ability to develop long term plans for the production and sourcing of DR pellets. In addition, we are working with our shipping partners to develop levers to decarbonise in line with the IMO strategy. See section 2.3.4, Shipping and Mining.
+Section 2 Our decarbonisation strategy 2.3 Our plans: beyond 2030 2.3.4 Beyond 2030 – achieving net zero by 2050. 
+Photo: © ArcelorMittal. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 28
+
+
+XCarb™ Innovation Fund. 
+Given the breadth and scale of the challenge, we know innovation will play an accelerator role in achieving net-zero by 2050. In March 2021, ArcelorMittal launched its $500 million innovation fund with the intention of making awards of up to $100 million a year to innovative businesses and technologies.
+The first award of $10 million was made in June 2021 to Heliogen, a technology company focused on developing heat, electricity and fuels from concentrated solar energy. The Heliogen technology will be capable of creating 100% green hydrogen, which Heliogen is working to develop as its first fuel. ArcelorMittal and Heliogen have signed a Memorandum of Understanding which aims to evaluate the potential of Heliogen’s products in several of ArcelorMittal’s steel plants.
+In July, ArcelorMittal announced it has invested $25 million in Form Energy, developer of breakthrough low-cost energy storage technology to enable a reliable, secure, and fully-renewable electric grid year-round. Alongside the investment, the two companies have signed a joint development agreement to explore the potential for ArcelorMittal to provide direct reduced iron, tailored to specific requirements, to Form Energy as the iron input into their battery technology.
+Section 2 Our decarbonisation strategy 2.3 Our plans: beyond 2030. 
+ArcelorMittal invests $25 million in Form Energy. Photo: © Form energy. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 29
+
+
+Section 2 Our decarbonisation strategy 2.4 Costs, investments, and funding. 
+The Energy Transitions Commission, of which we are an active member, estimates that the required additional investments to achieve a zero-carbon-emissions economy in 2050 – while significant in absolute dollar terms – will amount to no more than 1% to 1.5% of global GDP (~US$1 trillion to US$2 trillion per year).
+The costs from the perspective of the steel industry however are significant, vastly exceeding the margins typically generated by the steel industry throughout the cycle. Even as costs decline as technologies mature and clean energy infrastructure is scaled up, the steel industry will not be able to absorb the extra costs under normalised market conditions. While the steel industry must take the lead on technology developments, a complementary and concerted effort will be needed from suppliers, customers, the energy industry and policy makers to create the right market conditions for the industry to transition to zero carbon-emissions steel. In section 2.5 we outline the policy conditions that are needed, and multiple stakeholder initiatives that are helping drive these changes. We will need to accelerate this collaboration to drive forward solutions in sufficient time to achieve our targets.
+To achieve ArcelorMittal’s 2030 global target of 25%, we estimate the gross capital cost required for the Group to be approximately US$10 billion. It is the expectation that 35% of this capex will be deployed up to 2025 with the remainder in the second part of the decade.
+The intention is clearly that over time low carbon technologies will become more competitive as the carbon price increases and is applied globally and the decarbonisation technologies themselves become more mature and efficient.
+Realistically however this will take at least ten years and therefore during that interim period policy support will be essential to both moderate capital spend and ensure operational competitiveness.
+In terms of support with initial capital spend, as these investments will not generate returns in the transition period, these technologies will require further development and refinement. There will be front end loading of Capex required in the next five years which is beyond the industry’s ability and further innovation will need to be supported and nurtured. Therefore, we believe that funding in the region of 50% would be appropriate.
+Additionally, the costs associated with operating these technologies will likely be higher in the short-to-medium term than higher carbon technologies. It is critical therefore there are policies in place to support regional and global competitiveness of assets that are first movers in the transition to low carbon steel. Policy instruments like contracts for difference, which were used to positive effect in the development a competitive renewable energy sector, have an important role to play.
+As a leader in developing technologies needed to transition steelmaking to net-zero, achieving our climate targets also requires us to play a leading and active role with policymakers in different geographies. This will allow us to promote policy ideas that will accelerate the development of these technologies and to create the necessary market conditions to ensure zero carbon-emissions steelmaking is commercially viable.
+In terms of our investment decision-making, each major capex project proposal is required to demonstrate its CO2e impact to the Investment Allocation Committee (IAC). The IAC considers both the potential future carbon cost as well as the capital cost of decarbonisation, to maximise our chances of achieving our targets while ensuring each project is economically justifiable and earns its cost of capital.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 30
+
+
+2.5.1 The need for a supportive policy environment. 
+Section 2 Our decarbonisation strategy 2.5 The role of policy. 
+The most effective mechanism to transition the steel industry to net-zero would be a suitably ambitious and globally applied carbon price covering every region, country and market. However, there is little probability of that happening in the short to medium term.
+Instead, we are faced with a situation where each jurisdiction develops its own policy framework with no unified customer and GHG policy response for the steel industry globally. This has created a sub-optimal situation with often complicated and overlapping policy landscapes that do very little to advance the required market conditions to deliver competitive carbon-neutral steel.
+We do believe, however, there are many policies developed for other industries that can be implemented for the steel industry. One example is contracts-for-difference, which have provided valuable policy support and customer demand signal for the renewables industry for many years. New policies will also need to be developed, such as a carbon border adjustment mechanism that ensures domestic producers and imports share the same CO2e cost on the road to decarbonisation.
+We believe that policy instruments need to deliver five market conditions to ensure that low and zero carbon-emissions steelmaking is at least as competitive as higher carbon-emissions steel: 1. Measures to incentivise the transition to low and zero carbon-emissions steelmaking 2. A fair competitive landscape that accounts for the global nature of the steel market, ensuring domestic production, import and exports are subject to equivalent GHG reduction regulations 3. Financial support to innovate and make long-term investments and neutralise the higher operating costs of low and zero carbon-emissions steelmaking 4. Access to sufficient clean energies at affordable price level 5. Incentives to encourage the consumption of low and zero carbon-emissions steel over higher carbon-emissions steel. 
+Policy has a key supporting role to play in transitioning the global economy to net-zero. Well designed, targeted policy can yield very significant results and enable new technologies to become competitive over a relatively short timeframe. The emergence of renewable energy as a competitive energy source is a clear example of this.
+We are similarly optimistic about the role policy can play in transitioning the steel industry to net-zero. Indeed, the right policy will, over time, be able to create the market conditions to make low and zero carbon-emissions steel more competitive than higher carbon-emissions steel. That will enable the steel industry to invest in and operate the low and zero carbon-emissions technologies required to meet the challenge of becoming a net zero industry by 2050.
+We must be clear about the starting point as the market conditions necessary for this transition are not yet in place.
+Steel is a globally traded commodity and not all regions of the world are moving at the same pace when it comes to the introduction of regulation to address climate change. Furthermore, the low margins and high capital costs associated with the industry mean there is limited headroom to make the investments required and remain competitive without policy intervention.
+Ensuring all market participants operate under the same competitive rules is key in these market conditions. The greater the level of global coordination in developing effective policies, the better progress we will make towards decarbonisation.
+Photo: © ArcelorMittal. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 31
+
+
+There are multiple policy instruments that, when appropriately designed and applied, can be combined to encompass these five areas to allow for the smooth decarbonisation of the steel industry. These include: • Emissions Trading System (ETS) • Indirect compensation • Public funding via innovation awards, grants, loans etc. • Carbon Border Adjustment Mechanism (CBAM) • Carbon Contracts for Differences (CCfDs) • Consumer carbon charge • Clean energy policies • Green Public Procurement (GPP)
+It is important to understand how each policy instrument works and its purpose before looking at how they can be most effectively combined to incentivise and accelerate the decarbonisation of the global steel industry.
+Section 2 Our decarbonisation strategy 2.5 The role of policy 2.5.2 Creating the right steelmaking conditions. 
+Emissions Trading System (ETS)
+A well-designed GHG emissions trading system – also known as ‘cap and trade’ – should incentivise firms to reduce their GHG emissions. A government sets a cap on the maximum level of GHG emissions and creates permits, or allowances, for each unit of GHG emissions (i.e. 1 tonne of CO2e) allowed under the cap. Firms must obtain and surrender a permit for each unit of their emissions. They can obtain permits from the government or through trading with other firms.
+When it comes to steelmaking, an ETS will only incentivise investment in decarbonisation if it combines a sufficiently-high CO2 price and a fully effective instrument to address carbon leakage. Ideally, ETS revenues would also flow back to heavy industries to provide further incentives – such as through the EU Innovation Scheme.
+The combination of all these measures is essential for steel to remain competitive where it is not supported with free allocations of units to prevent carbon leakage to higher GHG emitting jurisdictions.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 32
+
+
+As a result, today’s EU ETS is an additional cost burden for European steel companies that is not yet complemented by a carbon border adjustment (CBAM), although we note this has now been proposed as part of the “Fit for 55” package as described below. As the price increases throughout Phase 4, this will become even more critical than it is today. It is also critical that the roll out and increase in the price of CO2 is aligned with the technology maturity and footprint realities in different countries.
+In July 2021, the European Commission published a package of proposals to make the EU’s climate, energy, land use, transport and taxation policies fit for reducing net greenhouse gas emissions by at least 55% by 2030 called “Fit for 55”. To become EU law, this set of proposals now needs to be adopted by both the European Parliament and the Council of the European Union. Given the controversial nature of the proposals and the expected social and economic impact, longer negotiations and changes can be expected.
+The proposals should enable the necessary acceleration of greenhouse gas emission reductions in the next decade.
+The proposals are all interconnected and combine: • tightening of the existing EU Emissions Trading System, extending it to maritime and setting a new parallel ETS to buildings and road transport sectors; • increased use of renewable energy; • greater energy efficiency; • a faster roll-out of low emission transport modes and the infrastructure and fuels to support them; • an alignment of taxation policies with the European Green. 
+Deal objectives; • a Carbon Border Adjustment measure (CBAM) to prevent carbon leakage; and • tools to preserve and grow our natural carbon sinks.
+The biggest impact for the steel industry comes from the ETS review and the introduction of a CBAM.
+In this respect, the ETS proposal increases the reduction ambition of the ETS sector from 40% reduction by 2030 to 55% (when compared to 1995 reference levels). To achieve this it plans to set a steeper decline of the cap, foreseeing as well stricter rules for the update of the benchmarks in the second sub-period of phase 4 (2026-2030) that could result in a reduction in the benchmarks of up to 50%.
+In addition, the CBAM proposal is intended to accompany a progressive reduction of the free allocation granted to sectors in its scope, with a yearly 10% decrease starting as from 2026.
+The implementation of an effective carbon-border adjustment mechanism (CBAM) in Europe, the continuation of free allocations, and the availability of public support, are all vital to ensure we can make sufficient investments to decarbonise our European assets.
+Today, Europe, California and other US states, as well as some Canadian provinces, have ETS systems in operation, resulting in an increase in carbon costs for steelmakers. Ukraine, Brazil, Kazakhstan, Mexico and South Africa are expected to implement an ETS over coming years. It is essential that experience gained from regions with a mature ETS is applied in the design and roll out of nascent ETSs so that they genuinely incentivise rather than just add additional cost burdens.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 33. 
+The European Union Emission Trading System (“EU-ETS”) was launched in 2005 and completed its third phase in December 2020. In order to prevent carbon leakage, the ETS contains a system of allocation of free allowances based on a benchmark system that is periodically reviewed and indirect cost compensations (of part of the extra costs incurred by the installations covered by the ETS due to ETS application on energy production passed on). The EU-ETS sets a cap on greenhouse gas emissions, which is then reduced year after year. The build-up of a surplus of emission allowances in the EU-ETS kept prices below €10 per ton of CO2 equivalent (€/tCO2e) from 2009 until 2018.
+To boost the price of a European Union Allowance (“EUA”) – which gives the holder the right to emit one tonne of CO2 – and to provide an incentive to the steel industry and the power sector to cut CO2 emissions, the European Commission implemented reforms to the EU-ETS for the Phase 4 period which runs from 2021-2030.
+The adoption of the revised ETS Directive in 2018, defining the rules for the 4th trading period (2021-2030), anticipating a decline of the ETS cap, and the reinforcement of the MSR applying as from 2019, were considered to be drivers of the EUA price increase that in early 2018, surpassed the historical high of €25/tCO2 – a 360% price increase in less than a year. In early 2020, the pandemic-driven lockdown prompted the CO2 price to drop sharply, falling by €10/ tCO2e (40%) in a matter of weeks. Since then, the market has steadily recovered and ended the year at over €30/tCO2 with prices rising above €50/tCO2 in 2021.
+Q1 20 ¤ per tonne 50 40 30 20 10 Q2 20 Q3 20 Q4 20 Q1 21 Q2 21. 
+Source: Refinitive. 
+Carbon price development since Q1 2020. 
+ETS in the EU
+
+
+When designed this way, a border adjustment has the added advantage of being more likely to stimulate other regions of the world to speed up the introduction of equivalent climate change legislation to accelerate decarbonisation of their industry.
+Over time, once the application of a CBAM is fully implemented and proven to work, free allocations can be gradually withdrawn. Before that can happen, European producers would need certainty that all decarbonisation costs, including full auction costs, can be passed through.
+The current proposal aims at meeting these goals; however, several details are not clearly spelt out yet and will only come in the implementation rules and whether it will achieve to be effective will need to be seen. It is supposed to be introduced in 2023 in a first phase as reporting and monitoring tool only and from 2026 producing its full financial impact. From 2026 onwards those installations covered by the CBAM will also see its free allocation gradually decreased by 10% each year.
+Carbon Border Adjustment Mechanism (CBAM)
+A carbon border adjustment mechanism, applied initially to primary goods, should ensure imports are subject to the same CO2e costs as domestic producers. Using the example of the EU, an effective CBAM would mean that steel imported into the EU would have similar CO2e cost as that borne by EU producers, creating a fair market and encouraging investment in lower CO2e emissions steel production.
+The European Commission’s proposal includes the introduction of a CBAM. As critical as its introduction is, to be genuinely effective, it must be designed in a way that takes away any competitive advantage from importers in regions with less ambitious climate change regulation. This means introducing a border adjustment that does not enable importers to be more competitive than any producer within a region with ETS just because it does not have the same carbon tax, including the least carbon-efficient producer today. Therefore, the carbon cost these producers will pay from the ETS should be the same cost charged on imports through the border adjustment. This will ensure all European assets will be able to decarbonise sustainably, without it being rendered uncompetitive.
+Public funding. 
+Public funding supports the development and implementation of innovative technologies to reduce CO2e at scale, and may in some jurisdictions include funding streams from different levels of government. This may be provided in the form of grants, loans with favourable conditions, or equity investments in decarbonisation projects.
+For example, the EU Innovation Fund launched in 2020 is one of the world’s largest programmes and will invest up to €10 billion between 2020-2030 to support the commercial demonstration of innovative low-carbon technologies.
+Funded from EU-ETS receipts, it aims to bring market industrial solutions that could help to decarbonise Europe and support its transition to climate-neutrality. It will focus on: • innovative low-carbon technologies and processes in energy-intensive industries, including products substituting carbon-intensive ones; • carbon capture and utilisation (CCU); • construction and operation of carbon capture and storage (CCS); • innovative renewable energy generation; • energy storage.
+Indirect compensation. 
+Indirect compensation schemes help heavy industry in regions with an ETS to remain competitive despite the impact of higher energy costs.
+The carbon costs incurred by the power sector from an ETS result in increased electricity prices for customers. This means that energy intensive industries exposed to an ETS not only have additional direct costs for their emissions, but also additional indirect costs from higher electricity prices.
+Electricity is a key competitive factor in heavy industry, particularly for commodity products exposed to global markets. The increased electricity costs resulting from an ETS also pose the risk that heavy industry would relocate from Europe to laxer GHG reduction jurisdictions without these additional direct and indirect costs.
+Indirect compensation schemes cover energyintensive industries participating in the ETS system such as steel, plastics and chemicals, cement, and aluminium sectors. They provide heavy industry with some support to remain competitive in international markets.
+Section 2 Our decarbonisation strategy 2.5 The role of policy. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 34
+
+
+Consumer carbon charge. 
+A consumer carbon charge on steel and other carbon intensive materials could be an instrument to fund the higher capex and opex funds needed to develop and deploy low carbon-emissions technologies. It would also incentivise customer behaviour to choose lower CO2e intensive solutions.
+While there is a significant amount, the CO2e reduction impact per investment dollar of the steel industry is significantly better than in the transition of the power and transport sectors. The European renewables sector, for example, receives more than US$80 billion annually in funding from customers to reach only 34% of electricity generation. Similarly, US$10 billion has been publicly funded in transport renewables, with only a 9% impact.
+A consumer carbon charge could be introduced at the point where steel is purchased as a raw material and then be passed through the value chain to the end customer of the finished product, for example a car. A charge of as low as US$75 per car could be sufficient to fund accelerated deployment of low and zero carbon-emissions steelmaking technologies.
+Carbon Contracts for Differences (CCfDs)
+Carbon Contracts for Differences (CCfDs) provide government-guarantees to those investing in innovative climate-friendly technologies that reward GHG emission reductions, by neutralising the higher operating costs of zero-emissions steelmaking.
+CCfDs pay out the difference between the price of emissions allowances (in Europe, EUAs) and the contract price, thus effectively ensuring a guaranteed carbon price for the project. In exchange for this insurance, investors are liable for payment if the carbon price exceeds the contract’s strike price. As a result, companies have an incentive to make climate-friendly, innovative investments and reduce their CO2e emissions.
+By lowering financing costs, CCfDs support the roll out of low and zero carbon-emissions projects that are not competitive in the existing market environment. CCfDs can also be combined with indirect compensation grants to further support investment.
+CCfDs have been used with great success in the renewable energy transition and could play a similarly important role in the decarbonisation of the steel industry.
+Section 2 Our decarbonisation strategy 2.5 The role of policy. 
+Clean energy policies. 
+Access to affordable clean energy will be critical to accelerate decarbonisation of the steel industry and policymakers can play an important role in incentivising the development of sufficient clean energy infrastructure and the necessary scale up of carbon-neutral technologies. This will require concerted cross-sector and government efforts to develop the necessary clean energy infrastructure and to guarantee sufficient supply of renewable energy for the transition of heavy industry.
+The clean energy infrastructure for each country and region will vary significantly based on the availability and effectiveness of different clean energies available, including wind, solar, bioenergy and CCS. Working with local policymakers to unlock the optimum clean energy infrastructure will be critical. An example of this is our work with the Brazilian government to ensure use of existing sustainable bioenergy in the steel industry is recognised and supported as a clean energy.
+Green public procurement. 
+Public authorities are major consumers and if they use their purchasing power to choose environmentally friendly goods and services, they can make an important contribution to sustainable consumption and production. Green Public Procurement (GPP) or green purchasing can help stimulate a critical mass of demand for more sustainable goods and services which otherwise would be difficult to get into the market.
+Photo: © ArcelorMittal. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 35
+
+
+Section 2 Our decarbonisation strategy 2.5 The role of policy 2.5.3 Supportive policy instruments. 
+The impact of these policy instruments on steelmaking conditions. 
+Measures to incentivise production of zero carbon-emissions steel. 
+Fair competitive landscape. 
+Financial support to make long-term investments. 
+Access to sufficient, affordable clean energy. 
+Incentivised consumption of zero carbon-emissions steel. 
+ETS (emissions trading system)
+Indirect compensation. 
+Public grants and soft loans. 
+CBAM (carbon border adjustment mechanism)
+CCID (carbon contract-fordifference)
+Consumer carbon charge. 
+Clean energy policies. 
+Public green procurement 2.5.4 Policy routes to zero carbon-emissions steelmaking. 
+Different combinations of the policy instruments described above can be used to deliver the desired end result: when the five policy conditions outlined above are achieved, then low and zero carbon-emissions steel will be at least as competitive as higher carbon emissions steel.
+For example, if implemented correctly, a well-designed ETS coupled with a CBAM would provide sufficient support to enable zero-emissions steelmaking. This requires keeping current carbon leakage protection measures, free allocation to the level of the benchmark and indirect cost compensation, complemented by the CBAM that covers the carbon costs not covered by them.
+The same could be achieved by a combination of a consumer carbon tax being comprehensively introduced to fund a programme of CCfDs.
+It is possible we will see different combinations used in different regions, but in all cases, such tools must be accompanied by policies that enable the development of sufficient affordable clean electricity.
+Given the scale of investment needed, significant public funding support will be required in each steelmaking region. Developed country governments can create the mechanisms for their steel industries to fund the transition to zero carbon-emissions steel, while the steel industry in developing countries may need additional support from international funding.
+Recognising that governments have limited funding capabilities under existing policies, policy support to the steel industry needs to be done in lockstep with policies that directly and indirectly raise funds to support such policies. Hence the need for a CBAM to support an ETS or a consumer carbon tax to fund a programme of CCfDs.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 36
+
+
+2.5.5 Policy scenarios determine pace of decarbonisation. 
+In our first Climate Action Report, we outlined the conditions of four policy based decarbonisation scenarios, in which the industry will ‘stagnate’, ‘wait’ or ‘accelerate regionally’. Only if all conditions are in place worldwide can the industry ‘accelerate globally’ and therefore contribute to a 1.5°C scenario. Here we apply these scenarios to ArcelorMittal in different jurisdictions in which we operate.
+As the cost of carbon rises, our incentive to decarbonise increases. This, together with our confidence that the five key policy conditions outlined above are forthcoming, are the twin factors driving the speed of our decarbonisation programme. Only where both factors exist can we accelerate our decarbonisation efforts. Where they are not, ArceloMittal will be ready to decarbonise but will be in ‘move’ mode, hampering our ability to achieve net-zero by 2050 and the industry’s contribution to a 1.5°C scenario.
+To date, we envisage carbon price coupled with the necessary policy conditions being in place in Europe by mid-decade. All other regions are five to ten years behind Europe.
+This table shows how our plans reflect the anticipated situation in each jurisdiction where we operate, and the policy conditions needed to enable us to achieve net zero by 2050. Clearly, only when policy support frameworks across different jurisdictions are aligned can ArcelorMittal, and the steel industry, ‘accelerate globally’ and contribute to a 1.5°C scenario.
+Section 2 Our decarbonisation strategy 2.5 The role of policy. 
+Confidence that policy conditions will materialise within 5 years ArcelorMittal’s expected response Resultant risk. 
+Jurisdiction. 
+CO2e price risk. 
+Condition 1 Measures to incentivise production of zero carbonemissions steel. 
+Condition 2 Fair competitive landscape. 
+Condition 3 Financial support to make long-term investments. 
+Condition 4 Access to sufficient, affordable clean energy. 
+Condition 5 Incentivised consumption of zero carbonemissions steel. 
+ArcelorMittal 5 year outlook on financial risk from carbon prices 2021-25 2026-30 2031-35. 
+EU*  Accelerate Accelerate Accelerate Mitigating. 
+Canada**  Accelerate Accelerate Accelerate Mitigating. 
+USA N/A Move Accelerate Accelerate Low. 
+Mexico  Move Move Accelerate Mitigating. 
+Kazakhstan Move Move Accelerate Low. 
+Ukraine Move Move Accelerate Low. 
+Brazil Move Accelerate Accelerate High. 
+South Africa Move Accelerate Accelerate Mitigating * Will be impacted by final design of ETS allocation system and CBAM, and assumes additional support from individual member states is forthcoming. ** Federal + Ontario, Quebec.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 37
+
+
+2.6.1 Working with policymakers to achieve the support necessary to accelerate decarbonisation. 
+ArcelorMittal is committed to playing a leading role in decarbonising the steel industry and clearly this means we need to actively and directly engage with policymakers and organisations that advocate for the policies and conditions that will enable steel to achieve its net zero transition.
+In order to maximise ArcelorMittal’s policy influence in this regard, we must be as effective as possible in our advocacy work. We are committed, therefore, to ensuring it is always consistent with the policy objectives outlined at the start of this chapter. This includes both our direct advocacy activities with policymakers and our indirect influence via stakeholder climate initiatives and also our industry associations. We will continue to reassure our stakeholders of our efforts to increase alignment in our influence by transparently reporting on this regularly, mapping our advocacy and the alignment of our membership organisations, as we did in our June 2020 report.
+While we are actively advancing the climate change regulation agenda in all jurisdictions, we are focusing on developing significant traction between industry advocacy platforms and governments in both Europe (for example via Eurofer) and Canada. We will leverage these experiences to advance our advocacy across all our other jurisdictions.
+2.6.2 Working with stakeholder initiatives to frame the transition to net-zero steelmaking. 
+While policy frameworks determine the rules for the incentives and disincentives that affect business, there are a range of other initiatives, led by both business and civil society organisations, that will impact on other levers in the market – the behaviour of customers, investors and lenders for example – in the form of ratings, standards and benchmarks.
+ArcelorMittal understands the importance of these initiatives, and engages with those it believes may have a strategic influence on future market dynamics for the steel industry.
+Numerous initiatives have emerged to tackle the transition to net-zero steelmaking. 
+Section 2 Our decarbonisation strategy 2.6 Leading and collaborating. 
+DRIVING THE CLIMATE TRANSITION FOR STEEL. 
+Creating tools to enable investors to align their portfolio with Paris Creating tools to grow the market for low-carbon, responsible steel Facilitating the transition of the steel sector. 
+What stakeholders need. 
+Investor expectations Customer expectations Government expectations. 
+ResponsibleSteel™ & PEF. 
+How can I buy responsibly sourced and produced steel?
+XCarb™
+How can I buy low and zero emissions steel?
+NZSPMP - SBTi. 
+Which companies have targets aligned with Paris?
+Investor benchmarks. 
+Which companies are well prepared for the transition?
+Mission Possible Platform. 
+Which levers will drive the transition to net-zero steel?
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 38
+
+
+ResponsibleSteelTM. 
+ArcelorMittal has played a leading role in establishing ResponsibleSteel™, the steel industry’s only global, multi-stakeholder certification initiative. ResponsibleSteel™ aims to give businesses and consumers confidence that steel certified under this standard has been produced responsibly at all levels of the supply chain, from mining to production processes through to steelmaking. The initial ‘site’ certification standard includes requirements on carbon alongside other air emissions, water responsibility, biodiversity, human rights, labour laws, local communities, business integrity and supply chain management. Additional certification – to provide customers with further reassurance on supply chain derisking and decarbonisation achievements – is currently undergoing consultation.
+Section 2 Our decarbonisation strategy 2.6 Leading and collaborating. 
+Science Based Targets Initiative (SBTi)
+The SBTi – a partnership between CDP, the United Nations Global Compact, the World Resources Institute and the World Wide Fund for Nature – develops methodologies and guidance for companies to set emission reduction targets in line with limiting warming to 1.5°c, and validates company targets that meet its requirements. Currently there is limited sectoral guidance for integrated steelmakers.
+ArcelorMittal has agreed to collaborate with the Science Based Targets initiative through a project to define a fit-for-purpose methodology to develop additional science-based target resources for the steel industry. As part of this project, the SBTi’s Technical Working Group will consider the recently published recommendations of the NZSPMP – and in particular, the different carbon intensities of making steel from iron ore and scrap will be reviewed for integration.
+Net Zero Steel Pathway Methodology Project (NZSPMP)
+ArcelorMittal is a co-founder of this initiative, which aims to enable the steel sector to target CO2e reductions in line with the Paris objectives by developing the principles of a credible, well informed sectoral methodology for steel.
+The project published a report in July 2021 with recommendations, including the need to use disaggregated Paris aligned carbon ’budgets’ for iron ore-based as well as scrap-based steelmaking in the formation of a steel company’s sciencebased target, to align such targets on the basis of a consistent system boundary, to consider crosssector CO2e impacts of steelmaking, and to outline the dependency of a steelmaker’s science-based target on the introduction of supportive policies.
+The project has drawn on the expertise of its 16 member steel organisations, and has liaised with a range of other carbon initiatives focused on steel via its stakeholder reference group. The project’s report aims to become a credible reference for the further development of methodologies assessing companies’ transition to net zero.
+Energy Transitions Commission (ETC) and the Mission Possible Partnership’s Net-Zero Steel Initiative. 
+Over the past two years, the ETC has actively convened a core group of steel companies and other experts with an active interest in the decarbonisation of the sector to help refine its thinking and create alignment on the key aspects of technology, policy, finance and demand signals needed for the sector’s net zero transition. ArcelorMittal’s EVP, Bradley Davey, is a commissioner of the Energy Transitions Commission and the company is an active participant in the ETC’s work.
+The Mission Possible Partnership’s Net-Zero Steel Initiative was formed by the ETC with the World Economic Forum, the Rocky Mountain Institute and others to bring together the thinking on these four aspects with that of a broader group of initiatives.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 39
+
+
+• The Centre for Climate Aligned Finance (CCAF)
+The Rocky Mountain Institute’s CCAF is hosting the Steel Climate-Aligned Finance Working Group as part of the Mission Possible Partnership. The group aims to define a collective agreement on how banks assess steel companies’ decarbonisation progress. ArcelorMittal is liaising with this working group in particular on those aspects of the NZSPMP where the thinking has been provided by ArcelorMittal.
+• CDP and ACT. 
+CDP Climate – and also CDP Water and CDP Forests – aim to provide investors with a signal of the level of progress a company has made in its response to climate change and related aspects of sustainable development, by rating a company based on their response to a detailed survey. Over the past year, CDP has worked with The French Agency for Ecological Transition (ADEME) to develop a new framework, Assessing the Climate Transition (ACT), on a sector by sector basis. ArcelorMittal participated in the ACT working group in 2020 to develop the framework for steel, encouraging ACT to incorporate some elements outlined in the NZSPMP.
+Investor benchmarks and frameworks. 
+The investor community is increasingly expected to align their portfolios with the goals of the Paris Agreement, and many use third party ratings or proxies in order to do so. The longest standing of these is the CDP Climate survey, but a number of other frameworks have emerged in recent months and years, focusing on heavy industry or steel in particular. • Climate Action 100+ Net-Zero Benchmark. 
+As a coalition of institutional investors, Climate Action 100+ has developed a common approach to engaging companies in hard-to-abate sectors on their response to climate change. ArcelorMittal has engaged with representatives from the coalition since 2018 to ensure its investors understand the context for and progress in the company’s decarbonisation strategy, and with its parent body the Institutional Investors Group on Global Climate Change (IIGCC) on the policy conditions we believe the industry needs to enable this.
+In March 2020, CA100+ released its Net-Zero Benchmark. With its broad-based approach, covering not only targets but plans and policies, we view this as a useful way for stakeholders to track the progression in companies’ climate strategies. We have included the benchmark in Appendix C, with our own assessment of how this report improves our alignment.
+Global Framework Principles for the decarbonisation of Heavy Industry. 
+ArcelorMittal is a signatory to these principles, which provide a simple framework for how leading economies can both stimulate economic growth and recalibrate toward a 1.5°C climate trajectory. The principles, developed by the civil society organisation, Mighty Earth, in partnership with the Climate Group, aim to accelerate the decarbonisation of heavy industry by avoiding capital being ‘locked in’ to high carbon-emitting industrial activities, stimulating the investment of public and private capital in low emissions technologies through finance and industrial policy and tools.
+Section 2 Our decarbonisation strategy 2.6 Leading and collaborating 2.6.3 Working towards a just transition. 
+The steel industry will undergo a transformation over the next two decades unparalleled since the 19th century, with many aspects of industrial activity along the value chain changing beyond recognition. An important aspect of this will be the social transformation that accompanies it, and ensuring that this brings enhanced qualify of life and standards of living across the value chain. As we plan for the transition of each of our steelmaking sites, we are working with government and unions to optimise these impacts. In Spain, for example, where we plan to move from blast furnace steelmaking to DRI/EAF route, we anticipate a positive employment impact along the value chain, both in the construction of the new assets, the decommissioning of existing assets, and in the development of the renewable energy infrastructure and hydrogen production and transportation systems. In addition, the transition will contribute to improvements in environmental impacts across the steel value chain.
+ArcelorMittal has also developed a tool which will help us understand the social impact of our decarbonisation strategy. Based on best practice principles developed by UNEP and with a Roundtable on Social LCA group of leading companies, we will be able to use this tool alongside our environmental impact expertise to consider the overall impacts of our transition plans, starting with a pilot at our Sestao facility. This will provide further data to support our work with key stakeholders, including the need for policy to support the industrial and social transition.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 40
+
+
+emissions rather than only in-use emissions means that the CO2e embodied in the materials used becomes a key focus for automotive customers. Steel performs well against alternatives: its production emits fewer greenhouse gases than aluminium.
+Similar trends are seen within the rail and heavy transport sectors. In addition, as society transitions towards the low-carbon economy, we expect increased demand for innovative steel solutions for transport that enable the construction of urban and mass transport systems i.e. railways and subways.
+The design of solutions that meet the complex and changing needs of our automotive customers is a key focus of our global R&D team. The development and roll-out of our S-in-motion® portfolio is one of the major success stories of ArcelorMittal’s R&D. Our catalogue of solutions for the electrified vehicles market and the company’s S-in Motion® projects for Hybrid vehicles, Battery Electric Vehicles and battery packs, enables our customers to build these solutions into the growing number of EV designs.
+In 2020 we launched a total of 29 new products and solutions to accelerate sustainable lifestyles.
+EU taxonomy classification: 3.3 Manufacture of low carbon technologies for transport 6.14 Infrastructure for rail transport 6.13 Infrastructure for personal mobility, cycle logistics offering a wide-range of innovative products and engineering solutions designed to assist architects and specifiers to minimise the lifecycle CO2e emissions of buildings. Our new Steligence business (see Section 6), launched in 2019, demonstrates the value we can bring to this market, with a 19% year on year volume increase in Europe in Q1 2021 and a 28% volume increase in Brazil (vs the same quarter last year). Our R&D in this area continues apace, and in 2020 we launched 27 products and solutions to support sustainable construction, infrastructure and energy generation.
+Mobility. 
+A wholesale switch to electric mobility is a key element in the economic transformation needed in a net zero world. This could involve as much as a 3500% increase in electric vehicles on the road by 2030 compared to 2020 under a 1.5°C scenario REF: IEA.
+Expanding the availability of electric vehicles on the scale required necessitates making them affordable to the mass market, and steel is widely seen as the material of choice among automotive customers since it offers the optimum combination of strength, light weight and cost-effectiveness needed to make safe, affordable vehicles. In addition, as is already the case in the built environment sector, the emphasis on lifecycle. 
+EU taxonomy classification: 3.5 Manufacture of energy efficiency equipment for buildings 7.1 Construction of new buildings 7.2 Renovation of existing buildings. 
+Development Scenario (net-zero by 2070) implies an increase of 4.7TW by that time, compared to just 1.4TW solar and wind capacity installed today. ArcelorMittal has a promising outlook in these markets, with a strong business supplying heavy plate for wind towers, specialist electrical steels for generators, and weather-resistant Magnelis™ steel proving a successful innovation for use in solar farms and other projects exposed to harsh environmental conditions.
+As hydrogen networks are developed as part of society’s decarbonisation, steel will again play a key role both in the hydrogen electrolysis plants and in new hydrogen transportation networks. As much as 850GW electrolyser capacity could be developed by 2030 under the IEA’s Net-Zero by 2050 Scenario.
+Low carbon buildings. 
+Built environment stakeholders are increasingly showing interest in the life-cycle emissions of a construction project, rather than simply those emissions from the use phase. This brings an enhanced focus on the embodied CO2e of the building materials and assembly methods used. Through the work of our global R&D team, ArcelorMittal has developed a growing business,
+EU taxonomy classification: 3.1 Manufacture of renewable energy technologies 4.9 Transmission and distribution of electricity 4.14 Transmission and distribution networks for renewable and low-carbon gases. 
+As stakeholder expectations increase in Europe and beyond, and governments strengthen their policy frameworks to pursue their Nationally Determined Contributions under the Paris Agreement, we can expect to see a step change in the pace of demand growth for steel solutions that help our customers reduce their emissions, and steel with lowembodied CO2e. We are already generating revenues from branded products in these markets of some US$3.9* billion in 2020, and we believe there is a positive future outlook for these markets on a significant scale.
+Across the board, ArcelorMittal will capture value where it can meet the needs of customers in these growing markets through innovative product design. Where we can also offer steel with an advantageous embodied CO2, there is further value to be gained, as we have seen with our XCarb™ products launched in March 2021.
+We break down these opportunities below into a number of different markets, in line with the EU taxonomy regulation’s categorisation of those economic activities that make a substantial contribution to climate change mitigation and adaptation.
+Renewable energy. 
+A seismic shift in the energy system is underway and is likely to intensify in the next decade as the world accelerates its efforts to decarbonise in line with the Paris Agreement. The IEA’s Net-Zero by 2050 Scenario envisages a rapid growth in renewable energy capacity in the years to 2030, with 8TW solar and wind power capacity installed by that year. Even its less aggressive Sustainable. 
+Section 3 Our opportunities, risks and governance of climate change 3.1 Opportunities. 
+Footnote: * Sales of branded steel solutions that help our customers reduce their emissions, and steel with low-embodied CO2e, represent 7.3% of total revenues in 2020.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 41
+
+
+Section 3 Our opportunities, risks and governance of climate change 3.1 Opportunities for steel in a circular, low-emission economy. 
+Over time, we intend to develop our portfolio of XCarb™ products to enable customers to take advantage of all our efforts to decarbonise as we progress towards our net zero by 2050 target.
+EU taxonomy classification: 3.9 Manufacture of iron and steel. 
+Zero emissions steelmaking. 
+The interest of our customers in low-embodied CO2e steel has been growing in recent years. ArcelorMittal has made investments in those decarbonisation technologies that are already viable, as outlined in this report, yet the policies to enable the sheer scale of investment necessary to make physically decarbonised primary steel have to date been in short supply.
+As the cost of emitting carbon increases in certain jurisdictions and supportive policy develops, we see an increasing opportunity to decarbonise our integrated steelmaking sites and benefit from the market rewards of being a ‘first mover’. On this basis, ArcelorMittal is planning a number of projects, outlined in this report, which will enable the production of the physical zero carbonemissions steel.
+In order to take meet the demand from customers, and take advantage of ArcelorMittal’s existing decarbonisation investments, we decided to offer our customers products which enable them to benefit directly from these investments. Our XCarb™ green steel certificates represent direct CO2 savings from blast furnace transformation projects, verified by an independent auditor, across our European operations in quantities equivalent to tonnes of net zero steel, and these are offered to the customer alongside our steel shipments. Our XCarb™ recycled and renewably produced steel is made in the EAF using both scrap and certified renewable energy, enabling it to reach very low levels of embodied CO2e.
+displace CO2e emissions in the chemicals industry as part of that industry’s decarbonisation journey. We aim to start producing Carbalyst® bio-products by the end of 2022, at a scale of 80 million litres of bio-ethanol per year, and are working to develop partnerships with potential customers in the use of this new product. The sales of bio-ethanol from our Carbalyst® process are forecast to translate into increased revenues, forecast initially at ~€75 million a year. These could expand as we develop other biochemicals and biomaterials, including bio-plastic, bio-fabrics and biochemicals.
+ArcelorMittal also has a wide portfolio of coproducts which use residues from the steelmaking products. Dust, sludges and slags, for example, are captured and reformed into products which can be reused in industry, agriculture and elsewhere. The most prominent example is our successful business in granulated blast furnace slag, which can be used as a replacement for Portland cement, and in 2020, we sold over 10 million tonnes of such slag to the cement industry.
+EU taxonomy classification: 4.13 Manufacture of biogas and biofuels for use in transport and of bioliquids 3.7 Manufacture of cement 5.9 Material recovery from non-hazardous waste. 
+Other sectors will also demand innovative steels. 
+Similar trends can be seen across many other sectors. In the packaging sector, for example, where customers are demanding lighter and stronger steels to enable reduced embedded carbon and transport emissions of the products, ArcelorMittal has responded with lighter weight packaging solutions. In the shipping, agricultural and industry sectors, where the demand for specialised vehicles and capital equipment are following a similar trend in the automotive sector, albeit at a slower pace, ArcelorMittal can deliver solutions with high degrees of strength and lower volumes of steel.
+Materials recovery, and development of co-products. 
+Many of the efficiencies gained in the steel industry in recent decades have been the result of innovations in materials recovery and recycling. The wide recovery of scrap steel is the best known example, but the industry also recovers and reforms a wide range of ‘residues’ – from slags, sludges and refractories to waste gases and heat – in order to create additional value either within ArcelorMittal or in external markets.
+New circular carbon products such as bio-ethanol, produced from the waste gases of the blast furnace, promise particular value since they will. 
+EU taxonomy classification: 3.6 Manufacture of other low-carbon technologies. 
+XCarb low embodied CO2 steel. 
+Renewable energy. 
+Green fuels. 
+Green cement. 
+Low carbon buildings. 
+CCUS + H2 infrastructure Coastal defence. 
+Transport. 
+Revenue opportunities in the next 10 years. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 42
+
+
+ArcelorMittal identifies, assesses and manages risks – including climate-related risks – on an ongoing basis through a variety of mechanisms.
+At a strategic level, keeping pace of the latest stakeholder and scientific trends on climate change, including the expectations of investors, customers and policymakers, is important to ensuring the company’s response minimises risk and takes advantage of opportunities. This is the purpose of the Group Climate Council, made up of senior managers of relevant corporate functions, each of which may have their own working groups which support the company’s focus on its climate response. It is chaired by the EVP in charge of business optimisation, who reports to the Executive Office. Reports from this committee are regularly made to the Appointments, Remuneration, Corporate Governance and Sustainability (ARCGS) Committee of the Board.
+Section 3 Our opportunities, risks and governance of climate change 3.2 Risks. 
+Climate-related trends, and the risks and opportunities identified as arising from them, are used to inform the company’s strategic outlook and planning on climate. This work is coordinated by ArcelorMittal’s executive officer for business optimisation, Brad Davey, in consultation with segment CEOs, discussed on a regular basis by the group management committee, and overseen by the Executive Office, which provides leadership and guidance. The company’s climate strategy is reviewed regularly by the ARCGS of the board.
+At segment level, key climate-related financial risks are brought to the attention of the management committee, and where financially significant at a group level they are addressed at the Corporate Finance and Tax Committee.
+Central to our approach is our work to advocate for policy support strategy to ensure we can respond to rising carbon prices with viable investments in decarbonisation technologies, as outlined in this report. At the same time, all our business segments are required to prepare CO2e reduction plans to reach net zero by 2050 as part of the annual planning cycle.
+This report, and the assessment of the resilience of our business to the transition and physical risks described in this report, has been discussed and approved by EVP business optimisation, Bradley Davey; chief financial officer, Christino Genuino; CEO, Mr. Aditya Mittal; lead independent director and ARCGS committee chair, Bruno Lafont; and Executive Chairman Mr. Lakshmi N. Mittal.
+Read more on our Alignment with TCFD recommendations in Appendix C.
+3.2.1 Identifying and managing climate-related financial risk. 
+ArcelorMittal identifies, assesses and manages short, medium and long term risks – including climate-related risks – on an ongoing basis.
+In 2020, Group Assurance formalised a quarterly process enabling corporate functions to identify medium and long term risks and opportunities to the business – based on social, environmental, regulatory, workforce, stakeholder, resource, technological and other trends – and specify mitigation actions. A consolidated report is shared on a quarterly basis with the Executive Office and Audit and Risk Committee.
+In the medium to long term, climate change poses a number of risks to the business and the key risks are identified in the table below. These are analysed by building models and developing scenarios to understand potential financial impacts, such as our exposure to carbon costs in different jurisdictions.
+Short-term risks within a 12-month timeframe are identified through a bottom-up process by site management teams. Business segments consolidate the identified risks and report the top risks to the Executive Office quarterly. The company uses a risk management framework based on a blend of a COSO, ISO 31000 and an in-house model. Sites assess risks by assigning them a probability of occurrence and a potential financial impact and/or non-financial consequence such as environmental harm.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 43
+
+
+Risk and status Nature of risk Mitigation. 
+TRANSITION RISKS. 
+Policy risk. 
+Time horizon: short and medium term. 
+Status: increasing. 
+Our most substantial climate-related risk will arise where we are unable to make the necessary investments to decarbonise and reach our 35% European target by 2030 due to the design of European policy. We could face a financial impact in phase 4 of the EU ETS resulting from a rising carbon price in combination with reduced allocations under the EU-ETS cap and trade system whilst competing with imported steel in the absence of a fair and competitive landscape. Such financial impacts could limit our ability to make the significant investments needed to reach our 2030 target unless public funding is available. This applies to all our European plants, making up 50% of our total capacity.
+Therefore in Europe, the implementation of an effective carbon-border adjustment mechanism (CBAM), the continuation of free allocations, and the availability of public support, are all vital to ensure we can make sufficient investments to decarbonise our European assets. We are encouraged by the recent announcements from the EU Commission in its Fit for 55 package, which is moving in the right direction, although many details need to be refined in order for it to be an effective package.
+The successful implementation of the group’s decarbonisation strategy, including advocacy to ensure decarbonisation investments are viable in a fair and competitive landscape, could in time significantly reduce ArcelorMittal’s sensitivity to changes in the price of carbon in Europe. However, given the difficulty in forecasting the relevant variables (such as changes in our production levels, free allocation levels, the impact of the CBAM on the steel market in Europe, or the availability of public support for decarbonisation investments), here we show our annual sensitivity to a €5 increase in the price of carbon in Europe under two scenarios to reflect the fact that several factors, including the level and carbon intensity of production at the group’s European steel operations as well as the level of free allocation of allowances. In the first scenario, based on levels of free allocations, production and CO2 intensity from 2019, the approximate annual impact of a EUR5 increase in the price of carbon would be ¤50 million. In the second scenario, where the level of free allocations are reduced to zero, the sensitivity to a EUR5 change in the carbon price would increase to over ¤290 million per annum. Any decarbonisation investments we make will reduce this exposure but these cannot be done without the appropriate level of public support.
+We are also tracking the potential impact of carbon market policy developments in all other jurisdictions where we operate. We consider that the financial risks arising from these are less significant in the next 5 years.
+Our decarbonization strategy to achieve a 35% CO2 intensity reduction by 2030 over a 2018 baseline includes the following levers to mitigate this risk: • advocacy to influence the development of an effective policy framework – in Europe and other jurisdictions where a carbon price applies, to ensure a fair and competitive landscape for low-emission steel, including an effective CBAM, the funding to enable the rollout of new technologies, access to sufficient clean energy, and a market for low carbon steel.
+• the successful implementation of our decarbonization target plans at affected sites, which will depend on government support to ensure these investments are viable.
+• short term hedging to mitigate short term risks arising from shortages in allocations.
+Success in moving these levers together could in time significantly reduce the company’s sensitivity to changes in the price of carbon, particularly in Europe.
+Section 3 Our opportunities, risks and governance of climate change 3.2 Risks 3.2.2 Our climate related financial risks. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 44
+
+
+Risk and status Nature of risk Mitigation. 
+TRANSITION RISKS (cont.)
+Reputation. 
+Time horizon: short to medium term. 
+Status: stable. 
+The credibility of our decarbonisation plans, as evidence of our net zero commitments, will affect the ratings we receive from customers, investors and other initiatives. The quality of our disclosures on these plans and the extent to which we have engaged stakeholders to understand our intent behind will also be key factors.
+We engage widely with our investors on climate change alongside other sustainable development topics throughout the year, and share the evolution in our transition planning with all stakeholders via our series of Climate Action Reports. We benchmark our progress against the Climate Action 100+ Net-Zero Benchmark, as can be seen in Annex 1.
+Technology. 
+Time horizon: short to medium term. 
+Status: increasing. 
+Our continuing low-carbon innovation programme is vital for our long term resilience and competitiveness. The risk of our breakthrough technologies failing is dependent the availability of innovation funding to test and develop them appropriately, and the emergence of suitable policy to support them. For example, the viability of our Smart Carbon route depends on circular economy policy incentivising the reuse of carbon.
+A significant part of the $10 billion capital costs we outline for our global 25% target will be allocated to our European operations. In addition, we have made a series of applications to the ETS Innovation Fund to support the development of several new technologies, and continue to ask for supportive policy instruments.
+PHYSICAL RISKS. 
+Acute. 
+Time horizon: medium term. 
+Status: stable/increasing. 
+Adverse weather events, such as extreme low temperature, very high winds and flooding may on occasion hamper our supply and distribution routes. Our Mexico and Calvert JV plants are in an area prone to hurricanes, for example, and wildfires are a risk to our sites in Kazakhstan and South Africa. Meanwhile northern Europe has recently experienced extreme flooding. These events can cause significant disruptions for our supply chain partners, transport routes, own production of steel, and customer deliveries which translate into increased operating costs, higher raw materials costs, reduced production, sales and reputation damage for the company.
+We have undertaken initial modelling of this risk over the next 10 years to inform the business. This is corroborated by independent studies and/or prediction models conducted by recognised third-parties, universities and scientific research institutions. Currently, the magnitude of impact is considered to be medium-low.
+Our risk management process enables us to understand our exposure to existing and new emerging risks and to build appropriate resilience and recovery plans for our plants and supply chains, including emergency procedures, engaging fire fighting services etc.
+Our experience in this area is at the early stages and will evolve where extreme events are currently rare but may be more frequent or intense in the future.
+We will undertake further analysis of our physical risks as part of a comprehensive scenario analysis in line with TCFD recommendations.
+Section 3 Our opportunities, risks and governance of climate change 3.2 Risks 3.2.2 Our climate related financial risks. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 45
+
+
+Risk and status Nature of risk Mitigation. 
+PHYSICAL RISKS (cont.)
+Chronic. 
+Time horizon: medium term. 
+Status: stable. 
+Although water is recycled many times in a steel plant, its regular supply is crucial to our steelmaking processes. Some facilities such as in Brazil and South Africa have been at higher risk of being affected by long periods of chronic drought conditions. If the authorities were to restrict a licence to withdraw water as a result this could increase operational costs, reduce production capacity and so revenues. Also in areas of chronic water-stress, we could face reputation impacts.
+We have modelled these risks for Brazil and are in the process of conducting assessments for other sites in water-stressed areas, including South Africa and Mexico.
+We consider the potential impact to be medium-low.
+We developed a water management plan in Brazil and South Africa to mitigate our risk exposure to chronic water risks. In Brazil, the actions set out in site-level resilience plans reduced the company’s water intake by more than six million m3/year, despite a 17% increase in production. This program was recognised by worldsteel when it was awarded the annual Steelie Award for ‘Excellence in Sustainability’ (2018).
+To increase water security and ensure the stability of our operations, we have invested in a desalination plant in Tubarao, Brazil.
+Section 3 Our opportunities, risks and governance of climate change 3.2 Risks 3.2.2 Our climate related financial risks. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 46
+
+
+leading a global cement company and has been a board member of the World Business Council for Sustainable Development for three years. 36% of directors are female. The Board’s two committees are made up of independent directors to ensure further oversight, with responsibilities including climate-related issues. Risks are also considered by boards of subsidiaries worldwide. CEO Mr. Aditya Mittal is a member of the Board.
+Board of Directors Chaired by Executive Chairman Mr. Lakshmi N. Mittal. 
+The Board led by the Chairman have overall responsibility for the governance and strategic direction of ArcelorMittal, which includes taking into account the effects of climate change and other sustainable development trends. Directors have experience of leading companies in heavy industry, mining and consulting sectors, with expertise in strategy, climate and safety, while the lead independent director has experience. 
+Board of Directors. 
+Sustainable development council. 
+Group management committee. 
+Group CTO council. 
+XCarb™ technical panel Chair: Brad Davey. 
+Investment allocation committee Chairs: Aditya Mittal, Brad Davey. 
+Corporate Finance and Tax Committee Chair: Genuino Christino. 
+Group Climate Council Chair: Brad Davey. 
+ARCGS committee Chair: Lead Independent Director Bruno Lafont. 
+Audit & Risk committee Chair: Karyn Ovelmen. 
+Segment Business Reviews. 
+Executive office. 
+Section 3 Our opportunities, risks and governance of climate change 3.3 Governance. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 47
+
+
+Group CTO Council Chaired by Chief Technical Officer Mr. Pinakin Chaubal. 
+The technical council coordinates and oversees progress on the global technology roadmap via regional and project-based committees involving CTO and R&D.
+Sustainable Development Council Chaired by EVP business optimisation Mr. Brad Davey. 
+The Sustainable Development Council ensures that material sustainability issues and progress reports are brought to the attention of the ARCGS, and that guidance from the ARCGS is duly followed up in action plans.
+XCarb™ Technical Panel Chaired by EVP business optimisation Mr. Brad Davey. 
+The purpose of the panel is to review requests from the network to have their products or projects appearing beneath the XCarb™ brand.
+Group Climate Council Chaired by Mr. Brad Davey, EVP business optimisation. 
+Group Climate Council is responsible for informing and shaping the company’s climate change strategy, considering both technology and stakeholder relations. Members of the group include VP government affairs, VP corporate communications and corporate responsibility; VP head of corporate strategy; VP technology strategy; CTO Europe, VP climate action Europe, GM, head of sustainability; CMO Global Automotive.
+Investment Allocations Committee Chaired by CEO Mr Aditya Mittal and Mr. Brad Davey, EVP business optimisation. 
+The Investment Allocations Committee authorises large capex projects, including those designed to deliver carbon and environmental improvements, and reviews CO2 impact of all proposals. Committee members include EVP and chief financial officer, Mr. Genuino Cristino, chief technical officer, Mr. Pinakin Chaubal, and VP head of corporate strategy, Mr. David Clarke. The IAC reviews the CO2 impact of all projects as part of the evaluation process.
+For decarbonisation projects in particular, investment project concepts are given the green light at executive level as part of the investment strategy discussed at the Climate Investment Strategy Committee. These are then scrutinised at the IAC which, after the launch of our new global targets, will also ensure that no approved project that is not specifically aimed at decarbonisation, will reduce the company’s chances of achieving our CO2 reduction targets.
+Audit & Risk Committee Chaired by non-executive independent director Ms. Karyn Ovelmen. 
+The Audit & Risk Committee ensures that the interests of the company’s shareholders are properly protected in relation to risk management, internal control and financial reporting. It oversees both the identification of risks to which the ArcelorMittal group is exposed, via regular senior management reports, and the management response to these risks.
+Executive Office Executive Chairman Mr. Lakshmi N. Mittal, and CEO Mr. Aditya Mittal. 
+The Executive Office works closely with executive officers and members of the Management Committee on key strategic issues.
+Group Management Committee Chaired by Group CEO Mr. Aditya Mittal. 
+The Group Management Committee regularly considers climate-related risks and group-level strategy. Members includes the leaders of all segments and major corporate functions.
+Corporate Finance and Tax Committee Chaired by Mr. Genuino Christino, CFO. 
+The CFTC meets regularly to review the financial performance, tax planning and treasury analysis of the business. It is responsible for introducing policies and controls and implementation of strict policies and procedures to manage and monitor financial market risks. The CFTC approves all corporate finance/funding/treasury files including for example the Revolving Credit ESG facility.
+Appointments, Remuneration, Corporate Governance and Sustainability (ARCGS) committee Chaired by lead independent director Mr. Bruno Lafont. 
+The ARCGS oversees the implications of sustainable development issues for the company under five sustainability themes, of which one is climate change. Members of the ARCGS are independent and receive regular training on climate changerelated issues. Their experience of sustainability has been gained through their leadership roles in the cement, mining and global consulting sectors. The committee is chaired by the lead independent director on the Board, Mr. Bruno Lafont, who has been a board member of the World Business Council for Sustainable Development for three years.
+The Committee considers the implications of climate change for the business and oversees the company’s strategic planning of resources and investments in response to the risks and opportunities that arise, as well as having oversight of policy and stakeholder trends. It receives regular reports from senior management on stakeholder expectations, the company’s lowemissions technology strategy, climate-related policy engagement and carbon performance.
+Each year the ARCGS Committee spends time undertaking a deep dive on climate change to ensure they remain updated with the latest science, technology and stakeholder developments. The chair of the ARCGS liaises closely with the chair of the Audit & Risk Committee, and provides a summary of its work on climate change to the full Board.
+Section 3 Our opportunities, risks and governance of climate change 3.3 Governance. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 48
+
+
+In 2020, the absolute CO2 footprint for our steel and mining operations was 160.3 million tonnes, an 18% decrease against 2019. For our steel operations, our footprint fell 20% to 148.5 million tonnes. While most of this decrease was as a result of the fall in the Group’s steel output due Covid-19, to some extent it is also the result of a number of carbon and energy efficiency projects implemented in our steel operations in 2020.
+In 2020, the average carbon intensity in our steel business was 2.08 tonnes of CO2 per tonne of steel, a 1.6% improvement over 2019. In relation to the sites we operate today that we operated in 2007, in 2020 the specific Group footprint for the steel business decreased by 7.9% compared to 2007. These metrics cover scopes 1, 2 and 3 as defined in our Basis of Reporting. This is based on data for almost 100 steelmaking sites across the Group.
+Due to the variable impacts of Covid-19, production at some sites reduced more than at others. On analysis, a general pattern has emerged that those sites where production was most reduced were also those which perform better in terms of CO2. Therefore, the average impact of our CO2 reduction measures on CO2 intensity across the Group was lower than anticipated, and as a result we did not fully reach our 2020 CO2 reduction target.
+By comparison, the global average figure provided by the World Steel Association is 1.83tCO2/ts (worldsteel 2019). The key reason for our higher carbon intensity is that the share of our production from the more carbon-intensive primary steelmaking route stands at 81% – compared with 72% in the global steel market as a whole (worldsteel 2019).
+Making primary steel via the BF-BoF route emits more CO2 than secondary steelmaking in the EAF. Yet making primary steel is a necessary investment to generate the recyclable scrap stocks of the future that we need to enable fully circular steelmaking. In 2020, the average carbon intensity of our primary (BF-BoF) steelmaking operations fell by 0.86% year on year.
+The table on the right shows the baseline for our new 2030 targets, based on the steel and mining assets we own and operate today. It includes both CO2 equivalent emissions (scopes 1 + 2). Sites we have sold or no longer control since 2018 have been excluded from these figures.
+Section 4 Metrics 4.1 Carbon performance in 2020. 
+Following the formation of ArcelorMittal in 2006, we set ourselves a target of reducing our CO2 per tonne of steel by 8% by 2020 over 2007. By the end of 2020, we had achieved a 7.9% reduction.
+Note: Figures below include ArcelorMittal USA and Acciaierie d’Italia (ex ArcelorMittal Italia).
+Absolute Emissions scope 1+2 2018 2019 2020 million tonnes CO2e ArcelorMittal Steel+Mining 152.2 145.8 124.4 million tonnes CO2e Europe 67.4 63.8 51.2. 
+Intensity & Target (scope 1 and 2)
+CO2 equivalent Emissions per ton Crude Steel 2018. 
+Targeted % improvement 2018-2030 2030 target tonnes CO2e per tonne of steel*
+ArcelorMittal Steel+Mining 2.06 25% 1.54 tonnes CO2e per tonne of steel. 
+Europe 1.70 35% 1.11. 
+Footnote: 2018-2020 data excluding ArcelorMittal USA and Acciaierie d’Italia (ex ArcelorMittal Italia).
+For more metrics please see our Fact Book 2020. 
+Summary of key metrics with 2018-2020 data excluding ArcelorMittal USA and Acciaierie d’Italia (ex ArcelorMittal Italia)
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 49
+
+
+Section 5 Technology 5.1 Technology pathways. 
+As a result, Innovative DRI has a broader and more immediate potential to reduce CO2e than DRI solely based on green hydrogen. Indeed, an initial transition to natural gas-based DRI production would more than halve existing CO2e emissions from a BF-BOF facility on a per tonne basis. As clean energies become more readily available and commercially viable, these facilities can transition to net-zero. Another advantage of transitioning to DRI technology is the reduction in other pollutants.
+Although many steelmakers have started to develop hydrogen-DRI projects, ArcelorMittal has a development advantage as we are already a major DRI producer with over 10 DRI facilities globally, and the only one in Europe to date.
+We have also announced plans to expand this technology at our German plants in Bremen and Eisenhüttenstadt, Sestao in Spain, and at France in Dunkirk, where we are also partnering with Air Liquide to source low-carbon hydrogen. See Section 2.3.1 for more information on these projects.
+Existing natural gas based DRI technology can be transitioned to solely use hydrogen as the main energy and reductant. The transition to DRI production based on green hydrogen (produced using renewable energy) and blue hydrogen (which captures and stores any CO2 created during production) will help the steel industry to achieve net-zero by 2050.
+While DRI based on green hydrogen has significant public support, hydrogen-DRI technology is still in development and hydrogen remains an expensive source of clean energy compared to alternatives.
+There is much emphasis today on developing a hydrogen economy and there is no doubt that hydrogen will play a very important role in the decarbonisation of the steel industry. Our Innovative DRI pathway can also use other sources of energy such as biogas and natural gas by incorporating carbon capture and storage to avoid CO2e emissions.
+As we have explained in previous Climate Action Reports and in section 2.2.2 of this report, we have identified two viable decarbonisation technology routes for steel: Smart Carbon and Innovative DRI.
+We have done a lot of work developing technologies for these routes since the publication of our last report, with tangible progress made on several industrial-scale demonstration projects, particularly the Smart Carbon investments in Gent. This work has reinforced the potential that both Innovative DRI and Smart Carbon have to achieve net zero.
+We are also cautiously optimistic about a third potential technology pathway – direct electrolysis of iron – which is currently in the research and development phase but showing good potential.
+There is much emphasis today on developing a hydrogen economy and there is no doubt that hydrogen will play a very important role in the decarbonisation of the steel industry.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 50
+
+
+Smart Carbon, apart from having the potential to be the most cost competitive route to carbonneutral steel, also has other benefits. For example, it gives steelmaking a role in achieving carbonneutrality in the cement and plastics industries and provides plastics with a circularity it lacks today.
+Currently, global cement production averages 0.8 tonnes of CO2e per tonne of cement produced, while emissions from the manufacture of most plastics and fabrics can be up to 4 tonnes of CO2e per tonne of material produced (excluding delayed emissions from end-of-life disposal or degradation). Each tonne of Smart Carbon steel generates 250kg. 
+Carbon ecosystem incorporating ‘natural’ and ‘synthetic’ circular carbon, external hydrogen injection and carbon capture and storage technology to deliver carbon-neutrality.
+We are constructing several commercial-scale projects to test and prove a range of Smart Carbon technologies, with key projects coming on-stream from 2022. These technologies also have the potential to use hydrogen as a substitute for fossil fuels within the blast furnace, further reducing CO2 emissions.
+IGAR. 
+BF-BOF. 
+Sustainable biomass. 
+Fossil fuels. 
+Carbon capture and storage. 
+Capturing, transporting and storing any non-circular carbon sources Carbon transport Carbon storage. 
+We also remain excited by the potential of our Smart Carbon pathway.
+Smart Carbon transitions blast furnace technology to zero carbon-emissions steelmaking through use of clean electricity (including in the form of hydrogen), circular carbon (such as sustainable biomass and waste from end-of-life plastics), and carbon capture and storage of emission of residual remaining fossil fuels use.
+Although other steelmakers are also developing elements of a Smart Carbon route, ArcelorMittal is focusing on development of the complete Smart. 
+Section 5 Technology 5.1 Technology pathways. 
+Smart Carbon. 
+Smart Carbon, our route to carbon removal: we can use bioenergy to turn smart carbon into a carbon removal process (BECCS) if we scale up CCS significantly.
+of slag, a substitute for cement, and 200kg of biomaterials for plastics and fibres industries.
+In addition, combining use of circular carbon with scaling up of CCS has the potential to transform steelmaking intro a carbon removal system called Bioenergy Carbon Capture and Storage (BECCS). Here the growth of the original biomass draws CO2 from the atmosphere and then, when used to make electricity, the carbon is stored underground in CCS projects rather than realised into the atmosphere. This would have the net effect of removing carbon from the atmosphere for every tonne of steel produced.
+Once the relevant technologies have been fully implemented, the Smart Carbon would result in:
+The high temperature-controlled reduction environment of iron making produces 250kg carbon-neutral slag, a direct substitute for cement. Production of slag through this route in Europe covers approximately 10-15% of demand for cement.
+One tonne of carbon-neutral steel 250kg carbon-neutral cement 200kg carbon-neutral biomaterials. 
+Carbon removal potential. 
+In Europe, polyethylene-based plastics account for more than half of the 64 million tonnes of plastics and fibres produced. If the entire European steel industry switched to Smart Carbon, we could supply more than 60% of Europe’s polyethylene-based plastic needs, equivalent to 30% of the entire demand for plastic and fibre.
+Increased use of circular carbon, using sustainable biomass and waste combined with scaling up CCS not only makes steelmaking carbon neutral, but can turn the industry into a net contributor to removing CO2 from the atmosphere.
+1t steel. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 51
+
+
+It is important that we are able to make real and meaningful progress in the coming decade, both in increasing scrap use where possible and in preparing for the more widespread use of these technologies.
+That includes transitioning to natural gas based DRI as a precursor to introducing hydrogen and continuing to evolve the Smart Carbon offering which involves multiple technologies and therefore affords greater flexibility to adjust to local steelmaking conditions.
+Section 5 Technology 5.1 Technology pathways. 
+Innovative DRI and Smart Carbon: two complementary pathways. 
+Iron oxide electrolysis. 
+Direct electrolysis of iron. 
+Circular carbon. 
+Clean electricity and green hydrogen. 
+Clean electricity. 
+Iron ore Grinding. 
+The decade after 2030 may bring with it prospect of a new technology maturing to offer a third route for the decarbonisation of steelmaking. ArcelorMittal is one of seven partners and the coordinator of the “Siderwin” project based in Maizières, France. The project is developing a technology using electricity for the direct electrolysis of iron, by-passing the use of carbon or hydrogen.
+Direct electrolysis of iron: future potential technology. 
+The Siderwin development is advancing rapidly, currently deploying an engineering-scale prototype with a production capacity of 100kg of pure iron slabs. The project, fully-funded by the European Union’s Horizon 2020 fund is due to complete installation and testing in 2022.
+Figure X : Direct electrolysis route. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 52. 
+Innovative DRI Smart Carbon + Zero carbon-emissions if green hydrogen as fuel + Reduction of other air emissions + Increased employment opportunities in the clean electricity – green hydrogen value chain + Lower cost vs. hydrogen-DRI + Capable of being deployed and making a CO2 impact before 2030 + Capable of generating carbon-negative steel + Supports decarbonisation of cement and plastics + Improves circularity of plastics + Greater flexibility to adjust to local steelmaking conditions + Additional employment to existing BF-BOF via. 
+CCUS technologies and related business activity - Limited availability of green hydrogen - Expensive - Less direct employment - Continues to generate other air emissions - Continues to use fossil fuels (albeit with CCS)
+Both Innovative DRI and Smart Carbon will be necessary to reduce CO2e, yet neither are fully technically or commercially proven. There is significant variation across countries and regions in existing climate change policy frameworks and in the availability and cost of the clean energy, as well as the differences in social acceptance of differing technology solutions.
+
+
+Steel’s circular advantage. 
+As a permanent material – and one that is infinitely and fully recyclable with no loss of quality in most cases – steel is an important material group and fundamental to achieving a truly circular economy. Today, already 85-95% of steel reaching its end of life is re-melted to produce new steel products. These circularity credentials are unmatched by the other key material groups.
+Plastics, cement and, to a lesser extent, aluminium have limited circularity as they are not always easy to segregate and are not easily recycled back into replacement products. Products like cement can, at best, be downcycled at the end of their life to create aggregate materials.
+This is reflected in the lower recycling rates for these material groups. Along with sustainablysourced wood, steel’s intrinsic circularity credentials stand out. Its magnetic properties make it easy to segregate and be recycled back into new steel products. Additionally, scrapped steel can be melted back to make new steel with similar properties, to replace the materials it was originally used for.
+At the point when scrap availability is large enough, the steel-making process will be able to be truly circular. This stands steel apart from other materials.
+6.1.1 The shift to towards a circular economy. 
+Meeting the targets in the 2015 Paris Agreement and preventing the average global temperature rising by more than 1.5°C, requires a long-term, fundamental shift in the way we consume goods and products.
+Given the threat posed by climate change, it is right for global efforts to focus on rebalancing the planet’s carbon cycle to eliminate human induced concentrations of greenhouse gases in the atmosphere.
+The drive to decarbonise aligns with a broader drive to transition to a truly circular economy. In simple terms, a circular economy is an economic system that seeks to eliminate waste through the continual use of resources. By reusing, sharing, repairing, refurbishing, remanufacturing and recycling, circular systems create a closed-loop that minimises both the use of resources and the creation of waste, pollution and carbon emissions. Circular systems can be contrasted to the traditional “take, make, use, dispose” approach of linear economic models. Long-term policies should therefore be designed to transition the economy towards carbon-neutrality and also towards a fully circular economy.
+For the material world, this means ultimately transitioning to producing all materials from recycled materials with clean energy when they reach their end of life, minimising stress to the environment for extractive industries such as mining. To be sustainably circular, society will need to have reached a level of material intensity where there is no need to increase the amount of material stock in the economy.
+Section 6 The bigger picture 6.1 Circularity in our world and in the steel industry. 
+Material group kg CO2 emitted/kg of material Global production mix 0 5 10. 
+Steel. 
+Aluminium. 
+Plastic. 
+Cement produced from primary sources produced from secondary sources. 
+Steel’s circularity is unmatched by any other major material group. 
+SOURCE: ArcelorMittal estimates from public sources. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 53
+
+
+Section 6 The bigger picture 6.1 Circularity in our world and in the steel industry. 
+Steel • Steel is not only a vital material that builds the infrastructure of our world, but also one with leading circularity credentials.
+• Steel is an iron-based metal alloy that uses few alloying elements, as many of its properties are achieved through thermal treatment. Most alloying elements can be removed in the remelting process, rendering steel as one of the most versatile materials to recycle into equivalent products.
+• Steel is infinitely and fully recyclable with no loss of quality in most cases. • 85-95% of end-of-life steel is currently recycled back into new steel products and accounts for over 20% of today’s steel production.
+Aluminium • Like steel, aluminium is an infinitely recyclable material. • Yet aluminium is a highly alloyed metal, with different alloy mixes for different applications. Mixing different aluminium alloys diminishes aluminium’s recyclability as alloys are difficult to remove once incorporated, and unnecessary alloys will act as pollutants in new aluminium alloys.
+• The intrinsic high value of aluminium has led to tight closed loop recovery systems for the same aluminium alloys, such as beverage cans, meaning recycling rates remain relatively high for aluminium.
+• Currently, around 76% of end-of-life aluminium is recycled into new aluminium products and makes up around 32% input of global aluminium production. Source: World Aluminium Recycling Factsheet 2020.
+Focus on end-of-life scrap. 
+End use supply 1400mt. 
+End of life scrap. 
+End of life Inputs. 
+St ee l i n
+us e. 
+P ri m
+e s
+c ra p
+fr o
+m s
+t e
+el p
+r o
+c e
+s si n
+g. 
+H o
+m e
+ s
+c r
+a p
+ f
+r o
+m s
+t e
+e l
+m a
+k i
+n g. 
+P ri m
+a ry s
+o u
+rc e
+s. 
+Steel circularity. 
+Cement circularity. 
+Aluminium circularity. 
+CO2. 
+CO2. 
+End use supply. 
+End of life 19mt recycled 85mt 26mt 9mt 5mt. 
+Energy production. 
+Landfilled. 
+Downcycled. 
+Inputs Aluminium circularity. 
+R e
+c y
+c li n
+g. 
+M at er ia l
+wo rl d:
+Al u
+mi ni u
+m in u
+se. 
+P r
+o d
+u c
+ti o
+n. 
+P ri m
+a ry s
+o u
+rc e
+s. 
+SOURCE: ArcelorMittal. 
+Corporate Strategy. 
+SOURCE: ArcelorMittal. 
+Corporate Strategy. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 54
+
+
+Plastics • Although demand for recycled plastics is growing rapidly, in 2018 recycled plastic accounted for only 6% of plastic demand in Europe. Source: European Parliament • Only a limited range of plastics such as polyethylene terephthalate (PET) can be currently recycled back to new products • Technologies that deconstruct waste plastics into the basic building blocks to make new plastics are being deployed, which may bring circularity to a broad family of plastics. However, technologies to produce inputs for plastics from end-of-life material are currently energy intensive and very expensive relative to the cost of deriving them from fossil fuels.
+Cement • Today there is no effective way to recycle cement at its end of life. • It can be downcycled to use in aggregate mix. • There are technologies in development to attempt to recycle cement from end-of- life concrete, but these technologies are today at small scale and are at very high cost.
+Plastic circularity. 
+CO2. 
+CO2. 
+End use supply. 
+End of life 45-55mt 120-140mt 60-70mt 26mt recycled 350450mt 320mt 20-30mt. 
+Unmanaged. 
+Landfilled. 
+Energy production. 
+Downcycled. 
+Inputs Plastic circularity. 
+R e
+c y
+c li n
+g. 
+M at er ia l
+wo rl d:
+Pl as ti cs &
+f ab ri cs in u
+se. 
+P r
+o d
+u c
+ti o
+n. 
+P ri m
+a ry s
+o u
+rc e
+s. 
+Cement circularity. 
+CO2. 
+End use supply. 
+No effective recycling of cement in concrete today 4000mt+ 2600mt+
+Inputs Cement circularity. 
+M at er ia l
+wo rl d:
+Ce m
+en t
+in u
+se *
+P r
+o d
+u c
+ti o
+n. 
+P ri m
+a ry s
+o u
+rc e
+s. 
+End of life. 
+Unmanaged. 
+Landfilled. 
+Downcycled (aggregate for roads etc.) *Cement used primarily within concrete structures as a key ingredient, constituting about 10%
+Section 6 The bigger picture 6.1 Circularity in our world and in the steel industry. 
+SOURCE: ArcelorMittal. 
+Corporate Strategy. 
+SOURCE: ArcelorMittal. 
+Corporate Strategy. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 55
+
+
+A move to a circular economy is much more than just recycling a material. It’s also about extending the life of that material, reducing the need for it, reusing it and repurposing it at the end of its life.
+2019 marked the first full year of Steligence®, a new concept developed by ArcelorMittal to facilitate high-performance buildings and sustainable construction techniques.
+Steligence® revolves around the idea of the building as a holistic entity. Traditional approaches to construction seek to optimise buildings in relation to one or another product or building function, but Steligence® integrates the needs of architects, engineers, investors, the construction sector and building users, and delivers advanced steel knowledge at an early stage. This enables us to optimise the combination of products used and create innovative and highly efficient solutions. As the only steel producer with a full portfolio of high-tech steel products and solutions for the construction market, as well as leading expertise in their use, ArcelorMittal is uniquely positioned to offer such levels of integrated service. This is a major strength for our company and is evidenced by the fact that every building project that has started with Steligence® has stayed with this concept through to its completion. Our customers trust us to help them find the right product for the right place.
+Steligence® enables building optimisation on multiple fronts, for example:
+Optimised construction cost and speed: by facilitating weight reductions and integrating modular parts, Steligence® saves on costly foundations and makes buildings faster to assemble.
+Higher utilisation efficiency: by reducing floor heights and thereby incorporating more storeys within a given building height, Steligence® achieves 15% gains in volume to surface ratios.
+Transformational refurbishment and reuse potential: by creating longer free spans between columns, and removing load-bearing walls, Steligence® maximises the flexibility of interior layouts and creates dynamic buildings that transform as user demands change. Then, at the end of the building’s life, Steligence’s® modular parts can be disassembled and reused, yielding unprecedented residual value.
+Lower environmental impact: Steligence® decreases the lifecycle carbon footprint of a building by 20% compared with typical construction techniques, enabling buildings to attain higher BREEAM and LEED ratings. (Based on Life Cycle Carbon footprint of a building, source: ArcelorMittal Global R&D).
+The sustainability benefits of Steligence® are a particular factor in its favour. With approximately 40% of the world’s carbon emissions coming from buildings and construction, we anticipate an ever-increasing focus on environmental performance. Lifecycle analysis demonstrates steel’s superiority over other materials such as concrete, and we see steel becoming more dominant throughout the construction sector, with Steligence® as the most advanced steel solution that actively delivers upon the needs of the circular economy.
+Photo: © ArcelorMittal. Illustration: © Adobe. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 56
+
+
+World demand for materials is increasing, driven by the construction of infrastructure in developing countries that is necessary to achieve the United Nations’ Sustainable Development Goals. Under current consumption patterns, global demand for steel is forecast to increase from 1.7 billion tonnes in 2018 to over 2.6 billion tonnes by 2050.
+While world material consumption of all material groups increases, the availability of end-of-life material becoming available can only supply a comparatively small part of the input needed to produce new materials. The availability of recyclable material is fixed by the amount of products that have reached the end of their life. In the case of steel, today end-of-life steel represents ~20% of the inputs for new steel produced globally with recycling rates already at a very high level.
+Unfortunately, for most materials – including steel – the world cannot immediately increase the use of secondary sources (i.e. scrap) to achieve full circularity.
+Strong growth in demand means all main material groups today, not only steel, require significant primary sources of raw material as demand outstrips stock available for recycling.
+The availability of end-of-life scrap is projected to increase globally over the coming decades as equipment and buildings produced or constructed over the past 30 to 80 years approach the end of their life. The recent IEA report estimates that by 2030 37% of steel will be produced through scrapbased EAF, compared with 24% in 2020. By 2050 we believe this will increase to approximately 50%. By 2100, we envision the world transitioning to a fully and sustainable circular steel industry, where the amount of equipment and buildings coming to their end of life will be a sufficient input to meet society’s replacement steel needs. Once renewable energy is readily available, secondary based steel making – which requires much less energy and emits a current average of 0.6 tonnes of CO2 per tonne of steel – falls below 0.1 tonnes of CO2 per tonne of steel.
+While the increased use of scrap is therefore an important mechanism to reduce CO2 emissions, its availability is limited and therefore primary steel will remain necessary for the next 50+ years, not only to meet demand for steel but as a valuable and vital contributor to the transition to a fully circular economy.
+Achieving net-zero by 2050 will therefore require the decarbonisation of the primary steel-making process. Fundamentally this means a shift to clean energies and using alternative steelmaking technologies, as well as improving efficiency within the steelmaking process. This is vital if the industry is to make its full contribution to a net-zero economy by 2050.
+Section 6 The bigger picture. 
+The journey to full material circularity requires essential primary steel. 
+Photo: © ArcelorMittal. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 57
+
+
+Section 6 The bigger picture 6.2 The carbon challenges facing steel. 
+The steel industry is a large carbon emitter and responsible for 7-9% of global CO2e emissions.
+The majority of this today is the result of BF-BOF steel production, which mainly uses coking coal in the blast furnace to turn iron oxide into iron which is then cast into steel. BF-BOF steelmaking currently accounts for 1.4 billion tonnes of the 1.9 billion tonnes in annual steel production and has an emissions intensity of an average of 2.2 tonnes of CO2e per tonne of steel (source: WSA, 2021; IEA, 2020).
+While the use of scrap will increase for the coming decades that means achieving a zero carbonemissions steel industry by 2050 is predominantly reliant on making net zero primary steel.
+While ArcelorMittal produces lower-carbon steel via scrap and EAF (approximately 11% of our global production is via this route), our efforts are focussed on successfully decarbonising primary steel-making.
+We are increasingly confident this is achievable and are actively developing two technology pathways that have the potential to reach net-zero or more by 2050, with a third (direct electrolysis of iron) in the research and development phase.
+1t steel. 
+Two sources of metallics for use in steelmaking. 
+Volume of end of life scrap constrained by society’s disposal habits. 
+Volume of iron ore can be expanded based on society’s demand for steel. 
+End of life disposal. 
+Mining. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 58
+
+
+Section 6 The bigger picture 6.2 The carbon challenges facing steel. 
+See Appendix A for more information on the primary and secondary steelmaking process.
+As with most materials, the world is going to need to rely mainly on primary sources (iron ore) beyond 2050. 
+Global steel demand outlook, without taking into account additive manufacturing or behavioral circular economy trends 3,000 2,000 1,000 1990 2000 2010 2030 2040 2050 2020. 
+Secondary (end-of-life scrap)
+Primary (iron ore) 1t steel 1t steel. 
+Today, steel from primary source (iron ore) has much higher CO2 emissions than from secondary sources (scrap)
+Scrap. 
+Secondary sources 5-7GJ. 
+Primary sources. 
+Iron ore Ironmaking. 
+Pig iron. 
+CO2. 
+CO2 1-2t 0.6t 18-22GJ. 
+CO2 0-0.8t. 
+As with most materials, the world is going to need to rely mainly on primary sources (iron ore) beyond 2050. 
+Today, steel from primary sources (iron ore) has much higher CO2e emissions than from secondary sources (scrap)
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 59
+
+
+• Oxygen is injected into the basic oxygen furnace, which reacts with carbon and other impurities in the liquid hot metal.
+• Liquid purified metal is used to make steel. • The impurities from the blast furnace and the basic oxygen furnace are converted into slag, some of which can be used to make cement in place of clinker. In Europe, this slag accounts for around 15% of all cement production.
+Steel consists almost completely of iron, with small amounts of carbon and even smaller amounts of other elements such as manganese and nickel. Today, most steel is made using two different technologies: an integrated steel plant comprising a blast furnace and basic oxygen furnace, and the EAF.
+Steel is made using iron ore (primary) or scrap (secondary) as metallic sources, or a mix of the two. Making steel using a blast furnace and basic oxygen furnace relies mainly on primary sources, although it can consume up to 20% secondary sources.
+There is much greater flexibility when producing steel from an electric arc furnace. It can use any amount of scrap or scrap substitutes such as direct reduced iron (DRI).
+Blast furnace and basic oxygen furnace steelmaking. 
+CO2 CO. 
+CO CO2. 
+Scrap. 
+Coke oven Coal. 
+Coke. 
+Pulverised coal. 
+Iron ore Sintering plant. 
+Sinter. 
+Hot metal. 
+Oxygen furnace. 
+Blast furnace. 
+Main inputs Main outputs 1 tonne steel 2.3 tonne CO2* * Source: Energy Transitions Commission. 
+Waste gases. 
+Slag • Coke is made by heating metallurgical coal at high temperatures in a coke oven in the absence of oxygen.
+• Sinter accounts for about 70 to 90% of the metals loaded into the blast furnace and is produced from a mixture of iron ores, coal and coke particles. The remaining metal consists of pellets and lump ore.
+• The blast furnace converts coke and sinter into hot liquid metal for use in the basic oxygen furnace.
+In primary ore production, most of the energy consumed in the steelmaking process comes from removing the oxygen from the iron ore using fossil fuels containing carbon to create iron, emitting CO2 as a by-product.
+On average, producing one tonne of primary steel produces 1-2 tonnes of CO2. However, as shown in section 2, we believe it will be possible for primary steel to be produced on a net-zero or even carbon-negative basis by 2050.
+ArcelorMittal had 47* blast furnaces across the world and produced 80% of our total steel output from these furnaces in 2020.
+Appendix. 
+A. How steel is made today *The 2020 BF footprint presented above includes 7 BFs at ArcelorMittal USA’s operations: Indiana Harbor East (1), Indiana Harbour West (2), Burns Harbor (2), and Cleveland (2); and 4 BFs at Acciaierie d’Italia (ex ArcelorMittal Italia), (to be deconsolidated as from 2Q 2021 onwards). On December 9, 2020, ArcelorMittal completed the sale of ArcelorMittal USA’s operations.
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 60
+
+
+• The quality of secondary steel produced by the. 
+EAF route is primarily limited by the quality of the metallic raw materials used in steelmaking, which in turn is affected by the availability of high-quality scrap. Due to limited availability of scrap, it is most efficient to make lower grades of steel in an EAF, which have fewer constraints on impurities.
+• EAFs can also use DRI (made by separating iron and oxygen using natural gas). Steel made using this route can reach the qualities obtained by an integrated steel plant, since DRI has fewer impurities than scrap steel.
+Electric arc furnace steelmaking CO2 CO2. 
+Scrap Direct reduced iron. 
+Iron ore. 
+Electric arc furnace Electric arc furnace. 
+Main inputs Main inputs Main outputs Main outputs 1 tonne steel 1.5 tonne CO2*
+Slag. 
+Natural gas 1 tonne steel 0.4 tonne CO2*
+Slag. 
+Electricity * Source: Energy Transitions Commission • Most electric arc furnaces (EAFs) use scrap steel to make recycled (secondary) steel.
+• As a result, the process mainly involves melting scrap steel using electricity rather than separating iron from oxygen.
+• Direct CO2 emissions are mainly associated with the consumption of the carbon electrodes and indirect CO2 emissions are produced from the carbon intensity of the electricity grid.
+• Slag is also a by-product of EAF steelmaking.
+Remelting scrap steel at the end of its life to produce new steel requires less energy as most of the metal in the scrap is already in the form of iron. While energy is required to rearrange the chemistry of the new steel, there is no need for significant energy to remove the oxygen. Creating secondary steel via an electric arc furnace, emits less than 0.1 tonnes of CO2 per tonne of steel when clean electricity is used.
+ArcelorMittal had 32* electric arc furnaces around the world and, in 2020, we produced 20% of our steel from these furnaces.
+Appendix. 
+A. How steel is made today *The 2020 EAF footprint in 2020 includes 2 EAFs at Coatesville and Steelton (part of the ArcelorMittal USA sale in 2020).
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 61
+
+
+Circular carbon Circular carbon energy sources include bio-based and plastic wastes from municipal and industrial sources and agricultural and forestry residues. The term may also refer to the reuse of carbon in circular flows throughout the economy, for example, in the production of plastics made from waste carbon.
+Circular steel (also Secondary steel)
+Steel produced from recycled end-of-life steel.
+Coal The primary fuel used by integrated iron and steel producers.
+Coke A form of carbonised coal burned in blast furnaces to reduce sinter, iron ore pellets or other iron-bearing materials to molten iron.
+Coke ovens Ovens where coke is produced. Coal is usually dropped into the ovens through openings in the roof, and heated by gas burning in flues in the walls between ovens within the coke oven battery. After heating for about 18 hours, the end doors are removed and a ram pushes the coke into a quenching car for cooling before delivery to the blast furnace.
+Crude steel Steel in the first solid state after melting, suitable for further processing or for sale. Synonymous with raw steel.
+Direct reduction A family of processes for making iron from ore without exceeding the melting temperature. No blast furnace is needed.
+Electric arc furnace An electric arc furnace is used to melt steel scrap or direct reduced iron.
+Basic oxygen steelmaking The process whereby hot metal and steel scrap are charged into a basic oxygen furnace (BOF). High purity oxygen is then blown into the metal bath, combining with carbon and other elements to reduce the impurities in the molten charge and convert it into steel.
+Blast furnace (BF) A large cylindrical structure into which iron ore is combined with coke and limestone to produce molten iron.
+Carbon leakage Carbon leakage refers to the situation that may occur if businesses transfer production to other countries with laxer emission constraints in response to policies that impose climate-related costs.
+CCU (Carbon Capture and Utilisation)
+Carbon capture and utilisation (CCU) is the process of capturing CO2 to be recycled for further usage. CCU differs from Carbon Capture and Storage (CCS) in that CCU does not aim nor result in permanent geological storage of carbon dioxide. Instead, CCU aims to convert the captured carbon dioxide into more valuable substances or products; such as plastics, concrete or biofuel; while retaining the carbon-neutrality of the production processes.
+CCS (Carbon Capture and Storage)
+Carbon capture and storage (also carbon capture and sequestration and carbon control and sequestration) is the process of capturing waste CO2, transporting it to a storage site, and depositing it where it will not enter the atmosphere. The aim is to prevent the release of large quantities of CO2 into the atmosphere. While CO2 has been injected into geological formations for several decades to increase oil recovery, long-term storage of CO2 is still a relatively new concept.
+Appendix. 
+B. Glossary. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 62
+
+
+ResponsibleSteel™ ResponsibleSteel™ is a global multi-stakeholder certification programme. The certification process aims to align with the Codes of Good Practice from ISEAL. ISEAL is a global membership organisation focused on credible sustainability standards.
+Science-Based Targets Science-based targets are goals developed by a business to provide it with a clear route to reduce greenhouse gas emissions. An emissions reduction target is ‘science-based’ if it is developed in line with the scale of reductions required to keep global warming below 2°C from pre-industrial levels.
+Sintering A process which combines ores too fine for efficient blast furnace use with flux stone. The mixture is heated to form lumps, which allow better draught in the blast furnace.
+Sponge iron (see also Direct Reduced Iron)
+Direct reduction of iron is the removal of oxygen from iron ore or other iron bearing materials in the solid state, i.e. without melting, as in the blast furnace.
+Steelanol The process for ethanol production that makes use of a technology, whereby gases produced during the chemistry of steel production are fermented by microbes that secrete ethanol.
+TCFD (Task Force on Climate-related Financial Disclosures)
+TCFD was established in 2015 by the Financial Stability Board (FSB) as a means of coordinating disclosures among companies impacted by climate change. It is a set of voluntary climate-related financial risk disclosures that can be adopted by companies to inform investors and other members of the public about the risks they face related to climate change.
+Green hydrogen Green hydrogen is made by using clean electricity from renewable energy technologies to electrolyse water, separating the hydrogen atom within it from its molecular twin oxygen. Contrast with blue hydrogen, made from natural gas in the process of steam methane reformation, with the resulting emissions curtailed through carbon capture and storage, and grey hydrogen, produced using fossil fuels such as natural gas. Grey hydrogen accounts for roughly 95% of the hydrogen produced in the world today.
+Green steel Green steel is a certification programme that quantifies the CO2 emissions savings made thanks to the decarbonisation projects rolled out by ArcelorMittal. Starting in 2021, customers will be able to buy green steel based on verified emissions compared with a 2018 baseline.
+Iron ore The primary raw material in the manufacture of steel made up of iron and oxygen.
+Limestone Used by the steel industry to remove impurities from the iron made in blast furnaces. Magnesium-containing limestone, called dolomite, is also sometimes used in the purifying process.
+NDC (also INDC) Nationally Determined Contributions (also Intended Nationally Determined Contributions)
+NDCs are national climate plans highlighting climate actions, including climate related targets, policies and measures that governments aim to implement in response to the 2015 Paris Agreement on climate change. So far, 192 countries have submitted NDCs.
+Pellets An enriched form of iron ore shaped into small balls.
+Pig iron High carbon iron made by the reduction of iron ore in the blast furnace.
+Appendix. 
+B. Glossary. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 63
+
+
+Benchmark indicator CA 100+ assessment, March 2021. 
+ArcelorMittal self-assessment, July 2021. 
+Explanation Reference in this report, section:
+Indicator 1. 
+Net-zero greenhouse gas emissions by 2050. 
+In September 2020, ArcelorMittal made a commitment to achieve carbon-neutral steelmaking by 2050 1,2. 
+Indicator 2. 
+Long-term (2036-2050) greenhouse gas reduction targets. 
+ArcelorMittal’s net-zero target covers 95% of its greenhouse gas emissions from steelmaking 2. 
+Indicator 3. 
+Medium term (2026-2035) greenhouse gas reduction targets. 
+ArcelorMittal has provided 2030 and 2035 targets for its global operations. We believe these are in line with the IEA Net-zero 2050 scenario for steels.
+2. 
+Indicator 4. 
+Short term (2026-2035) greenhouse gas reduction targets. 
+ArcelorMittal has provided a 2030 target for CO2 emissions reduction 2. 
+Indicator 5. 
+Decarbonisation strategy. 
+ArcelorMittal has outlined its a decarbonisation strategy and roadmap to meet its medium and long-term CO2 targets and quantified the reductions from different sources.
+2. 
+Indicator 6. 
+Capital stock alignment. 
+ArcelorMittal outlines the approach of the Investment Allocations Committee in ensuring its capex decisions do not disable the company from achieving its Paris aligned CO2 reduction targets.
+2. 
+Appendix. 
+C. Index of the Climate Action 100+ net-zero company benchmark. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 64
+
+
+Benchmark indicator CA 100+ assessment, March 2021. 
+ArcelorMittal self-assessment, July 2021. 
+Explanation Reference in this report, section:
+Indicator 7. 
+Climate policy engagement. 
+ArcelorMittal supports climate policy that facilitates our sector’s alignment with the Paris agreement and commits to ensuring all company and our engagement with the policymakers is consistent with this position.
+2.5. 
+Indicator 8. 
+Climate governance. 
+ArcelorMittal has clear board oversight for the delivery of its CO2e targets. The 2030 Group’s target will be now linked to executive remuneration.
+3.3. 
+Indicator 9. 
+Just transition n/a n/a ArcelorMittal will undertake further assessments of the social impacts of its decarbonisation transition as mentioned.
+2.6.3. 
+Indicator 10. 
+TCFD disclosure. 
+ArcelorMittal has committed to implement TCFD recommendations and includes a TCFD index in this report. Its analysis is based on the outcomes of policy/technology scenarios to test the opportunities for CO2 reduction, rather than temperature scenarios to test its operational resilience.
+Appendix C. 
+Appendix. 
+C. Index of the Climate Action 100+ net-zero company benchmark. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 65
+
+
+Appendix. 
+C. Alignment with TCFD recommendations. 
+TCFD recommended disclosures Section: Further information (where applicable)
+GOVERNANCE. 
+A) Describe the board’s oversight of climate-related risks and opportunities 3.3 2020 CDP Climate Change response C1.1. 
+B) Describe management’s role in assessing and managing risks and opportunities 3 2020 CDP Climate Change response C1.2. 
+STRATEGY. 
+A) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.
+3 3.1 3.2 2020 CDP Climate Change response C2.1, C2.2a, C2.3a, C2.4a. 
+B) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+3 3.1 3.2. 
+P 33 – 35 Form 20-F Item 3 Section D. Risk Factors* 2020 CDP response C2.3, C3.1d, C3.1e. 
+C) Describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
+3 2020 CDP response C3.1. 
+TCFD recommended disclosures Section: Further information (where applicable)
+RISK MANAGEMENT. 
+A) Describe the organisation’s processes for identifying and assessing climaterelated risks 3 3.2 2020 CDP response C2.2. 
+B) Describe the organisation’s processes for managing climate-related risks.
+3 3.2 2020 CDP response C2.2. 
+C) Describe how processes for identifying, assessing, and managing climaterelated risks are integrated into the organisation’s overall risk management.
+3.2 2020 CDP response C2.2. 
+METRICS & TARGETS. 
+A) Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.
+3 3.1 3.2 2020 CDP response C4.1b. 
+B) Disclose scope 1, scope 2, and, if appropriate, scope 3 greenhouse gas (GHG) emissions, and the related risks 3.2 4.1 2020 CDP response C5.1, C6.1, C6.3, C6.5. 
+C) Describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.
+2 3 2020 CDP response C4.1b * https://corporate-media.arcelormittal.com/media/0gxcmlsb/2020-annual-report-onform-20-f.pdf. 
+ARCELORMITTAL • CLIMATE ACTION REPORT 2 66

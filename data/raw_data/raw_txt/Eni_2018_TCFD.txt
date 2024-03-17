@@ -1,0 +1,668 @@
+P A T H T O D E C A R B O N I Z A T I O N. 
+E N I F O R 2 0 1 8
+
+
+MISSION. 
+We are an energy company. We are working to build a future where everyone can access energy resources efficiently and sustainably. Our work is based on passion and innovation, on our unique strengths and skills, on the quality of our people and in recognising that diversity across all aspects of our operations and organisation is something to be cherished. We believe in the value of long term partnerships with the Countries and communities where we operate.
+
+
+Role of the Board of Directors and Board’s Committees 4. 
+Role of Management 5. 
+Integrated climate risk management model 8. 
+Risks and opportunities related to climate change 9. 
+Eni’s sector scenario 12. 
+Eni strategy 13. 
+Increased efficiency and reduction of GHG emissions 17. 
+Low-carbon Oil & Gas portfolio 23. 
+Development of renewables and green businesses 25. 
+Research and development in the path to decarbonization 31. 
+The index to this document is organised based on the dashboard representing the four topic areas recommended by the Task Force on Climate-related Financial Disclosures - TCFD.
+Message to our stakeholders 2. 
+Main results 3. 
+Climate partnerships 34. 
+Climate disclosure 35. 
+Metrics & Targets 36. 
+The 2030 Agenda for Sustainable Development of the United Nations, presented in September 2015, identifies the 17 Sustainable Development Goals (SDGs) that represent common goals of sustainable development on the complex current social challenges. These objectives constitute an important reference point for the international community and for Eni in conducting its activities in the Countries in which it operates.
+CLIMATE. 
+GOVERNANCE. 
+RISK. 
+MANAGEMENT. 
+CLIMATE. 
+STRATEGY. 
+METRICS & TARGETS. 
+CONTENTS
+
+
+2 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+MESSAGE TO OUR STAKEHOLDERS. 
+With the Paris Agreement of November 2015, around 200 Countries committed themselves to reducing the temperature rise from pre-industrial levels well below 2 °C and to pursue further efforts to limit this increase to 1.5 °C. The need to reduce emissions in line with the objectives of the Paris Agreement coupled with the need to satisfy a growing energy demand is a double challenge that Eni is committed to address, considering it a strategic priority and a responsibility action towards its own stakeholders and the environment. Decarbonization has been structurally integrated into our strategies for some time now, as confirmed by the results achieved in the last five years, during which, with particular reference to the upstream sector, we have reduced our emission intensity by 20% and methane emissions by 66%, leveraging a resilient hydrocarbon portfolio characterised by conventional projects and a high incidence of natural gas, as a bridge solution to a low carbon future. The work we have done so far and the continuing drive of our technologies have led us this year to set an even more challenging goal: to achieve the net carbon neutrality of our upstream sector by 2030. Along this path we will continue to increase efficiency to minimise direct emissions from our activities and offset residual emissions by participating in forestry projects, which, in addition to benefits for the climate and environment, will also have a positive impact on local communities, in terms of economic and social development. Our decarbonization strategy will also leverage other instruments: growth in low-carbon sources in our portfolio, in particular gas and biofuels; electricity from solar, wind and hybrid systems; the implementation of technologies for CO2 storage and capture; and the development of circular economy initiatives, already started in the downstream sector. In recent decades, the industrial system has operated based on a linear model of production and consumption, in which goods are produced, sold, used and discarded as waste at the end of their life. This model has limits in terms of the capacity to manage and store waste and to absorb the GHG emissions generated. It is essential that our response is oriented towards a new paradigm of development that makes us move from linear to circular growth to reduce waste, transform waste and give new life to what already exists. By committing ourselves to following this path, we have already converted our refineries in Venice and Gela into bio-refineries thanks to our proprietary technologies; we have developed reclaimed land, also through the installation of plants for the production of electricity from renewables; we have started the first pilot plant for the conversion of the organic fraction of solid urban waste into bio-oil, bio-methane and water; and we have developed chemical platforms based on renewable sources. In continuing our commitment, in the period 2019-2022 we plan to invest around €3 billion in decarbonization, circular economy and renewable development projects. Our research plays a key role in guiding us through the energy transition. Today we can count on a total R&D portfolio of about 7,300 patents and more than 350 projects, which our researchers are continuing to expand with new technologies that will project us towards a low carbon future. Over the next four years we expect to spend €900 million in research, of which more than 50% in technologies for decarbonization and the circular economy. Scientific progress and innovation are also supported with 50 different partnerships with universities and research centres, building a global network for sharing knowledge and exploiting synergies. Finally, as part of the Oil and Gas Climate Initiative (OGCI) partnership, through the OGCI Climate Investments (OGCI CI) investment vehicle we help to promote new technologies that are compatible with the growing energy demand and the mitigation of emissions. In our business model geared to long-term value creation and in our sound governance system, climate and sustainability issues play a central role, and are continuously driven by constant dialogue with the support of specific committees and international experts who make up the Advisory Board. In line with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) of the Financial Stability Board, of which Eni has been a member since its inception, we are pursuing our commitment to transparency towards our stakeholders. The major challenges of the energy sector demand a strong collective commitment. At Eni, we want to seize the opportunities of change driven by innovation and geared towards a new model of development that allows us to create value for stakeholders and shareholders through a systemic approach capable of organically integrating sustainability and generating business from it. Our goal is to aim for efficiency, resilience and growth of our company towards a low-carbon future.
+Claudio Descalzi Chief Executive Officer
+
+
+3 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+MAIN RESULTS. 
+Indicator 2016 2017 2018. 
+GHG emissions/Hydrocarbon gross production (upstream) tCO2eq/kboe 23.56 22.75 21.44. 
+UPS fugitive methane emissions ktonnes CH4 72.6 38.8 38.8. 
+Total volume of hydrocarbons sent to process flaring (upstream) billion Sm3 1.5 1.6 1.4. 
+Carbon efficiency index(a) - Total Eni tCO2eq/kboe 38.26 36.01 33.90. 
+Equity hydrocarbon production (kboe/day) 1,759 1,816 1,851. 
+Incidence of natural gas on total equity hydrocarbon production % 50 53 52. 
+Biorefinery capacity Kton/year 360. 
+Green refinery investments € million 49 110 124. 
+R&D expenditure € million 161 185 197.2 of which related to decarbonization € million 63 72 74 (a) It expresses the GHG emissions intensity (operated assets’ scope 1 and scope 2 on an operatorship basis in tonCO2eq) of Eni’s core businesses productions vs operated production (converted into barrels of oil equivalent using the Eni average conversion factors) of each business, thus measuring their degree of carbon efficiency in a decarbonization scenario.
+Indicators calculated on 100% of data for operated assets. 
+HYDROCARBONS SENT TO PROCESS FLARING (UPS)
+MLN OF BOE/DAY NEW PRODUCTION RECORD. 
+CARBON EFFICIENCY INDEX. 
+UPSTREAM GHG EMISSION INTENSITY -6% VS 2017 -9% VS 2017 1.85 -5.9% VS 2017. 
+TOTAL R&D SPENDING IN CARBON NEUTRALITY AND CIRCULAR ECONOMY IN THE NEXT 4 YEARS € 480 MILLION. 
+Renewables Green chemistry. 
+Gas development Energy efficiency. 
+Emission reduction. 
+Bio-refineries. 
+R&D spending in decarbonization - 2018 (€ million) 33% 17% 17% 13% 11% 9% 74.3 € million. 
+Upstream GHG Emission Intensity Index (tCO2eq/kboe) 2014 2015 2016 2017 2018 30 25 20 15 10 5 0 26.83 25.32 23.56 22.75 21.44
+
+
+4 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+ROLE OF THE BOARD OF DIRECTORS AND BOARD’S COMMITTEES The Board of Directors1 (BoD) plays a central role in managing the main aspects linked to climate change. In particular, on the proposal of the Chief Executive Officer (CEO), the Board of Directors examines and/or approves: ˛ Objectives related to climate change and energy transition, as an integral part of business strategies; ˛ The “GHG Action Plan” with investments to meet emission reduction targets by 2025; ˛ The portfolio of Eni’s top risk, including climate change; ˛ The Short Term Incentive Plan with targets related to the reduction of GHG emissions for CEO and managers with strategic responsibilities2; ˛ Annual sustainability results, including the sustainability report (Eni for) and the HSE review, including climate change performances; ˛ Institutional reporting, including the Interim Consolidated Report and the Annual Financial Report (including the Consolidated Disclosure of Non-Financial information); ˛ The relevant projects and their progress, on a half-year basis, with sensitivity to Eni and IEA SDS carbon pricing3; ˛ Resilience test on all upstream Cash Generating Units (CGUs) applying the IEA SDS scenario; ˛ Strategic agreements, including climate change-related initiatives.
+Since the second half of 2017, for an even broader view of the factors affecting value creation in the long term, the BoD has set up an Advisory Board to support it and Eni’s CEO. Composed of international experts5, it further strengthens the monitoring of long-term trends in energy markets, geopolitics, innovation, energy transition and the decarbonization process. The Board has assigned a central role in the internal control system to the Chairman, in particular with regard to presiding over the Internal Audit function. The chosen model establishes a clear separation between the functions of Chairman and Chief Executive Officer. In 2018, Eni also contributed to the “Climate Governance”6 initiative of the World Economic Forum (WEF), with the involvement of the Eni BoD through its Chairman. During 2018, following up on the training initiatives for the Board of Directors on these issues in recent years, ongoing training sessions were held through visits to laboratories of upstream and renewables operational areas and to the Zohr plant in Egypt on the occasion of the Board meeting held abroad. In addition, the meetings of the Sustainability and Scenarios Committee include regular in-depth training sessions by external experts on climate change.
+CLIMATE GOVERNANCE. 
+SUSTAINABILITY AND SCENARIOS COMMITTEE (SSC) (SET UP IN 2014)
+It addresses the integration among strategy, evolution scenarios and business sustainability over the medium to long term and examines the scenario for preparing the Strategic Plan. During 2018, the SSC discussed in detail climate change issues at all meetings, including the decarbonization strategy, energy scenarios, renewable energies, research and development to support the energy transition, climate partnerships and water resources and biodiversity issues4.
+CONTROL AND RISK COMMITTEE (CRC)
+It supports the BoD in the quarterly review of the main risks, including climate change.
+REMUNERATION COMMITTEE It proposes to the BoD the general criteria for the annual incentive of the CEO and managers with strategic responsibilities, which include specific objectives associated with the reduction of GHG emissions.
+1) Board of Directors: https://www.eni.com/en_IT/company/governance/board-of-directors.page To learn more about Eni’s organisational structure, please refer to the section “Company” of the corporate website (www.eni.com) and to the Corporate Governance Report. 2) Managers with strategic responsibilities: Managers reporting directly to Eni’s Chief Executive Officer and Chairman of the Board. 3) Sustainable Development Scenario (SDS) from the World Energy Outlook 2017 of the International Energy Agency (IEA). 4) For more information, please refer to the section “Sustainability and Scenarios Committee” in the 2018 Corporate Governance Report. 5) Chair: Fabrizio Pagani. Members: Christiana Figueres; Ian Bremmer; Phillip Lambert and Davide Tabarelli. 6) The initiative aims to raise the Boards’ level of awareness of climate-related issues, also following the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD).
+ON THE SUBJECT OF CLIMATE CHANGE, THE BOARD OF DIRECTORS IS SUPPORTED MAINLY BY THREE COMMITTEES OF DIRECTORS: SUSTAINABILITY AND SCENARIOS COMMITTEE, CONTROL AND RISK COMMITTEE AND REMUNERATION COMMITTEE. 
+ADVISORY BOARD ESTABLISHED IN 2017. 
+FOR MORE DETAILS ON ENI’S GOVERNANCE SEE PP. 10-11 OF “ENI FOR 2018 - SUSTAINABILITY REPORT”
+
+
+5 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+ROLE OF MANAGEMENT Issues relating to climate change risks and opportunities are considered and integrated in all stages of the business cycle, from negotiation to decommissioning. All the Company functions, within their area of responsibility, contribute to the path to decarbonization. The CEO is responsible for identifying the main business risks, including risks related to climate change, directing strategies and verifying their progress and each year assigns the guidelines for setting out the strategies provided for in the Strategic Plan on the path to decarbonization to the Business Lines and support functions.
+The CEO’s Short-Term Incentive Plan (STI) includes objectives associated with climate strategy that are consistent with the guidelines set out in the Strategic Plan. Under the Short-Term Incentive Plan, a portion of the accrued bonus is deferred over a three-year period, subject to further performance conditions, in order to assess sustainability in the medium term. In particular, the environmental sustainability and human capital targets account for 25% of the STI and half of it refers to reducing the GHG emissions intensity index of operated hydrocarbon production, in line with the 2025 target announced to the market. Additional monetary targets are assigned to top management and the entire Eni management population with responsibilities related to achieving the targets of the decarbonization strategy. In order to chart out and monitor the path to decarbonization, Eni has adopted: ˛ new structures such as the Energy Solutions business division (from 2015, for the development of renewables with medium-large scale projects); ˛ dedicated functions such as the central organizational function for climate change (which coordinates the definition of Eni’s climate strategy and the development of the portfolio of related initiatives in line with international climate agreements) and the new unit dedicated to long-term positioning with particular reference to Circular Economy and Carbon Neutrality initiatives.
+In addition, the following inter-functional working groups are active: ˛ Climate Change Programme (from 2015) set up at top management level, with a cross-cutting team that reports to a Steering Committee chaired by the CEO, to identify new technological, management and strategic solutions to support the path to decarbonization; ˛ Energy Transition Programme for the identification of technologies to support the energy transition; ˛ Carbon Neutrality Programme aimed at monitoring targets and actions to reduce emissions and at identifying new reduction initiatives in the long term; ˛ Forestry Programme for the identification, development and monitoring of projects aiming at conservation, restoration and sustainable management of forests; ˛ Circular Economy Programme with the aim of accelerating the process of identifying and implementing technological solutions, products and processes that minimise the consumption of resources and energy in all businesses and aim at the reuse and exploitation of waste materials; ˛ Bio Fuels & Sustainable Mobility Programme to identify and develop a roadmap in the field of sustainable mobility and assess the opportunities for its development with reference to new technological solutions.
+7) Severity Incident rate: Eni internal index to calculate total recordable injuries with respect to the number of worked hours, taking into account the severity level of the accident based on the days of absence from work.
+Economic and financial results (25%)
+Environmental sustainability and human capital (25%)
+Operating results and sustainability of economic results (25%)
+Efficiency and financial stability (25%)
+EBT (12.5%) Free cash flow (12.5%)
+CO2 emissions (12.5%) Severity Incident Rate7 (12.5%)
+Hydrocarbon production (12.5%) Exploration resources (12.5%)
+ROACE (12.5%) Debt/EBITDA (12.5%) 2019 targets for the short-term incentive plan with deferral. 
+SEE PAGE 10 OF “ENI FOR 2018” FOR MORE DETAILS ON THE PLANNING PATH. 
+ALL BUSINESS FUNCTIONS CONTRIBUTE TO THE PATH TO DECARBONIZATION ACCORDING TO THEIR AREA OF RESPONSIBILITY
+
+
+6 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+The management is constantly informed about the progress of the path to decarbonization through various moments of sharing, for example: ˛ Leadership meeting in which the CEO illustrates the strategies and objectives of the Strategic Plan; ˛ Business review: a quarterly meeting between the Chairperson, the CEO and the managers reporting directly to the latter to monitor progress in the objectives and strategic lines; ˛ HSE review; ˛ Annual and interim results; ˛ Quarterly report on top risks; ˛ CEO blog in which the CEO comments on the main events on the Company intranet.
+ENI EMPLOYEE ENGAGEMENT. 
+In 2018, engagement and training activities continued for Eni employees on issues related to climate change in order to increase internal awareness of the importance of these issues. In addition to the technical training courses for the functions directly involved, online training courses on climate change and energy transition have been created and are available to all employees. In addition, specific modules dedicated to these issues have also been included in training initiatives for young graduates (Eni Academy) and those responsible for support functions “Eni si racconta” (Eni Tells Its Own Story) in which colleagues tell their activities and processes to other colleagues. An important moment of engagement within the Company was the event “Ognuno di noi” (Each of Us), on July 12th in Rome, during which CEO Claudio Descalzi spoke to the entire Company connected via live streaming and to the 1,700 managers present, about the future of the planet, Eni and all those who are part of it with a focus on the twofold challenge of meeting the growing demand for energy worldwide while minimising the environmental impact by reducing emissions. Besides this specific event, the CEO has constantly brought to the attention of employees the Company’s results in terms of reducing the carbon footprint of its activities and the actions needed to implement the decarbonization strategy charted out. To encourage the sharing of best practices, the industrial companies that have distinguished themselves as best performers have been awarded with the Eni Environment Award. These accolades are given to ideas, initiatives and special and innovative projects that have made it possible to combine the operational efficiency of industrial processes with environmental protection and emission reduction. In addition, during 2018, Oilà, a project to recover used cooking oils produced by Eni’s people and their families, was launched with the aim of transforming waste that is potentially harmful to the environment, such as waste oil, into a new energy resource. The project started at the beginning of June at the Venice Biorefinery and was extended during the year to other Eni sites in Italy.
+FOCUS ON. 
+DURING THE EVENT “EACH OF US”, THE CEO CLAUDIO DESCALZI SPOKE TO THE ENTIRE COMPANY ABOUT THE FUTURE OF THE PLANET, OF THE COMPANY AND ITS PEOPLE.
+
+
+7 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+PRATIMA RANGARAJAN CEO OGCI CI. 
+INTERVIEW WITH PRATIMA RANGARAJAN, CEO OF OIL GAS CLIMATE INITIATIVE - CLIMATE INVESTMENT. 
+What is OGCI CI and what is its mission? How can it be part of the solution to the climate problem?
+OGCI Climate Investments (OGCI CI) is an over $1 billion fund dedicated to investing in cutting-edge technologies and solutions that reduce the carbon footprint of the energy and industrial sectors. CI has three areas of intervention: the reduction of methane emissions in the O&G value chain; the reduction of CO2 emissions in the energy and industrial sectors; and CO2 recycle which is Carbon Capture Utilization and Storage (CCUS). Within 2040, the world will have to produce almost 30% more energy and reduce its emissions by half. This represents a big-step change and it is therefore crucial for companies to work together to achieve their sustainability goals.
+What is the value added of a joint investment partnership within the O&G industry?
+The OGCI investment fund is a crucial tool for climate action: the partners not only provide CI with the funds to invest in start-up for innovative solutions, but, more importantly, they provide us with the expertise and a global footprint. When innovative solutions are ready to be piloted, companies like Eni are ready to take them into their systems. Once the pilot phase is complete, the impact of these innovations is assessed when companies implement them in their activities on a global scale.
+Which technologies is CI investing in and what are the prospects?
+CI invests in technologies and solutions that lower the carbon footprint of the energy and industrial sectors, and our goal is to find innovative ways for these sectors to continue to provide goods and services with much lower emissions. One of the tools we use is venture day: a platform where innovators can come and pitch to climate investment and where investors and customers can find new ideas for reducing emissions. Last year, we organised a methane venture day where we selected 3 of the 10 participating start-ups to invest in. Recently, we also held an efficiency venture day to reduce CO2 emissions by meeting 11 fantastic companies we are considering looking to forward in. In September we will have a venture day on the CCUS in which all OGCI companies will come to seek new investments both in terms of technologies and projects. At OGCI CI we are only at the beginning of our journey, but we think we have amplified the message and increased the solutions in our areas of action. We hope to encourage and inspire investors and innovators to invest in these technologies and solutions.
+FOR MORE DETAILS ON OGCI SEE P. 34. 
+INTERVIEW. 
+SEE THE WEBSITE ENI.COM FOR THE COMPLETE VIDEO INTERVIEW
+
+
+8 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+INTEGRATED CLIMATE RISK MANAGEMENT MODEL The process for managing the risks and opportunities related to climate change is a part of the Integrated Risk Management (IRM) Model developed by Eni to ensure that management takes risk-informed decisions, by taking into full account current and potential future risks, including medium and long-term ones, in the frame of an integrated and comprehensive approach. The IRM Model also aims to raise awareness, at all levels, that appropriate risk assessment and management can produce on the achievement of Company objectives and values.
+RELEVANT ROLES AND RESPONSIBILITIES IN THE IRM PROCESS ARE AS FOLLOWS: ˛ The BoD defines the nature and the level of risk compatible with the strategic objectives also with the purpose of business sustainability from medium to long term, and it outlines the guidelines for identifying, assessing, managing and monitoring risks; ˛ The Control and Risk Committee supports the BoD in defining the guidelines for the management of risks. The Board of Statutory Auditors monitors the effectiveness of the IRM process; ˛ The Chief Executive Officer executes the BoD’s guidelines, using the IRM process to identify, assess, manage and monitor the main risks; ˛ The Risk Committee, composed of Eni top management, supports the CEO in identifying, assessing, managing and monitoring risks.
+RISK MANAGEMENT. 
+RISK ASSESSMENT IN ENI MODEL ˛ It is carried out by adopting metrics that take into account both the potential quantitative impacts (on net profit or cash flows as well as on production) and qualitative impacts (e.g., environmental, health and safety, social, reputation). ˛ It provides for risk prioritization with the use of multi-dimension- al matrices so that the level of each risk is obtained by combining clusters of probability of occurrence and clusters of impact. ˛ It includes assessments at inherent level and at residual level, respectively before and after the mitigation actions are implemented.
+FOCUS ON. 
+THE INTEGRATED RISK MANAGEMENT MODEL ENSURES THAT THE MANAGEMENT TAKES CONSCIOUS DECISIONS CONSIDERING CURRENT AND PERSPECTIVE RISK. 
+Integrated Risk Management model. 
+COMPLIANCE COMMITTEE RISK COMMITTEE. 
+Integrated Risk Management Integrated Compliance 1st line “Line” managers - risk owners 2nd line Risk & Control functions* 3rd line Internal Audit (*) Including Integrated Risk Management function.
+BOARD. 
+CONTROL AND RISK COMMITTEE/BOARD OF AUDITORS. 
+CHAIRMAN. 
+CEO
+
+
+9 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+DURING 2018: ˛ two assessment cycles were carried out: the Annual Risk Profile Assessment in the first half of the year and the Interim Top Risk Assessment in the second half; ˛ approximately 160 risks were identified, of which 18 top risks, grouped into strategic, external and operational risks8; climate change is one of Eni’s top strategic risks and it is analysed, assessed and monitored by the CEO as part of the IRM process; ˛ three monitoring cycles were performed on the top risks in order to analyse the risks trends and the implementation status of treatment actions put in place by management; ˛ de-risking objectives were identified with reference to climate change and then formalized in the 2019-2022 Guidelines issued by the CEO at the beginning of the Strategic Planning process. The results of the assessment and monitoring cycles are presented to the Administrative and Supervisory Bodies on a quarterly basis.
+RISKS AND OPPORTUNITIES RELATED TO CLIMATE CHANGE Climate change is analysed, evaluated and managed by considering 5 key drivers relating to energy transition aspects (market scenario, regulatory and technological evolution, reputational issues) and physical aspects (extreme/chronic weather phenomena). The analysis is carried out using an integrated and cross-cutting approach, which involves specialist departments and business lines and enables an assessment of the risks and opportunities related to climate change. Climate change risk is analysed, assessed and managed considering 5 risk drivers: ˛ SCENARIO ˛ POLICY AND LEGAL ˛ TECHNOLOGICAL ˛ REPUTATIONAL ˛ PHYSICAL. 
+The results of the activities carried out in 2018 are shown below. The mitigation actions are described in detail in the section on the decarbonization strategy and in the other sections of this document.
+RISKS ASSESSED AS TOP RISKS ARE THOSE THAT IMPACT ON ONE OR MORE STRATEGIC OBJECTIVES AND CAN LEAD TO A BROAD REVIEW OF BUSINESS STRATEGIES. 
+THE RISK ASSESSMENT AND MONITORING RESULTS ARE PRESENTED QUARTERLY TO THE ADMINISTRATION AND CONTROL BODIES. 
+The IRM model is applied using a top-down and risk-based approach through a cycle of annual activities: 8) See Eni for (p. 12).
+INTERIM RISK ASSESSMENT (SECOND HALF)
+ANNUAL RISK ASSESSMENT (FIRST HALF)
+CONTRIBUTION TO DEVELOPING THE PLAN. 
+SUPPORT FOR PLAN IMPLEMENTATION ˛ Analysis of the main underlying risks ˛ Defnition of specifc de-risking objectives ˛ Identifcation of treatment strategies ˛ Treatment actions review and update ˛ Continuous monitoring of the risks trend ˛ Analysis of the specifc risk profle of the most relevant operations
+
+
+10 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+To analyse risks and opportunities, Eni refers to the IEA’s Sustainable Development Scenario (SDS), considered the most challenging for the path to decarbonization, since it is a “predefined objective” scenario which aims to contain emissions well below 2 °C in line with the objectives of the Paris Agreement, achieving universal access to energy and reducing local pollution. In this scenario: ˛ global energy demand at 2040 is expected to decrease by ~260 Mtoe compared to 2017; ˛ low-carbon sources will double their share and account for 40% of global energy demand, with an increasing share of nuclear power (from 5% in 2017 to 9% in 2040) and intermittent renewables (from 2% in 2017 to 16% in 2040); ˛ fossil fuels will continue to play a central role in the global energy scenario and, more specifically, oil and gas will still account for 48% of global energy demand at 2040; coal is the most penalised source and its weight in the mix will be cut by half (12% in 2040 vs 27% in 2017); ˛ gas will become the first “single” source in the energy mix and is the only fossil source growing both in absolute terms (from ~3600 bcm in 2017 to ~4000 bcm in 2040) and in percentage in the energy mix (from 22% in 2017 to 25% in 2040); ˛ oil demand will peak globally around 2020 at 97 Mb/d, and in almost all Countries before 2030 (except India and Sub-Saharan Africa). The only growing sector is the petrochemical industry. Half of the car fleet in 2040 will be electric and internal combustion cars will be 40% more efficient than today. Almost 20% of the fuels used by trucks will have low or zero carbon content. A quarter of the bus fleet will be electric; ˛ Sub-Saharan Countries will reach full access to energy by 2030, replacing dirty biomass with electricity from low-carbon sources.
+The low-carbon transformation process in the energy sector depends on the development of innovative technological solutions as well as on upgrading infrastructure. Despite the decreasing costs of renewables, the contribution to the energy mix of wind and solar (sources with the highest growth rate) accounts for 7% at 2040 in the NPS scenario (16% in the SDS scenario) due to the limitations related to their large-scale deployment and use in some sectors. Therefore, further technological advances and significant infrastructure investments are needed to support these trends and make low-carbon technologies truly competitive. Technologies to capture and reduce GHG emissions as well as leaks of natural gas along the Oil & Gas value chain will be fundamental for affirming the dominant role of gas in the global energy mix. In the transport sector, given that the IEA scenarios predict an increase in electrification (to a greater extent in the SDS scenario) mainly linked to increasingly stringent policies, the expected higher efficiency of traditional cars is the main variable behind the slowdown in the consumption of cars with savings in traditional fuels by 2040 of more than 9 Mb/d in the NPS scenario (18 Mb/d in the SDS scenario). In the medium term, it will be necessary to build a model of final energy consumption that is more efficient, minimises waste and encourages the use of cleaner sources even with the application of the most advanced technologies. However, it will also be necessary to intervene beyond the energy sector, which covers 60% of emissions, including those sectors in which the demand for energy is based on a new model that focuses on the circular economy and uses less raw materials.
+Awareness campaigns by NGOs and other environmental organisations, media campaigns, shareholder resolutions at Shareholders’ Meetings, divestments by some investors, and class actions by stakeholder groups are increasingly oriented towards greater transparency on the tangible commitment of Oil & Gas companies to the energy transition. Eni has long been committed to promoting a constant, open and transparent dialogue on climate change issues, which are an integral part of its strategy and are therefore communicated to all stakeholders. This commitment is part of a broader relationship that Eni has been building and is committed to strengthen with its stakeholders on sustainability issues through initiatives such as the Chairman’s roadshows on governance issues, dialogue with investors and targeted communication campaigns, participation in initiatives and international partnerships.
+According to the Intergovernmental Panel on Climate Change (IPCC), the effects of climate change linked to the rise in the average global temperature (e.g., rising sea levels, hurricanes, cyclones, floods, droughts) may result in an increase in the intensity and frequency of occurrence in coming decades.
+Intense extreme weather phenomena could cause damage to plants and infrastructure, resulting in an interruption of industrial activities and increased recovery and maintenance costs. In order to assess the potential impacts of climate change, Eni has developed a simulation model of potential scenarios for intensifying weather phenomena applied to production assets and assets under development (e.g., in the Gulf of. 
+Eni is present in 67 Countries around the world with upstream and mid-downstream activities. Current or future regulations related to climate change in these Countries could have an impact on the business. About 50% of Eni’s direct emissions is already subject to carbon pricing schemes, mainly the European Emission Trading Scheme which covers all the major plants in the mid-downstream businesses. The remaining share is composed of upstream emissions from Countries that currently have not yet implemented carbon pricing initiatives. However, in these Countries there are other policies and regulations related to climate change that could impact on activities (e.g., emission reduction also from reforestation, development of renewable sources, energy efficiency, diversification of electricity production, biofuels, etc.). With particular reference to Europe, in 2018: ˛ the entry into force of the amended EU-ETS Directive covering the period 2021-2030 (Stage IV of the system), which provides for the consolidation of the Market Stability Reserve9 mechanism with a related increase in the prices of CO2 allowances; ˛ the entry into force of the “Circular Economy Package,” which amends the previous directives on waste management by setting ambitious recycling and landfill reduction targets; ˛ the approval of the Renewable Energy Directive (REDII, in force since 2021), which sets new targets for renewable energy in transport, and the phasing-out to zero by 2030 of first-generation biofuels considered at high ILUC (Indirect Land Use Change) risk. At the global level, in 2018 an agreement was reached within the IMO (International Maritime Organization) on the adoption of an initial strategy to reduce greenhouse gas emissions from the shipping sector. The target is to cut annual GHG emissions by at least 50% by 2050 vs 2008. The growing global focus on climate change is also highlighted by the increase, both in Europe and in the United States, in climate change proceedings involving the O&G sector with claims that are not limited to damages but aim to change the organizational and business model of companies.
+TRANSITION RISK DRIVERS. 
+LOW CARBON SCENARIO: SUSTAINABLE DEVELOPMENT SCENARIO POLICY AND LEGAL TECHNOLOGICAL DEVELOPMENTS REPUTATION 9) EU mechanism to reduce carbon market surplus and improve ETS resilience to future shocks.
+PHYSICAL RISKS FOCUS
+
+
+11 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+Mexico). With regard to the intensification of extreme phenomena in the medium term, such as hurricanes or typhoons, Eni’s current portfolio of assets, designed in accordance with current regulations to withstand extreme environmental conditions, has a geographical distribution that does not result in concentrations of risk. The vulnerability of Eni assets to more gradual phenomena in the long term, such as rising sea levels or coastal erosion, is limited and it is therefore possible to envision and implement preventive mitigation measures to counter them. For more information on physical risks, see Eni For “Efficient Water Use” on page 35 and “Biodiversity” on page 38.
+10) Liquefied Natural Gas.
+RISKS OPPORTUNITIES RESPONSE ACTIONS ˛ Decline in global hydrocarbon demand ˛ Loss of results and cash flow ˛ “Stranded asset” risk ˛ Impacts on shareholders’ returns ˛ Increase in operating and investment costs ˛ Declining demand for oil products ˛ Climate change proceedings ˛ Reduction in hydrocarbon demand through technological breakthroughs ˛ Impacts on stakeholders relations ˛ Impacts on stock price ˛ Need for upstream investments to offset the decline in production of existing fields ˛ Growth in gas demand and opening up of new market opportunities (such as LNG10) ˛ Development of renewables and green business ˛ Development of renewable energy and green business ˛ Diversification of raw materials for biorefineries and the chemical industry and development of new products ˛ Recovery of assets in a circular long term perspective ˛ Replacing coal with gas ˛ Development of renewable energy and green business ˛ Development of technologies for the recovery and reuse of waste ˛ Partnerships for the development of technological solutions to cut emissions ˛ Continued leadership in disclosure ˛ Partnerships. 
+LOW CARBON OIL & GAS PORTFOLIO, pages 23-24. 
+DEVELOPMENT OF RENEWABLES AND GREEN BUSINESSES, pages 25-30. 
+LOW CARBON OIL & GAS PORTFOLIO, pages 23-24. 
+DEVELOPMENT OF RENEWABLES AND GREEN BUSINESSES, pages 25-30. 
+RESEARCH AND DEVELOPMENT IN THE PATH TO DECARBONIZATION, pages 31-33. 
+DEVELOPMENT OF RENEWABLES AND GREEN BUSINESSES, pages 25-30. 
+RESEARCH AND DEVELOPMENT IN THE PATH TO DECARBONIZATION, pages 31-33. 
+CLIMATE DISCLOSURE, page 35. 
+CLIMATE PARTNERSHIPS, page 34
+
+
+12 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+ENI’S SECTOR SCENARIO The energy industry is called upon to rise to a twofold challenge: to meet the growing energy needs of a growing population by ensuring adequate access to energy and to limit its emissions into the atmosphere, in order to contribute to decarbonization. Eni scenarios foresee an increased energy demand at global level driven by economy and population growth. By 2040, oil and gas will continue to meet over 50% of energy needs; gas and renewables are the sources with the highest growth rate in coming decades. According to the Eni scenario, world oil demand will continue to grow above one million barrels/day per year in the medium term, while it will later slow down until plateauing at around 110 million barrels per day by 2035. The improvement in efficiency of internal combustion engines and, to a lesser extent, their substitution with alternatives including electric vehicles, will lead to a drop in consumption for transport by 2040. The growth in demand by 2040 will continue to be driven by petrochemicals, heavy transport, aviation and shipping where alternatives to oil products are limited. In this context, new discoveries and new upstream developments will be necessary in the medium and long term to meet growing needs and counteract the decline in existing production (4-6% a year). Gas, supported by high efficiencies and low emission coefficients of power plants, is the only fossil fuel that is growing in absolute terms in all scenarios envisaged by the IEA11, stabilizing after 2030 only in the SDS scenario. Growth in gas consumption will be driven by industry and power, where gas replaces fuels with greater environmental impact, and by non OECD Countries, for many of which, gas represents an immediate response to increasing energy needs.
+CLIMATE STRATEGY. 
+ENERGY SECTOR’S CHALLENGE: MEETING THE GROWING ENERGY DEMAND OF A GROWING POPULATION, ENSURING ADEQUATE ACCESS TO ENERGY AND LIMITING EMISSIONS TO THE ATMOSPHERE 11) For more details on the IEA scenarios mentioned, see: https://www.iea.org/weo2018/scenarios/.
+O&G Coal Other (Nuclear and other renewables) Wind and solar. 
+Evolution of energy demand and electricity generation to 2040 (%)
+Energy Mix Power Mix 53% 54% 27% 23% 18% 17% 29% 29% 7% 2% 6% 22% 22% 26% 27% 38%
+Source: Based on IEA data (2018) World Energy Outlook. All rights reserved; as amended by Eni.
+2017 2040 NPS 2017 2040 NPS
+
+
+13 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+ENI STRATEGY Eni recognizes that the main challenge in the energy sector is providing efficient and sustainable access of local communities to energy resources while combating climate change. To meet this challenge, Eni’s business model is aimed at creating long-term value for all stakeholders and shareholders.
+Eni integrated in its business model a decarbonization strategy which is developed in short, medium and long term actions, with a constant commitment in the implementation of its technological and scientific research activities (R&D) in order both to achieve the maximum efficiency in the decarbonization process and to find innovative solutions that ease energy transition. In the short term Eni’s strategy is based on the followings levers: 1. Energy efficiency and direct GHG emissions reduction of operated activities with the aim of reducing upstream emission intensity by 43% compared to 2014 by 2025. This objective will contribute to the target of improving the carbon efficiency index by 2% a year by 2021 compared to 2014, that will be pursued by all Eni business units; 2. Low carbon and resilient Oil & Gas portfolio: Eni’s hydrocarbon portfolio has a high incidence of natural gas (>50%), a bridge solution to a low-emission future. The main upstream projects underway have an average portfolio break-even at a Brent price of around $25/barrel and are therefore resilient even in low-carbon scenarios; 3. Development of renewable sources and green business with a circular approach: the promotion of renewables aims to reach an installed electrical power of over 1.6 GW by 2022. With regard to green business, the start-up of the Gela biorefinery by 2019 and the completion of the second phase at Venice biorefinery by 2021 are expected.
+VALUE CREATION. 
+FOR STAKEHOLDERS AND SHAREHOLDERS. 
+A SYSTEMIC APPROACH TOWARDS EFFICIENCY, RESILIENCE AND GROWTH. 
+OPERATIONAL EXCELLENCE CARBON NEUTRALITY IN THE LONG TERM PROMOTION OF LOCAL DEVELOPMENT. 
+Low cash neutrality. 
+Low time to market. 
+High value reserves Dual flag approach. 
+Production for domestic market Access to electricity Economic diversification Access to water and hygiene Health and education. 
+Public-private partnerships. 
+Job creation. 
+Know-how and expertise transfer. 
+Carbon offset. 
+Energy mix. 
+Circular economy. 
+
+T
+EC. 
+HN. 
+OL. 
+OG. 
+IC. 
+AL. 
+INN. 
+OV. 
+AT. 
+IO. 
+N &
+DIGITA. 
+LIZATION
+
+
+14 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+In the medium term Eni aims to achieve the net zero carbon footprint on direct emissions of upstream activities valued on an equity basis by 2030, increasing the efficiency of its upstream activities, reducing GHG emissions and developing forestry conservation projects. More levers of Eni’s decarbonization strategies are the growth of low carbon sources (with an increase of biofuel in the portfolio and the ambition of achieving a gas share of 60% in the hydrocarbons production), an increase of the zero emissions sources (such as solar photovoltaic, wind and hybrid systems with the ambition of achieving an installed capacity of 10GW by 2030 from renewable sources) and a circular approach which maximizes waste used as feedstock and that transforms and extends assets useful life. The path to decarbonization aims to make the Company carbon neutral in the long term, developing an integrated energy transition plan, from both the efficiency maximization and the direct emission reduction, promoting an energy mix with a low carbon impact, developing circular economy and offset initiatives through forestry projects development. Finally, a key role will be played by new technologies use for the capture and use of CO2 emitted. Overall spending in the four-year period 2019-22 for decarbonization, the circular economy and renewables is approximately €3.6 billion (it includes €0.5 billion for scientific and technological research activities designed to support these issues). In particular, these dedicated investments share is equal to the 9% of the total investments envisaged for the coming 4 years.
+DURING THE PRESENTATION OF THE STRATEGIC PLAN TO THE MARKETS ON MARCH 15, 2019, A STRONG EMPHASIS WAS GIVEN TO THE PATH TO DECARBONIZATION, CONFIRMING ENI’S COMMITMENT TO COMBATING CLIMATE CHANGE.
+SHARE OF THE TOTAL INVESTMENTS PLANNED IN THE NEXT 4 YEARS DEDICATED TO THE DECARBONIZATION 9%
+
+
+15 ENI FOR 2018 | PATH TO DECARBONIZATION @ 2021 @ 2022 @ 2025 @ 2030. 
+TARGETS. 
+TOOLS. 
+Zero routine flaring -43% GHG usptream emissions intensity vs 2014 -80% upstream fugitive methane emissions vs 2014. 
+Renewable power generation plants: 1 GW. 
+Green refinery capacity 1 Mton/year > 1.6 GW 5 GW. 
+Forestry projects with a potential offsetting greater than 20 Mton CO2/year by 2030. 
+NET ZERO CARBON FOOTPRINT UPSTREAM (Scope 1)*
+Increased efficiency Forestry projects Growing share of gas Growth in zero carbon sources Circular approach CCUS (CO2 capture, storage and utilization)
+NEW TECHNOLOGIES. 
+PARTNERSHIPS * On an equity basis.
+AMBITIONS 60% of gas share in production. 
+Renewables > 10GW. 
+Biofuel capacity growth. 
+Targets, ambitions and tools of the path to decarbonization
+
+
+16 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+PILLARS OF ENI’S STRATEGY COMMITMENTS TARGETS. 
+INCREASED EFFICIENCY AND REDUCTION IN GHG EMISSIONS. 
+Reduction of GHG emission intensity index (upstream) 2025: -43% vs 2014 (actual: -20% vs 2014)
+Reduction of hydrocarbon volumes sent to process flaring Zero process flaring by 2025 (actual: -16% vs 2014)
+Reduction of fugitive methane emissions (upstream) 2025: -80% vs 2014 (actual: -66% vs 2014)
+Improved carbon efficiency index 2021: -2% a year vs 2014 (actual: -5.9% vs 2017)
+Investments to reduce GHG emissions (100% of operated activities) in the 2019-22 period about €0.7 billion. 
+FORESTRY Forest projects Offsetting potential for 20 Mton/year of CO2 by 2030. 
+LOW-CARBON AND RESILIENT OIL & GAS PORTFOLIO. 
+Promotion of Natural Gas: share of gas on total hydrocarbon equity resources(a)>50%
+Portfolio based on conventional resources, competitive even in low carbon scenarios ˛ Upstream projects in execution -> Brent break-even price(b) equal to $25 a barrel and rate of return of 22% ˛ Portfolio resilience tested on 100% of the upstream cash generating unit to low carbon IEA SDS scenario: no impact on fair value. 
+DEVELOPMENT OF RENEWABLES AND CIRCULAR ECONOMY. 
+Renewable power generation plants construction 2022: 1.6 GW installed capacity 2025: 5 GW installed capacity 2019-22 investments equal to €1.2 billion(c)
+Circular economy Downstream initiatives including:
+Green refinery: Gela, capacity of 720kton/year and start-up by the first half of 2019. 
+Waste-to-Fuel: construction of industrialscale plants to recover organic fraction of municipal solid waste in bio-oil, through a hydrothermal liquefaction process. 
+Other initiatives on Recycling/Reuse, Green Chemistry and Sustainable Mobility.
+2019-22 investments approximately €1 billion. 
+RESEARCH AND DEVELOPMENT AT THE SERVICE OF DECARBONIZATION AND PARTNERSHIPS. 
+Research projects on energy transition, renewables, and circular economy 2019-22 spending approximately €480 million. 
+Oil & Gas Climate Initiative (OGCI) - new technologies to reduce GHG emissions $10 million/year from 2017 to 2027. 
+Massachusetts Institute of Technology (MIT)/ Commonwealth Fusion Systems (CFS) Initial investment of $50 million for fusion power generation technology industrial development (a) 3P + Contingent. (b) Price that allows recovering costs over the entire life cycle including return on capital (WACC). (c) It does not include about €0.2 billion relating to the Renewables Italy project included in the circular economy section.
+
+
+17 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+INCREASED EFFICIENCY AND REDUCTION OF GHG EMISSIONS Improving carbon efficiency and reducing GHG emissions are the first pillar of Eni’s decarbonization strategy, which is divided into specific short and medium term targets. In the short term, Eni has confirmed its 2025 target of reducing emission intensity by 43% compared to 2014 in upstream operated assets, through the elimination of process flaring, the reduction of fugitive methane emissions and the implementation of energy efficiency projects. These initiatives also contribute to the objective of improving the carbon efficiency index by 2% a year by 2021 compared to 2014, which is reflected into an overall improvement of 13.2% over the period, through energy efficiency projects and initiatives counting on all Eni businesses contribution.
+DIRECT GHG EMISSIONS. 
+Half of the GHG emissions are concentrated in Europe and in particular in Italy (45% of the total). The remaining amounts relate almost exclusively to assets located in Africa (44%) and, to a lesser extent, in Asia Oceania (6%) and America (2%)
+Eni direct GHG emissions on a 100% operated basis: ˛ In 2018 remained substantially stable (+0.5%) compared to 2017 ˛ About 50% is already subject to carbon pricing schemes, mainly the European Emission Trading Scheme which covers all the major mid-downstream plants ˛ 56% comes from the Exploration & Production business. 
+Combustion and process Venting. 
+Fugitive methane emissions. 
+Flaring. 
+Italy Rest of Europe. 
+Americas Asia and Oceania. 
+Africa. 
+Direct GHG emissions (%) 78% 45% 3% 2%6% 5% 44% 14% 3%
+By type By geographical area 2010 2011 2012 2013 2014 2015 2016 2017 2018. 
+Eni direct emissions* (MtCO2eq - 100% operated) 58.4 48.7 52.1 47.6 42.9 43.3 42.1 43.1 43.3 -26%
+Gas & Power Exploration & Production. 
+Refining & Marketing and Chemicals Corporate and Other activities * The GHG emissions from methane venting have been revised following the refinement of the estimation methodology, in line with international methodologies developed thanks to the CCAC OGMP Partnership. Therefore, the historical series of this emission category has been revised in order to ensure the consistency of the performance indices with respect to the reduction targets of the GHGs communicated by Eni.
+UPSTREAM EMISSION INTENSITY. 
+IMPROVEMENT OF THE CARBON EFFICIENCY INDEX. 
+UPSTREAM FUGITIVE METHANE EMISSIONS. 
+PROCESS FLARING 2025 VS 2014 TARGETS 2021 VS 2014 TARGET -43% 2% ANNUAL -80%
+ZERO
+
+
+18 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+The progressive improvement in the GHG intensity index has allowed the absolute value of upstream GHG emissions from hydrocarbon production to remain stable in the period 2014-2018 despite the considerable increase in production (+25%). Without this improvement, Eni GHG emissions would have been almost 6 MtCO2eq higher in 2018. The objective of reducing upstream GHG intensity will contribute to the target of improving the carbon efficiency index by 2% a year by 2021 compared to 2014. It will be pursued by all Eni business units and will include Scope 2 emissions (see the section Energy Efficiency, p. 20).
+PROCESS FLARING The main driver to reduce the emission intensity of the upstream business is the minimisation of flaring, which in 2018 accounted for 27% of emissions from hydrocarbon production. Eni is engaged in specific programmes to reduce gas sent to flaring, through an emphasis on the production of electricity for local populations, distribution for domestic consumption or export. Where these practices are not possible, Eni has created reinjection systems in natural gas reservoirs.
+2014 2015 2016 2017 2018 2025. 
+UPS GHG Intensity Index (tCO2eq/kboe) 26.83 25.32 23.56 22.75 21.44 15.29 -20% -43%
+In 2018 the upstream GHG intensity index calculated per unit of gross hydrocarbon produced (100% operated) improved by 6% vs 2017, reaching 21.44 tCO2eq/kboe, thanks to the reduction in emissions from flaring and the ramp-up of the gas fields in Egypt (Zohr) and Indonesia (Jangkrik), as well as the return to full production in Norway (Goliat), plants with lower emission intensity than the average of E&P assets. 
+Eni confirms its commitment to zeroing of hydrocarbon sent to process flaring by 2025, 5 years earlier than the timescale laid down by the Global Gas Flaring Reduction (GGFR) initiative promoted by the World Bank, of which Eni is a partner 2014 2015 2016 2017 2018. 
+Volumes of hydrocarbon sent to process flaring (MSm3) 1,678 1,564 1,530 1,556 1,411 -16%
+In 2018, emissions from flaring fell by 8%, mainly due to zero flaring achieved in Turkmenistan (Burun field) and emergency flaring containment actions. In 2018, Eni invested €39 million in flaring-down projects, especially in Nigeria and Libya.
+UPSTREAM EMISSION INTENSITY OBJECTIVE 2025 VS 2014. 
+UPSTREAM EMISSION INTENSITY IN 2018 VS 2014. 
+VOLUMES OF HYDROCARBONS SENT TO PROCESS FLARING IN 2018 VS 2014 -43% -20% -16%
+PROCESS FLARING OBJECTIVE AT 2025 VS 2014 ZERO
+
+
+19 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+METHANE EMISSIONS Eni continues its commitment to optimising its monitoring and reporting processes to reduce methane emissions from operated assets. Methane emissions are essentially concentrated in the upstream value chain (98 kton, equal to 94% of the Eni total) and are due to fugitive emissions, unburnt methane from flaring and process venting. As part of the Oil and Gas Climate Initiative (OGCI) partnership, a collective target for reducing upstream methane intensity (defined as the ratio of total methane emissions to net natural gas production) was announced in 2018 and envisages reaching a value of 0.25% by 2025.
+The reductions recorded so far have been achieved by implementing LDAR (Leak Detection and Repair) campaigns, which consist in carrying out on-site monitoring campaigns of plant components in order to identify and eliminate methane leaks by scheduling appropriate maintenance. It is possible to control almost entirely fugitive emissions enabling savings and improving safety in operations. To date, 69% of Eni upstream assets (calculated on the basis of production levels) are already covered by LDAR programmes.
+In absolute terms, in 2018 Eni achieved a reduction of almost 2 MtCO2eq in upstream fugitive methane emissions compared to 2014, in line with the target of an 80% reduction by 2025. Emissions are stable vs. 2017 as the progressive implementation of on-site campaigns has been offset by new fields recently started up (Zohr, Jangkrik), so the campaigns will be carried out in 201912 2014 2015 2016 2017 2018 2025. 
+Fugitive methane emission (UPS) (MtCO2eq) 2.89 2.29 1.82 0.97 0.97 0.58 -80% 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025. 
+Upstream methane intensity (m3CH4/ m3) 0.43% 0.34% 0.28% 0.19% 0.16% 4Y Plan 2019-2022 0.25%
+CH4 emission sources - Total Eni 2018. 
+Fugitive 41% Venting 31%
+Combustion and process 8%
+Flaring 20% 12) For new fields, a conservative estimate of emissions is used before carrying out monitoring campaigns, which can only be done once the fields are fully operational.
+UPSTREAM METHANE INTENSITY. 
+UPSTREAM METHANE INTENSITY AT 2025 OBJECTIVE WITHIN THE OGCI FRAMEWORK. 
+UPSTREAM FUGITIVE METHANE EMISSIONS. 
+UPSTREAM FUGITIVE METHANE EMISSIONS OBJECTIVE AT 2025 VS 2014 -63% VS 2014 0.25% -66% VS 2014 -80%
+
+
+20 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+Eni is also continuing its participation in the Climate and Clean Air Coalition (CACC) Oil & Gas Methane Partnership, a public-private partnership led by the UNEP, in which it develops appropriate plans to control methane emissions, based on the execution of monitoring campaigns and the assessment of mitigation opportunities.
+COMMITMENT TO ENERGY EFFICIENCY The carbon efficiency index aims to measure the intensity of direct and indirect GHG emissions (Scope 1 and Scope 2) of Eni’s main productions, thus measuring their degree of efficiency in a decarbonization context. The target extends the GHG reduction targets to all business areas with an improvement of 2% a year to 2021 compared to the value of the 2014 index. This target refers to the overall Eni index, maintaining the appropriate flexibility in the trends of the individual businesses.
+In 2018, Eni invested about €10 million in energy efficiency projects, which, once in full operation, will yield energy savings of 313 ktoe/year, amounting to a reduction in emissions of about 0.8 million tonnes of CO2eq. In the upstream sector, structural and operational interventions to make production processes more efficient made possible to add a further 19 ktoe in energy savings, equivalent to 22 kton CO2eq compared to those achieved last year (729 kton CO2eq compared to baseline 2014). For the other industrial sectors, works carried out in 2018, at full operation, will provide further savings of around 18 ktoe, equivalent to 42 ktons of CO2eq of direct emissions avoided, in line with planned savings. The commitment to improving energy performance is also demonstrated by the inclusion in Eni’s HSE regulatory system of tools aligned with ISO 50001 certification schemes. Currently, about 60% of Eni’s global energy consumption is due to industrial installations already ISO 50001 certified and more than 90% coverage is expected by 2022.
+THE IMPROVEMENT OF THE CARBON EFFICIENCY INDEX OBJECTIVE OF 2% A YEAR BY 2021 IS REFERRED TO ALL BUSINESS LINES 2014 2015 2016 2017 2018 2019 2020 2021. 
+Carbon efficiency index (ton CO2eq/kboe) 41.27 38.58 38.26 36.01 33.90 31.08 -2% per year. 
+In 2018, the index stood at 33.90 tonCO2eq/kboe, down 5.9% from 2017 (36.01 tonCO2eq/kboe), thanks to positive upstream results and a reduction in the emission intensity of refineries. This reduction already makes it possible to achieve the 2021 target, but Eni is set on pursuing an improvement of at least 2% per annum in coming years as well. 
+VS 2017 CARBON EFFICIENCY INDEX -5.9%
+
+
+21 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+FORESTRY CARBON OFFSET As part of its medium-to-long-term decarbonization strategy, Eni has provided for the possibility of using carbon credits generated by forest protection and conservation projects to offset part of its emissions. These projects aim to reduce deforestation, increase carbon storage capacity and preserve and protect biodiversity, while also ensuring social benefits for local populations. Projects, indeed, will enable economic diversification activities with the creation of new employment, easing local development, in line with the National Development Plans and the Agenda 2030. Rational use of forest resources allows also to promote more sustainable domestic behaviors through the clean cooking. Eni’s strategy involves the development of REDD+ projects, with a high environmental and social value, both in Countries of interest and Eni’s presence, also through the participation in international initiatives and strategic partnerships with experienced third parties. Eni has already established its first partnerships by signing a Memorandum of Understanding (MoU) for the development of forest projects in partnership with international developers.
+REDD+ PROJECTS. 
+Reducing Emissions from Deforestation and forest Degradation (REDD+) ease a mechanism developed by the Parties to the United Nations Framework Convention on Climate Change (UNFCCC). These projects set a price on the carbon stored in forests by offering incentives to developing Countries to reduce emissions from deforestation and invest in low-carbon pathways for sustainable development. REDD+ projects include activities that go beyond avoiding deforestation and forest degradation and include conservation, sustainable forest management and enhancement of forest carbon stocks, while fostering the economic diversification of project areas.
+FOCUS ON. 
+MORE DETAILS ON ENI.COM
+
+
+22 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+INDIRECT EMISSIONS. 
+Eni pays particular attention on the emissions impact associated with its activities along the entire value chain, starting from the supply chain of goods and services for the production process up to the environmental impact connected with the disposal of the finished products. As regards emissions from purchases of electricity, steam and heat from third parties (so-called Scope 2), they are quantitatively negligible in Eni (about 0.7 million tonnes CO2eq), since in most cases electricity generation takes place through its own installations and the related associated GHG emissions are recorded among direct emissions. Nonetheless, Eni has included Scope 2 emissions within the scope of the target of improving carbon efficiency by 2% a year by 2021 (see section Energy Efficiency). As regards all the other emissions in the value chain (so-called Scope 3), Eni reports them using internationally recognised methods (IPIECA) and is committed to representing its own emission impact throughout the entire energy value chain of the products it markets. In the Oil & Gas sector, the greatest impact in terms of emissions is associated with the final use phase of the products sold (e.g., natural gas and oil products, such as gasoline, diesel, kerosene), which Eni quantifies on the basis of the production of hydrocarbons sold.
+FOCUS ON ˛ Promotion of a low-carbon energy portfolio (natural gas and renewables) to reduce emissions from the use of products sold ˛ R&D commitment to the development of technologies and fuels with lower environmental impact ˛ Optimization of processes related to product logistics (optimisation of loads and routes)
+Electricity (marketed) Use of sold products. 
+Others Products transport and distribution. 
+Processing of sold products. 
+Business travel and employees commuting Purchased goods and services (supply chain) 231.0 11.3 5.5 2.0 1.8 0.5 0.2. 
+Scope 3 - 2018 (Million tonnes CO2eq)
+EMISSION REDUCTION DRIVERS
+
+
+23 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+LOW CARBON OIL & GAS PORTFOLIO One of the drivers used by Eni to pursue its decarbonization strategy is the Oil & Gas portfolio characterized by conventional projects developed in stages and with low CO2 intensity. The main upstream projects in progress, which account for about 45% of the total development investments in the sector in the four-year period 2019-22, show an overall break-even at a Brent price of $25/barrel, which is therefore resilient even in the presence of a low-carbon scenario, and an internal rate of return (IRR) of 22%. Furthermore, these projects have a positive cumulative Free Cash Flow as early as 2019, due to the cash in from the application of the Dual Exploration Model, which is the early monetization of exploration successes through the sale of minority stakes. The hydrocarbon equity resources13 at 31/12/2018 show that natural gas, a bridge solution towards a low carbon future, accounts for over 50%. The flexibility and adaptability in the use of Eni’s investments, amounting to about €33 billion in the period 2019-22, are confirmed by the non-committed share of 50% already in the two-years period 2021-22.
+PORTFOLIO RESILIENCE Portfolio resilience is ensured by the regular review of the assets portfolio and new investments in order to identify and assess potential emerging risks associated with changes in emissions regulations and in the physical conditions of operations. The return on the main investment projects is tested using a sensitivity to carbon pricing when the Final Investment Decisions (FID) is made and later during the six-monthly monitoring of projects, based on the following assumptions: ˛ scenario of hydrocarbon prices and CO2 cost of Eni14; ˛ IEA SDS low-carbon scenario of hydrocarbon prices and cost of CO2. The results of the most recent monitoring have highlighted marginal impacts on internal return rates. In addition, the portfolio composition and decarbonization strategy minimises the risk of stranded assets in the upstream sector thanks to: ˛ a progressive reduction of the break-even of Oil & Gas projects by optimising the asset portfolio with a significant share of conventional gas; ˛ near field exploration; ˛ improved efficiency in development.
+In this regard, the management has subjected to a sensitivity analysis the book value of all CGUs (Cash Generating Units) in the upstream sector, adopting the IEA SDS scenario; this stress test highlighted the substantial retention of the asset book values and no impact on fair value.
+13) 3P+Contingent. 14) “Stress” scenario that considers the simultaneous and immediate adoption of a cost for CO2 equal to $40 a ton in 2015 corrected for inflation.
+SHARE OF GAS ON EQUITY RESOURCES IN 2018. 
+OIL & GAS PORTFOLIO >50% 48% 52%
+Oil & Gas portfolio (%)
+Gas Oil AVERAGE BREAK-EVEN PRICE OF NEW UPSTREAM PROJECTS. 
+AVG. BREAK-EVEN $25 A BARREL. 
+MARGINAL IMPACT ON INTERNAL RATES OF RETURN FROM SENSITIVITY TO CARBON PRICING. 
+NO IMPACT ON FAIR VALUE FROM SENSITIVITY ANALYSIS OF THE BOOK VALUE OF ALL UPSTREAM CGUS, ACCORDING TO THE IEA SDS SCENARIO
+
+
+24 ENI FOR 2018 | PATH TO DECARBONIZATION 15) Please see Partnership section. 16) Million Tonnes Per Annum.
+ROLE OF GAS Gas is the ideal partner for the development of renewables, which have economic and technological limits when deployed on a large scale. Use of the gas-renewables mix also enables coal consumption to be reduced. Currently, coal contributes about 40% to global power generation and is responsible for over 70% of CO2 emissions in the electricity sector.
+Eni intends to maximise the use of gas as a bridge fuel, particularly in electricity generation, and to promote its use in the transportation sector. To this end, Eni supports initiatives15 for the implementation of voluntary actions to reduce methane emissions throughout the natural gas production process and for the introduction of mechanisms (e.g., European EPS) that favour the use of fuels with lower emission intensity and natural gas consumption. Another element of portfolio resilience is linked to the development of gas projects close to growing markets, in emerging Countries and with growing energy needs, especially in Sub-Saharan Africa where over half a billion people do not have access to electricity and the situation is expected to remain unchanged by 2030, despite the large availability of energy sources (gas resources equal to cover current consumption for 800 years). Eni is committed to researching and developing energy resources for local markets and to projects aimed at access to energy and energy mix diversification with low impact sources such as gas and renewables (for more information, see Eni for 2018 Sustainability Report, page 54). A crucial role in the growth of gas is also played by LNG and Eni is developing a new model to achieve a leading position in the market. Over the next few years, the portfolio is expected to grow with forecast traded volumes of 14 MTPA16 to 2022 and up to 16 MTPA to 2025, almost twice as high as the traded volumes in 2018 (8.8 MTPA). By the end of 2022, more than 70% of traded volumes will come from Eni’s equity production, mainly in Africa and East Asia, up from 56% in 2018. Although LNG is more carbon intensive than natural gas transported via pipeline (due to the energy requirements associated with the gas liquefaction process and maritime transport), considering the entire life cycle, it still has significant advantages over coal in terms of its impact on climate change. OGCI is conducting Life Cycle Assessment (LCA) studies in collaboration with the Imperial College to identify the best emission mitigation options along the natural gas supply chain, as well as experimental studies in collaboration with EDF to improve the reliability of methane emission estimates associated with liquefaction, transportation and regasification processes.
+GAS AS A TRANSITION FUEL. 
+COMMITMENT TO THE DEVELOPMENT OF THE LNG MARKET. 
+OF GAS SOLD TO DOMESTIC MARKETS IN 17 COUNTRIES 60 BILLION M3. 
+CHARACTERISTICS OF GAS AS THE CHOSEN FUEL IN A DECARBONIZATION SCENARIO. 
+CLEAN FUEL In power generation, natural gas is the fossil fuel with the lowest GHG emissions, if considered over the entire life cycle.
+ABUNDANT AVAILABILITY Current production levels cover about 60 years with the proven world reserves and more than 220 years with technically recoverable resources.
+SECURE PROCUREMENT Europe is developing an interconnected infrastructure which will enable to be supplied by multiple sources, guaranteeing greater resilience against any emergencies.
+
+
+25 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+DEVELOPMENT OF RENEWABLES AND GREEN BUSINESSES INDUSTRIAL SCALE RENEWABLE ENERGY PROJECTS With the creation in 2015 of the Energy Solutions Department (DES), which reports to the CEO, Eni has put great energy into its strategy for developing the renewable energy business and in the next four years it provides for a growing commitment in renewables with an investment of about €1.4 billion and an installed power from renewable sources of about 1.6 GW by 2022 (40 MW of installed capacity at the end of 2018). This power is set to reach 5 GW in 2025 with the ambition of reaching over 10 GW by 2030 and is based on the implementation of a distinctive Eni model based on: ˛ integration with other business lines and existing assets, generating value through industrial, logistical, contractual and commercial synergies; ˛ a gradual geographical balance with an initial focus on the Countries in which Eni has a consolidated presence, solid commercial relations, knowledge of the energy markets and local needs; ˛ a technology neutral approach due to the close cooperation with the R&D function, which will enable the introduction of innovative technological solutions that are currently being studied.
+17) The project is part of the agreement signed in 2017 among Eni, General Electric and the Minister of Energy of the Republic of Kazakhstan.
+2019 2020 2021 2022. 
+Electric power from renewable sources (GWp)
+Electric power from renewable sources in 2022 0.2 0.5 1 > 1.6 5
+2025. 
+Italy Africa. 
+Rest of the World Asia 17% 20% 20% 43% >1.6 GW. 
+Wind Hybrid PV PV 15% 83% 2% >1.6 GW. 
+BY 2025 - INSTALLED POWER FROM RENEWABLES 5 GW. 
+MAIN RENEWABLES PROJECTS IN 2018. 
+ITALY During 2018, as part of Progetto Italia - initiatives that Eni is implementing with the aim of enhancing its disused industrial areas through the installation of about 270 MW of power by 2022, the production of the photovoltaic plants of Assemini, the Green Data Center (at the Ferrera Erbognone site) and Gela were started up.
+AUSTRALIA At the beginning of 2019, a project was launched for the construction of a 33.7 MWp photovoltaic plant at the Katherine site in the north of the Country. The plant will be equipped with an energy storage system and, when fully operational, it will allow savings of about 63,000 tons of CO2eq a year in emissions.
+ALGERIA In November 2018, the construction of the 10 MW photovoltaic plant (50% Eni share) was completed to supply energy to the Bir Rebaa North (BRN) field plant operated with Sonatrach and to contribute to the Country's decarbonization. Agreements signed with Sonatrach: (i) to test solar technologies in the desert; (ii) to create a JV that will build and operate solar power plants in the Country's production sites operated by Sonatrach.
+KAZAKHSTAN In December 2018, work began on the construction, in partnership with General Electric17, of the first Eni wind farm in the Country with a total capacity of 50 MW at the Badamsha site.
+TUNISIA Two photovoltaic projects were approved in 2018: (i) Adam, with 5 MW of capacity (Eni share: 2.5 MW), for the supply of energy to the field's production facilities; (ii) Tataouine, with 10 MW capacity (Eni share: 5 MW), which provides for the sale of the energy produced to Société Tunisienne de l'Electricité et du Gaz through a 20-year Power Purchase Agreement based on the Build Own Operate model.
+
+
+26 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+CIRCULAR ECONOMY In order to ensure long-term growth in the future, the Company must be economically, technically and environmentally efficient. Efficiency is a broad concept that includes continuous evolution, with a view to growth, the regeneration of what was built in the past, according to the new prospects that the future is shaping and also the ability to sustain itself while eliminating waste and losses. This broad concept of efficiency is at the heart of Eni’s strategy and runs throughout the Company, from processes and products to assets that are regenerated and revitalised through Eni’s research and patents: ˛ by researching innovative solutions, identifying new processes and products that aim at the reuse and exploitation of waste materials, aiming to make the economic system more efficient, while minimising resource and energy consumption; ˛ by transforming unprofitable or dismissed assets, giving them new life and a sustainable, low-carbon future.
+Through its downstream platform, Eni is poised to exploit the circular model thanks to its conversion plants, consolidated skills, technologies, innovative research and the geographical distribution of its assets. Through this transformative attitude and this platform of circularity, Eni is set on triggering a change based on long-term relationships with local stakeholders, on the attention to the specificity of local communities and on listening to, and the inclusion of, stakeholders in advancing the new development model. This innovative approach exploits the synergy between stakeholders, industrial symbiosis and cultural change as drivers of change. This includes MoUs and cooperation agreements for the development of the circular economy in Italy with various companies for the collection of waste cooking oils and the supply of Green Diesel, such as those signed in 2018 in Rome with AMA, with Veritas in Venice, with Hera in Modena and with AMAT in Taranto. In order to further boost decarbonization, Eni has also signed an agreement with Cassa Depositi e Prestiti for the promotion of initiatives in Italy in the field of the circular economy, decarbonization and sustainability, also through the recovery of industrial sites, and for initiatives with a high socio-economic and environmental impact in partner Countries in the energy sector and in the fight against climate change.
+WA. 
+ST. 
+E
+EX. 
+PL. 
+OI. 
+TA. 
+TI. 
+ON. 
+L
+O. 
+N
+G-
+TE. 
+R
+M. 
+VA. 
+L
+U. 
+E
+VO. 
+CA. 
+TI. 
+O
+N. 
+IN. 
+T
+HE. 
+T
+ER. 
+RI. 
+TO. 
+RY. 
+IN. 
+CL. 
+U
+SI. 
+ON. 
+SUSTAINABLE INPUT. 
+CULTURAL CHANGE. 
+INDUSTRIAL SYMBIOSIS. 
+SYNERGY. 
+INDUSTRIAL CIRCULARITY. 
+W
+AS. 
+TE. 
+M
+IN. 
+IM. 
+IS. 
+AT. 
+IO. 
+N
+US. 
+EF. 
+UL. 
+L
+IF. 
+E
+EX. 
+TE. 
+NS. 
+IO. 
+N
+
+
+27 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+GREEN REFINERY, BIOFUELS AND SUSTAINABLE MOBILITY In line with the decarbonization strategy and development of renewables, for several years now Eni has paired its traditional business with the production of green fuels by converting the traditional refineries in Venice and Gela into biorefineries, using the Ecofining proprietary technology which enables the production of green diesel with a high level of performance through a flexible hydrogenation process with different types of biological raw materials (vegetable oils, waste oils, animal fat derivatives, by-products from the food industry, etc.). These initiatives implemented in Gela and Venice are expected to reach a total supply of renewables of over 1 million tons by 2019. In 2018, 252 thousand tonnes of biomass were transformed into 174 thousand tons of green diesel, 32 thousand tons of green naphtha and 13 thousand tons of green LPG with emissions savings of about 450 thousand tons of CO2 compared to traditional processes. The focus on the sustainability of used biomass has always been a priority and has led to the definition of a specific policy18. To ensure the sustainability of its biorefineries and seize the opportunities related to the increase in the share of renewables in transport (as required by the REDII directive in force since 2021), Eni is engaged in several initiatives related to both the replacement of first generation feedstock and the development of sustainable mobility.
+BIOREFINERIES. 
+VENICE BIOREFINERY. 
+Started in 2014 with a capacity of 360 kton/year. 
+In 2018,the new plant for vegetable oils processing went into operation; it can also process unrefined materials with greater flexibility of supply. In addition, a feasibility study is underway for a high-temperature gasification plant for Plasmix (non-recyclable plastics) to produce hydrogen, as an alternative to the traditional technology of natural gas steam reforming. The CO2 produced by the gasification process can be captured (CCS) or used in industry.
+GELA BIOREFINERY. 
+Conversion completed at the end of 2018 and start of production in 2019, with capacity of 720 kton/year. 
+The plant has a high flexibility in the supply of raw materials, thus allowing the processing of unconventional feedstock (used vegetable oils and animal fats).
+18) Eni positions on biomass at eni.com.
+THE NEW PLANT FOR VEGETABLE OIL PROCESSING WENT INTO OPERATION IN 2018 AT THE VENICE BIOREFINERY.
+TONS OF BIOMASS PROCESSED AND TRANSFORMED INTO:
+IN 2018. 
+TONS OF GREEN DIESEL. 
+TONS OF GREEN NAPHTHA. 
+TONS OF GREEN LPG 252 THOUSAND 174 THOUSAND 32 THOUSAND 13 THOUSAND
+
+
+28 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+SUSTAINABLE MOBILITY. 
+Eni’s position on sustainable mobility consists in a balanced approach towards the various technologies and is based on the identification of a synergistic mix of solutions to maximise effectiveness along three main lines: improving the environment, reducing traffic and building innovative services. This mix includes numerous actions, some of which Eni can and does adopt autonomously, others which represent a stimulus for stakeholders or to be carried out in partnership.
+Eni has also identified the circular economy as a driver for decarbonization and has therefore launched a series of projects that will bring benefits not only in terms of emissions, but also from the point of view of “sustainability” in the broadest sense, because they will offer services and industrial benefits in the processing of certain types of waste aimed at the production of biofuels.
+BIO COMPONENT IN DIESEL + In 2018, a number of MoUs and agreements were signed with local utilities for the recycling of waste and used vegetable oils in energy products: AMA Roma, Veritas Venezia and Hera. The latter involves the collection of used domestic vegetable oils, the regeneration of these oils and their delivery to Eni for processing at bio-refineries. The “Eni Diesel+” produced in this way supplies a part of the Hera. 
+FOCUS ON. 
+STRENGTHENING PUBLIC TRANSPORTATION. 
+ELECTRICITY FROM RENEWABLE SOURCES. 
+LOW-CARBON FUELS WITH LOW ENVIRONMENTAL IMPACT. 
+COLLABORATIONS WITH CAR MAKERS. 
+MULTISERVICE POINTS OF SALE AND INFRASTRUCTURE. 
+RESEARCH AND TECHNOLOGY REDUCING THE DEMAND FOR MOBILITY. 
+Increased car sharing and carpooling, intermodality. 
+Associated with ultra-fast electric charging at service stations. 
+Bio-fuels from biomass, hydrogen, and methanol. 
+To encourage the use of alternative fuels as well as vehicle optimisation(a)
+Encouraging the distribution of all types of sources(b)
+With projects related to CO2 capture and storage and new fuels(c) and new cars. 
+Increased smartworking and home working. 
+THROUGH THE OILÀ PROJECT, ENI AIMS TO TRANSFORM THE EXHAUSTED OIL, A POTENTIALLY DAMAGING WASTE FOR THE ENVIRONMENT, IN GREEN DIESEL, AN ENERGY RESOURCE, IN ORDER TO PUT INTO EFFECT A CIRCULAR ECONOMY.
+
+
+29 ENI FOR 2018 | PATH TO DECARBONIZATION fleet used in waste collection in the municipality of Modena. The agreement with AMA Roma is part of the Oilà project for the recovery of used edible oils produced by Eni employees and their families and collected at Eni sites. These oils from the municipal company are purified and returned to the bio-refinery where the third phase for the used oil begins: the transformation from waste into green diesel, a high-quality biofuel, which accounts for 15% of the renewable component of the Eni Diesel+ fuel(d).
+MORE SUSTAINABLE FEEDSTOCK: CASTOR BEAN In 2018, Eni started an experimental cultivation of a native castor bean genotype in Tunisia, on pre-desert soils and not in competition with food crops to demonstrate the environmental and social sustainability of this biomass. With the collaboration of the Department of Agriculture of the University of Catania, different cultivation and oil extraction methods are being experimented from which two important by-products will be generated, the cake and the residues of the capsules and racemes, which can be used as soil improvers and for the production of advanced bio-ethanol. In a second phase, large-scale cultivation will be started; thanks to its geographical proximity, it will supply the Gela bio-refinery with a more sustainable short supply chain. Ecofining technology can process castor oil to obtain a Green Diesel of very high quality compared to normal biodiesel. Castor oil has also proven to be an excellent raw material for jet-fuel production due to its exceptional cold characteristics.
+NATURAL GAS IN TRANSPORT In the next four years, 60 new methane outlets (of which 50 in partnership with Snam Rete Gas) and 8 new LNG outlets (for development in the heavy transport sector) will be built. With this in mind, an LNG storage infrastructure is being studied in Livorno (through Costiero Gas Livorno SpA, 65%-owned subsidiary). To date, the Eni network has 91 points of sale that supply methane.
+BIO-METHANE In 2018, Eni started feasibility projects for the construction of plants for the production of bio-methane for mobility, also as a re- sult of new regulations, and in early 2019 it signed agreements with biogas suppliers (Confagricoltura, Coldiretti, Consorzio italiano Biogas, Ama Roma, Alia Firenze and Veritas Venice). There are plans to start investing in 41 plants with a production by the end of 2022 of 232 Msm3/year of bio-methane for transport.
+HYDROGEN IN TRANSPORT A pilot project for the distribution of hydrogen has been launched; it provides for the distribution at a point of sale in San Donato Milanese in 2019 and in Rome in 2020. In addition, an agreement has been signed with Toyota that will provide a fleet of about 20 hydrogen-powered cars. Hydrogen distribution is already available in some service stations in Germany. In Italy, however, the role played by hydrogen in transport is still marginal: in addition to the few bus lines currently in operation (Bolzano, Milan and Sanremo), only the public hydrogen distributor for cars in Bolzano is operational.
+AGREEMENT FOR THE DEVELOPMENT OF SUPERFAST CHARGERS In 2018, Eni and Ionity signed a framework agreement for the development of superfast chargers at Eni service stations in Italy. The partnership provides for the construction of 30 new charging stations from 2019 onwards. Each station will have six recharging points with a power of up to 350 kW (more than 100 times the power of standard households) that can charge current and new generation electric cars in less than 20 minutes. Eni has also started installing superfast charging points at about 350 of its points of sale.
+CAR SHARING In 2018 the Enjoy car sharing service was extended to the city of Bologna and the new Enjoy Cargo service was launched in Milan, Rome and Turin with a fleet of over 50 commercial vehicles for the transport of bulky items. From 2020, the gradual development of the service is expected even outside Italy. At the end of 2018 Enjoy had about 700,000 members (with an average of 400 new members a day).
+MORE DETAILS ON ENI.COM (a) For example, collaboration with FCA. (b) Fossil fuels, bio-fuels, Compressed Natural Gas (CNG)/Liquid Natural Gas (LNG)/ Liquid Petroleum Gas (LPG), electric, hydrogen, and liquid compressed methane and infrastructure for hydrogen distribution and electricity production from renewable sources. (c) For example, the new fuel for A20 petrol that can be marketed from 2019 with lower emissions already with the current fleet of vehicles. (d) Bio-fuels such as Eni Diesel+ reduce CO2 emissions by 5% (vs. traditional diesel) and polluting gaseous emissions by up to 40%.
+
+
+30 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+GREEN CHEMISTRY Chemicals from renewable feedstock is a strategic sector for long-term development to be achieved through innovative technologies for the production of high-quality products. As part of its commitment to contribute to the decarbonization process, Eni is active in the green chemistry sector through its dedicated company Versalis, offering a portfolio of products from renewable feedstock for high value-added applications and for increasing the share of renewables in its product range. Main green chemistry initiatives:
+ENI OPERATES IN GREEN CHEMISTRY THROUGH THE COMPANY VERSALIS. 
+THANKS TO THE GUAYULE PROJECT, VERSALIS WILL REALIZE MATERIALS FROM THE NATURAL RUBBER FOR DIFFERENT APPLICATIONS, INCLUDING THE DEVELOPMENT OF A TECHNOLOGY THAT WILL ALLOW ITS USE IN THE TIRE INDUSTRY.
+INITIATIVE MAIN CHARACTERISTICS. 
+PRODUCTION OF BIOINTERMEDIATES IN PORTO TORRES. 
+Through an alliance with a high-tech company, from 2014 Versalis has transformed the Porto Torres production site for the production of bio-intermediates from vegetable oils. The plant currently produces bio-monomers whose main applications concern the bio-lubricants, bio-plastics, rubber additives and polymers sectors and new market applications for polyamides (such as bio-fibers), polyesters and cosmetics and bio-herbicides are being developed.
+VEGETABLE OIL METATHESIS IN PORTO MARGHERA. 
+From 2014, Versalis has started a pathway to study and develop at industrial scale the application of the metathesis process of vegetable oils, based on a technology patented by Elevance Renewables Sciences, aimed at producing bio-chemicals from renewable feedstock, replacing fossil products, with applications in high value-added segments such as cosmetics, detergents, high- performance lubricants and additives for oil fields. Versalis is also planning to complement the metathesis process by integrating downstream along the product chain, marking the first example of this kind in the world, to achieve the full valorisation of intermediates and co-products from biochemicals, targeting high value-added applications (such as drilling, detergents, etc.).
+INTEGRATED PLATFORM ON GUAYULE. 
+As part of the international cooperation agreement with its partner Bridgestone, Versalis is committed to the development of the integrated platform on guayule dedicated not only to the production of natural rubber, but also to the exploitation of resins and lignocellulosic material supplied by the plant. The platform includes the development of an agronomic study aimed at promoting an integration and enhancement model for the territory, particularly agricultural and arid territories, in line with initiatives to support local communities.
+BIO-ETHANOL PRODUCTION In 2018, with the acquisition of the bio business of Mossi & Ghisolfi, Versalis consolidated the integration of the production of bio-ethanol from biomass at the production site in Crescentino (Vercelli) classified as "advanced" bio-fuel according to European regulations. In addition to production, a plan to revamp the licensing activities of the proprietary Proesa® technology, on which the production of "advanced" bio-ethanol is based, is in the pipeline. Among the research programmes that aim to expand the potential of Proesa®, several development projects have been launched in part with Eni, such as: a) expansion of biomasses that can be used for the production of sugars such as EFB (waste from the palm oil supply chain) and residual guayule bagasse (waste from the rubber and resin production process), b) production of bio-oil to be used as a feedstock for the green refinery, use of second-generation sugars for the production of biochemicals and bio-polymers in the PHA family. The scope of Mossi & Ghisolfi includes the acquisition of the Rivalta Scrivia Research Centre (Alessandria), dedicated to the use of renewable or waste biological sources as well.
+BIO-BUTADIENE SYNTHESIS Research projects have been launched, including the synthesis of bio-butadiene from secondgeneration, non-edible sugars resulting from the saccharification of waste biomass, which therefore does not generate competition with food, to make high-quality elastomers and thermoplastics.
+
+
+31 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+Research and Development at the service of the energy transition is a key element for Eni’s transformation into an integrated energy company for a low-carbon future. More than 53% of the total spending in planned research over the next 4 years is aimed at carbon neutrality and the circular economy (about €480 million) in addition to partnerships with OGCI and Commonwealth Fusion Systems LLC (CFS). In 2018, Eni spent over €74 million on research and development for carbon neutrality.
+Other issues including exploration. 
+Safety and risk reduction. 
+Environment. 
+Renewables. 
+Green chemistry. 
+Biorefining. 
+Promotion of gas. 
+Energy efficiency. 
+Emissions reduction 0
+20 40 60 80 100. 
+R&D expenditure in 2018 (€ million)
+DECARBONIZATION €74.3 MILLION 83.2 24.7 15 24.6 6.9 8.3 12.2 9.6 12.7. 
+REUSE OF CARBON DIOXIDE. 
+GHG mitigation actions include storage (CCS-Carbon Capture & Storage) and reuse (CCU-Carbon Capture & Utilization) of CO2. While storage is generally penalised by economic aspects, research and development of new technologies for the reuse of carbon dioxide are widely supported by Eni. Carbon dioxide is an important resource and Eni is seeking to exploit it through a variety of technologies while limiting its impact on the environment. Some possible applications include permanent fixation in cements or use as a reagent for the production of polymers (with innovative technological properties compared to existing materials), or conversion into methanol, a liquid compound that is easy to handle and transport and is widely used both as an intermediate in the chemical industry and directly as a fuel.
+FOCUS ON. 
+MORE DETAILS ON ENI.COM. 
+TOTAL R&D SPENDING IN CARBON NEUTRALITY AND CIRCULAR ECONOMY IN THE NEXT 4 YEARS €480 M. 
+PARTNERSHIPS FOR RESEARCH In March 2018, in the challenge of pursuing energy production with the lowest possible carbon impact, Eni signed new agreements with CFS19 and the MIT20 with a view to boosting the industrial development of technology for the production of fusion energy, a safe, sustainable and practically inexhaustible source of energy with no emission of pollutants or long-term waste as is the case of nuclear fission. In order to better support its long-term objectives and accelerate and broaden access to emerging and potentially disruptive technologies, Eni has also adopted an Open Innovation approach pursued through its interests held in the Eni Next and OGCI companies with which it aims to: ˛ develop a network with universities, research centres (such as the MIT), start-ups, hi-tech companies, etc.; ˛ invest in venture capital initiatives and the development/deployment of particularly innovative technologies, with particular focus on the Circular Economy, Decarbonization and Renewable Energy. During 2018 Eni signed a Memorandum of Understanding (MOU) with the CNR (Italian National Research Council) for the development of joint research in four areas of high scientific and strategic interest: magnetic fusion, water, agriculture and the Arctic ecosystem. The research activities are carried out in 4 joint research centres throughout the Country, with a total economic commitment of over €20 million for five years.
+RESEARCH AND DEVELOPMENT IN THE PATH TO DECARBONIZATION 19) CFS: Commonwealth Fusion Systems. 20) MIT: Massachusetts Institute of Technology.
+
+
+32 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+TECHNOLOGICAL RESEARCH PLATFORMS FOR DECARBONIZATION. 
+ENERGY TRANSITION Promotion of natural gas as an energy source in transition. This includes the construction of pilot and demo plants of the technologies developed, such as the transformation of methane into methanol, possibly with off-shore or floating plants to exploit marginal resources or otherwise sent off for flaring. Since 2015 Eni has been engaged in the Energy Transition Programme, focused on the development of low-carbon technologies with particular reference to the methanol supply chain and the use of CO2. The programme focuses on technologies downstream of natural gas production, with three main lines of research and development, dedicated to H2S and its conversion into valuable products; exploitation of natural gas and conversion of methane into liquids to facilitate transport and use; management and use of CO2 to reduce GHG emissions.
+RENEWABLE ENERGY Develop low-cost technologies for production from renewable sources that can be integrated into O&G activities, with particular reference to solar energy and the integration of new renewable energy production systems into O&G operations. Examples of Eni research results are: i) concentrated solar power (CSP) whose deployment will produce steam to power an industrial plant; ii) the development of advanced organic photovoltaics (OPV) which provides for the production, installation and monitoring of demo modules and which will also be tested to produce electricity for sensors installed in areas of industrial plants that did not have them, allowing an effective retrofitting of existing installations.
+GREEN REFINERY AND GREEN CHEMISTRY Redefining industrial cycles to direct them towards bio-based products with a lower environmental impact, in a circular economy perspective. In this context, Eni’s projects for the production of fuels from the organic fraction of municipal solid waste (OFMSW) with two technologies are significant: ˛ In Gela, in the areas of the Eni biorefinery, Syndial has built the Waste to Fuel pilot plant, which transforms the organic fraction of solid municipal waste (OFMSW) into bio-oil through a hydrothermal liquefaction process and the recovery and treatment 70% of the water contained in it. The implementation of the project marks a significant step for Eni towards the production of second-generation bio-fuels, with lower environmental impact, through sustainable processes and technologies linked to the reuse of resources and therefore to the circular economy. The Waste to Fuel pilot plant, the result of Eni’s proprietary research and technology, will lead to the construction of new plants on an industrial scale in Italy and abroad. ˛ CO2 bio-fixation in algae at the pilot plant in Ragusa takes place using light energy (from solar concentrators) conveyed through fibre optics inside cylindrical photobioreactors in which the microalgae receive solar energy and grow in salt water fixing the CO2 separated from the gas from the wells of the Eni Oil Centre. The recovered water is then purified and the algae component dried; an oil is extracted from the algae flour which can be used in biorefineries instead of the current raw material, consisting of palm oil, and in products with high value added (nutraceuticals). In this way, the biomass used to feed the biorefinery is not only not in competition with agricultural crops for food use, but is classified as “advanced” according to the EU RED II Directive.
+FOCUS ON. 
+MORE DETAILS ON ENI.COM. 
+THE WASTE TO FUEL PILOT PLANT ALLOWS BOTH TRANSFORMATION OF THE ORGANIC FRACTION OF MUNICIPAL SOLID WASTE (OFMSW) INTO BIO OIL AND THE RECOVERY AND TREATMENT OF 70% OF THE WATER CONTAINED INSIDE IT.
+
+
+33 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+MARIA CRISTINA FACCHINI DIRECTOR OF THE INSTITUTE OF ATMOSPHERIC AND CLIMATE SCIENCES OF THE CNR (ITALIAN NATIONAL RESEARCH COUNCIL)
+INTERVIEW WITH MARIA CRISTINA FACCHINI, CNR. 
+What are the areas of development that at CNR you imagine can make a significant contribution to the energy transition and decarbonization, both in the energy sector and in a global context? The transition to a zero-carbon society to combat climate change goes hand in hand with various social and economic sectors: energy, agriculture, transport, land use planning, mobility and food choices of the population, and the use of water resources. All these issues are interlinked and must be tackled with a global and integrated vision. This is the real priority and the line of development to which the CNR is committed: to build an interdisciplinary system of knowledge that can provide both lawmakers and the economic and business world with the key not only to mitigating climate change, but also for the necessary actions to adapt to the consequences already underway of the warming of the Earth’s climate. Since human society is responsible for climate change, the integration of the natural sciences with the humanities and social sciences is a further development that is being pursued painstakingly.
+The recent agreement between Eni and CNR is a unique example of an alliance between a large company and the most important research institution in Italy in terms of number of patents and researchers. What do you expect from this match? The four joint research centres between Eni and CNR are addressing some of the key issues in the context of climate change: new energy sources, water resources, agriculture, and the fragile Arctic ecosystem. In addition to an increased critical mass of human and financial resources on issues of primary importance for the sustainability of our society, this collaboration is expected to significantly “shorten” the research-business chain and foster a faster and more rigorous application of scientific knowledge by the world of production.
+What is the value added of the cooperation between Eni and CNR? In addition to the undoubted benefit of this agreement in terms of resources for research in key areas of economic and social importance, this collaboration is expected, on the one hand, to integrate and systematise the respective knowledge and technological capabilities, and, on the other, to cross-fertilise the world of research and business, which has been the subject of so much talk but for which very little is being done.
+For projects dedicated to the study of decarbonization in agriculture and biomass waste, to be used as raw material for the production of biofuels in Eni biorefineries. Studies and projects for the development of sustainable agriculture will also be carried out, in line with SDGs and European research programmes on bio-economy and agri-food.
+Portici. 
+Research into plasma characteristics, superconducting magnets, and power plants that exploit the advantages of the melting process, as well as the development of skills for the transport and storage of electrical power, interfacing with other CNR centres.
+Gela. 
+Research on the Arctic and the analysis and quantification of climate processes related to the destabilization of the Arctic cryosphere, in particular the permafrost, and the evaluation of the effects of its thawing on the Arctic Ocean.
+Lecce. 
+To increase the productivity and efficiency of water use in agriculture and to mitigate the growing impacts of drought in the Mediterranean and other strategic areas, such as the Horn of Africa, Sahel, and Middle East.
+Metaponto. 
+THE ENI-ITALIAN NATIONAL RESEARCH COUNCIL (CNR) AGREEMENT. 
+IN 2018 ENI SIGNED AN AGREEMENT WITH THE CNR IN 4 AREAS: MAGNETIC FUSION, WATER, AGRICULTURE AND THE ARCTIC ECOSYSTEM. 
+INTERVIEW
+
+
+34 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+Eni is among the five companies that in 2015 founded the Oil and Gas Climate Initiative (OGCI), a voluntary CEO-led initiative, whose mission is to be the catalyst of actions and investments to mitigate GHG emissions from the Oil & Gas sector and explore new business and new technologies. OGCI is investing up to $1 billion in 10 years in low carbon technologies, through the OGCI Climate Investment (OGCI CI) vehicle. These are additional investments compared to the commitments of the individual companies and a multiplier effect is expected thanks to the development of low carbon technologies. In addition, in 2018 OGCI set a target for reducing methane emissions to enhance the role of natural gas. Eni has also been a forerunner in joining the initiative Global Gas Flaring Reduction for the progressive elimination of flaring gas and the Climate and Clean Air Coalition - O&G Methane Partnership aimed at reducing methane emissions in the O&G sector. Moreover, Eni is the only company among the Peers to be part of the Task Force on Climate-related Financial Disclosures (TCFD), which in 2017 published voluntary recommendations to encourage disclosure of the financial implications of climate change.
+A Memorandum of Understanding (MoU) between Eni and United Nation Development Programme - UNDP was signed in 2018 to improve access to sustainable energy in Africa and to contribute to the achievement of the UN Sustainable Development Goals (SDGs). Under the agreement, Eni will develop business initiatives to increase access to clean energy and UNDP will use its network of contacts in more than 170 Countries to promote a framework conducive to the implementation of the partnership and to assess its sustainability impact on local communities. Eni projects will include power generation from photovoltaic (PV, including floating systems), wind farms, hybrid off-grid solutions, reforestation and clean cooking solutions.
+CLIMATE PARTNERSHIPS. 
+THE PARTNERSHIPS IN THE FIELD OF ENERGETIC TRANSITION ARE ESSENTIAL FOR ENI IN ORDER TO SHARE KNOWLEDGE AND ENHANCE SYNERGIES. 
+PARTNERSHIP OBJECTIVE AND MAIN ACTIONS. 
+OIL AND GAS CLIMATE INITIATIVE (OGCI)
+Business Partnership of 13 major Oil & Gas companies (representing about a third of world hydrocarbon production) with the aim of demonstrating industry leadership in the fight against climate change, investing in technologies to reduce GHG emissions in the Oil & Gas value chain. In addition to investments in technologies, OGCI is promoting scientific studies to fill the knowledge gap on methane emissions along the Oil & Gas supply chain, in partnership with UN Environment. Leveraging on the skills of Environment Defense Fund and Imperial College, measuring campaigns on Oil & Gas assets and LCA studies on the entire natural gas supply chain are being implemented.
+CLIMATE AND CLEAN AIR COALITION - OIL & GAS METHANE PARTNERSHIP (CCAC OGMP)
+Public-Private Partnership coordinated by UNEP and the US Environmental Protection Agency (EPA) and focused on reducing methane emissions along the Oil & Gas supply chain through the voluntary commitment to the implementation of projects of monitoring, reducing and reporting of the main sources of methane.
+GLOBAL GAS FLARING REDUCTION (GGFR)
+Public-Private Partnership led by the World Bank which aims at reducing the practice of flaring at a global level also through the launch of the zero routines flaring initiative, which commits the adherents to eliminate the volumes of gas sent to process flaring by 2030.
+INTERNATIONAL EMISSIONS TRADING ASSOCIATION. 
+IETA is the main association supporting the implementation of market-based trading schemes for GHG emissions, involving businesses in the pursuit of climate actions in line with the objectives supported by the UNFCC.
+METHANE GUIDING PRINCIPLES Initiative that gathers 8 Oil & Gas companies with the aim of reducing methane emissions along the Oil & Gas supply chain, through the involvement of the main supply chain stakeholders.
+TASK FORCE ON CLIMATE- RELATED FINANCIAL DISCLOSURES. 
+Task Force launched by the Financial Stability Board with the aim of establishing recommendations and guidelines to improve the companies disclosure on the financial aspects related to climate change. Eni is also part of the TCFD Oil & Gas Preparers' Forum for the development of sector-specific guidelines.
+IPIECA IPIECA is the main association of the Oil & Gas industry active on the main environmental and social issues.
+WORLD BUSINESS COUNCIL FOR SUSTAINABLE DEVELOPMENT (WBCSD)
+Association of companies active on sustainability issues. The WBCSD coordinates the Oil & Gas focus group for the implementation of the TCFD recommendations.
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY AND COMMONWEALTH FUSION SYSTEMS (MIT CSF)
+Partnership with the Massachusetts Institute of Technology and Commonwealth Fusion Systems for the industrial development of technologies for the production of nuclear fusion energy.
+THE CARBON PRICING LEADERSHIP COALITION (CPLC)
+Public-Private Partnership with the long-term goal of carbon pricing at global level.
+ITALIAN CIRCULAR ECONOMY STAKEHOLDER PLATFORM (ICESP)
+ENEA platform to bring together initiatives, experiences, criticalities and prospects in the field of the circular economy and to promote the circular economy in Italy through specific actions.
+
+
+35 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+For years now, Eni has been committed to promoting constant, open and transparent dialogue on issues linked with climate change, which represent an integral part of its strategy and are therefore communicated to all stakeholders. This commitment is part of a broader relationship that Eni has been building and is committed to strengthen with its stakeholders on sustainability issues through initiatives such as the Chairman’s roadshows on governance issues, dialogue with investors and targeted communication campaigns, collaboration with the TCFD e Oil & Gas Preparers’ Forum and participation in initiatives and international partnerships. Since the first CDP assessment in 2003, the commitment to the dissemination of the decarbonization strategy has progressively expanded and since 2016, the objective of reducing emissions has been one of the targets of the strategic presentation to the financial community; targeted communication initiatives have been launched, at the shareholders’ meeting and the presentation to Socially Responsible Investors (SRI), where the CEO illustrates the decarbonization strategy and the integration of renewable energy development projects into the business. Continuing this commitment, Eni’s leadership in the fight against climate change has been recognized also by independent assessments which represent a source of information on climate issues for the financial community. In 2018, Eni was confirmed as a leading company with an A- rating in the Climate Change program of the CDP (formerly Carbon Disclosure Project), the main independent rating that evaluates the actions and strategies of listed international companies to combat climate change. In addition, Eni was among the top five Oil & Gas companies for its ability to respond to the transition to a low-carbon future in the “Beyond the cycle” study by the CDP Investor Research Team, which assessed the 24 leading Oil & Gas companies. In addition, in order to measure and monitor its reputation, Eni has adopted tools for analysing its stakeholders’ reputational exposure, as well as “listening rooms” set up for issues of particular interest and, more generally, a proprietary system that makes it possible to assess the reputational impact of its activities on all stakeholders in real time through the collection of data from multiple internal and external sources. In its relations with institutions, Eni also works through the trade associations that represent it in Italy, Europe and the rest of the world. In this context, it recognises the importance that the climate positions of the associations to which it belongs do not conflict with the decarbonization strategy so as not to compromise support for the objectives of the Paris Agreement. In this context, Eni has started a detailed mapping of the positions relating to climate change of the main associations to which it belongs in order to verify the absence of conflicts with respect to its decarbonization strategy or to take action in cases where misalignments are found.
+CLIMATE DISCLOSURE. 
+A CONSTANT, OPEN AND TRANSPARENT DIALOGUE WITH ITS STAKEHOLDERS IS FUNDAMENTAL FOR ENI. 
+THE OGCI, BUSINESS PARTNERSHIP OF 13 O&G COMPANIES, IS INVESTING UP TO 1 BILLION DOLLARS IN 10 YEARS IN LOW CARBON TECHNOLOGIES.
+
+
+36 ENI FOR 2018 | PATH TO DECARBONIZATION. 
+METRICS & TARGETS. 
+Below the metrics and targets used to evaluate and manage the risks and opportunities related to climate change.
+The annex “Path to Decarbonization” is part of the document “Eni for 2018 - Sustainability Report”, which is subject to a limited assurance by EY SpA. The independent auditors’ report is found on page. 65 of “Eni for 2018 - Sustainability Report”.
+2016 2017 2018 Targets. 
+Direct GHG emissions (Scope 1)(a) (million tonnes CO2eq) 42.15 43.15 43.35 - - of which: CO2eq from combustion and process 32.39 33.03 33.89 - - of which: CO2eq from flaring 5.40 6.83 6.26 - - of which: CO2eq from fugitive methane emissions 2.01 1.14 1.08 - - of which: CO2eq from venting 2.35 2.15 2.12 -
+Indirect GHG Emissions (scope 2) 0.71 0.65 0.67 -
+Indirect GHG emissions (scope 3) from use of sold products(b) 225.6 228.6 231.0 -
+Carbon efficiency index (tonnes CO2eq/kboe) 38.26 36.01 33.90 31.08 by 2021. 
+GHG emissions/100% operated hydrocarbon gross production (UPS) (tonnes CO2eq/kboe) 23.56 22.75 21.44 -43% at 2025 vs 2014. 
+GHG emissions/Refinery throughputs (tonnes CO2eq/kt) 278 258 253 -
+GHG emissions/kWheq (EniPower) (gCO2eq/kWheq) 398 395 402 -
+Upstream methane emissions (ktonnes CH4) 141.3 105.2 97.8 - - of which fugitive (ktonnes CH4) 72.6 38.8 38.8 -80% at 2025 vs 2014. 
+Upstream methane intensity (m3 CH4/m3 marketed gas) % 0.28 0.19 0.16 OGCI Target. 
+Total volume of hydrocarban sent to flaring (million Sm3) 1,950 2,291 1,945 - - of which: process flaring 1,530 1,556 1,411 Zero process flaring at 2025. 
+Equity hydrocarbon production(c) (kboe/day) 1,759 1,816 1,851 - 100% operated hydrocarbon gross production million boe 894 998 1,067 -
+Renewable installed capacity (GW) 0.01 0.01 0.04 1.6 GW installed in 2022 5 GW installed in 2025. 
+Biorefinery capacity (ktonnes/year) 360 360 360 - of which: Venice (ktonnes/year) 360 360 360 > 1 m ton in 2019 - of which: Gela (ktonnes/year)
+R&D expenditure (€ billion) 0.16 0.19 0.20 2019-2022 €0.9 billion - of which: related to decarbonization and the circular economy (€ billion) 0.06 0.07 0.07 2019-2022 €0.48 billion (a) Direct emissions (scope 1) are 100% on operatorship basis. (b) Indirect emissions scope 3 are estimated on the basis of Eni equity production. (c) Gross production of hydrocarbons from fields operated by Eni (100%) equal to: 1,067 Mboe, 998 Mboe and 894 Mboe in 2018, 2017 and 2016, respectively.
+Other metrics. 
+Hydrocarbon resources (3P+Contingent) at 31/12/2018: % gas on total (%) >50%
+Total break-even price of new upstream projects in progress Brent@$25/bl. 
+Internal rate of return (IRR) of new upstream projects in progress 22% @Eni scenario. 
+Incidence of Eni’s uncommitted investments (%) 2021-2022 equal to 50%
+Carbon pricing - Eni scenario ($/ton) 40 in 2015 corrected by inflation. 
+Stress test: resilience of the upstream portfolio (100% cash generating unit) based on the IEA SDS low-carbon scenario Impact on fair value of assets: none. 
+Sensitivity 2018: Brent (-$1 a barrel) (€ million)
+Adjusted operating profit: +285 Adjusted net profit: +170 Free cash flow: +195. 
+Brent price of cash neutrality (investments and dividends) ($/bl) 2019: 55 2022: 50
+
+
+Printed on XPer Fedrigoni paper. 
+Eni could pay royalties to persons entitled in the case of sources for which the authors have not been traced.
+Eni SpA. 
+Registered Office Piazzale Enrico Mattei, 1 - Rome - Italy Share capital: € 4,005,358,876.00 fully paid-up Business Register of Rome, Taxpayer’s code 00484960588. 
+Other Branches Via Emilia, 1 San Donato Milanese (MI) - Italy. 
+Piazza Ezio Vanoni, 1 San Donato Milanese (MI) - Italy. 
+Page layout and supervision K-Change - Rome - Italy. 
+Print Varigrafica Alto Lazio - Viterbo - Italy
+
+
+*00236* *00238* azione sul Governo Societario 2018 ENG elazione sulla Remunerazione 2018 ENG *00232* *00234*
+Eni In 2018 ENG. 
+Guida dell’azionista 2018 ENG *00218* *00220* *00222* *00224*
+Annual Report 2018. 
+Eni For 2018 ENG. 
+Eni For 2018 ENG. 
+Eni For - decarbonizzazione - 2018 ENG

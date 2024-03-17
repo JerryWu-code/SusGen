@@ -1,0 +1,838 @@
+Addressing climate change is the next step in delivering on inclusive capitalism. 
+Legal & General Group Plc 2020 Climate Report in line with recommendations from the Task Force on Climate-related Financial Disclosures (TCFD)
+
+
+Our purpose is to improve the lives of our customers, build a better society for the long term and create value for our shareholders. This inspires us to use our long-term assets in an economically and socially useful way to benefit everyone in our communities. In doing so, we are building a decarbonised society.
+Improving lives through inclusive capitalism
+
+
+Contents. 
+Chairman’s statement 2 Chief Executive Officer’s statement 3 Introduction 4 Summary disclosure against TCFD recommendations 5 Policy statements 6 Our approach to TCFD 7 Governance 8 Strategy 10 Climate-related risks and opportunities 11 Climate strategy for our individual businesses 12 Our bespoke Destination@Risk framework 14 Scenario analysis 18 Strategic resilience 20 Risk management 21 Managing transition risks 22 Managing physical risks 27 Longevity risk 28 Carbon metrics and targets 30 2020 Highlights. 
+Annual Report: www.legalandgeneralgroup.com/ AnnualResults/2020fastread. 
+LGR ESG policy: www.legalandgeneral.com/ institutional/pension-risk-transfer/ who-we-are/esg/
+LGIM Real Assets net zero carbon roadmap: www.legalandgeneral.com/ institutional/real-assets/capabilities/ responsible_investing/
+LGIM active ownership report: www.lgim.com/uk/en/capabilities/ investment-stewardship/ 1. Figures are approximate.
+Renewable energy investments to date £1.4bn (2019: £1.3bn)
+Legal & General Retirement ESG policy published 36% stake in The Kensa Group, ground source heat pump specialists. 
+Group portfolio Carbon Intensity (tonnes CO2e/£1m invested) 117 (2019: 120)
+Investments. 
+Companies rated by our Climate Impact Pledge¹ 1,000 (2019: 80)
+Launch of Climate Transition Index Fund and Core Fixed Income Exchange Traded Fund. 
+LGIM ranked top among asset managers for engagement on climate change (InfluenceMap)
+Investment stewardship votes¹ 139,000 (2019: 115,000)
+Influence. 
+Operations. 
+Group operational footprint 40,344 tCO2e 13% reduction vs 2019 1 Legal & General Group Plc TCFD Report 2020
+
+
+Chairman’s statement. 
+Legal & General’s third TCFD Report comes at an important moment in the global effort to address climate change. Even as the Covid-19 pandemic brought huge new challenges for health systems, economies, businesses and individuals, there was no sense of postponing efforts to tackle the even larger, unfolding climate crisis. Quite the opposite: Covid-19 has reaffirmed the importance of managing our relationship with the environment, with the knowledge that there is one decade to prevent catastrophic climate change.
+It is fair to say that no company has developed a perfect formula for climate, and we are no exception. However, our TCFD Reports document our progress on the path to climate stability. More accurate metrics, more transparency and better reporting are an important basis for continuous improvement, and we believe TCFD reporting should be mandatory for all significant companies.
+Addressing climate change is a strategic priority for Legal & General. It is one of our six growth drivers and it is embedded in how we run our business, from how we invest our proprietary assets, how we influence as one of Europe’s largest asset managers, and how we operate our businesses. The breadth of our businesses, from insurance to investment management to housebuilding, gives us multiple levers to drive progress on climate, and our scale enables us to deliver real change.
+Leadership on climate comes from the top, and our Group Environment Committee is a key part of our governance structure. Many of my colleagues are engaged in broader climate efforts, for example: Nigel Wilson is Chair of the Innovation Working Group of the Bank of England/FCA’s Climate Financial Risk Forum, Michelle Scrimgeour is Co-Chair of the committee of COP26 business leaders, and Jeff Davies is a member of the Bank of England’s Steering Committee on Productive Finance. Their dedication is mirrored throughout the company – in 2020 nearly 100 of our employees collaborated on a Climate Change Accelerator Programme to develop viable climate-friendly business solutions.
+Addressing climate change will be one facet of rebuilding our economy after Covid-19. We advocate an investment-led recovery, with a greener approach to the built environment and concerted efforts to grow climate-friendly businesses and industrial sectors in the UK. Legal & General intends to be on the right side of climate history, harnessing the power of investment to generate positive economic and environmental returns. This is an important component of our commitment to inclusive capitalism.
+I hope you find this report useful, and naturally we welcome your feedback.
+Sir John Kingman Chairman. 
+We intend to be on the right side of climate history.”
+Sir John Kingman Chairman 2 Legal & General Group Plc TCFD Report 2020
+
+
+Chief Executive Officer’s statement. 
+Addressing climate change is strategically vital for Legal & General. As global finance gets behind the changes our planet needs, this creates the most important shifts in investment allocation and the biggest investment opportunities of our lifetimes. We support the Paris Agreement, have lobbied for the UK Government’s commitment to achieve carbon neutrality by 2050, and are a consistently active voice on climate.
+To deliver real change, actions must match words. We are fully committed to our own journey to net zero. We have set Group balance sheet carbon intensity targets to monitor alignment with the ‘Paris’ objective and will reduce our portfolio carbon emission intensity by half by 2030.
+Our institutional retirement business has further committed to reduce portfolio carbon emission intensity by 18.5% by 2025. We invest in clean energy through electric vehicle infrastructure, ground source heat pumps, wind farms and alternative technologies. All homes that we build will be capable of operating with net zero carbon emissions from 2030.
+We offer climate-friendly products to our institutional clients and influence on their behalf, consistently engaging with companies they invest in and voting on companies’ climate resolutions. In 2020 we broadened our Climate Impact Pledge and updated the exclusions for thermal coal.
+In addition to our 2019 TCFD disclosures we have now committed to the Science Based Target initiative (SBTi) to further align our carbon reduction targets to the ‘Paris’ objective.
+Rebuilding our economy from Covid-19 is a chance to create a greener built environment, to support new climate-friendly business sectors and create more green jobs. Economic, social and climate benefits can go hand-in-hand if the power of finance is deployed effectively, and Legal & General is set to play a leading role in that change.
+Nigel Wilson Group CEO. 
+To deliver real change, actions must match words. We are fully committed to our journey to net zero.”
+Nigel Wilson Group CEO 3 Legal & General Group Plc TCFD Report 2020
+
+
+Global temperatures are currently on a trajectory to increase by nearly four degrees Celsius (°C) above pre-industrial levels. This is expected to cause economic disruption and suffering on a scale far greater than Covid-19.
+Carbon dioxide (CO2) emissions have declined globally by around 6–7% in 20201,2 yet this is still less than the 7.6% annual reduction required to limit global warming to 1.5°C2 above pre-industrial levels.
+As we rebuild following Covid-19, we can build back better; we intend to build back greener.
+TCFD Report 2020 The purpose of the TCFD Report is to provide investors and other stakeholders with a better understanding of our business’s exposure to climate-related risks and our strategic resilience to these risks as well as the climate-related opportunities we have identified.
+This is our third report describing our climaterelated financial disclosures in line with the voluntary disclosure recommendations of the TCFD: governance, strategy, risk management, and metrics and targets.
+The TCFD supplements our 2020 Annual Report and Accounts.
+Progress in 2020 This year, we strengthened our risk policy statements to support our climate policies, including decarbonising the assets on our balance sheet to align with the Paris Agreement³. Our interpretation is that ‘Paris’ aims to limit warming to 1.5°C. This interpretation applies where we refer to ‘Paris’ throughout this report.
+Our new policy statements and commitments include: • A commitment to the Science Based Target initiative, limiting warming to 1.5°C • Extended Group balance sheet carbon intensity targets • Climate-related targets in our Executive remuneration scorecard.
+We enhanced our energy transition pathway modelling through an additional ‘Disorderly’ scenario, which assumes action to achieve the outcomes from ‘Paris’ is delayed to 2030.
+We expanded our clean energy investments and product offering: • Our capital investment business took a 36% stake in The Kensa Group, who are ground source heat pump technology specialists.
+• Our investment management business launched a climate transition index fund and a core fixed income range which provides a higher allocation to green bonds and issuers with higher environmental, social and governance (ESG) scores.
+• Our institutional retirement business provided long-term financing to HeatRHight air source heat pump technology.
+We continued to build on our three strategic pillars in response to climate change:
+Invest. 
+Influence. 
+Operate. 
+Introduction. 
+We aim to be leaders in four key areas: retirement, investment management, capital investment and insurance.
+We have a strong heritage in environmental, social and governance investing and increasingly see opportunities in making investment decisions informed by climate change.
+1. Earth System Science Data, Global Carbon Budget 2020: https://essd.copernicus.org/articles/12/3269/2020/ 2. United Nations Goal 13, Take urgent action to combat climate change and its impacts: https://sdgs.un.org/goals/goal13 3. The Paris Agreement is an agreement within the United Nations Framework Convention on Climate Change effective 4 November 2016. The Agreement aims to limit the increase in average global temperatures to well below 2°C above pre-industrial levels.
+4 Legal & General Group Plc TCFD Report 2020
+
+
+Summary disclosure against TCFD recommendations. 
+Governance. 
+The Board’s role in oversight • The Board is accountable for the long-term stewardship of the Group and added ‘addressing climate change’ as one of our six strategic growth drivers in early 2020. The Board has delegated oversight of the management of climate-related risks to the Group Environment Committee (GEC).
+Management’s role in assessing risks and opportunities • The GEC is chaired by the Group Chief Risk Officer and membership is comprised of senior executives. The GEC is responsible for providing strategic direction for the management of environmental impacts, with a particular focus on the Group’s management of the financial risks from climate change.
+Strategy. 
+Climate-related risks and opportunities • In the short to medium term, we view the journey to net zero as presenting an investment opportunity whilst staying aware of transition risk. The development of our Destination@Risk model will feed into investment decision making, including through identification of under-priced opportunities or over-priced legacy assets.
+• In the medium to long term we are exposed to physical risks through our investments and the impact on the wider economy resulting from uncontrolled climate change.
+Impact on our businesses, strategy and financial planning • Our predominant focus is on our assets’ transition risk as we consider this to have the greatest potential impact on our business. We also consider physical risks on both our assets and liabilities.
+• Our individual businesses have embedded climate into their strategies, including through portfolio decarbonisation, investment in clean energy, best practice technology and leadership in stewardship.
+Resilience based on scenarios, including a 2°C or lower scenario • Through our scenario analysis, including ‘Well below 2°C’ and ‘Business as usual’ scenarios, we believe that our transition strategy and the policies we have in place will support resilience.
+• Given that our exposure is largely through financial assets, many of which are listed, we have the flexibility to adapt by trading to the desired carbon position. We mainly hold investment grade bonds, so the price risk is substantially lower compared to investors with portfolios holding a larger exposure to equities. The balance sheet is well diversified across different sectors.
+Risk management. 
+Processes for identifying and assessing climate-related risks • Climate-related risks are broadly categorised as transition or physical risks. We identify transition risk impacts on asset valuation and the economy as a result of the low-carbon economy transition, and physical risks from the impacts on asset holdings or changes to (life and health) insurance liabilities as a result of more frequent and severe weather events and longer-term shifts in climate.
+Processes for managing climate-related risks • We integrate carbon controls into the investment process through: portfolio carbon intensity targets, climate stock exclusions, high carbon escalation, corporate engagement and implementing high energy efficiency standards into our directly owned commercial real estate and residential property businesses.
+How we integrate these risks into our overall risk management • Climate change impacts will emerge through risks that we are already exposed to, and the respective risk management policies set out our approaches to identifying and assessing these risks, including defining substantive financial or strategic impact.
+• The uncertain nature of the risks from climate change, and the lack of historical data to support decision making, has led to us developing a specific approach to managing the risks from climate change. This has been reflected through a longer-term time-horizon being applied in the assessment of the risks, and the use of scenario analysis that is not linked to a probability of outcome.
+Metrics and targets. 
+Internal metrics • To assess climate-related risks and opportunities, we focus on our Scope 3 investment portfolio carbon intensity, portfolio temperature alignment and operational carbon footprint.
+Greenhouse gas emissions • Our total operational emissions were 40,344 tonnes of carbon dioxide equivalent (tCO2e), 13% lower than 2019. This is comprised of Scope 1: 15,163 tCO2e, Scope 2 location: 20,319 tCO2e and Scope 3 (non-investment): 4,862 tCO2e. The reduction relates to reduced business travel and reductions in carbon emissions from the management of our Real Assets but includes our growing construction footprint and a slight increase in our operational office footprint. During 2020 over 90% of our electricity was from a renewable source.
+Targets • We have set a number of Group balance sheet carbon intensity targets to align to global efforts to limit warming to 1.5°C, including reducing our portfolio carbon emission intensity by half by 2030. 2020 metrics are all within previously specified targets.
+5. 
+Introduction. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Policy statements. 
+Active Next five years Next ten years. 
+Invest. 
+How we invest our £95.1 billion of proprietary assets • We have updated the set of exclusions for thermal coal1 and the LGIM Climate Impact Pledge stocks2 written into the Investment Management Agreements for all relevant asset classes.
+• We have implemented additional governance and control around the acquisition of high carbon investments. This includes controls to comply with PPCA³ guidelines that apply to the funding of new coal facilities.
+• Our retirement businesses, covering c.90% of our Group’s proprietary assets, have committed to reduce portfolio carbon emission intensity by 18.5% by 2025 as part of a wider ESG policy.
+• We have set Group balance sheet carbon intensity targets to monitor alignment with the ‘Paris’ objective and will reduce our portfolio carbon emission intensity by half by 2030 and targeting net zero by 2050.
+Influence. 
+How we influence as one of the world’s largest asset managers with £1.3 trillion of assets under management • We continue to develop investment solutions which seek to support the low-carbon transition and are constructing active and index portfolios with embedded climate objectives, which include defined decarbonisation targets and ‘Paris-Alignment’ objectives.
+• We have renewed and broadened our Climate Impact Pledge to spur net zero carbon emissions globally by 2050 through engagement with meaningful consequences, both through our voting activity and through our investment management business’s capital allocation.
+• We are a founding signatory of the Net Zero Asset Manager Initiative, committing to work in collaboration with clients to achieve target-based net zero goals by 2050 or sooner.
+• We will launch a climate solution capability for LGIM’s clients in 2021, quantifying climate risks within, and temperature alignment of, their assets.
+• As one of the UK’s most active real estate managers, LGIM Real Assets will establish Science Based Targets for our wider Scope 3 emissions during 2021 as part of our Real Estate Net Zero Roadmap.
+• LGIM Real Assets will reduce the operational carbon and energy intensity of our landlord-controlled areas (Scope 1 and 2 emissions) by 60% by 2030.
+Operate. 
+How our businesses operate • We have set climate-related targets in our Executive remuneration scorecard.
+• We will develop energy efficient commercial properties in our urban regeneration business and set Science Based Targets that are aligned with the ‘Paris’ objective by 2022.
+• As a large UK housebuilder, we will enable all new homes we build from 2030 to operate with net zero carbon emissions. In addition, we are seeking to understand and monitor the embodied carbon associated with the construction of our homes.
+• From 2030, our operational footprint (occupied offices and business travel) will operate with net zero carbon emissions.
+Climate risk policy statements. 
+We have strengthened our policies through inclusion of our commitment to the Science Based Target initiative (SBTi).
+1. 
+We will decarbonise the assets on our balance sheet to align with the ‘Paris’ objective, which we interpret as limiting warming to 1.5°C 2. 
+We advocate for urgent action to mitigate the climate emergency from both governments and the companies we are invested in 3. 
+We will use our influence as a large investor to promote a transition to a low-carbon economy 4. 
+We support the goal of carbon neutrality by 2050, in line with global efforts to limit warming to 1.5°C 5. 
+We have committed to the Science Based Target initiative (SBTi)
+Commitments to deliver our policies 1. These are stocks where thermal coal is more than 20% of revenues of mining companies and 30% of power generating utilities by revenue or power generation (as appropriate). For utility stocks where coal is between 20–30%, additional Group governance is required in advance of acquisition. 2. These are stocks that have fallen below the minimum thresholds LGIM applies on behalf of the Future World Range of Funds in the assessment of a wide range of climate risk mitigation policies. For more details on this methodology see https://www.lgim.com/uk/en/responsible-investing/climate-impact-pledge/ 3. Powering Past Coal Alliance (PPCA) is a coalition of countries, states and businesses working towards the global phase-out of unabated coal power: https://poweringpastcoal.org/ 6. 
+Introduction. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Our approach to TCFD. 
+The TCFD is an evolving reporting structure and remains a ‘best endeavours’ analysis. We have made progress in our understanding and quantification of climate risk but we are still at an early stage.
+We welcome the UK Government’s announcement to make TCFD aligned disclosures mandatory in the UK by 2025, with rules applicable for the largest firms by 2022.
+It is not yet clear where the financial sector will eventually align on metrics, calculation methodology, time frame and scenario definition.
+1. Owned assets vs managed assets 2. Informs investment strategy 3. 30-year risk horizon. 
+This is a Group TCFD report covering the £95.1 billion of assets that Legal & General owns to cover the liabilities of our retirement and insurance businesses. We have control over the investment strategy of these assets.
+It is important to distinguish that the majority of these assets are a subset of the £1.3 trillion of LGIM’s assets under management; we manage the remaining £1.2 trillion on behalf of external clients. We do not directly control assets under management, but we provide appropriate low-carbon products, engage with shareholders, provide ESG assessments for investee companies and vote on companies’ climate change resolutions.
+The focus of the TCFD Report is on reporting resilience to climate risk. This is clearly important and the analysis also informs our investment strategy. We believe there should be an equal emphasis on capital allocation plans, as well as risk resilience, to recognise the growth opportunities arising from tackling climate change. Ultimately, the successful positioning of Group assets to support ‘Paris’ both mitigates the associated transition risk and takes opportunities in the energy transition. This is what is important for our shareholders, customers and employees.
+The risk metrics we show in the Strategy section are forward looking and projected over 30 years. This is a much longer timeframe than the normal horizon for scenario analysis. There is a wide margin of uncertainty in these metrics given the uncertainty around the global energy transition, the associated warming path, weather outcomes, carbon prices and technological developments.
+4. Scenarios are not projections 5. Three climate pathways 6. Use of carbon dioxide removal technologies. 
+The scenarios presented in the Strategy section show potential portfolio impacts under a given scenario. They are not forecasts or predictions, nor are we saying they are equally likely.
+Our commitments assume that the ‘Paris’ objective, limiting global temperature increases to 1.5°C, is achieved. This is our desired outcome and the scenario impacts of higher warming outcomes represent the cost of failure to achieve ‘Paris’.
+In our scenario analysis (Strategy section) we present three possible climate pathways: • ‘Well below 2°C’¹: warming limited to well below 2°C by 2100.
+• ‘Business as usual (BAU)’: warming of 3.75°C; the likely outcome if we fail to act.
+• ‘Disorderly’: where action to limit warming to well below 2°C is delayed to 2030. To support alignment and comparability we have been transparent in the energy transition pathways we have assumed. In terms of warming outcomes our chosen scenarios approximately map to the well known reference scenarios IPCC RCP 2.6 and IEA SDS (aggressive mitigation) and between IPCC RCP 6 and RCP 8.5 (some mitigation).
+The ‘Paris’ objective is achievable but the door is closing; this is the decade where we must reduce emissions. As time passes and we collectively fall short of emission reductions, it will become increasingly difficult to make up the difference and delivery of ‘Paris’ gets less likely.
+Our model assumes that negative emissions to meet the carbon budget will be achieved through Carbon Capture and Storage (CCS), although we emphasise that this should not be a default option. We currently believe our assumption of negative global emissions of two gigatonnes Bio-energy with Carbon Capture and Storage (BECCS) and four gigatonnes CCS by the year 2050 is credible.
+Whilst reading our TCFD report, the following should be considered: 1. Defined as Paris scenario in our 2019 TCFD Report.
+7. 
+Introduction. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Board, GRC and ERC. 
+Climate Committees. 
+Other Committees that consider climate risk. 
+L&G Board. 
+Group Insurance Risk Committee. 
+Group Credit Risk Committee. 
+Investment and Market Risk Committee. 
+Climate risk subcommittee Environment subcommittee. 
+Climate risk working groups. 
+Executive Risk Committee. 
+Group Risk Committee. 
+Group Environment Committee (GEC)
+Group Asset and Liability Committee (GALCo) Group Capital Committee. 
+LGIM Corporate Governance team. 
+Governance. 
+Our governance around climate-related risks and opportunities. 
+Given the importance of climate-related risk and opportunities to us, we have defined a clear governance framework to oversee how we assess, manage and control these exposures within the Group’s risk appetite.
+Group Environment Governance. 
+Board oversight The Board is ultimately accountable for the long-term stewardship of the Group. Responding to climate change and the risks associated with it are of importance to the Board.
+In early 2020 the Group added ‘addressing climate change’ as one of our six strategic growth drivers, emphasising the importance of climate risk and the opportunities arising from the necessary energy transition.
+Throughout the year, the Group CEO Report, divisional CEO Reports and Chief Risk Officer (CRO) Report to the Group Board detailed the challenge of climate change and the new opportunities presented by it, including continued focus on investing in clean energy technologies that support zero-carbon homes and climate-committed cities.
+Nigel Wilson, Group CEO, has spearheaded the Group’s engagement on a range of climate change and environmental initiatives. Nigel is actively engaged and takes responsibility for the Group’s strategic direction and progress on this important topic.
+The Group Chief Financial Officer (CFO), who is also a Board member, is responsible for how market risks connected to our investments (including risks arising from climate change) are identified, considered and managed.
+The CRO is responsible for ensuring that an appropriate strategy is in place to understand, identify, measure, monitor, control and report risks from climate change in line with the risk strategy and risk appetite parameters set by the Group Board. The CRO also supports business managers in the development of appropriate processes to monitor and report exposures to the risks from climate change.
+The Group Board, through the Group Risk Committee (GRC) and Executive Risk Committee (ERC), has delegated oversight of the management of the risks associated with climate change to the Group Environment Committee (GEC).
+8 Legal & General Group Plc TCFD Report 2020
+
+
+Our governance and climate-related risks and opportunities continued. 
+Group Environment Committee The GEC is chaired by the Group CRO and includes the Group CFO, Group HR Director, Group Corporate Affairs Director, LGRI CEO, LGIM Chief Investment Officer (CIO), and LGIM’s Investment Stewardship team. The senior membership demonstrates the importance we place on our response to climate risk and enables us to ensure that there is a single forum to provide oversight and encourage debate on this topic.
+The Group CRO has responsibility for climate risk identification and management for the Group. The role of the Group HR Director and the Group Corporate Affairs Director is to ensure that the management of climate risk is consistent with the broader Group Corporate and Social Responsibility policy.
+To ensure a consistent Group-wide approach and to support how we are implementing our ambitious strategy, the GEC has clearly defined relationships with other Group oversight committees. These interactions are designed to ensure that the management of the financial risks from climate change is integrated across the Group’s governance system and embedded into the existing risk management framework. The Committee also interacts regularly with Group ALCo, our committee responsible for managing all market risks on the Group balance sheet, to enable a joined up approach.
+Group Environment Committee’s role The GEC is responsible for providing strategic direction for the management of environmental impact, with a particular focus on the Group’s management of the financial risks from climate change. This includes: • Setting the Group strategy for managing environmental impact with a focus on climate, including setting targets, monitoring and reporting on performance.
+• Providing central oversight of the Group’s management of climate impact to ensure that climate change informs strategic planning and decision-making across all Group activities (including investments).
+• Overseeing the management practices that ensure these exposures are controlled in line with the Group’s Risk Appetite and environment strategy.
+• Promoting internal awareness and understanding of climate-related threats and opportunities.
+• Ensuring that the Group’s actions and responses to climate are proportionate; and • Considering both the transition and physical risks associated with climate change and their impact on listed and direct investment assets, equities and bonds, assets and liabilities, in both the short and long term.
+The GEC is supported by subcommittees to review and challenge performance against tolerances and targets, one for climate risk and one for other environmental aspects.
+GEC Key decisions and discussions. 
+Metrics and targets • Focus on the direct reduction of our carbon footprint and taking clear steps to measure and reduce the direct carbon footprint.
+• Approval of the approach to setting the 2021 Group Balance Sheet Carbon Footprint targets. • Approval of the commitment to the Science Based Targets initiative.
+Assessing our exposure • Approval of the climate scenarios to be used to model the impacts on the balance sheet, and the results of the analysis (see Strategy section).
+Risk appetites • Evaluating the complexities inherent in long-term investments while supporting the energy transition, in particular through further development of our tolerances for direct investments in the energy sector.
+Setting our strategy • Approval of our retirement business’s decarbonisation strategy, setting the target of reducing carbon intensity of the balance sheet by 18.5% by 2025.
+• Driving the green agenda as part of the Group’s role of supporting the recovery from Covid-19. • Approval of sustainable sourcing principles, which seeks to embed carbon net zero criteria across our supply chain.
+Oversight • Assessment of the approach and progress in responding to the risks of climate change and the delivery of policy commitments within the Group’s TCFD.
+We have designed our governance model so that climate is a key factor in our decision making.”
+Simon Gadd Chief Risk Officer. 
+Sustainability Report Our sustainability report will be published later in 2021. For details see: www.legalandgeneralgroup.com/csr/
+It is further supported by working groups to focus on specific additional regulatory requirements on the management of climate-related financial risks.
+9. 
+Governance. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Strategy. 
+The actual and potential impacts of climate-related risks and opportunities on our business strategy and financial planning.
+Addressing climate change is the next step in delivering on inclusive capitalism. It is one of our six long-term growth drivers and it is embedded in how we run our business.
+We use our long-term assets to generate positive outcomes for shareholders, customers, wider society and the environment.
+Our response to climate change is built on three strategic pillars:
+Invest. 
+How we invest our assets: we believe that the key source of climate risk to our business is through the shareholder-owned assets.
+Influence. 
+Using our scale to influence, support transition to a low-carbon economy and reduce the risk of potential adverse physical outcomes.
+Operate. 
+How our businesses operate: through reducing the carbon footprint of both the assets that we create and our direct carbon footprint, we can support our long-term resilience.
+There is a broad set of climate risks and opportunities across our balance sheet; we focus on our assets’ transition risk as we consider this to have the greatest potential impact on our business.
+To provide us with a better understanding of the risks which climate change poses to our business, we have developed a bespoke model, Destination@Risk, with Baringa Partners, which will shape our strategic response.
+We believe that our transition strategy and the policies we have in place to mitigate climate risk will support our resilience.
+In this Strategy section, we: • Identify climate-related risks and opportunities. • Define the climate strategies for our Group and for our individual businesses.
+• Explain the Destination@Risk model framework.
+• Show the outputs of our scenario analysis. • Describe the resilience of our strategy.
+Our purpose is to improve the lives of our customers, build a better society for the long term and create value for our shareholders.
+Economic, social and climate benefits can go hand-in-hand if the power of finance is deployed effectively.”
+Nigel Wilson Group CEO 10 Legal & General Group Plc TCFD Report 2020
+
+
+Transition risk is the key near-term source of risk, and opportunity, for our business although physical risks are still relevant, in particular to our Real Assets business.
+Short to medium term In the short to medium term, we view the journey to net zero as an investment opportunity whilst managing our transition risk. The development of our Destination@ Risk model will feed into investment decision making, whether spotting under-priced opportunities or over-priced legacy assets.
+Transition risk Impacts on asset valuation and the economy that arise from the process of adjustment towards a low-carbon economy. For example, climate-related policies could lead to increased costs or credit risks from costs of compliance.
+Medium to long term The catastrophic long-term physical risks resulting from uncontrolled climate change on our business, our investments and the wider economy provide us with incentive to promote the transition to a net zero world. Over the long term, we are all exposed to physical risk.
+Physical risk Impacts on asset holdings or changes to insurance liabilities as a result of more frequent and severe weather events and longer-term shifts in climate. For example, increasing frequency, severity or volatility of extreme weather events could lead to falls in asset values and increases in credit risk.
+Climate-related risks and opportunities. 
+Focus on assets We believe that the key source of climate risk to our business is through the assets on our balance sheet, a portion of which supports our payments to retirement and insurance customers and a portion of which (Shareholder Funds) covers the Regulatory Solvency Capital Requirement (SCR) and surplus.
+We are also exposed to liability impacts, in particular changes in mortality outcomes, in our retirement and insurance businesses. Our early assessment is that the impact of temperature changes depends on time horizon but is likely to be relatively small and uncertain as to their direction out to 2050. We describe our initial thinking on liability climate risk in the Risk management section.
+Focus on transition risk We also focus on transition risk because successful delivery of ‘Paris’ implies a fundamental change in the global economy over the next 10 years. We think this is the key near-term issue and source of risk for our business, specifically our investment portfolio. However, physical risks are still important; see further detail in the Risk management section.
+Electric vehicles In February 2020, we increased our stake in Pod Point, one of the UK’s largest electric vehicle charge point operators, from 13% to 22%. By investing our capital in clean energy assets, businesses and technologies, we can accelerate the progress to a low-cost, low-carbon economy. Our capital has enabled Pod Point to make substantial progress and execute its growth strategy over the last 12 months.
+11. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Climate strategy for our individual businesses. 
+Ground source heat pump technology We are sourcing, building and managing new clean energy assets to create attractive returns over the medium to long term. In 2020 we acquired a 36% stake in a ground source heat pump technology firm, The Kensa Group. The investment in ground source technology will support our commitment to enable all new homes we build from 2030 to operate with net zero carbon emissions.
+The table below summarises our individual business’s climate strategies and strategic focus.
+Business Focus Climate strategy. 
+Retirement (institutional and retail) • Decarbonise the portfolio, covering c.90% of our Group’s proprietary assets, to align with ‘Paris’.
+Capital investment • Create energy efficient homes and seek to reduce the associated embodied carbon.
+• Continue to invest in clean energy. To date, we have invested in: – Ground source heat pump technology: through our 36% stake in The Kensa Group.
+– Electric vehicles: we increased our stake in Pod Point to 23%, forming a joint venture with EDF.
+– Onshore and offshore wind: through our fund manager, NTR.
+– Solar: £57.5 million investment in Oxford Photovoltaics (PV), developing high-efficiency solar photovoltaic products which can produce substantially more power than a typical silicon module of the same size.
+– Nuclear fusion technology: Tokamak Energy aims to bring fusion energy to the market by 2030.
+Insurance • Develop technology to retrofit existing and new build housing in the UK to reduce emissions.
+Investment management • As a large investor, we influence companies and regulators to step up on sustainability.
+• Work in partnership with our clients to set decarbonisation goals for portfolios.
+• Develop investment solutions which seek to support the low-carbon transition using outputs from our Destination@Risk framework.
+#1 Global rating. 
+For LGIM’s approach to climate change in 2020 (ShareAction).
+12. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Climate strategy for our individual businesses continued. 
+We consider our main exposure to climate risk is through our £95.1 billion of proprietary assets1.
+Legal & General Retirement (LGR) LGR holds c90% of the Group’s investment portfolio, the vast majority of which (£80.4 billion) relate to listed and unlisted bond investments (see Table 1).
+• Listed bond investments are generally split between government and corporate bonds, split across multiple sectors.
+• Direct investments include Infrastructure Loans (£11.9 billion), the Lifetime Mortgage business (£6.0 billion) and Commercial Real Estate Loans (£3.4 billion).
+• While Sterling bonds make up most of LGR’s assets, a US Dollar portfolio covers both a portion of the UK annuity products and annuities sold in the USA.
+• Property assets in this business (£4.3 billion) are Commercial Properties.
+Legal & General Capital (LGC) • The associated financial investments of specialist commercial real estate and Small and Medium Enterprise Finance are included alongside listed investments Table 1.
+• Residential property investments are through the funding of the Housing Operating businesses (including CALA) and are reflected in the ‘Other assets’ line Table 1.
+Legal & General Insurance (LGI) Insurance assets are generally held to cover the business sold in the US and are mostly US-denominated bond investments, see Table 1.
+Legal & General Investment Management (LGIM) LGIM manage £1.3 trillion of client assets. Whilst we are agent to these funds rather than principal, we strongly support the decarbonisation of these investments.
+Table 1. Total Group investments Group assets (Dec 2020) Analysed by investment class:
+LGR investments 2020 £m. 
+LGI investments 2020 £m. 
+LGC investments 2020 £m. 
+Other shareholder investments 2020 £m. 
+Total 2020 £m. 
+Total 2019 £m. 
+Equities2 68 27 2,943 286 3,324 3,131. 
+Bonds 80,438 2,434 2,343 287 85,502 75,471. 
+Derivative assets3 20,868 – 68 – 20,936 11,556. 
+Property 4,319 – 163 – 4,482 3,957. 
+Cash, cash equivalents and loans 5,192 450 1,822 354 7,818 3,959. 
+Financial investments 110,885 2,911 7,339 927 122,062 98,074. 
+Other assets4 88 – 1,708 – 1,796 1,548. 
+Total investments 110,973 2,911 9,047 927 123,858 99,622. 
+Proprietary assets¹ 84,913 2,461 7,157 573 95,104 84,107. 
+We believe that climate change has not yet been fully priced in by the market. The insight from our understanding of the risks enables us to optimise how we manage our portfolio.”
+Jeff Davies Chief Financial Officer 1. We define proprietary assets as total investments to which shareholders are directly exposed, minus derivative assets and cash, cash equivalents and loans from Table 1. 2. Equity investments include a total of £288 million (31 December 2019: £324 million) in respect of associates and joint ventures. 3. Derivative assets are shown gross of derivative liabilities of £21.2 billion (31 December 2019: £11.5 billion). Exposures arise from use of derivatives for efficient portfolio management, especially the use of interest rate swaps, inflation swaps, credit default swaps and foreign exchange forward contracts for assets and liability management. 4. Other assets include the consolidated net asset value of the Group’s investments in CALA Homes and other housing businesses.
+13. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Our bespoke Destination@Risk framework. 
+Risk type. 
+Objective is to understand:
+To do this we flex variables such as:
+Output allows us to model:
+Impact on our investments:
+Destination@Risk is our bespoke framework, developed in partnership with Baringa, for understanding the 30-year transition and physical risk financial impacts.
+We use the framework to test the impact of different energy transition pathways on individual countries, sectors and assets to ultimately understand the potential financial impacts on our investments.
+The inputs to the framework are analysed through a series of models and the outputs provide us with a detailed understanding of the impacts of climate-related risks, enabling us to develop our strategy as to how we:
+Invest. 
+Influence. 
+Operate. 
+Destination@Risk framework. 
+Sector impact, followed by impact on the companies we invest in by modelling: • Simplified P&L • Balance sheet • Cash flow. 
+Financial impact on our: • Bond values • Equity values. 
+To determine full portfolio impact under different pathways. 
+Transition. 
+How might the energy system transition? • Cost of carbon • Oil price • Electricity price. 
+To understand the impact on various sectors.
+Physical. 
+What are the physical risks due to climate change and extreme weather events? • Weather events. 
+Within the following pages we address each element of the Destination@Risk framework. The table below summarises each element, as well as the high level outputs.
+Element Summary Outputs of the process. 
+Transition Our bespoke model analysing how the energy system is likely to evolve over the next 30 years. The dataset is built using: Change in energy mix projected to 2050. See Chart 3 > 100 Different public and proprietary sources > 2 million Variables and assumptions. 
+Physical An analysis that maps corporate facilities and commercial property locations at a granular level to forward-looking weather outcomes. Model disruption costs due to the impact of climate change and extreme weather events on companies.
+See Risk management. 
+Impact on sectors and companies. 
+Using the output of the transition and physical models, model impact on each sector. We then translate sector level outputs into company level impacts.
+10 years Utilise up to 10 years of reported carbon emissions (for each stock)
+Sector exposure by carbon intensity, and asset type, as well as portfolio temperature alignment.
+See Charts 4 to 6. 
+Impact on our investments. 
+We then aggregate the transition and physical impacts at the company level and model the impact on the financial assets we hold. While the risk models are consistently applied, we emphasise that given the uncertainties and assumptions used, we should treat the numbers as being indicative.
+Reduction in portfolio value due to transition and physical risks under different pathways.
+See Charts 7 to 10, and Tables 2 and 3 14. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Our bespoke Destination@Risk framework continued. 
+We currently model three energy pathways.
+Pathways Outcomes. 
+Business as usual (BAU) World fails to act to make the necessary changes to address climate change. +3.5°C or greater. 
+Well below 2°C¹ World takes early, definitive, joined-up policy and investment actions. Company and consumers align their behaviour with a carbon neutral economy. <+ 2°C limit. 
+Disorderly Collective action to achieve the outcomes of ‘Well below 2°C’ is delayed to 2030.
+Modelling climate risk LGIM Destination model: global energy pathways In 2018, LGIM entered into a strategic partnership with Baringa Partners to develop a bespoke model, Destination. The model is dynamic, flexible and can be used to analyse scenarios which show how the global energy system is likely to evolve over the next 30 years and what the implications are for investors. We have built a dataset using over 100 different public and proprietary sources and over two million variables and assumptions.
+We have used Destination to model three global energy pathways: 1. Business as usual (BAU): the warming outcome is expected to be 3.75°C, which is the likely outcome if we fail to act to make the necessary changes to address climate change.
+This is a technologically optimistic view of the world, with many green and low-carbon technologies becoming cheaper than legacy choices over time but there is no aggressive coordinated international response. The bulk of scientific and economic research has confirmed that the consequences of this are significantly negative, potentially catastrophic.
+2. Well below 2°C: the energy system we will have in a world where we take early, definitive, joined-up policy and investment actions to move onto a ‘Well below 2°C’ scenario by the end of the century.
+Companies and consumers gradually align their behaviour with a carbon neutral economy. Financial markets price in the transition in an orderly fashion and take advantage of the opportunities the transition provides. Whilst there are significant structural changes and winners and losers, the economic impacts are manageable. Our policy commitment is to support the delivery of this outcome.
+3. Disorderly: the impact of a 10-year delay in taking joined-up policy and investment actions.
+Chart 1.
+80 70 60 50 40 30 20 10 0
+1990 2000 2010 2020 2030 2040 2050. 
+Global greenhouse gas emissions ● Historic ● BAU ● Well below 2°C ● Disorderly. 
+GtCO2e-eq/year. 
+Source: Destination@Risk and LGIM analysis. 
+Chart 2.
+2015 2020 2025 2030 2035 2040 2045 2050. 
+Global carbon price ● Today’s world ● Future world ● Disorderly $/tCO2 1000 800 600 400 200 0. 
+Source: Destination@Risk and LGIM analysis. 
+In Charts 1 and 2 we show key features under our three pathways scenarios up to 2050. Chart 1 shows projected change in global greenhouse gas emissions and Chart 2 shows the implied change in global carbon price.
+In terms of warming outcomes our chosen scenarios can be mapped to well-known reference scenarios IPCC RCP 2.6 and IEA SDS (aggressive mitigation) and between IPCC RCP 6 and RCP 8.5 (some mitigation) that are likely to be used in many TCFD reports which will help comparability and alignment over time.
+1. Defined as Paris scenario in our 2019 TCFD Report.
+15. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Chart 3.
+● Oil ● Coal ● Gas ● Nuclear ● Hydro ● Renewables ● Biomass. 
+Historic BAU Well below 2°C Disorderly 2020 2030 2040 2050 2020 2030 2040 2050 2020 2030 2040 2050 1950 1960 1970 1980 1990 2000 2010 2015. 
+Destination global primary energy mix (%)
+Source: Destination@Risk and LGIM analysis. 
+Changes in global energy mix The modelled transition for the three scenarios is shown in Chart 3 Destination global primary energy mix. The bars on the left, 1950–2015, show the historic energy mix, and the bars on the right represent our ‘BAU’, ‘Well below 2°C’ and ‘Disorderly’ scenarios.
+The contrast between our ‘Well below 2°C’ and ‘BAU’ scenarios is stark, with dramatic macro economic consequences. In our ‘Well below 2°C’ transition the energy mix changes very rapidly. Disruption is widespread; both coal and oil lose roughly 50% of their share of the mix in only 35 years, with much of that disruption occurring in the middle years of the forecast period rather than the later years.
+Similarly the electricity system is rapidly decarbonised. Around three-quarters of all electricity is generated from low-carbon sources by 2050. In our ‘BAU’ scenario, we forecast an energy mix that remains remarkably stable. In particular, coal, oil and gas all hold onto roughly constant shares. Nuclear should see modest growth, mostly in Asian markets. Renewables grow modestly in the ‘BAU’ scenario but rapidly in the ‘Well below 2°C’ scenario. Solar becomes especially valuable to the system, as costs continue to decline throughout the forecasting period.
+Our bespoke Destination@Risk framework continued. 
+The ‘Well below 2°C’ energy system changes at somewhere between two and three times the pace of ‘normal’ historic change. It is significantly more capital intensive than our ‘BAU’ scenario; our analysis estimates that an additional cumulative capital investment of about $26 trillion is needed by 2050. This change is likely to have both positive and negative implications for investors.
+The challenges brought by the scale and speed of the transformation under the ‘Well below 2°C’ scenario, now and over the next 30 years, are significant. We introduced the ‘Disorderly’ scenario to understand more about the risks if we do not take early joined-up policy and investment actions and to explore what would need to happen if action was delayed for another 10 years.
+If we continue along our ‘BAU’ scenario for the next 10 years, green and low-carbon technologies are not developed fast enough to support the desired temperature outcome. After the initial delay, emissions reductions need to be significantly sharper than in the ‘Well below 2°C’ scenario. This delay roughly doubles the system costs needed to make these changes compared to our ‘Well below 2°C’ scenario, reinforcing the need for urgent joined-up action. As an example of the business implications, in our ‘BAU’ scenario around 50% of all cars driven globally remain powered by petrol or diesel in 2050. In contrast in our ‘Well below 2°C’ scenario, around 90% of the fleet is electric.
+Key assumptions 1. Almost all transition scenarios use Carbon Capture and Storage (CCS) to some extent. One form of CCS is Bio Energy with Carbon Capture and Storage (BECCS) which aims to capture CO2 from the atmosphere using ‘natural’ processes (planting trees) and capturing that CO2 when it is burnt to produce energy.
+In our ‘Well below 2°C’ scenario we have assumed offsetting negative global emissions of 2 gigatonnes BECCS (biofuels and hydrogen) and 4 gigatonnes CCS (industry and power generation) by 2050. We believe this is in the mid-range of academic and industry scenarios sized to reflect constraints on land usage.
+Under our ‘Disorderly’ scenario this increases to 3 gigatonnes BECCS (biofuels and hydrogen) and 9 gigatonnes CCS (industry and power generation) by 2050, which we believe is a plausible maximum.
+2. In our ‘Well below 2°C’ scenario we have assumed a rate of improvement in nonenergy emissions derived from research from the International Energy Agency (IEA).
+16. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Our bespoke Destination@Risk framework continued. 
+The Destination@Risk model: Financial impacts on our portfolio Our approach to asset risk modelling brings the Destination global energy model (above) together with a physical risk model, company impacts model (including earnings, capital expenditure and balance sheet effects) and a model that helps us calibrate financial impacts. Collectively this is our framework for understanding 30-year transition and physical risk financial impacts for our chosen scenarios, which we refer to as our Destination@Risk model, developed in partnership with Baringa. Our start point is to use the energy model Destination to define the chosen transition pathway for the modelled scenarios as explained above. That pathway, and the associated carbon price, drives a number of macro and sector/ regional outputs (prices and quantities) that impact company earnings in the high carbon sectors. They will face new costs in proportion to the emissions generated by their operations and power usage. Suppliers will also face cost increases which will lead to higher input costs and customer prices will rise to offset these pressures. Demand adjusts given the elasticity assumptions we have made. We have applied a granular bottom up approach to our earnings analysis of stocks in the Energy and Power Generation sectors.
+For physical risk we use an analysis that maps corporate facilities and commercial property locations at a granular level to forward-looking weather outcomes in terms of a change in frequency (hazard heat maps). We use annual business interruption as a proxy for disruption costs to model the impact on companies. For real assets such as commercial property we consider this as a reduction in yield connected to an increase in insurance costs. We then aggregate the transition and physical risk impacts at the company level and model the impact on the financial assets we hold. Given the uncertainties, we have taken a simple approach: changes in earnings flow proportionately straight through to equity price, whereas for bonds a <1 sensitivity is applied to reflect the credit rating and lower risk nature of the asset class.
+We assume that the nominal size and composition of the balance sheet does not change but the companies we hold in the Energy and Power Generation sectors do adapt and reposition over the scenario period.
+For sovereigns, in the ‘Well below 2°C’ scenario, aggregate corporate sector impacts are combined with sector contribution to GDP to give an implied change in GDP and an associated Debt:GDP ratio. In the ‘BAU’ scenario, an academic economic model that relates productivity changes to changes in average temperatures is used to compute implied changes in GDP and Debt:GDP ratios.
+Our modelling approach has developed over 2020, with improved granularity of modelling impacts at the company level of the Energy and Power Generation sectors, development of the sovereign bond capabilities and improved scope of the assets that can be modelled.
+As in last year’s report, we have modelled financial impacts of the ‘BAU’ and ‘Well below 2°C’ scenarios. The impacts under the ‘Disorderly’ scenario are under development. Whilst these risk models are consistently applied in the scenario analysis, it is worth emphasising that given the modelling uncertainties and the assumption of a static balance sheet, we should treat the numbers as being indicative.
+Our modelling of climate scenario impacts will continue to evolve as we build in more companyspecific information, mitigating actions taken, forward-looking product and market characteristics and evaluation of the financial impacts from our ‘Disorderly’ scenario.
+Financial impacts from climate scenarios Exposure to transition risk Group proprietary assets: £93 billion1. 
+The charts to the right show December 2020 Group asset exposures based on sector asset values and sector carbon intensity. Sectors are defined and mapped using the Global Industry Classification Standard (GICS).
+Chart 4 shows that weighted by value roughly 43% of the portfolio is exposed to the highest carbon sectors, Energy, Utilities, Real Estate, Industrials (including Transport) and Materials. In addition, c.14% is allocated to Government holdings.
+When weighted by carbon intensity (Chart 5) we can see that transition risk is highly concentrated in the same sectors (64%, with an additional 23% from Government holdings).
+Chart 6 shows a breakdown by asset type and shows that bonds comprise 84% of the portfolio analysed. This is an important factor when we show financial risk impacts in our ‘BAU’ and ‘Well below 2°C’ scenarios.
+Chart 4.
+Utilities. 
+Energy. 
+Materials. 
+Industrials. 
+Property (Real Estate)
+Government. 
+Other. 
+GICS sector by valuation %
+Chart 5.
+Utilities. 
+Energy. 
+Materials. 
+Industrials. 
+Property (Real Estate)
+Government. 
+Other. 
+GICS sector by CO2e intensity %
+Chart 6.
+Equity. 
+Bond. 
+Property. 
+Other. 
+Asset type by valuation % 1. This relates to the investments within the c.£95 billion of Group proprietary assets qualifying as Scope 3 – Investment emissions.
+The emissions for the additional c.£2 billion of operating assets (our housing businesses) are captured in the Operational Footprint (on page 34).
+17. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Results Given our view that climate risk is not fully discounted in asset pricing, we expect some impact on prices as the risk is realised over time. A reduction in value can be expected on the most at-risk stocks and sectors (indicated by high carbon intensity or a high risk location).
+Equity impacts Chart 7 gives a good sense of the financial risk connected to a ‘Well below 2°C’ warming outcome. It shows for our diversified equity exposure the approximate average sector combined transition and physical risk price impact within the pathway, discounted to 2030¹. We emphasise that this is only the impact on equity, the highest risk broad asset class. Full Group portfolio impacts are shown in Table 2.
+The key observation is that equity price risk strongly maps to the highest carbon sectors we identified in the Charts 4 to 6 above. The large impact on the energy sector is magnified due to weakened balance sheets over 2020. Applying the scenario analysis to the depressed company balance sheets identifies these as more exposed to the projected impacts of transition risks.
+These results show broad sector impacts, but within the utility sector for example there are clear winners and losers over different time periods. Looking at the distribution within utilities in the ‘Well below 2°C’ scenario out to 2050, the price range indicates that some companies do not survive whilst a number nearly double in price.
+Group portfolio impacts c.£35 billion of listed bonds and equity Table 2 shows the discounted pathway impacts at 2030 and 2050 for our ‘BAU’ and ‘Well below 2°C’ scenarios, through the estimated percentage reduction in portfolio value split by transition and physical impacts. We assume that the balance sheet mix of assets does not change.
+c.£35 billion (37%) of the c.£95 billion of proprietary assets is modelled in the portfolio impacts. This analysis focuses on line by line modelling of corporate issuers and government bonds (excludes cash, commercial property, and number of non-corporate instruments), with portfolio impacts weighted in line with our bond to equity holding ratio.
+Scenario analysis 1. Note this is a change in projection approach to the 2019 report. We now report a smoothed discounted trajectory approach to projected impacts. This change in approach has been adopted to cater for more volatile year-on-year impacts, resulting from updates to the model through the year. The discounted trajectory approach produces a smoother trajectory and higher transition risk impacts in the earlier years than the year-on-year build-up.
+Chart 7.
+0%
+Financials. 
+Health Care. 
+Consumer Staples. 
+Communication Services. 
+Information Technology. 
+Industrials. 
+Consumer Discretionary. 
+Real Estate. 
+Materials. 
+Utilities. 
+Energy -10% -20% -30% -40% -50% -60% -70% 2050 Market capitalisation impacts discounted to 2030. 
+Source: Destination@Risk and LGIM analysis. 
+Table 3. Equity only impacts. 
+BAU Well below 2°c 2030 2050 2030 2050. 
+Physical -0.5% -1.7% -0.4% -0.5%
+Transition – – -5.6% -8.0%
+Total -0.5% -1.7% -5.9% -8.5%
+As a comparison, Table 3 shows the impact on the equity only portfolio under the same assumptions. The difference highlights the risk reducing impact of our high bond allocations. The key observation is that the total portfolio impacts are much lower than the equity only impacts.
+Table 2. Total portfolio impacts. 
+BAU Well below 2°c 2030 2050 2030 2050. 
+Physical -0.7% -1.0% -0.1% -0.2%
+Transition – – -1.4% -3.1%
+Total -0.7% -1.0% -1.5% -3.3%
+Note, in addition to the listed equity, bond and sovereign models, we have also used the Destination@Risk model to gain insight into impacts on our lifetime mortgage, real estate and private credit portfolios with more detail provided on these asset class exposures given in the Risk management section below.
+18. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Group portfolio scenario impacts through time In Charts 8 and 9 we show the evolving shape of discounted portfolio impacts to 2050 split by transition risk and physical risk in both the ‘Well below 2°C’ and ‘BAU’ scenarios.
+The impacts at the start of the trajectory are significant due to the update in projection approach in this year’s report (as described above). We now report a smoothed, discounted trajectory approach to projected impacts. This discounted trajectory approach calls out the potential transition and physical risk premiums which is not yet priced in the market but implied by our two scenarios with modelled financial impacts.
+Well below 2°C We can see that, in the ‘Well below 2°C’ scenario, the transition risk dominates the physical risk contribution, and the physical risk impact looks relatively low in comparison. This outcome is plausible and is in line with our expectations.
+BAU In the ‘BAU’ scenario the impacts are exclusively physical and there is a larger discounted impact at the start of the trajectory (in comparison to the physical risk in the ‘Well below 2°C’ scenario above), resulting from the larger projected physical risk impacts in the ‘BAU’ scenario.
+In comparison to the transition risk in the ‘Well below 2°C’ scenario, however, the physical risk impact still looks relatively low. One issue is timeframe: the worst effects of warming under ‘BAU’ scenario are more apparent in 2050–2100 which is outside the model framework. To provide an indication of this longer-term trajectory for physical risk, Chart 10 shows a projection of the change in free cash flow for equity market holdings until the end of the century, which highlights the increasing impacts beyond 2050.
+In addition, for corporate bond and equity holdings, we only analyse the first order impact of physical risks on the real assets of the corporates. We do not assess the full financial impacts on the economy from physical risks, which should also include the human impacts including disease, forced migration due to water and food shortages and disruption to corporate supply chains. While the inclusion of sovereigns in the model this year starts to capture this macro impact, the impacts are likely to be much higher than shown, though difficult to model.
+Scenario analysis continued. 
+Chart 8.
+Physical risk Transition risk 0.0% -3.5% -3.0% -2.5% -1.0% -1.5% -2.0% -0.5% 2020 2025 2030 2035 2040 2045 2050. 
+Well below 2°C discounted physical and transition impacts on our portfolio value. 
+Source: Destination@Risk and LGIM analysis. 
+Chart 9.
+Physical risk. 
+Source: Destination@Risk and LGIM analysis 2020 2025 2030 2045 2035 2040 2050 0.0% -3.5% -3.0% -2.5% -1.0% -1.5% -2.0% -0.5%
+BAU discounted physical impacts on our portfolio value. 
+Chart 10.
+BAU Well below 2ºC 0.0% -5.0% -4.0% -6.0% -7.0% -8.0% -9.0% -3.0% -2.0% -1.0% 2020 2030 2060 2090 2070 2080 2040 2050 2100. 
+Change in free cash flow (portfolio average)
+Source: Destination@Risk and LGIM analysis 19. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Scenario risk analysis: strategic resilience The nature of our business means we have identified three broad mitigations to our transition risk exposure: 1. Given that our exposure is largely through financial assets, many of which are listed, we have significant flexibility to adapt by trading to the desired carbon position. This is the expected outcome in the event that our process of active engagement fails. This gives us more adaptive flexibility than a business that may need to make large changes to its business model and correspondingly restructure its operations and facilities.
+2. Given that we hold mainly investment grade bonds, the price risk is substantially lower compared to investors with portfolios holding a larger exposures to equities. The extent of this is clearly seen in the difference between the Group portfolio impacts and the equity only impacts (Tables 2 and 3 above).
+3. The balance sheet is well diversified across different sectors of the economy. Our initial assessment of our portfolio temperature alignment indicates that we do not have an overweight allocation to the highest carbon intensity names within the market sectors.
+We will also be taking part in the Bank of England Biennial Exploratory Scenario on climate change, expected to take place over 2021. This exercise will test the resilience of the current business models of the largest banks, insurers and the financial system to climate-related risks and therefore the scale of adjustment that will need to be undertaken in coming decades for the system to remain resilient1.
+Strategic resilience. 
+Energy Saver Cashback We are addressing climate change proactively through our new offer of cashback to lifetime mortgage customers who are making home energy efficiency improvements.
+1. https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper 20. 
+Strategy. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Risk management. 
+Our exposure falls into two broad categories: • Physical risks from the impacts on asset holdings or changes to our insurance liabilities as a result of more frequent and severe weather events and longer-term shifts in climate; and • Transition risks from the move to a low-carbon economy, in particular how this impacts on asset valuation and the economy. This can be through changes in consumer sentiment, market adjustments, litigation or regulation.
+The two risks are linked. Continued emissions will increase physical risks, and limiting the physical impacts from climate change will require substantial emission reductions increasing transition risks.
+We are planning our businesses on the basis that climate change is successfully constrained while managing the risk that it is not. Our risk management framework seeks to reinforce the parameters of acceptable risk-taking, allowing business managers to make decisions that are consistent with our risk appetite. This enables us to embed climate change considerations in the business decision making process.
+In this section we describe the most material considerations across the different areas of our business, including: • Processes for identifying and assessing climate-related risks; and • Processes for managing climate-related risks.
+This shows how climate change risks are integrated into our overall risk management.
+Identifying climate risks The risks from climate change will emerge through our current risk exposures and the respective risk management policies set out our approaches to identifying and assessing these risks.
+The uncertain nature of the risks from climate change, and the lack of historical data to support decision making, is reflected through incorporating the longer-term time-horizon in the assessment of the risks and the use of climate-related scenario analysis that is not linked to a probability of outcome.
+We have carried out a detailed assessment of how we could expect climate risk to emerge across our business model. We describe what we see are the relevant considerations on the different areas below: • Climate change may impact on credit risk both through movements in credit spreads and through credit rating transitions as a result of changes in actual or anticipated default rates.
+• Climate change may impact on equity, property and private credit risk. This may be through asset values being exposed to a, potentially sudden, re-pricing to reflect transition risks to a low or carbon neutral economy, or as a result of more frequent and severe weather events and longer-term shifts in climate impacting on asset values. Both of these may be through actual experience or a change in anticipated future experience. Climate change may also present enhanced asset returns, for example increased equity valuation for a firm enabling transition to a low-carbon economy.
+• While we would not expect climate change to pose significant risk to our short-term counterparty exposures, we do have a number of long-term reinsurance arrangements. Reinsurance counterparties would be expected to have a similar exposure to the risks posed by climate change as outlined above, and further exposed to the physical risk from climate change due to their property and casualty business. This could change our assessment of the counterparty risk.
+Assessing climate risks We seek to limit loss from the risks from climate change and deploy a range of risk management strategies to mitigate unforeseen loss.
+However, we cannot completely eliminate the risks associated with climate change through asset allocation, which is why we have focused on developing our governance, our understanding of the risk and the environmental impact of our business decisions.
+The processes we use to identify, assess and manage climate-related risks. 
+We have carried out a detailed assessment of how climate risk may impact our business model.
+Assessing the risks of climate change is an increasingly important part of how we manage our business.”
+Simon Gadd Chief Risk Officer 21 Legal & General Group Plc TCFD Report 2020
+
+
+Managing transition risks In the Strategy section, we highlighted our focus on climate risk in connection with our investment assets and the required energy transition. Our mitigation strategy integrates carbon controls into the investment process, through the following key control processes: • Portfolio carbon intensity targets. • Climate stock exclusions. • High carbon escalation. • Corporate engagement. • Implementing high energy efficiency standards into our directly owned commercial property and housing businesses.
+Opportunities from clean energy infrastructure and technology investments also form part of this risk management strategy. See Strategy section for further detail on how we support investments in these areas.
+Portfolio carbon intensity targets We measure the contribution of our investments to global CO2e emissions and have set reduction targets to align with the ‘Paris’ objective. We calculate portfolio carbon emission intensities at both the Group level and the key business areas. This year we have set a commitment to reduce our Group balance sheet portfolio carbon emission intensity by half by 2030, starting with a target reduction of 2% in 2021. In addition, our retirement (institutional and retail) businesses have committed to reduce their portfolio’s carbon emission intensity by 18.5% by 2025.
+These targets are overseen and monitored by the Group Environment Committee and there is further detail on our progress against them in the Carbon metrics and targets section.
+Climate risk Investment Management Agreement exclusions Within the wider set of environmental, social and governance (ESG)-related exclusions, we have climate-specific exclusions embedded into our Investment Management Agreements (IMAs) with our investment management business (LGIM). These exclusions focus on two key areas of transition risk: coal activity and Climate Impact Pledge exclusions.
+Coal activity Building on our existing exclusions, this year we have tightened our exclusion list in relation to businesses with coal activities in our retirement business’s portfolio, in the UK, Europe and North America.
+The exclusion list now includes stocks where thermal coal is: • More than 20% of revenues of mining companies; and • More than 30% of power generating utilities by revenue or power generation (as appropriate).
+• For utility stocks where coal is between 20–30% of the issuer’s activity, additional Group governance is required in advance of acquisition (see high carbon escalation section).
+This distinction allows us to apply company specific analysis and to recognise that the sector has to make significant changes to how it operates today. Our approach allows us to engage with companies that are supporting the clean energy transition and are committed to phase out their use of coal.
+Climate Impact Pledge exclusions Stocks excluded by LGIM from the Future World product range, as called out under the updated Climate Impact Pledge, also continue to be excluded in our business IMAs.
+If companies do not meet the minimum standards we have set out, engagement may translate into firm-wide voting sanctions and divestment consequences for LGIM funds adopting the Climate Impact Pledge exclusions.
+These exclusions are also applied to the Group’s directly held assets managed by LGIM. The companies in the current published exclusion list are excluded in our IMAs, helping to drive change in the market by supporting LGIM’s engagement with the use of the Group’s own balance sheet capital. This list is reviewed annually and the IMAs are updated for any changes. The rule we apply to an excluded stock is ‘do not buy’. If after 12 months’ engagement we still have concerns about the company’s strategy, the relevant business and the asset manager will agree a course of action.
+More detail on the Climate Impact Pledge is given in the engagement section below.
+High carbon escalation As part of delivering our carbon reduction commitments, we have established a process to escalate through further governance all proposed individual stock investments where the carbon intensity (emissions and/or reserves) is greater than a top quartile threshold across a number of relevant sectors. This gives us an early warning system and a degree of control over the accumulation of carbon risk through time.
+In addition, proposed utility stocks where coal is between 20 and 30% of the issuer’s activity will now also undergo escalation. Results of the escalation process are overseen by the Group Environment Committee. The escalation process has had a real impact. In 2020, multiple proposed transactions were declined based on our assessment of the transition and physical risks underlying the transactions.
+Managing transition risks. 
+Employee engagement We engage with our employees on climate change through company-wide training, information on our intranet and the Climate Change Virtual Accelerator. Nearly 100 of our employees collaborated to identify and develop viable climate-friendly business solutions. From almost 60 ideas put forward, we tested the potential of 10 projects, ranging from new net zero investment concepts to retrofitting residential housing stock. The programme demonstrates the level of engagement and enthusiasm from all levels within our business.
+22. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Engagement Alongside close monitoring of the political and regulatory landscape, an important part of our strategy is to engage with regulators and investee companies in support of climate action. This benefits our own stakeholders, the wider market and society. This is actively pursued by LGIM on the Group’s behalf, with climate change being the number one topic for engagement for the investment stewardship team in 2020.
+Climate Impact Pledge Through our dedicated engagement programme, the Climate Impact Pledge, we are committed to help companies to step up on their ambition towards net zero, build resilient strategies for this transformative transition period and succeed in the low-carbon world.
+We use qualitative and quantitative measures to assess companies’ progress. We will publicly celebrate the successes we see in our companies, but also take voting and investment sanctions against companies falling behind. Our engagement has consequences.
+Climate ratings for c.1,000 companies are publicly available under a ‘traffic light’ system. Companies were selected from 15 climatecritical sectors (from aviation to steel-making) and are responsible for 60% of all greenhouse gas emissions from listed companies.
+This targeted approach – using voting and investment sanctions to motivate companies to step up on sustainability – has contributed to companies making improvements to their climate targets and strategies. Several companies, including Subaru, were excluded from our Future World funds for poor climate performance but have since made sufficient progress to be reinstated.
+We have sent letters detailing our assessment to several hundred companies identified as having poor scores relative to their size. Through voting, we will sanction companies that persistently fall short of our minimum standards at the 2021 annual general meeting season. The stringency of our standards and sanctions will increase over time, with the possibility of divestment from select funds for persistent offenders.
+Alongside this quantitatively driven engagement programme, we have also selected 60 companies for in-depth engagement, in which sector experts from across LGIM’s investment teams will also participate. These companies are influential in their sectors, but not yet leaders on sustainability; we believe they can and should embrace the transition to net zero carbon emissions in the next few years.
+If companies do not meet the minimum standards we have set out, engagement may translate into firm-wide voting sanctions and divestment consequences for LGIM funds adopting the Climate Impact Pledge exclusions – including our Group’s IMAs.
+Global Research and Engagement Groups During 2020, work has continued on the Global Research and Engagement Groups established in 2019 by LGIM’s Chief Investment Officer, Sonja Laud, which brings together sector expertise to identify the challenges and opportunities which will determine the resilience of sectors and the companies within them.
+Sector specialists from the investments and stewardship teams have established regular working groups to assess the evolving materiality of climate and other ESG factors across different sectors, from energy to consumer goods; climate change will remain an area of focus throughout 2021.
+Managing transition risks continued. 
+I am hugely proud of the progress we have made with the Global Research and Engagement Groups in challenging our investment decisions through the lens of ESG, whilst also embarking on meaningful dialogue with our clients on how to achieve climate goals through Destination@Risk.”
+Sonja Laud LGIM Chief Investment Officer. 
+In 2020 LGIM was selected as a member of the PRI Leaders’ Group on climate.
+Investment solutions Part of our risk management strategy is to develop investment solutions which support the low-carbon transition. Using Destination@Risk, we are deepening the integration of climate and environmental factors into our investments and in December 2020, we launched a Core Fixed Income Exchange Traded Fund range which provides a higher allocation to green bonds and issuers with the highest ESG scores, while retaining a similar risk/return profile to traditional indices.
+23. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Climate collaborations To maximise our influence, we work alongside other large investors and specialist advisory groups focused on raising governance and sustainability standards across the market. Nigel Wilson, Group Chief Executive, chairs the Bank of England’s Climate Risk Forum, Innovation Working Group.
+We are a member of the Aldersgate Group – an alliance of leaders from business, politics and civil society that drives action for a sustainable economy and engages with policymakers in the EU and the UK. Aldersgate Group was one of the key actors which advocated the adoption of net zero legislation in the UK in 2019 and subsequent policy measures.
+LGIM is a long-standing member of the Institutional Investor Group on Climate Change and a member of Climate Action 100+ (CA100+), an initiative engaging with some of the world’s largest companies on their management of climate-related risks. As part of the work with CA100+, LGIM co-led engagements with oil major BP which led to the company adopting net zero emissions targets. LGIM has also worked on sustainable finance as an active member of the United Nations Principles for Responsible Investment, FAIRR¹, and with organisations such as the Investment Association and Council of Institutional Investors.
+We engage with regulators and policy-makers globally on the issue, including the UK Department for Work and Pensions, Financial Conduct Authority and the Prudential Regulation Authority, the US Securities and Exchange Commission, and the European Commission.
+LGIM’s CEO, Michelle Scrimgeour, co-chairs the Business Leaders Group alongside The Secretary of State for Business at the international COP26 climate negotiations, due to be held in Glasgow in 2021, in an effort to increase momentum for climate action in the private sector. LGIM’s Head of Sustainability and Responsible Investment, Meryam Omi, is also on secondment as a COP26 ‘high-level champion’ for climate finance.
+LGIM Real Assets is an active member and signatory to the Better Building Partnership (BPP) Climate Change Commitment in achieving net zero carbon by 2050. The BBP is a coalition of some of the largest commercial real estate managers in the UK.
+Support for mainstream low-carbon funds and client education Our Group continued its strong support for the LGIM Future World Fund Range in 2020, with £476 million of our own capital invested in the fund range as at year end. We are committed to investing in low-carbon strategies and demonstrating strong engagement on ESG themes. By investing our own funds alongside external capital we bring stronger alignment of interest, and more power and authority to LGIM’s engagement process.
+Client and market education on the topic of climate change plays an essential role in the acceleration of low-carbon investments. Throughout 2020 we have continued to publish thought pieces, podcasts and blogs on climate-related topics, such as land use and deforestation, the managed decline of the oil industry, the growth of renewables, green gilts, fossil fuel divestment and the integration of climate and other ESG considerations in emerging market debt².
+Investing in renewable infrastructure green technology Part of building portfolio resilience is to invest in low-carbon assets and technologies that support a speedy transition. We would expect to see a positive return on these assets if a ‘Paris’ consistent economy is achieved which will mitigate the transition and physical risks that arise elsewhere in the portfolio.
+Through our engagement programme renewed to align with the net zero challenge, we want to help steer companies and our clients towards success in a low-carbon world.”
+Michelle Scrimgeour CEO of LGIM and member of UK Government’s COP26 Business Leaders. 
+LGIM’s Active Ownership report For more case studies of company and policy engagements on climate, please see LGIM’s Active Ownership report: www.lgim.com/uk/en/capabilities/ investment-stewardship/
+Managing transition risks continued 1. An investor initiative addressing ESG issues focused on the risks associated with livestock farming. 2. https://www.lgimblog.com/categories/esg-and-long-term-themes/ 24. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Residential property Transition risks impacting our housing businesses are varied, from policy and market changes, to customer preference and the development of new technology. We continue to seek an understanding of these risks and how we can best respond and build resilience into our future strategy. In 2020 we developed a framework to measure the embodied carbon within our housing construction activities which we are rolling out in 2021.
+We are also aware that customers’ views and expectations of how homes perform are likely to change over time, with expectations that they will perform much better than current standards and policies require. To meet this challenge we set a target to ensure that all homes built from 2030 will be capable of operating with net zero operational emissions and over 2020 each of our businesses developed their roadmaps to deliver these.
+We are also planning for future policy changes in our current building practices: • We are designing our first net zero carbon (regulated energy) retirement village in Caddington, utilising ground source heat pumps from Kensa, one of our portfolio investment companies.
+• In Affordable Homes, 75% of homes are expected to be Energy Performance Certificate (EPC) A, and we are exploring if a proportion can be net zero carbon.
+• CALA has built a new development in Linlithgow where all homes have green technology to achieve A rated energy performance and we have started our modular homes development in Selby in which all homes are on track to achieve an EPC A rating.
+Lifetime mortgages Our assets include c.£6.0 billion of lifetime mortgages (LTMs) held within our retirement asset portfolio. LTMs are a form of equity release mortgage that provide borrowers over the age of 55 a loan secured against their main residence, without the need for regular repayments. All LTMs provide a ‘no negative equity’ guarantee, where the loan value is never greater than the property’s net sale proceeds. Our valuation of lifetime mortgages is linked to the underlying residential properties, and in turn their exposure to physical climate risks.
+During 2019 we started work to ensure we maintain an updated view of emerging physical risks associated with flooding. An assessment of flood risk is included as part of the initial underwriting assessment. This enables the flood risk to each property to be categorised and zoned. An increasing body of published scientific research indicates that climate change is linked to an increased risk of flooding in the UK¹, along with rising costs to deal with the damage caused. This is driving the need for increased scrutiny of flood risk through regular review.
+Over 2020 we have expanded our work with Baringa Partners and climate risk specialists XDI to assess the physical risk exposure in our lifetime mortgage portfolio. We have used these models to assess a representative sample of our lifetime mortgage portfolio’s exposure to different climate hazards. This analysis can be scaled to estimate the total portfolio impact of up to c.0.8% reduction in asset value if there is no mitigating or abatement of climate impacts.
+Our properties are well diversified over the UK and our analysis has shown that the potential impacts from physical risk are heavily skewed towards a small subset of properties (less than 5% of the total portfolio), which are largely in coastal areas or known flood risk areas. This proportion is expected to reduce over time due to enhanced new business underwriting controls.
+Real Assets The built environment contributes around 40% of the UK’s total carbon footprint. Almost half of this is from energy used in buildings and infrastructure. Transition risks have therefore been identified as a key and immediate risk to our Real Assets portfolio, and we continue to scale up and implement programmes and practices to mitigate this.
+Real estate equity LGIM Real Assets is responsible for £21.2 billion assets under management of UK real estate investment. LGIM Real Assets also manage direct investments in specialist commercial real estate on behalf of our capital investment business which creates assets for the Group and third-party clients. Our capital investment business invests their own capital to generate attractive returns and support the transition to a low-carbon economy.
+As part of the Group’s commitment to mitigate climate change and to promote a transition to a low-carbon economy, we have been aligning our business with a low-carbon future for many years, putting sustainability at the heart of our investment strategy.
+In 2019, LGIM Real Assets pledged to achieve net zero carbon for our real estate equity platform by 2050 (or sooner), an essential step in anticipating policy responses to the climate crisis and future proofing our assets.
+Managing transition risks continued. 
+Net zero carbon delivery strategy overview In 2020 LGIM Real Assets released a roadmap to achieving our net zero goals with our delivery strategy outlining processes and interventions at all stages of the property life cycle.
+Source: LGIM Real Assets Net Zero Carbon Roadmap: www.legalandgeneral.com/ institutional/real-assets/capabilities/ responsible_investing/ 1. https://www.metoffice.gov.uk/weather/climate-change/climate-change-in-the-uk. 
+Key interventions points Asset lifecycle Progress to date. 
+Construction. 
+End of life. 
+Operational. 
+New development. 
+New development. 
+Acquisition. 
+Refurbishment. 
+Lease event. 
+Void period • New developments and refurbishment – briefs and guidance.
+• Acquisitions – new net zero carbon due diligence audits.
+• Net zero roadmap audits – pilots on new and existing assets and development of new net zero roadmap audits to assess transition path and initial cost.
+• Delivering actions & solutions – working with our supply chain on new asset sustainability plans estimates.
+• Performance analysis and reporting – new integrated data platform, improving data quality and reporting at asset and fund level.
+• Strengthening our occupier engagement strategy. • Climate-related risk and resilience – a new methodology to assess the physical risk profile of climate change scenarios at asset level.
+25. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Real Assets continued During 2020 LGIM Real Assets established science based targets which equate to a 60% carbon and energy intensity reduction in the Scope 1 and 2 emissions associated with our properties and will drive carbon reductions over the next 10 years.
+Acquisitions • We have introduced net zero carbon audits for all new acquisitions. We specify best practice standards in terms of sustainability and have a robust due diligence process to ensure the assets we purchase have high sustainability credentials.
+• Energy Performance Certificates are obtained for all properties where they are required. Our standard lease has included sustainability clauses since 2011.
+Standing assets • All assets have an Asset Sustainability Plan which is part of an integrated reporting platform, allowing us to have full transparency and accountability.
+• An annual operational plan has been put in place for offices, with an annual ESG plan for each asset which will feed into fund-level targets for reductions in energy, water consumption and waste.
+• We are strengthening our occupier engagement strategy, including the development of an occupier engagement handbook to support asset managers.
+• Sustainability related key performance indicators continue to be included in employees’ performance appraisal targets and property management contracts.
+• 100% of electricity for our managed properties continues to be purchased from certified ‘natural’ Renewable Electricity Generation, meaning only wind, solar or hydro sources are used. The electricity is certified under the Ofgem administered Renewable Energy Guarantees of Origin scheme.
+• During 2020 we carried out a range of pilot net zero carbon audits to help us better understand the practical considerations and the costs of transitioning existing assets to net zero.
+• 100% of service charge properties have IS0 14001 accreditation, an Environmental Management System which looks at managing any environmental risks at a site level.
+Private credit Our £12 billion private credit portfolio covers corporate and alternative debt, infrastructure and real estate debt. We have integrated our net zero commitments into investment decision-making through energy transition alignment criteria, which assess how aligned an asset is with our climate change objectives. Proposed investments are assessed against these criteria in the due diligence process and are further scrutinised in the multilayer investment committee. Alignment criteria include: carbon constraints, enhanced due diligence for fossil-fuel related investments, negative screening criteria (exclusions) and control and review frameworks.
+Private credit investments are assigned carbon constraints consistent with wider Group targets and take into account carbon intensity, size and duration of potential investments. Constraints are formulated to optimise portfolio allocation, balancing credit metrics, returns and longerterm energy transition risk. They are projected using short, mid and long-term decarbonisation targets and progress against these is reviewed regularly, with constraints adjusted as necessary.
+Our alignment criteria emphasise enhanced due diligence for fossil-fuel related investments. We have invested more than £1 billion in clean energy projects, including solar and wind farms, geothermal plants, smart networks and energy storage assets.
+Due to the nature and size of the Group’s annuity portfolio, we maintain some exposure to fossil-fuel related assets in the private credit portfolio. This is mainly through investments in the utilities and energy sectors, where many companies own both legacy fossil fuel and renewable energy assets. Some exposure is also through project finance structures, which finance specific energy assets or portfolios.
+When considering investments with fossil fuel exposure, we apply enhanced due diligence criteria concerning the company’s carbon intensity and decarbonisation strategy, in addition to credit quality, pricing, liquidity and other investment criteria. The robustness of this strategy is reviewed through analysis of, among others: capital expenditure budgets, market conditions surrounding future investments and management commitment to energy transition alignment. This leverages knowledge across our business, from sector and ESG specialists, to credit and portfolio management teams.
+We have also introduced hard limits on some carbon-intensive investments, derived from our views on potential stranding of certain energy assets. Given the pace of decarbonisation in different regions, proposed investments are assessed against region-specific qualitative and quantitative asset stranding criteria. Any investments deemed to be at a high risk within our investment horizon will generally be rejected at the due diligence stage.
+Portfolio performance against carbon and other alignment targets is monitored and reviewed regularly within the governance framework. We manage adverse performance of individual investments through a variety of actions, including introducing more stringent carbon constraints, engagements with issuers and, in certain cases, divestment.
+Managing transition and physical risks. 
+New developments and major refurbishments At a recently completed major office development at 245 Hammersmith Road in London, we carried out our first detailed embodied carbon study. Through this work we reduced embodied carbon by 10.4% resulting in embodied carbon levels of just over 800 kgCO2/m². This study will be used to help us develop our approach to reducing embodied carbon in future developments.
+26. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Physical climate risk is expected to pose an increasing risk to our Real Asset portfolio. As such, we have continued to work this year with Baringa Partners and climate risk specialists XDI to develop a bespoke approach to assess emerging physical risk across LGIM Real Assets. We hold an extensive and diverse portfolio across a wide range of sectors, which includes both single-site assets and large sites spanning multiple postcodes. Our updated approach therefore uses Unique Property Reference Numbers (UPRNs)¹ to ensure that risks to any individual buildings within larger multi-building sites are captured more accurately and at a comparable granularity to single-site locations.
+In this approach, overall risk is calculated by first assessing the exposure of each asset to eight different climate hazards². This is then moderated according to asset characteristics. The overall risk at each site is expressed as an Annual Exceedance Probability (AEP): the probability of that hazard exceeding a predetermined threshold in any given year, expressed as a percentage. The AEPs can then be combined to provide an overall level of risk at the asset level, or aggregated at a sectoral, regional or fund level. We are currently working on translating the AEPs into a VaR to better understand the financial implications of these risks.
+Of the eight hazards reviewed, the analysis demonstrated that although other risks will become more significant moving forwards, flood risk poses the biggest threat to our portfolio, both now and into the future. We have also worked with XDI to further develop our flood risk assessment approach, improving the accuracy of our baseline data and incorporating forward-looking data into our analysis.
+An assessment of current flood risk is already included in the standard due diligence process of all Real Asset property acquisitions. This enables the flood risk of each asset to be categorised and zoned. Our policy is to reject properties in high risk zones (Zone 3), unless a specific review confirms no risk to structure or operation and that flood defences will be constructed and maintained. Properties in medium risk zones (Zone 2) are investigated in detail for resilience.
+Developments in 2020 This year, we have worked to improve the locational accuracy of our baseline data using our UPRN analysis, which better represents the flood risk at a sub-asset level. This zoning is based upon riverine and surface flood risk. Costal inundation has also been assessed and we are currently in the process of identifying the resilience of coastal defences for the small number of assets potentially at risk, which will be incorporated in future iterations of this analysis.
+Building on our existing flood zoning approach, we have also now incorporated an assessment of future precipitation change. This is used to determine the impact on riverine and surface flooding, which is then used to project future changes in flood zone distribution. This approach maintains the language familiar to our stakeholders, whilst also communicating the impact that climate change is projected to have on future flood risk.
+Chart 11.
+● Zone 0 ● Zone 1 ● Zone 2 ● Zone 3 90% 70% 80% 60% 0% 10% 20% 30% 40% 50% 1990 2020 2100 2050 2080 % of assets by Flood Zone 1990–2100. 
+This analysis has shown that, moving forwards, a number of assets that are currently considered a lower risk Zone 1 may move into the higher risk Zones 2 and 3 (Chart 11). For Real Assets as a whole, it also indicates that the total number of assets in Zone 3 is expected to double between the baseline and 2100 as a result of climate change.
+Real Assets: next steps We will look to perform an in-depth asset level assessment for assets which are identified as a high risk now, and those which may move into a higher zone in the near-future. This information will then be built into asset-level adaptation planning and will also be used to inform acquisition and disposal strategy. We will also put in place an annual flood risk review to identify any changes in flood risk profiles.
+1. Unique Property Reference Numbers (UPRNs) are unique identifiers for every addressable location in the UK. 2. Climate hazards used in the assessment are: riverine flood, surface water flood, coastal inundation, heat, forest fire, wind damage, soil movement and freeze-thaw.
+Managing physical risks. 
+Change in percentage of assets located in each flood zone between 1990 and 2100. Zone 0 indicates a very low flood risk, Zone 1 low, Zone 2 medium and Zone 3 a high flood risk.
+27. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Our initial modelling work has concentrated on the link between temperature and mortality as this is an area with good availability of historical data and significant academic study. We have applied this model to scenarios for the United Kingdom (UK) and the United States (US) that are similar to those chosen for the assets. These scenarios were obtained from the Met Office in the UK and Lawrence Livermore National Laboratory in the US.
+The link between temperature and mortality Extreme cold and extreme heat both increase mortality rates, particularly amongst the very frail. Currently, weather in the UK largely falls within a zone that is relatively simple to adapt to – we do not have many extreme weather events. However, in the UK and internationally, more deaths are attributed to extreme cold than extreme heat. Therefore, in isolation, an increase in average temperatures of a couple of °C in the UK would on balance be beneficial for mortality rates.
+The same applies to the US, where the range of experienced temperatures is wider and therefore we might also expect a level of adaptation that limits any adverse impact on mortality. However, both of our main climate change scenarios (a ‘strong mitigation’ outcome of around 2°C warming by 2080–2100 as well as a more pessimistic 4°C assumption) will lead to more changes than just an increase in the average temperature. It is expected that the distribution of temperatures, not just the average, will change.
+This change in the distribution of temperature is expected to lead to prolonged heatwaves, but also a higher volatility in weather patterns. Therefore the overall temperature effect, in isolation of other environmental changes, is a balancing act between: • Reduced winter deaths from a higher average temperature.
+• Increased summer deaths caused by higher temperature and prolonged heatwaves; and • Increased deaths caused by more extreme winters as a result of higher temperature volatility.
+The overall impact of these competing effects is sensitive to the assumptions we make in our modelling. It is possible to produce different sets of plausible assumptions that lead to opposite conclusions in relation to the longevity impact. However, this modelling does not explicitly take account of a wide range of other factors such as: • Higher average temperatures impacting air pollution levels.
+• Higher average temperatures allowing vector borne diseases to thrive in a broader range of latitudes; and • Society adapting to the changing environment with different levels of success depending on socio-economic class or age. These adaptations may include improved diet, more fitness and lower reliance on transport, hence mitigating the impact of air pollution and lowering mortality.
+When holistically considering these factors, which are not modelled, alongside the direct temperature relationship with mortality rates, we believe the overall effect is likely to be lower improvements in mortality rates compared to our current best estimate assumptions for the US, but a slightly higher improvement in mortality rates for the UK.
+Longevity risk 28. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Uncertainty in our work The relationship between climate and mortality is inherently difficult to model, as there are many moving variables that interact with each other. It is not possible to accurately know how society will respond to climate change: for example, it is feasible that a rapid adoption of new technology could counteract the health impacts of prolonged heatwaves or deeper cold snaps in the winter. Societal changes such as a reduction in the amount of meat consumed or an increase in zero emission cars could lead to health benefits.
+Whether the change is driven by government action or by independent societal changes could affect whether our adaptation is even across society or whether, for example, longevity differences by socio-economic class become exaggerated.
+In addition to temperature, we considered air pollution as an external factor in our model. However, we found a number of practical difficulties incorporating this, the most significant of which include: • There are many different pollutants in the atmosphere (including sulphur dioxide, nitrogen dioxide, ozone and particulate matter) occurring in different concentrations depending on place and time. In particular, the variation by geography (such as urban or rural landscapes) means that much more granular data would be required than for temperature alone.
+• Climate forecasts do not include projections of air pollution. We would need to build a separate model to incorporate this, before estimating the combined future effect of both temperature and pollution on mortality; and • Studies have indicated that there is a high correlation between temperature and air pollution (especially in cities)¹, which makes it much harder to isolate the impact that pollution has in its own right.
+As a result of these difficulties, we decided not to proceed with treating air pollution as an explicit factor in this version of the model. However, should the availability of air pollution data and forecasts change in a way that makes this viable in future modelling, we would see value in attempting to incorporate pollution as a second direct factor.
+Other territories We modelled the UK and the US separately. Our work had previously focused on the UK, where our largest longevity liabilities are held. We have since modelled the effect of climate change on longevity for the US. We have also written annuity business in Canada, Ireland and the Netherlands. Despite the lower exposures, we would expect our conclusions to be broadly similar across these territories, although the balance of heat-related and cold-related deaths would be likely to vary at different latitudes.
+Other factors will also vary between territories, such as the government and societal response, driving the speed with which different groups in society adapt to the changing environment. There are also environmental factors, such as the prevalence of certain diseases that need a specific set of climate-related conditions to thrive.
+Future work We began by building a pragmatic model that captures the key interaction between temperature and mortality rates for the UK and the US. This is just one facet of how climate change could affect mortality rates. The relationship between climate change and longevity risk is one of competing factors, some that serve to increase life expectancy dampened by other factors that increase mortality rates. These factors relate not just to the physical environment, but also relate to our response and adaptability to that changing environment. For this reason, it is difficult to project the impact of climate change on our longevity risk.
+The aim of future iterations of our climatelongevity modelling will be to capture additional impacts of climate change (over and above the direct temperature effects we have focused on to date) whilst recognising the uncertainty in how many of these elements will play out in different scenarios. Inevitably we will need to be pragmatic, but we will refine our approach based on what we consider to be plausible scenarios.
+Longevity risk continued 1. Temperature and air pollution relationship during heatwaves in Birmingham, UK by Kalisa et al: https://eprints.lancs.ac.uk/id/eprint/127503/1/Pure_ID_244951877_ Temperature_and_air_pollution_relationship_during_heatwaves_in_Birmingham_UK.pdf 29. 
+Risk management. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Carbon metrics and targets. 
+The metrics and targets used to assess and manage relevant climate-related risks and opportunities.
+1. Following the EU Technical Expert Group (TEG) September 2019 guidance, this is defined as ‘the sum of the market capitalisation of common stock at fiscal year end, the market capitalisation of preferred equity at fiscal year-end, and the book values of total debt and minorities’ interests minus the cash and cash equivalents held by the enterprise’ (p.41).
+2. While the TEG issued further guidance in December 2019 (see p.11 in link below) promoting the use of Enterprise Value Including Cash (EVIC), the EV (excluding cash) approach has been maintained for the 2020 TCFD Report, to support consistency with the 2019 TCFD Report, with a review of approach to follow in 2021. See www.ec.europa.eu/info/sites/info/files/ business_economy_euro/banking_and_finance/documents/192020-sustainable-finance-teg-benchmarks-handbook_en_0.pdf. 
+To assess climate-related risks and opportunities, we focus on the following metrics, covering the investment and operational pillars of our climate strategy: • Our Scope 3 investment portfolio carbon intensity.
+• Portfolio temperature alignment; and • Operational carbon footprint.
+We disclose our Scope 1, Scope 2 and Scope 3 greenhouse gas (GHG) emissions. The risks associated with GHG emissions are discussed in the Strategy and Risk management sections.
+Scope 1: all direct GHG emissions Scope 2: indirect GHG emissions from consumption of purchased electricity, heat or steam Scope 3: other indirect emissions not covered in Scope 2 that occur in the value chain of the reporting company, including both upstream and downstream emissions.
+Our targets support our commitment to align with the Paris Agreement, as specified in the Commitments section. Further detail on the investment portfolio targets are below.
+Methodology for calculating carbon footprint Carbon dioxide is the most significant contributor to anthropogenic global GHG emissions (which also consist of methane, nitrous oxide and fluorinated gases). To measure the equivalent warming impact of GHG emissions, corporate GHG emissions are measured as tonnes of carbon dioxide equivalent (CO2e).
+In the analysis below we distinguish between Scope 1 and 2 emissions which relate to our own operational footprint, and the much larger estimated footprint of Scope 3 emissions, which includes the carbon emissions from the companies that we invest in. We use the Scope 1 and 2 emissions from companies in our investment portfolio to calculate our total Scope 3 portfolio emission intensity.
+Scope 3 Investment Portfolio carbon intensity: Methodology The simplest carbon measure is total carbon emissions (Scope 1 and 2) expressed in tonnes of CO2e but this is an absolute figure and is not normalised for the size of the company or investor. It reflects the portfolio or company size rather than genuinely measuring carbon intensity and it does not allow for comparisons across companies, portfolios or against a benchmark.
+To address this, our preferred metric is tonnes of CO2e/£1m investment, using Enterprise Value¹,² as the individual stock divisor, which can be applied to the company, sector or portfolio level for comparative purposes. It attributes the carbon emissions of the issuer to the investor based on its ownership, normalised for the size of the investment and the company market size. We also include revenues as a divisor as a further point of comparison.
+In summary, to measure our Scope 3 footprint we: 1. Normalise individual stock emission data. We have chosen to show three sets of figures that reflect the different normalisation approaches, with the following divisors: • End 2020 Enterprise Value. • Start 2020 Enterprise Value. • End 2020 Revenues.
+Note: for government bonds, which are included in each data set, we use GDP as the divisor.
+2. Weight the individual stock intensities by the stock investment size in the relevant portfolio to give a portfolio carbon emission intensity footprint.
+Portfolio carbon intensity. 
+Stock carbon emissions. 
+Stock divisor (Enterprise Value, Revenue or GDP) Total portfolio size. 
+Portfolio carbon emission intensity footprint (CO2e)
+L&G stock investment size 30 Legal & General Group Plc TCFD Report 2020
+
+
+We have applied the emission data equally to equity and bond assets as they are used by corporates to raise capital and fund the operations and assets of the business. To determine total portfolio emissions, we multiply the preferred metric by the portfolio size (in £ million).
+In any one period, the metric is impacted by: • Changes in reported emissions from the companies we invest in.
+• Changes in the divisor; and • Investment activity.
+While changes in reported emissions and investment activity are key to decarbonising portfolios, changes in the divisor can create inadvertent volatility in the carbon intensity metric. Showing a figure with the divisor fixed at the start of the year as well as a figure with the end of year divisor, allows us to isolate the impact of market volatility on our portfolio carbon intensity metric through the year from the other impacts.
+Market volatility in 2020 was especially pronounced due to the impacts of Covid-19, with the associated impacts shown on the next page.
+Changes in reported emissions will also be affected by Covid-19 from the resultant impact on economic activity, although the related impacts will likely filter through reporting over the next few years due to reported lags in the underlying emission data.
+The key carbon data sources and methodology for different asset classes are explained below: 1. CIBSE Technical Memorandum 46 (TM46): Energy Benchmarks 2008. 2. http://www.betterbuildingspartnership.co.uk/node/129. 
+Carbon metrics and targets continued. 
+Equity, corporate bonds & private credit. 
+Our key input is the TruCost carbon dataset that covers c.15,000 companies. Where there is no TruCost coverage we have applied: 1. A suitable stock proxy in the TruCost database 2. Manual research from company filings (large private credit holdings) 3. A TruCost sector average (smaller holdings).
+Real Assets The carbon analysis of our property portfolio is based on a number of sources. Where we are responsible for the utility procurement, operation and management of our properties, through our managing agents, we obtain energy and environmental data directly from site utility meters or from utility suppliers.
+Where we do not manage our properties, our occupiers provide utility data or we use benchmark data based upon property type and floor area. We use the following benchmark data sources: 1. Global Real Estate Sustainability Benchmarking (GRESB) occupier data collection. As part of our occupier liaison processes, we currently receive operational data from approximately 30% of our occupiers. This data is an indication of the emissions within our property portfolio. 2. Industry standard benchmarks: Chartered Institute of Building Services Engineers (CIBSE) and Better Buildings Partnership’s Real Estate Environmental Benchmarks (REEB). Energy (and carbon) benchmarks for various types of property have been published in the UK for over 20 years, originating from the government funded Energy Efficiency Best Practice programme (EEBPP). The most recent update to these benchmarks was undertaken by CIBSE in 2008¹. 3. In addition, the Better Buildings Partnership, a voluntary group comprising 34 of the major commercial property owners in the UK, has established more recent benchmarks for particular types of commercial buildings, predominantly offices and shopping centres. REEB 2019 office benchmark was used for this analysis².
+By using a combination of these benchmarks, we establish an estimate of the carbon emissions associated with our direct property investments and also identify which property sectors are on average most intensive in terms of carbon emissions.
+For commercial property, our operational footprint (Scope 1 and 2) includes assets that are owned and managed in connection with our businesses. This includes all assets we occupy where we procure energy but also includes assets owned and managed by us, i.e. where we procure energy on behalf of external occupiers. The Group Scope 3 calculation additionally brings in the emissions associated with occupier energy use.
+Lifetime mortgages (LTM)
+Conceptually our approach to LTM is based on an analysis of the lending by purpose and we then map each purpose to an asset category with a known carbon footprint. For example, we assume a portion of the lending is allocated to travel and within that, air travel. We therefore ascribe the carbon intensity connected to the air industry to that portion of outstanding loans.
+Government bonds For government and quasi government bonds we apply the total outstanding debt we own to total country emissions intensity sourced from EDGAR – the Emissions Database for Global Atmospheric Research – European Commission. The intensity measure is based on country GDP.
+Other assets We have assumed that no emissions apply to the cash and derivative exposures.
+31. 
+Carbon metrics and targets. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Carbon metrics and targets continued. 
+Scope 3 Investment Portfolio carbon intensity: Results. 
+Portfolio carbon intensity metrics Table 4 shows that on a like for like basis at December (Dec) 2020, the carbon emission intensity of the balance sheet was 117 tonnes CO2e/£1m invested (down 2% from the previous year).
+When applied to the £93 billion of assets in this analysis², this gives a carbon footprint of 11.0 million tonnes of CO2 emissions. This is slightly higher than the 2019 equivalent number (10.1 million tonnes¹), due to the expansion of the Group’s portfolio over the year.
+As in last year’s report, we have separately identified our retirement business (LGR) in the table as the largest single component of the Group’s portfolio.
+The carbon intensity number can be volatile over short periods, hence it is the medium-term annualised trend that is important. As discussed on the previous page, the metric is impacted by multiple factors in any one year.
+We have shown a step-through of results from (i) Dec’19 to (ii) Dec’20 (using Dec’19 EV divisor) and finally to (iii) Dec’20 (using Dec’20 EV divisor). See Table 4. The difference between (i) and (ii) captures the impact of investment activity and updates to pre-2020 reported carbon data and shows we have made positive steps in this regard.
+Chart 12.
+Model Period Target Decarbonisation Pathway Progress 100% 70% 80% 60% 50% 90% 2019 2020 2023 2026 2028 2027 2029 2024 2025 2021 2022 2030. 
+Carbon footprint (% 31 December 2019)
+The impact of market volatility in 2020, due to the impacts of Covid-19, is shown in the difference between (ii) and (iii) and demonstrates the impact that market movements can have on the emission intensity metric.
+Note, we have rebased the Dec’19 calculation from last year’s report for consistent year-onyear comparisons as a result of evolving methodology. In particular, this year we have undertaken a more analytical approach in calculating the carbon intensity of our private credit holdings. An observation from this market is that the carbon emissions reported from project financing and leasehold management entities have low Scope 1 and 2 emissions, with expected larger Scope 3 emissions not currently reported. We expect this area to develop over the next few years.
+Scope 3 Investment Portfolio carbon intensity: Targets We have committed to alignment with the Paris Agreement, including achieving carbon neutrality by 2050, in line with global efforts to limit warming to 1.5°C.
+To achieve this, we have set and updated our Group balance sheet carbon intensity targets to monitor alignment, including reducing our portfolio carbon emission intensity by half by 2030, from a baseline start of 2020, in line with the ‘IPCC Special Report on Global Warming of 1.5 degrees’ (SR 15)3 proposal published in October 2018.
+In addition, our retirement business has used the longer-term decarbonisation requirement implied by the Paris Agreement to derive a five-year target for its decarbonisation trajectory: to reduce its portfolio’s carbon emission intensity by 18.5% by 2025. This trajectory is shown in Chart 12. The 2020 progression is also given in this chart.
+The 2% target reduction implied in 2021, as part of the five-year target, offers a realistic trajectory for decarbonisation and is reflective of our existing investment objectives in the portfolio. We believe that climate action objectives need to be fully integrated into our business projections for investment objectives to be effective.
+We have widened the 2021 target 2% reduction (shown in Table 4 above) across our Group’s investment portfolio and each of our core businesses are in the process of determining emission reduction ambitions in alignment with the Science Based Target initiative.
+Table 4. Portfolio carbon intensity metrics Tonnes CO2e/£1m invested. 
+Tonnes CO2e/£m. 
+Entity Measure Dec ‘19 (i) Dec ‘20 (using Dec ‘19 EV divisor) (ii) Dec ‘20 (iii) Dec ‘20 Target Dec ‘21 Target. 
+Group CO2e/£m Enterprise Value 120 109 117 Paris Alignment -2%
+CO2e/£m revenues 280 n/a 286 Paris Alignment n/a. 
+LGR CO2e/£m Enterprise Value 122 111 119 122¹ -2% 1. Re-stated for reference to the Enterprise Value divisor metric. 2. This relates to the investments within the c.£95 billion of Group proprietary assets qualifying as Scope 3 – Investment emissions. The emissions for the additional c.£2 billion of operating assets (our housing businesses) are captured in the operational footprint (on page 34). 3. IPCC Special Report on Global Warming of 1.5 degrees.
+32. 
+Carbon metrics and targets. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Carbon metrics and targets continued. 
+Portfolio temperature alignment Another way of looking at portfolio net zero alignment is to compare the implied warming potential of our portfolio to well-known indices which serve as a proxy for ‘the world as it is’. This gives us a sense of where we are compared to both ‘Paris’ (1.5°C) objective and the world as it currently stands in terms of carbon intensity.
+We have analysed c.£35 billion of listed assets (including government bonds), out of our c.£95 billion of Group proprietary assets¹, where we have the relevant carbon data. See Chart 13².
+The lower the implied warming compared to the chosen benchmarks the better the fund is positioned with respect to transition risk. We have used Destination to calculate the required reduction in carbon intensity for the higher risk sectors to deliver ‘Paris’. This gives us a trajectory against which we can assess the stocks we hold in those sectors.
+To the extent we own stocks where the expected emission intensity pathway (based on historic emission reduction data) is lower than the sector reference, the implied portfolio warming is lower than the ‘Paris’ objective and vice versa. We have used up to 10 years of reported carbon emissions for each stock as the key indicator of alignment (adjusted for where the stock sits with respect to the average in the sector).
+Chart 13.
+3.79 2.87 3.11 2.85 3.50 3.76 2.85 2.0 1.0 0.0 1.5 3.0 4.0 3.52. 
+L&G. 
+Benchmark. 
+Benchmark with sovereigns. 
+Portfolio temperature alignment °C (c.£35bn of listed bonds and equity)
+Total debt Total equity Total portfolio. 
+Source: Destination@Risk and LGIM analysis. 
+For government bonds we use data provided by Climate Action Tracker to map government policies to a warming outcome. We also show our calculation of the implied warming on the chosen indices.
+Chart 13 shows that the analysed portion of our listed equity and bond asset portfolios imply a warming below that derived for two standard benchmarks. A bond reference benchmark including government bonds is also included. This means that on this portion of our assets we are more highly weighted in stocks transitioning more quickly than the average in the relevant sector of the chosen indices.
+Our current portfolio temperature alignment is above the ‘Paris’ (1.5°C) target but at this point in the energy transition this is not surprising. The implied warming metric is data driven and it does not take into account future emission reduction commitments; the results we see here are consistent with the global emissions gap. ‘Paris’ is a desired future outcome whereas the current portfolio largely reflects the opportunity set connected to the world as is.
+That investment universe does not yet contain all the renewable assets and green technologies required to deliver ‘Paris’ and not all companies are evidencing a future strategy that is consistent with ‘Paris’. We know that to mitigate transition risk our portfolio must align with the reduction in carbon emissions required to deliver the ‘Paris’ objective. The policies and procedures we have in place to drive that change are described in the Risk management section.
+1. We define proprietary assets as total investments to which shareholders are directly exposed, minus derivative assets and cash, cash equivalents and loans.
+2. Note, portfolio results are shown weighted by stock market values. An alternative approach, weighting the stocks by carbon values, is also in development. Weighting by carbon values results in higher temperature alignment metrics than shown above due to a heavier weighting to the stocks in higher emitting sectors.
+33. 
+Carbon metrics and targets. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Real Assets: Net zero carbon roadmap We undertake extensive carbon analysis across our property portfolio annually, and have been actively working to manage and reduce our carbon emissions over the last 10 years. By 2018, we had achieved the target set in 2010 to cut our landlord operational carbon emissions by 20%.
+During 2019, we started working on our targets and strategy to 2030 and beyond, and our net zero carbon roadmap was released in 2020. The commitments outlined in our roadmap are as follows:
+Net zero carbon Our commitment is to achieve net zero carbon across our whole real estate portfolio by 2050 or sooner. This commitment goes beyond our landlord operations, covering whole building emissions which include our occupiers.
+Science based targets Our science based targets will help support our trajectory to net zero out to 2030. We will reduce the operational carbon and energy intensity of our landlord-controlled areas (Scope 1 and 2 emissions) by 60%. We will establish sciencebased targets for our wider Scope 3 emissions during 2021.
+Best practice standards To achieve net zero, we are firmly committed to the principles defined by the UK Green Building Council framework. We will measure and reduce embodied carbon. We will use the energy hierarchy to drive down the demand of our properties, to energy intensity levels which are ‘Paris proof’. We will increase renewable energy supply and only consider verified offsetting as the final step.
+Remuneration Our 2020 remuneration policy review included the commitment for environmental, social and governance targets to be included as a specific performance measure from 2021.
+We have set climate-related targets in our 2021 Executive remuneration scorecard. This includes a specific performance measure in the annual variable pay (AVP) and setting the factors that will also be considered when assessing the vesting outcome of the Performance Share Plan (PSP).
+Table 5. Group operational footprint. 
+Emissions source (tCO2e) Jan–Dec 2020 Jan–Dec 2019. 
+Total CO2e (Scope 1, 2, 3*) 40,344 46,164. 
+Scope 1 – fuel 15,163 15,226. 
+Scope 2 – location Of which, Scope 2 – market 20,319 1,122 23,716 3,015. 
+Scope 3 – business travel Scope 3 – homeworking and serviced offices 3,045 1,817 7,223 n/a * Total CO2e Scope 3 includes business travel, serviced offices and homeworking We have used the GHG reporting protocol for calculating our GHG emissions and applied the emission factors from the UK Government’s GHG Conversion Factors for Company Reporting. 
+Group operational footprint and targets Table 5 provides details of the carbon associated with the direct operations of our businesses. Whilst the total carbon from our operations has decreased from 2019, the 2020 operational footprint is not truly representative of business as usual, as like all businesses our operations have been impacted by Covid-19.
+Whilst the vast majority of employees have worked from home, we have kept our core offices open for those who needed to work in the office to provide essential services for our customers. To minimise risk of in-office transmission we have been operating our airflow systems for longer periods, and as a result we have seen an increase in our operational office footprint. We have also seen an increase in our footprint from our housing businesses which reflects our growth in this sector.
+In contrast, our business travel has significantly decreased, as has the carbon from the management of our Real Assets, many of which were impacted by Covid-19 restrictions.
+To capture the impact of our employees working from home we introduced an assessment methodology based on a paper by leading carbon consultancy EcoAct. This equates to 1,733 tCO2e and is a new source of Scope 3 emissions.
+We will continue to manage and reduce the carbon from our operational footprint through identifying efficiencies and improvements in technology, increasing the consumption of onsite and offsite renewable energy, designing and building energy efficient homes and buildings, and seeking to better understand and manage our need to travel for business.
+Operational targets Whilst the impacts of Covid-19 on our operational footprint have been significant we continue to make progress on our core operational targets.
+For our operational footprint (occupied offices and business travel) to operate with net zero carbon emissions from 2030: • We have introduced an electric car scheme open to all employees.
+• We are reviewing our location strategy to adapt to post-Covid work patterns.
+• We continue to increase the percentage of renewable electricity we procure (avoiding over 19 tCO2e).
+From 2030 we will create homes that can be operated at net zero carbon emissions: • We have mapped the embodied carbon of our homes.
+• CALA Homes created their first development which is fully A-rated and our modular homes development in Selby will also be A-rated.
+Our focus for 2021 is to develop detailed and timebound plans in all of our business to achieve our aim of net zero. These plans will be linked to the development of science based targets and will provide milestones which we will report our progress against.
+Carbon metrics and targets continued 34. 
+Carbon metrics and targets. 
+Legal & General Group Plc TCFD Report 2020
+
+
+Carbon metrics and targets continued. 
+Setting Science Based Targets (SBTs) We have supported the use of SBTs for a number of years, ensuring that any net zero targets reflect the available science around climate change.
+In response to the release of SBTs guidance for the financial sector in October 2020, we have now fully committed to align our net zero targets with the Science Based Target initiative (SBTi) across our business. This is reflected in our policy statements. Our suite of carbon reduction targets cover at least our Scope 1 and 2 operational emissions and Scope 3 investment footprint and will further build out the mediumterm trajectory (5–15 years) required to deliver the 2050 net zero ambition.
+We see the SBTi as a key benchmark for validating the strength of companies’ climate targets. SBTi certification already forms part of our publicly available climate ratings for companies, under LGIM’s Climate Impact Pledge, which leads to voting and investment action. This enables public scrutiny on corporate commitments by providing reassurance and credibility to decarbonisation plans.
+As a large institutional investor we already use alignment to the SBTi as a metric to inform our assessment of a company’s commitments to supporting the transition and value the increased reassurance on the credibility of a firm’s underlying plans to achieve these objectives.
+We note that investors (including LGIM), within the full suite of stakeholders, will benefit from this increased reassurance and credibility. Alignment to the SBTi is a notable metric reported within LGIM’s Climate Impact Pledge.
+We are joining at this stage to support the evolution of the guidance as the science develops.
+The SBTi Call-to-Action Process: Scope 1 and 2 operational emissions Our key commitments are called out in the Policies and Commitments section above.
+The LGIM Real Assets business will reduce the operational carbon and energy intensity of our landlord-controlled areas (Scope 1 and 2 emissions) by 60% by 2030 and will establish Science Based Targets (SBTs) for our wider Scope 3 emissions during 2021, as part of our wider Real Assets Net Zero Roadmap.
+We intend to evolve these key commitments as discussed above, with the integration of embodied carbon emissions a top priority.
+Scope 3 investment footprint Building on the current carbon footprint targets set in relation to our investment portfolio, we intend to integrate the portfolio temperature alignment metric (above) into the target suite.
+In addition, we plan to build on our climate risk understanding at the sector level, with further granular, sectoral targets mapping into the SBTs guidance.
+Next steps Addressing climate change is firmly embedded as one of our six growth drivers. By committing to SBTi, we have strengthened our risk policy statements to decarbonise the assets on our balance sheet to align with global efforts to limit warming to 1.5°C.
+We will continue to invest in areas which support the transition to a low-carbon economy, and we seek to develop viable climate-friendly business solution through our Climate Change Virtual Accelerator.
+Through developments to our Destination@Risk framework, we will enhance our product offering for our investment management clients. We will use our influence as a large investor at the COP26 climate conference to advocate for market-wide policies to accelerate sustainable finance and a green recovery.
+We continue to work to reduce our operational footprint by developing detailed and timebound plans in all of our business to achieve our aim of net zero.
+Addressing climate change is the next step in delivering our vision of inclusive capitalism; whilst there is more to do, we believe our strengthened commitments will pave the way to carbon neutrality by 2050.
+35. 
+Carbon metrics and targets. 
+Legal & General Group Plc TCFD Report 2020

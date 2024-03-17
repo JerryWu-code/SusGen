@@ -1,0 +1,825 @@
+TSMC 2022 TCFD Report
+
+
+Commitment to Net Zero Emissions 03. 
+Roadmap to Net Zero Emissions and Milestones 4. 
+Sustainable Climate Governance 07. 
+Climate Change Governance and Management Framework 7. 
+Enforce Climate Governance 8. 
+Enterprise Risk Management 11. 
+Risk Management Framework 11. 
+Major Climate Risks and Opportunities 12. 
+Financial Impact Analysis of Climate Risks and Opportunities 14. 
+Climate Scenario Analysis 15. 
+Forward-looking Climate Strategy 22. 
+Energy Conservation and Carbon Reduction in TSMC Operations 23. 
+Adaptation to Climate Disasters 28. 
+Low-carbon Product Innovations 31. 
+Increase Climate Influence on Supply Chain 33. 
+Management Performance and Goals 36. 
+Net Zero Performance Evaluation and Commitment 36. 
+Prospects 43. 
+Appendix 44. 
+About This Report 44. 
+TCFD Disclosure Index 44. 
+TCFD Index on Cross-industry, Climate-related Metric Categories 45. 
+TSMC's Reports and Policies on Climate Change 46. 
+Reference 46. 
+Source of Cover Photo: wpd Taiwan Energy Co., Ltd.
+
+
+TCFD Report. 
+The Global Risks Report, published annually by the World Economic Forum (WEF), has consistently listed climate change and related issues as one of the most salient risks. In the Global Risks Report 2023, top four of the ten most severe risks in the next ten years are related to climate change, spelling out the serious threats of climate change on global sustainable development. TSMC cares about the impacts of climate on company operations as well as any resulting socio-economic problems such as diseases and food security. To mitigate the impacts of climate disasters, TSMC has set forth an ESG Policy, Climate Change Statement, Environmental Policy and Biodiversity Statement to guide daily operations. In addition, TSMC is actively planning and taking actions to mitigate and adapt to. 
+Commitment to Net Zero Emissions. 
+TSMC's core strategy against potential operational impacts of climate change, TSMC has established four major management strategies for climate change management: Mitigation, Adaptation, Supply Chain Carbon Reduction, and Lowcarbon Products and Services.
+climate change as it strives for Net Zero Emissions by 2050.
+TSMC keeps a close eye on global climate action guiding principles. To ensure the progress and outcomes of action plans, TSMC has identified potential climate risks and opportunities in value chain continuously through internal crossorganizational discussion and external consultation and further establish indicators and target management in compliance with the Task Force on Climate-related Financial Disclosures (TCFD) framework since 2018.
+To strengthen climate mitigation and adaptation, TSMC's core strategy against potential operational impacts of climate change, TSMC has established four major management strategies for climate change management: Mitigation, Adaptation, Supply Chain Carbon Reduction, and Lowcarbon Products and Services. TSMC aims to maximize climate opportunities by saving energy, reducing resource consumption, and leading by example. The Company hopes to extend such practices to the supply chain to effectively reduce climate risks, working with suppliers to strengthen climate resilience, reduce operating costs, and strive for net zero transition. TSMC will also deliver low-carbon and energyefficient products and services to customers to optimize their green competitiveness and fulfill the sustainable goal for net zero emissions across the value chain by 2050.
+3 Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Commitment to Net Zero Emissions
+
+
+TCFD Report. 
+Roadmap to Net Zero Emissions and Milestones. 
+Climate change management is critical to sustainable corporate operations. As the world's leading IC foundry and service provider, TSMC has mapped out a Roadmap to Net Zero Emissions, setting the goals of zero emissions growth by 2025 and gradually reducing emissions to return to 2020 emission levels by 2030 and net zero emissions across the value chain by 2050.
+One of the important strategies to achieve net zero emissions is 100% renewable energy. Under the Energy Saving and Carbon Reduction Committee's guidance, TSMC has continued to strengthen related actions, expanded the use of renewable energy, and diversified energy sources. In 2022, more than 10% of the energy consumed by TSMC was renewable energy as the Company continues to strive towards its RE100 commitment. In the same year, TSMC established carbon credits quality procurement standards, selecting four 114 年
+TSMC sets short, mid and long-term goals and plans a net-zero emissions pathway and blueprint for 2050.
+nature-based solutions carbon offset projects to offset carbon emissions and delivering net zero for Scope 1 and 2 emissions in all overseas production locations. TSMC also formulated its own Biodiversity Statement in accordance with the UN's Convention on Biological Diversity and SDGs. Officially published in 2023, the Biodiversity Statement is dedicated to reducing greenhouse gas (GHG) emissions and striking a balance between technology and the ecosystem to ensure consistent efforts toward sustainability.
+TSMC has mapped out a Roadmap to Net Zero Emissions, setting the goals of zero emissions growth by 2025 and gradually reducing emissions to return to 2020 emission levels by 2030 and net zero emissions across the value chain by 2050.
+4 Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Commitment to Net Zero Emissions
+
+
+TCFD Report. 
+Roadmap to Net Zero Emissions. 
+Continued expansion of advanced process capacities will increase carbon emission levels. 
+Primary manufacturing hubs will gradually use more renewable energy, reducing emission levels. 
+Launch alternative programs to reduce GHG emission from processes and acquire carbon credits externally to strive toward RE100 and net zero emission targets. 
+Zero emissions growth. 
+Return to the 2020 emission level. 
+Join RE100 Net Zero. 
+RE100 & net zero emissions. 
+Scope1. 
+Direct Emissions from Processes • Install equipment with F-GHG reduction technologies • Develop nitrous oxide reduction equipment • Use carbon-neutral natural gas • Install equipment with nitrous oxide reduction technologies • Develop alternative programs to reduce GHG emissions from processes • Launch alternative programs to reduce GHG emissions from processes. 
+Scope2. 
+Indirect Emissions from Energy Usage • Use renewable energy • Increase energy efficiency of existing processes • Develop next-generation energy efficient tools • Recycle thermal energy from process tools • Increase use of renewable energy • Introduce next-generation energy efficient process tools • Recycle H2 from EUV lithography process • Use 100% renewable energy • Increase next-generation energy efficient process tools. 
+Scope3. 
+Indirect Emissions from the Value Chain • Conduct carbon inventory and offer consultations for energy conservation and carbon reduction • Request suppliers to set targets, determine management strategies, and develop technologies • Develop Zero Waste Manufacturing Center and launch a recycling program for electronic-grade chemicals • Request suppliers to use renewable energy • Introduce electronic-grade chemicals recycled from waste chemicals • Optimize delivery schedules and use low-carbon transportation vehicles • Request suppliers to use low-carbon raw materials • Collaborate externally for carbon reduction and carbon negative programs. 
+Year 2020 2025 2030 2050 tCO2e. 
+Roadmap to Net Zero Emissions by 2050 0
+5 Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Commitment to Net Zero Emissions
+
+
+TCFD Report. 
+Transformation to Net Zero Milestones. 
+Climate Change Statement issued. 
+Environmental Protection Policy issued. 
+Carbon Management Platform established. 
+Energy Saving and Carbon Reduction Committee established. 
+Renewable Energy Program established. 
+All TSMC offices use 100% renewable energy Note 3 and achieve net zero GHG emissions. 
+TSMC joins Bureau of Industrial Development Voluntary GHG Emissions Reduction Platform. 
+Taiwan Semiconductor Industry Association(TSIA) Energy Conservation Platform launched. 
+Financial Impact Analysis of the Risks and Opportunities of Climate Change disclosed. 
+Green Equipment Certification Program launched. 
+TSMC joins World Semiconductor Council Perfluorinated Compounds Emissions Reduction Initiative. 
+TSMC joins RE100. 
+Net Zero Emission Program established. 
+Green Bonds issued. 
+ESG Committee Note 1 established. 
+Note 1: The CSR Executive Committee was renamed as the ESG Steering Committee in March 2021; the CSR Committee was renamed as the ESG Committee at the same time. 
+Note 2: Science Based Targets Initiative (SBTi) is an international initiative organization that encourages companies to set a definite GHG emission reduction target that is in line with the Paris Agreement goals with a yearly reduction of 4.2 %. TSMC is committed to develop SBT reduction targets in 2015, and as the global demand for chips drastically increased in recent years, the Company delivered a near 10% CAGR. However, as the supply from the renewable energy market in our main manufacturing site was insufficient, reaching SBT requirements poses as a challenge in the short term. Taking operational growth and development trends in carbon reduction into account, TSMC's will put zero growth in emissions as the main target, and assess to fulfill SBT requirements in mid and long-term targets. 
+Note 3: Definition of renewable energy use: Purchased, self-generated renewable energy, and renewable energy certificates and carbon credits produced by renewable energy. 
+Year. 
+TCFD Report issued. 
+Carbon-neutral Natural Gas Program launched. 
+TSMC Tainan Science Park Reclaimed Water Plant in Commission. 
+Launched CDP Supply Chain Program. 
+TSMC overseas sites achieved net zero emissions in Scope 1 and 2. 
+TSMC fabs in Taiwan use 100% carbon-neutral natural gases. 
+TSMC joins the Association of Taiwan Net Zero Emissions. 
+TSMC joins the CDP Supply Chain Program. 
+Carbon Credits task force established carbon credits quality standards and procurement project. 
+TSMC joins SBTi Note 2. 
+Carbon trading systems for China fabs established. 
+Internal pricing and impact evaluation established TSMC joins CDP. 
+ESG Policy issued TSMC formulates 2030 Sustainable Development Goals. 
+TSMC joins TCFD as Supporter. 
+ESG Steering Committee Note 1 established. 
+TSMC receives Carbon Credits through TM002 published by the Taiwan EPA. 
+Carbon Credit Development Program established 2001 2005 2015 2016 2011 2018 2017 2019 2020 2021 2022. 
+Policy Issuance Governance Organization. 
+Initiatives Climate Actions. 
+Renewable Energy. 
+Overseas Sites begin using 100% renewable energy. 
+Climate Change Statement revised, declaring the target of Net Zero Emissions by 2050. 
+The BOD approves to link corporate executives' compensation with ESG achievements. 
+TSMC joins Taiwan Climate Partnership Initiative. 
+TSMC joins Taiwan Alliance of Net Zero Emission Initiative 6 Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Commitment to Net Zero Emissions
+
+
+TCFD Report. 
+Energy Saving and Carbon Reduction Committee. 
+Manages transition and physical risks well as action opportunities of climate change. 
+ESG Committee. 
+Interdepartmental communication platform on climate change issues; reports progress to the Board every quarter. 
+Risk Management Executive Council. 
+Identifies and implements risk controls for climate change risks and continuously improves risk management practices and effectiveness. 
+ESG Steering Committee. 
+Decision-making body for climate change management; chaired by the Chairman of TSMC. 
+Risk Management Steering Committee. 
+Advises and approves the prioritization of risk controls against climate change risks and supervises continuous improvements for risk management. 
+Board of Directors. 
+Audit and Risk Committee, Compensation and People Development Committee, Nominating, Corporate Governance and Sustainability Committee. 
+Supervise all climate change management actions of TSMC. 
+Sustainable Climate Governance. 
+Climate Change Governance and Management Framework. 
+At TSMC, the Board is responsible for overseeing climate change governance and the management framework in compliance with guiding principles signed by Chairman Dr. Mark Liu, including the ESG Policy, Climate Change Statement, Environmental Policy, and Biodiversity Statement. The ESG Steering Committee is responsible for formulating mid-to-long-term strategies for climate change management. The ESG Committee integrates interdepartmental resources for climate action, and the Energy Saving and Carbon Reduction Committee formulates quarterly adaptation and mitigation plans in response to climate change, reviewing progress, discussing future plans, and quarterly reporting to the Board via the ESG Committee's chair. The Risk Management (RM) Executive Council is responsible for identifying TSMC's climate risks, and executing risk mitigations. Risk mitigations are supervised by the Risk Management Steering Committee, which reports progress to the Board.
+Climate Change Governance and Management Framework. 
+At TSMC, the Board is responsible for overseeing climate change governance and management framework. Note: On February 14, 2023, the TSMC Board of Directors approved the renaming of the Audit Committee as the Audit and Risk Committee, renaming the Compensation Committee as the Compensation and People Development Committee, and established the Nominating, Corporate Governance and Sustainability Committee 7 Commitment to Net Zero Emissions Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Sustainable Climate Governance
+
+
+TCFD Report. 
+Enforce Climate Governance. 
+Board Oversight. 
+TSMC advocates and acts upon the principles of operational transparency and respects shareholder rights, believing that the basis for successful corporate governance is a sound and effective Board of Directors. The Board of Directors oversees and instructs the Company's climate change and sustainable management strategies, and delegates three Board Committees: the Audit and Risk Committee, the Compensation and People Development Committee, and Nominating, Corporate Governance and Sustainability Committee to supervise corporate sustainability and climate management. Each Committee's chairperson regularly reports to the Board on the activities and resolutions of the relevant committees.
+Essentials of Board Oversight on Climate Change. 
+Regularly review progress reports and work plans from the ESG Steering Committee • In February 2023, the Board approved the Nominating, Corporate Governance and Sustainability Committee Charter. 
+Oversee the Company's overall operational risks. 
+Oversee the Company's sustainable management strategies and actions. 
+Evaluate and implement compensation for TSMC management on ESGrelated performances • Reviewed and approved major risk and control plans relating to climate change, such as disrupted production in new facilities from extreme weather, natural disasters, and water/energy shortages as well as disrupted supplies from critical suppliers due to extreme weather • Reviewed energy demands for production, renewable energy purchases, the roadmap and strategies to Net Zero Emissions by 2050, and annual ESG expenses (including investments in energy conservation, carbon emissions, and water conservation) • Linked shareholders' interests and ESG (including climate change management) achievements to TSMC corporate executives' compensation by introducing the employee restricted stock awards (RSAs) issuance plan approved by the Board's resolutions and the Shareholders' Meetings.
+• In June 2022, the Annual Shareholders' Meeting approved the issuance of no more than 2,960,000 common shares of RSAs in the year of 2022. In February 2023, the Compensation & People Development Committee approved and submitted a proposal to the Board of Directors regarding RSAs granted to executives in the year of 2022 and the issuance of 2,110,000 new shares TSMC proactively fulfills environmental sustainability commitments with concrete action.
+Board of Directors Audit and Risk Committe Compensation and People Development Committee. 
+Nominating, Corporate Governance and Sustainability Committee. 
+Responsibilities. 
+Major Decisions in 2022 Before the Report Published 8 Commitment to Net Zero Emissions Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Sustainable Climate Governance
+
+
+TCFD Report. 
+Management Responsibilites. 
+The ESG Steering Committee is TSMC's top organization of climate change management. The ESG Steering Committee is chaired by the Chairman of TSMC, and the chair of the ESG Committee serves as the executive secretary. It reviews TSMC's climate change strategies and goals and reports quarterly to the Board of Directors. Annually, the Risk Management Steering Committee reports to the Audit and Risk Committee on the risk environment facing TSMC, focus of the Company's enterprise risk management (ERM), risk assessment and mitigation efforts. The chairperson of the Audit and Risk Committee briefs on the key risks and risk mitigations to the Board.
+Under oversight from the ESG Steering Committee and the RM Steering Committee, TSMC manages climate-related action plans through the ESG Committee, Energy Saving and Carbon Reduction Committee, and Risk Management Executive Council.
+Chairman Senior Vice President of Information Technology and Materials Management and Risk Management. 
+Quarterly Semi-annually. 
+Senior executives from Information Technology and Materials Management and Risk Management, Business Development, Legal, Human Resources, Research and Development, Operations, and Finance. 
+Vice presidents of key functional organizations including Business Development, Sales, Research and Development, Operations, Corporate Planning Organization, Quality & Reliability, Legal, Finance, and Human Resources, as well as the head of Internal Audit sitting as an observer. 
+The Chairman leads the management team to discuss and formulate the Company's ESG vision and strategies, collaborating with the ESG Committee for implementation, strive toward a culture of sustainability, and drive positive changes. 
+Assists the Board on overseeing the adequacy and effectiveness of ERM framework; provide recommendations to the Board on risk appetite, risk strategies, resource allocation, and provide risk assurance. 
+TSMC encourages more enterprises to adopt green innovations.
+Chairperson. 
+Meetings. 
+Members. 
+Tasks. 
+Risk Management Steering Committee ESG Steering Committee 9 Commitment to Net Zero Emissions Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Sustainable Climate Governance
+
+
+TCFD Report. 
+ESG Committee. 
+The Company's ESG Committee serves as the communication platform that integrates and brings together different departments. The Chairman appoints senior executives as chairpersons to lead committees established in response to issues identified as sustainability issues related to TSMC operations and of stakeholder concerns. The committee members formulate corresponding strategies and guiding principles, compile ESG budgets for each organization, coordinate resources, develop and carry out the annual plans, and track progress to ensure that ESG strategies are fully carried out in daily operations.
+Energy Saving and Carbon Reduction Committee. 
+The Energy Saving and Carbon Reduction Committee is the Company's management organization for taking actions on climate risks and opportunities. It is chaired by the Vice President of Fab Operations. Every quarter, this Committee formulates management plans, reviews implementation status and future plans.
+Risk Management Executive Council. 
+The Risk Management Executive consisting consists of director-level representatives is responsible for implementing risk management processes and assisting the RM Steering Committee on promoting, overseeing, and strengthening the Company's ERM framework.
+Senior executive appointed by Chairman. 
+Quarterly. 
+Management representatives nominated by functional organizations relating to the economy, environment, society, and governance • Identify material sustainability issues, climate risks and opportunities to formulate action plans • Oversee interdepartmental communication and coordinate resource integration • Compile ESG-related budgets for all function organizations • Track achievements across various sustainability issues, formulate plans for further improvement of the Company's sustainable development. 
+Chaired by the Vice President of Fab Operations. 
+Quarterly. 
+Representatives were nominated by Operation, Facility, and Corporate ESH Division • Discuss the strategies of physical and transition risks and opportunities from climate change • Formulate management plans, review implementation status, and discuss future plans. 
+Head of Risk Management Division. 
+Quarterly. 
+Director-level representatives from functional organizations including Operations, lLegal, Finance, HR, Quality & Reliability, IT, Corporate Information Security, Material Management, R&D, Business Development, Sales, Corporate Planning Organization, ESG • Identify, assess, response, monitor and review risks to ensure that critical risks are managed appropriately and effectively • Lead and promote crossfunctional Risk Management Taskforces and risk management-related activities. 
+Chairperson. 
+Meetings. 
+Members. 
+Tasks. 
+Risk Management Executive Council Energy Saving and Carbon Reduction Committee ESG Committee. 
+TSMC continues to optimize the efficiency of air pollution prevention facilities.
+10 Commitment to Net Zero Emissions Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Sustainable Climate Governance
+
+
+TCFD Report. 
+Enterprise Risk Management. 
+Risk Management Framework. 
+To realize TSMC's corporate vision and long-term sustainability value for the stakeholders, the Company adopts a holistic and balanced risk-reward approach to identify and manage key climate-related risks and opportunities which TSMC faces in achieving its strategic objectives. The Audit and Risk Committee is authorized by the Board of Directors to review TSMC's Enterprise Risk Management (ERM) framework and risk profile to ensure key risks are within the risk appetite. At the management level, the Risk Management Division works with business teams and various committees including the Risk Management Steering Committee, Risk Management Executive Council, and Risk Management Taskforces in applying the ERM framework to ensure that climaterelated risks across TSMC are assessed and adequately mitigated, include but not limited to net zero emission, reputation impact, business interruptions potentially resulted from water/energy shortage or disruptions, natural disasters that threating TSMC's business operation and supply chain. Annually, the ESH Division reports the assessment results, financial impact and countermeasures against climaterelated risks and opportunities to the ESG Committee. RM Division updates the Audit and Risk Committee on the assessment of climate risks and mitigation plan taken.
+TSMC Climate Risks and Opportunities Identification Process. 
+List and implement responses to risks and opportunities and continue to monitor performance and outcomes; conduct financial impact analysis for material risks and opportunities. 
+Related TSMC business divisions will host group discussions and identify risks and opportunities that need attention. 
+Filter risks and opportunities related to TSMC according to external trends and internal operational changes. 
+Use ERM impact evaluation framework to calculate probability and impactNote and rank risks and opportunities. 
+Collect Identify Identify Materiality Response Measures & Financial Impacts. 
+Note: Impact includes impact on TSMC's finance, operations, employee safety, and reputation and can be categorized into five levels - high, medium-high, medium, medium-low, and low - by level of impact. Probability is caculated based on incidence rate and time, short or long, between incidences and can be categorized into five levels as well - almost certain, very likely, likely, unlikely, and very unlikely. 
+List related risks/ opportunities. 
+Determine material risks/ opportunities. 
+Develop risk and opportunity matrix. 
+Formulate and review response measures and evaluate financial impacts of material issues 11 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Major Climate Risks and Opportunities. 
+In compliance with the TCFD framework, members of the ESG Committee identify and evaluate climate change risks and response measures every two years on behalf of TSMC to uncover potential crises and opportunities. In 2022, TSMC added one transition risk (renewable energy regulations and procurement) and one opportunity (improve company reputation) and removed one physical risk (higher natural disaster insurance premium). The top three risks are net zero emissions, impact on company reputation, and uncertainties in the development of new energy saving/carbon reduction technologies. The top three opportunities are developing lowcarbon products and services/increasing energy efficiency in customer products, driving low-carbon manufacturing, and improving company reputation. Transition risks such as Environmental Impact Assessment (EIA) commitment and company reputation were previously short-term and mid-term risks, but have now been changed to mid-term and long-term risks, respectively. Opportunities such as increasing fab energy efficiency, promoting low-carbon green manufacturing were modified from short-term to mid-term. Short-term (1~3 years) Long-term (>10 years) Mid-term (3~10 years)
+Risks/Opportunities. 
+High. 
+Low ❺
+❸ ❹
+❺ ❹
+❻ ❶ ❸ ❷
+❼ ❽
+❷ ❶ 1. Drought (TSMC Operations) 2. Drought (Supply Chain) 3. Rising temperatures 4. Flood (TSMC Operations) 5. Flood (Supply Chain)
+Climate Risk and Opportunity Matrix 1. GHG emissions control and carbon taxes/carbon fee 2. Net zero emissions 3. EIA commitment 4. Uncertainties in the development of new energy saving/carbon reduction technologies 5. Impact on company reputation 6. Renewable energy regulations and procurement 1. Participate in renewable energy plans/ Participate in carbon trading market 2. Receive rewards from the public sector for offsetting carbon reductions 3. Improve plant energy efficiency 4. Promote water efficiency and diversification 5. Develop low-carbon products and services/ Increase energy efficiency in customer products 6. Drive low-carbon manufacturing 7. Increase resilience against natural disasters 8. Improve company reputation. 
+Physical Risks. 
+Transition Risks Opportunities. 
+TSMC is committed to promoting green low-carbon production.
+❹ ❶ ❸ ❺ ❷ ❻
+12 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Financial Impact Analysis of Climate Change. 
+Climate Risk Potential Financial Impacts Climate Opportunities Potential Financial Impacts Counter Measures. 
+Transition Risks • GHG emissions control and carbon taxes/ carbon fee • Restriction on manufacturing capacity expansion; increase in operation costs • Participation in renewable energy program • Participation in carbon trading market • Early purchases of renewable energy may successfully increase manufacturing capacity • Set ambitious carbon reduction targets: commit to zero carbon emissions from global operations by 2050 and ensure zero carbon emissions released from sites operations • Assemble a renewable energy task force to work with related associations and government agencies to accelerate the development of renewable energy and take action to diversify renewable energy sources • Net zero emissions • Increased cost of installation and operation for carbon reduction facilities • Increased renewable energy and carbon credit costs • Receive rewards from the public sector for offsetting carbon • Stock up on required carbon credits for future emissions • Draw up a company-wide pathway to net zero emissions and plan net zero strategies for executions • Continue carrying out GHG reduction actions and participate in government reward programs for carbon reduction to earn carbon credit • Implement long-term plans for purchasing carbon credits • Develop low-carbon products and services • Increase energy efficiency in customer products • Satisfy customer demands for energy-efficient products and increase revenue • Continue investing in R&D resources to develop energy-saving products • EIA commitment • Access to renewable energy and reclaimed water fail to meet expectations and have become an obstacle to manufacturing advanced technologies • Promote water efficiency and diversification • Successfully build advanced production line • Continue promoting water-saving measures • Increase use of reclaimed water • Uncertainties in the development of new energy saving/carbon reduction technologies • Increased energy consumption in production lines using new process technologies may result in higher operating costs • Improve plant energy efficiency • Reduce utility costs • The Energy Saving and Carbon Emission Reduction Committee continues to promote energy conservation and carbon reduction practices and tracks enforcement across facilities each quarter • Build green fabs, obtain green building licenses, and share experiences with outside parties • Impact on company reputation • Damage to company image when unable to meet stakeholder expectations • Improve company reputation • Strengthen stakeholder trust • Insist on green manufacturing and green innovation and use transparent disclosure to enhance the company's green reputation. 
+Physical Risks • Flood (TSMC operations & supply chain) • Production affected, resulting in financial losses and a decrease in revenue • Increase resilience against natural disasters • Strengthen climate resilience and lower the risk of operation interruption and potential losses • Evaluate drought/flood risks of manufacturer's region to formulate and carry out risk mitigation measures • Ask suppliers to evaluate the flood and drought risks of their operational facilities and implement risk reduction actions • Establish a comprehensive water monitoring system and emergency response processes and hold regular drills • Drought (TSMC operations & supply chain) • Rising temperatures • Increase in energy consumption, costs, and carbon emissions • Drive low-carbon manufacturing • Save energy and reduce costs • Establish the Energy Saving and Carbon Reduction Committee with senior executives leading the GHG reduction initiatives 13 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Financial Impact Analysis of Climate Risks and Opportunities. 
+TSMC conducts financial impact analysis on the top three physical risks, transition risks, and climate opportunities in compliance with TCFD recommendations to formulate strategies to mitigate risks and explore opportunities for the Company's reference. Financial impact analysis of climaterelated risks focuses mainly on market- and technology-related costs to remove carbon emissions along the pathway to Net Zero Emissions by 2050. For example, expenses on energy conservation or carbon reduction facilities, paying for more expensive renewable energy or RECs, buying carbon credits, and additional expenses on renewable energy or carbon credits because of uncertainties in the development of new energy saving and carbon reduction technologies. Physical risks mainly focus on growing electricity costs because of chronic climate changes from rising temperatures and investments in strengthening the Company's climate resilience. For example, the costs to combat drought include expenses for building water reclamation systems, using reclaimed water, and purchasing backup water sources. As for floods and strong wind, also considered acute climate change disasters, TSMC has already designed flood prevention systems into new TSMC facilities and will therefore not be calculating its financial impact. TSMC has also estimated the cost of the Company's reputation from failing to meet net zero emission targets though there is no globally recognized approach to estimate such financial impact. The financial impact of 1% revenue was a consensus reached by experts after discussions and assessments.
+The estimated financial impact from climate opportunities includes reduced costs from increased energy and water use efficiency and diverse water sources as well as additional income from providing low-carbon products and services such as 7nm or more advanced processes, Power Management IC (PMICs), and ultralow power (ULP) ICs. Analysis results show that developing low-carbon products and services presents the greatest opportunity for positive financial impacts as demands for low-carbon products of 7nm and more advanced manufacturing process continue to grow.
+Financial Impact Analysis of Climate Risks and Opportunities. 
+Unit: Financial Impact by Revenue Percentage Transition Risks Physical Risks. 
+Promoting Lowcarbon and Green Production (mid-term)
+Increase Facility Energy Efficiency (mid-term)
+Impact on TSMC Reputation (long-term)
+Acute Climate Change – Droughts (short-term)
+Technology/ Market – Net Zero Emissions (long-term) 1~2% <1% <1% 1%
+TSMC dedicates to improving facility energy efficiency.
+Analysis results show that developing low-carbon products and services presents the greatest opportunity for positive financial impacts as demands for low-carbon products of 7nm and more advanced manufacturing process continue to grow.
+Note: Risk disclosure focuses primarily on the financial impacts from the top three transition and physical risks. Opportunity disclosure focuses solely on results from financial impact assessments on the top two opportunities as revenue introduced by developing low-carbon products and services pertains to financial predictions 0 Risks Opportunities <1% 14 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Climate Scenario Analysis. 
+In compliance with TCFD recommendations, TSMC has evaluated the impact of various GHG emission controls on TSMC operations and the supply chain for certain transition and physical risks. TSMC has considered the outcomes when determining the resiliency of strategies and has also referred to the latest physical science basis, published by the International Energy Agency (IEA) and Intergovernmental Panel on Climate Change (IPCC), to develop its own climate scenarios. In addition, TSMC has also included potential growth in carbon emissions from growing TSMC operations and new facilities as well as existing carbon reduction actions into general evaluations to analyze the potential financial impacts of climate risks. In the past, TSMC evaluated climate risks solely using the worst-case scenario, but the future of climate change is highly unpredictable. As such, TSMC has opted to evaluate climate risks across several scenarios this year to help map out and communicate operations strategies internally and give comprehensive insights into climate trends over the mid-tolong term.
+Climate Scenario Selection. 
+In terms of transition risks, countries have now reached a consensus, agreeing that carbon pricing schemes are a necessary policy to achieve net zero emissions. TSMC referenced World Energy Outlook 2022 (WEO), an IEA report commonly used by companies around the world, and selected the Net-Zero Emissions by 2050 Scenario (NZE) and Stated Policies Scenario (STEPS) to conduct climate scenario analysis on future carbon pricing. The resulting carbon pricing then serves as the basis for TSMC to evaluate the impacts of carbon pricing schemes on TSMC locations in different countries.
+In terms of physical risks, TSMC referenced the Sixth Assessment Report (AR6) published by IPCC in 2021 and the latest Global Climate Model (GCM) to estimate long-term climate changes in the future. TSMC also adopted the Shared Socioeconomic Pathway (SSP) to derive GHG emissions under different social and economic landscapes. TSMC's impact analysis on physical risks covers climate change evaluations across every region of the globe and provides detailed impact analysis to TSMC locations and suppliers around the world through downscaling analysis.
+Climate Scenarios Description. 
+Note: The latest Global Energy and Climate Model (GEC Model) adopted by IEA in 2022 gives predictions on the future of energy systems based on latest policies, technological developments, and energy prices around the world. The GEC Model aims to reflect interactions between reallife policies, costs, and investment choices and can also provide regional changes and differences. 
+TSMC opts to evaluate climate risks across several scenarios to help map out and communicate operations strategies internally and give comprehensive insights into climate trends over the mid-to-long term.
+Transition Risk Physical Risk. 
+Selected Scenario. 
+NZE. 
+Net‐Zero Emissions by 2050 Scenario. 
+STEPS. 
+Stated Policies Scenario. 
+SSP1-2.6. 
+Low-emission scenarios. 
+SSP5-8.5. 
+High-emission scenarios. 
+Scenario Explained & Impacts. 
+To ensure that global warming is contained below 1.5℃ from preindustrial levels by the end of the century, energy bureaus around the world work to achieve net zero emissions by 2050. Countries maximize technical feasibility, cost efficiency, and social acceptance and minimize reliance on negative emission technologies, all the while ensuring economic growth and stable energy supplies. 
+The likely future of energy systems based on trajectories created by existing carbon reduction policies and measures set forth by governments. Under STEPS, carbon emissions in the future will largely be the same as today, and the world will not achieve net zero emissions. 
+An ideal scenario where global emissions have been drastically reduced. While outcomes are not as expected, societies and economies are turning to sustainable development and are estimated to achieve net zero emissions around 2075. 
+The global economy is growing rapidly, but the growth is highly reliant on developing fossil fuels and energy-intensive industries. Barely no climate policies exist to manage the situation. By 2050, carbon emissions will multiply globally. 
+Increase in Temperature by End of Century ～ 1.5℃ ～2.5℃ ～2℃ >4℃
+Source. 
+IEA. 
+WEO 2022Note. 
+IPCC. 
+AR6 15 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Transition Risks - Impact Analysis of Regulatory Carbon Pricing. 
+Future carbon prices can vary drastically under different carbon pricing schemes (GHG cap, carbon taxes, and carbon fees) and climate scenarios and are, therefore, highly unpredictable. To ensure that the Company's reduction strategies comply with future development trends, TSMC has created a hypothesis based on existing or future plans for carbon pricing schemes in areas where TSMC operates, which is then used to evaluate the potential financial impacts of legally mandated carbon prices under two climate scenarios given TSMC's two carbon emission pathways. Results showed that TSMC will experience higher financial impacts under NZE's carbon pricing than STEPS and that the financial impacts will continue to grow every year. Based on the NZE (high carbon fees) scenario, if TSMC does not continue to enforce measures to manage carbon reduction, financial impacts will amount to 2~3% of total revenue, while effectively mitigating financial impacts from legally mandated carbon fees can help contain financial impacts below 1% of total revenue.
+Physical Risks - Impact Analysis of Extreme Weather Events. 
+Climate Scenario Analysis. 
+To accurately identify and measure the impacts of physical risks on operations, TSMC selected low-emission scenarios (SSP1-2.6) and high-emission scenarios (SSP5-8.5) from IPCC AR6 to analyze physical risks and assess the potential mid and long-term risks in TSMC facilities and supply chains. In addition to the existing flood, drought, and heat risks, the Company further evaluated risks such as wind disasters from typhoons, landslide disasters, and rising ocean levels. Meanwhile, TSMC increased its scope to cover all facilities around the world as well as five critical supply chains - direct raw materials, indirect raw materials, equipment, fab facilities, and parts and components. Results from the evaluations were included in the Climate Risk Adaptative Standards to strengthen related practices and operational resilience.
+Financial Impact Analysis of Transition Risks Scope of Physical Risk Scenario Analysis. 
+Year 2030 2040. 
+Scenario Carbon pricing under STEPS. 
+Carbon pricing under NZE. 
+Carbon pricing under STEPS. 
+Carbon pricing under NZE. 
+Reduction Pathway. 
+Pathway 1: TSMC does not continue to implement carbon reduction management measures 0.1~0.5％ 1~2％ 0.5~1％ 2~3％
+Pathway 2: TSMC actively reduces emissions and achieves its goal of Net Zero Emissions by 2050 ＜ 0.1％ 0.5~1％ 0.1~0.5％ 0.5~1％
+Note 1: Financial impact only considers the impact from regulatory carbon pricing and does not include associated carbon reduction costs. 
+Note 2: Carbon prices are based on the WEO 2022 by IEA. The STEPS scenario does not provide carbon price estimations for the U.S., using the Announced Pledges Scenario (APS) instead for carbon price estimation. The APS scenario is one of the established policy scenarios, and the difference between APS and STEPS lies in the assumption that all countries will achieve their committed targets as scheduled. 
+Note 3: The Carbon Pricing Options for Taiwan, 2020, a research report commissioned by the EPA in 2020, serves as the carbon pricing basis for Taiwan's existing policy scenario. The report suggests to collect a carbon price of US$10/tCO2e and then increase the carbon price by 10% each year starting from 2024. 
+Note 4: Carbon pricing scheme assumptions for TSMC operations sites: (1) Starting from 2024, Taiwan's EPA plans to implement a carbon pricing scheme targeting major emitters exceeding 25,000 metric tons in annual emissions. Assuming no preferential rates are considered, carbon fees will be levied based on annual emissions; (2) In Shanghai, industrial enterprises are subject to Shanghai Administrative Measures for Carbon Emissions Trading (Trial Implementation) regulations and are required to purchase carbon credits when their emissions exceed their emissions quota. Any emissions exceeding the allocated quotas need to be offset by purchasing carbon credits. It is assumed that in the years 2030 and 2040, the direct emission quotas will be 99% of the baseline quota; (3) In Washington state, based on The Cap-and-Invest Program, free quotas will be issued based on carbon intensity benchmarks between 2015 and 2019. It is assumed that in the years 2030 and 2040, the free quotas will be 97% and 94% of the baseline, respectively. 
+Physical Risk Scenario Risk Analysis. 
+Short-term 1-3 year Mid-term 3-10 year Long-term >10 year 7 Risks. 
+Flood, Drought, Heat, Mudslide, Landslide, Strong Wind, Sea Level Rise 2 Scenarios. 
+SSP1-2.6 SSP5-8.5 28 Factories +5 Categories of Supply Chains 1,390 Supply Chains Total 1,418 locations. 
+Unit: Financial impact as percentage of revenue (%) 16 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Scenario Analysis Methodology. 
+TSMC uses weather forecasts, climate scenarios simulations, and disaster risk definitions to establish models evaluating physical climate risks in TSMC facilities and supply chains. Then, the likelihood and impact are calculated for all TSMC locations based on different climate scenarios, time, and disaster risks. After quantification and ranking, a risk matrix is used to identify the risk levels (high, medium, and low) of different disasters across different locations. Lastly, TSMC compiles outcomes from the analysis.
+Outcome of Scenario Analysis on Physical Risks. 
+TSMC analyzed the risk of disasters across all facilities and supply chains with a physical risk analysis model. Results are as follows: • Droughts are the most significant physical risks. Under SSP58.5 scenarios, a certain percentage of TSMC facilities and supply chains will fall under high-risk areas. In particular, up to 35.7% of TSMC facilities will be located in high-risk areas. In the supply chain, indirect raw materials will face the highest risks as 19.1% will be located in high-risk areas.
+• Flood risks are generally quite low across TSMC facilities. Only TSMC's Nanjing facilities will be located in a high-risk area under SSP5-8.5 scenarios. In the supply chain, direct raw materials face the highest risks as 18% will be located in high-risk areas.
+• Heat risks continue to rise over time as climates grow extreme. Under SSP5-8.5 scenarios, TSMC Arizona and some suppliers will fall under high-risk areas.
+• The risks of mudslides, landslides, strong winds, and rising sea levels are not significant in the short, mid, or long term and do not have major impacts on TSMC or its supply chain.
+Physical Risk Analysis Process. 
+Percentage of TSMC Facilities and Supply Chains Located in the Long-term High-risk Areas Affected by Disasters (%)
+Note 1 & 2: Analysis of landslide and mudslide risks includes only TSMC facilities and supply chains in Taiwan. 
+Location Type (Numbers of Amounts)
+Scenario. 
+Risk Type. 
+Floods Droughts Heat Mudslide Note 1 Landslide Note 2 Winds Sea Level. 
+TSMC facilities (28)
+SSP1-2.6 0 25 3.6 0 0 0 0. 
+SSP5-8.5 3.6 35.7 3.6 0 0 0 0. 
+Direct raw materials(61)
+SSP1-2.6 1.6 3.3 3.3 0 0 0 0. 
+SSP5-8.5 18 4.9 3.3 0 0 0 0. 
+Equipment (156)
+SSP1-2.6 0.6 5.1 9 0 5.2 0 0. 
+SSP5-8.5 5.1 7.7 9 0 5.2 0 0. 
+Fab facilities (128)
+SSP1-2.6 3.9 14.8 7.8 1.5 0 0 0. 
+SSP5-8.5 3.9 18.8 7.8 0 0 0 0. 
+Indirect raw materials (880)
+SSP1-2.6 4.8 10.2 1.5 0.6 1.3 0 0.1. 
+SSP5-8.5 10.8 19.1 2 0.6 1.3 0 0.1. 
+Parts and components (166)
+SSP1-2.6 3 10.3 3 0 1.8 0 0. 
+SSP5-8.5 4.2 11.5 3 0 1.8 0 0. 
+Analysis Location. 
+Analysis Model Risk Matrix Analysis Results. 
+Key Risk Analysis. 
+All TSMC Facilities Five Categories of Supply Chains. 
+Likelihood Impact. 
+Observation Data CWB、Global Meteorological Units Weather parameter such as temperature、rainfall, etc.
+Climate Data IPCC、TCCIP AR6 report. 
+Definition of Disaster Domestic and Foreign Institutions definition of disaster standard 17 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+Africa, West Asia, India：Heat Risk. 
+China：Flood Risk Japan/Korea：Flood Risk. 
+TSMC Arizona is facing Heat risks (daily high temperature greater than 40℃ ), and up to 24.8% of its supply chain is located in high risk areas. 
+TSMC Nanjing is located in a high-risk area for flooding, and up to 22% of its supply chain is located in high risk areas. 
+Located in high-temperature high-risk areas, but the number of supply chains is relatively small.
+Some supply chains face flood risks, up to 22% in Japan and 10% in South Korea. 
+USA：Heat Risk. 
+TCFD Report. 
+TSMC and Supply Chains (Global) Long-term Risk in SSP5-8.5 18 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+TSMC and Supply Chains (Taiwan) Long-term Risk in SSP5-8.5. 
+Northern Taiwan：Taipei. New Taipei, Keelung, Yilan, Taoyuan, Hsinchu Flood Risk. 
+TSMC facilities and most of its supply chains are located in dry and high-risk areas. 
+The overall risk in the northern region is not significant. Only sporadic (2) supply chains in Yilan and Hsinchu are located in high-risk flood areas. 
+TSMC facilities and most of its supply chains are located in dry and high-risk areas, while sporadic supply chains are located in high-risk flood areas. 
+Middle Taiwan：Miaoli, Taichung, Changhua, Yunlin Drought Risk. 
+Southern Taiwan：Chiayi, Tainan, Kaohsiung Drought Risk, Few Flood Risk 19 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+1970 1980 1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100. 
+TCFD Report. 
+Analysis of Critical Physical Risks - TSMC Facilities. 
+Analysis of physical risks shows that TSMC facilities are mainly confronted with risks of droughts and heat. To learn more about their impacts and formulate adaptation strategies, TSMC dived deep to explore the impact of droughts and heat.
+Droughts. 
+TSMC uses Standardized Precipitation Index (SPI) to analyze the drought risks of TSMC facilities. Given SSPI1-2.6 and SSP5-8.5 scenarios, TSMC facilities will experience less rainfall before 2030. Analyses with SSP1-2.6 scenarios show that, after 2030, droughts in Taichung facilities will be alleviated while Tainan and Kaohsiung facilities will continue to experience droughts. Under SSP5-8.5 scenarios, drought risks in Tainan and Kaohsiung facilities will continue to rise after 2030. Analyses of global facilities show that fabs in TSMC Arizona face drought risks in the short- and mid-term. Other locations are not subject to significant drought risks.
+Heat. 
+TSMC categorizes facilities in Taiwan, China, the U.S., and Japan into eight locations based on climate scenario information to analyze the likelihood of these locations reaching extreme temperatures of 40°C. TSMC Arizona faces significant risks of extreme heat, with the number of extreme heat days growing each year. Other facilities around the world and in Taiwan have low heat risks. Historical temperature data on where TSMC Arizona fab is located show similar trends. The trend of rising extreme heat days will curb mid-century in SSP1-2.6 scenarios but sustain in SSP5-8.5 scenarios till the end of the century.
+Taiwan's SPI Distribution Map Given SSP1-2.6 (L) &SSP5-8.5 (R) Scenarios Note1. 
+Extreme Heat Days and Future Scenario Analysis from Youngtown Weather Station Note 2 of Arizona. 
+Note 1: Analysis covers the period from 2031 to 2040. The triangle represents TSMC locations in Taiwan. 
+Note 2: Youngtown weather station: Youngtown's weather station (USC00029634) is located around 25km from TSMC Arizona fab. Source: National Oceanic and Atmospheric Administration (NOAA) 130 110 90 70 年代
+Scenario: ━ Observation data ━ SSP1_2.6 ━ SSP1_8.5 Annual number of days value 0.0 -0.2 -0.1 20 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Analysis of Critical Physical Risks - Supply Chain. 
+Results from scenario analysis show that suppliers will face challenges from both droughts and floods in the mid and long term, and equipment may also malfunction as a result of extreme heat. TSMC will continue spotlighting and responding to these risks to ensure reliable operations and strengthen suppliers' climate resilience.
+年代
+Percentage of High Risk of Flood under SSP5-8.5 40.00% 30.00% 20.00% 10.00% 0.00% ━ Direct raw materials ━ Equipment ━ Fab facilities ━ Indirect raw materials ━ Parts and components ━ Direct raw materials ━ Equipment ━ Fab facilities ━ Indirect raw materials ━ Parts and components ━ Direct raw materials ━ Equipment ━ Fab facilities ━ Indirect raw materials ━ Parts and components. 
+Outcome. 
+Response. 
+Under SSP5-8.5 scenarios, the risk of flood increases over the long run. Around 18% of direct raw materials will be located in highrisk areas, mainly because most direct raw materials are sourced from areas with heavy rainfall potential such as Japan, China, South Korea, and Taiwan. 
+Elevate the foundations of TSMC facilities in critical areas and strengthen flood barriers and water pumping capabilities as a response to flood risks. 
+Percentage of High Risk of Drought under SSP5-8.5 40.00% 30.00% 20.00% 10.00% 0.00%
+Outcome. 
+Response. 
+Under SSP5-8.5 scenarios, supply chains face drought risks in the mid- and long-term. Around 19.1% of indirect raw materials will be located in high-risk areas because most indirect raw materials are sourced from the south or west of Taiwan, areas highly susceptible to droughts. 
+Use water conservation and emergency backup water sources as a response to water shortage from droughts. 
+Percentage of High Risk of Heat under SSP5-8.5 40.00% 30.00% 20.00% 10.00% 0.00%
+Outcome. 
+Response. 
+Compared to droughts and floods, the overall impact of heat is generally lower. High-risk areas are largely in the Americas, Africa, Arabian Peninsula, and the Indian subcontinent. Up to 9% and 7.8% of equipment and fab facilities, respectively, are located in high-risk areas. 
+Inspect heat tolerance of critical facilities and activities and adopt energy-saving measures to respond to heat risks. 
+Short term Short term Short term Mid term Mid term Mid term Long term Long term Long term 21 Commitment to Net Zero Emissions Sustainable Climate Governance Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix Enterprise Risk Management
+
+
+TCFD Report. 
+Forward-looking Climate Strategy. 
+At TSMC, climate change management is grounded in strengthening mitigation and adaptation, connecting with external parties to reduce carbon in the supply chain, and delivering low-carbon products and services to customers. By optimizing gas usage in manufacturing processes, fully adopting exhaust gas abatement equipment and decarbonized energy, enhancing energy efficiency, expanding resource recycling, selecting low-carbon-footprint materials, developing energy-efficient equipment, and taking green action, TSMC reduces carbon emissions with utmost efforts. Furthermore, TSMC collaborates with external parties to offset carbon, deliver energy-efficient low-carbon products and services to customers, and strengthen its green competitiveness.
+In terms of reducing carbon emissions across the supply chain, TSMC actively works with suppliers to strengthen low-carbon operation capabilities and optimize carbon reduction strategies. In 2022, TSMC assembled internal Green Supply Chain Management Team to promote low-carbon supply chain management through five approaches - Create Transparency, Optimize for CO2, Engage Suppliers, Push Ecosystems, and Enable your Organization. TSMC aims to generate synergy through horizontal integration and lead by example, driving suppliers to take action to reduce carbon emissions and achieve Net Zero Emissions across the value chain by 2050.
+TSMC assembles internal Green Supply Chain Management Team to promote low-carbon supply chain management through five approaches - Create Transparency, Optimize for CO2, Engage Suppliers, Push Ecosystems, and Enable Your Organization.
+TSMC actively works with suppliers to strengthen low-carbon operation capabilities and optimize carbon reduction strategies.
+22 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report • Drive Low-carbon Manufacturing. 
+Continue to use best available technology (BAT) to reduce GHG emissions and become an industry leader in low-carbon manufacturing • Use Renewable Energy. 
+Continue to purchase renewable energy and install solar PV systems to increase renewable energy usage • Increase Energy Efficiency. 
+Plan and implement annual new energysaving measures to increase energy efficiency, enforce energy-saving practices, and increase energy efficiency • NT$7.5 billion invested into reducing GHG emissions, which includes (1) GHG abatement facilities, (2) renewable energy premiums, (3) carbon credit expenses, and (4) other costs to reduce direct GHG emissions • Investments into Energy-saving Equipment: NT$1.35 billion • Reduced 5 million metric tons of direct carbon emissions • Used 2,190 GWh renewable energy and reduced carbon emissions by 1.1 million metric tons • Increased energy efficiency, conserved 700 GWh in electricity and reduced 360,000 metric tons in carbon emissions. 
+Main Initiatives 2022 Investments 2022 Achievements. 
+Energy Conservation and Carbon Reduction in TSMC Operations. 
+Climate Change Mitigation Management Strategy. 
+TSMC's primary climate change mitigation initiatives include promoting low-carbon manufacturing, using renewable energy, and increasing energy efficiency to reduce GHG emissions from TSMC operations. To fulfill the Net Zero Emissions by 2050 commitment, TSMC actively increases its use of renewable energy, consistently increases power supplies from onshore wind farms, and in 2022 introduced renewable energy from small hydroelectric stations to diversify renewable energy sources. In Taiwan alone, TSMC has increased renewable energy usage to 970 GWh, achieving a year-on-year growth of 47% and maintaining a 100% renewable energy usage across global offices. In addition, TSMC purchases renewable energy, RECs, and carbon credits to offset 100% of carbon emissions from power used in overseas locations. 2022 marks the fifth consecutive years that TSMC has achieved zero emissions from power consumption in overseas subsidiaries.
+TSMC overseas sites achieved net zero emission in Scope 1 and 2 0. 
+In 2022, TSMC introduced 684 additional energy-saving measures across eight major categories, effectively conserving 700 GWh in electricity 684 Energy-saving Measures. 
+TSMC actively expands the use of renewable energy.
+23 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Climate Change Mitigation Benchmarks. 
+TSMC is committed to promoting industry-leading benchmark practices to reduce GHG emissions from direct emissions (Scope 1) and indirect emissions (Scope 2 and Scope3). Scope 1 (direct) emissions are primarily from Fluorinated Greenhouse (F-GHGs) and nitrous oxide from by natural gases used in TSMC facilities. Local abatement facilities have effectively reduced F-GHG and nitrous oxide emissions, while natural gases are offset with carbon-neutral natural gases.
+Scope 2 emissions are mainly indirect emissions from energy consumption. To reduce Scope 2 emissions, TSMC continues to deploy ISO 50001 Eergy Management System (EMS), build green buildings, and lead its five major energy conservation teams to conserve energy in production equipment through the Energy Saving and Carbon Reduction Committee. In 2022, TSMC promoted a range of green action plans and developed innovative energy conservation programs, including Hot Water Recycling System for Wafer Cleaning Tool, Intelligent Compressed Dry Air (CDA) Flow Control System and Optimized AI-powered Water Chiller System. In 2022 TSMC also founded the Engineering Center for Green Manufacturing, integrating energy-saving measures across facilities for horizontal rollout, which will also become standard designs for new facilities. Overseas facilities - TSMC (China) and TSMC (Nanjing) - have also joined Taiwan facilities in conserving energy. In 2022, TSMC implemented 684 energy conservation measures across eight categories, conserving 700 GWh, the equivalent of reducing 360,000 metric tons of carbon emissions.
+Scope 3 (indirect) emissions largely stem from raw material production in the upstream value chain. Engaging with suppliers is therefore critical to reducing carbon emissions. For more information, please refer to Increase Climate Influence on Supply Chain.
+TSMC is committed to promoting industry-leading benchmark practices to reduce GHG emissions.
+24 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Facility Equipment. 
+Conserved 24GWh in electricity and reduced 12,000 metric tons of CO2e with 49 energy-saving measures • Reduce PCW and exhaust emissions from manufacturing processes • Optimize temperature settings for heating equipment. 
+Conserved 38.7GWh in electricity and reduced 19,000 metric tons of CO2e with 23 energy-saving measures • Smart lighting in non-cleanroom areas • Replace bulbs with LED lighting. 
+Fabs: All fabs Fabs: All fabs. 
+Conserved 95GWh in electricity and reduced 48,300 metric tons of CO2e with 191 energy-saving measures • Replace with new high-efficiency, energy-saving pumps and chillers. 
+Fabs: All fabs (excl. Fab 18)
+Conserved 172GWh in electricity and reduced 87,000 metric tons of CO2e with 173 energy-saving measures • Use high-efficiency, energy-saving auxiliary equipment and components for new equipment • Optimize water usage and exhaust settings. 
+Fabs: 12-inch fabs/advanced backend fabs. 
+Fabs: All fabs. 
+Conserved 33GWh in electricity and reduced 16,000 metric tons of CO2e with 17 energy-saving measures • Energy-saving mode for Uninterrupted Power Supply System • Cooling fan for battery cabinet to conserve energy • Use standby mode for Local Scrubbers. 
+Manfacturing Tools. 
+Total: 684 measures. 
+Conserved 127GWh in electricity and reduced 64,000 metric tons of CO2e with 63 energy-saving measures • Modify wet film plate for makeup air handling unit (MAU) • Energy-efficient fan blades for PCW towers. 
+Fabs: All fabs. 
+Conserved 41.58GWh in electricity and reduced 21,000 metric tons of CO2e with 2 energy-saving measures • AI-powered Chilled Water Energy Saving System • Replace cold water with PCW for cooling air compressors throughout first- and second-stage compression. 
+Fabs: All fabs. 
+Conserved 170GWh in electricity and reduced 86,000 metric tons of CO2e with 164 energy-saving measures • Replace tool components with energy-saving components. 
+Fabs: All fabs. 
+Note: CO2e factor is 0.509 kg/kWh; 1kWh= 3,600 kilojoules. 
+Energy Conservation Measures. 
+Energy Usage Management. 
+Lighting Energy Savings. 
+Equipment Adjustments. 
+Standby Energy Savings. 
+Unit Replacement. 
+A.C. Energy Savings. 
+New Units Specs Increased Performance 25 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Main Emission Source Actions 2022 Achievements. 
+Processes that use F-GHGs and nitrous oxide • Optimize gas quantity used in production • Substitute high global warming potential (GWP) fabrication gases • Install Point-of-Use abatement equipment for F-GHG and nitrous oxide • Use carbon-neutral natural gas 100% Introduce optimized process parameters in accordance with the manufacturing specifications by the Intelligent Engineering Center 100% Apply optimized carbon reduction technology – remote plasma dissociation of nitrogen trifluoride (NF3) to all 12-inch fabs 100% Apply nitrogen trifluoride (NF3)/octafluorobutane (C4F8) to 6-inch and 8-inch fabs 3,900 Install equipment with new F-GHG and nitrous oxide reduction technologies 95% Replace 91 existing tools with fluorinated gas processes; installation rate: 95% 1 First in Taiwan to use carbon-neutral natural gas. The facilities in Taiwan have had zero carbon footprints and TSMC has been able to reduce emissions by 0.28 million metric tons CO2e. 
+GHG Reduction Standard Practices. 
+TSMC continues to develop energy-saving models for AI-powered chiller water systems to improve energy efficiency.
+Scope 1 Direct GHG Emissions 26 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Note 1: Figures from Joint Steering Committee (JSTC) report of the World Semiconductor Council. 
+Note 2: High Energy Consumption Suppliers are suppliers that use >5 GWh/year in a single facility. 
+Note 3: Definition of material and equipment critical suppliers: Suppliers of raw materials and equipment accounting for the top 80% of procurement categories and expenditures. 
+Main Emission Source Actions 2022 Achievements. 
+Energy usage • Build Green buildings • Increase energy efficiency • Use energy-saving & low-carbon emission designs in next-generation process tools • Purchase renewable energy 1. 
+TSMC led the global semiconductor industry with the largest LEED-certified building area; three buildings received green building certification in 2022, bringing TSMC's total to 40 LEED-certified buildings and 28 EEWH certified buildings 684 Measures. 
+Energy efficiency of advanced technologies led industry peers Note 1; carried out 684 energy-saving measures over 8 major categories and saved 700 GWh, equivalent of nearly 360,000 metric tons CO2e 1. 
+The world's only semiconductor company to launch energy-saving programs for next-generation semiconductor fab tools; completed 195 energy-saving programs with an accumulation of 500 GWh electricity saved >10% In addition to using 100% renewable energy for global offices, TSMC also purchased 2,190 GWh of renewable energy around the whole world, accounting for 10.4%
+Main Emission Source Actions 2022 Achievements. 
+Raw material production, energy-related activities upstream, and transportation • Supplier required to obtain external verification • Reduce carbon footprint from raw materials • Participate in CDP Supply Chain Program new • Optimize delivery schedules 65% High Energy Consumption Suppliers Note 2 must pass GHG emissions inventory and third-party verification; 65% of suppliers have been verified 97,000 Metric Tons. 
+High Energy Consumption Suppliers were asked to set annual targets and implement real energysaving actions; in 2022, TSMC suppliers conserved 190 GWh and reduced 97,000 metric tons CO2e 81% Invite material and equipment critical suppliers note3 to disclose carbon reduction targets and progress with a response rate of 81% 28,000 Metric Tons. 
+Improved the delivery schedule for process tools and replaced air freight with ocean freight, reducing 28,000 metric tons CO2e. 
+Scope 2 Indirect GHG Emissions (From Purchased Energy)
+Scope 3 Indirect GHG Emissions (Value Chain) 27 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report • Strengthen Climate Resilience. 
+Develop climate change response and measure to reduce the impact of climate risks • Develop Diverse Water Sources. 
+Integrate internal/external resources, develop water reclamation technologies, and continue to practice water conservation and use reclaimed water during manufacturing • Investments into water conservation and reclamation equipment: NT$4.13 billion • Operating, maintaining, and repairing water conservation and reclamation equipment: NT$2.1 billion • Reduced unit water consumption by 2.6% (Base year: 2010) • Saved 3.35 million cubic meters of water • TSMC Tainan Science Park Reclaimed Water Plant commenced operation on September 19, 2022. 
+Adaptation to Climate Disasters. 
+Climate Change Adaptative Management Strategy. 
+Resilience against climate disasters is integral to companies. TSMC uses global warming scenarios provided in the IPCC's latest physical science basis to identify disaster factors introduced by extreme climates in existing and new facilities each year and develops Climate Risk Adaptative Standards to strengthen operational resilience. In 2022, TSMC successfully defended against the potential impact of disasters and potential operating losses caused by climate change to achieve zero production interruption. Listed on the CDP's A List of leading businesses in Water Security for three consecutive years A List. 
+The world's first industrial reclaimed water plant for advanced semiconductor processes 1. 
+TSMC continues to practice water conservation and use reclaimed water during manufacturing.
+Main Initiatives 2022 Investments 2022 Achievements 28 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Climate Risk Adaptative Standards. 
+Climate Risk Adaptative Standards Compliance in 2022. 
+Power Shortage. 
+Ensure all 12-inch fabs have LEED (U.S.) or EEWH (Taiwan) accreditation for energy-saving designs. 
+Contingency measures for power restrictions and backup emergency power generators shall exceed 30% of the total power supply and ensure a reserve power source that can provide 15% of power supply during maximum energy rationing. 
+Floods. 
+Elevate foundations of new fabs in Southern Taiwan Science Park by two meters, lowering risk of flooding. 
+Evaluate external public facilities and major suppliers for potential flooding risks and supervise them to mitigate risks. 
+For factories with potential flooding risk, complete contingency drills as planned. 
+Install flood doors for existing fabs and buildings in areas with high flooding risks. 
+Drought. 
+Promote water conservation within the Company and increase water recycling rate from manufacturing processes. 
+Support government policies on reclaimed water; commit to developing and using reclaimed water. 
+Establish water shortage contingency measures: ensure at least two days of backup water supply at all facilities, prepare water tankers and water sources that can provide 20% of water supplies during maximum water restrictions. 
+Winds Strengthen outdoor facilities (water cooling towers, decontamination facilities, etc.) to withstand strong winds up to 17 on the Beaufort scale. 
+Regulations. 
+Participate in regulatory discussions to ensure government regulations are reasonable and viable. 
+Strengthen mitigation measures and develop the renewable energy market to reduce impacts from carbon taxes and energy taxes. 
+Customer Demands. 
+Actively engage to ensure customer demands are reasonable and viable. 
+Participate in customer's carbon credit programs to meet customer expectations with carbon offsetting. 
+Expectations from other Stakeholders Outline and develop strategies toward carbon neutrality with help and approval from external parties. 
+CO2 29 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Improve Water Production Rate of the System • Increased the water production rate of RO recycling systems by 123,000 m 3 (3.7%) • Improved usage efficiency by allocating 1,935,000 m 3 of recycled water (57.7%)
+Effective Water Management. 
+TSMC introduced AWS (Alliance for Water Stewardship) standards to ensure sustainable water management and compiled its Guidelines for Sustainable Water Management to promote a long-term strategy of Fab matching. In 2022, Fab 12A, Fab 12B, Fab 5, and Advanced Backend Fab 3 (Longtan Science Park) received Platinum AWS Certification. TSMC became the first in the semiconductor industry to obtain the highest level of certification for three consecutive years with advanced process facilities. In addition, TSMC has been on the CDP's Water Security A List for three consecutive years, which is a recognition of TSMC's sustainable water management by the global community.
+TSMC has created an internal Water Map to effectively manage and gain insight into water consumption in TSMC facilities. In addition, TSMC tracks reservoir water levels and deploys in-house water quality and water level monitoring sites to monitor industrial water consumption, water recycling, wastewater, and domestic water consumption according to the water balance chart. The monitoring enables TSMC to identify how much water is used, where it is used, and how it recycles and reuses wastewater to calculate recycling/discharge percentages and estimate each unit's water consumption to allocate accordingly. In 2022, TSMC continued to implement the four major water conservation measures of Reduce. 
+Facility System Water Consumption, Increase Wastewater Recycling of Facilities, Improve Water Production Rate of the System, and Decrease Water Discharge Loss from the System and was able to conserve 3.35 million cubic meters of water, a 34.7% increase from the previous year.
+The year 2022 marked the start of water reclamation at TSMC. To make most use of every drop of water, TSMC actively develops water reclamation technologies and continues to support the government's water reclamation programs. In October 2022, TSMC Tainan Science Park Reclaimed Water Plant commenced water supply and TSMC was able to successfully use water reclaimed by the Yongkang Water Reclamation Plant for production. As of December, TSMC Tainan Science Park Reclaimed Water Plant supplied a total of 380,000 cubic meters of water reclaimed from industrial wastewater. In 2023, TSMC hopes to bring in reclaimed water from Anping Water Reclamation Plant to continue reducing tap water demands and consumption. In 2022, TSMC also launched Hsinchu Science Park Reclaimed Water Plant project. When completed, the water plant is estimated to supply 10,000 cubic meters of water every day in 2025. With the Hsinchu Science Park Reclaimed Water Plant and reclaimed water provided by the city government, new 2nm fabs in Hsinchu Science Park will run 100% on reclaimed water, fulfilling TSMC's 2030 commitment to replace more than 60% of water resources with reclaimed water and dedication to sustainable water practices.
+Water Saving Measures and Achievements in 2022. 
+Increase Wastewater Recycling by Facilities • Recycled 107,000 m 3 of acidic wastewater (3.2%) • Reclaimed 24,000 m 3 of acidic wastewater (0.7%) • Reclaimed 121,000 m 3 of organic wastewater (3.6%) • Reclaimed 203,000 m 3 from central wet scrubber (6.1%)
+Decrease Water Discharge Loss from the System • Recycled 832,000 m 3 from MAU Drain (24.9%)
+Reduce Facility System Water Consumption • Recycled 2,000 m 3 of TMAH-containing water (0.1%)
+Additional water conservation m 3 3.35 Million 30 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report • Develop Sustainable Products. 
+Research and develop ULP chips, evaluate a product's environmental and social impacts at each stage of the product life cycle and deliver products with low environmental, carbon, and water footprints to customers • Invested NT$127.6 billion in the R&D of advanced processes • Invested NT$9.47 billion in the R&D of PMICs and ULP technology platforms • Revenue from sustainable products achieved NT$1.2 trillion • Rapid volume production of 7nm and newer process technologies led to a significant increase of their percentage to annual wafer sales from 9% in 2018 to 53% in 2022 • Energy efficiency of 5nm process technologies increased 60% in the third year of volume production, exceeding the annual target of 40%
+Low-carbon Product Innovations. 
+Low-carbon Products and Services Management Strategy. 
+TSMC works with upstream suppliers (raw materials and equipment), design ecosystem partners, and downstream businesses (packaging and testing) to consider the full product life cycle and take real action to reduce product carbon footprint. With its innovative leading semiconductor process technologies, TSMC also helps customers produce more advanced, energy-efficient, and eco-friendly products. Examples of TSMC's green products include ultra-low power (ULP) and low operating voltage (low Vdd) wearable devices, IoT chips, low-power phone chips, LED driver chips for backlight systems in flat panel displays, LED driver chips for indoor and outdoor solid-state lighting, low standby power AC/DC transformer chips certified by Energy Star, high-performance brushless DC motor chips, EV chips, and low-power server chips. Chips produced by TSMC's high-performance and energy-efficient technologies can support infrastructure for sustainable cities, energyefficient transportation, smart grids, and energy-efficient servers and data centers.
+Revenue from sustainable products. 
+NT$1.2Trillion. 
+Energy efficiency of 5nm process technologies increased 60% in the third year of volume production 60%
+Main Initiatives 2022 Investments 2022 Achievements. 
+TSMC reduces product carbon footprint and supports more energy-efficient vehicles.
+31 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Drive Global Energy Conservation with Advanced Technologies. 
+The low-carbon products that TSMC produces for customers are daily, essential items such as computers, telecommunication products, consumer products, industrial applications, EVs, servers, data centers, and other end products. TSMC also spearheads energy efficiency efforts across its value chain and delivers real impact. IC line widths and transistors shrink with each new generation of semiconductor technologies. Electronics are, therefore, able to achieve the same tasks or deliver the same efficiency while consuming less energy. TSMC continues to push the boundaries of advanced semiconductor process technologies, striving to deliver more advanced, energy-efficient products to customers. In 2022, TSMC increased the energy efficiency of 5nm process technologies by 60% in the third year of volume production, exceeding the annual target of 40%.
+N55LP (1.2V) N55LP (1.2V) N40LP (1.1V) N40LP (1.1V) N28HPM (0.9V) N28HPM (0.9V) 16FFC/ 12FFC (0.8V) 16FFC/ 12FFC (0.8V) 10nm (0.75V) 10nm (0.75V) 7nm (0.75V) 7nm (0.75V) 5nm (0.75V) 5nm (0.75V) 3nm (0.75V) 3nm (0.75V) 0.022 0.015 0.026 0.034 0.056 0.07 0.3 0.6 1. 
+Chip Total Power Consumption Cross-technology Comparison: More Power is Saved as Line Width Shrinks Chip Die Size Cross-technology Comparison: Die Size Reduces as Line Width Shrinks 0.035 0.047 0.063 0.11 0.25 0.48 1. 
+Note: The logic chip/SRAM/IO (input/output) ratio, which affects die size and power consumption, was re-aligned. 
+TSMC continues to push the boundaries of advanced semiconductor process technologies, striving to deliver more advanced, energyefficient products to customers. In 2022, TSMC increased the energy efficiency of 5nm process technologies by 60% in the third year of volume production, exceeding the annual target of 40%.
+32 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Increase Climate Influence on Supply Chain. 
+Carbon Reduction Management Strategy of the Supply Chain. 
+TSMC is committed to reducing its supply chain's impact on climate change with the core strategies of develop and purchase energy-efficient green tools and low-carbon supply chain management. TSMC will also continue to optimize management and actions based on its Net Zero Emissions goal and carbon emissions hotspot analysis on the supply chain, helping suppliers allocate resources efficiently, strengthen carbon reduction capabilities, and build a green low-carbon supply chain. Suppliers invited to participate in CDP responded 81%
+Suppliers who replied CDP conducted GHG inventory or estimated emissions 93%
+TSMC is committed to building a green lowcarbon supply chain.
+• Develop and Purchase Energy- efficient Green Tools. 
+Collaborate with suppliers to develop energy-efficient machines, integrate energy-saving measures across fabs, and introduce procurement standards • Low-carbon Supply Chain. 
+Management. 
+Work with suppliers to reduce carbon emissions and increase the quality and transparency of carbon emission data; establish a management mechanism and ask suppliers to set goals for energy/water conservation and carbon reduction. Manage performances based on data and require third-party verification • Invested NT$91 million in the R&D of energy-efficient EUV components, bringing total investments up to NT$1.59 billion (base year: 2018) • Invested over NT$10 million in human resource cost • In 2022, introduced 36 energy-saving programs, bringing the total accredited program count up to 195. Energysaving programs and the deployment of energy-saving measures across facilities have helped conserved a total of 500 GWh throughout the years • In 2022, TSMC suppliers conserved 190 GWh in energy and 9.37 million metric tons of water; 65% of high energy consumption suppliers received ISO 14064 certification for GHG emissions verification (Base year: 2021)
+Main Initiatives 2022 Investments 2022 Achievements. 
+Note: High energy consumption suppliers are suppliers that use >5 GWh/year in a single facility 33 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+TSMC is the first semiconductor company in the world to drive tools suppliers to introduce energy-saving measures.
+Develop and Purchase Energyefficient Green Tools. 
+TSMC is the first semiconductor company in the world to drive tools suppliers to introduce energy-saving measures for advanced process. In addition to requiring the top 90% energy-intensive suppliers to develop more energy-efficient advanced process tools, TSMC has also integrated energy-efficient standards into the new tools procurement. In 2018, TSMC launched the Energy Conservation Action Project for Next-generation Fab Tools to introduce high-performance components and energyefficient designs to ten major domains. The scope of design includes key projects such as optimizing tool components and configuration, new laser control systems, and energy-efficient designs for tools in quiescence. TSMC is also evaluating the feasibility of using Low Global Warming Potential Gases and directly mitigating carbon emissions by evaluating new processes. As of 2022, 195 of TSMC's energysaving measures have been accredited and successfully applied to hundreds of advanced process tools. Energy-saving programs and the deployment of energysaving measures across facilities have helped conserved a total of 500 GWh throughout the years.
+34 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Low-carbon Supply Chain Management. 
+Reducing carbon emissions from the supply chain is a critical part of TSMC achieving Net Zero Emissions. In 2022, following WEF's guideline, Net-Zero Challenge: The Supply Chain Opportunity, TSMC has reorganized its low-carbon supply chain management to strengthen its actions by focusing on five approaches that are Create Transparency, Optimize for CO2, Engage Suppliers, Push Ecosystems, and Enable your Organization.
+Strategies 2022 Achievements. 
+Five Approaches. 
+Note: In 2022, TSMC invited a total of 137 raw material and equipment suppliers (representing 80% of TSMC expenses), based on procurement category and percentage of expenses, to join CDP Supply Chain Program. A total of 111 suppliers completed climate change questionnaires. 
+Include carbon emissions into supplier audit items and worked with suppliers to reduce carbon emissions. 
+Continue to optimize TSMC's manufacturing and procurement strategies to better support carbon reduction. 
+Work with suppliers to increase the quality and transparency of carbon emissions data from the supply chain. 
+Participate in low-carbon engagement projects and initiatives in the industry. 
+Establish internal mechanisms to reduce carbon emissions and increase incentives for employees to reduce carbon emissions • Requested and supported suppliers to deliver better green performances through the TSMC Supplier Sustainability Standards • Rolled out green innovative projects to the supply chain. Working with suppliers through the Supplier Carbon Capture Program has already captured 800 metric tons of CO2 as of 2022 • Reduced the use of bulk chemicals by reducing time span, extending use, replacing, and skipping stations, which has helped reduce carbon emissions of raw materials from the manufacturing side by 178,000 metric tons • Continued to optimize procurement strategies, improved the delivery schedule for process tools, and replaced air freight with ocean freight, reducing 28,000 metric tons in GHG emissions • Invited critical raw materials and equipment suppliers and critical suppliers Note to participate in the CDP Supply Chain Program. Questionnaire results show that 93% of suppliers have conducted GHG inventory or estimated emissions and 71% have set carbon reduction targets • Worked with suppliers to conduct life cycle assessments for raw materials and uncover carbon emission hotspots. In 2022, chemicals, bulk gases, and silicon wafers produced around 5.6 million metric tons of carbon emissions • Continued to promote the Energy Conservation Action Project for Next-generation Fab Tools • Promoted the Renewable Energy Joint Procurement Project to help suppliers diversify renewable energy sources • Established a Green Supply Chain Management Team, responsible for reducing carbon emissions across the supply chain • Hosted the TSMC ESG AWARD to encourage employees and suppliers to uncover opportunities for carbon reduction. 
+Create Transparency Optimize for CO2 Engage Suppliers Push Low-carbon Ecosystem Establish Internal Carbon Reduction Mechanisms 35 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Management Performance and Goals Prospects Appendix Forward-looking Climate Strategy
+
+
+TCFD Report. 
+Management Performance and Goals. 
+Net Zero Performance Evaluation and Commitment. 
+As the technology provider in dedicated IC foundry, TSMC is deeply aware of its responsibilities to areas where TSMC operates and the global environment. In addition to setting mid and longterm goals for the four major management initiatives, TSMC also reviews progress each year and makes rolling adjustments based on external landscapes and trends, hoping to mitigate climate impacts through management by objectives and ensure business continuity. In response to rising carbon costs from the global lowcarbon transitions, TSMC has started building an internal carbon pricing scheme, considering factors such as regulations, fines, market pricing, and cost of carbon reduction. The carbon pricing scheme reflects carbon costs in impact valuations of daily reduction measures and includes it when deciding whether to invest in a new facility. For example, TSMC implemented 684 energy conservation measures across eight categories in 2022 under the energy conservation program, saving 700 GWh in energy in 2022 alone. Evaluations using TSMC's internal carbon pricing scheme show that the potential external carbon costs from reducing carbon emissions are NT$530 million.
+TSMC implements 684 energy conservation measures across eight categories in 2022 under the energy conservation program, saving 700 GWh in energy in 2022 alone. Evaluations using TSMC's internal carbon pricing scheme show that the potential external carbon costs from reducing carbon emissions are NT$530 million.
+TSMC hopes to mitigate climate impacts through management by objectives and ensure business continuity.
+36 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report 2030 Goals. 
+Long-term Targets of Four Management Strategies. 
+Note 1: Absolute value of energy efficiency improvement targets are replaced with energy-saving rate to avoid value differences incurred by market fluctuation and changes in power use. The rate is the cumulative energy-saving results since the base year 2016. 
+Note 2: Energy efficiency is the product equivalent per kWh of power (12-inch equivalent wafer mask layer/kWh)
+Note 3: Mainly focused on suppliers based in Taiwan, which is the main operation region of TSMC. 
+Note 4: The cumulative total of power reduced included the existing achievement of past efforts and the newly achieved reduction results. 
+Note 5: Definition of high energy consumption suppliers: Suppliers in Taiwan whose energy consumption at a single site exceeds 5 GWh per year. 
+Note 6: Mainly focusing on suppliers in Taiwan producing 80% of the waste in raw materials. Calculation formula: A/(A+B)(%); A: waste reduced by the factory in that month (metric tons); B: waste produced by the factory in that month (metric tons)
+Note 7: In the most recent two years, the main waste-producing suppliers have vigorously promoted waste reduction and improvement plans, thus the target for 2030 has been increased from 35% to 42%. The key improvements were: (1) Recycling of heavy metal sludge, converting sludge that could only be solidified and treated into renewable raw materials; (2) Installing sludge filtration and treatment equipment to decrease sludge output • Reduce unit GHG emissions by 30% compared to the base year (metric ton of carbon dioxide equivalent (MTCO2e)/12-inch equivalent wafer mask layer), and restore GHG emissions to the 2020 level (Base year: 2020) • Starting from the 3nm new fabs, renewable energy accounts more than 20% of energy consumption and the purchasing of renewable energy increases annually to achieve 40% renewable energy company-wide • Cumulative energy-saving rate reached 18% between 2016 and 2030 through new energy-saving measures Note 1 • Outsourced unit waste disposal per wafer ≦ 0.50 (kg/12-inch equivalent wafer mask layer) • Double energy efficiency after five years of volume production for each process technology Note2. 
+Mitigation • 0 day of production interruption due to climate disasters • Reduce unit water consumption by 30% (L/12-inch equivalent wafer mask layer) (Base year: 2010) • Increase the replacement rate of reclaimed water by more than 60%
+Adaptation. 
+Low-carbon Products and Services • Provide consultation on energy conservation for suppliers Note3 and reduce energy consumption by a total Note4 of 1,500 GWh (Base year: 2018) • Ensure 100% of high energy consumption Note5 suppliers receive ISO 14064 GHG Emission verification (Base year: 2021) • Provide consultation on water conservation for suppliers and reduce water consumption by a cumulative total of 35 million tons (Base year: 2020) • Reduce waste production Note6 among local major suppliers by 42% Note7 (Base year: 2014)
+Suppliers invited to participate in CDP in the year should achieve an average score of B and a response rate of 95%
+Supply Chain Carbon Reduction new 37 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report 0 day of production interruption due to climate disasters. 
+Target: 0 days. 
+Reduced unit water consumption by 2.6%
+Base year: 2010. 
+Target: 16%Note2. 
+TSMC Tainan Science Park Reclaimed Water Plant started supplying water on September 19, 2022. 
+Target: TSMC Tainan Science Park Reclaimed Water Plant in commission 2022 Achievements. 
+Reduce unit GHG emissions (metric ton of carbon dioxide equivalent (MTCO2e)/12-inch equivalent wafer mask layer) by 6%
+Target: 6% (Base year: 2020)
+Used 2,190 GWh of renewable energy Note1 and RECs; TSMC overseas sites used 100% renewable energy; accounting for 10% of TSMC's power consumption. 
+Target: TSMC overseas sites used 100% renewable energy; accounting for 10.4% of TSMC's power consumption 700 GWh energy saved, and cumulatively saved 3,100 GWh; Supply Chain Carbon Reduction. 
+Target: 700 GWh; 3,100 GWh. 
+Outsourced unit waste disposal per wafer ≤ 0.99 (kg/12-inch equivalent wafer mask layer)
+Target: ≤ 0.99. 
+Increase 5nm process technology energy efficiency 0.6 times higher in the third year of volume production. 
+Target: increase 5nm process technology energy efficiency 0.4 times higher in the third year of volume production. 
+Achievements of Four Management Strategies. 
+Achieved Missed Target. 
+Note 1: Definition of Renewable Energy Use: Purchased , self-generated renewable energy, and RECs and carbon credits produced by renewable energy. 
+Note 2: In 2022, TSMC added Fab 18 Phases 6, 7 & 8. While not yet operational (volume production level), the new facilities still consume water at a fixed rate, as such the Company failed to reach the 2022 target for unit water consumption. Excluding the new facilities, the unit water consumption was 15.6% in 2022. In the future, facilities below a certain economic scale will be excluded from the calculation of unit water consumption. 
+Note 3: Suppliers invited to participate in CDP in 2022: A total of 137 suppliers of raw materials and equipment met the top 80% of procurement categories and expenditures. 
+Mitigation. 
+Adaptation. 
+Low-carbon Products and Services. 
+Reduced supplier energy consumption by a cumulative total of 530 GWh (Base year: 2018)
+Target: 430 GWh 65% of high energy consumption suppliers received ISO 14064 certification (Base year: 2021)
+Target: 55%
+Reduced supplier water consumption by a cumulative total of 29.08 million metric tons (Base year: 2020)
+Target: 20 million metric tons. 
+Reduced waste production per unit among local major suppliers by 34%
+Target: 32%
+Suppliers Note3 invited to participate in CDP in the year achieved an average score of C and a response rate of 81%
+Supply Chain Carbon Reduction new 38 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+83.4 17.3 25.8 2.3 87.8 19.2 28.8 2.4 107.3 21.6 31.9 3.0. 
+TCFD Report. 
+Eco-efficiency Indicators. 
+Defined as revenue created by each unit of pollutant emissions and resource consumption, eco-efficiency indicators are now used by TSMC as metrics to measure action plans aimed at reducing energy and resource consumption and pollution. TSMC has defined five eco-efficiency indicators: GHG emissions, wastewater discharge, waste production, energy consumption, and water consumption. All the five ecoefficiency indicators of TSMC increased from 2021 to 2022. GHG emissions and waste production exhibit the most significant growth, indicating that energy conservation, carbon reduction, and circular resource measures have yielded outstanding results and effectively increased eco-efficiency.
+TSMC's Eco-efficiency Indicators 2020 2021 2022. 
+GHG Emissions. 
+NT$1,000/kg - CO2 equivalent. 
+Water Use. 
+NT$1,000/metric tons. 
+Wastewater. 
+NT$1,000/metric tons. 
+Waste. 
+NT$1,000/kg. 
+Energy Use. 
+NT$1,000/1,000kWh 135.1 149.6 194.8. 
+TSMC practices green manufacturing and strives to optimize resource efficiency.
+39 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report 2018 2019 2020 2021 2022 Year. 
+Scope 1. 
+Scope 3. 
+Scope 2. 
+GHG Emissions. 
+TSMC is committed to achieving net zero emissions. Every year, the Company evaluates progress in carbon reduction through an annual GHG emissions inventory and formulates carbon reduction strategies. In 2022, direct emissions from processes (Scope 1) accounted for 11% and were primarily from F-GHGs and nitrous oxide in processes; indirect GHG emissions from purchased energy (Scope 2) accounted for 50%; and indirect GHG emissions from the value chain (Scope 3) accounted for 39%, which were primarily from producing raw materials, energy-related activities in the upstream, and transportation.
+Note 1: GHG emissions data for Scope 1 and Scope 2 comes from TSMC fabs in Taiwan, TSMC (China), TSMC (Nanjing), WaferTech, and VisEra. 
+Note 2: Scope 1 inventory data has been changed to 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gases Inventories since 2020. 
+Note 3: Scope 3 GHG emissions only includes TSMC fabs in Taiwan. 
+Note 4: Emission factor based on data released in 2022 by the Bureau of Energy stating that 0.509 kg of CO2e/ kWh, where 1 kg of CO2e equals 6,805 kJ. 
+Distribution of GHG Emissions. 
+Scope1 Scope2 Scope3. 
+Scope 1. 
+Scope 2. 
+Scope 3. 
+GHG Emissions 1,705,746 419,979 0.0045 1,678,753 392,989 0.0043 1,710,677 294,164 0.0033 1,808,427 343,510 0.0031 1,669,770 349,019 0.0026. 
+Taiwan Fabs Subsidaries Emission Intensity tCO2e/12"wfr-layer 6,325,931 23,711 0.0133 6,673,235 24,636 0.0138 7,429,951 29,905 0.0124 8,116,440 36,057 0.0117 9,510,082 29,683 0.0122 39% 50% 11%
+Unit: metric tons. 
+Purchased Goods and Services (ref. SimaPro model)
+Fuel and Energy Related Activities (ref. EPA carbon footprint database)
+Waste generated in operations (ref. EPA carbon footprint database)
+Downstream transportation (ref. EPA carbon footprint database)
+Upstream transportation (ref. EPA carbon footprint database)
+Employee commuting (ref. EPA carbon footprint database)
+Business travel (ref. Boustead model) 107 108 109 111 110 Year 3,003,466 1,244,524 35,423 1,880 1,300 25,775 3,129 3,446,030 1,790,596 36,758 3,054 661 27,028 2,901 3,788,115 1,637,711 53,178 2,119 1,064 28,916 383 4,395,879 1,549,426 70,073 3,117 647 29,907 208 5,604,013 1,715,328 70,230 3,914 741 33,526 1,406 40 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report. 
+Key Indicators 2019 2020 2021 2022. 
+GHG emissions MTCO2e) (incl. Scope 1 & market-based Scope 2) 8,769,614 9,464,696 10,304,344 11,599,089. 
+Scope 1 (MTCO2e) 2,071,743 2,004,841 2,151,937 2,018,789. 
+Taiwan Fabs 1,678,754 1,710,677 1,808,427 1,669,770. 
+Subsidiaries Note 1 392,989 294,164 343,510 349,019. 
+Scope 2 (MTCO2e) (market-based) 6,697,872 7,459,856 8,152,497 9,539,765. 
+Taiwan Fabs 6,673,235 7,429,951 8,116,440 9,510,082. 
+Subsidiaries Note 1 24,637 29,905 36,057 29,683. 
+Scope 2 (MTCO2e) (location-based) 7,350,195 8,282,509 9,196,964 10,887,145. 
+Scope 3 (MTCO2e) 5,307,028 5,511,486 6,049,256 7,429,158. 
+Carbon Offset (MTCO2e) 41,945 4,125 241,577 616,271. 
+F-GHG (MTCO2e) 1,081,212 1,311,530 1,369,478 1,102,353. 
+Percentage of unit product GHG emissions (MTCO2e/12-inch equivalent wafer mask layer) compared to base year (%) 17 23 5 6. 
+Energy Consumption (GWh) (incl. electricity, natural gas, and diesel) 14,323 16,919 19,192 22,423. 
+Direct Energy Consumption (GWh) (incl. natural gas and diesel) 747 861 1,112 1,336. 
+Indirect Energy Consumption (GWh) (energy excl. non-renewable energy) 12,658 14,828 16,409 18,895. 
+Indirect Energy Consumption (GWh) (renewable energy) 918 1,230 1,671 2,191. 
+Percentage of Renewable Energy Used at Global TSMC Locations (%)) 6.7 7.6 9.2 10.4. 
+Climate-related Management Indicators. 
+Year 41 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report. 
+Key Indicators 2019 2020 2021 2022. 
+Percentage of Renewable Energy at Overseas Companies (%) 100 100 100 100. 
+Total Energy Conserved from New Energy Saving Measures Since 2016 (GWh/year) 12 17 24 31. 
+Energy Efficiency after Volume Production - 16nm Technology 1.4 (5 th year) -
+Energy Efficiency after Volume Production - 10nm & 7nm Technology 0.7 (3 rd year) 1.4 (4 th year) 1.5 (5 th year) -
+Energy Efficiency after Volume Production - 5nm Technology - - 0.2 (2 nd year) 0.6 (3 rd year)
+Days of Production Interrupted Due to Climate Disasters 0 0 0 0. 
+Water Consumption (million metric tons) 64.3 77.3 82.8 104.6. 
+Taiwan Fabs 58.0 70.6 76.1 96.8. 
+Subsidiaries Note 1 6.3 6.7 6.7 7.8. 
+Reduction Percentage in Unit Water Consumption (liter/12-inch equivalent wafer mask layer) (Base year: 2010) (%) 5.2 8.9 14.9 2.6. 
+Process Water Recycling Rate (%) Note2 86.7 86.4 85.4 85.7. 
+Total Water Saving (million metric tons) Note 2 133.6 173.0 186.3 215.7. 
+Note 1: Subsidiaries include WaferTech, TSMC (China), TSMC (Nanjing), and VisEra. 
+Note 2: Figures from TSMC fabs in Taiwan. 
+Note 3: GHG emission inventory information: ISO 14064 certified by third party. 
+Note 4: Content and data on green manufacturing in TSMC's Sustainability Report: Obtained independent third-party assurance. 
+Year 42 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Prospects Appendix Management Performance and Goals
+
+
+TCFD Report. 
+Prospects. 
+TSMC is dedicated to fulfilling its commitment of Net Zero Emissions by 2050 and continues to strengthen four major management strategies to achieve that goal: Mitigation, Adaptation, Supply Chain Carbon Reduction, and Low-carbon Products and Services. For Mitigation, in addition to rolling out low-carbon manufacturing and improving energy efficiency, TSMC is also increasing its use of renewable energy. Taiwan facilities use up to 970 GWh of renewable energy in 2022, with a year-on-year growth of 47%, and the Company continues to ensure that global offices use 100% renewable energy. For Adaptation, TSMC continues to identify disaster factors from extreme weather each year and makes rolling updates to its Climate Risk Adaptative Guidelines, successfully defending against potential impacts and damages and strengthening operational resilience. For Supply Chain Carbon Reduction, the Company assembles Green Supply Chain Management Team, drives suppliers to implement carbon reduction practices from five approaches, and builds a low-carbon supply chain. For Lowcarbon Products and Services, TSMC works with raw materials and equipment suppliers, design ecosystem partners, and downstream packaging and testing vendors to reduce product carbon footprint and help customers produce energy-efficient and eco-friendlier products with advanced manufacturing technologies, which can further facilitate energy conservation across the world and strengthen sustainability competitiveness.
+TCFD offers companies a systematic framework to identify, respond to, and disclose information on climate risks and opportunities. Compiling the TCFD Report gives TSMC the opportunity to dive deep and evaluate climate change's impacts on TSMC operations and the supply chain, formulate and implement related management strategies, and further reduce risks and cultivate climate resilience. It can also enhance transparency of information disclosure and facilitate more effective communication with stakeholders. This Report is not only a vehicle to present TSMC's governance, strategies, risk management, metrics, targets, and performances in climate change topics, but also an opportunity to ask for external suggestions and feedback, which can drive TSMC to continue to improve and fulfill its corporate responsibilities.
+Net zero emissions is an inevitable global trend. Over 130 countries have currently announced goals to achieve net zero emissions by 2050. As a company that is one of the main drivers for economic development and social advancement, TSMC must take action. Looking into the future, TSMC will uphold the principle of "minimizing climate risks and maximizing climate opportunities" as it integrates internal and external resources and works with stakeholders to achieve the goal of a net zero value chain and strive toward net zero sustainable development.
+TSMC is committed to achieving the goal of a net zero value chain and strive toward net zero sustainable development.
+43 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Appendix Prospects
+
+
+TCFD Report. 
+Appendix. 
+About This Report. 
+TSMC has published annual TCFD Reports for three consecutive years to respond to growing stakeholder concerns over climate change and related issues. The TCFD Report observes the framework suggested by TCFD and discloses the Company's climate governance, strategies, risk management, indicators, and targets. The reporting period is from January 1, 2022 to December 31, 2022. The Chinese and English version of this report will be published in June 2023 on TSMC's ESG website. The reporting scope covers TSMC facilities in Taiwan (headquarter, all wafer fabs and backend fabs in Taiwan), TSMC (China), TSMC (Nanjing), WaferTech, VisEra, and other subsidiaries.
+TCFD Disclosure Index. 
+Core Elements Recommended Disclosures Chapters in This Report Page. 
+Governance. 
+Board's oversight of climate-related risks and opportunities Board Oversight 8. 
+Management's role in assessing and managing climate-related risks and opportunities Management Responsibilites 9. 
+Strategy. 
+The climate-related risks and opportunities the organization has identified over the short, medium, and long term Climate Risk and Opportunity Matrix 12. 
+The impact of climate-related risks and opportunities on the organization's businesses, strategy, and financial planning Financial Impact Analysis of Climate Risks and Opportunities 14. 
+The Company scenario analysis (including a 2°C or lower scenario) Climate Scenario Analysis 15. 
+Risk Management. 
+The organization's processes for identifying and assessing climaterelated risks TSMC Climate Risks and Opportunities Identification Process 11. 
+The organization's processes for managing climate-related risks Enterprise Risk Management 11. 
+How processes for identifying, assessing, and managing climate-related risks are integrated into the organization's overall risk management Enterprise Risk Management 11. 
+Metrics and Targets. 
+The metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process Net Zero Performance Evaluation and Commitment 36. 
+Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse gas (GHG) emissions and the related risks. 
+TSMC Climate Risks and Opportunities Identification Process GHG Emissions 11 40. 
+Management targets and related performances. 
+Low-carbon Product Innovations Increase Climate Influence on Supply Chain Net Zero Performance Evaluation and Commitment 31 33 36 44 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix
+
+
+TCFD Report. 
+TCFD Index on Cross-industry, Climate-related Metric Categories. 
+Metric Category Metrics Page. 
+GHG Emissions • Unit GHG emissions (MTCO2e/12-inch equivalent wafer mask layers) • Total GHG emissions (MTCO2e) 40 41. 
+Transition Risks • Percent of renewable energy used in new facilities (%) • Percent of energy consumed from renewable sources at TSMC's production and operations sites (%) • Cumultivative energy savings rate of energy conservation measures (%) 41. 
+Physical Risks • Number of production days interrupted by climate disasters • Unit water consumption (L/12-inch equivalent wafer mask layers) 38 42. 
+Climate-related Opportunities • Energy efficiency of process technologies five years after volume production 42. 
+Capital Deployment • Deploy investments for mitigation, adaptation, R&D, and the supply chain, including but not limited to: • GHG abatement facilities: purchase green energy, carbon credits, and energy-efficient equipment • Deployment, operations, and maintenance of water-saving and water recycling equopment • R&D of sustainable products • Green equipment and low-carbon supply chain management 23 28 31 33. 
+Internal Carbon Prices • Net zero emissions performance evaluations and commitments 3
+5 38. 
+Remuneration • Linked shareholders' interests and ESG (including climate change management) achievements to senior executives' compensation by introducing the employee restricted stock awards (RSAs) issuance plan 8 45 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix
+
+
+TCFD Report. 
+TSMC's Reports and Policies on Climate Change. 
+Sustainability Report. 
+ESG Policy. 
+ESG Procedure. 
+Climate Change Statement. 
+Biodiversity Statement. 
+Environmental Policy. 
+Risk Management Policy. 
+Business Continuity Management Policy. 
+Fluorinated Greenhouse Gas (F-GHGs) Emissions Reduction Declaration for Y2021 (IEEE 1680.1)
+Sustainable Water Stewardship (Alliance for Water Stewardship, AWS) Report. 
+Reference 1. IPCC (2021), Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/ 2. IEA (2022), Global Energy and Climate Model, IEA, Paris. https://www.iea.org/reports/ global-energy-and-climate-model 3. IEA (2022), World Energy Outlook 2022, IEA, Paris. https://www.iea.org/reports/worldenergy-outlook-2022 4. Grantham Research Institute on Climate Change and the Environment and Vivid Economics (2020), Carbon pricing options for Taiwan. London: Grantham Research Institute on Climate Change and the Environment, London School of Economics and Political Science, and Vivid Economics. https://www.lse.ac.uk/granthaminstitute/ publication/carbon-pricing-options-for-taiwan/ 46 Commitment to Net Zero Emissions Sustainable Climate Governance Enterprise Risk Management Forward-looking Climate Strategy Management Performance and Goals Prospects Appendix
+
+
+Copyright© Taiwan Semiconductor Manufacturing Company Limited 2022-2023. All Rights Reserved.

@@ -1,0 +1,921 @@
+2020 SUSTAINABILIT Y REPORT
+
+
+a3 1 SUSTAINABILITY REPORT | 2020. 
+Business. 
+ESG Governance 26. 
+Stockholder and stakeholder engagement 28. 
+Transparency and reporting 34. 
+Sustainable finance 35. 
+U.N. Sustainable Development Goals 36. 
+Executive Summary. 
+CEO letter 4. 
+Sustainability letter 6. 
+Purpose statement and values 8. 
+Performance snapshot 11. 
+Sustainability at NRG 14. 
+Workplace. 
+Safety and well-being 58. 
+Diversity, equity, and inclusion 60. 
+Employee engagement 64. 
+Community and philanthropy 66. 
+Just Transition 71. 
+Table of Contents. 
+Advancing toward a more sustainable future. 
+Context. 
+Year at a glance 19. 
+Examining power 20. 
+Our response to COVID-19 22. 
+Customers. 
+Customer-focused sustainability 40. 
+Solutions for home 42. 
+Solutions for business 46. 
+Generation and supply 52. 
+Resilience 54. 
+Operations. 
+Greenhouse gas emissions 74. 
+Environmental management 76. 
+Air emissions 78. 
+Water 80. 
+Waste 81. 
+Suppliers. 
+Commitment and partnership 84. 
+Supplier engagement 84. 
+Manufacturing standards 86. 
+Natural gas 86. 
+Appendix. 
+Feedback 90. 
+Safe Harbor 90. 
+Sustainability reporting 92. 
+SASB Table 94. 
+Glossary of select terms 99
+
+
+2 3 SUSTAINABILITY REPORT | 2020. 
+Executive summary. 
+CEO letter. 
+Sustainability letter. 
+Purpose statement and values. 
+Presence and performance snapshot. 
+Family of brands and solutions. 
+Awards and accolades. 
+Sustainability at NRG
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 4 5 SUSTAINABILITY REPORT | 2020. 
+The power to be there. 
+In changing, challenging times, a constant, reassuring presence: • Resources and support during a pandemic • Resilience and assistance in extreme weather • Answers and possibilities for the future. 
+The significance of electricity came into focus in 2020, as our way of life became predominantly remote and digital. Through its challenging and often somber tone, the trials of this year underscore the responsibility that we at NRG Energy have to you, our stakeholders. Now more than ever, we are motivated to drive positive change for our customers and in our communities. I hope you read this year's sustainability report as a reflection of our commitment and purpose.
+Mauricio Gutierrez. 
+President and Chief Executive Officer NRG Energy, Inc.
+We also focused on improving our internal operations and incorporating new technologies. As a result, we launched "Workplace 21," an initiative to reimagine the workplace of the future so we can retain and attract leading talent. As we make progress toward returning to the workplace later this year, I look forward to reuniting with colleagues and continuing the work to drive NRG forward while providing a second-to-none experience to our customers.
+While this report reflects 2020 activities, I must take a moment to acknowledge Winter Storm Uri during which extreme temperatures over an extended period of time disrupted the entire Texas energy system, resulting in devastating and tragic outcomes. Now, more than ever, our responsibility is to our people and those we serve. We are working with all stakeholders to ensure resilience — from natural gas well-head to lightbulb — to prevent a failure of this nature from occurring again.
+As active citizens and agents of change, we are friends, neighbors, and family members, caring for one another's health and well-being. We are allies working to create a more equitable future for everyone. And we do this while bringing a modern approach to energy for the future. Indeed, these are significant responsibilities, and NRG is ready to deliver.
+Sincerely,
+The effects of the pandemic were felt unequally across the country, only to be exacerbated by racially driven tragedies. As a company, we spoke out against racial injustice and violence, making it clear that there is no place for discrimination in our business. We supported organizations addressing inequities in our communities through our "Powering Change" initiative. We enhanced our diversity and inclusion power value to explicitly champion equity for all our employees. We took a fresh look at our practices and policies, from training and hiring requirements to our supply chain. Our goal is to create a culture where everyone feels safe, respected, and fulfilled. These actions will serve as a springboard for continued positive change.
+We also witnessed global carbon emissions fall sharply in 2020, and our carbon footprint was no different. Our carbon emissions fell below our 2025 carbon reduction target five years ahead of schedule, driven partly by lower energy demand resulting from the COVID-19 pandemic. While we anticipate that these levels may fluctuate as businesses return to normal operations, our decarbonization path remains on track toward netzero. This year we became the first North American power company to receive validation from the Science Based Targets initiative that our climate goals are consistent with reductions needed to limit global warming to 1.5 degrees Celsius.
+Challenging times often create opportunity, and in this case, we were able to expand and improve our business. The acquisition of Direct Energy solidified our position as the leading, customer-centric energy and services provider in North America.
+NRG is defined by the thousands of dedicated people working every day to bring the power of energy to people and organizations. In this spirit, our response to the COVID-19 pandemic began with protecting the safety and well-being of our team so they can continue their important work.
+NRG rose to the challenge, enacting our pandemic plan to protect our essential employees and moving more than 95% of our office personnel to a remote environment. We supported our customers facing economic hardship and quickly provided relief to those on the front lines of the crisis, delivering over $2 million in supplies and funding.
+Photo credit: Bryan Anselm/Redux
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 6 7 SUSTAINABILITY REPORT | 2020. 
+I’m proud to introduce my first Sustainability Report with NRG — the eleventh in the company’s history. While I’m new to NRG, I come from the energy sector and most recently led energy transition for a global energy technology firm. At NRG, I have the great honor and privilege of building on the company’s long track record of leadership in sustainability. Back in 2014, NRG became the first major U.S. power company to set decarbonization targets and subsequently one of the first 10 companies globally to have our targets certified as 2-degree Celsius aligned. Fast forward to today, and we continue to lead — not only in climate — but across each of the five pillars of our sustainability framework. As society increasingly views sustainability as part of a company’s purpose, there is less need to convince stakeholders of its inherent importance. Instead, the focus has shifted to identifying and implementing solutions that are effective, efficient, and equitable. Doing so requires. 
+This annual report represents a key part of our commitment to transparency and disclosure of our sustainability strategy, governance, plans, and progress. We adhere to the most widely accepted standards and metrics — including those of the Sustainability Accounting Standards Board (SASB) and the Task Force on Climaterelated Financial Disclosures (TCFD) — and strive to provide our investors with information that’s concise, comparable, and decision-useful. 2020 is our fifth year reporting SASB metrics and this year we expanded our reporting library to include a TCFD mapping document pointing to our existing climate risk and opportunity reporting. We also expanded sustainability disclosures in our 2021 Proxy Statement, a step that demonstrates the integration of sustainability governance into our broader financial reporting.
+In 2020, we submitted our accelerated greenhouse gas emissions reductions targets for verification from the Science Based Targets initiative (SBTi), as we did with the targets we previously established in 2014. I am thrilled to announce that our goal to reduce emissions 50% by 2025 from our current 2014 baseline and achieve net zero by 2050 has been certified by the SBTi as consistent with the level of reduction necessary to limit global warming to 1.5 degrees Celsius. We are the first North American power company to achieve this distinction and one of only 12 power companies globally. In another milestone accomplishment, we became the first North American company — in any sector — to issue a sustainability-linked bond, unifying our financing and sustainability strategies.
+Sustainability is integral to NRG’s purpose of bringing the power of energy to people and organizations. Throughout the year, we continued to expand our portfolio of sustainable products and services for both our home and business customers. We increased the range of retail renewable electricity plans including plans tailored for electric vehicle charging and rooftop solar,
+A pragmatic and ambitious sustainability approach: • Industry-leading emission reduction goals • Tangible benchmarks, metrics, and ahead-of-schedule progress • A mission that extends to our customers and to the world developed customized demand response programs and active energy management tools, provided energy efficiency consulting and products, and enabled our customers to offset their natural gas and gasoline consumption through certified carbon offsets.
+The power sector is making progress toward a clean energy future. We recognize the critical role power plays not only in the lives of our customers, but also in decarbonizing the economy more broadly. However, no single entity can make this transition happen on its own. Moreover, the imperatives of the energy transition demand a flexible, all-of-theabove approach rather than a singular reliance on any one technology. As such, in 2020 we expanded our engagement with external stakeholders. In addition to an already well-established program of investor engagement, we actively participated in groups focused on various decarbonization pathways including electrification; low emission power generation; hydrogen; carbon capture, utilization, and storage; nature-based solutions; and reducing the carbon footprint of the natural gas supply chain. We also continued to support the climate-tech start-up ecosystem which we believe will help us identify technologies and partners that could both decarbonize our own business as well as help our customers decarbonize.
+* * *
+The journey to net-zero does not have an “easy” button. It is going to take collective action, innovation, and hard work. We are proud to be a pioneer in the energy industry as it transitions to a low carbon future and I look forward to working with you.
+Jeanne-Mey Sun, Ph.D. 
+Vice President, Sustainability NRG Energy, Inc.
+an appreciation of the complexity, fluidity, and multi-disciplinary nature of sustainability issues. At NRG, we have long embraced a cross-functional approach to sustainability, founded on collaboration and accountability across the company, as well as purposefully diverse external stakeholder engagement. In truly unifying the organization around our sustainability strategy, we are creating real, meaningful impact for all our stakeholders.
+* * *
+Throughout 2020, we used this difficult time as an opportunity to re-examine our role as an integrated power company. We remained committed to all our stakeholders, particularly our customers and employees, and never lost sight of our sustainability strategy. I’m proud to share with you our actions and accomplishments this year alongside a comprehensive view of the initiatives across our business and value chain.
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 8 9 SUSTAINABILITY REPORT | 2020. 
+NRG in 2020. 
+Our presence1. 
+Our purpose. 
+We bring the power of energy to people and organizations.
+We are an energy company powered by people and built on dynamic retail brands with diverse generation resources.
+Our values 68 TWhs of retail electricity provided. 
+Fortune 500 company. 
+Over 4,100 full-time employees. 
+Approx. 3.6 MM customers. 
+Over 30 electricity generating assets in eight states ~23 GW electricity generation capacity in our North American portfolio. 
+Over $9 BN in revenue 1.8 GW of renewable electricity purchased 1 As of December 31, 2020. Does not include Direct Energy.
+SAFETY AND WELL-BEING. 
+ACCOUNTABILITY DIVERSITY, EQUITY, AND INCLUSION. 
+CUSTOMER FOCUS COLLABORATION. 
+POWER PLANT OPERATIONS MARKET OPERATIONS CUSTOMER OPERATIONS. 
+Our energy serves many customers – including those who wear an NRG badge each day. Read more how our employees powered their possible here.
+9 SUSTAINABILITY REPORT | 2020
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 10 11 11 SUSTAINABILITY REPORT | 2020 55% total greenhouse gas (GHG) emissions reduction since 20142 45% revenue carbon intensity decrease since 2014. 
+Performance snapshot 2 NRG believes the 2020 emissions level may change as load recovers from the impact of COVID-19. NRG is continuing to target a 50% reduction by 2025 and is on track to meet that goal. 3 Total Case Incident Rate 4 VPP = Voluntary Protection Programs that recognize employers and workers who have implemented effective safety and health management systems and maintain injury and illness rates below national Bureau of Labor Statistics averages for their respective industries. The “Star” designation is the highest of three levels.
+0.32 TCIR 3
+our consistent top decile safety record <10% coal revenue in our 2020 generation portfolio 7 facilities with VPP Star rating4 2,900+ volunteer hours safely contributed by NRG employees. 
+Sustainability is a journey. 
+We have made significant progress along our sustainability journey with measurable accomplishments in multiple areas.
+$5.75 MM donations given through corporate philanthropy and non-profit partnerships 36% gender diversity on Board of Directors 27% ethnic diversity on Board of Directors
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 12 13 13 SUSTAINABILITY REPORT | 2020 2020 Awards and Accolades. 
+Achieving real progress toward sustainability and carbon-reduction goals drives us — along with helping our customers do the same. Still, outside recognition is always gratifying.
+1st power company in North America with 1.5 degree Celsius-aligned climate goal validated by Science Based Targets initiative 1st company in North America, in any sector, to issue a sustainability-linked bond. 
+A 2020 Forbes Best Employer for Diversity. 
+A 2020 Platt's BestPerforming Global Energy Company. 
+A 2020 Newsweek America Most Responsible Company. 
+A- Leadership Level in CDP Supplier Engagement for the 4th year in a row. 
+The Energy Professionals Association (TEPA) Supplier of the Year Reliant recognized for its comprehensive, innovative, and strategic vision, as well as its customer service in competitive retail electricity and gas markets. 
+ARCET Global North American Customer Centricity Award. 
+Reliant recognized for its closed loop and "See, Hear, and Speak" programs, which focus on resolving customer issues 5 Excludes Direct Energy brands.
+Our family of brands5 Our solutions. 
+ELECTRICITY. 
+SUSTAINABLE PRODUCTS AND SERVICES. 
+SECURITY SERVICES. 
+ENERGY MANAGEMENT. 
+NATURAL GAS. 
+ENERGY STORAGE SOLUTIONS. 
+AIR CONDITIONING AND HEAT. 
+PROTECTION PLANS
+
+
+01 EXECUTIVE SUMMARY 02 03 04 05 06 07 08 14 15 15 SUSTAINABILITY REPORT | 2020. 
+G O V E R N A N C E. 
+G O V E R N A N C E. 
+PURPOSE “We bring the power of energy to people and organizations”
+BUSINESS STRATEGY. 
+Retail Growth Purposeful Generation Predictable Earnings/Strong Balance Sheet Transparent Capital Allocation. 
+POWER VALUES. 
+Safety and Well-Being Customer Focus Collaboration Accountability Diversity, Equity, and Inclusion. 
+SUSTAINABILITY. 
+Business Customers Workplace Operations Suppliers. 
+Sustainability is an integral part of NRG’s foundation and aligned with our Power Values, business strategy, and purpose. 
+Our strategy. 
+Sustainability, along with our values, is the foundation of our strategy. Strong governance is a key enabler.
+Sustainable customers. 
+A key aspect of our sustainability strategy is providing solutions for our customers and helping to lead the transition to a more sustainable future. Our goals are to provide greater clean energy choices in ever more locations, closer to our customers, and to help reduce the overall environmental and societal impacts associated with the energy use of our customers.
+Sustainability at NRG. 
+Sustainability is a philosophy that underpins and facilitates value creation across our business and for all our stakeholders. It is an integral piece of our corporate strategy and ties directly to business success, reduced risk, and enhanced reputational value. Our sustainability philosophy spans five comprehensive, key pillars — business, customers, workplace, operations, and suppliers — that help embed it into the culture and fabric of our organization.
+Sustainable business. 
+This pillar guides our company in the foundational aspects of strong sustainability leadership. It includes governance, transparency, reporting, and stakeholder engagement.
+Sustainable suppliers. 
+It is important for companies to address sustainability in their entire value chain. NRG is actively working to measure and ultimately reduce environmental impact in our supply chain through collaboration and transparency.
+Sustainable operations. 
+NRG is committed to reducing environmental impacts across all operations. This commitment includes achieving our science-based greenhouse gas reduction targets and improving environmental performance across all facilities.
+Sustainable workplace. 
+The key to our success in working toward and achieving our goals across the value chain is having a strong, healthy, and engaged workforce. Our commitment to a sustainable workforce at NRG includes a focus on safety; health and wellness; pay equity; diversity, equity, and inclusion; and employee engagement, as well as environmentally conscious workplaces.
+
+
+17 17 SUSTAINABILITY REPORT | 2020 01 02 CONTEXT 03 04 05 06 07 08 16. 
+Context. 
+Year at a glance. 
+Examining power. 
+Our response to COVID-19
+
+
+18 19 19 SUSTAINABILITY REPORT | 2020. 
+Doing what’s right is our instinct and our commitment. 
+A guiding light for progress: • A tone and an example for diversity, equity, and inclusion • Steadfast advocacy for sustainability inside and outside our company • An embrace of clean-energy goals and the means for achieving them 01 02 CONTEXT 03 04 05 06 07 18 18 6 https://www.forbes.com/sites/joyburnford/2020/11/26/are-we-at-a-turning-point-for-genderequity/?sh=28aca7bd3f42 7 $53 trillion by 2025, representing more than a third of the $140.5 trillion AUM globally. https://www.bloomberg.com/ professional/blog/esg-assets-may-hit-53-trillion-by-2025-a-third-of-global-aum/
+Year at a glance. 
+Each year, we examine events and trends in and around the power sector to better understand our role as a steward to our customers and communities. Below are a few of the megatrends we witnessed in 2020 that affect our business.
+Human Capital: COVID-19 and Diversity, Equity, and Inclusion. 
+In the wake of the COVID-19 pandemic and global demonstrations on racial and social inequality, companies increased their commitment to reduce the racial wealth gap, advance a more inclusive economic recovery, and dismantle systemic barriers to opportunity faced by communities of color in the. 
+United States. According to Forbes, 75% of business leaders agree that the COVID-19 pandemic offers a unique opportunity to create a more inclusive workplace for women and build inclusivity for people of color,6 even while acknowledging widespread reports of women forced to leave the workforce during the pandemic due to the demands of caring for family while working. We continue to strengthen our own efforts to build a diverse and more resilient workforce, as well as support varied partnerships in our supply chain. NRG elevated Diversity and Inclusion to one of its corporate values in 2019 and continued to advance this value, adding Equity, throughout the company in 2021. Read more in Workplace/Diversity, equity, and inclusion.
+Environmental, Social, and Governance (ESG)-themed investing. 
+ESG encompasses the non-financial factors that influence a company’s long-term sustainability and impact on society — as well as its financial performance. Investment influenced by ESG factors continues to gain attention and grow in importance in both the U.S. as well as abroad. In fact, global ESG assets are on track to represent more than a third of projected total assets under management by 2025.7 There is also growing investor interest in directly funding projects that benefit the environment as well as those that enhance socio-economic outcomes, like reducing unemployment and income inequality, and improving access to high-quality and affordable housing, health care, and education systems. Issuance of sustainable finance instruments, including green, social, sustainability, and sustainability-linked bonds and loans by both governments and companies has accelerated. In 2020, NRG became the first power company in. 
+North America to issue a sustainability-linked bond (see page 35).
+08
+
+
+01 02 CONTEXT 03 04 05 06 07 08 20 21 21 SUSTAINABILITY REPORT | 2020. 
+Examining power. 
+The unprecedented events of 2020 accelerated the reimagination of what's possible within the power industry. From e-learning to remote collaboration and virtual connection — many of today’s advancements are enabled by electricity. More than ever, it keeps people connected, safe, and vibrant, so as we continue through 2021, our work and the solutions that we provide will take on added relevance. Central to this, of course, is people. Charting a new path for our sector requires an unwavering dedication to our employees, communities, and the environment we all share. We will continue to make the well-being of our employees a top priority as we come together in pursuit of a world powered by innovation.
+Clean energy, simplified. 
+Customers large and small are taking control of their carbon footprint by choosing 100% renewable power. The U.S. was once again the largest market for corporate power purchase agreements (PPAs) but was less dominant than in previous years. Companies announced 11.9 GW of corporate PPAs in the U.S. in 2020, down from 14.1 GW in 2019 — the first year-on-year drop since 2016. The first half, coinciding with the start of the pandemic, was particularly subdued, with companies announcing just 4.3 GW of corporate PPAs in the U.S. in that period.8 With 1.8 GWs of renewable power contracted as of the end of 2020 — and more on the horizon — NRG has access to the clean energy our customers demand. Using our longstanding experience in the wholesale market, we're reducing the complexity and risk of going green.
+8 https://about.bnef.com/blog/corporate-clean-energy-buying-grew-18-in-2020-despite-mountain-ofadversity/#:~:text=Amazon%20was%20the%20leading%20buyer,world's%20largest%20clean%20energy%20buyer.
+9 2020 is the baseline year with 346 cars, SUVs, vans, and light-duty trucks; excludes plant equipment, medium and heavy duty trucks. Goal aims to convert 100% of light-duty to all-electric (preferred) or plug-in hybrid vehicles such that the typical vehicle miles traveled can largely be accomplished in electric mode. 10 https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions. 
+Electrification on autopilot. 
+Switching to an electric vehicle (EV) is a significant change. Studies show that consumers can spend anywhere between one and six months of research before making the move. One thing our customers won't have to think about is charging at home. With tailored 100% renewable plans that align pricing with EV owners’ most likely personal energy usage — charging their EVs at night — refueling with clean power becomes seamless. Our retail brands are also taking the lead in setting customers up with a variety of home-charging systems, with installation made part of their electricity plans. In our Houston hometown, we partnered with EVolve, a local consortium of corporate business leaders, the University of Houston, and the City of Houston, to foster electric-vehicle adoption, with a goal of 30% EV market penetration in the city by 2030.
+100% by 2030 New light-duty vehicle electrification goal. 
+We are proud to announce a goal of 100% electrification of our light-duty vehicle fleet by 2030.9 Setting this vehicle electrification goal is a key part of us "walking the walk" on vehicle electrification. As we embark on the process of converting our own fleet from fossil fuel to electricity, we will better understand the pain points of transportation electrification from the perspective of the customer, allowing us to innovate solutions that are truly customer-centric.
+We estimate our annual greenhouse gas emissions from light-duty vehicles to be fewer than 5,000 metric tons of CO₂ equivalent, which is a small portion of our overall carbon footprint. Nonetheless, we recognize the importance of decarbonizing the transportation sector as it is now the leading cause of greenhouse gas emissions in the U.S.10 As we move through this transformation and set our eye on 2030 to achieve this goal, we will continue to assess our remaining transportation assets and provide a similar pathway for electrification in the future.
+Data powered everything. 
+We consider our energy offerings solutions — not commodities — so we use data and analytics-driven insights to refine and tailor these offerings. We help our customers solve problems they didn't even realize they had by recognizing trends in their home or business and leveraging the deep market expertise we've acquired from commercial and wholesale trading. While much of what comes from this work is proprietary to NRG, rest assured it will make our operations more efficient, and our customer experience and offerings even more compelling.
+
+
+22 23 23 SUSTAINABILITY REPORT | 2020 14 12 10 8
+6 ( A ) R E S I D E N T I A L ( B ) C O M M E R C I A L A N D I N D U S T R I A L. 
+Sun Mon Tue Wed Thur Fri Sat Sun Mon Tue Wed Thur Fri Sat 2020 2019 9AM-5PM. 
+Load (GW) 30 25 20 2020 2019 9AM-5PM. 
+Load (GW)
+SHIFTS IN POWER USAGE DURING PANDEMIC11 22 22 23 23 2020 Pandemic: Responding to an unprecedented event. 
+In 2020, COVID impacted everyone’s world. As two weeks to flatten the curve turned to months of adaptation, new policies, practices, and protections took hold, and the interconnected nature of human welfare and the economy became indisputable. Companies flooded the airwaves with philanthropic action and calls for unity and support during 'these unprecedented times.' And, more than ever before, our first responders became larger than life heroes, sacrificing to protect and care for us all.
+Indeed, Americans felt the effects of the pandemic unequally across the country. For many, the home became — and will continue to be — the hub for education, entertainment, and business. For others, their work's critical nature meant continuing to serve in public, masked-up for protection. As providers of a vital resource — power — these shifts in consumption were underscored by electricity's relevance in modern life.
+Spring 2020 and a new normal sets in. 
+We began to see the shift in April 2020, as commercial activity moved to the residential space, with homes becoming synonymous with work and school. Traditionally, residential power use resembles a u-shaped curve with high demand in the morning as people begin their day, lower demand in the afternoon, and a swing back up in the evening hours as people return home from work. With more working from home, we saw most households get a later start to their day, with higher usage throughout the day, and energy use only lessening after people turned in for the night. Conversely, widespread stay-at-home orders yielded a sharp decline in commercial and industrial usage throughout the country.
+01 02 CONTEXT 03 04 05 06 07 08. 
+WE ARE STRONGER TOGETHER 23 23 SUSTAINABILITY REPORT | 2020. 
+Impacts on businesses were widespread, spurring an increase in unemployment and financial hardship. Many Americans found themselves furloughed or unemployed with the closure of many small businesses and the throttling of many industries, leading to concerns around paying for necessities such as rent or mortgages, food, and utility bills such as electricity. With all these pressing issues, it was our belief that customers should not have to worry about their electricity. We quickly offered financial relief to our customers, implementing disconnection moratoriums, relaxing minimum usage requirements, waiving late fees, and providing information and access to payment assistance. We also committed $2 million in charitable contributions to fund relief efforts in connection with COVID-19.
+Environmental impacts. 
+A slowing economy and reduced global travel also led to a record fall in greenhouse gas emissions in 2020. The Global Carbon Budget estimated a steep 7% drop-off in global emissions, attributable primarily to travel restrictions. At NRG, reduced demand for electricity drove the earlier-thanexpected achievement of our 2025 goal to reduce emissions 50% from our current 2014 baseline. As the economy recovers, and COVID-19 impacts loosen, our emissions levels may change due to additional demand for electricity. However, we remain on track for meeting our 50% reduction target by 2025.
+The COVID-19 pandemic is not yet over, but as vaccinations roll out, hope illuminates our future. The path forward brings new opportunity, and this moment allows us to define what we want in our collective recovery. We can work to ensure CO2 reductions persist by choosing renewable options, encouraging wider adoption of energy efficiency and smart devices to improve demand-side power management, and accelerating the electrification of transportation. At NRG, we stand ready to help our residential, small business, commercial, and industrial customers chart their recovery, meeting their sustainability goals for today and tomorrow.
+11 Figures show temperature-adjusted electricity consumption (load) in Texas in April and May 2020 vs. 2019. Source: "Powering Work from Home", Steve Cicala, Tufts University / National Bureau of Economic Research, using Innowatts data. https://www.stevecicala.com/papers/powering_wfh/powering_wfh.pdf
+
+
+01 02 03 BUSINESS 04 05 06 07 08 24 25 25 SUSTAINABILITY REPORT | 2020. 
+Business. 
+ESG Governance Stockholder and stakeholder engagement Transparency and reporting Sustainable finance U.N. Sustainable Development Goals
+
+
+01 02 03 BUSINESS 04 05 06 07 08 26 27 27 SUSTAINABILITY REPORT | 2020. 
+ESG Governance. 
+NRG is committed to maintaining the highest standards of corporate governance and has taken a proactive approach in applying leading governance principles and practices. These include: • Executive and director stock ownership guidelines to align interests with our stockholders; • Ongoing succession planning for the CEO and other senior management; • Annual performance evaluations of the Board and each of its standing Committees, as well as periodic peer review for individual directors; • Director orientation and continuing education program, including Company site visits and information sessions with Company management; • Access to and engagement of outside advisors and consultants to assist the Board and the Committees in the performance of their duties, as appropriate; and • Active engagement with our stockholders regarding governance practices and other matters.
+NRG’s Code of Conduct, Powering our Values: A Field Guide, defines each of our five Power Values – Safety and Well-being; Customer Focus; Collaboration; Accountability; and Diversity, Equity, and Inclusion. These values unite us and serve as the foundation for ethical and responsible behavior toward each other, our business partners, and the communities where we live and serve. The Code of Conduct is a field guide for the NRG journey, translating our values into the standards of behavior we expect from one another. It also provides guidance on solving problems, finding answers, and communicating concerns. In addition to all of NRG’s employees and directors, it covers our contractors, consultants, and agents. We also expect all of the companies with which we do business to share, respect, and act consistently with our Code.
+The NRG Board of Directors continually evaluates the need for Board refreshment and has been focused on identifying individuals whose skills and experiences will enable them to make meaningful contributions to the business in light of our company’s evolving strategy and direction.
+27% 36%
+Ethnic Diversity 3 of 11 Directors are Ethnically Diverse. 
+Gender Diversity 4 of 11 Directors are Women. 
+BOARD OF DIRECTORS GENDER AND ETHNIC DIVERSITY 12 NRG 2021 Proxy Statement. 
+The Board also aims to strike a balance between the knowledge and understanding of the business that comes from longer-term service to the organization with the ideas and perspectives that can come from adding new members. Our director nominees have a diversity of tenure, age, gender, and ethnicity, which provides our Board with a complementary mix of experience and perspective. In addition, ten of our eleven directors are independent.
+The skills matrix12 of specific qualifications that the Governance and Nominating Committee and the Board believe should be represented on the Board includes: • Environmental/Sustainability: Understands and assesses the impact and influence of environmental/sustainable issues on the company’s business strategy. Currently, five of our eleven directors (45%) meet this qualification through previous experience.
+• Diversity: The Board is committed to maintaining a diverse and inclusive Board. Of our eleven directors, seven (64%) are diverse, including four women directors (36%) and three male directors with ethnically diverse backgrounds (27%). Our Corporate Governance Guidelines specify that the Governance and Nominating Committee must seek to maintain occupational and personal diversity of the Board. To enhance customercentricity, a new Board member was added this year bringing considerable consumer/marketing expertise to the group. In its recruitment process, the Governance and Nominating Committee and the Board seek to reflect gender and racial/ ethnic diversity in the pool of director candidates. Diversity spans not only race and gender, but also diversity of viewpoints and tenure. The differences in experience and expertise allow the Board to hear various perspectives from its members, leading to better outcomes and a more robust decision-making process.
+01 02 03 BUSINESS 04 05 06 07 08 64%
+
+
+01 02 03 BUSINESS 04 05 06 07 08 28 29 29 SUSTAINABILITY REPORT | 2020. 
+Stockholder and stakeholder engagement. 
+To that end, in 2020, NRG reported against and/or worked with leading disclosure-focused organizations including:
+We are also a member of several sustainability-focused organizations, including the following:
+ALLIANCE • CDP • Global Reporting Initiative (GRI) • Science Based Targets Initiative (SBTi) • Sustainability Accounting Standards Board (SASB) Alliance • Task Force on Climaterelated Financial Disclosures (TCFD) • BSR • Ceres • Corporate Eco Forum (CEF) • Chief Executives for Corporate Purpose (CECP) • Electric Power Research Institute’s (EPRI) Energy Sustainability Interest Group • GreenBiz Executive Network • Natural Gas Supply Collaborative (NGSC) • Rocky Mountain Institute Business Renewables Center • United States Business Council on Sustainable Development Gulf Coast Carbon Collaborative (USBCSD GCCC)
+We have a broad outreach program to discuss our long-term strategy and sustainability goals, as well as to review and seek feedback on governance, sustainability, and compensation practices. During 2020, one or more members of executive management were involved in more than 50 virtual and telephonic meetings with investors representing more than 30% of shares outstanding.
+We regularly engage with stockholders concerning our Board, governance, and executive compensation practices with the specific goal of seeking stockholder feedback. We engage stockholders and use their feedback to drive changes in our governance and compensation practices.
+In addition, we regularly engage with all of our stakeholders on ESG issues. We strive to provide recent, credible, and comparable data to ESG agencies while engaging investors and investor advocacy organizations on ESG issues. We believe that stakeholder engagement with stockholders, non-government organizations (NGOs), community and industry groups, and academia among others, helps us identify and pursue potential opportunities to decarbonize our business and better serve our customers. Additionally, NRG proactively engages with other leading companies and organizations to help advance standards, share best practices, activate stakeholders, and create action toward a sustainable economy.
+01 02 03 BUSINESS 04 05 06 07 08
+
+
+01 02 03 BUSINESS 04 05 06 07 08 30 31 31 SUSTAINABILITY REPORT | 2020. 
+Engaging on policy. 
+Throughout 2020, we continued to engage with policymakers in Washington, D.C., and at the state level. We also maintained our relationships with groups such as the National Climate Coalition, the Electric Power Supply Association, American Council on Renewable Energy, Renewable Energy Buyers Alliance, and various other organizations. Typically, we engage on legislative and regulatory actions designed to mitigate GHG emissions, as well as policies that foster the development and deployment of competitive low-carbon power generation technologies. We are most active in the debate aimed at protecting and expanding competitive power markets and consumer choice, both of which we believe are critical enablers of achieving cost-competitive low carbon outcomes. Please see our Public Policy Engagement & Corporate Political Contributions for a list of some of the membership organizations and trade associations to which NRG belonged in 2020. Learn more about our policy engagement efforts here.
+RICE ALLIANCE FOR TECHNOLOGY AND ENTREPRENEURSHIP (RICE ALLIANCE)
+Founding Supporter, Rice Alliance Clean Energy Accelerator. 
+A new clean energy accelerator at Rice University in Houston will support early stage energy startups from around the world, all of which will have access to the Rice Alliance network of energy companies, investors, advisors, and Rice’s energy tech venture forums.
+CARBON XPRIZE. 
+Sponsored by NRG and Canadian Oil Sands Innovation Alliance (COSIA)
+The $20 million NRG COSIA Carbon XPRIZE was a global competition which inspired the development of new and emerging CO₂ conversion technologies to help solve climate change.
+Winning teams: CarbonCure Technologies, CarbonBuilt. 
+GREENTOWN LABS. 
+Founding Sponsor, Houston Expansion. 
+Greentown Labs is the largest climate-tech startup incubator in North America, and brings together startups, corporations, investors, politicians and many others with a focus on scaling climate solutions.
+CARBON-TO-VALUE (C2V)
+Founding Member and part of Carbontech Leadership Council (CLC)
+C2V is a multi-unit program driving the creation of a thriving innovation ecosystem for the commercialization of carbontech. The CLC will create a technology road map for the future of the carbontech industry and foster opportunities for commercialization, technology validation, testing, and demonstration of carbontech.
+Innovation. 
+NRG is an active supporter of the climate-tech community through various initiatives, helping to identify and support technologies and partners that could further assist in the decarbonization of our business or help our customers achieve their climate goals.
+
+
+01 02 03 BUSINESS 04 05 06 07 08 32 33 33 SUSTAINABILITY REPORT | 2020. 
+Finally, NRG participates in several multi-stakeholder group consortia working to scale various decarbonization pathways.
+EVolve Houston Founding member. 
+EVolve Houston is a coalition of sustainability-minded civic, business, and academic leaders who seek to accelerate clean transportation through electrification, improve regional air quality, and reduce greenhouse gas emissions in the greater Houston area.
+The Rice University Baker Institute Center for Energy Studies Working Group on Carbon Capture, Use, and Sequestration (CCUS), and Hydrogen. 
+The Working Group is exploring the deployment of CCUS and hydrogen technologies in the state of Texas and consists of a diverse set of stakeholders representing corporations, industry groups, academic institutions, and non- government organizations active in the state.
+The United States Business Council on Sustainable Development Founding member, Gulf Coast Carbon Collaborative (GCCC)
+The GCCC convenes working groups on electrification, low-emission generation, nature-based solutions, CCUS, and hydrogen.
+The Greater Houston Partnership Energy 2.0 and Energy Advisory Committees. 
+The Partnership prioritizes efforts that will position Houston to lead the global energy transition to a more efficient and sustainable, low-carbon future while accommodating growth in global energy demand.
+The Rice University Carbon Hub. 
+The Carbon Hub aims to accelerate the energy transition to the reliable and sustainable generation of green energy through the responsible use of hydrocarbons as a feedstock for ubiquitous carbon materials.
+University of Houston and Southern States Energy Board (SSEB) CCUS Commercialization Effort. 
+The University of Houston - SSEB CCUS commercialization effort is a public-private consortium of experts to promote the rapid and transformative deployment of CCUS technologies.
+SUSTAINABILITY REPORT | 2020 33
+
+
+01 02 03 BUSINESS 04 05 06 07 08 34 35 35 SUSTAINABILITY REPORT | 2020. 
+Sustainability-Linked Bond. 
+In December 2020, NRG completed the issuance of $900 million in senior secured first lien notes in a landmark issuance, pioneering the first sustainability-linked bond (SLB) in North America, and the first issued by any energy company outside Europe. In concert with our acquisition of Direct Energy, the SLB will support our efforts to pursue growth, achieve our climate transition strategy, and bring increasing value to our stakeholders. As a complement to the sustainability-linked pricing metric added to the NRG corporate credit agreement in 2019, the issuance of the SLB aligns our business and financing with commitments and values by creating a direct link between climate and funding strategies. The SLB links attractive 13 As of March 11, 2021 scenario analysis. In late 2020, NRG published a TCFD mapping document that links current disclosures with each TCFD Recommendation. A full TCFD report will be published in 2021, including a transition-risk based climate scenario analysis.
+Additionally, 2020 marked the fifth year NRG disclosed sustainability data using the SASB standards.
+NRG responds to more than ten ESG rating and ranking entities and we actively engage with stakeholders regarding the ESG disclosures they would like to see. In addition, we actively monitor the rapidly evolving landscape of ESG frameworks and ongoing efforts to harmonize reporting standards. As this landscape evolves, we will continue to engage with stakeholders and adapt ESG reporting accordingly.
+First reported to the Climate Disclosure Project (now known as CDP).
+Expanded CDP disclosures to include CDP Water.
+Began reporting using the Sustainability Accounting Standards Board (SASB) standards.
+One of the first 10 companies in the world to have GHG goals certified by Scientific Based Targets Initiative.
+Board Governance and Nominating Committee assumed responsibility for overseeing sustainability, including climate change, and sustainability policies and programs.
+Became the first North American company to issue a sustainability- linked bond (SLB), linking attractive financing to the realization of the Company’s previously announced carbon reduction goals.
+Issued a TCFD mapping document that shows where the recommended TCFD disclosures have already been reported in publicly available NRG documents.
+Issued first sustainability report.
+Set industry-leading carbon reduction targets with a goal to cut CO2e emissions 50% by 2030 and 90% by 2050.
+Became one of the first companies to publicly commit to supporting the Task Force on Climate-related Financial Disclosures (TCFD).
+Accelerated our GHG emissions reductions goals. Our new target is a 50% reduction by 2025 from our current 2014 baseline and net-zero by 2050.
+CEO signed on to the Business Roundtable’s revised Statement on the Purpose of a Corporation, an effort to expand a corporation’s mandate beyond shareholder value to include value creation for all stakeholders.
+Added sustainability-linked pricing metric to the Company’s corporate credit agreement.
+For the most recent CDP questionnaires, earned a B on Climate Change, A- on Water Security and A- on Supplier Engagement.
+Will publish a stand-alone TCFD report.
+Received validation from Science Based Targets Initiative (SBTi) that NRG’s carbon reduction goals are 1.5 degree-aligned, the most ambitious designation currently available. NRG is the first North American power company to receive this designation and only the twelfth power company globally.
+2009 2010 2012 2014 2015 2016 2017 2018 2019 2020 2021. 
+NRG is committed to leading its sector in sustainability transparency and disclosure. We follow the leading globally accepted frameworks and standards in order to provide key information to all of our stakeholders.
+In 2017, the Financial Stability Board’s Task Force on Climate-related Financial Disclosures (TCFD) issued recommendations on how companies should inform investors, lenders, and insurance underwriters about exposure to climate-related risks and opportunities, and their sensitivities to different climate scenarios. NRG supports implementing the TCFD recommendations and committed to report in line with those recommendations. In late 2018 and into 2019, we engaged a third-party expert to improve our futures thinking capability, including climate. 
+Transparency and reporting Sustainable finance: Aligning finance with our decarbonization strategy. 
+A DECADE OF PROGRESS13 financing to the realization of previously announced goals to achieve a 50% reduction of absolute greenhouse gas (GHG) emissions by 2025 from our current 2014 baseline, and reach net-zero GHG emissions by 2050. To learn more about how the bond fit our strategy and brings our sustainability and financial goals together, read our SLB framework here.
+Learn more about why we are uniting our net-zero goals and our financing strategy here.
+
+
+01 02 03 BUSINESS 04 05 06 07 08 36 37 37 SUSTAINABILITY REPORT | 2020. 
+United Nations Sustainable Development Goals. 
+Launched in 2015, the 17 Sustainable Development Goals (SDGs) are a global set of goals, targets, and indicators developed by the United Nations to guide countries, communities, and organizations in their work to create a sustainable world by 2030. While NRG recognizes that making progress on all 17 SDGs is vital to creating a sustainable economy, as a predominantly U.S. business, the company strives to focus its resources on the SDGs that are most closely tied to our business: 3, 5, 7, and 13.
+SUSTAINABLE DEVELOPMENT GOALS 3 5 13 7. 
+ALIGNMENT WITH UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+Power Values • Diversity, Equity, and Inclusion one of NRG's values • Internal program "Women in Power" trains female employees for leadership roles • Equal pay study found no evidence of gender- or racial-based discrimination • CEO Action Pledge 5 GENDER EQUALITY • Unconscious bias training • Signing U.N. Women's Empowerment Principles. 
+Governance • Seven of the 11 members of NRG’s board are gender and/or ethnically diverse • Four members of NRG’s board are women (36% of independent directors) • NRG has a minority CEO. 
+SDG Sub-target Alignment • 5.1 End discrimination • 5.5 Equal leadership opportunities. 
+Empowered Customers • State-of-the-art retail brands and offerings • Plans and solutions for all needs and budgets • Advocate for competitive markets and champion of customer choice 7 AFFORDABLE AND CLEAN ENERGY. 
+Sustainable Solutions • Energy storage • 100% renewable plans offered in all of NRG’s retail markets, including plans tailored for electric vehicle charging and rooftop solar • Demand response • Carbon offsets • Sustainable energy consulting. 
+SDG Sub-target Alignment • 7.1 Access to affordable and reliable energy services • 7.2 Increase share of renewable energy. 
+Company Actions • GHG goals are science-based and 1.5 degree Celsius-aligned • Carbon capture innovation • Active engagement with climate-tech ecosystem, academic, industry, and non-government organizations to identify decarbonization pathways • Commitment to supply chain engagement. 
+CLIMATE ACTION13 SDG Sub-target Alignment • 13.2 Climate change measures • 13.3 Improve education, awareness, and capacity on climate change. 
+Empowered Employees • Power Up My Life engagement program offers wellness benefits • Power Up Nutrition offers free membership to three different weight management programs • Non-tobacco user insurance discount • Support for mental well-being and work/life balance 3 GOOD HEALTH AND WELL-BEING. 
+SDG Sub-target Alignment • 3.8 Access to quality healthcare • 3.a Tobacco control 37 SUSTAINABILITY REPORT | 2020 37
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 38. 
+Customers. 
+Customer-focused sustainability. 
+Solutions for home. 
+Solutions for business. 
+Generation and supply. 
+Resilience
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 40 41 41 SUSTAINABILITY REPORT | 2020. 
+Finding the optimal path to what’s right. 
+There is no shortage of sustainable solutions for business and residential customers. What’s needed is a guiding hand to help customers navigate through the possibilities and land on what’s right — for them.
+At NRG, that’s our role and our difference. It starts with a core value — Customer Focus — that resonates throughout our company. Employees across all departments of the organization set benchmarks for success and are accountable for delivering on our customerfirst culture. We use a net promoter score (NPS)14, based on industry standard customer survey data, to measure the willingness of customers to recommend our products or services to others.
+This customer-focused mentality has led us to create tools that empower energy users to think critically about their electricity, including where their power is coming from, what impact it has on the environment, and how they can become more engaged. We partner with customers to provide innovative power solutions informed by years of experience as a market leader.
+In particular, our expertise brings customers closer to achieving their energy goals through a range of retail renewable electricity plans, tailored demand response programs, active energy management tools, energy efficiency consulting and products, and carbon offsets for natural gas and gasoline consumption.
+Start with customers. Arrive at solutions.
+Capitalizing on the renewable energy future today. 
+Electric vehicles and solar energy are already transforming the lives of businesses and residential customers. Our team is positioned to help both groups embrace the possibilities in ways that are pragmatic and effective.
+• For individuals: A sustainable journey that allows customers to start slow and grow their commitment at their pace — from renewable energy plans to rooftop solar installation to power solutions to charge their EV.
+• For businesses: A sustainability consulting resource to help leverage tools, education, and support — leading to informed decisions around sustainability goals and options for attaining them through optimized supply strategies, demand-side solutions, and sustainability performance management.
+40 01 02 03 04 CUSTOMERS 05 06 07 08 14 Net Promoter Score (NPS) is the percentage of customers highly recommending a product or service less the percentage that don’t recommend the product or service.
+Our real-world test lab. 
+From the outside, it looks like a typical home which is exactly the point. Inside it’s a house where new technologies — smart, intuitive, and energy-saving — can be tried, tested, and demonstrated by our energy innovation team. We call it the Smart Home and it’s where smart energy solutions and intuitive energy innovations get their start. With in-person visits not possible, we pivoted to unique virtual tours for government officials, organizations, and other stakeholders.
+Smart thermostats, controlled by voice-activated commands, help regulate energy use (see page 42 for a list of commands)
+Expertise at hand. 
+For many business customers, the right solution starts with a conversation with our energy consultants. From there, goals, ambitions, and logistics turn into the right kind of sustainable solution — in many cases, one that wasn’t on their radar initially. For our residential customers, we help them stay in control of their energy usage — and budget.
+Bill management to help business customers meet energy objectives and monetize energy conservation with tools, tips, and innovations.
+Quick success with certified carbon offsets. 
+This solution allows residential customers to compensate for the carbon footprint of the energy they use at home or while traveling. Purchasing certified carbon offsets lets them support projects that avoid or reduce carbon. We make it a quick, easy, and affordable way to achieve sustainability success, offering packages available as a subscription service or through a one-time purchase option. Further customization lets them choose packages to offset travel, driving, gas, electricity, and lifestyle based on EPA emission estimates.
+Certified carbon offsets powered by NRG allows any energy consumer in the Northeast to “green up” their lifestyle. Launched in 2020, we have had early success with customers choosing this solution, including at an EV test-drive event held in Princeton, NJ.
+Energy expertise, services, and understanding:
+Optimize, appliances, window shades, and light bulbs. 
+Fine-tune HVAC systems to improve energy efficiency. 
+Increase resilience and diversity of energy supply with backup generation, battery storage, rooftop solar, and EV charging 41 SUSTAINABILITY REPORT | 2020 
+ 
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 42 43 SUSTAINABILITY REPORT | 2020 43 43 SUSTAINABILITY REPORT | 2020. 
+Making energy easy is quite advanced. 
+A lower carbon footprint starts at home. For our retail electricity brands, including Reliant, Green Mountain Energy, Stream, and Goal Zero, it starts with making things easy for customers.
+Gone are the days where being efficient was seen as sacrificial, old-fashioned, and — simply put — difficult. Instead, that’s been replaced by technology, transparency, and — most of all — ease.
+All of our retail brands continued to embrace this transformation in 2020 and each one helped their customers become more knowledgeable, proactive, and effective energy managers.
+Solutions for home. 
+Armed with knowledge. 
+Informing customers with visual, easyto-grasp updates on their energy use helps them become more efficient consumers of energy. And we have heard from our customers that they appreciate the support. It’s one reason why Reliant’s Net Promoter Score (NPS) reached an all-time high in April 2020, right in the middle of the COVID-19 pandemic.
+“ Your graphs help me be aware of my usage. Your commercials explaining how you are helping during the crisis warmed my heart. Your price seems way lower than the previous company I used.”
+Reliant customer. 
+As written in 2020 survey. 
+Choosing personalized power. 
+Far more than a Reliant tagline, “Power Your Way” is a promise to provide electricity-plan choices that fit a customer’s lifestyle and power-usage routine. In 2020, Reliant continued to deliver on this promise through the enduring “Pick Your Free” platform. Customers across Texas could select from three time-of-use plans, pairing free electricity with a Google Nest Hub for voice-controlled energy management.
+Efficient and intuitive. 
+The Reliant/Google Nest partnership allows customers to use Google Assistant and simple voice commands to access their Reliant account and manage energy usage: 3 ways to pick your free: • Truly Free Nights • Truly Free Weekends • Truly Free 7 Days. 
+Hey Google, ask Reliant … • “How much electricity am I using?” • “How much of my electricity is free?” • “What’s my bill?”
+Our Stream retail brand made green energy readily available to its customers with the introduction of Stream Green, giving customers easy access to renewable energy options generated from 100% renewable resources. Stream customers in select markets can enroll in a 100% renewable Green & Clean plan or add Stream’s eco+ to any qualifying plan and Stream will purchase 1,000 kWh of renewable energy on their behalf.
+Developing a base of conscientious energy users. 
+The Reliant Degrees of Difference programs reward customers for conserving energy during peak summer demand periods. In 2020, customers who enrolled with a Google Nest thermostat not only enjoyed a completely automated experience, but also received a Google Nest Mini, which could be seamlessly paired with their thermostat and Reliant account for voice-activated control .
+Infrared thermometers: • Provided to customers to detect efficiency opportunities in their homes while online with energy consultants. 
+Delivering home energy audits with a 2020 twist. 
+As the COVID-19 pandemic kept customers home and within social distancing confines, Reliant home energy audits adjusted. They became virtual energy audits rather than in-person visits, while still delivering valuable insights and action steps for greater home energy efficiency:
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 44 45 45 SUSTAINABILITY REPORT | 2020. 
+Building on a mission. 
+While sustainability is embedded across all our retail brands, two brands – Green Mountain Energy and Goal Zero — were founded specifically with the purpose of delivering on the promise of sustainability in new, innovative, customer-leading ways.
+• Partnership with Group 1 Automotive to help EV enthusiasts find the vehicle that meets their needs. 
+Renewable Rewards Perfect Match 100% renewable electricity plan. 
+Goal: Provide the best solar buyback plan in Texas for rooftop solar customers • Customers installing home solar panels receive credit on their electricity bill for power they generate but don’t use and sell back to the grid. 
+Go Local Solar Green-e® Energy certified; first certified 100% solar plan in Texas. 
+Goal: Create a plan for customers not ready to install rooftop solar but enabling them still to power their homes with Texas solar energy. 
+Since 1997, Green Mountain Energy has been changing the way power is made by offering 100% renewable energy, carbon offsets, and sustainable living solutions. Its commitment to building a cleaner future has spurred the development of renewable energy products — from carbon tracking tools to renewable technology addons to an electric vehicle management platform — that help customers live greener every day.
+42 MM metric tons Amount of CO2 avoided from the commitment to 100% renewable electricity since the company’s founding in 1997. 
+Riding on Sunshine™ Electric vehicle enablement. 
+Goal: Help customers transition to EVs powered by solar • Partnerships with rooftop solar system installers who install rooftop solar panels + backup solar batteries • Customer incentives for installing rooftop solar systems: • Rebates on solar system installation costs • Free Level 2 EV charger • Two new solar electricity plans: • Solar All Nighter for EVs — 100% solar electricity plan with reduced prices at night to facilitate overnight charging of EVs at home • Solar with Green Mountain Driver — 100% solar electricity plan with offsetting of vehicle emissions for customers not ready for an EV or transitioning from a gas- to electric-powered vehicle. 
+Sustainable mission delivered with resilience. 
+Core to the Goal Zero customer mission is providing sustainable, portable power products. Solutions include mobile power and energy storage stations, portable solar panels, and portable lighting geared toward active, on-thego customers and those wanting to enhance the resilience of their home energy system.
+Community outreach and pandemic support • Donated solar power products to a partner who carried out solar installs right in our own backyard on the Navajo Nation. Opens the door for educational opportunities and helps communities become more resilient • Responded to COVID-19 by donating funds to manufacture face shields for healthcare workers. 
+Responsible product and operations • Formalized product shipment emissions target in 2020. 
+Goal: Achieve carbon neutrality for 100% of inbound and outbound product shipments • Progress: Achieved goal by end of 2020 and will continue to achieve in 2021 and beyond. 
+Sustainable packaging • Transitioning to using recycled packaging materials. 
+Goal: Use at least 30% post-consumer waste (PCW) in cardboard product packaging • Progress: Achieved goal for 50% of items in 2020. Working to complete for remaining 50% of items by end of 2021 and investigating use of PCW for other packaging materials 2,019 metric tons CO2. 
+Avoided by Green Mountain Energy customers through carbon offsets they purchased in 2020, equivalent to taking 460 cars off the road for an entire year.
+SUSTAINABILITY REPORT | 2020 45
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 46 47 47 SUSTAINABILITY REPORT | 2020. 
+Creating customer-focused paths to sustainable energy. 
+In 2020, we guided more business customers to what’s optimal, leveraging our energy industry knowledge, a technology-agnostic mindset, and a focus on their unique situations, goals, and needs. From there, robust solutions — efficient, resilient, cost-effective, and sustainable — naturally emerged.
+Solutions for business 1.8 GW Solar Output procured through 2020. 
+Making sustainable attainable. 
+Our Renewable Select energy plan allows businesses to embrace renewable energy without the need for onsite solar panels of their own, or complicated and often risky contract structures. How? Through a plan where everything is handled: solar energy is sourced and located and the business can point to a nearby solar facility and say, ‘that's where our solar comes from.' Best of all, it's a plan that provides a simple, predictable, fixed rate our customers can count on — and one that is cost-competitive, too.
+Clean, green, and simple is our team’s formula for success.
+From renewable commitment to renewable reality. 
+We applaud every business committing to a renewable energy goal. We’ve also helped many achieve those goals — quickly, smoothly, and measurably. One example: Bank of America.
+Its goal: 100% of electricity from renewables • Our solution: Renewable Select 10-year agreement • Measurable impact: 160,000 MWh renewable electricity annually to 345 facilities in Texas (offices, financial centers, ATMs) “ NRG helped us implement a new and innovative renewable energy structure, and to demonstrate our strong commitment to carbon neutrality.”
+Andrew Plepler. 
+Environmental, Social, and Governance Bank of America. 
+Other choices for affordable, renewable energy: • Community Solar brokerage — our team’s energy market expertise allows us to match communities with solar partners that can provide power using a local facility and often at a discount to standard rates. Community solar is available in select markets only, but more states are adding programs. This type of renewable energy purchase is ideal for users looking for local resources but who can’t use their own facility, as in the case of renters.
+• Virtual Power Purchase Agreements (VPPAs) — many customers want renewable electricity to meet their sustainability commitments. However, they seek the benefit of renewable electricity attributes without having to take ownership of the physical energy. NRG Trading Advisors LLC (NTA) works with customers to structure virtual power purchase agreements with counterparties in a behind-the-scenes manner. NTA works through the complexity and delivers an end-result that offers more geographic and project type flexibility, resulting in a seamless and effective solution.
+01 02 03 04 CUSTOMERS 05 06 07 08
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 48 49 49 SUSTAINABILITY REPORT | 2020. 
+TEPA Supplier of the Year. 
+Helping organizations achieve energy and sustainability goals is reward enough. Outside recognition, however, also came our way when NRG was voted 2020-2021 Supplier of the Year by designation from The Energy Professionals Association (TEPA), a non-profit organization dedicated to advancing competitive energy markets across the country.
+The coveted award recognizes energy suppliers for comprehensive, innovative, and strategic vision and their customer service. Finalists and winners are selected by TEPA’s national membership based on several factors: • Overall satisfaction • Ease of doing business • Ethical business practices • Customer service • Price competitiveness • Market knowledge. 
+Partnerships in success. 
+In 2020, we not only helped many businesses achieve success with their energy goals, we also celebrated it. In November, our Excellence in Energy Awards recognized customers in three key areas:
+Sustainability: • Archdiocese of Galveston-Houston • Bank of America • City of Houston. 
+Energy Efficiency • Dallas Independent School District • Houston Methodist Hospital. 
+Community • Investment Corporation of America • YMCA Dallas Metropolitan. 
+Demand response (DR) made easy and seamless. 
+Getting paid to use less electricity benefits the grid and customers alike. Our team makes it easy to put into action with tailored DR products and reduction plans.
+New in 2020: Reliant Economic Dispatch: • Enhanced DR product for Texas during summer months • Day-ahead notifications for a more orderly reduction process • Fewer restrictions and greater flexibility when it comes to reducing load — eliminating a major concern of many businesses and opening the door to a win-win solution “ NRG is a valued TEPA member that consistently delivers new products, services and technology which elevates the standards of our industry, We congratulate the NRG team for being named our 20202021 TEPA Supplier of the Year and for their commitment to helping consumers make informed energy procurement decisions. Our TEPA members are at the heart of why commercial energy is working for consumers across the country.”
+Javier Barrios,
+TEPA National Board President. 
+Building a multi-faceted energy solution Dallas Independent School District (ISD)
+Many of the energy solutions we put in place for customers are integrated approaches, leveraging the benefits of several energy plans, tools, and technologies. One example is the Dallas ISD, the largest urban school district in the U.S. utilizing 100% renewable energy. In addition, their approach integrates participation in several demand response reduction programs.
+This blended solution sets an example for all students in the district to strive to reduce waste and lower electricity costs by smartly reducing energy consumption. In the process, their energy approach also frees up more money to go toward their core mission of educating students. In 2020, the district earned one of our company’s inaugural. 
+Excellence in Energy Awards in the category of Sustainability.
+“ We’re very appreciative of the recognition from NRG and proud of the work our team is doing. The need for continuous improvement and innovation remains constant in order to meet the demands of environmental equity.”
+David Bates. 
+Dallas ISD Executive Director, Maintenance and Facilities 48 01 02 03 04 CUSTOMERS 05 06 07 08
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 50 51 51 SUSTAINABILITY REPORT | 2020. 
+Expanding the concept of energy sustainability with broader, deeper, and more integrated solutions. 
+Increasingly, what’s right and what’s needed for businesses is evolving into something bigger — an approach that brings resiliency, stability, control, and predictability to large energy users. This multi-faceted “all of the above” approach can be complex in scope while ultimately delivering simple and powerful reassurance. Our team of energy advisors helps customers navigate the landscape to choose the solutions that are best for them — without sacrificing clean-energy goals, flexibility, and fiscal responsibility — adding to the value of these solutions .
+Ambitious goals. Integrated solution. City of Houston. 
+Our energy partnership with the fourth-largest city in the U.S. shows how an integrated, multi-faceted solution can embrace and achieve many aspects of sustainability. Here’s how our approach helps meet multiple goals:
+Sophisticated and distributed. 
+Distributed energy resources (DERs) have emerged through their ability to embrace software intelligence and integrate multiple technologies, energy sources, and tools to create better, more flexible energy systems. For our customers considering DERs, it all starts with guidance.
+In 2020, we educated customers through webinars and white papers on the possibilities of enhancing sustainability and reliability, creating additional revenue streams, and/or reducing costs in their energy supply by integrating multi-faceted DERs: • Renewable energy • Traditional backup generation • Combined heat and power • Fuel cells • Battery energy storage • Demand response • Microgrids. 
+The power of the right energy team Customers of all sizes turned to our team of diverse energy experts, deployed as needed to discover and deliver energy solutions across the entire energy spectrum.
+NRG Advisory Services: • Expertise in electricity/natural gas supply, sustainability management, and efficiency • Delivered solutions like demand response, generator retrofits, and peak load management • Tools including online account management and an advanced management platform enables them to be efficient energy consumers. 
+Partnership in knowledge. 
+The route to a sustainable solution goes directly through insight. In 2020, we worked with Smart Energy Decisions on a research study with companies successfully embracing distributed energy and the obstacles they overcame along the way. These key takeaways were shared with other companies just starting down their own paths: 1
+2 3
+4. 
+Customers see DERs as a means to gain control over their power with innovative models. 
+Customers want control over their costs of power without spending their own capital. 
+DERs can help customers achieve renewable and sustainability goals. 
+DERs can be an effective antidote to power outages • Renewable retail electricity agreement → helps City meet goals of powering municipal operations with 100% renewable energy via more than 1 TWh of renewable energy annually • Large-scale emergency backup generation network → installed with 20-year service agreement requiring no upfront capital • Energy efficiency audits → identifies opportunities for savings, generates $250,000 annually in efficiency rebates 51 SUSTAINABILITY REPORT | 2020 • Sustainability consulting → two-way partnership in developing the City’s ambitious and achievable Climate Action Plan • EVolve Houston → one of six partners working with the City to achieve 30% EV penetration by 2030, also installed public electric vehicle infrastructure • Sustainable communities → supporting the City’s initiative to plant 100,000 trees by 2025 • Affinity program for City employees to purchase discounted renewable energy
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 52 53 53 SUSTAINABILITY REPORT | 2020 40% 32% 15% 5% 9% 43% 35% 16% 5% 1%
+Generation and supply. 
+We serve our customers' demand for electricity in a number of ways. Whether generating power from our fleet with diverse fuel sources and geographic proximity to our customers, selectively purchasing power from the market, or entering long-term power purchase agreements (PPAs) for renewables, we’re sourcing power in ways that meet our customers’ needs and values. In fact, we call ourselves an integrated energy company precisely because we match our customers’ demand for energy with the best combination of supply sources at any given time and place.
+This integrated approach to our business creates synergies that benefit everyone. The expertise we’ve gained from being a long-time participant in wholesale energy markets allows us to evaluate the market and optimize our offering for a myriad of conditions.
+NRG: INTEGRATED ENERGY COMPANY. 
+Supply Demand • Power generation • Wholesale purchases of energy • Power purchase agreements for renewables • Optimized • Cleaner • Reliable. 
+Impact of integration • Residential customers • Commercial and industrial business customers • Product and service variety • Customized solutions • Meets customer needs • Simplify • Reduce risks • Leverage expertise • Insulate customers from market volatility. 
+BENEFITS OF INTEGRATION creation of high-quality renewables. Through 2020, we had secured 1.8 gigawatts of renewable power capacity through PPAs with third-party developers and other counterparties and are actively working to contract additional PPAs. When this renewable power comes online, we will be able to make it available to residential, small business, commercial, and industrial customers. This asset-light approach to procuring renewables allows us to meet customer needs for sustainable energy solutions while supporting our business strategy.
+As depicted above, when our renewable PPAs come online, the share of renewables in our energy supply portfolio will rise from 1% to 9%. We expect this share to continue to grow as we secure additional renewable PPAs and as we divest or retire non-core fossil generation assets.
+Figure A: NRG Electricity Generation Capacity by Fuel Type, end 2020 Figure B: Pro Forma NRG Electricity Supply by Fuel Type, end 202016 15 The charts above do not reflect 4.8 GW of fossil generation asset sales announced on March 1, 2021. If these asset sales had been included, the renewable shares would be 2% in Figure A and 11% in Figure B. 16 Equal to NRG generation capacity plus future renewable electricity capacity from power purchase agreements. Excludes market purchases of electricity for resale. 
+We have made significant progress in rebalancing our generation fleet in terms of scale, fuel type, and location to better serve our residential, small business, commercial, and industrial customers. In particular, we know that our customers increasingly want sustainable energy solutions to reduce their carbon footprints, satisfy stakeholder needs, and reduce cost. Our strategy is not to become a developer, owner, or operator of large-scale renewable energy generation. Rather, NRG leverages its market expertise to partner with developers to bring new, additional renewables to the grid through short- and medium-term PPAs. Our engagement with developers early in the project development life cycle provides them with the commercial assurance they need to begin construction, thereby serving to catalyze the. 
+NATURAL GAS NUCLEAR COAL OIL RENEWABLE. 
+NRG ELECTRICITY SUPPLY BY FUEL TYPE, END 202015
+
+
+01 02 03 04 CUSTOMERS 05 06 07 08 54 55 55 SUSTAINABILITY REPORT | 2020. 
+Resilience. 
+Resilience is the ability to withstand and reduce the magnitude and/or duration of disruptive events, including during and after extreme weather events. Our fleet utilizes a mix of fuels, which can be beneficial in extreme weather and contribute to the resilience of the electric power system. When one particular fuel supply becomes curtailed or constrained, the ability of a power plant to rely on multiple fuel sources enables grid operators to maintain reliable electricity. Fuel diversity means that oil and coal, which can be stored onsite at our power plants, can mitigate the impact of the loss of natural gas fired generation when gas supplies are interrupted (such as during freeze events like Winter Storm Uri in February 2021) and natural gas can mitigate the impact of the loss of coal fired generation when coal delivery is impacted (such as during extreme rain events like Hurricane Harvey in 2017). Likewise, when a natural disaster such as flooding impacts plants in one area, plants or distributed resources in other areas may be able to take over and keep the power flowing if the transmission system is relatively unimpaired by the extreme weather event. Resilience also means making sure that we harden our physical assets to stay operational in the face of climate impacts. Extreme cold in Texas. 
+Winter Storm Uri brought temperatures not experienced in a generation. Power demand hit a new all-time high — reaching nearly 77 gigawatts — surpassing not just the prior winter peak but becoming the all-time peak. The winter storm highlighted the interdependency between the natural gas and power systems as millions were impacted by power outages. Due to weather-related system and plant-specific issues, as well as an Electric Reliability Council of Texas (ERCOT) - induced frequency reduction, as much as 52 gigawatts of capacity in the market were forced offline at one time or another during the event.
+Extreme weather events are a symptom of a warming climate. Texas saw a deep freeze just a decade ago, when a three-day stretch in 2011 ranked as the 60th coldest in the last 130 years. By contrast, Winter Storm Uri ranked third and therefore provides good context for the severity of the cold.
+NRG expressed its commitment to work with regulators and legislators on a comprehensive and exhaustive root cause analysis of what went wrong across the entirety of the energy system during Winter Storm Uri, from fuel supply to the production and delivery of electricity. Our goal is to have a system that is more resilient to prevent this from happening again.
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 56 57 57 SUSTAINABILITY REPORT | 2020. 
+Workplace. 
+Safety and well-being. 
+Diversity, equity, and inclusion. 
+Employee engagement. 
+Community and philanthropy. 
+Just Transition
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 58 59 59 SUSTAINABILITY REPORT | 2020. 
+NRG 5-Year Safety Record 0.0 0.1 0.2 0.3 0.4 0.5 0.6 .32 2020 .49 2019 .51 2018 .56 2017 .56 2016. 
+NRG Actual 5 Year Average Top Decile Target for the U.S. Electric Power, Generation, Transmission, and Distribution Industry. 
+Total Recordable Injury Rate. 
+Employees power the work of our company. For all of them we provide comprehensive compensation and benefits as well as tools and resources to foster success and career growth. This includes the many employees represented by labor unions. We negotiate with these organizations in good faith and are proud of the cooperative relationships we have built together over the years.
+Safety and well-being. 
+The safety and well-being of our employees is of paramount importance. Responsibility for safety is instilled at every level at NRG. To further this culture, we have adopted a Safety-OverProduction policy at our generation facilities, which empowers any of our colleagues to take actions that are necessary to comply with safety rules and requirements even if such actions result in reduced or stopped production at our facilities.
+It is our goal to be in the top decile of OSHA (Occupational Safety and Health Administration) recordable injury rates — specifically, to achieve a rate of 0.55 or lower. In 2020, we had our best safety performance year ever on record. We were well below the industry average for Total Case Incident Rate (TCIR),17 registering 0.32.
+Keeping contractors safe. 
+Our comprehensive safety program includes everyone who works within an NRG facility: employees, contractors, vendors, and visitors. We screen contractors and assign them onsite coordinators to monitor their safety performance. Additionally, we audit our contractors to ensure they meet all safety expectations. In 2020, we continued the use of an outside service company that specializes in the contractor safety review process and which provides detailed reviews of all written safety programs to ensure regulatory compliance and performance criteria. This robust review process ensures contractors have the desired safety performance that we expect and the necessary written programs to ensure contractor personnel can work safely.
+NRG FACILITIES WITH OSHA VOLUNTARY PROTECTION PROGRAM (VPP) STAR STATUS18 • Cedar Bayou • Central Repair Shop • Limestone. 
+GENERATION-RELATED FACILITIES OWNED OR OPERATED BY NRG WITH ZERO RECORDABLES IN 2020 • Antelope Elk • Astoria • Carlsbad Energy Center • Cedar Bayou • Central Repair Shop (Maintenance Services) • Cottonwood • Deer Park • Devon • Dunkirk 18 NRG owned or operated facilities as of December 31, 2020. Only facilities owned by NRG are included in all sustainability metrics. Facilities in the OSHA VPP Star Program have achieved injury and illness rates at or below the national average for the Electric Power Generation, Transmission, and Distribution Industry industry 0.32 our consistent top decile safety record. 
+Safety training. 
+We are committed to providing valuable resources and training to help our workforce understand what it takes to stay safe. During 2020, we completed 14,686 total hours of safety training, with a total of 4,496 employees and 884 contractors completing safety courses. In 2020, in light of the pandemic, we continued to adapt our policies and procedures based on evolving guidance from the Centers for Disease Control and Prevention (CDC) and OSHA.
+• San Jacinto • Seward • TH Wharton • WA Parish • El Segundo • Encina • Greens Bayou • Gregory • Indian River • Ivanpah • Jewett Mine • Joliet • Long Beach • Marsh Landing • Midway Sunset • Montville • Morgantown, WV • Mustang • Panhandle Wind Ranch • Plum Point • San Jacinto • Seward • T. H. Wharton • Vienna • Walnut Creek. 
+A place for people — the foundation of NRG 17 Defined as the number of work-related injuries per 100 full-time workers during a one-year period.
+NRG RECORDABLE INCIDENT RATES
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 60 61 61 SUSTAINABILITY REPORT | 2020. 
+We recognize that in order to serve our customers and our communities we must live our values. One of our core Power Values includes creating a work environment where our colleagues are treated fairly and with respect, and where each voice matters. We are building on that position by reshaping our hiring and promotion practices, continually improving policies to be more inclusive, and by doubling the number of our Business Resource Groups (BRGs) where employees can share and receive support from their colleagues. We strive to be a place of equitable access for employee growth and where we celebrate the individual while together championing our diversity.
+In furtherance of our diversity, equity, and inclusion initiatives, during 2020 we: • Completed our first gender and race pay equity study to ensure our employees are compensated for their contributions, not based on gender, race, or other similar factors. The study showed equitable pay practices after accounting for education, experience, performance, and location. We have committed to completing this study every three years.
+• Conducted unconscious bias training for all employees with 100% completion rate and will continue to expand employee training on diversity, equity, and inclusion in 2021.
+• Evaluated all job code requirements and postings and, where appropriate, revised them to eliminate requirements for a 4-year university degree, and reworked our corporate policies to be more inclusive and gender-neutral.
+• Engaged a 21-member cross-functional team spanning the enterprise, under the leadership of President and CEO, Mauricio Gutierrez, to develop actionable recommendations to enhance diversity, equity, and inclusion. Those recommendations were delivered to the CEO in December 2020 and many are being implemented in 2021.
+• Felt the social justice call to action. In response, we issued a statement denouncing racial injustice and donated over $1 million to Powering Change, our initiative supporting non-profit organizations working to combat racial inequities and injustice.
+• Continued to uphold our commitment to supplier diversity by ensuring that diverse business enterprises — such as those that are small, minority-owned, women-owned, and veteranowned — have open access to contracting opportunities available at NRG.
+Diversity, equity, and inclusion. 
+GENDER BREAKDOWN AT NRG19. 
+Overall NRG. 
+F M “ The biggest thing I learned in my time in the military was working with people of different ages, backgrounds, and experiences.”
+Alvina Porter. 
+NRG customer service representative and former military officer. 
+Corporate. 
+Residential and Business. 
+Generation 29% 71% 42% 58% 53% 47% 7% 93% 19 Data are self-reported, self-selected
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 62 63 63 SUSTAINABILITY REPORT | 2020. 
+DIVERSITY AT NRG. 
+Black or African American. 
+Hispanic or Latino. 
+White (not Hispanic or Latino)
+Asian. 
+Two or more (not Hispanic or Latino)
+American Indian or Alaskan Native (not Hispanic or Latino)
+No Election. 
+Native Hawaiian or other Pacific Islander (not Hispanic or Latino) 65% 9% 11% 13% <1% <1% <1% 1%
+Black or African American. 
+Hispanic or Latino. 
+White (not Hispanic or Latino)
+Asian. 
+Two or more (not Hispanic or Latino)
+American Indian or Alaskan Native (not Hispanic or Latino)
+No Election. 
+Native Hawaiian or other Pacific Islander (not Hispanic or Latino) 65% 9% 11% 13% <1% <1% <1% 1%
+Company wide. 
+White (not Hispanic or Latino)
+Black or African American. 
+Hispanic or Latino. 
+Asian. 
+No Election. 
+American Indian or Alaskan Native (not Hispanic or Latino)
+Two or more (not Hispanic or Latino)
+Company wide - middle management. 
+Native Hawaiian or other Pacific Islander (not Hispanic or Latino)
+Company wide - VP and above. 
+Corporate. 
+Retail. 
+Generation 1
+1 2 3 4 5 2
+3 4
+5 72% 14% 5% 7% 0% <1% 1% <1% 85% 9% 2% 2% 0% 0% 2% 0% 57% 24% 10% 9% 0% 0% 1% <1% 48% 10% 18% 22% 0% <1% 1% <1% 81% 3% 6% 9% 0% <1% 1% <1%
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 64 65 65 SUSTAINABILITY REPORT | 2020. 
+Internal task force (Workplace 2021) to evaluate office redesign • Assess hybrid workplace options • Maximize productivity, attract/retain talent • Enhance work-life balance. 
+Our COVID-19 response began with our workforce:
+NRG invests in the well-being of employees. We provide programs that holistically support physical, emotional, and financial wellness, allowing our colleagues the opportunity to take control of their well-being and focus on what matters most to them for a healthy, secure future. In 2020, this took on added urgency as we worked to provide resources, support, and reassurance for a workplace suddenly confronted with the realities of the COVID-19 pandemic.
+Building a culture of transparency by continuously engaging in dialogue between leaders and employees is important to us. In 2020, management regularly asked our employees for feedback on how they were feeling throughout the COVID-19 pandemic. In response to the feedback received, we instituted work-life initiatives like waiving all fees for tele-health services, partnering. 
+Talent development. 
+We deploy various talent development strategies and programs with the goal of ensuring a pipeline of leadership who can execute on our strategy and drive value for all stakeholders. Management regularly updates its leadership development and succession plans, including engaging with the Board on development plans and bench strength for key senior leadership positions. We also have a structured program that allows Board directors to interact directly with individuals deeper in the organization whom management, through a robust talent assessment program as well as mentoring relationships, has identified as high potential future leaders. Our performance management tool emphasizes a continuous feedback loop among all our employees, and a robust online training curriculum covers topics such as leadership, communication, and productivity.
+Valuing employees. 
+We seek to provide compensation and benefits aligned with the median of a peer benchmark. To ensure incentives are properly aligned with business needs and enable us to attract and retain qualified employees, the Board’s Compensation Committee actively reviews our total rewards programs, including benchmarking programs against peer groups, assessing the risks of the compensation program, and evaluating the design of the annual and long-term incentive plans. We offer full-time employees incentives designed to motivate and reward success. We continue to evaluate our offerings, taking into consideration the needs of our employees, to ensure they are competitive, and best serve our employees. Every two years, we engage an independent, third-party to benchmark our compensation and benefits programs against our peers and report the results to the Compensation Committee.
+with a childcare organization to enhance childcare availability for employees, arranging curb-side pickup of mail and essential technology items from offices to allow employees to work more effectively at home, additional mental health wellness programs — including training to be a Mental Health First Aid responder — and enhanced COVID-19 safety protocols at plants and offices where essential workers continued to work. We continued our annual survey of employees on their physical, emotional, and financial well-being and are addressing issues that surfaced. Finally, we established an ongoing cross-functional learning series called NRG IQ. These are short, virtual sessions hosted by different departments to showcase how each team contributes to our company’s purpose. The series is building our collective knowledge and enabling us to work together more effectively as one NRG.
+Employee engagement. 
+Sustainability begins within our own house:
+Investing in our employees and empowering them to move forward: • In a pandemic year, enhanced two-way communication between management and employees • A workforce that becomes a community force • Charitable giving extends throughout NRG. 
+Additional services to support needs of all employees. 
+Back-up childcare. 
+Expanded access to tele-medicine (physical and mental health)
+Emotional support such as mindfulness training 64
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 66 67 67 SUSTAINABILITY REPORT | 2020. 
+Community and philanthropic outreach through. 
+PositiveNRG is our company’s philanthropic giving program. It helps to build our culture by creating a workplace that empowers employees to support communities, causes, and organizations that they elect to champion through donations of their time and/or money. The platform offers multiple touch points, which allow for engagement with non-profit organizations and internal employee team building.
+2,950. 
+Volunteer Hours 115. 
+Charities served BY VOLUNTEERS 607. 
+Donations RECEIVED BY CHARITIES 13%
+Donated 15%
+Engaged WITH POSITIVENRG 11. 
+States WHERE EMPLOYEES VOLUNTEERED 12. 
+States WHERE EMPLOYEES ARE FROM. 
+EMPLOYEES ENGAGED COMMITMENT. 
+During 2020, in an effort to safely engage our employees while also meeting our philanthropic goals, we reimagined our annual company-wide volunteer week. With more than 90% of the NRG workforce in a 100% virtual environment, it was important to reinforce our Power Value of collaboration and reignite employees’ feelings of joint purpose and connection. During this “reimagined” positiveNRG Week, employees were placed in small groups and provided a series of light-hearted, physical, and mind-bending tasks, allowing them to interact and engage with colleagues. Separately, we conducted a sociallydistanced food drive, and donated the money allocated to our annual volunteer week to 15 food banks across 8 states. PositiveNRG also sponsors and helped double the number of Business Resource Groups, which enable employees to share and receive support from their colleagues.
+We also committed $2 million in charitable contributions to fund relief efforts in connection with COVID-19, which included providing urgently needed safety equipment and funds to aid local communities and teachers.
+A F R O N T- L I N E C O M M I T M E N T STRONGER TOGETHER. 
+Our $2 million pledge includes funding to these relief efforts:
+Cities & Businesses. 
+Supporting communities and small business funds where our customers and employees live. 
+First Responders. 
+Supporting EMTs, paramedics, fire departments and the heroic work they perform. 
+Educators. 
+Supporting schools through grants directed from our employees via DonorsChoose.org. 
+Safety Supplies. 
+Supporting those on the front line with protective equipment, protective apparel, and respirators
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 68 69 69 SUSTAINABILITY REPORT | 2020. 
+In 2020, Sun Club, the charitable outreach arm of our Green Mountain Energy retail brand, surpassed $10 million in cumulative grant giving — directed by its customers — since its inception in 2002. With $1.4 million invested in local communities and environmental groups in 2020, more than 4 million pounds of CO2 were prevented from being released in the air. By funding sustainable solutions, conservation initiatives, and educational programs, Sun Club is helping nonprofit organizations create a cleaner planet for us all. A total of 11 funded projects were completed in 2020, including:
+Donors Choose Initiative: One of many giving opportunities at NRG $250,000 donated 66,676 students helped 708 projects funded 674 teachers with projects funded 597 schools 72.6% projects from schools with majority of students from low-income households. 
+Business Solutions. 
+Through the “GreenRoots” program, business customers who enroll in a demand response program have a tree planted in their name through a partnership with the Arbor Day Foundation. Since its inception in 2008, more than 30,000 trees have been planted on behalf of U.S. customers, including 5,000 in 2020. $168,350. 
+PetSmart Charities $146,198. 
+Driscoll Hospital. 
+XOOM has a continuing charitable outreach component — when customers sign up, they can choose to designate a charity to receive 5% of their monthly energy charges. In 2020, XOOM Energy sent more than $300K to two local charities:
+PositiveNRG week re-imagined: $108,000 donated to food banks 567 employees registered for the event 15 food bank recipients 8 states were impacted 9,050 families served • Avenue: Support to this Houston-based organization included funding for its first-ever electric vehicle, along with a new 30 kW solar array, 35.2 kW parking canopy array, and an EV charging station to help promote sustainability in all forms — community, economic, and environmental • Essex Heritage: Sun Club’s first Massachusettsbased project (Salem, MA) brings an off-the-grid solar system to the Bakers Island lighthouse in an historic area hosting 2.7 million visitors. 
+Sun Club® XOOM Energy
+
+
+01 02 03 04 05 WORKPLACE 06 07 08 70 71 71 SUSTAINABILITY REPORT | 2020. 
+Our econrg outreach promotes ecological stewardship among plant employees with initiatives aimed at improving environmental awareness and education. In 2020, these employees participated in 47 voluntary econrg projects and NRG facilities donated more than $14,000 to benefit the environment and provided $24,500 in scholarships to students expressing interest in these environmental studies programs: • Biodiversity: invasive species removal, stocking native fish in local waterways, protection of native vegetation, supporting eagle survey activities • Community: tree planting, educational outreach to local schools and communities; shoreline and. 
+Just Transition. 
+As part of our commitment to the Paris Climate Agreement, we acknowledge the imperative of providing decent work and quality jobs in the power sector throughout the energy transition and the decarbonization of our traditional fossil-fired power generation operations. In the event of a large downsizing at a plant (or a plant closure) our Plant Operations leadership, in concert with our Human Resources team, takes a proactive approach to ensuring that our employees are aware of the upcoming changes with as much notice as possible and are also aware of all options available to them. 
+Virtual conservation impact. 
+LOCATIONS OF SCA VIRTUAL IMPACT ENGAGEMENT WITH NRG 884 Total participants impacted 10,944 Total hours engaged 116,602 Impressions via Earth Day social media campaign 11 Quick touch conservation videos generated 28 Virtual conservation sessions 9 Weeks of youth education public area clean-ups along streams, rivers, and lakes; and public space invasive species removal • Resource reduction, reuse, and recycling: energy efficiency improvements, solar-powered lighting, LED lighting, community recycling drives and recycling of oils and metals. 
+Student Conservation Association (SCA)
+For over 60 years, SCA has been the leader in teaching youth how to conserve our planet. With support from NRG, SCA engaged over 850 youth, alumni, employees, and community members across the nation in 2020 through online conservation education and virtual programming.
+during the transition. This includes meeting with union leadership, if applicable, on the effects of the transition, meeting with all impacted employees to assess if they are interested in another role at NRG, ensuring impacted employees are aware of job openings at the company, giving preference to displaced qualified internal employees for open roles at other plants and, when the employee is willing, offering to relocate impacted employees to take those roles. In addition, NRG offers outplacement services, resume writing skills workshops, and tuition assistance for retraining.
+
+
+01 02 03 04 05 06 OPERATIONS 07 08 72 73 73 SUSTAINABILITY REPORT | 2020. 
+Operations. 
+GHG emissions Environmental management Air emissions Water Waste
+
+
+01 02 03 04 05 06 OPERATIONS 07 08 74 75 75 SUSTAINABILITY REPORT | 2020. 
+GHG emissions. 
+In 2014, we established industry-leading GHG reduction goals and in 2015 became one of the first ten companies globally to have our decarbonization goal validated as 2 degrees Celsius-aligned by the Science Based Targets initiative (SBTi). In 2019, NRG announced the acceleration of these GHG emissions reduction goals to align with new United Nations Intergovernmental Panel on Climate Change (IPCC) guidance, which calls for limiting global warming to 1.5 degrees Celsius in the post-industrial era. We are now targeting a 50% reduction by 2025 from our current 2014 baseline and net-zero emissions by 2050. Our goal covers all of NRG’s direct emissions (scope 1), all of its purchased energy (scope 2), and the employee business travel portion of scope 3. As of December 31, 2020, we had reduced our cumulative emissions by 55% relative to our current 2014 baseline. The decrease is attributed to reductions in fleet-wide annual net generation, a market-driven shift away from coal as a primary fuel to natural gas, and in 2020 reduced load as a result of the COVID-19 pandemic. We believe the 2020 emissions level may change as load recovers from the impact of COVID-19. NRG is continuing to target a 50% reduction by 2025 and is on track to meet that goal.
+NRG Targets 0
+10 20 30 40 50 60 70 80 2014 2015 2016 2017 2018 2019 2020 2025 2050. 
+Net-Zero 63.3 55.5 43.0 42.1 41.7 36.8 27.6 31.7 75 01 02 03 04 05 06 OPERATIONS 07 08. 
+NRG U.S. GREENHOUSE GAS EMISSIONS20 (millions of metric tons of CO2 equivalent) 20 As of December 31, 2020.
+Our emissions targets are ambitious, validated, and industry-leading. 
+We are proud to have had our emissions reduction targets approved by SBTi — first in 2015 as previously mentioned, when our goals were declared as 2 degrees Celsius-aligned, and more recently in March 2021 when our current goal was declared to be 1.5 degrees Celsius-aligned, the most ambitious designation currently available and what the latest climate science has told us is needed to prevent the most damaging effects of climate change. NRG is the first power company in North America to achieve this designation and among only twelve globally.
+Committed to decarbonization and to leading the way. 
+In 2020, our ambition was validated and became industry leading: • Emissions targets approved by Science Based Targets initiative • Current goals declared 1.5o C-aligned • First power company in North American to reach this status 55% decrease since 2014
+
+
+01 02 03 04 05 06 OPERATIONS 07 08 76 77 77 SUSTAINABILITY REPORT | 2020. 
+Environmental Performance Record 2014. 
+BASELINE 2015 96% 2016 87% 2017 78% 2018 60% 2019 53% 2020 36% * Baselines have been recalculated to reflect the composition of the NRG generation fleet. In some cases, that has resulted in differences from percentages previously reported.
+Site-specific EKPI performance impacts the compensation of all employees at that site, fostering collective accountability and environmental commitment within the workforce. Before a plant can receive credit for its performance, it must pass through an environmental "gate," which requires completion of one or more proactive initiatives to minimize the environmental footprint of the site.
+To continuously improve environmental performance, we use an Environmental Management Information System called Intelex. It provides us the tools and transparency to efficiently track our generation fleet’s environmental performance. We use Intelex Incident Management, Corrective Actions, and root cause applications to report incidents, analyze root causes, and ensure completion of corrective actions.
+21 Our environmental performance metric counts environmental incidents such as reportable spills, permit deviations, and receipt of Notices of Violation. Fewer incidents results in a lower, more favorable score. The chart shows the company’s EKPI score per year as a percentage of the baseline year of 2014.
+Baselines have been recalculated to reflect the composition of the NRG generation fleet. In some cases, that has resulted in differences from percentages previously reported.
+Environmental management. 
+We are committed to operating in an environmentally responsible manner and in compliance with all applicable environmental requirements. Our Environment-Over-Production policy sets a clear directive that environmental compliance takes precedence over production at NRG. Every employee is empowered to take necessary steps to always maintain environmental compliance. NRG’s Environmental Policy Statement can be found on our website here.
+As part of our ongoing operations, NRG complies with numerous environmental requirements. In addition, we carefully measure and track monthly compliance with environmental requirements and our own more stringent standards using our environmental key performance indicators (EKPIs) so that we can continually improve. These EKPIs measure a number of leading and lagging parameters such as notices of violation (NOVs), reportable spills, and compliance with laws and are reported internally to management and our Board, as well as externally in our annual sustainability report.
+Our record in continual improvement is exemplary and measurable. For 2020, we sought to have each of our plants meet its respective targets — and by the end of the year, 97.5% did just that.
+The NRG Environmental Manual directs personnel at all NRG facilities to maintain environmental compliance in all activities and processes. In 2020, due to the pandemic, we shifted our environmental audit program to remote environmental reviews at several of our facilities. Just as with our audit program, this required prompt completion of both corrective and preventive actions for all issues identified.
+Our Environmental Management System (EMS) encompasses our overall program including the EKPI, site audits, Intelex, and standard policies and procedures. The figure below (36% in 2020) illustrates a significant 64% overall improvement in environmental compliance performance since 2014. Note that fewer incidents results in a more favorable, numerically lower score.
+Sustainability is being disciplined and visionary • Emission reduction goals that are significant and impactful • Tangible benchmarks, metrics, and ahead-ofschedule progress • The focus to extend our success and expertise to customers. 
+ENVIRONMENTAL PERFORMANCE INDEX21 (lower percentage denotes more favorable score) 64% improvement since 2014
+
+
+01 02 03 04 05 06 OPERATIONS 07 08 78 79 79 SUSTAINABILITY REPORT | 2020 0
+20 40 60 80 100 120 110 87 68 50 48 34 27 0
+5 10 15 20 25 30 35 31 24 20 19 19 17 12. 
+In the charts above, all assets sold as of December 31, 2020 have been removed from inventories.
+NRG ANNUAL U.S. SOx EMISSIONS (million kilograms)
+NRG ANNUAL U.S. NOx EMISSIONS (million kilograms)
+NRG ANNUAL U.S. MERCURY EMISSIONS (U.S. tons) Air emissions. 
+We integrate environmental considerations into strategic and operational decisions. We have demonstrated our commitment by reducing our impact on the environment in several areas. Our annual SOx and NOx air emissions have declined significantly over the last six years.
+Notices of Violation. 
+A Notice of Violation (NOV) is a formal written notification from an environmental regulatory agency that a noncompliance event by the company has been identified. It can be issued for any violation of law, regulation, permit, certification, or license, regardless of significance. An NOV may or may not result in a fine; historically, the vast majority of NOVs issued to NRG have not included a fine.
+NOVs and spills for 2020: • Nine NOVs received; none of which included any penalties • Two reportable oil spills releasing a total of approximately 1 gallon of oil • Zero reportable chemical spills • Two unauthorized discharges of wastewater releasing approximately 370 barrels 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.2 0.57 0.21 0.15 0.14 0.10 0.08 2014 2015 2016 2017 2018 2019 2020 75% decrease since 2014 61% decrease since 2014 93% decrease since 2014 2020 2020 2019 2019 2018 2018 2017 2017 2016 2016 2015 2015 2014 2014
+
+
+01 02 03 04 05 06 OPERATIONS 07 08 80 81 81 SUSTAINABILITY REPORT | 2020 0
+30 60 90 120 150 40 52 121 95 93 42 30 2014 2015 2016 2017 2018 2019 2020 0
+10 20 30 40 50 60 70 80 90 100 2014 2015 2016 2017 2018 2019 2020 63 58 62 64 63 66 80 0 1000 2014 2015 2016 2017 2018 2019 2020 2000 3000 4000 5000 6000 7000 4108 2351 3935 2324 3596 2528 3469 2483 2652 1878 2538 1863 1703 2139 1599 2094 2434 2141 2264 2126 1715 2240 1629 2207 2245 1427 1738 3880 1032. 
+Water. 
+Operating some of our power generation facilities depends on sufficient amounts of available fresh water, as well as recycled, brackish, and ocean water. The primary direct use of this water is cooling of condensers during power generation. We have designed our approach to water management with the understanding that water issues (usage, scarcity, quality, and biodiversity) are site-specific. For example, in completing the annual CDP Water Security Questionnaire, we use tools such as state water quality studies and designations and the World Resources Institute’s Aqueduct tool to evaluate water sustainability impacts. We have. 
+NRG WATER WITHDRAWAL AND DISCHARGE E-WASTE RECYCLED (U.S. tons) invested in water-saving technologies at our generating stations where cost-effective. We also reduce the fresh water required to produce electricity by using non-potable water such as brackish ocean water or grey water from sewage treatment plants and by reusing water in plant cooling and boiler systems. The chart below measures water only from NRG power generation facilities. The amount of water consumed at nongeneration facilities is immaterial in comparison. As organizational boundaries change, we will evaluate whether to include those components in future inventories.
+Waste. 
+We work to reduce, reuse, and recycle any material used in our daily operations. These efforts help preserve natural resources. They also affect our bottom line and operational efficiency. The scope of our waste management programs includes both corporate offices and generation facilities, however, the information below focuses on e-waste. The amounts generated each year vary with the activities of the organization and its facilities. Over 2014-2020, our cumulative e-waste recycled was 476 U.S. tons or the equivalent weight of about 317 standard cars.
+Coal combustion residuals. 
+In 2020, NRG facilities generated 748 thousand metric tons of coal combustion residuals (CCR), more than 601 thousand metric tons (80%) of which were recycled. Coal combustion residuals are used in industrial applications such as on-andoff plant road construction, as well as in materials such as cement. This practice reduced the need for mining of virgin resources such as gravel and gypsum. In April of 2015, the EPA promulgated a rule which regulates the disposal of CCRs. We maintain a CCR Rule Compliance Data and Information page on nrg.com as required.
+COAL COMBUSTION RESIDUAL RECYCLING RATE (%)21. 
+Total Fresh Water (mill m3)
+Total Non-Fresh Water (mill m3)
+Water Discharge 43% decrease in water withdrawal from 2014 21 Baselines have been recalculated to reflect the composition of the NRG generation fleet. In some cases, that has resulted in difference from beneficial use percentages from previous reports. Reported numbers for 2020 include material from cleaned out bottom ash pond at one facility.
+
+
+01 02 03 04 05 06 07 SUPPLIERS 08 82 83 83 SUSTAINABILITY REPORT | 2020. 
+Suppliers. 
+Commitment and partnership. 
+Supplier engagement. 
+Manufacturing standards. 
+Natural gas
+
+
+01 02 03 04 05 06 07 SUPPLIERS 08 84 85 85 SUSTAINABILITY REPORT | 2020. 
+NRG suppliers that have an active target to reduce their emissions NRG suppliers integrating climate-related issues into their long-term objectives 84% 92% “ 2020 CDP SUPPLIER RESPONSE HIGHLIGHTS22 22 Data sourced from CDP. 
+As the world works towards a green recovery from COVID-19, supply chain engagement is crucial.”
+CDP Global Supply Chain Report 2020. 
+Supplier partnerships start with a commitment that extends beyond the bottom line. 
+We are committed to working with suppliers that bring innovation and sustainable solutions to our organization. We strive to maintain a position of leadership in supplier diversity. Our core values provide the basis for our business decisions and drive our commitment to diversity within our supply chain. We are committed to: • Maximizing opportunities for diverse businesses wherever we operate in the U.S.
+• Fostering a culture that promotes the economic and sustainable development of diverse business enterprises in the communities in which we operate • Building partnerships with suppliers to deliver value creation and exceptional service to our customers. 
+Read our CEO Commitment Letter on Supplier Diversity on our website: suppliers overview.
+Our supply chain initiatives include evaluating risks and opportunities in our purchased goods and services, enhancing the ways we select suppliers, developing strong manufacturing standards and internal policies, and promoting environmental disclosure practices for those with whom we do business. In 2020, we continued creating value through transparency and disclosure by participating in the world-leading CDP Supply Chain engagement program. Once a year we ask our top suppliers to disclose information about their climate change performance. For 2020 NRG earned an A-, Leadership Level, for our Supplier Engagement.
+85 SUSTAINABILITY REPORT | 2020. 
+EARNED AN A-
+Leadership Level in Supplier Engagement for the 4th year in a row
+
+
+01 02 03 04 05 06 07 SUPPLIERS 08 86 87 87 SUSTAINABILITY REPORT | 2020. 
+Manufacturing standards. 
+NRG requires our small set of contract manufacturers (including sub-contractors) to adhere to our Social Responsibility Standards for Manufacturers, which, at minimum, requires compliance with applicable laws and regulations, industry best practices, and the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work. Third-party audits are conducted each year and NRG reports the results of such third-party manufacturing audits to the Board’s Audit Committee. Manufacturers that employ subcontractors must verify that these standards are upheld by their sub-contractors. These standards are referenced and made part of any manufacturing contract agreed by NRG. To manage compliance with these standards, manufacturers are encouraged to establish policies and performance objectives related to labor, grievances, health and safety, environmental responsibility and ethics, and business integrity. Read the full policy here.
+Natural gas. 
+While the share of coal in the power generation fuel mix continues to decline, natural gas remains an important form of baseload power. Although natural gas emits around 50% less CO2 than coal when combusted, the methane emissions associated with the natural gas supply chain, over which NRG does not exert direct operational control, are 86 times more harmful as a greenhouse gas than CO223.
+An early analysis of carbon and water in our supply chain revealed that most of our environmental impacts arise from fuel suppliers and in particular our natural gas supply. That enabled us to craft strategies that address our most significant areas of impact and the vendors that comprise the largest portion of our supply chain footprint. As a result, in 2017 we became a founding member of the Natural Gas Supply Collaborative (NGSC), a voluntary collaborative of natural gas purchasers promoting increased transparency through voluntary reporting by natural gas producers. NGSC members include some of the largest natural gas purchasers in North America. Collectively, NGSC participants deliver enough natural gas to meet the needs of more than 60 million households and generate enough electricity from natural gas to power almost 29 million households24.
+Operating at the intersection of the natural gas supply chain and end-use customers, NGSC participants are increasingly being asked to address questions concerning natural gas production. In April 2020, the group published Summary of Methane Performance Indicators, which describes the non-financial performance indicators developed by NGSC members to inform reporting by natural gas production companies. The 14 indicators span Environmental and Social indicators and include total methane emissions, methane emissions intensity, and methane management strategy, as well as indicators on water use, chemical use, community engagement, and safety.
+23 https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/. This harm is measured by global warming potential (GWP), which in turn is measured over different time horizons. For methane, its GWP over 20 years is 86, while over 100 years it is 34. In other words, it has a particularly potent impact in the first two decades after being emitted.
+Involving others elevates everything. 
+Working together to achieve substantive progress: • Collaboration across our wide-ranging supplier network • Leveraging our position to influence and affect change • Becoming a leading force and a catalyst for improvement 24 https://www.mjbradley.com/content/natural-gas-supply-collaborative-0 https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/
+
+
+01 02 03 04 05 06 07 08 APPENDIX 88 89 89 SUSTAINABILITY REPORT | 2020. 
+Appendix. 
+Feedback. 
+Safe Harbor. 
+Sustainability reporting. 
+SASB Table. 
+Glossary of select terms. 
+About this report
+
+
+01 02 03 04 05 06 07 08 APPENDIX 90 91 91 SUSTAINABILITY REPORT | 2020. 
+To learn more, start here. 
+Feedback. 
+If you have any comments or questions about this report, or would like more information on our sustainability efforts, please visit nrg.com or email sustainability@nrg.com. 
+Safe Harbor. 
+This 2020 Sustainability Report contains forwardlooking statements that may state NRG’s or its management’s intentions, beliefs, expectations or predictions for the future. Such forwardlooking statements are subject to certain risks, uncertainties and assumptions, and typically can be identified by the use of words such as “will,” “expect,” “estimate,” “anticipate,” “forecast,” “plan,” “believe” and similar terms. Although NRG believes that its expectations are reasonable, it can give no assurance that these expectations will prove to have been correct, and actual results may vary materially. Factors that could cause actual results to differ from those implied by the forward-looking statements in this communication are set forth in the Company’s most recent Annual Report on Form 10-K, quarterly and other periodic reports, current reports and other filings with the Securities and Exchange Commission at www.sec.gov. NRG undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+
+01 02 03 04 05 06 07 08 APPENDIX 92 93 93 SUSTAINABILITY REPORT | 2020. 
+Sustainability reporting. 
+NRG is committed to leading its sector in sustainability transparency and disclosure. Our sector is defined as electric utilities or power producers. Disclosure quality and transparency, as well as overall sustainability performance, are assessed through ongoing stakeholder feedback, including through investor relations and participation in engagement and disclosure organizations such as the GRI, TCFD, and SASB.
+This sustainability report is based on NRG corporate performance for all operations in calendar year 2020 and, where stated, NRG refers to NRG Energy, Inc., as well as its U.S. affiliates. However, some longer-term projects and goals are discussed as are certain significant current events that occurred between the end of 2020 and the time of publication. The NRG website also provides visitors the latest news and events on the company’s environmental, social and governance initiatives.
+This is our eleventh annual sustainability report and it was developed with guidance from the Global Reporting Initiative (GRI) Standards at the Core level as well as the GRI Electric Utilities Sector Supplement. The report includes topics from the GRI framework for our sectors that are priority issues to the company. See the GRI Standards table for a full list25.
+01 02 03 04 05 06 07 08 APPENDIX. 
+Key Issues Assessment. 
+NRG strives to report decision-useful information to its stakeholders. We recognize that we have many different stakeholder groups which may each require information presented in a variety of ways and on numerous topics. We engage proactively with our key stakeholders to understand the type of information that is of greatest interest and the processes that will most effectively deliver these data to them. However, given the rapidly growing landscape of voluntary sustainability reporting this past decade, we must also focus on compiling the most relevant information while achieving greater transparency each year.
+As part of this process, we periodically conduct a key issues assessment (similar to what GRI refers to as a materiality assessment) to ensure that we identify potential strategic and operational risks and opportunities as well as specific sustainability issues that are relevant to our current and potential future business and operating environment. The key issues assessment provides a foundation of topics from which to prioritize our sustainability goals and initiatives, build our annual sustainability report, as well as provide insight into emerging issues that our stakeholders care about.
+To conduct the key issues assessment, we monitor the competitive, regulatory, and media landscapes. For the purpose of NRG’s Sustainability Report, these findings are also compared with external best practice publications on sustainability metrics, such as the Electric Power Research Institute’s Metrics for the Electricity Producers Industry, the Financial Stability Board’s (FSB) TCFD Recommendations, and the SASB. We use this independent analysis to better inform business decisions and shape our voluntary reporting process. For the purposes of sustainability reporting, NRG follows the GRI framework to report on issues of importance to the company and its stakeholders. Relevant financial implications, as well as a discussion of risks and opportunities associated with some of these issues, can be found in Part 1, Item 1A in our 2020 Form 10-K. Additional financial statements or equivalent documents can be found here.
+25 GRI Standards document will be compiled June.
+
+
+01 02 03 04 05 06 07 08 APPENDIX 94 95 95 SUSTAINABILITY REPORT | 2020. 
+SASB standards table. 
+The Sustainability Accounting Standards Board’s (SASB) mission is to develop sustainability metrics for public corporations to disclose material, decision-useful information to investors. We support work that contributes directly to generating comparable and consistent data. The nature of our business directs us to consult SASB’s standards for Infrastructure Sector – Electric Utilities as defined by SASB’s Sustainable Industry Classification System (SICS). Below is a table which contains those topics we have identified as key issues and against which we are able to report as a publicly traded company. Topics that are not applicable to NRG as denoted as such. Activity metrics that may assist in the accurate evaluation and comparability of disclosure may be found in NRG’s 2020 Form 10-K, NRG’s 2021 Proxy Statement, and in NRG’s 2020 Sustainability Report. Quantitative data may be followed by narrative information that contextualizes the data table and is also responsive to any qualitative metrics. For more details on our report process please visit our approach to sustainability reporting on page 92.
+Sustainability Disclosure Topics and Accounting Metrics. 
+A L L I A N C E. 
+ORGANIZATIONAL MEMBER. 
+Topic Accounting Metric SASB Code. 
+Greenhouse Gas Emissions (GHG) & Energy Resource Planning (1) Gross Global Scope 1 Emissions (million metric tons) 29,900,000* *Includes 37.5% ownership of a 605 MW capacity coal plant in Australia. Generation includes equity-owned plants as of Dec. 31, 2020.
+IF-EU-110a.1 (2) Percentage Covered under Emissions-Limiting Regulations, and 10% (3) Percentage Covered under Emissions-Reporting Regulations 99.99%
+Clarification of percentage covered under emissions-limiting and emissions-reporting regulations: Nearly all (>99%) of NRG’s emission sources are subject to mandatory U.S. federal (Environmental Protection Agency (EPA)) greenhouse gas reporting regulations. In addition, some of these emission sources (10%) specified under IF0101-01(2) above) also report to regional and state CO2e reporting programs (RGGI, AB32).
+Discussion of accounting, estimations and uncertainty for Scope 1 Emissions: Scope 1 includes only direct GHG emissions associated with fuel combustion in boilers, turbines and engines used for the production of electric power. Scope 1 GHG emissions were determined by using methods specified within Title 40, Chapter I, Subchapter C, Part 98, Subparts A, C, and D of the Code of Federal Regulations. The determination of the equity share of GHG emissions is consistent with equity share methodologies for equity share accounting for greenhouse gas emissions as described in GHG Protocol: A Corporate Accounting and Reporting Standard, Revised Edition.
+GHG emissions from combustion of fossil fuels used for other activities or equipment, such as auxiliary boilers, starter engines, mobile sources and offices is not included and was estimated to represent under 0.25% of reported Scope 1 emissions. Scope 1 emissions do not include emissions from fugitive sources such as hydro fluorocarbon releases from use of refrigeration and/or air conditioning equipment, sulfur hexafluoride (SF6) from electrical equipment and methane releases from natural gas transport.
+GHG emissions associated with power deliveries Not applicable. NRG does not own transmission or distribution lines. IF-EU-110a.2. 
+Topic Accounting Metric SASB Code. 
+Description of Long-term and Short-term Strategy or Plan to Manage Scope 1 Emissions, Emission-Reduction Targets, and an Analysis of Performance v. Those Targets. 
+NRG’s goal is to reduce its total U.S. Scope 1, 2, and 3 (business travel) CO2e emissions 50% by 2025, and achieve net-zero by 2050, using 2014 as a baseline. From 2019-2020 our emissions decreased 24%.
+Disclosure of our strategy to manage Scope 1 emissions is reported through CDP Climate Change questionnaire annually as well as in NRG’s Sustainability Linked Bond Framework.
+IF-EU-110a.3. 
+Number of customers served in markets subject to renewable portfolio standards (RPS) and percentage fulfillment of RPS target by market. 
+The applicability of this metric is under consideration. IF-EU-110a.4. 
+Air Quality. 
+Air emissions source Air emissions (metric tons) Percentage from production facilities within urbanized areas. 
+IF-EU-120a.1. 
+NOx 12,050 30%
+SOx 27,401 78%
+PM10* 1,284 61%
+Pb** .047 30%
+Hg** .018 24%
+Discussion of accounting, estimations, and uncertainty for Air Emissions: Data collection varies based on the generation facility and may includes engineering calculations and/or continuous emissions monitoring systems (CEMS). *The requirement to report PM-10 emissions in annual emissions inventories or emissions statements varies between states. In addition, the earliest reporting deadline for a reporting year is July 1 of the following year. For sites in NRG’s fleet that have not yet or are not required to report PM-10 emissions at the time of submittal to SASB, NRG has used the U.S. EPA’s AP-42 emission factors to estimate emissions. ** In the case of lead and mercury emissions, volumes are estimated for some facilities due to incomplete data at time of publication.
+Water Management (1) Total Water Withdrawn (thousands of cubic meters) 3,672,533. 
+IF-EU-140a.1 2020 NRG GLOBAL WATER WITHDRAWN BY SOURCE. 
+Water Source Total (Thousands of Cubic Meters) Percent. 
+Fresh Water 2,245,000 61%
+Non-Fresh Water 857,000 23%
+Ocean 570,000 16%
+Total 3,672,000 100% (2) Total Water Consumed, (thousands of cubic meters) 902,781. 
+Percentage of Each in Regions with High or Extremely High Baseline Water Stress. 
+Baseline Water Stress High (40-80%) or Extremely High (>80%)
+Withdrawal from areas with High or Extremely High Baseline Water Stress. 
+Consumption from areas with High or Extremely High Baseline Water Stress. 
+Percent of Total Water 19% <1%
+Percent that is Non-Fresh* 13% <1%
+NRG uses the WRI Aqueduct tool to model and help assess water basin risks in combination with regional internal expertise.
+*Non-Fresh water has a total dissolved solids greater than 1000 mg/l and is not used for agriculture or municipal water supply.
+
+
+01 02 03 04 05 06 07 08 APPENDIX 96 97 97 SUSTAINABILITY REPORT | 2020. 
+Topic Accounting Metric SASB Code Topic Accounting Metric SASB Code. 
+Coal Ash Management. 
+Amount of Coal Combustion Residuals Generated (metric tons rounded to nearest thousand) 748,000. 
+IF-EU-150a.1. 
+Percentage Recycled (metric tons rounded to nearest thousand) 80% (601,000)
+Total Number of Coal Combustion Residual Impoundments 12 surface impoundments as defined by 40 CFR 257.2. 
+IF-EU-150a.2 Number by EPA Hazard Potential Classification, Broken Down by EPA Structural Integrity Assessment. 
+NRG Impoundment Structural Integrity Rating and Hazard Potential Classification. 
+Less than Low Low Significant High Incised*
+Satisfactory 0 1 5 0 0. 
+Fair 0 0 0 0 0. 
+Poor 0 0 0 0 0. 
+Unsatisfactory 0 0 0 0 0. 
+Not Applicable* 0 1 2 0 2 *To align with EPA reporting we have added a column for ‘Incised’ and a row for ‘Not Applicable’ to account for all impoundments as defined by the EPA.
+Workforce Health & Safety (1) Total Recordable Injury Rate 0.32. 
+IF-EU-320a.1 (2) Fatality Rate 0 (3) Near-Miss Frequency Rate 17.09. 
+Process for classifying, recording and reporting # of Near Misses Reported / Total Hours Worked X 1,000,000 = Near-Miss Frequency Rate. 
+The National Safety Agency defined near misses as “an unplanned event that did not result in injury, illness, or damage, but had the potential to do so.” NRG uses an electronic Incident Management System to document, communicate, track, and trend specific factors about each event including causal factors and corrective actions; this system provides automated fleet-wide notifications. The number of near-misses is derived from a report pulled from the Incident Management System. NRG's Operational Health and Safety (OHS) management system applies to 100% of U.S. operations. The system also includes notifications to executive management when significant safety events occur that meet the defined criteria for a Significant Event notification. The system also generates weekly reports to communicate any events from the previous week to NRG personnel.
+Water Management. 
+Percentage of Each in Regions with High or Extremely High Baseline Water Stress. 
+Type of Generating Facility in Baseline Water Stress Area Number. 
+Fossil Fuel (Natural Gas, Coal, Oil) 6. 
+Renewable (Solar and Wind) 0. 
+Nuclear 1. 
+Thermal (District Heating and Cooling) 0. 
+Total 7. 
+Number of Incidents of NonCompliance with Water-Quality and/or Quantity Permits, Standards, and Regulations 0 IF-EU-140a.2. 
+Discussion of Water Management Risks NRG’s definition of substantive risk from water is the possibility that an event will occur and significantly affect the achievement of NRG’s business goals. Risk identification and assessment process applies to both direct operations and supply chain. NRG uses measures, metrics and indicators for water risk assessment leveraging management and professional judgment from the following perspectives: • Financial impact: o Corporate earnings o Capital expenditure on technologies to reduce water consumption and withdrawal • Plant operation o Operation disruption due to shortage o Increase in water cost o Supply chain risk • Environmental impact o Availability o Quality of river basins o Regulations that impact supply and/or management of water IF-EU-140a.3. 
+Discussion of strategies and practices to mitigate risks Water risk is monitored by the risk owners (individual plant operators) and reported to management upon material changes with a threshold of 20% in water consumption and withdrawal levels. If determined that a water supply risk exists that could impact projected generation levels at any plant within a two year time frame, risk mitigation efforts are identified and economically evaluated for implementation. NRG Plant Operations team reviews modeling scenarios generated. Plant water usage is reviewed annually. Analysis is reviewed by the senior leaders of NRG's Operations, Engineering and Commercial Operations teams. WRI Aqueduct tool is used annually to develop a high level view of basin level risk that informs strategic decision-making and the setting of goals and targets. This tool was chosen because of its open source nature and ease of use. Each generating facility is unique and the water risk approach identifies and addresses risks for each covering: •Availability •Quality •Regulatory •Stakeholders •Supply chain impacts •Financial •Operational •Environmental. Risk response decisions are primarily made and executed by managing plant operations to maintain compliance with all regulations. NRG reports supply chain water risk annually through the CDP Water Risk Questionnaire.
+
+
+01 02 03 04 05 06 07 08 APPENDIX 98 99 99 SUSTAINABILITY REPORT | 2020. 
+Glossary of select terms. 
+BRGs – Business Resource Groups – voluntary, employee-led groups at NRG organized around a particular shared background, interest, or issue.
+Carbon intensity – the amount of carbon dioxide equivalent (measured in metric tons) emitted per unit of electricity (measured in a variant of watt hours (terawatt hours, gigawatt hours, megawatt hours, kilowatt hours)). See also Revenue carbon intensity.
+Carbon Offset – mechanism to compensate for the greenhouse gas (carbon dioxide equivalent) emissions of a household or larger organization due to its combustion of fossil fuels. An example of a carbon offset is afforestation (planting trees).
+Community Solar – local solar facilities shared and financially supported by multiple community subscribers who might not otherwise be able to access solar.
+DR – Demand Response – a program that provides financial incentives to end-users to reduce their consumption of electricity during periods when the electricity grid is experiencing high electricity demand (for example when temperatures are very high or very low).
+DERs – Distributed Energy Resources – modular energy generation and storage technologies that provide electric capacity or energy where and when it’s needed. Usually deployed close to load (at the point of customer demand) and behind the customer’s meter, giving customers greater control, predictability, and stability when it comes to their energy usage.
+GHG – Greenhouse Gas – traps heat in the atmosphere, resulting in global warming and climate change. In the power sector, GHG emissions are released during the combustion of fossil fuels, such as coal, oil, and natural gas, while producing electricity. Measured in metric tons of carbon dioxide equivalent.
+Just Transition – a concept that describes efforts to ensure that economic disruptions arising from the transition to lower carbon energy sources are minimized to the extent possible for workers and communities.
+PPA – Power Purchase Agreement – a medium- or long-term contract between two parties, one which generates electricity (the seller), and one which is looking to purchase electricity (the buyer, either a corporate end-user or a power company reselling the electricity to a corporate end-user). PPAs are often used in renewable energy, especially solar, as a way for buyers to access solar electricity without having to directly install solar generating capacity onsite. Buyers take ownership of the physical energy and receive renewable electricity credits.
+REPs – Retail Electric Providers – these are private companies that buy power off the electric grid from power generators and sell it to end-users. For example, NRG, through its Reliant brand, is one of the biggest retail electric providers in Texas.
+Revenue carbon intensity – the amount of carbon dioxide equivalent (measured in metric tons) per unit of revenue (typically measured in a variant of dollars (millions of dollars, thousands. 
+Management of the Legal & Regulatory Environment. 
+Discussion of Positions on the Regulatory and Political Environment Related to Environmental and Social Factors and Description of Efforts to Manage Risks and Opportunities Presented. 
+A discussion of risks can be found in the 2020 10-K SEC filing, Item 1-A, Risk Factors Related to NRG Energy, Inc., pages 26-40.
+Throughout 2020, we continued to engage with policymakers in Washington, D.C. and at the state level. We also maintained our relationships with groups such as the Electric Power Supply Association and various informal organizations. When possible, we collaborate with major environmental groups on clean energy access and climate solutions. Typically, we engage on legislative and regulatory actions designed to mitigate GHG emissions, as well as policies that support the development and deployment of competitive low-carbon power generation technologies. We are most active in the debate aimed at protecting and expanding competitive power markets and consumer choice, both of which we believe are critical enablers of achieving leastcost low-carbon outcomes.
+Regulatory filings, white papers, presentations, and other materials that NRG has prepared and submitted setting forth NRG's positions on a variety of critical subjects driving our business and the industry can be found at http://www.nrg.com/company/energy-policy/.
+IF101-21. 
+The following SASB topics and corresponding activity metrics are not applicable to NRG.
+• Energy Affordability (IF-EU-240a. 1 through IF-EU-240a.4) - This topic pertains to regulated electric utilities, and NRG is not a regulated utility.
+• End-Use Efficiency & Demand (IF-EU-420a. 1 through IF-EU-420a.3) - This topic pertains to regulated electric utilities, and NRG is not a regulated utility.
+• Grid Resiliency (IF-EU-550a. 1 through IF-EU-550a.2) - NRG does not have transmission and distribution operations.
+Topic Accounting Metric SASB Code. 
+Nuclear Safety & Emergency Management. 
+Total Number of Nuclear Power Units, Broken Down by Nuclear Regulatory Commission Action Matrix Column. 
+NRG South Texas LP (STP) is a 44% owner of a joint undivided interest in STP.
+IF-EU-540a.1. 
+Reactor Unit Action Matrix Column Current Regulatory Oversight. 
+South Texas 1 Licensee Response Baseline inspection. 
+South Texas 2 Licensee Response Baseline inspection. 
+Table source: https://www.nrc.gov/reactors/operating/oversight/ actionmatrix-summary.html. 
+Discussion of Efforts to Manage Nuclear Safety and Emergency Preparedness. 
+As a holder of an ownership interest in STP, NRG South Texas LP is an NRC licensee and is subject to NRC regulation. The NRC license gives NRG the right only to possess an interest in STP but not to operate it. As a possession-only licensee, i.e., non-operating co-owner, the NRC's regulation of NRG South Texas LP is primarily focused on NRG's ability to meet its financial and decommissioning funding assurance obligations. In connection with the NRC license, NRG and its subsidiaries have a support agreement to provide up to $120 million to support operations at STP.
+IF-EU-540a.2
+
+
+01 02 03 04 05 06 07 08 APPENDIX 100 101 101 SUSTAINABILITY REPORT | 2020 of dollars)).
+Stronger Together – NRG's front-line commitment in 2020 to COVID-19 relief efforts, most tangibly through a $2 million pledge and funding directed to relief efforts for first responders, cities and businesses, and educators, as well as safety supplies.
+VPPA – Virtual Power Purchase Agreement – a VPPA is a variation of a Power Purchase Agreement (PPA) in which the buyer does not take ownership of the physical energy generated. Instead, a VPPA is a financial transaction whereby a corporate customer agrees to purchase power at a negotiated price from a wind or solar project over a pre-determined period, committing to pay a fixed price to the owner of the facility for each unit of electricity produced. As with a PPA, the buyer receives renewable electricity credits, but the owner of the facility takes responsibility for managing the delivery and sale on the open market of the electricity produced.
+Watt (W) – a measure of electricity generation capacity or electricity demand at a particular point in time. Variants include kilowatts (kW, thousand watts), megawatts (MW, million watts), gigawatts (GW, billion watts), and terawatts (TW, trillion watts).
+Watt hours (Wh) – a measure of electricity provided over a particular period of time (typically one year or one month). Variants include kilowatt hours (kWh, thousand watt hours), megawatt hours (MWh, million watt hours), gigawatt hours (GWh, billion watt hours), and terawatt hours (TWh, trillion watt hours).
+
+
+About this report. 
+This 2020 Sustainability Report provides customers and other stakeholders with a picture of how we are delivering on our sustainability commitments.
+This report addresses key achievements for NRG Energy and our diverse family of brands. We are proud of the meaningful progress we’ve made this year. We recognize we cannot achieve our progress alone. That's why collaboration with customers, partners, and stakeholders is critical to our success. We welcome an open dialogue and encourage you to share your feedback and ideas.
+Visit nrg.com to learn more.
+Join the conversation:
+NRG and the plus signs are registered service marks of NRG Energy, Inc. NRG is a registered trademark of NRG Energy, Inc. © 2021 NRG Energy, Inc. All rights reserved. 626087931

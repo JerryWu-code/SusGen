@@ -1,0 +1,974 @@
+Our Approach to Climate Change 2020
+
+
+riotinto.com. 
+Foreword – Chief Executive 3. 
+Introduction - Group Executive, Strategy & Development 4. 
+Our Business at a Glance 6. 
+Our Position on Climate Change 7. 
+Progress on Our Climate Change Strategy 8 1 Producing Materials Essential for a Low-carbon Future 11 2 Reducing the Carbon Footprint of Our Operations 23 3 Partnering to Reduce the Carbon Footprint Across Our Value Chains 35 4 Enhancing Our Resilience to Physical Climate Risk 47. 
+Governance 50. 
+CA100+ Net Zero Company Benchmark Disclosures 57. 
+Emissions and Energy Data 62 2020 Highlights Contents. 
+Scope 1 & 2 targets. 
+Scope 3 goals. 
+Cover image: Our aluminium business in Canada uses clean, renewable hydro-power.
+Inside cover image: Acacia and eucalyptus tree rehabilitation area at QIT Madagascar Minerals.
+Reduced emissions by 1.1Mt CO2e relative to our 2018 baseline. 
+Committed $4.5m to extend the Tsinghua-Rio Tinto Joint Research Centre for Resources, Energy and Sustainable Development over the next five years. 
+Started work on a $98 million 34 MW solar plant at our Gudai-Darri iron ore mine. 
+Committed $10m to advance our climate partnership with China Baowu Steel Group and Tsinghua University to help address the steel industry’s carbon footprint. 
+Evaluated 44 projects with potential abatement of 6.9Mt CO2e by 2030. 
+Signed a Memorandum of Understanding (MoU) with Nippon Steel Corporation to jointly explore lowcarbon technologies for the steel value chain. 
+Approved spend of over $140m on climate-related projects. 
+Our ELYSIS partnership completed construction of the first industrial pilot facility to scale up the breakthrough zero-carbon aluminium technology 1 Our Approach to Climate Change
+
+
+As pioneers in mining and metals, we produce materials essential to human progress.
+3 Our Approach to Climate Change 2 Our Approach to Climate Change. 
+We Are Well Positioned for a Low-carbon Future. 
+Today more than ever, we know that addressing climate change effectively requires businesses, governments and society to work together. Similarly, every part of our company needs to embrace this challenge: progress against our targets will come from many projects across our business and collaboration with our partners.
+In 2018, we divested the last of our coal businesses and no longer extract fossil fuels. Today, our portfolio is well positioned for the transition to a low-carbon future. However, we operate in value chains with large carbon footprints. We recognise the role we play, and understand that significant, concerted effort will be needed to reach net zero carbon emissions by 2050.
+Last year, we announced new 2030 targets: to reduce our absolute emissions by 15% and our emissions intensity by 30% relative to our 2018 baseline. These targets are consistent with a 45% reduction in absolute emissions, relative to 2010 levels, and the Intergovernmental Panel on Climate Change (IPCC) pathways to 1.5°C. They are supported by our commitment to spend approximately $1 billion on emissions reduction initiatives over the first five years of the ten-year target period.
+I am pleased with the progress we have made against our climate change strategy over the past year. This report provides more details on our plans and actions to meet our Scope 1 and 2 targets as well as on the partnerships we are developing to progress Scope 3 goals. With a strong focus on execution, we are also introducing a more explicit link between executive remuneration and our climate change goals and targets.
+In many important applications, there are no low-carbon alternatives to steel, aluminium and copper; furthermore, these materials are essential to enable the low-carbon transition. The challenge is to produce them sustainably – not only with lower emissions, but also in a way that respects communities. I am personally committed to ensuring that Rio Tinto plays its part.
+Jakob Stausholm Chief Executive. 
+Foreword – Jakob Stausholm, Chief Executive
+
+
+1 2
+3 4. 
+Aligned With Our Strategic Thinking. 
+Our climate change strategy. 
+Our climate change strategy is aligned with the goals of the Paris Agreement. Climate change considerations are fully integrated into our strategic and operational decision-making and our approach is supported by strong governance, processes and capabilities. This report, our third in line with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), details progress against the four pillars of our climate change strategy:
+Producing materials essential for a low-carbon future. 
+Reducing the carbon footprint of our operations. 
+Partnering to reduce the carbon footprint across our value chains. 
+Enhancing our resilience to physical climate risks. 
+Climate risks and opportunities have been part of our strategic thinking, including on capital allocation, for more than two decades. We test our portfolio against a range of integrated strategic scenarios, each capturing alternative climate change narratives and assumptions. Our most recent analysis, conducted in 2020, indicates that the diversity of our portfolio strengthens our overall resilience, including in a scenario aligned with the goals of the Paris Agreement.
+Most of our assets already sit in the low end of their respective carbon intensity curves and 75% of the electricity used at our managed operations is from renewable sources. In 2020, we started the transition to renewable energy in the Pilbara with the approval of the $98 million, 34MW solar plant at Gudai-Darri and 45MW battery system at Tom Price. Our approved spend on climate-related projects in 2020 were over $140 million of the total $1 billion committed over the period 2020 to 2024. Since 2018, we have reduced Scope 1 and 2 emissions by 1.1Mt CO2e, or 3%, which is on track with our 2030 target for absolute emissions. However, in 2020, our emissions remained at the same level as in 2019 at 31.5Mt CO2e. We expect progress on emissions to accelerate later in our 2030 target period as we develop and implement our mitigation projects, studies and R&D.
+Over the past year we have further developed our asset-by-asset decarbonisation roadmaps and started work on mitigation projects, with a particular focus on renewables, process heat and ways to replace diesel fuel in our mobile fleets and rail networks. These roadmaps and actions are owned by our product groups and are fully integrated into our annual business planning process, with support and co-ordination from our Energy and Climate Change Centre of Excellence. In 2020, we also continued to develop technology solutions to meet our mid- to long-term ambitions.
+Partnerships. 
+In late 2020, China, Japan and South Korea joined the European Union to set net zero or carbon neutral ambitions within a 2050-2060 timeframe. Together, these countries account for over 70% of our sales and around 90% of our value chain emissions (Scope 3) from our key products, including iron ore and aluminium. We have updated our methodology for calculating Scope 3 emissions which we estimated to be 519Mt CO2e in 2020 (see our Scope 1, 2 and 3 emissions calculation methodology report for further details).
+We continue to explore collective solutions across our value chain and we have this year defined a series of measurable and impactful Scope 3 emissions reduction goals to guide our partnership approach. With about 80% of our Scope 3 emissions from our customers’ hard-toabate processes, our Scope 3 goals are mostly focused on our contribution to the development and deployment of low-carbon technologies, as well as the emissions from shipping our products. Our Scope 3 goals are to: – Work in partnerships with customers on steel decarbonisation pathways and invest in technologies that could deliver reductions in steelmaking carbon intensity of at least 30% from 2030; – Work in partnerships to develop breakthrough technologies with potential to deliver carbon neutral steelmaking pathways by 2050; – Work in partnerships to develop breakthrough technology enabling the production of zero-carbon aluminium; – Meet our ambition to reach net zero emissions from shipping of our products by 2050.
+We have made significant progress in our value chain climate partnerships in 2020. We have further advanced our partnership with China Baowu Steel Group and Tsinghua University and committed $10 million to fund the joint establishment of a Low Carbon Raw Materials Preparation R&D Centre, supporting Baowu’s ambition to peak its carbon emissions by 2023, cut carbon emissions by 30% by 2035 and achieve carbon neutrality by 2050. We also signed a new Memorandum of Understanding with Nippon Steel Corporation to jointly explore technologies to transition to a low-carbon emission steel value chain. And our ELYSIS joint venture with Alcoa achieved a new milestone in the scaling up of a breakthrough technology that eliminates all direct greenhouse gas emissions from the aluminium smelting process by completing construction of the first industrial pilot facility in Canada.
+In 2021, we will continue to execute our climate strategy, working in partnership with other businesses, technology developers, investors, consumers and civil society. We also recognise the essential role of governments around the world to create the legal and regulatory certainty and incentives necessary for investment and innovation. We believe the best solutions will come from partnerships and global collaboration.
+Peter Toth Group Executive, Strategy & Development. 
+Introduction – Peter Toth, Group Executive, Strategy & Development Introduction – Peter Toth, Group Executive, Strategy & Development 4 5 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Our purpose is to produce materials essential to human progress. Materials such as aluminium used in electric vehicles, copper used to build wind turbines and iron ore used to create critical infrastructure. We work in 36 countries, operating mines, smelters, refineries and processing plants.
+Gross revenue. 
+Our Position on Climate Change. 
+Our Business at a Glance. 
+Our Business at a Glance. 
+Our key assets are located in close proximity to our major markets. Consolidated sales revenue by destination:
+China: 58.1% Asia*: 10.2% United States of America: 10.9% Japan: 7.5% Europe: 5.9% Other: 7.4% * excluding China and Japan. 
+Our Position on Climate Change. 
+Iron Ore Aluminium Copper & Diamonds Energy & Minerals. 
+Mines 16 4 5 6. 
+Smelters – 14 1 –
+Processing plants & refineries – 4 – 7. 
+Mt CO2 emissions 3.0 21.8 2.7 3.6. 
+Rio Tinto share of production. 
+Iron ore 275.5Mt (2019: 270.7Mt)
+Bauxite 56.1Mt (2019: 55.1Mt)
+Aluminium 3,180kt (2019: 3,171kt)
+Mined copper 528kt (2019: 577kt)
+Titanium dioxide slag 1,120kt (2019: 1,206kt)
+Underlying EBITDA $18.8bn (2019: $16.1bn) $2.2bn (2019: $2.3bn) $2.2bn (2019: $2.1bn) $1.6bn (2019: $1.8bn)
+We accept the mainstream climate science assessed by the Intergovernmental Panel on Climate Change.
+We support the Paris Agreement and ambitions to reach net zero by 2050.
+We acknowledge that business has a role to play in addressing and managing the risks and uncertainties of climate change.
+We do not advocate for policies that undermine the Paris Agreement or discount Nationally Determined Contributions (NDCs).
+We recognise the importance of adaptation and resilience to a changing climate.
+Where climate policies are implemented, we support the use of market mechanisms, including for carbon prices.
+We believe that effective climate policies should incentivise the private sector to invest in low-carbon technology while maintaining the competitiveness of trade-exposed industries.
+We promote our climate and energy policy positions in discussions with our industry associations.
+Iron Ore $27.5bn. 
+Aluminium $9.3bn. 
+Copper & Diamonds $5.4bn. 
+Energy & Minerals $5.0bn 6 7 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Progress on Our Climate Change Strategy. 
+Progress on Our Climate Change Strategy 1 Producing materials essential for a low-carbon future 2 Reducing the carbon footprint of our operations 3 Partnering to reduce the carbon footprint across our value chains 4 Enhancing our resilience to physical climate risks 2000 2005 2010 2015 2020 2025 2030 2040 2050. 
+Early portfolio restructure. 
+Scope 1 & 2 targets aligned with the Paris Agreement. 
+Net zero operations by 2050. 
+Net zero shipping by 2050. 
+Industry leading value chain partnerships. 
+Physical risks. 
+Strategic thinking. 
+Integrated scenarios, including a range of climate change narratives, used to frame and stress-test our Group strategy and portfolio. 
+Focus on materials essential for low-carbon future 39% reduction in absolute emissions since 2010 across our managed operations. 
+Mobile diesel and process technology breakthroughs. 
+Internal carbon prices and climate change considerations in investment decisions for over two decades. 
+ELYSIS. 
+Renewables and process heat. 
+Baowu/Tsinghua. 
+Nippon Steel. 
+Scope 3 goals across aluminium and steel value chains and shipping of our products. 
+Asset level resilience, Critical Risk Assessments Desktop reviews & case studies, climate modelling Integrated approach. 
+Exit of coal businesses. 
+The four pillars of our climate change strategy. 
+Progress on Our Climate Change Strategy 8 9 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Iron ore. 
+Used in steel as a fundamental building block of energy-efficient urban centres and infrastructure. 
+Aluminium. 
+Essential for light weighting of fuel-efficient transport solutions and infinitely recyclable. 
+Copper. 
+Essential to electrification of low-carbon economy and transport due to superior conductivity. 
+Minerals. 
+Essential for the development of electric vehicles and battery storage, supporting renewable energy. 
+Our portfolio is positioned for a low-carbon future. 
+The global ambition on climate change as articulated by the Paris Agreement and corresponding national net zero emissions goals is clear. However, translating commitments into meaningful outcomes will require unprecedented effort and co-operation between businesses, consumers, governments and investors. We believe that we can be part of the solution both globally and regionally, and that our portfolio is well positioned to meet the demands of building a low-carbon economy.
+We have considered climate change in our strategic thinking and investment decisions for over two decades. We continually test our portfolio for further threats and opportunities from climate change. The pace and shape of global decarbonisation remain highly uncertain, which is why we consider a range of scenarios capturing potential transition pathways. We do this through the use of a comprehensive and robust scenario framework, which is fully integrated into our corporate strategy.
+Although the pathway to a global low-carbon economy is not fully defined today, we believe it will require: 1. The decoupling of economic growth and energy demand; 2. A transition away from fossil fuels as the main energy source; 3. Electrification of homes, industries and transport, supported by new technologies, a growing renewable power base and the use of hydrogen; 4. The deployment of carbon removal projects, including nature-based solutions; 5. Increased material efficiencies, re-use and recycling, ie the circular economy.
+Producing Materials Essential for a Low-carbon Future 1. 
+Copper is essential to the electrification of a low-carbon economy and transport due to superior conductivity.
+11 Our Approach to Climate Change 10 Our Approach to Climate Change
+
+
+Our Approach to Scenarios. 
+We do not run separate standalone climate scenarios but instead have distinct climate change analyses embedded within the global scenarios framing our strategic thinking. Climate change considerations are therefore fully integrated, together with other business issues, in our Group strategy and portfolio decisions.
+Together with overarching demographic megatrends, the interplay between our three scenario forces drives future global economic growth and trade pathways. Geopolitics, society and technology are also fundamental forces shaping the global response to the climate change challenge, including the global energy transition.
+Future outcomes will depend on how climate change ambitions and expectations translate into changing societal behaviours and consumer choices. The future cost of traditional and low-carbon solutions will be key factors informing those choices. Technology innovations have a key role to play in shaping the transition to a low-carbon economy, especially in hard-to-abate sectors such as steel and aluminium. These drivers will in turn be dependent on the level of co-ordination within the global geopolitical context, especially on key enabling policies such as carbon pricing.
+How these dynamics play out over long timeframes is uncertain, especially under the current context of additional complexities from the COVID-19 pandemic. This is why we are exploring these uncertainties through three scenarios and their intersections, with each combining aspects of the three global forces, but drawing on a dominant feature.
+Our strategic thinking and scenario-planning are structured around three global forces: geopolitics, society and technology.
+We use global scenarios in our strategy and capital allocation processes to stress test our portfolio and investment decisions under alternative macroeconomic settings and commodity outlooks. Our scenario approach is reviewed every year as part of our Group strategy engagement with the Board. It informs our effort to build a strong and resilient business as well as leverage new trends and opportunities.
+Technology 4.0. 
+Technology revolution transforms the global economy. 
+Global productivity boost but sustained inequalities >2°C. 
+Realpolitik 2.0. 
+Global fragmentation impacts trade and growth. 
+Structural tension and competition between US and China >3°C. 
+Society 3.0. 
+Societies mobilise around common global challenges. 
+High level of global collaboration and policy co-ordination <2°C. 
+Producing Materials Essential for a Low-carbon Future Producing Materials Essential for a Low-carbon Future 45 2000 2010 2020 2030 2040 2050 10 20 15 5
+0 25 30 35 40. 
+Global carbon emissions1 (Gt CO2) 1. Excludes net carbon emissions from land use change (LUC)
+In Realpolitik 2.0, a further fragmentation of the world order, driven by strong populist and nationalistic tendencies, holds back trade and global action on climate. The undermining of global institutions and lack of policy incentives slow investment in low-carbon technologies. Even with a sustained weak macroeconomic environment, global emissions quickly return to pre-pandemic levels and continue to grow. Carbon prices range from $0-30 per tonne of CO2 and global warming is on a path to reach or even exceed 3°C by 2100.
+In contrast, strong global collaboration between governments and businesses accelerates the energy transition in our Society 3.0 scenario. Improved co-ordination of climate policies across countries results in high and rising carbon prices (up to $130 per tonne of CO2 by 2040), supporting early deployment of new technologies. Despite stronger economic growth in lowincome countries, global emissions peak and start to decline early, before turning net-negative during the second half of the century, to meet the Paris goal of keeping global temperature increases below 2°C.
+The fast roll-out of innovation in our Technology 4.0 scenario provides both a strong boost to global economic productivity and decarbonisation efforts. However, global climate policies remain only loosely co-ordinated, with carbon prices of $15-30 per tonne of CO2 across most countries by 2030, and the energy transition mostly led by the private sector. The development of wind and solar capacity and penetration of electric vehicles are strongest in this scenario but without adequate policy support it takes longer for global emissions to peak, and the decline is insufficient to keep global warming below 2°C by 2100.
+Realpolitik 2.0 Technology 4.0 Society 3.0 12 13 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Realpolitik 2.0 assumptions. 
+Global GDP growth (PPP) 2.4% per annum to 2050. 
+Energy intensity of global GDP -1.8% per annum to 2050. 
+Carbon intensity of total energy -0.1% per annum to 2050. 
+Carbon prices Flat prices within $0 to $30/tCO2e range across regions. 
+Global temperature increase by 2100 >3 °C. 
+Society 3.0 assumptions. 
+Global GDP growth (PPP) 3.6% per annum to 2050. 
+Energy intensity of global GDP -3.5% per annum to 2050. 
+Carbon intensity of total energy -2.1% per annum to 2050. 
+Carbon prices Prices rise to $25-80/tCO2e range by 2030 and $60-130/tCO2e by 2050. 
+Global temperature increase by 2100 <2 °C. 
+Realpolitik 2.0 Society 3.0. 
+Global macro summary. 
+Realpolitik 2.0 builds on keys themes that have defined the global geopolitical context in recent years: an erosion of global trust in elites and institutions, a backlash in some quarters against globalisation and a shift in western relationships with China. This scenario considers the implications of a further fragmentation of the world order with global institutions growing increasingly weak in the face of strong nationalistic and populist forces, including structural competitive tensions between the US and China. Realpolitik 2.0 is our scenario with the lowest economic growth outlook, with global GDP growth of just 2.4% per annum to 2050, compared to around 3.7% since the start of the century.
+Climate change. 
+In addition to the negative impact on trade and growth, the undermining of global collaboration in Realpolitik 2.0 provides headwinds to the co-ordination of policies, such as carbon pricing, and investment in new technologies. Proactive action on climate falls well short of stated ambitions and the energy transition unfolds at a slow pace. Reductions in global energy intensity are weakest in this scenario and solar and wind renewables still only account for less than 30% of global electricity production by 2050. After a quick return to pre-pandemic levels, global emissions continue to grow, before slowly starting to plateau from the late 2030s. We would therefore expect global temperatures in Realpolitik 2.0 to be on a trajectory to reach or even exceed a 3°C increase by 2100.
+Global macro summary. 
+As the world turns to the rebuilding of the global economy after the COVID-19 pandemic, governments are facing growing calls for a new social contract. In Society 3.0, global expectation for social equality, fairness and sustainability becomes the dominant force. In this scenario governments, businesses and society mobilise to work together on solving global challenges such as climate change. Global institutions adapt to better reflect the new global balance of power between the United States and China, allowing for a better co-ordination of efforts and policies. Collaboration also benefits trade and an accelerated development of lowest income economies, supporting global GDP growth in excess of 3.5% per annum to 2050.
+Climate change. 
+Government policy is central to delivering early and meaningful action on climate in our Society 3.0 scenario. Carbon prices in developed economies rapidly escalate during the 2020s, with catch-up from other regions in subsequent decades as overall prices continue to rise. This in turn brings forward economic cross-over points for new low-carbon technologies, accelerating the energy transition. Society 3.0 also sees the emergence of more developed circular economy systems and a wider sharing economy (post pandemic), resulting in the strongest decoupling between economic growth and energy demand across all our scenarios. Not surprisingly global emissions peak and start to decline early in this scenario, but need to turn net-negative in the second half of the century to follow a trajectory in line with the Paris goal of keeping future temperature increases below 2°C.
+Implications for commodities. 
+Weak economic growth weighs on the demand outlook for all commodities in Realpolitik 2.0. Demand for copper is the most resilient, despite the slower penetration of metal-intensive low-carbon technologies, as electrification of developing economies continues. Without policy and infrastructure support the sale of electric vehicles grows at a moderate pace, still accounting for less than 40% of global car sales by 2050. This provides a less supportive demand environment for battery minerals such as lithium or nickel. Instead, aluminium continues to benefit from further light-weighting of the still large, fuel-based, global car fleet. In iron ore, air quality concerns and a focus on blast furnace energy efficiency favour high-grade feedstocks, but in the absence of a deeper transformation of steelmaking processes this does not translate into significant changes to the relative value-in-use of different iron ore products and grades.
+Given the more rapid increase in global temperatures, the physical impacts from climate change are expected to intensify in this scenario. This has the potential to occasionally disrupt mine supply and logistic chains, resulting in additional volatility across commodity markets.
+Implications for commodities. 
+The demand outlook is fairly divided across commodities in Society 3.0. While materials such as copper do well, benefiting from the fast electrification of end-use sectors, others such as steel and iron ore face some headwinds from a more developed circular economy. The share of electric vehicle sales grows rapidly, reaching around 70% by 2050, but with the overall size of the global vehicle fleet negatively impacted by strong gains in shared mobility. Higher carbon prices encourage the collection and recovery of recycled material, making Society 3.0 our only scenario where the average use of scrap for aluminium, copper and steel exceeds 50% by 2050, up from about one third today. The resulting negative impact on primary demand is particularly felt in the lower quality segment of the iron ore market, while higher-grade feedstocks are increasingly sought after by steelmakers to align with the needs of their decarbonisation technology pathways.
+Carbon prices and stronger environmental standards are expected to increase mining and processing costs in this scenario, while stricter and longer approval processes slow down the development of new supply, especially for greenfield projects.
+60% 0% 0% 2010 2010 2020 2020 2030 2030 2040 2040 2050 2050 10% 20% 30% 40% 50% 70% 10% 20% 30% 40% 50% 60%
+Solar and wind share of global power generation capacity Average share of global scrap use across aluminium, copper and steel. 
+Society 3.0 Society 3.0. 
+Realpolitik 2.0. 
+Technology 4.0. 
+Producing Materials Essential for a Low-carbon Future Producing Materials Essential for a Low-carbon Future 14 15 Our Approach to Climate Change Our Approach to Climate Change
+
+
+As a diversified global mining company, we consider a broad range of metals and minerals in the development of our portfolio and growth strategies. We aim to invest in commodities with an attractive industry structure. Our assessment is based on a series of demand and supply criteria such as barriers to entry, cash cost curves and capital intensities, grade and depletion trends, end-use sectors’ outlook and substitution threats.
+Commodities with attractive industry structures tend to have a combination of high barriers to entry, steep cash cost curves and strong demand growth potential. Industries with such characteristics offer attractive margins, in particular for low-cost producers like us operating Tier 1 assets.
+Industry structures are dynamic and evolve over time under the influence of megatrends. The development of China over the past two decades, with rapid urbanisation and industrialisation, has upended the commodity sector. Iron ore has benefited most from this transformation and has one of the strongest industry structures in our sector today.
+Our scenario analysis points to potential future shifts in both absolute and relative industry structure attractiveness in the future. For most commodities, industry attractiveness would come under pressure in Realpolitik 2.0 given the lower economic growth and flatter cash cost curves. Coal would face less pressure than currently expected as the energy transition unfolds at a much slower pace.
+The biggest relative shifts are anticipated in our Society 3.0 scenario, with demand dynamics strongly benefiting copper, battery minerals and other materials that support the electrification of the energy system. Steeper cost curves make hydro-based aluminium more profitable, but the higher use of steel scrap dampening the iron ore industry structure, with a stronger impact felt on lower-grade market segments. Conversely, our analysis shows more stable industry structures in the Technology 4.0 scenario. Finally, at a commodity level, copper presents the most resilient and attractive industry structure across the three scenarios.
+Technology 4.0 assumptions. 
+Global GDP growth (PPP) 4.1% per annum to 2050. 
+Energy intensity of global GDP -3.0% per annum to 2050. 
+Carbon intensity of total energy -1.4% per annum to 2050. 
+Carbon prices Prices rise to $15-30/tCO2e range by 2030 across regions. 
+Global temperature increase by 2100 >2 °C. 
+Technology 4.0. 
+Global macro summary. 
+Digital connectivity has been a defining feature of how the world adapted to life during the global pandemic. Investment and adoption rates in digital communication tools have leapt forward, upending traditional ways of working. Our Technology 4.0 scenario projects this trend to a next level, with fast-paced digitisation and innovation sustained across all sectors, providing a boost to global economic productivity. Global GDP growth is strongest in this scenario, exceeding 4% per annum to 2050. But, the creation of wealth remains unevenly distributed, both within and between countries, and with only loosely co-ordinated policies across governments. Instead, the deep economic transformation that is taking place in Technology 4.0 is mostly led by the private sector with some government support.
+Climate change. 
+Despite reductions in energy intensities, strong economic growth makes Technology 4.0 our scenario with the highest level of total energy demand by 2050. Cost improvements in low-carbon technologies such as renewables, batteries or hydrogen electrolysers are also strongest in this scenario. This is driving a high level of solar and wind power capacity development. But weak climate policy co-ordination and only moderate increases in carbon prices are not supportive of a faster energy transition, especially in less developed economies. Without stronger policy support, it therefore takes longer for global emissions to peak in Technology 4.0. And the decline which starts picking up pace in the early 2030’s is not sufficient to keep increases in global temperatures below 2°C by 2100.
+Implications for commodities. 
+Technology 4.0 is the most supportive scenario for future demand across all commodities, both from strong economic growth and the high level of investment in low-carbon technologies. In addition to high solar and wind capacity, this scenario also has the largest fleet of electric vehicles, with close to 80% of global car sales being electric by 2050. Together with battery minerals, copper particularly benefits from these trends given its intensity of use in low-carbon technologies is about four times that of coal or gas generation and combustion engine cars. Meanwhile, steel and aluminium remain essential to the development of all supporting infrastructure and urbanisation. New manufacturing processes, such as 3D printing, reduce material waste, but the overall impact of scrap usage on primary demand for aluminium, copper and iron ore is weakest in this scenario.
+Cost reductions in Technology 4.0 are also expected to extend to the mining sector, with benefits from lower power costs and improved productivity through better use of data and analytics. Improved processing would also lead to higher ore recoveries from orebodies as well as tailings.
+100% 0% 2010 2020 2030 2040 2050 20% 40% 60% 80%
+Electric vehicles’ share of global car sales. 
+Technology 4.0. 
+Realpolitik 2.0. 
+Implications for Industry Structure. 
+Scenario commodity implications. 
+More attractive. 
+Industry structure. 
+Current Technology 4.0 Society 3.0 Realpolitik 2.0. 
+Less attractive 1. BM = Battery Minerals 2. IM = Industrial Minerals 3. TC = Thermal Coal. 
+Producing Materials Essential for a Low-carbon Future. 
+Fe. 
+Cu. 
+BM1. 
+IM2. 
+Al. 
+TC3. 
+Producing Materials Essential for a Low-carbon Future. 
+Our scenarios and 1.5°C. 
+Our Society 3.0 scenario is consistent with temperature increases of less than 2°C, but does not meet the stretch goal of the Paris Agreement to limit warming to 1.5°C. For the world to be on a 1.5C pathway, global CO2 emissions would need to fall by 45% from 2010 levels by 2030, before reaching net zero by 2050. Rising social expectation for climate action is driving a growing number of countries to commit to net zero emissions by mid-century. China’s recent pledge for carbon neutrality by 2060 and the US intention to re-join the Paris Agreement confirm renewed global momentum. Our operational emissions targets and long-term ambition are also consistent with a 1.5C pathway.
+However, the IEA estimates that even if all announced 2050 net zero commitments are reached, global CO2 emissions would still only get to net zero by 2070. To bring this forward to 2050, the IEA new NZE2050 scenario shows that the primary energy intensity of global GDP would need to fall by 4.5% each year to 2030, the electricity share of final energy demand would need to rise to 28% by 2030 and emissions from the power sector fall by 60% over the same period.
+This would represent a much faster energy transition than is assumed in our scenarios over the next decade, requiring a high level of co-ordination in climate policies across sectors and countries. It would also mean stronger demand for commodities such as copper or battery minerals that are critical to the accelerated deployment of solar and wind renewables or electric vehicles. We continue to monitor alternative scenarios including ones that limit warming to 1.5°C. Our analysis shows that our portfolio is well positioned to perform strongly under faster low-carbon transitions than we are seeing today.
+16 17 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Implications for Our Portfolio. 
+Climate change presents a range of risks as well as opportunities for our portfolio. Physical risks are covered by the fourth pillar of our climate change strategy focusing on adaptation and the resilience of our assets. These risks are expected to increase over time, with higher probabilities of more extreme events in scenarios such as Realpolitik 2.0, in which climate action is delayed. We focus here on financial risks and opportunities from the transition to a low-carbon economy.
+The implications of our scenarios are closely linked to the value chain emissions – or Scope 3 risks – associated with each commodity. To represent these risks we classify commodities into five categories based on: – whether or not carbon is embedded within the product sold; – the carbon intensity of the downstream processing steps; and – the short, medium and long-term substitution risks from potential decarbonisation pathways across the value chain.
+Classifying our products. 
+Rio Tinto products. 
+Type 5 Type 4 Type 3 Type 2 Type 1. 
+Carbon in product sold and widely substitutable today. 
+Carbon in product sold but hard to substitute today. 
+No carbon in product sold but CO2 intensive processing today. 
+No carbon in product sold and best-in-class process CO2 intensity today. 
+No carbon in product sold, low process CO2 intensity and critical enabler of lowcarbon future. 
+Scope 3 reductions through portfolio mix changes and depletion of reservoirs/reserves. 
+Scope 3 reduction through customer deployment of CCS/U. 
+Scope 3 reduction is result of customer technology breakthrough and/or power grid decarbonisation. 
+Scope 3 reduction is result of customer technology breakthrough. 
+Limited scope 3 emissions and risk. 
+Thermal coal, oil and gas Metallurgical coal Iron ore fines & lump, bauxite & alumina for coal-based aluminium. 
+Iron ore DR pellets, bauxite & alumina for hydro-based aluminium, highgrade TiO2. 
+Copper, aluminium, battery minerals. 
+Substitution with renewables (short-term)
+Hydrogen substitution risk (long-term) Scrap substitution risk and preference for high-grade products. 
+Substitution risk limited by scarcity of high-grade products. 
+Scrap substitution risk limited by scrap quality and availability. 
+Lower Scope 1 & 2 risk. 
+Lower Scope 3 risk Lower Scope 3 risk Higher Scope 3 risk. 
+Producing Materials Essential for a Low-carbon Future. 
+We believe our portfolio is well positioned across both the value chain and operational transition risk dimensions. In fact, over 95% of our Group revenues are from assets with favourable operational carbon intensities and outside high Scope 3 risks categories. Approximately 22% of our revenues also currently sit in the lowest carbon segment of our framework – this is where we direct over 90% of our growth capital today.
+The favourable positions for most of our assets on both industry cash cost and carbon intensity curves strengthen our businesses’ truly Tier 1 status, not just today but also in a low-carbon future. Our analysis shows that our portfolio is resilient to climate change both in absolute as well as relative terms, compared to other companies in our sector. Beyond resilience, the optionality of our assets and products offers a wide range of opportunities across our scenarios. Overall, our portfolio is expected to perform more strongly in scenarios with proactive climate action.
+Thermal coal and copper sit at the two extreme ends of this classification. Coal faces significant short-term transition risks while in the short, medium and longer term copper is a critical enabler of a low-carbon future, with carbon savings from the electrification of the energy system far exceeding the carbon dioxide emitted during the copper mining and processing stages.
+The direct carbon footprint of our operations and the potential introduction of climate policies is another transition risk for our portfolio. Overall, even the most carbon-intensive assets in our portfolio tend to compare favourably against the rest of the industry, with two exceptions: Richards Bay Minerals, which relies on a predominantly coal-based power grid in South Africa, and our coal-based Boyne and Tomago aluminium smelters on the east coast of Australia. These assets account for less than 5% of the Group’s revenues.
+Our portfolio is well positioned for the low-carbon transition. 
+Classifying our revenue, growth capex and operating assets by product type. 
+Percentage share of Group: Revenue (%) Growth capex* (%) Operating assets (%) * excludes sustaining and replacement capex 2% –
+1%
+From coal-based aluminium smelters 22% 93% 46%
+From all copper assets, hydro-based aluminium smelters 1% –
+3%
+From RBM 9% 4% 9%
+From IOC, RTFT, CBG, other 0% 66% 3% 42%
+From RTIO, Amrun, Pacific alumina assets 0% 0% 0% 0%
+Type 5 Type 4 Type 3 Type 2 Type 1. 
+High transition risks (not in our portfolio)
+Producing Materials Essential for a Low-carbon Future. 
+IOC: Iron Ore Company of Canada (high-grade iron ore pellets, high-grade concentrate) RTFT: Rio Tinto Fer et Titane (Sorel-Tracy Quebec metallurgical complex produce iron & titanium with materials from QMM) QMM: QIT Madagascar Minerals (based in south eastern Madagascar, produces ilmenite, rutile, zircon) MRN: Bauxite mine in Brazil (joint venture) Alumar: Alumina refinery in Sao Luis Brazil (joint venture) CBG: Compagnie des Bauxites de Guinée (joint venture) 18 19 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Our operations’ decarbonisation targets and ambition to reach net zero emissions by 2050 are consistent with the goals of the Paris Agreement. However, we also recognise that the pace of decarbonisation across the global economy is uncertain and that current climate policies in many countries are not yet aligned with stated ambitions. These policy uncertainties are captured in our scenario analysis, which in turn informs the central case carbon price assumptions used in our internal investment evaluations and accounting judgements. In addition, our scenario approach allows us to test the resilience of our investment decisions against a set of economic and carbon price assumptions that are Paris-aligned.
+1. Our scenario analysis. 
+In Realpolitik 2.0, carbon prices are assumed to remain near current levels, ranging from $0/tCO2 for low-income economies to $30/tCO2 in Europe. In Technology 4.0, carbon prices escalate to a $15-30/tCO2 range by 2030 across most countries, including China. In Society 3.0, carbon prices rise rapidly to around $40/tCO2 by 2025 in all developed economies and $130/tCO2 by 2040, with pricing in developing economies reaching around half those levels.
+2. Our internal central case price forecasts. 
+We have used an internal price on carbon for our investment evaluations and decisions since 1998. We have distinct price forecasts for the regions and main markets in which we operate and sell our products. Our central case carbon prices are set by our Economics team and informed by our scenario analysis. As only one of the scenarios is aligned with the goals of the Paris Agreement, our central case carbon prices are not consistent with the expectation of climate policies required to accelerate the global transition to meet those goals. Our carbon price assumptions are used in combination with internally consistent sets of commodity prices in our evaluation processes.
+Those central case prices (including carbon) are used pervasively in our financial processes from budgeting, forecasting, capital allocation and project evaluation to the determination of Ore Reserves. In turn these prices are used to derive critical accounting estimates including as inputs to impairment testing, estimation of remaining economic life for units of production depreciation and discounting closure and rehabilitation provisions.
+Producing Materials Essential for a Low-carbon Future. 
+Our Portfolio Risks and Opportunities. 
+Type 5 Technology 4.0 Society 3.0 Realpolitik 2.0 Overall. 
+Iron ore IOC well positioned for early deployment of new green steel technologies. 
+Opportunities to target direct reduction ores at Simandou. 
+Strong resilience from Pilbara, IOC and Simandou high-grade products. 
+Potential pressure on lower-grade Robe or SP10 products. 
+Overall margin pressures from lower iron ore demand. 
+Greater resilience of low-cost Tier 1 Pilbara iron ore asset and blend product. 
+Portfolio of iron ore assets and products provide optionality and resilience. 
+Aluminium Opportunities from ELYSIS™ technology. 
+Potential opportunities to re-power PacAl assets. 
+Value upside for hydro-based smelters. 
+Increased pressure on coal-based PacAl assets. 
+Limited changes to current relative positioning of hydro and coal based smelters. 
+Strong relative sector performance from low-cost hydro power and ELYSIS™
+Copper Growth opportunities, including from re-processing of legacy copper tailings. 
+Growth opportunities but potential environmental approval constraints for greenfield projects. 
+Increased value of gold by-products across our copper assets. 
+Focus on growth across all scenarios. 
+Minerals Strong market outlook for Jadar lithium project. 
+Upside from recovery of critical minerals from existing orebodies. 
+Strong market outlook for Jadar lithium project. 
+Resilience from high-grade TiO2 operations. 
+Reduced battery minerals opportunities. 
+Optionality from late-cycle and tech-critical commodities. 
+Group $23.9bn 2020 Underlying EBITDA. 
+Highest Group portfolio value Resilient Group portfolio value Lowest Group portfolio value. 
+Stronger performance of our portfolio in scenarios with proactive climate action. 
+Our approach to carbon pricing. 
+Producing Materials Essential for a Low-carbon Future. 
+Opportunity. 
+Risk. 
+Neutral 20 Our Approach to Climate Change 21 Our Approach to Climate Change
+
+
+Emissions pathways (indexed to 2010 = 100)
+In 2020, we set an ambition to reach net zero carbon emissions across our operations by 2050. We also committed to a 15% reduction in absolute Scope 1 and 2 emissions compared to a 2018 equity baseline, and a 30% reduction in emissions intensity by 2030. Our growth between now and 2030 will be carbon neutral overall.
+Our carbon reduction performance to date and 2030 targets are aligned with goals of the Paris Agreement. By 2030, our managed emissions are expected to be 45% below their 2010 levels, consistent with the pathways highlighted by the IPCC’s in the Special Report on 1.5°C.
+The more we progress along our decarbonisation journey, the more challenging it becomes in the absence of technology breakthroughs. We do not have all the solutions today to achieve our 2050 ambition and will continue to engage and partner with governments, customers, suppliers and technology providers to develop carbon abatement options that are both technically and commercially viable.
+Reducing the Carbon Footprint of Our Operations 2. 
+Rio Tinto CO2e emissions managed. 
+Global CO2 emissions. 
+IPCC <2° C. 
+IPCC 1.5° C. 
+Rio Tinto targets. 
+Cape Lambert, the Pilbara, Australia.
+2010 2020 2025 2015 2030 120 100 80 60 40 -45% -25% 23 Our Approach to Climate Change 22 Our Approach to Climate Change
+
+
+We have incorporated some small revisions to the 2018 equity baseline used for our 2030 targets from a review of our methodology for shipping emissions and a change in the approach to accounting for Scope 2 emissions at Escondida, the world’s largest copper mine, in Chile (managed by BHP, Rio Tinto owns 30%). This resulted in a slight increase in our 2018 baseline to 32.6Mt CO2e, compared to the 31.8Mt CO2e reported last year. At the end of 2019 our total emissions across managed and non-managed operations reduced to 31.5Mt CO2e on an equity basis. However, in 2020 our absolute emissions remained flat at 31.5Mt CO2e, equivalent to a 1.1Mt CO2e (or 3%) reduction against the 2018 baseline for our 2030 targets. The reductions we have achieved so far are mainly the result of using renewable electricity certificates at. 
+Iron Ore: 10%.
+Emissions from our iron ore Pilbara operations are mostly related to the natural gas used to generate power for the mines and processing plants, and from the diesel consumed by our mining and rail fleet.
+Copper & Diamonds: 9%.
+Diesel for trucks and electricity are the main sources of emissions in our copper business. Our Kennecott copper mine in the US purchases renewable electricity certificates, and Escondida in Chile is starting to transition to renewable power in 2021. The Oyu Tolgoi mine in Mongolia is currently supplied by coal-fired power from China.
+Energy & Minerals: 11%.
+Our titanium dioxide business is energy intensive and sources hydropower in Canada but relies on coal-fired power at Richards Bay Minerals in South Africa. The titanium smelting process also consumes carbon electrodes and heat for the furnace at Iron Ore Company of Canada (IOC) is produced from fossil fuels.
+Aluminium (Atlantic):17%.
+Even when supplied with 100% renewable power, the aluminium smelting process produces emissions from the use and degradation of carbon anodes.
+Bauxite & Alumina: 20%.
+The two main sources of emissions in the alumina refining process are from the coal and natural gas used for heat and calcination.
+Aluminium (Pacific): 32%.
+In addition to the process emissions from the degradation of carbon anodes, the Boyne and Tomago aluminium smelters in Australia are both supplied by coal-fired power generators.
+2020 Scope 1 & 2 emissions by operations (equity basis) 2020 Scope 1 & 2 emissions by source (managed basis, %)
+Largely because of the high energy intensity of the aluminium business, our consumption of electricity is about four times that of other global diversified mining majors. However, our share of renewables – 75% across our managed operations – is more than eight times that of our peers. Given the progress already made to decarbonise the electricity we use, a large share of our emissions can be described as ‘hard to abate’. This includes emissions from our use of diesel in our mining and rail fleet, the combustion of anodes and reductants in aluminium smelters and titanium dioxide furnaces and the burning of fossil fuels to generate the steam and heat required in processing plants such as our alumina refineries.
+Repowering our business with renewable energy will continue to be a key priority in our decarbonisation effort. Our equity Scope 1 emissions from power generation are mostly from our equity share in the Gladstone Power Station, which supplies the Boyne aluminium smelter – both in Queensland – as well as from our integrated gas-based power network at our Pilbara iron ore operations in Western Australia. Purchased electricity accounts for about 28% of our total equity emissions – this is our Scope 2 emissions on an equity basis. Our Tomago (Australia), Oyu Tolgoi (Mongolia), Escondida (Chile) and Richards Bay Minerals (South Africa) joint ventures all currently purchase largely coal-based electricity. As announced last year, power arrangements at Escondida are due to transition to renewable-based contracts from 2021.
+Our Carbon Footprint Today. 
+Kennecott Copper, and also related to temporary operational disruptions, even though production levels were not materially impacted by COVID-19. In addition, we are yet to see the emissions benefits from our investment in abatement projects.
+The carbon intensity of our assets varies widely across our portfolio, and largely reflects the balance between mining and processing activities. Most of our assets already sit at the low end of their respective commodity carbon intensity curves. Operations with a predominant mining and logistics focus are less carbon intensive, while refining and smelting operations are high temperature, energy-intensive processes. Consequently, approximately 70% of our emissions today are from our aluminium business.
+Carbon intensity curves of global commodity producers by sector. 
+Reducing the Carbon Footprint of Our Operations. 
+Purchased power 35. 
+Generated power 8. 
+Process heat 14. 
+Anodes & reductants 23. 
+Mobile diesel 16. 
+Other 4. 
+Overall, the average carbon intensity of our portfolio has remained approximately level since 2018 at 6.4 tCO2e/tCu-eq in 2020. The reductions in emissions intensity since 2018 are smaller than the absolute emissions reductions because some of the operational disruptions, noted above, have disproportionally impacted operations with a lower carbon intensity than the Group average. The scale of our aluminium business strongly influences the Group’s carbon intensity average.
+Our aluminium smelting assets in Australia are challenged on carbon intensity, profitability and international competitiveness. We are working with governments, regulators and other stakeholders to get these assets on a stronger commercial footing while exploring repowering opportunities.
+However, the emissions from our Atlantic operation’s smelters are only 2.13tCO2e per tonne of aluminium, less than 20% of the industry average of 12.4 tCO2e/t Al. Our Vaudreuil operation in Québec, Canada, is also the lowest carbon footprint alumina refinery in the world today.
+In iron ore, the Iron Ore Company of Canada (IOC) operations are currently more carbon intensive than our Pilbara operations in Australia, but this is more than offset by the downstream (Scope 3) carbon benefits derived from the use of IOC’s higher-grade iron ore concentrates and pellets. And in copper, approved changes to power arrangements over the past couple of years will move our assets towards the bottom half of the carbon intensity curve.
+Reducing the Carbon Footprint of Our Operations. 
+Total 31.5Mt CO2e. 
+Aluminium (Pacific) Aluminium (Atlantic) Copper & Diamonds. 
+Iron Ore Energy & Minerals Bauxite & Alumina Other 0.4 3.0 2.7 3.6 5.3 6.4 10.1. 
+Pac.Al. 
+Atl.Al 0
+5 10 15 20 100% 75% 50% 25% 0% tCO2/t Al. 
+Global production. 
+Aluminium Iron Ore. 
+IOC. 
+RT Pilbara 0
+50 100 150 200 100% 75% 50% 25% 0% kg CO2/dry t of iron ore. 
+Global production. 
+RT 100% 75% 50% 25% 0% 1.5 2.5 1.0 0.5 2.0 0
+t CO2/t Al2O3. 
+Global production. 
+Alumina Copper. 
+RT. 
+With KUC RECs + Escondida repowering 100% 75% 50% 25% 0% 0
+5 10 15 tCO2/tCuEq1. 
+Global production. 
+Source: CRU, Wood Mackenzie, Rio Tinto analysis , 2019 data Notes: 1. excluding emissions from copper smelting and refining. 
+Sector average 24 25 Our Approach to Climate Change Our Approach to Climate Change
+
+
+As detailed in last year’s climate change report, our 2030 targets were informed by a bottom-up, asset-by-asset analysis of mitigation options. Our Energy & Climate Change CoE worked with our product groups to identify potential emissions reduction opportunities across our portfolio and developed both asset and Group-level marginal abatement cost (MAC) curves.
+In 2020, we integrated this approach into our annual Group planning process – led by the Planning Review Committee (PRC). The PRC, which includes the Chief Executive, Chief Financial Officer, Chief Commercial Officer, Group Executive, Strategy & Development and the Chief Executives of each product group, meets twice each year with a short (12-month) to medium-term (up to 10 years) delivery focus. Integrating climate into the work of the PRC creates a dynamic process to review our progress on emissions each year, ensure that projects remain on track to deliver our targets, continuously develop new options and align our climate-related spend with our broader capital and budget reviews.
+Through that process, we updated the 2019 MAC curves for each product group, looking at both new abatement options and various alternatives for the same sources of emission. The analysis focused on pre-2030 abatement options and included an assessment of project implementation risks from: – the level of technology readiness, and – the level of project execution readiness.
+Roadmap to Our 2030 Targets. 
+Group Marginal Abatement Cost Curve to Deliver our 2030 Emissions Reduction Targets. 
+Reducing the Carbon Footprint of Our Operations Reducing the Carbon Footprint of Our Operations. 
+The consolidated and risk-filtered abatement projects have been integrated into an updated Group MAC curve. To build the curve we calculate the net present value (NPV) of individual abatement projects and back solve the local incentive price of carbon required to make each project NPV neutral, all else being equal. So, projects below the horizontal axis have a positive NPV at a carbon price of $0/t CO2e. The highest cost abatement opportunities are shown on the right side of the chart and require carbon price support to break even. Our longer-term net zero analysis indicates that higher carbon prices, than shown here, are needed for projects that will address harder-to-abate emissions post-2030.
+Our updated 2020 MAC curve to 2030 includes 44 projects with potential abatement of 6.9Mt CO2e, including 1Mt CO2e of potential last-resort Group offsets. This is up from 24 projects with potential abatement of 5.0Mt CO2e in our 2019 MAC curve. However, although our abatement portfolio has increased in size since 2019, the abatement achieved by projects with a positive NPV (at a carbon price of $0) has stayed relatively consistent at 2.4Mt CO2e. In addition, only approximately 5% of the abated emissions in the MAC curve are from projects that are both technologically viable and have reached either the pre-feasibility or feasibility stage today. Of the rest, about a third require further technology development and more than 60% of the abated emissions are from projects at the conceptual stage of execution readiness.
+So, while we have identified more abatement options than we need to meet our 2030 targets, we face continuing challenges to improve the commercial returns and overall readiness of many of our abatement projects. The commercial returns of abatement projects will also be influenced by the level of local carbon prices, which currently remain relatively low in many of the countries where we operate.
+$1bn. 
+Climate-related spend. 
+We estimate that our climate-related spend will be $1bn over a five-year period starting in 2020. Last year this included commitments and spend on: $28m – ELYSIS $98m – Gudai-Darri Solar project $14.5m – Baowu-Tsinghua partnership & Tsinghua University $8m – on 25 R&D projects and studies covering mainly renewable energy, alternative fuels, and process energy efficiency improvements 75 50 2.0 (2.4 Mt NPV positive projects) (NPV negative projects)
+Abatement Mt CO2. 
+Group MACC, 2030 (no carbon price) $/t CO2 4.0 3.0 5.0 6.0 6.9 25 0
+(25) (50) (75) (100)
+Iron Ore Aluminium Copper & Diamonds Energy & Minerals Group offsets 2019 MACC (5 Mt CO2, 24 projects pre-2030) 26 27 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Our competitive advantage. 
+Reducing the Carbon Footprint of Our Operations. 
+Open cycle gas turbines provide firming of intermittent renewable energy and our existing network provides pathways for future potential fleet electrification.
+Stage one $98 million approved. Estimated completion 2022 34MW solar PV at Gudai-Darri 45MW/12MWh battery for spinning reserve at Tom Price. 
+Stage two. 
+Under active study. 
+Additional solar and battery projects. 
+Installation of wind energy monitoring. 
+Stage three. 
+Conceptual with technology solutions needed. 
+Increased renewable energy penetration. 
+Long-term diesel substitution. 
+Pilbara power network * Applies to approved abatement projects over 2020 and 2021. Short-term target is integrated into incentive plan (see section on remuneration)
+Our abatement projects target over 2020 and 2021* 0.5Mt CO2e. 
+Roadmap to Our 2030 Targets continued Renewables Pathway in the Pilbara. 
+Reducing the Carbon Footprint of Our Operations 2030 emissions abatement pathway. 
+Renewables. 
+Mt CO2e reductions from execution of planned abatement projects. 
+Process heat Energy efficiency NCS offset Mobile diesel. 
+This comprehensive analysis has given a further understanding of the challenges and work to deliver our emissions targets. At the Group level, the two most important decarbonisation levers between now and 2030 are: 1. To continue switching the electricity we generate and purchase to renewables, and 2. To optimise processing plants in our alumina and minerals businesses and start trialling new technologies to reduce emissions from the use of coal and natural gas for process heat.
+We also have several initiatives under way to develop low-carbon solutions that will reduce and displace the use of diesel in our rail and mobile fleets, but at this stage we do not expect material emission reductions from these before 2030.
+Each of our product groups face different medium-term opportunities and challenges. These have shaped detailed five-year decarbonisation roadmaps to 2024 with the following priorities: – Aluminium – Identify low-emission alternatives to the use of coal and gas in calcination and digestion at our refineries, including pilots at Yarwun; continue work to develop a repowering solution at our Pacific Aluminium smelters; advance renewables at bauxite mines; complete the first industrial pilot and continue to advance ELYSIS technology.
+– Copper & Diamonds – Secure cost-effective renewable energy certificates and/or renewable power options to extend Kennecott’s current low-carbon footprint beyond 2025; progress studies on low-emission copper processing technologies; develop carbon-neutral growth plans at Winu; advance alternative fuels truck trials.
+– Energy & Minerals – Progress investment in renewables in Africa at both Richards Bay Minerals and QIT Madagascar Minerals (QMM); evaluate renewables options at Boron; develop low-emission process heat technology including the trialling of plasma torches at our iron ore business in Canada; develop carbon-neutral growth plans as part of the feasibility study for our Jadar lithium project in Serbia.
+– Iron Ore – Execute stage one of the Pilbara renewables pathway and advance individual stage two studies and projects including for new wind power options; in parallel explore commercial partner options to accelerate the energy transition across the Pilbara system; continue to develop low-emission alternatives for mobile fuel use in haul, load and rail.
+0 -3.0 -2.5 -2.0 -1.5 -0.5 -3.5 -4.0 -4.5 -5.0 2021 2022 2023 2024 2025 – 2030 28 29 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Our Net Zero Ambition: 2050 Decarbonisation Strategy. 
+Reducing the Carbon Footprint of Our Operations. 
+In addition to the extensive work to progress and execute projects to meet our 2030 targets, we are also setting up the foundations for the next wave of abatements needed to carry us through to our long-term ambition of reaching net zero emissions across our operations by 2050. Although we have the outline of a broad pathway to net zero, we do not have all the solutions today.
+Renewables Process heat Mobile diesel Anodes & reductants Offsets 2020 2030 2040 2050 2020 2030 2040 2050 2020 2030 2040 2050 2020 2030 2040 2050. 
+Decarbonising power – renewables A continued shift to renewables is central to meeting our 2030 targets and will remain an important area of focus beyond 2030, as we increasingly electrify our processes and mobile fleets – these will need to be supplied by green energy. Further repowering with renewables must be done in a way that reduces costs and maintains security of supply. Integration technologies and storage will be critical to the success of achieving a higher penetration of renewable energy.
+The transition to greater electrification and to low-carbon energy carriers such as green hydrogen will require significant technology breakthroughs. Our product groups are already evaluating several new abatement technologies in collaboration with our Technical Centres of Excellence. We also recognise that the best solutions will come from partnerships with suppliers and technology providers, as well as with our industry peers facing common challenges.
+Decarbonising process heat Our Processing Centre of Excellence is particularly focused on our process heat challenge, which will likely play out over several decades in some of our harder-to-abate operations in alumina, iron ore and titanium dioxide. Technologies like hydrogen or plasma torches, which can use renewable energy, may provide a pathway to replace fossil fuels for heat and steam. Our current focus is to develop and deploy these technologies and look for opportunities to pilot them.
+Decarbonising mobile diesel (vehicles and rail) Mobile diesel is our third highest GHG emission source at approximately 16% of total emissions. We completed analysis and concept modelling of emissions sources and energy needs at our fleet and have identified and prioritised zero emissions pathways. We are working to accelerate development of, and to de-risk, the required technology for switching to clean energy sources. We are doing this through industry collaborations such as ICMM’s Innovation for Cleaner Safer Vehicles (ICSV) and direct engagement with our suppliers and other partners.
+Our preferred technology pathway is the most energy efficient and targets full battery electric fleet with dynamic or fast charging technology to maintain fleet productivity. Technical challenges with this pathway involve creating flexibility in the infrastructure so it can adapt to changing haul roads and the limitations on battery charge rates. An alternative pathway builds off the battery electric technology but replaces the dynamic or fast charging technology with the less energy efficient hydrogen cycle (electrolysis and fuel cells). Technical challenges with this pathway involve storing and transporting hydrogen and dealing with transient power requirements that are typical in mining fleet.
+Decarbonising anodes and reductants Emissions from the use of anodes such as in our aluminium smelters is also a longer-term challenge. We established the ELYSIS partnership in 2018 with Alcoa and with support from Apple and the governments of Canada and Quebec to develop the world’s first carbon-free aluminium smelting process, using inert anodes instead of carbon.
+Offsets Given the high cost of emissions reductions and lack of commercially viable low-carbon alternative technology for parts of our business, our long-term ambition is for our operations to be net zero emissions by 2050, rather than zero emissions. Carbon offsets and removals will therefore form part of our decarbonisation strategy. We support the mitigation hierarchy outlined by the World Business Council on Sustainable Development (WBCSD): companies should prioritise avoiding and reducing emissions before using offsets.
+Carbon-neutral growth The development of carbon-neutral projects requires a shift from traditional mine and infrastructure design. A ‘design for net zero’ approach requires our product groups and projects teams to manage capital and carbon intensity trade-offs to achieve cost-effective emissions reductions. This requires leveraging the capability and expertise of partners in key areas of renewable energy, low-emissions processing technology, and zero-emission vehicles early in the project design process.
+2050 decarbonisation pathway. 
+Reducing the Carbon Footprint of Our Operations. 
+Repowering, mine depletion, closure and carbon neutral growth 30 31 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Our Net Zero Ambition: 2050 Decarbonisation Strategy continued. 
+Reducing the Carbon Footprint of Our Operations Reducing the Carbon Footprint of Our Operations. 
+Our Centres of Excellence work with the product groups to investigate emissions abatement technology use cases.
+Exploring the potential of investment in Natural Climate Solutions.
+Our approach to a just transition.
+We believe that the low-carbon transition must accelerate business action, be socially inclusive and address impacts on competitiveness. In some cases, trying to accelerate emissions reductions could have the undesirable outcome of promoting plant closures and reducing employment. This would have a particularly negative impact on remote communities who often rely on mining and industrial activities for their livelihoods.
+We do not have an explicit position on ‘just transition’. However, we address related stakeholder issues in our approach to closure. Although it may extend over decades, mining is a temporary land use. It is therefore a priority that we plan for the closure of our operations when the commercially recoverable ore and associated processing capacity is exhausted. All of our businesses plan for closure from the earliest stages of project development. This planning is intended to minimise financial, social and environmental risks when the operation eventually closes and optimise social, economic and cultural opportunities for the host community.
+“ Climate transitions need to happen quickly. They… also need to be fair, to be just. That means that transitions need to respect the fundamental rights of all involved, in particular the most vulnerable.”
+Institute for Human Rights and Business. 
+Surface Mining Centre of Excellence – Analysis of alternate haul truck technology, including electric battery solutions – Battery/fuel-cell electric 40-100t trucks – Engagement with power service providers on batteries and charging – Ongoing discussions with vehicle and engine manufacturers to investigate the substitution of diesel with renewable fuels and compressed natural gas in vehicles – Analysis of alternate rail technology including battery electric locomotives. 
+Processing Centre of Excellence – Plasma torch applications: – Induration furnaces – Ladle pre-heaters – Aluminium casting furnaces – Biochar in ilmenite reduction process – Hydrogen as a substitute for anthracite in ilmenite reduction – Hydrogen use in downstream iron ore processing – Electric drying technology application in our minerals business – CCS technology use cases. 
+We appreciate the concerns about the integrity of forest carbon offsets.
+We would adhere to the four principles that WBCSD and Nature4Climate recommend for any investment in Natural Climate Solutions (NCS): 1. Raise ambition with respect to climate action.
+2. Provide an interim solution for hard-to-abate emissions, but not a permanent one.
+3. Deliver environmental and social safeguards and benefits in addition to GHG emissions reductions.
+4. Apply sound and verified carbon measurement and accounting methodologies to ensure high environmental integrity of NCS credits.
+Our priority is to develop and implement abatement projects to decarbonise our portfolio in the medium and long term. Therefore, our initial focus on offsets will be on identifying NCS projects within our operational boundaries. In 2020 we started developing NCS projects in the Pilbara and in Madagascar. We are still in the early stages of developing a Group-wide offset strategy and we will be defining our approach in 2021.
+33 Our Approach to Climate Change 32 Our Approach to Climate Change
+
+
+While the carbon footprint of our operations represents less than 0.1% of global CO2 emissions, we operate within value chains that have significant scale and include downstream processes that are highly energy and carbon intensive. Our approach to managing emissions across our value chains depends on our level of control and influence. This is in turn strongly linked to the make-up of our product portfolio.
+We were the first global diversified miner to divest all fossil fuel assets and the products we sell do not contain carbon. Unlike our peers, we are unable therefore to set Scope 3 targets that can be met through the natural depletion of mines or the substitution from high to lower carbon products in the product mix.
+The metals and minerals we sell are essential to the global transition to a low-carbon future and cannot be easily substituted. For our business, Scope 3 emissions are primarily from the direct or indirect use of fossil fuels by our customers in the processing of our products. Our ability to influence directly the decarbonisation of our customers’ hard-to-abate processes is limited, but we recognise that we have a role to play. Our approach is based on global collaboration and close partnerships with our customers, suppliers and even competitors, to develop innovative solutions for the reduction of carbon emissions across our value chains and ensure that we deliver the products our customers need to decarbonise their businesses.
+China, Japan and South Korea – our key customer regions – have all made new commitments in late 2020 to reach carbon neutrality or net zero by around mid-century. This is the context within which our customers will be considering their Scope 1 & 2 footprints and decarbonisation roadmaps. This year, we have defined measurable and impactful goals to guide our partnerships effort, supported by medium-term milestones and near-term objectives.
+As for our Scope 1 & 2 abatement plans, performance against our Scope 3 objectives for 2021 will be explicitly linked to executive remuneration.
+$10m spend committed on 2021 R&D projects within Baowu-Tsinghua partnership. 
+New steel value chain partnership signed with Nippon Steel. 
+Committed to 40% reduction in shipping emissions intensity by 2030 and ambition to reach net zero carbon shipping by 2050. 
+Partnering to Reduce the Carbon Footprint Across Our Value Chains 3. 
+Rainbow Bridge at dusk.Tokyo, Japan.
+35 Our Approach to Climate Change 34 Our Approach to Climate Change
+
+
+Our context Our goals Our medium-term targets Our 2021 objectives Our approach. 
+Fossil fuel free portfolio – the products we sell don’t contain carbon. 
+We supply metals and minerals essential to transition to a low-carbon future – cannot be easily substituted 88% of scope 3 emissions in countries that have committed to carbon neutrality by mid-century 80% of scope 3 emissions from customers’ hard-to-abate processes. 
+Work in partnerships with customers on steel decarbonisation pathways and invest in technologies that could deliver reductions in steelmaking carbon intensity of at least 30% from 2030. 
+Establish and advance at least four steel value chain partnerships by 2025, including annual investment commitment in technologies consistent with our goals. 
+Work in partnerships to develop breakthrough technologies with potential to deliver carbon neutral steelmaking pathways by 2050. 
+Participate in advancement of at least one technology with potential for carbon neutral steelmaking to industrial pilot scale by 2025. 
+Complete feasibility study of green hot briquetted iron (HBI) production with hydrogen from hydro-electricity in Canada with Paul Wurth and SHS Steel. 
+Work in partnerships to develop breakthrough technology enabling of zero-carbon aluminium smelting. 
+Progress ELYSIS™ technology to commercial maturity stage by 2025. 
+Progress industrial-scale ELYSIS™ technology research and development following construction of first industrial pilot in late 2020. 
+Ambition to reach net zero emissions from shipping of our products by 2050. 
+Meet IMO goal of 40% reduction in shipping emissions intensity of our products by 2030. 
+Approve introduction of LNG dual-fuel vessels to our shipping portfolio. 
+Pursue proactive and action oriented partnerships supporting the development and deployment of low-carbon technologies for hard-to-abate processes to progress the decarbonisation of our value chains in line with the goals of the Paris Agreement 1 1 Progress low-carbon steelmaking projects and research with China Baowu Steel Group as part of $10 million commitment in late 2020 to advance our partnership with Baowu and Tsinghua University. 
+Develop work programme and identify joint low-carbon steelmaking technology projects with Nippon Steel as part of climate MoU signed in December 2020. 
+Establish third steel value chain partnership 1
+2 3
+4 2 2 5 3 3 6 4 4. 
+Partnering to Reduce the Carbon Footprint Across Our Value Chains. 
+Our Scope 3 Partnership Goals. 
+Partnering to Reduce the Carbon Footprint Across our Value Chains 36 37 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Partnering to Reduce the Carbon Footprint Across Our Value Chains. 
+Scope 3 emissions are indirect emissions from value chain activities both upstream and downstream of our business. These emissions – beyond our operating perimeter and operational control – are difficult to influence or even calculate. This year we have updated our approach to estimating Scope 3 emissions and details of our assumptions are available in our separate 2020 Scope 1, 2 and 3 Methodology Report.
+Our estimates of Scope 3 emissions add up to 519Mt CO2e in 2020 on an equity basis, of which 97% relate to the processing of products by our customers. The remaining 3% relate to emissions in other parts of our value chains, including shipping.
+Scope 3 Emissions in Our Value Chains 2020 scope 3 emissions 88% of Scope 3 emissions are generated in regions that have committed to carbon neutrality by mid-century. 
+Emissions related to the processing of the iron ore, bauxite and alumina that we sell to third parties remain by far the two main sources of Scope 3 emissions for our business. Within this category, direct processing emissions from steelmaking, alumina refining and aluminium smelting account for 80% of our scope 3 emissions and are considered to be hard to abate. These are the parts of the value chains that we have prioritised for our partnership approach and we provide more details below on each of these sectors, including our progress to date against our Scope 3 goals and plans for 2021.
+Our new approach to estimating Scope 3 emissions has given us a more granular breakdown of the sources of emissions across the various steps of the downstream processes that use our products. It has also enabled us to get a more accurate representation of the geographical split of those emissions, most of which are generated in Asia, which is therefore the primary focus of our partnering effort.
+Copper is a highly efficient electrical conductor and a key material for low-carbon technologies that will play a critical part in the transition to a low-carbon economy such as electric vehicles and wind turbines. Through our interests in Kennecott in the US, Oyu Tolgoi in Mongolia and Escondida in Chile we produce both copper concentrate and refined copper. Scope 3 emissions in this instance relate to the emissions from the processing of the copper concentrate sold to our customers into refined copper, most of which takes place in China.
+After the processing stage, primary metals such as steel, aluminium and copper are transformed into semifabricated products (eg extrusions, sheets, plates, wires) and then into parts that get assembled into final products (eg buildings, cars, machinery, consumer goods). Emissions from this part of the value chain and through the life cycle of end products are more difficult to quantify. In many cases, the ultimate use of the materials we produce may contribute towards reducing emissions compared with alternative solutions.
+Our updated approach to estimating Scope 3 emissions and details of our assumptions are available in our separate 2020 Scope 1, 2 and 3 Methodology Report on our website.
+Our customers’ emissions from the processing of other products in our portfolio are significantly lower. We have added this year estimates from the processing by our customers of our titanium feedstocks and copper concentrate. Together these account for less than 2% of total Scope 3 emissions. Our titanium dioxide business provides the main feedstock for the TiO2 pigment industry which is used in a wide range of industrial and consumer products including paints, plastics, cosmetics, paper, rubber, ceramics and textiles. Our operations, located in Madagascar, South Africa and Canada, are involved in a complex value chain but our ability to provide high-grade TiO2 feedstock supports lower carbon-intensity production of materials.
+MtCO2e. 
+China 389.6. 
+Japan 43.5. 
+South Korea 17.4. 
+EU 7.7. 
+Other countries* 61.0 * Other countries that have not set a carbon neutrality goal or emissions not attributed to specific regions (eg shipping).
+MtCO2e. 
+Processing of iron ore 376.4. 
+Processing of bauxite and alumina 116.4. 
+Processing of titanium dioxide feedstocks 5.8. 
+Processing of copper concentrate 0.5. 
+Processing of other sold products 2.5. 
+Purchased goods 6.6. 
+Capital goods 0.1. 
+Fuel related activities 2.8. 
+Business travel 0.1. 
+Upstream and inter-company transportation 5.1. 
+Downstream transportation 3.0. 
+Partnering to Reduce the Carbon Footprint Across our Value Chains 519MtCO2e 519MtCO2e 72% 22% 5% 75% 8% 12% 3% 2% 38 39 Our Approach to Climate Change Our Approach to Climate Change
+
+
+The aluminium value chain accounts for about 3% of global carbon emissions with around 80% occurring during the smelting phase, which converts alumina into primary aluminium metal. In turn, just over a quarter of these aluminium smelting emissions come from the combustion of carbon anodes, with the rest mostly from the generation of electricity. The energy source used for that electricity is therefore the key factor driving the carbon intensity of aluminium smelters, ranging from around 2tCO2e/t Al for hydro-powered smelters such as our operations in Canada, up to around 17t CO2e/t Al for smelters using coal-fired power and an industry average of about 12.4t CO2e/t Al.
+Emissions from bauxite mining: 1Mt CO2e. 
+Emissions from process heat: 5Mt CO2e. 
+Emissions from electricity: 8Mt CO2e. 
+Emissions from process heat: 15Mt CO2e. 
+Emissions from electricity: 79Mt CO2e. 
+Emissions from electricity: <1Mt CO2e. 
+Anodes and reductants: 7Mt CO2e. 
+Emissions from electricity: 3Mt CO2e. 
+Anodes and reductants: 19Mt CO2e. 
+We sell around 70% of the bauxite we produce, as well as some alumina, to third parties. These customers generally have alumina refineries and smelters with higher carbon intensities than our own operations. The net zero transition pathway for the global aluminium industry, including our customers, will require a viable replacement for carbon anodes in the aluminium smelting process and the decarbonisation of process heat and electricity.
+Technologies such as ELYSIS™ to replace carbon anodes with inert materials could eliminate over 16% of the scope 3 emissions related to the processing of our bauxite and alumina third-party sales. Decarbonising the energy systems that provide the electricity and heat used by our customers in their alumina refineries and aluminium smelters will require a broader co-ordination between governments, industry and energy providers. However, it is worth noting that countries aiming for net zero tend to prioritise the low-carbon transition of their national power sectors within their decarbonisation roadmaps. Nearly 90% of the emissions in our bauxite and alumina value chain occur in countries with mid-century targets for carbon neutrality.
+In the meantime, we are also taking steps to directly support our customers’ decarbonisation journey. We have a dedicated technical marketing team that works with our customers on projects to improve the efficiency of their facilities. By combining this expertise, our customers can enhance the efficient processing of our products and reduce their carbon emissions.
+Our Bauxite and Alumina Value Chain Emissions. 
+Bauxite. 
+Scope 1 & 2 Scope 3. 
+Diesel switching programme. 
+Renewable grid deployment. 
+Regional power grid decarbonisation. 
+ELYSIS™ inert anode technology. 
+Customer partnerships targeting process heat and efficiency. 
+Regional power grid decarbonisation. 
+Abatement action. 
+Alumina Aluminium smelting. 
+Partnering to Reduce the Carbon Footprint Across Our Value Chains. 
+The Aluminium Value Chain. 
+Our partnerships in the aluminium value chain and 2020 progress. 
+We were the first aluminium producer to offer Aluminium Stewardship Initiative (ASI) certified low-carbon aluminium through a “chain of custody” spanning our bauxite mines in Australia, our alumina refineries and our hydro-powered aluminium smelters and casthouses in Australia, New Zealand, Canada and Iceland.
+Our ELYSIS partnership. 
+We established the ELYSIS partnership in 2018 with Alcoa and with support from Apple and the governments of Canada and Quebec to develop the world’s first carbonfree aluminium smelting process, using inert anodes instead of carbon. Apple purchased the first commercial batch of ELYSIS aluminium in 2019 and started using this metal in its MacBook Pro. In 2020, the ELYSIS™ technology achieved production of commercial grade aluminium and the electrode materials performed as expected.
+The construction of the first industrial pilot has been recently completed in Canada and start-up is planned in the first half of 2021. The completion of the facility is the next step towards ramping up to industrial scale the breakthrough technology, first developed at the Alcoa Technical Center near Pittsburgh in the United States. The new centre will produce metal at a scale similar to smaller, industrial-sized smelting cells that are in operation by some producers today. We anticipate that the ELYSIS™ technology will reach commercial maturity in 2024.
+Advancing a circular economy. 
+In October 2020, we partnered with Anheuser-Busch InBev (AB InBev), the world’s largest brewer, to deliver beverage products in cans made from low-carbon aluminium. Initially focused in North America, the partnership will see AB InBev use our low-carbon aluminium made with renewable hydropower along with recycled content to produce a more sustainable beer can. This will offer a potential reduction in carbon emissions of more than 30% per can, compared to similar cans produced today using traditional manufacturing techniques in North America.
+In 2020, we announced a partnership with Shawinigan Aluminium to introduce our first closed loop recycling solution in Canada. We are developing a $7 million state of the art smelting facility adjacent to Shawinigan’s aluminium billet casthouse in Quebec, giving us the capacity to recycle a further 30,000 tonnes of aluminium per year.
+In November 2020, we announced the development of a new family of unique aluminium alloys designed to allow North American die casters to increase their use of recycled content in the production of car parts. These new alloys will provide a lower-carbon alternative to the existing supply chain options available for car parts in the North American market.
+Throughout 2020 we have also continued to progress local recycling initiatives, linking our smelters with local scrap take-back in New Zealand, Canada and Australia. These local initiatives are helping to unlock the full recycling potential of our facilities, providing steps toward localised circular economies.
+Partnering to Reduce the Carbon Footprint Across our Value Chains 41 Our Approach to Climate Change 40 Our Approach to Climate Change
+
+
+Partnering to Reduce the Carbon Footprint Across Our Value Chains. 
+Steel is one of the most efficient construction materials and has a similar carbon footprint per tonne of product, from ore to metal, to hydro-based aluminium. However, because of its attractive properties and cost, the steel value chain also has a much bigger scale, with close to 2 billion tonnes of crude steel produced in 2020, compared to around 65 million tonnes of primary aluminium. As a result, emissions across the steel value chain account for around 9% of global energy related and industrial CO2 emissions.
+The iron ore mining phase accounts for around 2% of the overall carbon footprint across the steel value chain. Most of the emissions are generated at the steel-making stage in either the integrated blast furnace and oxygen route (BF/BOF) or the electric arc furnace route (EAF). The blast furnace steelmaking route is based on a reduction process that utilises carbon to convert iron ore into steel. It accounts for around 71% of global crude steel production and over 99% of the steel produced using our iron ore. We estimate that our customers produced around 376Mt CO2 emissions from the processing of our iron ore into steel in 2020. Our higher-grade ores, including lump and pellets from our IOC joint venture, enable our customers to reduce their carbon footprint.
+Emissions associated with BF/BOF steelmaking include from coke production, the sintering process and the blast furnace and oxygen furnace where iron ore is converted into steel. Emissions from this process are largely attributable to the consumption of metallurgical coal used in the process. There is some variability in the carbon intensity of integrated steel mills based on operating performance and the input materials used, but this produces only small deviations from an average of around 2.2 tonnes of CO2 per tonne of crude steel for the BF/BOF. 
+The Steel Value Chain route. Although several technologies are under development to reduce emissions from this route in the short and long term, they are not expected to achieve net zero steel production without significant use of carbon capture and utilisation or storage.
+The electric arc furnace (EAF) steelmaking route, using scrap steel or direct reduced iron (DRI), can replace the role of metallurgical coal in the conversion of ore to steel. This offers the potential for net zero steel production if green hydrogen-based DRI is paired with a zero emissions electricity supply to an EAF. Despite the emergence of this technology, transitioning global steel production to a green DRI/EAF production route faces significant complexity and requires large-scale, low-cost renewables and currently is not a suitable processing route for more than 70% of global iron ore products.
+The blast furnace steelmaking route presents a more economically efficient steelmaking option in many regions while also enabling steelmakers to use a variety of iron ores in order to create high quality steel for modern applications. The global iron ore supply consists of ores with varying quality and impurities, most of which can be accepted only in the blast furnace steelmaking route, and global steel demand could not currently be met without the flexibility offered by the BF/BOF. These supply constraints and current economic realities suggest that the BF/BOF steelmaking route will continue to be used for several decades.
+Transitioning the steel industry to play a role in a low-carbon future will require a co-ordinated approach to identify technology and energy solutions that can ensure world steel demand can be met with low-carbon products.
+Partnering to Reduce the Carbon Footprint Across our Value Chains. 
+Coke oven. 
+Blast furnace DRI Shaft furnace Steel converter Liquid steel. 
+Natural gas. 
+Sinter plant. 
+Electric arc furnace Liquid steel 20% CO2 9% CO2 64% CO2 7% CO2. 
+Scope 3 emissions boundary. 
+Lump & pellets Fines. 
+Biomass and microwave ore preparation. 
+Hydrogen as an iron ore reductant. 
+CCU Lump optimisation. 
+Partnership initiatives Abatement actions. 
+CCS/U H2/biomass iron-making + BOF. 
+Ore preparation and H2 injection. 
+BF/BOF optimisation. 
+Short-term/partial decarbonisation Longer-term/net zero potential. 
+Integrated Blast Furnace Route (BF/BOF)
+BF/BOF decarbonisation options. 
+To address this challenge, we are working with our customers in both the BF/BOF and DRI/EAF routes on short- and medium- to long-term abatement technologies that could be deployed at their facilities. These include: – exploring BF/BOF optimisation and low-carbon ore preparation techniques that can be deployed to assist with our customers’ short-term carbon abatement targets; – supporting advances in hydrogen ore reduction, biomass utilisation and CO2 conversion to industrial chemicals to enable more material abatement of BF/BOF emissions in the medium term; – studying a project in Canada that uses our high-grade ores together with economically viable green hydrogen to produce DRI.
+42 43 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Partnering to Reduce the Carbon Footprint Across Our Value Chains. 
+China Baowu and Tsinghua University. 
+In late 2019 we entered a long-term partnership with China Baowu and Tsinghua University to develop and implement new methods to reduce carbon emissions and improve environmental performance across the steel value chain in China. During 2020, the partnership established two R&D projects to increase the use of lump ores in blast furnace operation, because lump ore processing generates lower emissions across the value chain. Tsinghua also recently co-ordinated the publication of a book on China’s energy transformation and decarbonisation routes in the face of climate change challenges, including a chapter on the low-carbon technology development of the Chinese steel industry. In December, the partnership held its inaugural ‘China low-carbon steel conference’ in Beijing, bringing together representatives across the China steel industry to discuss transition pathways for the sector.
+Through our commitment of $10 million for research projects and $4.5 million for the Tsinghua University Joint Research Center, the partnership has agreed a significant work programme for 2021. The funding will be used to advance projects on Low Carbon Materials Preparation. 
+R&D, including the development of a pilot testing facility for biomass application and the use of microwave technology in ore preparation. The funding will also support work on CO2 utilisation and conversion at the China Baowu Low Carbon Metallurgical Innovation Centre. These programmes will support China Baowu’s ambition to peak its carbon emissions by 2023, cut carbon emissions by 30% by 2035 and achieve carbon neutrality by 2050. They will advance technologies that will be crucial in reducing emissions from China’s existing blast furnace steelmaking facilities and will support both the short and long-term decarbonisation goals of the steel industry.
+Nippon Steel Corporation. 
+In December 2020 we signed an MoU with Nippon Steel Corporation, Japan’s largest steel producer, to jointly explore, develop and demonstrate technologies to transition to a low-carbon emissions steel value chain. Japan’s recent announcement of its commitment to realise a carbon-neutral society by 2050 has given Japanese companies even greater impetus to accelerate their decarbonisation activities and this partnership is intended to support this goal. In line with the long-term and complex nature of the transition to carbon neutrality for the steel industry we have implemented a long-term partnership model. This model allows the partners to pursue new and promising technologies as the global steel transition evolves.
+While the partnership will explore a breadth of technologies to reduce carbon emissions across the steel value chain, it will focus on research into the use of gas, including hydrogen, as a reductant for our iron ore in Nippon Steel’s steelmaking process. It will also look at potential roles for hydrogen in our mining operations. We also intend to look into the potential reduction of emissions associated with bulk commodity shipping.
+Paul Wurth and SHS – Stahl-Holding-Saar We signed an MOU with Paul Wurth and SHS – Stahl-Holding-Saar (Dillinger/ Saarstahl/Rogesa) to explore the feasibility of the production of green hot briquetted iron (HBI) with hydrogen from hydroelectricity in Canada. The partnership will combine our IOC high-grade iron ores and expertise in direct reduction, Paul Wurth’s competence in plant building and process knowledge of hydrogen generation and direct reduction plants as well as SHS’s iron and steel-making expertise to explore the development of low-carbon solutions for the steel value chain. The feasibility study is scheduled for completion in late 2021.
+Our partnerships in the steel value chain and 2020 progress. 
+In 2020, shipping of our products accounted for around 1.5% of our Scope 3 emissions, or 8.1Mt CO2e. These emissions are in addition to 0.5Mt CO2e of Scope 1 emissions generated by Rio Tinto’s owned vessel fleet. Over 66% of our total shipping emissions are related to the shipping of iron ore, 21% the shipping of bauxite and the remainder related to other products and raw materials supply.
+In 2018, the International Maritime Organization (IMO) adopted an initial greenhouse gas emissions strategy with an ambition to reduce carbon intensity of international shipping by 40% by 2030 compared to 2008. We are committed to meeting this IMO goal and have set a new ambition to reach net zero carbon emissions from shipping of our products by 2050.
+To date, we have already reduced the emissions intensity of shipping of our Australian iron ore and bauxite on our owned and time-chartered fleet by over 30%, exceeding the IMO 2008 baseline. This has been achieved by working closely with our shipping partners and customers to utilise larger and more efficient vessels and by delivering scheduling efficiencies from our owned and operated ports.
+In order to meet and exceed our commitments, we are advancing a combination of initiatives including the chartering of more efficient vessels, the inclusion of vessels powered by liquefied natural gas into our charter portfolio, and advanced data analytics to support fleet management and scheduling to further reduce waiting and cycle time.
+Partnering to Reduce the Carbon Footprint Across our Value Chains. 
+DRI Shaft furnace. 
+Natural gas. 
+Electric arc furnace Liquid steel. 
+CO2 CO2 emissions from power supply. 
+Scope 3 emissions boundary. 
+Pellets. 
+Electric Arc Furnace Route (EAF)
+H2 HBI plant feasibility study. 
+Partnership initiatives. 
+Abatement actions. 
+Biomassbased iron. 
+Green H2 DRI/HBI. 
+The Steel Value Chain continued. 
+EAF decarbonisation options Shipping. 
+Short-term/partial decarbonisation Longer-term/net zero potential. 
+Renewable power 45 Our Approach to Climate Change 44 Our Approach to Climate Change
+
+
+Taking and managing risk responsibly is essential to running our business safely, efficiently and in a way that creates value for our customers, shareholders, employees and partners.
+Effectively managing our risks ensures we meet our strategic objectives, mitigate threats and create opportunities in alignment with our values – Safety, Teamwork, Respect, Integrity and Excellence.
+Our approach. 
+Effective risk management is necessary to manage both threats and opportunities to our strategy and operations. Our risk management process helps us identify, evaluate, plan, communicate, and manage material business risks that have the potential to impact our business objectives. While risk management is a key accountability and performance criteria for our leaders, all employees have a responsibility for identifying and managing risks. Our Board and Executive Risk Management Committee provide oversight of our principal risks and associated management responses described in the Annual Report. The Audit Committee monitors the effectiveness of the risk management and internal control framework.
+Our risk management system is made up of six core elements – one of which is our risk management framework, which sets out clear roles and responsibilities, standards and procedures. We also have three lines of assurance to verify risks are being effectively managed in line with our policy, standards and procedures, including across core business processes such as finance, health and safety, social performance, environment and major hazards.
+We continually strive to improve how we identify and manage risks across our business. In 2020, we have strengthened the control framework by developing a set of control management principles aimed at driving consistency and quality in the definition of our Group control requirements to guide implementation.
+Every part of our risk management framework is there to challenge and evaluate the status of our risk profile in the pursuit of our business objectives. The way we challenge the status is by having three lines of assurance that support leaders in critically reviewing and validating their own operating assumptions. Our model is based on three lines of assurance.
+Three lines of assurance Responsibilities Accountability of. 
+All Operational leaders Manage their risks, including verifying internal controls have been implemented and are effective Management. 
+Centres of Excellence and Areas of Expertise Provide objective verification of compliance and assess effectiveness of internal controls as per the Group’s policies, standards and procedures Management. 
+Group Internal Audit Provide independent verification that risks and internal controls are being managed effectively Board and Board Committees. 
+Enhancing Our Resilience to Physical Climate Risk 4. 
+Chith Export Facility at our Weipa operations in Far North Queensland, Australia.
+47 Our Approach to Climate Change 46 Our Approach to Climate Change
+
+
+Enhancing Our Resilience to Physical Climate Risk. 
+The principal risks and uncertainties outlined reflect the risks that could materially affect (negatively or positively) our performance, future prospects or reputation. A principal risk is one or a combination of risks which can manifest externally or internally, be of any nature, and escalate from any area of the business. As such, we set expectations that all our leaders and team members understand their risks, assess them in line with Group policies and procedures, and respond. Where risks are material to the Group, they are escalated to the Executive Risk Management Committee and, as appropriate, to the Board or its committees. The principal risks section of the Annual Report includes both the low-carbon transition and the physical impacts of climate change.
+Enhancing our resilience to physical climate risks is an important component of our climate change strategy. Our Critical Risk Assessment process is founded in site-specific exposures, including those related to climate change such as wildfires, cyclones, floods and landslides at a more regional level. We consider climate-related risks over the life of our operations, from design to closure and beyond. We have already seen the impact of extreme weather events at many of our sites. We use scenarios such as those developed by the Intergovernmental Panel on Climate Change (including the Representative Concentration Pathway 8.5 which. 
+We have been operating in British Columbia for over 65 years. In 2015, we invested $6.3 billion to increase the production capacity of aluminium by 50% to 420 000 tonnes while reducing the emissions intensity by 50%. With industry leading technology as well as a clean hydropower facility at Kemano and the Nechako Reservoir, the Kitimat smelter produces aluminium with one of the lowest carbon footprints in the world. Water stewardship is critical to the reliability and security of the operations, and to the river systems, fisheries and communities, and so we have been gathering weather data from several mountain locations within the Nechako Watershed since the 1950s.
+With the Natural Sciences and Engineering Research Council of Canada (NSERC) we are funding research at the University of Northern British Columbia (UNBC) to quantify the roles of climate variability, climate change and water management in the Nechako River watershed.
+There are three main themes for the research that will be delivered through the C$1.5 million funding from NSERC and Rio Tinto: – Hydrometeorological monitoring and data collection; – Atmospheric and terrestrial rivers; and – Hydrological and water temperature modelling.
+Examples of specific research projects include expanding the number of hydrometeorological research stations in the Nechako River basin, monitoring the terrestrial impact of atmospheric rivers and projecting the future hydrology and water temperatures of the Nechako watershed.
+Researchers undertook field work and installed sensors in the watershed in the summer and autumn of 2020. They installed a weather station at Mount Sweeney and set up rain gauges and water temperature data loggers in the Upper Nechako.
+The UNBC partnership is an integral way to learn about the long-term impacts of climate change to this region, and to better plan and operate for the future. The benefits of this research will include improved knowledge on the reliability and security of freshwater resources, which is critical to the hydro-power operations. The research will also help us make operational decisions on water retention and releases from the Nechako Reservoir to ensure stable and reliable water supply for Kemano Powerhouse while sustaining Nechako River flows for ecological needs.
+Risk assurance – Assurance for management that risks and critical controls are being managed effectively.
+Capability and culture – Risk capability built through coaching and training for leaders and teams across our business – Risk culture of active management of risks is embedded into how we run our business – Risk culture fosters collective ability to identify and understand, openly discuss and respond to current and future risks.
+Systems, technology and data analytics – Leverage systems and data analytics to support risk analysis, management and oversight.
+Risk management framework – Group’s roles and responsibilities, standards, procedures and guiding principles for effective, consistent and integrated risk management.
+Risk analysis and management – Risks are measured, monitored and managed which requires that critical controls performance is also being measured, monitored and managed – Risks and their control information are current, transparent and connected – Leader-led analysis and management.
+Reporting oversight and insights – Management’s oversight is supported by proactive reporting and effective escalation – Decision-making is supported by connected and insightful risk analysis.
+Risk management. 
+Our analysis of longer-term viability. 
+Our longer-term viability assessment considers several ‘severe but plausible’ scenarios contemplated within the Group’s principal risks, as well as uncertainties and their implications for the viability of the first five years (2021-25) of the Group’s business plan.
+The scenarios include a ‘one-off’ catastrophic event resulting from a major operational failure, for example caused by a Category 5 cyclone directly hitting the Pilbara resulting in significant operational interruption or damage. The viability of the Group’s business model remained sound under all the scenarios tested even when combined. Further detail on the assessment is provided in the Longer-term Viability Statement in our Annual Report.
+has the highest warming) to inform our assessments of the probability and potential impact of these physical risks in the future.
+Our 2018 climate change report summarised the results of our Group-wide assessment of physical climate risks to our assets. These focus on the potential exposure of the regions in which we operate through to the end of the century, both for our existing assets and future project developments. The analysis highlights that some of our operations have a high exposure to physical climate risk variables, and that these are material to Group revenue.
+We have many years’ experience in assessing and managing extreme weather risks and impacts, as well as in enhancing the resilience of our assets. Our 2019 climate change report provides case studies on how two of our assets are addressing these physical risks: managing cyclone risk at the Pilbara iron ore complex (acute physical risk); and managing water scarcity at the Oyu Tolgoi copper mine in Mongolia’s Gobi desert (chronic climate risk).
+In 2020, we postponed our plan to undertake detailed asset-level assessments of physical risk because of COVID-19 and the need to minimise travel. However, we started to develop asset-level guidance on conducting physical risk assessments. This will be piloted with projects in 2021 and then implemented across the Group.
+Managing acute physical risk in the Pilbara. 
+Our 2019 report describes the series of controls in place to manage the threat of extreme weather at our iron ore operations in the Pilbara in Western Australia. In 2020, we continued our work to enhance asset resilience at these operations. We started site construction works for the project to strengthen the Cape Lambert A jetty and wharf. These works also include replacing the berthing and mooring dolphins, longitudinal strengthening of the jetty and protective coating remediation. We expect to complete this in early 2022.
+We also completed the feasibility study for the Dampier Resilience Project and granted funding approval in December 2020. The project will be executed over the next three years, upgrading the 220kV transmission line between the Yurralyi Maya power station and Port Dampier, and developing a new bulk supply substation at Kangaroo Hill and 33kV distribution connections to Dampier and Horizon Power.
+Enhancing our understanding of chronic physical risks of climate change. 
+Enhancing our Resilience to Physical Climate Risk 48 49 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Risk management, portfolio reviews, capital investment decisions, annual financial planning and our approach to government engagement all integrate our climate change strategy and execution considerations.
+The Board approves our climate policy and sets the Group’s ambition and emissions targets – the Chairman, Simon Thompson, has overall Board-level responsibility for our response to climate change.
+The Sustainability Committee of the Board is responsible for monitoring our performance against targets and ensuring operational-level resilience. It also has oversight of key sustainability areas that may be related to climate change, such as biodiversity and water, including the effectiveness of associated controls. In 2020 the Sustainability Committee discussed our industry association memberships and approved the review of industry associations and their role in climate policy. In addition, members of our Board and Sustainability Committee regularly participate in climate change discussions with civil society organisations.
+Climate change is a material and strategic topic for our business and is therefore part of ongoing discussion and analysis at the most senior levels of management and the Board. It is also a key topic of discussion during our regular engagements with investors and civil society organisations.
+Governance. 
+Board of Rio Tinto Plc Confirms the Group’s climate change strategy; approves the climate change report and policy positions; approves the Group’s short-, medium- and long-term emissions targets and goals.
+Sustainability Committee Monitors Group and asset performance against targets (eg GHG emissions) and progress on Scope 3 goals; ensures operational-level resilience; reviews industry association engagement.
+Audit Committee Reviews judgements needed to apply accounting standards, including valuations, impairments and depreciation rates; responsible for external auditors – who assure GHG emissions – and the effectiveness of the risk management framework.
+Remuneration Committee Ensures the remuneration structure and policies include climate-related performance metrics and reward individual executives fairly and responsibly.
+CEO & Executive Committee Develops the Group’s business strategy, planning, investment decisions and risk management processes. The Chief Executive is responsible for delivering the climate change strategy approved by the Board.
+Group Executive, Strategy & Development Group Executive, Strategy & Development is the Executive Committee member accountable for our work on climate change including strategy, portfolio implications, the Energy & Climate Change Centre of Excellence, Scope 3 value chain partnerships and external engagement.
+Risk Management Committee The RMC assists the Executive Committee and the Board in ensuring that a robust risk management framework exists across our business. The overall objective of the RMC is to provide oversight for the management and mitigation of the principal risks – including climate change – that could materially impact the Group’s business objectives and exceed its risk tolerances. Reports to the Audit and Sustainability Committees.
+Investment Committee Reviews proposals on investments, acquisitions and disposals. Approves capital decisions within delegated authority limits. Ensures integration of climate into the investment decision-making process.
+Planning Review Committee Reviews our short-term (12 months) and medium-term (up to 10 years) plans and integrates emissions reductions planning. The Planning Review Committee includes the Chief Executive, Chief Financial Officer, Chief Commercial Officer, Group Executive, Strategy & Development and the Chief Executives from each product group.
+Product groups Develop and execute decarbonisation roadmaps, manage material risks within their business activities, including asset integrity, and ensure operational and project-level performance against emissions targets.
+Energy & Climate Change Centre of Excellence Co-ordinates the execution of our climate strategy and provides technical support to product groups, focusing on scope 1 & 2 emissions reductions.
+Climate Change Steering Committee Co-ordinates Group-wide activity on climate change. Includes corporate function leads and representatives from product groups, Risk and Health, Safety, Environment & Security.
+Economics team Forecasts the carbon price and ensures that climate change considerations are factored into our supply, demand and price forecasts for commodities, which in turn inform our investment, valuation and impairment decisions.
+Governance Governance. 
+Board of Rio Tinto Plc. 
+Audit Committee. 
+Risk Management Committee. 
+Energy & Climate Change Centre of Excellence. 
+Product groups. 
+Sustainability Committee. 
+Planning Review Committee. 
+Climate Strategy Steering Committee. 
+Group Executive, Strategy & Development. 
+CEO & Executive Committee. 
+Remuneration Committee. 
+Investment Committee. 
+Economics team. 
+Our Climate Change Governance 51 Our Approach to Climate Change 50 Our Approach to Climate Change
+
+
+CA100+ Engagement with Rio Tinto. 
+Governance 1. Our 2030 target covers >95% of our Scope 1 & 2 emissions and is relative to our 2018 equity emissions baseline. Before the announcement of our 2030 targets, we reported the total Scope 1 & 2 emissions from our managed operations only.
+Our Chief Executive has overall responsibility for delivery of the climate change strategy approved by the Board. At the Executive Committee level, the Group Executive, Strategy & Development leads our work on climate change that is integrated into our business processes: Group strategy, capital allocation, short and medium-term planning and risk management.
+35%, of which 20% relates to safety. In 2021, we will assess our climate change performance at the Group level against two categories of objectives: – Progress on our Scope 1 & 2 targets: deliver our Group-wide short-term abatement target for Scope 1 & 2 emissions of 0.5M tCO2e approved over 2020 and 2021; progress abatement projects and studies as per our plan.
+– Progress on our Scope 3 goals: work in partnerships with customers on steel decarbonisation pathways; work in partnerships to develop breakthrough technologies with potential to deliver carbon neutral steelmaking and zero carbon aluminium; ambition to reach net zero emissions from shipping of our products by 2050.
+Our product group CEOs’ STIPs also have a 15% weighting to environment, social and governance issues. On climate change performance, this is limited to asset-level objectives on Scope 1 & 2 emissions and includes execution of specific mitigation projects and feasibility studies, progress in major low-carbon research and development initiatives (such as ELYSIS™ and low-carbon vehicle trials), and evaluation of power options.
+Engaging with investors In 2018, we welcomed the recommendations from the Task Force on Climate-related Financial Disclosures (TCFD) and aligned our climate change disclosures to provide more transparency to our investors, other financial institutions and our stakeholders more broadly. In addition, our Chief Executive and Group Executive, Strategy & Development led an investor seminar on climate change and water in April 2020, attended by over 150 investors.
+We regularly engage with the Climate Action 100+ (CA100+) group of investors at Board, Executive Committee and climate team levels. These investors are seeking more robust and comparable information on how companies are realigning their business strategies and operations with the goals of the Paris Agreement, and a net zero emissions future.
+In September 2020, the CA100+ published a Net Zero Company Benchmark that sets out ten indicators covering emissions targets and goals, capital stock alignment, decarbonisation strategy, governance, advocacy and disclosure. This new benchmark aligns well with our recent engagements with investors on climate change. It is also encouraging that it starts to consolidate some existing frameworks to assess corporate climate change performance into what could potentially become a business standard. We hope that this evolving benchmark will address sector-specific issues and the complexity of comparing companies with diverse portfolios in a manner that is fair, transparent and fit-for-purpose. We are supporting CA100+ as it develops the benchmark and the approach to evaluating diversified mining companies against it.
+In response to the request from CA100+, we confirmed the following: 1. As a supporter of the TCFD recommendations, we will work towards providing disclosures that are consistent with the new CA100+ benchmark.
+2. The CA100+ calls on companies to reduce emissions by 45% relative to 2010 levels by 2030 which aligns with the emissions pathway described in the Intergovernmental Panel on Climate Change report on 1.5°C. Our target to reduce absolute Scope 1 & 2 emissions by 15% compared with 2018 levels by 2030 is expected to be consistent with this objective.
+3. We are already partnering to tackle emissions across our value chains and so welcome the opportunity to join investors in the development and implementation of net zero transition action plans.
+Climate has been an important consideration for our Investment Committee since 1998, when we adopted a notional carbon price to test the resilience of our capital investments. As a consequence, our capital stock, our portfolio of products, and the focus on carbon neutral growth is well aligned with the low-carbon transition.
+The work required to achieve our 2030 targets and deliver our decarbonisation strategy is now integrated into our short-term (12 months) and medium-term (five years) planning process. The Planning Review Committee, which includes a sub-set of Executive Committee members, oversees this work to review progress on emissions and set annual targets and aims to ensure that our product groups and emissions abatement projects remain on track.
+The Energy & Climate Change Centre of Excellence Co-ordinates the work at the Group level and provides technical support to the product groups which are accountable for delivering the emissions abatement projects. It also focuses on monitoring and supporting the progress by the product groups on projects and studies, as well as expenditure of the $1bn committed to climate-related projects (both capex and opex).
+The Group Technical Surface Mining and Processing Centre’s of Excellence support the R&D programmes for each product group, including technologies that will support the Group’s long-term decarbonisation effort and 2050 net zero ambition.
+Strengthening the link between executive remuneration and our climate performance Since 2018, our Chief Executive’s performance objectives have been reflected in the Short Term Incentive Plan (STIP) that includes delivery of the Group’s strategy on climate change. These are cascaded down into the annual objectives of relevant members of the Executive Committee and other members of senior management. This year, the Remuneration Committee approved revisions to how we include climate change in the STIP. Safety, environment, social and governance matters including climate change are now assigned an explicit performance weighting of. 
+Management Roles and Responsibilities. 
+Key actions The Sustainability Committee met six times in 2020. Approximately 12% of its time focused on environment and climate change.
+Approved 2030 targets and net zero ambition. 
+Remuneration Committee approved revisions to the way climate change is integrated into executive incentives. 
+Engaged with investors and civil society organisations following the publication of our climate strategy and 2030 targets. 
+Approved 2019 climate change report and reviewed approach to industry associations. 
+Established the position of Group Executive, Strategy & Development – the Executive Committee member with lead accountability for climate change strategy and execution. 
+Integrating climate change in the preparation of Company accounts “The directors have considered the relevance of the risks of climate change and transition risks associated with achieving the goals of the Paris Agreement when preparing and signing off the Company’s accounts. The Audit Committee reviews and approves all material accounting estimates and judgements relating to financial reporting, including those where climate issues are relevant.
+Climate change risk is embedded in our central case commodity price forecasts which underpin our accounting judgments and are particularly important in respect to impairment testing and our assessment of mineral reserves and resources. The central case forecasts include carbon price assumptions that are derived from our three scenarios (Realpolitik 2.0, Society 3.0 and Technology 4.0). As only one of these scenarios is aligned with the goals of the Paris Agreement, our central case carbon prices are not consistent with the expectation of climate policies required to meet those goals. Currently, the pace of decarbonisation across the global economy is uncertain and existing climate policies in many countries are not aligned with stated ambitions. The narrative reporting on climate-related matters is consistent with the accounting assumptions and judgments made in this report.”
+Extracted from the Audit Committee Report (see Annual Report page 135)
+Governance “ Rio Tinto is covered by the Climate Action 100+ (CA100+). This global initiative is backed by over 500 investors with more than $50tn in assets under management. We are asking systemically important companies to work with investors to improve their governance, disclosure, and alignment with the Paris Agreement.
+We welcome the company’s operational net zero commitment and demonstration that the associated 2030 targets are in line with the 2018 IPCC 1.5°C Special Report. The further information about key value-chain partnerships, designed to deliver commercial-scale demonstration of the decarbonisation of the aluminium and steel value chains, is critical to investors as we action our own portfolio level net zero commitments. In the run up to COP26 in Glasgow, we welcome both: Rio Tinto’s coordination with sector experts in the High-Level Champions team; and the Board’s intention to put the company’s annual TCFDaligned reporting to an advisory vote at its 2022 AGMs, as legislators and regulators in the UK and elsewhere respond to calls for investors to have a ‘Say on Climate’.
+We look forward to reviewing Rio Tinto’s new remuneration policy from a climate perspective, and working with the sector to develop a tailored CA100+ net zero benchmark, including within the context of wider work on metals value-chains. Stronger Paris-aligned policy advocacy in contexts where the company and its peers have considerable direct and indirect influence would be welcomed.
+As co-leads of the CA100+ process with Rio Tinto we believe that it continues to be mutually beneficial, and we look forward to our 2021 engagement.”
+Andrew Gray Director – ESG & Stewardship, AustralianSuper and Member, CA100+ Global Steering Committee. 
+Rupert Krefting Head of Corporate Finance & Stewardship, M&G Investments and Member, CA100+ European Advisory Group. 
+Helen Wildsmith Stewardship Director – Climate Change, CCLA and Member, CA100+ European Advisory Group 52 53 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Government policy that creates the right framework for change is critical, coupled with real business action and societal shifts. A challenge as serious as climate change requires transparency, collaboration and a shared contribution to the solution. Our positions on key climate and energy policy issues are:
+Issue Rio Tinto’s position. 
+Climate science We accept mainstream climate science assessed by the Intergovernmental Panel on Climate Change and the fact that climate change is occurring and is largely caused by human activities. We acknowledge the IPCC’s report on 1.5°C and their recommendation to aim for net zero emissions by 2050.
+Paris Agreement We support the outcomes of the Paris Agreement and the long-term goal to limit global average temperature rise to well below 2°C and pursue efforts to limit the temperature increase to 1.5°C above pre-industrial levels. We support governments as they raise the ambition of their Nationally Determined Contributions (NDCs).
+The role of business Significant progress towards a solution to climate change will only occur where there is broad engagement involving the breadth of experience and opinion from business, governments, investors, civil society organisations and consumers. Business has a role to play in addressing and managing the risks and uncertainties of climate change.
+Emissions and energy reduction targets and standards. 
+It is important to set targets, take action to achieve them, and report on progress against targets. We do not advocate for policies that undermine the Paris Agreement or discount NDCs. Our ambition is to reach net zero emissions across our operations by 2050.
+Adapting to climate change We recognise the importance of adaptation and increasing resilience to a changing climate.
+Market mechanisms and emissions trading. 
+Where climate policies are implemented, we support the use of market mechanisms, including a market-based price on carbon such as in emissions trading systems. We believe this is the best way of stimulating innovation and achieving emissions reductions at least cost.
+Competitiveness Effective climate policies should incentivise the private sector to invest in low-carbon technology, while avoiding the negative unintended consequences of transferring industrial production to countries with weaker emissions regulation. Where climate regulation, such as carbon pricing, is introduced to incentivise the decarbonisation of ‘hard to abate’ sectors, this should be coupled with measures to maintain the competitiveness of emissions intensive trade-exposed industries to minimise competitive distortions within and across jurisdictions.
+Energy policy and energy efficiency Rio Tinto will promote alignment with its climate and energy policy in its discussions with industry association members. We recognise the valuable contribution that renewable energy sources make in reducing emissions. Many of our operations are energy intensive and we have been taking action to improve both productivity and energy efficiency, as we reduce emissions.
+Governance “ Integrating climate change into executive remuneration is an important step.”
+Simon Thompson Chairman. 
+Climate and energy policy advocacy. 
+Significant global and regional progress on climate change will only happen when everyone – business, governments, investors, civil society organisations and consumers – plays their part. Our own approach to climate change requires active engagement on relevant policies with a range of stakeholders in the countries where we operate.
+Our responses to government consultations are guided by our overall policy positions that include support for market mechanisms, as we believe this is the best way of stimulating innovation and achieving emissions reductions at least cost. Our submissions are typically developed by subject matter experts, reviewed by government relations and legal teams, and then approved by the relevant country director or senior executive.
+In 2020, we responded directly to four national and sub-national government consultations on climate and energy policy:
+Date National or sub-national government Details of consultation. 
+January 2020 National Government of New Zealand Legislative consultation: The New Zealand Government sought feedback on amendments to the Climate Change Response Act 2002 to improve the operation of the New Zealand Emissions Trading Scheme (NZ ETS). Our response can be found here.
+February 2020 Ministry for the Environment – New Zealand Consultation Paper: The Ministry for the Environment sought feedback on proposed NZ ETS settings, including unit supply and price controls, to be set through regulations in mid-2020. Our response can be found here.
+June 2020 Federal Government of Australia – Department of Industry, Science, Energy & Resources. 
+Discussion Paper: Technology Investment Roadmap. This outlines the Government’s vision “for Australia to play a leadership role in accelerating development and deployment of low emissions technologies”. Our response can be found here.
+September 2020 Energy Security Board (tasked by the Energy Council of the Council of Australian Governments)
+Consultation paper on the market design of the National Electricity Market. Our response can be found here.
+Our Position on Climate Change. 
+In 2015, we supported the adoption of the Paris Agreement and the long-term goal to limit global average temperature rise to well below 2°C and to pursue efforts to limit warming to 1.5°C.
+Governance 55 Our Approach to Climate Change 54 Our Approach to Climate Change
+
+
+Working with our industry associations. 
+Industry associations play an important role in policy development, sharing best practice and developing standards. They also allow us to better understand a range of external views and contribute our perspectives and experiences in support of a co-ordinated approach which benefits business, the economy and society.
+We recognise that there is increasing stakeholder interest in industry associations and the role they play in policy advocacy. Each industry association is different. Some focus on a thematic mandate and promote best practice in a given domain, others gather a broader set of companies and represent a sector’s interest to government, policy makers and other stakeholders. Our participation across different industry associations also varies – we are more active in associations on issues where we can benefit, influence and add value.
+Positions taken by industry associations on a given topic will consider a range of members’ views, and the nuance and emphasis of an industry association’s position may differ from that of Rio Tinto. Diverse and differing views should be heard in order to support rich and full debate, reach compromises where appropriate, and make progress on solutions to complex issues. We encourage industry associations to engage broadly with other stakeholders (such as investors and non-government organisations).
+Governance of our memberships of industry associations. 
+Recognising that industry associations’ views will not always be the same as ours, we monitor the advocacy of industry associations and periodically review our memberships. This assessment may include: – the purpose of the association and the value that the membership may provide to Rio Tinto and its investors; – appropriate governance structures within the industry association; and – activities and positions of advocacy of the industry association.
+Where significant differences in policy positions arise, we may: – provide greater clarity on our own policy positions, such as Company submissions on policy issues and/or direct engagement with policy makers; – work as part of that industry association to understand alternative points of view and to seek common ground that enables progress to be made; – seek a leadership position in the governance body of that industry association to further influence the policies and perspectives of that association; and/or – ultimately, and if formal dialogue processes appear incapable of resolving such differences in positions, review our ongoing membership of that industry association.
+Our annual review of our industry association memberships supplements this report and can be found on our website. This provides a complete list of the major industry associations that take positions on climate change and sets out the elements used to evaluate their policy positions and advocacy: 1. accept mainstream climate science; 2. advance the Paris Agreement goals to hold the increase in the global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit the temperature increase to 1.5°C above pre-industrial levels; 3. support governments as they raise the ambition of their Nationally Determined Contributions; 4. support market mechanisms, including carbon pricing, that stimulate innovation and cost-effective emissions reductions and minimise competitive distortions within and across sectors and jurisdictions; 5. recognise the valuable contribution that renewable energy sources make in reducing emissions, not undermine the role renewables have in the energy mix; and 6. ensure that any positions and advocacy on the use of coal do not support subsidies and note that it will require advanced technology, and in the medium to long term must be consistent with Paris targets.
+The review provides further information on any major industry associations whose positions and advocacy on climate and energy policy significantly differ from Rio Tinto’s key positions on these issues.
+Industry association policy and advocacy alignment. 
+Where our membership is significant, we will work in partnership with industry associations to ensure that their policy positions and advocacy are consistent with our own public position and the Paris Agreement. In accordance with the provisions governing the monitoring of our industry association memberships, we will consider our support and membership of industry associations where they do not partner with us in seeking to advance the above policy agenda.
+Governance. 
+Our Position on Climate Change continued. 
+CA100+ Net Zero Company Benchmark Disclosures. 
+Emissions and Energy Data 56 Our Approach to Climate Change 57 Our Approach to Climate Change
+
+
+Climate Action 100+ Net Zero Company Benchmark Disclosures. 
+Climate Action 100+ Net Zero Company Benchmark. 
+Indicators & sub-indicators Our approach 1 Net zero GHG emissions by 2050 (or sooner) ambition. 
+Sub-indicator 1.1 – The company has set an ambition to achieve net zero GHG emissions by 2050 or sooner. 
+Our ambition is to reach net zero emissions across our operations (ie Scope 1&2 emissions) by 2050. We also aim to reach net zero emissions from shipping of our products by 2050.
+2 Long-term (2036 to 2050) GHG reduction target. 
+Sub-indicator 2.1 – The company has set long-term (2036 to 2050) targets or goal for reducing its GHG emissions. 
+As noted above, our long term ambition is to reach net zero emissions by 2050 and we have quantitative targets to reduce Scope 1&2 emissions between now and 2030. We have not set a quantitative GHG reduction target after 2030. The 2030 target drives mitigation action in the short to medium term (described on pages 26-29 of our 2020 climate report). Our net zero ambition (by 2050) drives our approach to carbon neutral growth and our investment in longer-term R&D in mitigation technology (such as ELYSIS™ and low-carbon vehicles) which will play a more significant role in decarbonising our business post-2030. Our Scope 1&2 decarbonisation pathway to 2050 is outlined on pages 30-33 of our 2020 climate report.
+We have also set some long-term Scope 3 goals for emissions related to the processing of our iron ore, bauxite and alumina products, which account for more than 95% of our overall Scope 3 inventory. These goals are to support the development of carbon neutral steelmaking and aluminium smelting technologies as described on pages 35-45 of our 2020 climate report.
+Sub-indicator 2.2 – The long-term (2036 to 2050) GHG reduction target or goal covers more than 95% of scope 1 and 2 emissions, and relevant scope 3 emissions (where applicable)
+Our long-term ambition to reach net zero emissions across our operations by 2050 covers more than 95% of our Scope 1&2 emissions. 
+Sub-indicator 2.3 – The target or goal is aligned with the goal of limiting global warming to 1.5°C Our long-term ambition to reach net zero emissions across our operations by 2050 is aligned with the pathway in the IPCC Special Report on 1.5C 3 Medium-term (2026 to 2035) GHG reduction target(s)
+Sub-indicator 3.1 – The company has set a medium-term (2026 to 2035) targets for reducing its GHG emissions. 
+In February 2020, we announced new Group-wide 2030 targets for Scope 1&2 GHG emissions. These are a 30% reduction emissions intensity; and a 15 per cent reduction in absolute emissions compared to our 2018 equity emissions baseline. In 2021, we announed new Scope 3 goals to work in partnerships with our customers and invest in technologies that could deliver reductions in steelmaking carbon intensity of at least 30% from 2030. We have also committed to meeting the IMO goal of a 40% reduction in shipping emissions intensity of our products by 2030.
+Sub-indicator 3.2 – The medium-term (2026 to 2035) GHG reduction target covers more than 95% of scope 1 and 2 emissions, and relevant scope 3 emissions (where applicable)
+Our 2030 targets apply to more than 95% of our total scope 1&2 emissions on an equity basis. Our approach to tackling emissions across our value chain is described on pages 35-45 of our 2020 climate change report. The most significant category of scope 3 emissions is “processing of sold products” (category 10 of the WRI WBCSD GHG Protocol on scope 3 emissions) which accounts for more than 97% of our total scope 3 emissions. Details of our Scope 3 emissions by category can be found in our 2020 Scope 1, 2 & 3 Emissions Calculations Methodology report.
+Sub-indicator 3.3 – The target is aligned with the goal of limiting global warming to 1.5°C Given the reductions we have achieved since 2010, our 2030 targets for scope 1&2 emissions are aligned with reductions of 45% relative to 2010 levels by 2030 and the emissions pathway described in the IPCC’s Special Report on 1.5°C.
+4 Short-term (2020 to 2025) GHG reduction target. 
+Sub-indicator 4.1 – The company has set a short-term (2020 to 2025) targets for reducing its GHG emissions. 
+The Group’s short-term Scope 1 & 2 target is to approve 0.5M tCO2e of abatement projects over 2020 and 2021. We have also committed to spend $1bn on emission reduction initiatives over the period 2020 to 2024. Finally, we have set some 2025 milestones for our Scope 3 goals to 1. establish and advance four steel value chain partnerships, 2. participate in the advancement of at carbon neutral steelmaking technology to industrial pilot scale, and 3. progress the zero-carbon ELYSIS™ technology to commercialisation stage.
+Climate Action 100+ Net Zero Company Benchmark disclosures. 
+Indicators & sub-indicators Our approach. 
+Sub-indicator 4.2 – The short-term (2020 to 2025) GHG reduction target covers more than 95% of scope 1 and 2 emissions, and relevant scope 3 emissions (where applicable)
+The short-term target applies to >95% of our scope 1&2 emissions. The Short Term Incentive Plan (STIP) includes the delivery of the Group’s strategy on climate change and annual targets (further detail is provided in the remuneration section of the Annual Report).
+Sub-indicator 4.3 – The target or objective is aligned with the goal of limiting global warming to 1.5°C. 
+The target is linked to our short-term plan and should not be extrapolated to either our 2030 target or to our net zero ambition by 2050. The Group’s Scope 1 & 2 emissions pathway in the short-term is not expected to be a straight line to our 2030 target (given the timing of capital expenditure and potential mergers and acquisitions activity).
+5 Decarbonisation strategy – a robust plan to achieve GHG targets lays out which decarbonisation levers will be used. 
+Sub-indicator 5.1 – The company has a decarbonisation strategy to meet its long, medium and short-term GHG reduction targets (note scoring under this indicator requires scoring on targets indicators 2, 3 and/ or 4)
+Our decarbonisation strategy is described on pages 23-33 of our climate change report. This quantifies the main sources of Scope 1 & 2 emissions and identifies the short-, medium- and long-term actions needed to reach our ambition to achieve net zero emissions by 2050 and our 2030 targets. The report also highlights the actual and committed spend of over $140m in 2020 on mitigation projects and R&D (out of the $1bn expected for climaterelated spend over five years 2020-24). At the Group-level, the two most important decarbonisation levers between now and 2030 are: 1. To continue switching the electricity we generate and purchase to renewables, and 2. To optimise processing plants in our alumina and minerals businesses and start trialling new technologies to reduce emissions from the use of coal and natural gas for process heat.
+In the longer term, we will need to continue the shift to low-carbon power and decarbonise heat at our alumina refineries and minerals processing facilities. Our Processing Centre of Excellence is particularly focused on technologies like hydrogen or plasma torches, which can use renewable energy, and which may provide a pathway to replace fossil fuels for heat and steam. We will also need to address emissions from the use of anodes in our aluminium smelters. We established the ELYSIS partnership in 2018 with Alcoa and with support from Apple and the governments of Canada and Quebec to develop the world’s first carbon-free aluminium smelting process, using inert anodes instead of carbon.
+Pages 35-45 of our climate change report quantifies the main categories of scope 3 emissions and explains our goals to work in partnerships across our value chain to reduce the carbon footprint.
+Sub-indicator 5.2 – The company’s decarbonisation strategy includes a commitment to ‘green revenues’ from low- carbon products and services. 
+Our purpose is to produce materials essential to human progress. There are no low-carbon alternatives to steel, aluminium and copper in numerous applications and these materials are essential to the low-carbon transition, so the challenge is to produce them sustainably. On page 18-19 of our climate change report, we have outlined an approach to classifying the revenue from products of the resource sector:
+Type 1: No carbon in product sold, low process CO2 intensity and critical enabler of low-carbon future (eg copper, aluminium, battery minerals)
+Type 2: No carbon in product sold and best-in-class process CO2 intensity today (eg iron ore DR pellets, bauxite and alumina for hydro-based aluminium, high grade TiO2)
+Type 3: No carbon in product sold but CO2 intensive processing today (eg iron ore fines and lump, bauxite and alumina for coal-based aluminium)
+Type 4: Carbon in product sold but hard to substitute today (eg metallurgical coal)
+Type 5: Carbon in product sold and widely substitutable today (eg thermal coal, oil and gas)
+The percentage of our revenues from the different types of materials is provided on page 19 of our report.
+We do not produce fossil fuels and so have no revenue from Type 4 or Type 5 materials.
+Rio Tinto sells low-carbon branded metal products including RenewAL and the recently launched START Responsible Aluminium. We have targets to increase these ‘green revenues’, though they are not disclosed publicly and currently represent a small (<5%) proportion of our total revenue. RenewAL is the certified CO2 content per ton of Aluminium (4tCO2e per tonne of aluminium compared with the industry average of over 12tCO2e) which helps ensure that materials recycled later had the right origin. START Responsible Aluminium sets the standard for responsible aluminium production, providing transparency, traceability and provenance through blockchain technology, empowering customers, consumers and end users to make a more sustainable choice.
+58 59 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Indicators & sub-indicators Our approach 6 Capital stock alignment – assess whether investment in carbon-intensive activities is consistent with the Paris Agreement Goals. 
+Sub-indicator 6.1 – The company is working to decarbonise its capital stock. 
+Climate risks and opportunities have formed part of our strategic thinking and investment decisions for over two decades, and we now have a portfolio that is well positioned for the transition to a low-carbon economy. In 2018 we made significant progress to decarbonise our capital stock when we completed the divestment of the last of our coal businesses and no longer produce fossil fuels. In 2020 we committed to invest $1 billion in climate related projects over five years 2020-24, and we expect to invest further capital to achieve our 2030 targets. This will include capital and operational expenditure on projects such as Gudai-Darri Solar, the development of the ELYSIS™ technology and R&D in low-carbon technologies.
+Rio Tinto's purpose is to produce materials essential for human progress. Page 19 of the climate report highlights the proportion of our growth capex in materials such as copper and lithium which will play a critical role in enabling the low-carbon transition.
+Sub-indicator 6.2 –The company discloses the methodology used to determine the Paris Agreement alignment of its future capital expenditures. 
+As our long term ambition to reach net zero emissions from our operations is aligned with the Paris Agreement, we expect our future capital expenditure to support that ambition. Our strategic thinking is framed by scenarios, including detailed climate change narratives, and considers pathways aligned with the Paris goals. Climate change considerations are therefore fully integrated into our Group strategy and portfolio decisions. In fact, climate has been an important consideration for our Investment Committee since 1998, when we adopted a notional carbon price to test the resilience of our capital investments. As a consequence, our capital stock, our portfolio of products, and the focus on carbon neutral growth is well aligned with the low-carbon transition. (further detail on the carbon price assumptions are provided on page 21 of the climate report). As part of our 2030 Scope 1 & 2 targets we have also committed for all future growth projects at Rio Tinto to be carbon neutral overall.
+As noted in indicator 5.2 above, we have outlined an approach to classifying our materials. We have used this approach to assess our portfolio and indicate the percentage of our growth capex in each category of material. Further detail is provided on page 18-19 of our climate change report 7 Climate policy engagement – intent to support climate policy and demonstrate how direct and indirect lobbying is consistent with this position. 
+Sub-indicator 7.1 – Comprehensive description of the position the company has taken on all relevant climaterelated policies, the activities undertaken during policy engagement and a detailed explanation of how this process is governed, including, but not limited to, the following:
+In 2015, we supported the adoption of the Paris Agreement and the long-term goal to limit global average temperature rise to well below 2°C and to pursue efforts to limit warming to 1.5°C. Our positions on key climate and energy policy issues are approved by the Board and are summarised on page 54 of our 2020 climate change report. These positions address all the areas of climate policy listed in the assessment criteria. In 2020, we responded directly to four national and sub-national government consultations on climate and energy policy. These are listed on our website and on page 55 of the climate change report.
+Our responses to government consultations are guided by our overall policy positions and are typically developed by subject matter experts, reviewed by government relations and legal teams and approved by the relevant country director or senior executive with responsibility for that subject.
+Sub-indicator 7.2 – Disclosure of indirect climate policy engagement positions, activities and governance processes, including the following:
+The governance section of the 2020 climate change report describes the governance process in place for memberships of industry associations and indirect climate policy engagement. Recognising that industry associations’ views will not always be the same as ours, we periodically review our memberships in individual industry associations and report on whether they align with us on climate-related advocacy. This review, published on our website, sets out our approach where significant differences in policy positions arise.
+Where significant differences in policy positions arise, we may: – provide greater clarity on our own policy positions, such as company submissions on policy issues and/or direct engagement with policy makers; – work as part of that industry association to understand alternative points of view and to seek common ground that enables progress to be made; – seek a leadership position in the governance body of that industry association to further influence the policies and perspectives of that association; and/or – ultimately, and if formal dialogue processes appear incapable of resolving such differences in positions, review our ongoing membership of that industry association.
+Climate Action 100+ Net Zero Company Benchmark disclosures Climate Action 100+ Net Zero Company Benchmark disclosures. 
+Indicators & sub-indicators Our approach 8 Climate Governance – Clear Board oversight of and remuneration for delivery of GHG targets. 
+Sub-indicator 8.1 – Board oversight of climate change. 
+The Board approves our climate policy and sets the Group’s ambition and emissions targets. Simon Thompson, the Chairman, has overall Board-level responsibility for our response to climate change. The Sustainability Committee of the Board is responsible for monitoring our performance against targets and ensuring operationallevel resilience. The Sustainability Committee met 6 times in 2020 and devoted approximately 12% of its time to environment and climate change matters (full data is available on the SusCo tab of this file).
+The Chief Executive is responsible for delivering the climate change strategy approved by the Board and reports to the Board on progress.
+Sub-indicator 8.2 – The company’s executive remuneration scheme incorporate climate change performance elements. 
+Since 2018, our chief executive’s performance objectives have been reflected in the Short Term Incentive Plan (STIP) that includes delivery of the Group’s strategy on climate change. In 2021, the Remuneration Committee approved revisions to how we include climate change in the STIP. Safety, environment, climate change, social and governance matters are now assigned an explicit performance weighting of 35% (of which 20% relates to safety). In 2021, we will assess our climate change performance at the Group level against two categories of objectives: 1. Progress on our scope 1 & 2 targets: deliver our Group-wide short-term abatement target for scope 1 & 2 emissions of 0.5M tCO2e of approved abatement projects over 2020 and 2021.
+2. Progress our value chain partnerships and scope 3 goals as outlined on page 36-37 of our 2020 climate report.
+3. Our product group CEOs’ STIPs also have a 15% weighting to environment, social and governance issues.
+On climate change performance, this is limited to asset-level objectives on scope 1&2 emissions and includes execution of specific mitigation projects and feasibility studies, progress in major low-carbon research and development initiatives, and evaluation of low-carbon power options.
+Sub-indicator 8.3 – The Board has sufficient capabilities to assess and manage climate-related risks and opportunities. 
+The Board skills matrix on page 130 of the 2020 Annual Report explicitly considers capabilities to assess and manage climate-related risks and opportunities. Six members of the Board have relevant skills and experience in addressing climate change and low-carbon transition issues. Climate change is also considered in the Board effectiveness review. Further detail is provided in the governance section of our 2020 Annual Report and the Board members’ biographies.
+9 Just transition – Consideration of the impacts from transitioning to a lower-carbon business model on its workers and communities. 
+Sub-indicator 9.1 – The company discloses its considerations of the impacts from transitioning to a lower-carbon business model on its workers and communities. 
+We believe that the low-carbon transition must accelerate business action, be socially inclusive and address impacts on competitiveness. In some cases, trying to accelerate emissions reductions could have the undesirable outcome of promoting plant closures and reducing employment. This would have a particularly negative impact on remote communities who often rely on mining and industrial activities for their livelihoods.
+We do not have an explicit position on ‘just transition’. However, we address related stakeholder issues in our approach to closure. Although it may extend over decades, mining is a temporary land use. It is therefore a priority that we plan for the closure of our operations when the commercially recoverable ore and associated processing capacity is exhausted. All Rio Tinto businesses plan for closure from the earliest stages of project development. This planning is intended to minimise financial, social and environmental risks when the operation eventually closes and optimise social, economic and cultural opportunities for the host community.
+10 TCFD Disclosure – TCFD aligned climate disclosures that incorporate the specific items outlined above and wider climate strategy. 
+Sub-indicator 10.1 – The company has committed to implement the TCFD recommendations. 
+Rio Tinto supports the TCFD recommendations and we re-affirmed our commitment to align our climate disclosures with them to CA100+ in October 2020. Our climate change report aligns with the TCFD recommendations and includes sections on governance, strategy, risk management and metrics and targets. The TCFD tab in this Fact Book lists the TCFD recommendations and indicates where our relevant disclosures are (in the climate change report and Annual Report).
+Sub-indicator 10.2 – The company employs climate scenario planning to test its strategic and operational resilience. 
+Detail of our approach to scenario planning and testing our strategic and operational resilience is provided on pages 11-21 of our climate change report. This includes quantitative elements (for some of our input assumptions) as well as the implications of these scenarios for our portfolio. We use three global dimensions to develop our Group strategy scenario framework and these result in a range of possible climate change outcomes which we include in our planning. Under one scenario – Society 3.0 – warming is limited to below 2°C and is therefore Paris-aligned. We also consider external scenarios, such as the IEA new NZE2050 scenario, that explore faster energy transitions. Through our strategy process we test the resilience of our portfolio against each of these three scenarios. Overall, our scenario is expected to perform more strongly in scenarios with proactive climate action.
+60 61 Our Approach to Climate Change Our Approach to Climate Change
+
+
+Emissions and Energy data. 
+Emissions and Energy Data. 
+Scope 1&2 emissions – equity basis. 
+Total equity greenhouse gas emissions (million tCO2e) 2020 2019 2018. 
+Total emissions 31.5 31.5* 32.6a. 
+Scope 1 emissions 22.8 23.1 23.8. 
+Scope 2 emissions 8.7 8.3 8.8 2020 equity greenhouse gas emissions by product group (million tonnes of CO2 equivalent)
+Scope 1 emissions (Mt CO2-e)
+Scope 2 emissions (Mt CO2-e)
+Total emissions (Mt CO2-e)
+Aluminium 15.8 6.0 21.8. 
+Aluminium (Pacific) 4.6 5.4 10.1. 
+Aluminium (Atlantic) 5.2 0.1 5.3. 
+Bauxite & Alumina 6.0 0.5 6.4. 
+Energy & Minerals 2.4 1.2 3.6. 
+Iron Ore 3.0 0 3.0. 
+Copper & Diamonds 1.2 1.5 2.7. 
+Other (includes Growth & Innovation and corporate functions) 0.5 0 0.5. 
+Rio Tinto total 22.8 8.7 31.5 2020 equity greenhouse gas emissions by location (million tonnes of CO2 equivalent)
+Scope 1 emissions (Mt CO2-e)
+Scope 2 emissions (Mt CO2-e)
+Total emissions (Mt CO2-e)
+Australia 12.8 5.9 18.6. 
+Canada 6.0 0 6.0. 
+South Africa 0.3 1.2 1.6. 
+USA 1.1 0 1.1. 
+Other: Rest of Africa 0.2 0 0.2. 
+Other: Rest of Europe 0.4 0 0.4. 
+Other: Asia, New Zealand, Central America, South America 2.1 1.6 3.7. 
+Rio Tinto total 22.8 8.7 31.5. 
+Scope 1&2 emissions intensity – equity basis 2020 2019 2018. 
+Greenhouse gas emissions intensity (tCO2e/t Cu-eq)(equity) 6.4 6.4 6.5. 
+Scope 1&2 emissions & energy – 100% managed basis 2020 2019 2018 2017 2016 2010. 
+Total managed greenhouse gas emissions (Mt CO2e) 26.2 26.4 28.5* 30.6 32.0 43.0. 
+Total managed energy (PJ) 402 406* 425 440 458. 
+Note: Total managed GHG emissions equal the sum of scope 1 emissions and scope 2 emissions minus the scope 1 emissions resulting from the supply of electricity and steam to third parties.
+* Numbers restated from those originally published to ensure comparability over time. In 2008, we set our first climate change target, to reduce the GHG emissions intensity of our managed operations. This was updated in 2015 and called for a 24% reduction in intensity by 2020 and we achieved that target. In 2020 our emissions intensity was 72.6 (index relative to 2008).
+Scope 3 emissions – equity basis 2020. 
+Total equity Scope 3 emissions (Mt CO2e) 519.4. 
+Sources of scope 3 equity emissions (2020) million tonnes of CO2-e 1. Purchased goods and services 6.6 2. Capital goods 0.1 3. Fuel and energy related activities 2.8 4. Upstream transportation and distribution 5.1 5. Waste generated in operations Not applicable 6. Business travel 0.14 7. Employee commuting Included in category 6 8. Upstream leased assets Not applicable 9. Downstream transportation and distribution 3.0 10. Processing of sold products – Iron ore 376.4 – Bauxite & alumina 116.4 – Titanium dioxide 5.8 – Copper 0.6 – Other 2.5 11. Use of sold products 0 12. End of life treatment of sold products Not material 13. Downstream leased assets Not applicable 14. Franchises Not applicable 15. Investments Not applicable. 
+Coal 15%
+Natural gas 8%
+Diesel 1%
+Others 1%
+Other renewable 4%
+Hydro 71%
+Process gases and other 4%
+Anodes and reductants 23%
+Net purchases electricity and steam 35%
+Fuel 38% 2020 sources of electricity used (managed operations)
+Restatement of 2018 emissions baseline and progress towards our 2030 targets 2020 sources of emissions (managed operations) 31.5 31.0 32.0 32.5 33.0 2018 Reported. 
+Escondida restatement. 
+Marine restatement. 
+Nonmanaged assets 2018 Adjusted. 
+KUC Recs. 
+Alumina operations. 
+Aluminium. 
+Other 2019. 
+RTIO. 
+RTA. 
+RTCD. 
+RTEM 2020 31.8 0.3 0.3 0.2 32.6 (0.84) (0.32) (0.08) 0.12 31.5 0.18 0.09 (0.03) (0.16) 31.5. 
+The 2018 figures of 32.6Mt CO2e and 6.5Mt CO2e/t Cu-eq are the baselines for our emissions targets. In our 2019 climate change report these values were 31.8Mt CO2e and 6.4Mt CO2e/t Cu-eq and have been restated as a result of the following events: – Rio Tinto Marine restated their 2018 scope 1 emissions following a review of their scope 1 and scope 3 emissions – Escondida restated their scope 2 emissions as a result of a change from the location approach to estimating scope 2 emissions to the market approach – In 2020 various non-managed assets provided clearer details of their 2018 emissions, resulting in a net gain in Rio Tinto’s equity emissions for 2018, which has replaced emission estimates used previously by Rio Tinto. 
+The reductions achieved in 2019 were primarily due to reductions at Kennecott (where RECs were the major contributor to reductions in Scope 2 emissions) and at QAL, Yarwun and Vaudreuil (down over 300kt jointly) partly due to operational changes and slight reductions in production. In 2020 emissions increased in our iron ore business which had higher diesel consumption due to longer haul distances and the development of the Gudai-Darri mine, but these were offset with modest reductions in emissions in the other parts of the group due to reductions in production.
+Note: Scope 1 greenhouse gas emissions are direct greenhouse gas emissions from our operations (eg from fuel consumption and anodes). Scope 2 greenhouse gas emissions from the electricity, heat or steam brought in from third parties (indirect emissions). Scope 3 emissions are indirect greenhouse gases generated as a result of activities undertaken across the value chain, either upstream or downstream of our operations.
+(a) The 2018 figure is the baseline for our 2030 emissions target and has been adjusted to exclude emissions from assets divested in that year. Actual emissions in 2018 were 34.0Mt CO2e. Please see our Scope 1,2&3 Emissions Methodology report for further detail on our approach to calculating our emissions.
+62 63 Our Approach to Climate Change Our Approach to Climate Change
+
+
+This report includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts included in this report, including, without limitation, those regarding Rio Tinto’s financial position, business strategy, plans and objectives of management for future operations (including development plans and objectives relating to Rio Tinto’s products, production forecasts and reserve and resource positions), are forward-looking statements. The words “intend”, “aim”, “project”, “anticipate”, “estimate”, “plan”, “believes”, “expects”, “may”, “should”, “will”, “target”, “set to” or similar expressions, commonly identify such forwardlooking statements.
+Such forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of Rio Tinto, or industry results, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements.
+Such forward-looking statements are based on numerous assumptions regarding Rio Tinto’s present and future business strategies and the environment in which Rio Tinto will operate in the future. Among the important factors that could cause Rio Tinto’s actual results, performance or achievements to differ materially from those in the forward-looking statements are levels of actual production during any period, levels of demand and market prices, the ability to produce and transport products profitably, the impact of foreign currency exchange rates on market prices and operating costs, operational problems, political uncertainty and economic conditions in relevant areas of the world, the actions of competitors, activities by governmental authorities such as changes in taxation or regulation and such other risk factors identified in Rio Tinto’s most recent Annual report and accounts in Australia and the United Kingdom and the most recent Annual report on Form 20-F filed with the United States Securities and Exchange Commission (the “SEC”) or Form 6-Ks furnished to, or filed with, the SEC.
+Forward-looking statements should, therefore, be construed in light of such risk factors and undue reliance should not be placed on forwardlooking statements. These forward-looking statements speak only as of the date of this report. Rio Tinto expressly disclaims any obligation or undertaking (except as required by applicable law, the UK Listing Rules, the Disclosure Guidance and Transparency Rules of the Financial Conduct Authority and the Listing Rules of the Australian Securities Exchange) to release publicly any updates or revisions to any forward-looking statement contained herein to reflect any change in Rio Tinto’s expectations with regard thereto or any change in events, conditions or circumstances on which any such statement is based.
+Nothing in this report should be interpreted to mean that future earnings per share of Rio Tinto plc or Rio Tinto Limited will necessarily match or exceed its historical published earnings per share.
+Forward Looking Statements. 
+Designed and produced by Black Sun riotinto.com 64 Our Approach to Climate Change
+
+
+Rio Tinto plc 6 St James's Square London SW1Y 4AD United Kingdom. 
+Rio Tinto Limited Level 7, 360 Collins Street Melbourne VIC 3000 Australia

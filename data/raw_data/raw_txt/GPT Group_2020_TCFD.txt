@@ -1,0 +1,361 @@
+CLIMATE DISCLOSURE STATEMENT 2020. 
+Prepared in accordance with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD)
+FEBRUARY 2020
+
+
+INTRODUCTION 3 1 GOVERNANCE 4. 
+TCFD Governance 4. 
+GPT Board of Directors 5. 
+GPT Board Sustainability and Risk Committee 5. 
+Management’s Role 5 2 STRATEGY 6. 
+Analysing climate change risks and opportunities 6. 
+Impact of climate change risks and opportunities 8. 
+Energy strategy 12. 
+Climate-resilient buildings 12. 
+Industry engagement and public policy 13. 
+Offsetting residual emissions 13. 
+Embedding resilience strategies in the business 13 3 RISK MANAGEMENT 14. 
+Integrated approach to climate change risk management 14 4 METRICS & TARGETS 15. 
+Investment Portfolio – our buildings’ emissions 15. 
+Embodied Carbon 16. 
+Our Organisation’s emissions 16. 
+Targets 16. 
+NEXT STEPS 19. 
+Contents. 
+Contents Click on the links on this page to navigate through the report. 
+This is an interactive PDF. The best way to view this report is with Adobe Reader.
+Home Use the home button to head back to this page
+
+
+The GPT Group 2020 Climate Disclosure Statement 3. 
+Introduction. 
+Climate change is a global challenge. GPT recognises that changes to the environment influence the operation of our business and our assets, and we are committed to identifying and managing climate change risks across our business.
+As a market leading owner and manager of a $25 billion portfolio of office, logistics and retail properties across Australia, GPT recognises the importance of transparently identifying and managing the foreseeable climate change risks and opportunities likely to impact on the property sector. These impacts are already starting to manifest, with the world seeing an increase in the frequency and intensity of climate related events.
+In October 2017, GPT announced its target to achieve carbon neutral operations across its assets by 2030. We are focused on eliminating emissions within our control and working proactively to influence and assist others to reduce their emissions. GPT’s approach to managing its emissions and energy consumption is outlined in our Climate Change and Energy Policy and is delivered through an ISO 14001 Environmental Management System.
+This report aims to provide further information about the steps we are taking to identify, assess and manage climate change risks and opportunities. It has been prepared with reference to the recommendations made by the Task Force on Climate-related Financial Disclosures (TCFD), which provides a framework for more effective climate change financial disclosures, addressing four key areas: governance, strategy, risk management and metrics and targets.
+The TCFD recommendations apply the concept of scenario analysis to examine the potential future risks and opportunities of climate change under two distinct categories: • TRANSITION IMPACTS: reflecting the risks and opportunities associated with changes in the economy, including growth impacts, policy and regulatory changes, sector re-weighting as a result of decarbonisation, and other macroeconomic factors.
+• PHYSICAL IMPACTS: reflecting the changes in the physical climate and acute climatic events (e.g. changes to rainfall volume, intensity and timing; increased storm intensity) that may impact future business activities.
+In preparing this report, a cross-functional reference group was established to identify foreseeable risks and opportunities under three different climate change related scenarios and to formulate GPT’s ongoing climate change response plans.
+GPT has a strong governance and disclosure culture. In addition to the detailed public sustainability and carbon disclosures that GPT provides on its website and directly to investors, we contribute to the following indices and initiatives: • Global Real Estate Sustainability Benchmark (GRESB) • Dow Jones Sustainability Index (DJSI)
+Our sustainability reporting is guided by the Global Reporting Index (GRI) as well as responding to emerging risks of interest to our stakeholders.
+3
+
+
+The GPT Group 2020 Climate Disclosure Statement 4. 
+Governance. 
+Disclose the organisation’s governance around climate change risks and opportunities.
+• Describe the board’s oversight of climate change risks and opportunities.
+• Describe management’s role in assessing and managing climate change risks and opportunities.
+TCFD Recommendations. 
+GPT Board. 
+Board Audit Committee Board Sustainability & Risk Committee. 
+TCFD Delivery Team/ *CRO and Head of Sustainability & Energy. 
+Investment Committee. 
+Due Diligence Committee. 
+Technical Consultants TCFD Reference Group. 
+Leadership Team. 
+Information exchange. 
+Investments. 
+Business as usual management process. 
+Report. 
+Report. 
+Inform. 
+TCFD Governance. 
+At GPT, our approach to managing and reporting climate change risks and opportunities is guided by our overarching commitment to sustainability, outlined in our Sustainability Policy.
+GPT aspires to be recognised for its leadership in sustainability. The Group takes a long-term, holistic perspective for our assets and publicly reports our progress on a regular basis with independent verification.
+GPT aims to be an overall positive contributor to our communities, people and the environment. The Group seeks to work in partnership with our customers and suppliers to manage our sustainability performance in a way that invites our stakeholders to hold us to account.
+GPT’s Climate Change and Energy Policy outlines its commitment to: • Operate carbon neutrally in areas within its control • Identify and respond to climate change related risks and opportunities • Support and encourage our stakeholders in aligned endeavours. 
+To achieve its policy objectives, GPT consistently monitors and assesses the climate change risks and opportunities likely to impact our assets and incorporates these considerations into investment and business decision-making.
+The below organisation chart outlines the accountabilities and responsibilities for ensuring risks and opportunities arising from climate change are systematically managed to mitigate potential negative impacts and maximise any potential opportunities.
+*From 2020 onwards, TCFD Delivery Team will be replaced by CRO and Head of Sustainability & Energy.
+
+
+The GPT Group 2020 Climate Disclosure Statement 5. 
+GPT Board of Directors. 
+Climate change risks and potential financial impacts are assessed within GPT’s Risk Management Framework, and GPT’s Board of Directors (“Board”) has ultimate responsibility for overseeing the application and management of the Framework.
+The GPT Board meets a minimum of 6 times each year and comprises six Non-Executive Directors and one Executive Director. The actual number of meetings held is disclosed in the GPT Annual Financial Report.
+The key functions of the GPT Board are to: • Set strategic objectives for GPT • Approve and monitor business plans • Oversee financial and operational performance • Approve major investments and strategic commitments • Review and ratify systems of risk management and internal compliance and control, codes of conduct and legal compliance • Approve the remuneration framework • Review Chief Executive Officer (CEO) and executive team performance and results • Review Director and executive team compensation and benefits. 
+Climate change risk is considered in the performance of each of these functions wherever relevant.
+GPT Board Sustainability and Risk Committee. 
+The Sustainability and Risk Committee, a sub-committee of the Board, is responsible for considering any matters relating to the affairs of GPT that have been delegated to it by the Board. The Committee meets quarterly with additional meetings scheduled as necessary. Key areas of responsibility, as set out in the Committee’s Charter, include oversight of the risk management, compliance and internal controls frameworks of GPT. This includes monitoring of climate change risks and opportunities in accordance with GPT’s Risk Management Framework, and tracking compliance with GPT’s Climate Change and Energy Policy.
+Climate change risks are recorded in the Group’s Key Risk Dashboard and are reported on to the Committee and the GPT Leadership Team. The Head of Sustainability and Energy provides a biannual climate risk update.
+The proceedings, deliberations and recommendations from the Committee meetings are reported back to the Board by the Chairman of the Sustainability and Risk Committee. The Papers and Minutes of all Committee meetings are also made available to the Board. GPT’s enterprise-wide. 
+Risk Management Framework guides this process and is consistent with AS/NZS ISO 31000:2018.
+In addition to the Sustainability and Risk Committee, the Audit Committee also supports the Board by considering material risks in the context of GPT’s financial reporting.
+Management’s Role. 
+GPT’s CEO is accountable for ensuring that the Group is identifying, assessing and managing climate change risks and opportunities in accordance with GPT’s Risk Management Framework. The Chief Operating Officer and the Chief Risk Officer are responsible for ensuring GPT’s management teams are identifying, assessing and managing climate change risks and opportunities effectively and in accordance with GPT’s Risk Management Framework. The Chief Risk Officer (CRO) also has direct responsibility for managing GPT’s Sustainability Team, which has responsibility for formulating and implementing GPT’s sustainability initiatives across the business and facilitating climate change related responses with the TCFD Reference Group.
+GPT recognises the requirement for effective risk management as a core capability and consequently all employees are expected to be managers of risk. In 2019, a TCFD Delivery Team was formed with the specific task of delivering GPT’s Climate Change Disclosure Statement. The TCFD Delivery Team comprises GPT’s Head of Sustainability and Energy, General Counsel, Deputy Chief Financial Officer, Chief Risk Officer, Head of Investor Relations & Corporate Affairs, Manager of Risk and Audit and Strategic Projects Manager of Sustainability. The TCFD Delivery Team was co-sponsored by the Chief Operating Officer and Chief Financial Officer to ensure senior management’s close overview of the process.
+In addition, GPT has established a TCFD Reference Group comprising representatives in Office, Retail, Logistics, Asset Management, Operations, Development, Investment Management, Funds Management, Sustainability, Procurement, Risk and Finance. The Reference Group was responsible for identifying the foreseeable climate change risks and opportunities presented in this report, and to embed ongoing climate change risk identification and management processes. Its members also have responsibility for ensuring that the GPT’s climate change planning and mitigation processes are implemented in their respective business units to promote longer-term business resilience.
+Accountability for the Group’s sustainability targets and outcomes is reinforced through the application of Key Performance Indicators (KPIs) in the performance targets of the CEO, the COO, the CRO, all members of the Sustainability Team and key operational-level staff members. In the case of the CEO, COO and CRO, these KPIs are directly linked to financial outcomes.
+
+
+The GPT Group 2020 Climate Disclosure Statement 6. 
+Disclose the actual and potential impacts of climate change risks and opportunities on the organisation’s businesses, strategy, and financial planning where such information is material.
+• Describe the climate change risks and opportunities the organisation has identified over the short, medium, and long term.
+• Describe the impact of climate change risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+• Describe the resilience of the organisation’s strategy, taking into consideration different climate change scenarios, including a 2°C or lower scenario.
+TCFD Recommendations. 
+Strategy. 
+At GPT, the proactive identification and management of key risks and opportunities, including those related to climate change, supports the achievement of our business strategy.
+The Group’s first-principles approach and commitments to managing the greenhouse gas emissions and energy consumption from our buildings is primarily guided by the scientific imperative of preventing dangerous climate change by limiting global warming to below 2 degrees Celsius.
+In October 2017, we set a target for all GPT Group assets to be carbon neutral before 2030. A key milestone in this strategy is for all GPT Wholesale Office Fund (GWOF) assets to be carbon neutral by the end of 2020. The GPT Energy Master Plan provides a roadmap for our organisation to achieve its net zero carbon emissions targets.
+Analysing climate change risks and opportunities. 
+To better understand the potential impact of climate change on our business, and to test the resilience of our strategy, we have considered various climate scenarios in line with TCFD recommendations. Each of the three scenarios presented both climate change risks and opportunities for GPT. The scenarios adopted by GPT in its scenario analysis are summarised in Table 1 below. In undertaking the scenario analysis, GPT considered the following timeframes in relation to GPT’s strategy and planning as being: • SHORT-TERM: up to 10 years - the period within which most initial lease terms will expire in GPT buildings • MEDIUM-TERM: 10 to 20 years - the period within which most buildings will require major capital lifecycle works • LONG-TERM: generally greater than 20 years. 
+Timeframes are defined by reference to the lifecycle of an asset, giving GPT the flexibility to make decisions on an asset by asset basis, rather than taking a one-size-fits-all approach to the evaluation of climate risks and opportunities.
+
+
+The GPT Group 2020 Climate Disclosure Statement 7. 
+High Emissions Scenario Medium Emissions Scenario Low Emissions Scenario. 
+Considers a long-term average temperature rise of 4°C Broadly aligned with the Paris Agreement’s goal to limit global temperature increases to below 2°C. 
+Broadly aligned with limiting global warming to 1.5°C. 
+Business as usual with little-to-no additional action from the broader global community to curb growth of emissions. 
+Based on an emissions trajectory that would see Australia’s economy fully decarbonised by around 2050. 
+Most ambitious global emissions mitigation scenario. 
+Considered the point where global emissions peak around 2020 and then rapidly decline. 
+Physical climate impacts are expected to increase with climatic changes. 
+Significant physical risks, including increased frequency and magnitude of a variety of physical climate change impacts, including drought, heatwaves, storms, flooding, bushfires and other extreme climate change events. 
+Physical climate impacts are similar to those in the high emissions scenario, but the impacts may be less severe or less frequent. 
+Significant impacts on energy costs, Australian business and regional economies. 
+Transitional impacts are minimal and are most likely in the areas of markets, regulatory policy and legal implications, technology and reputation. 
+Transitional impacts are more significant, similar to those under the low emissions scenario and include regulatory changes that influence the cost of energy and carbon pricing. 
+Transitional impacts are very significant, associated with the aggressive policy measures needed to reduce emissions quickly. 
+Table 1 Climate Change Scenarios. 
+The GPT Group 2020 Climate Disclosure Statement 7
+
+
+The GPT Group 2020 Climate Disclosure Statement 8. 
+Impact of climate change risks and opportunities. 
+The table below sets out the key risks and opportunities that may impact GPT, as well as initiatives for addressing and mitigating these risks.
+Table 2 Climate change scenarios and response strategies. 
+Impact(s)
+Emissions scenario GPT’s response strategies for risk mitigation and maximising opportunities. 
+Low. 
+Medium. 
+High. 
+Policy and regulatory changes. 
+Changes to energy tariff structures and potential supply constraints • • GPT is reviewing the impacts of a transition to renewables and minimising exposure to regulatory changes which are most likely to see increased focus on demand requirements or energy reliability. As a part of its Energy Master Plan, the Group’s activities in on-site electricity production and storage are an important mitigating strategy for potential increased regulation around energy reliability.
+Increased energy prices resulting in higher operational expenditure • • From a short and medium-term perspective, and under both the medium and low emissions scenarios, GPT is addressing the risk of rising energy prices through the GPT Energy Masterplan, which provides a roadmap for the organisation to achieve net zero carbon emissions by 2030 for the Group and by the end of 2020 for GWOF, while reducing energy cost exposure. The plan includes continued efficiency programs, on-site renewable electricity generation, strengthening energy market knowledge and procurement capabilities and demand response programs to minimise electricity capacity charges.
+More restrictive land planning codes leading to lower supply of land for construction resulting in higher capital expenditure • • Climate change impacts are considered by GPT’s Due Diligence Committee as part of the investment decision making process. In cases where potential impacts may reduce our ability to develop in the future, investment decisions may change. For example, GPT has recently withdrawn from a land acquisition after identifying potential flood risks that significantly diminished the investment value of the property.
+Regulatory changes around carbon intensive construction materials resulting in increases to capital expenditure for construction • • GPT is working with its industry peers to develop a market for lower embodied carbon construction materials. We are currently planning the development of a timber office tower in Melbourne with low embodied carbon and challenging our construction contractors to provide further reduced embodied carbon building techniques. The learnings from this project in terms of engineering solutions and metrics will be applied in the planning of future projects.
+The GPT Group 2020 Climate Disclosure Statement 8
+
+
+The GPT Group 2020 Climate Disclosure Statement 9 The GPT Group 2020 Climate Disclosure Statement 9. 
+Impact(s)
+Emissions scenario GPT’s response strategies for risk mitigation and maximising opportunities. 
+Low. 
+Medium. 
+High. 
+Market expectation and economic changes. 
+The increased expectations from investors and tenants for buildings and portfolios to reduce their carbon impact • • GPT is an industry leader in reducing emissions including the target for the GWOF portfolio as carbon neutral by the end of 2020. In a world where there is to be increasing interest in action on climate change, GPT is well placed to meet the expectations of its investors and tenants. GPT’s responses to climate change present an opportunity for the Group to demonstrate its superior credentials in sustainability and responsible stewardship of the environment.
+Economic disruption, changes to consumer behaviours and structural changes in regional Australia associated with contraction in carbon-intensive economies and industries • • GPT has a diversified property portfolio primarily located in Sydney, Melbourne and Brisbane, and is not invested heavily in regional economies where carbon intensive industry dominates.
+Heatwaves Increased capital expenditure and operational expenditure for cooling upgrades • • Managing increased business intensity and occupancy density in GPT buildings is driving the need for increased cooling capacity in our buildings. An infrastructure upgrade program is being implemented as a part of our capital works program. Planning for these works includes ensuring that the cooling infrastructure meets potential future needs in a climate change impacted future.
+The high-quality cooling infrastructure in GPT’s buildings generates comfort conditions during heatwaves that allows for both business-as-usual and may also be a contributor to ‘community resilience’. In our retail assets, this may act as a drawcard for visitors seeking respite from the heat.
+Potential damage to infrastructure resulting in utilities service interruptions and access issues for assets • • GPT has developed a business continuity plan for major acute events and natural disasters including the management of service interruptions and constrained access to assets. Work is being done on hazard identification and asset-level climate adaptation plans.
+
+
+The GPT Group 2020 Climate Disclosure Statement 10 The GPT Group 2020 Climate Disclosure Statement 10. 
+Impact(s)
+Emissions scenario GPT’s response strategies for risk mitigation and maximising opportunities. 
+Low. 
+Medium. 
+High. 
+Higher than average temperatures. 
+Increases in capital for cooling upgrades • • Managing increased business intensity and occupancy density in GPT buildings is driving the need for increased cooling capacity in our buildings. A resulting infrastructure upgrade program is being implemented as a part of our life cycle capital works program and, during these upgrades, planning includes ensuring that the cooling infrastructure also meets potential future needs in a climate change impacted future.
+In a similar impact to heatwaves, the high-quality cooling infrastructure in our buildings generate comfort conditions that can act as a drawcard for our assets on hotter days where visitors seek respite from the heat.
+Increased operating expenditures for cooling • • GPT is investing in efficiency programs and air conditioning optimisation systems that are reducing the energy costs required to operate our buildings. The GPT Energy Master Plan is designed to manage energy costs through our electricity contracting process and demand management programs. GPT is also investing in on-site solar and battery projects to manage energy costs.
+Extreme weather events including floods, severe convection storms and cyclones. 
+Damage to buildings resulting in increased capital expenditure for repairs • GPT works with its insurers to model the potential of catastrophic events and ensure that we understand the risks and have appropriate insurances. Where major capital investments are made, GPT future proofs its buildings for potential extreme events. For example, in potentially flood prone areas, major plant is installed in higher levels of the buildings to minimise damage and disruption in the case of a flood.
+GPT has detailed business continuity, maintenance and asset replacement plans that it updates on a regular basis to take account of potential climate change impacts such as extreme weather events.
+From a longer-term perspective, GPT is investigating embedding resilience into its building design to better prepare for extreme weather events. For example, GPT used a weather impact analysis to investigate the impact of weather on venue performance and visitor behaviour for the Rouse Hill Town Centre Retail expansion project. The results of this analysis were used to inform the design response for existing parts of the venue and the proposed retail expansion, including the installation of additional wind/rain protection, shading for heat and air movers for cooling.
+Disruptions to operations •
+
+
+The GPT Group 2020 Climate Disclosure Statement 11 The GPT Group 2020 Climate Disclosure Statement 11. 
+Impact(s)
+Emissions scenario GPT’s response strategies for risk mitigation and maximising opportunities. 
+Low. 
+Medium. 
+High. 
+Tidal inundation from rising sea level. 
+Damage from direct flooding of assets • GPT has reviewed all its assets for the threat of tidal inundation at current highest tides plus 0.74 metres, in line with a high emissions scenario for 2100. The portfolio is assessed as having minimal potential risk.
+Flooding of local infrastructure or communities making the assets inaccessible or isolated from business • • GPT has reviewed all its assets for the threat of tidal inundation at current highest tides plus 0.74 metres, in line with a high emissions scenario for 2100. The portfolio is assessed as having minimal potential risk.
+Bushfire Direct threats from bushfires such as impacts on air quality as well as threats to surrounding infrastructure such as power and roads • • • GPT’s operations are largely confined to central business districts and industrial precincts resulting in limited direct threat to our assets.
+Our planning also considers indirect threats such as the impact on surrounding infrastructure and air quality. The quality of our assets, in particular ventilation and filtration systems, positions them well to deal with such events.
+Drought Availability of water for business as usual operations • • While GPT is mindful of the increased risk of drought, the Group does not have investments in regions of Australia that are worst impacted.
+GPT has implemented a water efficiency strategy that has resulted in an ~40% reduction in water intensity of its assets over the past 15 years.
+We continue to investigate strategies for reducing both our water usage and the use of drinking water for operations.
+Increased price of water • • •
+Increased regulatory requirements regarding the allowable uses of water • • •
+
+
+The GPT Group 2020 Climate Disclosure Statement 12. 
+Energy Strategy. 
+GPT’s Energy Master Plan takes a holistic approach to energy management with a view to limiting the impacts of the transition to a low carbon economy and possible changes in energy policy over time. To manage potential rising energy prices and tariff structures, GPT has developed the Plan to support the achievement of our net zero carbon emissions targets.
+Key elements of the Plan include: • Driving energy efficiency and delivering new on-site solar photovoltaic electricity projects • Procuring cost-effective, low-price volatility energy supply contracts with providers in order to manage GPT’s transition to net zero emissions • Electrifying our assets to minimise dependency on fossil fuels • A demand response program that utilises asset electricity generation infrastructure and manages electricity loads throughout the day • Utilising storage options to meet peak demand challenges. 
+While Australia has moved away from a carbon pricing model, it remains a policy option that could be reintroduced in the future and we have considered this under our low and medium emissions scenarios. We also expect electricity tariff structures to increasingly focus on when electricity is used, which will require improved consumption flexibility. The Plan aims to mitigate the risk of energy price rises from a carbon price while also minimising the impact of rising energy prices more generally. GPT aims to meet and exceed regulatory, tenant and investor expectations and requirements in relation to energy resilience and carbon reductions of our properties.
+Climate-resilient buildings. 
+GPT is constantly working to improve the physical resilience of its assets. One of the ways that we can achieve this outcome is through building design solutions.
+An example of how we plan to achieve this is our proposed retail expansion project at Rouse Hill Town Centre. We conducted a weather impact analysis to investigate the effect of rainfall and higher temperatures (over 30°C) on centre performance and visitor behaviour, analysing factors including visitation numbers, tenant sales, vehicle traffic to the site and customer traffic patterns within the venue. As a result of this analysis we will be undertaking a number of infrastructure upgrades to improve resilience against rain, wind and heat. These measures will improve comfort for visitors and enable us to leverage this opportunity with tenants and the community.
+Under both the medium and low emissions scenarios, we are likely to see increased demand from investors for climateresilient investments and increased demand from tenants for resilient and energy efficient buildings. Our strategic focus on physical resilience, energy efficiency and renewable energy maximises market opportunities presented by a transition to a low carbon economy.
+The GPT Group 2020 Climate Disclosure Statement 12
+
+
+The GPT Group 2020 Climate Disclosure Statement 13. 
+Offsetting residual emissions. 
+GPT’s approach to reducing or eliminating carbon emissions as part of our carbon neutral pathway is achieved in several ways, including reducing energy use by the implementation of energy efficiency programs, generating and purchasing renewable energy and eliminating gas use in buildings. Some emissions from waste can also be eliminated through improved recycling results and better management of our HVAC plant results in fewer refrigerant-related emissions.
+While we are making good progress, we are not able to yet eliminate all waste, gas or fugitive emissions. To address these residual emissions, GPT purchases carbon offsets. GPT’s approach involves offsetting every residual tonne of carbon that is emitted in areas within our control in two ways: 1. Purchasing an offset that has one tonne of reduction in carbon emissions from a renewable energy project 2. One tonne of carbon sequestration through Australian reforestation projects. 
+While GPT believes this is currently the most credible approach to carbon offsetting residual carbon emissions, the Group will continue to review and adjust its approach as carbon offsetting matures.
+Embedding resilience strategies in the business. 
+At a portfolio level, GPT has established a cross-functional team (TCFD Reference Group) to develop and implement a strategic response to the potential transitional and physical risks that arise from climate change. The Group’s response will evolve and be adjusted as our understanding about the likelihood of various scenarios improves. An important contributor to this will also be the work undertaken by participants in the wider property industry, in conjunction with local and regional governments, to better align strategies and manage responses.
+GPT’s TCFD Reference Group will now focus more on work at individual asset levels. In a similar manner to the capacity building process for the Board and senior management, asset managers and development managers will be trained and guided through the scenario framework to identify asset specific climate risks. These risks will be dealt with in accordance with GPT’s Risk Management Framework.
+Industry engagement and public policy. 
+GPT participates indirectly in climate change policy development through membership and active participation in a range of industry organisations, including the Property Council of Australia, the Green Building Council of Australia and the City of Sydney’s Better Buildings Partnership. GPT believes that the development of a shared response is important for the property industry as many climate change risks are shared and resilience is best created at a regional level.
+
+
+The GPT Group 2020 Climate Disclosure Statement 14. 
+Disclose how the organisation identifies, assesses, and manages climate change risks.
+• Describe the organisation’s processes for identifying and assessing climate change risks.
+• Describe the organisation’s processes for managing climate change risks.
+• Describe how processes for identifying, assessing, and managing climate change risks are integrated into the organisation’s overall risk management.
+TCFD Recommendations. 
+Risk Management. 
+GPT recognises that effective risk management is fundamental to achieving our strategic and operational objectives.
+By understanding and efficiently managing risk, GPT can create and protect value and provide greater certainty and confidence for investors, employees, business partners, and the communities in which we operate.
+Applying our enterprise-wide Risk Management Framework, GPT’s Risk Team monitors the operation of risk management processes and assists in the identification, assessment, treatment and monitoring of identified risks. The Risk Team also supports the GPT Leadership Team, Board sub-committees and the GPT Board in ensuring that the business is managing risk appropriately.
+Integrated approach to climate change risk management. 
+Climate change risks and potential financial impacts are assessed within GPT’s integrated Risk Management Framework and recorded in the Key Risk Dashboard, which is reviewed by the Sustainability and Risk Committee.
+The TCFD Reference Group identified and assessed the climate change risks and opportunities for each of the three climate scenarios adopted by GPT, as outlined in the Strategy section of this report, by applying GPT’s Risk Assessment Matrix and Consequence Table, which define measures of likelihood and consequence. Categories in the Consequence Table include strategy and financial, operations (people, processes and systems), community and reputation, legal and compliance, health and safety, and environment. The likelihood assessment of physical climate risks was based on the degree to which the frequency of the event is expected to change in the future under the three climate scenarios. Transition risk likelihood was assessed by considering the likelihood of policy, market, technology, and reputational changes impacting GPT based on the expected global emissions reduction ambitions under each climate scenario.
+The classification of identified risks based on a combination of likelihood and consequence allows GPT to prioritise the treatment of identified climate change risks and opportunities and to determine the possible magnitude of their impact under the different climate change scenarios.
+As a part of its ongoing risk assessment program, GPT intends to undertake ongoing analysis of the climate change risks and opportunities, the results of which will be used to update the Group’s risk registers and inform future management activities.
+The financial effects of GPT’s response to identified climate change risks and opportunities are embedded in our capital and operational expenditure plans, as noted in the Strategy section of this report. Our management of environmental issues is an important part of the GPT brand which contributes to tenants choosing our buildings and investors choosing to invest in our funds.
+
+
+The GPT Group 2020 Climate Disclosure Statement 15. 
+Disclose the metrics and targets used to assess and manage relevant climate change risks and opportunities where such information is material.
+• Disclose the metrics used by the organisation to assess climate change risks and opportunities in line with its strategy and risk management process.
+• Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+• Describe the targets used by the organisation to manage climate change risks and opportunities and performance against targets. 
+TCFD Recommendations. 
+Metrics & Targets. 
+GPT is committed to reducing its environmental impact and aspires to be an overall positive contributor to environmental sustainability by taking a leadership role in reducing carbon emissions across our operations.
+Beyond acting on things within our direct control, we seek to encourage our stakeholders to respond to climate change, reduce waste, manage water sustainably, and protect and enhance biodiversity.
+Our overarching goal is for all GPT Group assets to be carbon neutral before 2030. A key step in this was the announcement of a target for the GPT Wholesale Office Fund to achieve a carbon neutral position by the end of 2020. The Group is making good progress on the initiatives supporting these goals and remains on-track to meet these targets.
+Investment Portfolio – our buildings’ emissions. 
+GPT monitors its direct climate change impacts, and reports on its buildings’ emissions, energy, water and waste on a property by property basis annually. This information is publicly available in our Environment Data Pack, which includes a portfolio-level summary for all indices (electricity, water, fuels, materials, recycling and emissions) since 2005.
+GPT obtains external assurance over sustainability performance data including the following climate change metrics for its portfolio as follows: • Energy consumption and energy production in base building and tenancies (gigajoules) • Scope 1 greenhouse gas (GHG) emissions in tonnes of carbon dioxide equivalent (tCO2-e) • Scope 2 greenhouse gas (GHG) emissions in tonnes of carbon dioxide equivalent (tCO2-e) disclosing both a location-based and market-based result • Water consumption (kilolitres) • Waste inputs: total waste generated (tonnes) and materials recycled (tonnes) using an outcomes-based measurements method by and reporting recycling by grade (A grade, B grade, C grade)
+Defining Emissions. 
+Scope 1 – emissions released to the atmosphere as a direct result of an activity, or series of activities at a facility level. Scope 1 emissions are sometimes referred to as direct emissions. For a property portfolio, scope 1 emissions stem from gas burned for heating and hot water, diesel and gas burnt for electricity generation, including emergency backup electricity and the occasional refrigerant gases that leak from air conditioning systems.
+Scope 2 – emissions released to the atmosphere from the indirect consumption of an energy commodity. For example, ‘indirect emissions’ come from the use of electricity produced by the burning of coal in another facility.
+Scope 3 – indirect greenhouse gas emissions other than scope 2 emissions that are generated in the wider economy. For GPT’s property portfolio, we are principally focussed on reducing scope 3 emissions in areas over which we have strongest management control. We align with the Australian Government’s Climate Active boundaries for scope 3 reporting. For our buildings, this includes emissions from electricity and gas transmission losses and emissions from waste and water consumption.
+
+
+The GPT Group 2020 Climate Disclosure Statement 16 carbon metrics and understand where opportunities are to set targets for embodied carbon in the future.
+Our Organisation’s emissions. 
+The operations of GPT’s business premises, which includes travel and consumables, has been on a carbon neutral basis since 2011. GPT obtains external validation of its carbon neutral status through the Australian Government’s Climate Active certification (formerly NCOS). Climate Active certification covers material Scope 1, 2 and 3 emissions. GPT aims to reduce emissions through initiatives such as improving the energy efficiency of its offices and the use of technology to reduce the frequency of business-related flights. Those emissions that can’t be avoided are offset to ensure GPT’s net emissions from its operations are zero.
+Targets. 
+GPT sets annual operational targets for energy, water and waste at an asset level, driven by operational decisions, optimisation programs and capital upgrades. Medium to long-term operational emissions targets are also set at a portfolio level, overlaying energy procurement and offsetting decisions. We continuously monitor the pathway to carbon neutrality, prioritising energy efficiency and renewable energy to reduce emissions and using carbon offsets against any remaining emissions.
+Building performance targets are closely monitored throughout the year via GPT’s management reporting systems. Environmental metrics including energy intensity, water intensity, landfill tonnage and emissions intensity are KPIs on GPT’s Group Scorecard and are linked to compensation structures for members of senior management. At an operational level, asset specific KPIs are incorporated into the performance targets of property General Managers, Centre Managers and Operations Managers.
+In areas outside of our control, GPT aims to influence outcomes with a particular focus on supporting our tenants to reduce their emissions.
+GPT operates an Environmental Management System independently reviewed against ISO14001:2015 standards. Our focus is on Scope 3 emissions, which are those material impacts within our operational control, including emissions from waste, water and energy transmission losses. These emissions are considered within GPT’s operational control as we procure the services and/or manage the utilities from which the emissions occur. Therefore, GPT’s material Scope 3 emissions can be derived from the water consumption and landfill metrics. It should be noted that this is also the Australian Government’s Climate Active approach to measuring material scope 3 emissions from buildings.
+As outlined in our Climate Change and Energy Policy, GPT is committed to actively engaging with our stakeholders to reduce GHG emissions and energy use. These stakeholders include tenants, building occupants and visitors to GPT’s assets. GPT seeks to work with its tenants to provide them with pathways to minimise their emissions through initiatives such as lighting efficiency upgrades and the introduction of solar power installations.
+Embodied Carbon. 
+The majority of GPT’s buildings were built more than 10 years ago in a period where metrics on embodied carbon in new construction were not available to us. As a result, a baseline of the embodied carbon in our buildings is not available. Looking to future developments, we are beginning the process of forecasting the embodied carbon that would occur in construction and considering ways that we can reduce this embodied carbon. For example, in the planned Melbourne Central development, the building is designed with the primary framing of timber instead of the traditional steel and concrete approach. These new developments will allow GPT to establish embodied 571 314 -
+100 200 300 400 500 600 700 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Energy Intensity (MJ/m2)
+GPT Group Energy Intensity. 
+Office Retail Industrial Total 136 140 160. 
+O2/m2)
+GPT Group Emissions Intensity. 
+Chart 1 GPT Group Energy Intensity Chart 2 GPT Group Emissions Intensity 571 314 -
+100 200 300 400 500 600 700 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Energy Intensity (MJ/m2)
+GPT Group Energy Intensity. 
+Office Retail Industrial Total 160 2)
+GPT Group Emissions Intensity 571 314 -
+100 200 300 400 500 600 700 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Energy Intensity (MJ/m2)
+GPT Group Energy Intensity. 
+Office Retail Industrial Total 136 54 -
+20 40 60 80 100 120 140 160 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Emissions Intensity (kg of CO2/m2)
+GPT Group Emissions Intensity. 
+Office Retail Industrial Total 571 314 -
+100 200 300 400 500 600 700 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Energy Intensity (MJ/m2)
+GPT Group Energy Intensity. 
+Office Retail Industrial Total 136 54 -
+20 40 60 80 100 120 140 160 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Emissions Intensity (kg of CO2/m2)
+GPT Group Emissions Intensity. 
+Office Retail Industrial Total
+
+
+The GPT Group 2020 Climate Disclosure Statement 17. 
+Table 3 GPT’s Climate Change and Energy Targets and Performance. 
+Metrics / Key performance indicator Current performance 2020-2022 Medium to long term target. 
+GPT climate change impacts. 
+Base building carbon emissions intensity in kgCO2e/m2 (Scope 1 and 2) as a measure of GPT’s impact on climate change 54 kgCO2e/m2 at end 2019 49 kgCO2e/m2 at end 2020 Carbon neutral – 0 kgCO2e/m2 by 2030. 
+GPT Wholesale Office Fund base building carbon emissions certified carbon neutral (Scope 1, 2 and 3) by NABERS and Climate Active in alignment with GHG Protocols by end 2020 2 of 18 buildings certified carbon neutral by end 2019 18 of 18 buildings certified carbon neutral by the end of 2020. 
+Maintain. 
+Organisational carbon neutrality to eliminate GPT’s climate impact and deliver on a leadership position that meets expectations of GPT’s investors and tenants. 
+GPT has been a Carbon Neutral Certified organisation since 2011. (Certified by the Australian Government Climate Active program.)
+Maintain Maintain. 
+Base building energy intensity in MJ/m2 as the principal inherent source of scope 1 and 2 emissions risk 314 MJ/m2 at end 2019 308 MJ/m2 at end 2020 Targets set annually, based on portfolio size. 
+Reduction in waste to landfill through closed-loop recycling measured as a recycling rate. (Landfill is the principal source of scope 3 emissions from buildings.) 30.6% closed-loop recycling achieved in 2019 31% closed-loop recycling by end 2020. 
+Targets set annually, based on portfolio size. 
+Reduction in water consumption measured as base building water intensity in L/m2. (Water is a material scope 3 emission source and also water security is at risk due to climate change impacts.) 839 L/m2 at end 2019 Maintain water intensity while occupancy density increases. 
+Targets set annually, based on portfolio size
+
+
+The GPT Group 2020 Climate Disclosure Statement 18. 
+Metrics / Key performance indicator Current performance 2020-2022 Medium to long term target. 
+GPT metrics and targets responding to risk and opportunities from climate change. 
+Improve NABERS Star ratings (without Green Power) for office buildings to ensure GPT continues to exceed market expectations for energy performance. 
+Achieved average office portfolio rating of 4.9 Stars at end 2019. 
+Achieve portfolio rating of 5 stars or better by end 2021. 
+Maintain. 
+Install solar PV arrays on all assets where feasible to mitigate risks of rising energy costs 3.04MW of solar PV installed across the portfolio by end 2019 4MW of solar PV installed across the portfolio by end 2020 10MW of solar PV install across the portfolio. 
+Provide an option to all logistics tenants to have access to a rooftop solar PV supply to reduce their energy costs and meet growing stakeholder expectations. 
+A pilot rooftop array has been installed at one asset with business model for roll out approved 100% of logistics portfolio reviewed and a rooftop solar PV offer provided where feasible to tenants by end 2021. 
+Maintain 5 Star Design and As-built ratings or better for office and retail developments as an indicator of broad building resilience 5 Star Green Star certification achieved on 8 buildings since certification became available. 
+Achieve 5 Stars or better on all developments (office and retail)
+Maintain. 
+Climate adaptation planning developed to identify and manage asset specific climate risks and opportunities across the portfolio. 
+Melbourne Central Rooftop project has delivered GPT’s first development Climate Adaptation Plan. 
+Climate hazard identification to be completed for key assets by end 2020. 
+Plans to be completed for key assets by end 2022. 
+Climate adaptation planning to be incorporated in the design phase of major developments from 2020 onwards. 
+Maintain. 
+Lifecycle assessments (LCA) to include consideration of climate related impacts on plant and equipment. 
+Lifecycle assessments with consideration of climate change risks have been undertaken across the portfolio. 
+Include LCA findings in all asset climate adaptation plans by end 2022. 
+Maintain
+
+
+The GPT Group 2020 Climate Disclosure Statement 19. 
+Where we are today Next steps. 
+Governance The GPT Board provides oversight of the application and management of the GPT Risk Management Framework, within which climate change risks and potential financial impacts are assessed.
+The Board’s Sustainability and Risk Committee has responsibility for monitoring of climate change risks and opportunities in accordance with GPT’s Risk Management Framework, and tracking compliance with GPT’s Climate Change and Energy Policy.
+A Reference Group has been established to identify risks and opportunities and to assist management with embedding ongoing climate change risk identification and management processes.
+Progressing the integration of climate change risks and opportunities into GPT’s business planning and operations.
+Additional disclosure of how climate change risks and opportunities are factored into GPT’s activities.
+Strategy Target established for all GPT Group assets to be carbon neutral by 2030, with a key milestone in this strategy being for all GPT Wholesale Office Fund (GWOF) assets to be carbon neutral by the end of 2020.
+Plans in place for each sector portfolio to achieve carbon neutrality.
+Develop asset-level climate adaptation plans where appropriate.
+Further detailed analysis of climate scenarios and incorporate results into the Group’s 5-year strategic plans.
+All development approvals to consider embodied carbon.
+Risk Management Preliminary identification of key risks under three climate scenarios.
+Assessment of climate change risks and potential financial impacts within GPT’s Risk Management Framework, and reflected in the Group’s Risk Appetite statement.
+Undertake ongoing analysis of the climate risks and opportunities, the results of which will be used to update the Group’s risk registers and inform future management activities.
+Enhance approach to climate resilience through the embedding of climate change risk factors into business procedures including emergency management, workplace health and safety, and development briefs.
+Metrics & Targets Established a series of climate change and energy targets and performance indicators.
+Monitoring of GPT’s direct climate change impacts, and reporting on our emissions, energy, water and waste on a property by property basis annually.
+Adoption of relevant metrics to monitor and measure progress in managing climate change risks and opportunities.
+Establishment of embodied carbon metrics and targets for developments.
+The GPT Group 2020 Climate Disclosure Statement 19. 
+Next Steps. 
+Acknowledging that monitoring and managing climate change risks and opportunities is an on-going process, our priorities are outlined below.
+
+
+www.gpt.com.au

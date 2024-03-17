@@ -1,0 +1,571 @@
+01 SK hynix TCFD Report 2022. 
+SK hynix TCFD Report 2022
+
+
+C O N T E N T S 25. 
+Metrics & Targets 09. 
+Strategy & Risk Management 03. 
+Introduction 06. 
+Governance
+
+
+03 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Introduction. 
+SK hynix is keenly aware that more and more stakeholders are demanding systematic and detailed disclosure of the risks and opportunities that companies face due to climate change. We also believe that transparent climate-related disclosures for stakeholders will facilitate more informed decisions, contributing to the transition to a carbon-neutral society. Accordingly, SK hynix has disclosed climate change-related information in accordance with the TCFD recommendations in our sustainability report for the past three years. Going one step further, this year we have published a stand-alone TCFD report in an effort to raise the level of our climate-related disclosures.
+Our inaugural TCFD report published in 2022 contains a detailed analysis of climate-related risks and opportunities, as well as an analysis of various climate change scenarios. In particular, for climate change-related risks with high impact and likelihood, we have estimated and disclosed financial impacts quantitatively based on the scenario analysis to provide more useful information to investors.
+Estimating the future impacts caused by climate change over the long-term contains a great deal of uncertainty in itself. This is because the situation continues to change according to the complex interplay of socio-economic development paths and changes in the climate system. Nonetheless, efforts to reasonably estimate the magnitude of the impacts of climate change based on currently available information play a very important role in decision-making to minimize them. This is why SK hynix transparently discloses the results of our climate change scenario analysis through the publication of this TCFD report.
+We believe that this TCFD report is an important milestone in the journey of SK hynix, which pursues transparent disclosure of climate change information. We will further step up our efforts to reduce greenhouse gas emissions toward the goal of achieving net zero by 2050 and transparently disclose the progress to facilitate the transition to a carbon-neutral society.
+About this report. 
+Reporting boundaries. 
+This report covers our climate change response activities and performances at all business sites (Icheon, Cheongju, Bundang) in Korea and manufacturing sites in China (Wuxi, Chongqing).
+For data with a different reporting boundary, we have specified it for each data item. In addition, Dalian NAND flash manufacturing facility in China, for which we completed the first-phase acquisition process from Intel in December 2021, was not included in this analysis.
+For additional information and inquiries. 
+SK hynix ESG Strategy sustainability@skhynix.com
+
+
+04 SK hynix TCFD Report 2022. 
+Our Commitment to Climate Action. 
+Reducing greenhouse gas (GHG) emissions is more than an “environmental protection” issue, and is becoming a “matter of survival” for businesses. At the 26th UN Climate Change Conference of the Parties (COP26) held in Glasgow, UK, in 2021, countries revisited and strengthened the targets for cutting emissions by 2030 in their national plans. Major countries and companies around the world are scaling up their responses to climate change by announcing net zero targets and raising NDC ambitions. South Korea became the 14th country to legislate its commitment to become carbon neutral by 2050 as a pledge to the international community to actively respond to climate change.
+In 2020, SK hynix became the first memory chip maker to join the RE100 initiative with the aim to run its operations with 100% renewable electricity by 2050. In 2021, we also announced our goal to achieve net zero emissions by 2050, acknowledging our immense responsibility for climate response as a leading global semiconductor company. As a first step toward achieving this goal, we plan to achieve 100% renewable energy at overseas facilities by the end of 2022, and source 33% of our total global electricity use from renewables by 2030. Furthermore, we aim to maintain our absolute GHG emissions (Scope 1 & 2) by 2030 at 2020 levels through aggressive GHG reduction activities despite a significant increase in production with the operation of the. 
+Yongin Semiconductor Cluster, which is yet to be completed.
+Due to the characteristics of the semiconductor industry, it is not easy to achieve net zero while operating large-scale fabs in Asia, where the share of renewable energy generation is relatively limited. This is because fabs consume enormous amounts of energy, and there is currently no existing technology to replace fluorinated gases (F-gases) which are essential for the manufacturing process. However, we believe that proactive climate action will lead to responsible business operations, the creation of new business opportunities, and the improvement of corporate value in the long term. To this end, we will faithfully implement robust climate change response measures based on solid climate change governance, and reflect the impact of climate-related risks and opportunities in our long-term management strategies to achieve our goals. As part of this effort, we established the Carbon Management Committee under the ESG. 
+Management Committee in 2022, and set specific mid-term goals and action plans, including achieving 3,000 GWh of cumulative energy savings and reducing GHG emissions from process gases by 40% by 2030.
+The role of semiconductors has continued to expand across areas from big data and artificial intelligence to autonomous driving. Today, the semiconductor industry is more important than ever due to the geopolitical risks triggered by the global competition for technological supremacy on top of the vulnerabilities of supply chains exposed by the pandemic. This also means semiconductor companies now have a greater responsibility to combat climate change. We will continuously improve our climate change risk management system while sharing all these processes transparently. Please follow SK hynix’s journey toward a brighter future.
+04 Metrics & Targets Strategy & Risk Management Governance Introduction SK hynix TCFD Report 2022
+
+
+05 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction 2050 2030 •Committed to net zero emissions by 2050 • Established the 2022 RE100 implementation plans • Announced SV 2030, a long-term vision for Social Value • Became the first company in Korea to join RE1002) • Maintained the Hall of Fame Platinum Club status in CDP’s Climate Change program for 5 consecutive years • Won the CDP Excellence Award on Water Security • The Icheon/Cheongju sites acquired ZWTL3) Gold • Created an organization dedicated to ESG strategy • Established the ESG Management Committee • Launched a company-wide renewable energy task force • Developed the ESG strategy framework PRISM • Established the Carbon Management Committee • Committed to 100% use of renewable energy in overseas manufacturing sites •‌Achieve‌net‌zero‌emissions‌ •‌Fulfill‌the‌RE100‌commitment • Maintain Scope 1 & 2 GHG emissions at 2020 levels1) • Achieve 33% renewable electricity use • Create energy savings of 3000GWh (cumulative) • Reduce GHG emissions from process gases by 40% • Acquired ZWTL3)certification for all manufacturing sites • Launched ECO Alliance5) 2019 2021 2020 2022 • Joined the South Korean government’s renewable energy initiative (Right of Choice for RE) •Declared the 2022 ECO vision4) 2018 1) GHG emissions from the Dalian fab we acquired from Intel in December 2021 are not reflected in the target. Emission targets for new manufacturing sites such as the Dalian fab and Key Foundry, for which the acquisition contract was signed in 2021, will be announced later after a separate detailed analysis. 2) Six companies of SK group including SK hynix (seven companies as of July 2022) 3) Zero Waste to Landfill certification given by Underwriters Laboratories (UL). It quantifies the recycling rate excluding the weight of non-recyclable waste from the total weight of waste. 4) Our environment-friendly production target in 2018. One of the major targets is to reduce GHG emissions intensity by 40% by 2022 relative to the 2016 BAU baseline. 5) A joint council established by SK hynix to preemptively respond to environmental issues and strengthen environmental competitiveness with 30 companies (43 companies as of July 2022)
+Our Climate Action Timeline. 
+SK hynix recognizes the significance of the impact of climate change on the global environment and humanity, and has continued to make efforts to contribute to solving those problems.
+In 2020, we became the first Korean company to join RE100, pledging to use 100% renewable energy by 2050. In 2021, we announced a goal to achieve net zero emissions by 2050 as a company-wide vision to address climate change. At the organizational level, we have established a system to set, promote, and implement climate change strategies by creating a department dedicated to ESG strategy, the ESG Management Committee, and the Carbon Management Committee. We will seek to further solidify our position as an eco-conscious semiconductor company by maintaining Scope 1 and 2 emissions by 2030 at 2020 levels by making all-out efforts to reduce GHG emissions continuously.
+
+
+06 SK hynix TCFD Report 2022. 
+Climate action of SK hynix begins with a transparent and efficient corporate governance. SK hynix’s Board of Directors is the company’s top decision-making body. The board manages and supervises whether ESG factors, including climate change issues, are reflected in the company’s long-term business strategy. Senior executives continue to upgrade their internal decision-making processes to wisely respond to climate change risks, discover new opportunities, and create values.
+SK hynix will continue to establish a stronger corporate governance to review climate change issues from a mid- to long-term perspective and reflect the results in corporate operations.
+Governance. 
+Metrics & Targets Strategy & Risk Management Governance Introduction
+
+
+07 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Climate change governance. 
+Board of Directors' Oversight and Supervision. 
+SK hynix’s Board of Directors (BOD), the highest decision-making body of the company, oversees and ensures that ESG factors, including climate change issues, are reflected in the company’s long-term business strategy. In particular, the Sustainable Management Committee, a subcommittee within the BOD, thoroughly reviews whether climate change response strategies are integrated into all business areas, and provides guidelines to create synergy by linking mid- to long-term business strategies with climate action plans.
+The Sustainable Management Committee, which consists of three Independent directors and one executive director (CEO), specializes in deliberating on company-wide ESG strategies and activities, including climate change responses, and is convened once a quarter. The agenda of the Sustainable Management Committee can be submitted through the ESG Management. 
+Committee or directly from the working-level organization if necessary. In particular, climate-related issues that have a significant impact on management and financial strategies, such as the long-term climate goal “net zero,” require discussion and decision-making at the board level. In 2021, the Sustainable Management Committee discussed the status of our net zero commitment and the progress of RE100 implementation.
+Board of. 
+Directors. 
+Carbon Management Committee. 
+Climate Change Roundtable. 
+ESG Management Committee. 
+Sustainable Management Committee. 
+Board Level. 
+Management Level. 
+Purpose and function Oversight and deliberate key ESG strategies and activities including climate change responses. 
+Chairperson. 
+Independent director. 
+Composition 3 Independent directors, 1 executive director. 
+Reporting system. 
+Reporting agenda items to the Board of Directors. 
+Sustainable Management Committee
+
+
+08 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Responsible Climate Change Management. 
+SK hynix management has continued to improve its internal decision-making process to mitigate climate change risks and uncover new opportunities.
+First, in 2021, we launched a department dedicated to ESG strategy and created the ESG Management Committee chaired by the CEO. At monthly ESG Management Committee meetings, about 10 executives from major departments, such as Corporate Strategy & Planning, R&D, Manufacturing/Technology, and Safety Health & Environment (SHE), discuss ESG issues including climate change responses, establish concrete implementation strategies and goals, and regularly assess our progress and achievements.
+In 2022, the Carbon Management Committee was formed under the ESG Management Committee with the head of Manufacturing/Technology as the chairman. The Carbon Management. 
+Committee is composed of seven working groups dedicated to tasks such as setting GHG reduction targets, saving energy, and procuring renewable energy, and reports the progress to the. 
+ESG Management Committee once a quarter. In addition, SK hynix operates the Climate Change Roundtable comprised of executives from marketing, finance, and other support functions such as IR/PR/CR, in addition to R&D and manufacturing. The Climate Change Roundtable analyzes climate-related risks and opportunities and their potential impact, and is responsible for pre- deliberation/review of climate-related issues that are referred to the ESG Management Committee.
+“The Carbon Management Committee is a consultative body responsible for forecasting our future GHG emissions as well as establishing and implementing reduction strategies. GHG reduction efforts cannot be made independently by one particular department. All related teams must play their part systematically.
+Under the Carbon Management Committee, seven working groups cover different areas including the chipmaking process, energy saving, and supply chain management. We review and update the implementation targets and check the progress of each group every month to achieve tangible reductions.”
+Kim Young-sik | Vice President and the head of Manufacturing/Technology. 
+Message from the chairman of the Carbon Management Committee. 
+Carbon Management Committee ESG Management Committee. 
+A consultative body chaired by the CEO that discusses mid- to long-term ESG strategies and key issues. 
+Purpose and function A working committee under the ESG Management Committee tasked with implementing climate change responses and achieving net zero goals. 
+CEO. 
+Chairperson. 
+Head of Manufacturing/Technology. 
+Key executives including the CEO. 
+Composition. 
+Executives from key departments including R&D, manufacturing. 
+Reporting to the Sustainable Management Committee. 
+Reporting system Reporting to the ESG Management Committee
+
+
+09 SK hynix TCFD Report 2022. 
+Since the impact of climate change risks and opportunities depends on business characteristics and management policies, it is very important to identify and analyze significant climate risks to our company and establish a strategy to respond to climate change. SK hynix identified key climate change risks and opportunities through a materiality assessment and analyzed the financial impact of those factors on our company. In addition, through the scenario analysis process, we selected scenarios suitable for transition/physical risk analysis, identified the financial impacts, and established mitigation measures.
+SK hynix recognizes climate change as a significant risk and integrates it into enterprise risk management. In the future, we will effectively respond to climate risks by understanding the impact of climate change on our business operations and strategies through upgrading our financial impact analysis methodology.
+Strategy‌&‌Risk‌Management. 
+Metrics & Targets Strategy & Risk Management Governance Introduction
+
+
+10 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+J I b H B 5 7 A. 
+F G a E 4 e 6 c 1 f 3 h D K d 8 C g i 2. 
+Likelihood. 
+Key risks and opportunities. 
+Impact. 
+Key Climate-related Risks and Opportunities. 
+Materiality Assessment Matrix for Climate-related Risks and Opportunities. 
+SK hynix organized a pool of climate change risk and opportunity factors through regulatory policy and industry analysis, stakeholder surveys, studies, and expert opinion analysis, and subsequently conducted a materiality assessment based on the likelihood and impact. As a result of the analysis, the top 10 factors with high likelihood and impact were identified as key climate change risks and opportunities for SK hynix.
+A Pool of Our Climate-related Risks and Opportunities. 
+Transition‌risks Physical‌risks Opportunities. 
+Policy/ legal. 
+Enhanced GHG emissions regulations and policies. 
+Acute. 
+Heat Waves. 
+Resource efficiency. 
+Saving operating costs by recycling resources and reducing water consumption. 
+Unstable electricity supply and increasing electricity prices due to fossil fuel regulations Typhoon Adopting high-efficiency manufacturing processes. 
+Increased obligations to disclose climate-related information Floods Energy source. 
+Eco-friendly and low carbon policy incentives. 
+Litigation related to climate change issues Wildfires. 
+Products/ services. 
+Gaining a competitive advantage by reducing the product carbon footprint. 
+Techno -logy. 
+Transitioning manufacturing processes and facilities to low carbon technologies Drought Creating new demand for nextgeneration memory by developing low-power/high-efficiency products. 
+Increased costs for low-power/highefficiency product development. 
+Chronic. 
+Rising mean temperatures Market Access to new markets for climate change response. 
+Increased costs for building backup power infrastructure in response to renewable energy instability. 
+Changes in precipitation patterns. 
+Resilience. 
+Expanding renewable energy procurement in line with the RE100 initiative. 
+Market. 
+Increasing customer demand for carbon reduction associated with climate change Rising sea levels. 
+Diversification of raw materials resources and use of alternative materials for climate response. 
+Increase in raw materials price volatility associated with climate change Yellow dust. 
+Reduced demand for products due to a shift in consumer preferences. 
+Reputation. 
+Changes in the demands and expectations of stakeholders in relation to climate change 2
+1 3
+4 5
+6 7
+8. 
+A
+C. 
+D
+B. 
+E
+F. 
+I
+J. 
+K
+H. 
+G a
+b c
+d e
+f g
+h i. 
+Key risks and opportunities. 
+Subject to financial impact analysis based on climate change scenarios done in this report
+
+
+11 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Financial Implications and Mitigation Activities of Key Climate-related Risks and Opportunities. 
+SK hynix classifies the impacts of key factors identified by the materiality assessment of climate-related risks and opportunities into short/medium/long-term, and reports the financial implications and mitigation activities of each factor as follows.
+1) As part of our efforts to meet stakeholders’ non-financial demands, we seek opportunities to create value with our customers while addressing their needs from a company-wide perspective and working with customers.
+Transition‌Risks Shortterm Mediumterm Longterm Financial‌Implications Mitigation‌Activities. 
+Policy/ legal. 
+Enhanced GHG emissions regulations and policies • Increased compliance costs related to climate change policies such as global regulations on GHG emissions and technology, and carbon taxes • Increased cost of purchasing emission permits in K-ETS due to the reduction of national emission allowances allocation coupled with an increased share of auction allowances • Identify domestic and international climate change policy/ regulatory trends and analyze the potential cost of purchasing emission permits • Establish mid- to long-term GHG reduction goals and action plans. 
+Unstable electricity supply and increasing electricity prices due to fossil fuel regulations • Loss caused by production delay/interruption due to unstable power supply • Cost increase due to increased electricity prices • Build self-generation power facilities at plants in Korea • Install an uninterruptible power supply capable of generating power in the event of a power outage, and introduce a central monitoring system. 
+Techno- logy. 
+Transitioning manufacturing processes and facilities to low carbon technologies • Increased investment in GHG reduction facilities and energyefficient equipment and technology • Increased R&D and process improvement costs due to the introduction of low carbon technology • Reduce GHG emissions and promote energy efficiency by developing high-efficiency scrubbers • Establish mid- to long-term energy reduction goals, and develop and implement annual energy-saving plans • Develop low GWP process gases and process technology through supply chain collaboration. 
+Market Increasing customer demand for carbon reduction associated with climate change • Increased costs to meet customer’s demands to fulfill RE100 and net zero commitments • Decreased revenue resulting from failing to meet customer demands • Establish response plans and mid- to long-term strategies for carbon reduction-related demand from customers through the Stakeholder Account Councill1), and strengthen partnerships • Expand renewable energy sourcing through the Green Premium program and REC purchases. 
+Physical‌Risks Shortterm Mediumterm Longterm Financial‌Implications Mitigation‌Activities. 
+Acute Heat waves • Increased costs due to increased use of centrifugal refrigerating machines in manufacturing facilities • Cost increase due to increased use of air conditioners in office buildings • Improve the efficiency of equipment whose power consumption fluctuates and continuously monitor the power usage • Optimize operational efficiency of fab facilities and room temperature control. 
+Chronic Rising mean temperatures • Increased capacity of centrifugal refrigerating machines in new manufacturing facilities • Increased capacity of air conditioning equipment in office buildings • Reduce cooling costs by designing energy-efficient buildings • Devise and implement improvement measures by monitoring energy consumption
+
+
+12 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Opportunities Shortterm Mediumterm Longterm Financial‌Implications Mitigation‌Activities. 
+Energy source. 
+Eco-friendly and low carbon policy incentives • Reduced investment or financing costs due to the use of policy subsidies/incentives • Review the possibility of using subsidies when investing in renewable energy, waste heat recovery facilities, and energy-efficient equipment. 
+Products/ services. 
+Gaining a competitive advantage by reducing the product carbon footprint • Increased revenue by gaining a competitive advantage by developing low carbon-footprint products • Reduced energy costs by improving the energy efficiency of the manufacturing process to reduce carbon footprint • Strengthen product LCA analysis and third-party verification • Improve emission-intensive processes and develop alternative process gases. 
+Creating new demand for next-generation memory by developing low-power/highefficiency products • Increased revenue by creating demand for next-generation semiconductors • Increased operating profit with a price premium for low-power/high-efficiency products • Develop new low-power/high-efficiency technology through R&D innovation. 
+Resilience. 
+Expanding renewable energy procurement in line with the RE100 initiative • Mitigation of electricity price risks caused by mid- to longterm changes in fossil fuel prices through renewable energy procurement using long-term power purchase agreements (PPAs) • Establish the 2050 RE100 implementation plan and conduct economic analysis by utilizing renewable energy procurement options. 
+Financial Implications and Mitigation Activities of Key Climate-related Risks and Opportunities (cont’d)
+
+
+13 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Climate Change Scenario Analysis. 
+Process. 
+We have identified the financial impacts of climate-related risks and opportunities for SK hynix, and conducted a three-step climate change scenario analysis to develop plans in response to the international community’s demand for carbon neutrality.
+We have assessed the potential financial implications of each of the key risk factors with the greatest impact (“enhanced GHG emissions regulations and policies” among transition risks and “Heat waves” among physical risks). We took into account only the primary impact that is directly reflected in the income statement, and did not analyze secondary impacts (e.g., decreased revenue caused by reduced productivity due to heat waves).
+The transition risk analysis is based on the Network for Greening the Financial System (NGFS) scenarios released in June 2021 while key assumptions were made with South Korea's nationally determined contribution (NDC) targets for 2030 and 2050 carbon-neutral scenario (finalized at the Cabinet meeting in October 2021) were used for key assumptions.
+The NGFS climate change scenarios are developed using the Integrated Assessment Model (IAM)1) that captures the interactions among climate change policy, the energy industry, and the macroeconomy. It is considered a credible scenario that is also used by the Bank of Korea to assess the impact of climate change transition risks on the real economy.
+1) Scenario analysis in this report is based on the GCAM analysis results, which enables country-level analysis of Korea and China, where SK hynix’s plants are located, among the three IAM models used by NGFS.
+Scenario application • Identify the impact on the company by scenario and develop response plans. 
+Scenario selection • Classify transition risks and physical risks, and select and compose climate change scenarios that can reflect the characteristics of each risk.
+Definition of key risks • Define key risks based on likelihood and impact
+
+
+14 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction 1) The change in global surface temperature in 2081–2100 relative to the pre-industrial period. 2) The carbon price of NGFS is a potential carbon price derived by taking into account the carbon-neutral targets and the marginal abatement cost of an incremental tonne of greenhouse gas emissions at the national level. The actual price forecast under the emissions trading scheme may differ from the scenario forecast depending on government policies, the speed of change in the energy industry structure, and the expectations of participants. 3) The KMA developed a high-resolution detailed climate change scenario (1km) for South Korea based on a low-resolution (135 km) global climate change scenario using the standard experimental system of the Coupled Model Intercomparison Project Phase 5 (CMIP5) used by IPCC. Source: NGFS. (2021). NGFS Scenarios Portal. Network for Greening the Financial System (NGFS); IPCC. (2014). Climate Change 2014 Synthesis Report, Fifth Assessment Report; KMA. (2021). Climate Change Scenarios, KMA Climate Information Portal, http://www.climate.go.kr/home/
+Furthermore, as South Korea has made carbon neutrality implementation into law (The Framework Act on Carbon Neutrality and Green Growth to tackle the climate crisis), we reflected the government’s carbon neutrality plan in our key assumptions such as GHG reduction targets and emission allowance allocation plans for domestic operations. We assumed that the government would achieve the NDC targets by lowering the cap on national emission allowances allocation, and assumed the NGFS carbon price2) as the emissions trading price.
+For physical risks, we use the Korea Meteorological Administration (KMA)’s detailed climate change scenario for South Korea3) that applied statistical downscaling based on the Representative. 
+Concentration Pathways (RCP) scenario. The RCP scenario is used in the Fifth Assessment Report (2014) of the Intergovernmental Panel on Climate Change (IPCC), which is deemed the most credible for physical risk analysis. This scenario is suitable for analyzing physical risks such as natural disasters because it directly refers to rising temperatures based on the GHG concentrations.
+Climate Scenarios for Our TCFD Report 2022. 
+Net Zero 2050 Below 2℃ RCP 2.6 RCP 8.5. 
+Transition‌risks Physical‌risks. 
+Projected temperature increase1)
+Source 1.5℃
+NGFS 1.7℃
+NGFS 0.3℃ ~ 1.7℃
+IPCC 2.6℃ ~ 4.8℃
+IPCC. 
+Achieving net zero by 2050 by aggressively and immediately reducing GHG emissions with strict climate-related policies. 
+The case in which the Earth can recover from the effects of human activities by immediately reducing GHG emissions. 
+Much of the climate change policy is implemented, but responses are not as aggressive as those in the 1.5℃ scenario. 
+The case in which GHG is emitted at current rates without reduction (BAU scenario)
+
+
+15 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction 1) An abbreviation for business as usual; the projected greenhouse gas emissions assuming no additional GHG reduction.Source: NGFS. (2021). NGFS Scenarios Portal. Network for Greening the Financial System(NGFS)
+Results of Financial Impact Analysis. 
+Many countries, including Korea, are operating an Emissions Trading system (ETS) as a policy tool to reduce greenhouse gas emissions.
+Emission allowances are allocated to companies subject to the ETS, either for free or through auctions, and must purchase emission permits for the excess amount. As the Korean government recently raised the 2030 NDC targets and implemented a strong carbon emission regulation policy, the previously allocated carbon emission quota will likely be adjusted lower, and free allowance allocation will likely be reduced.
+In line with this trend, we recognized GHG emissions as our direct and indirect costs, and analyzed the financial impact of “enhanced GHG emissions regulations and policies,” which was identified as a key transition risk. Considering the three hypothetical factors – the reduction of national emission allowances allocation, the increase in allowances through auctions, and the emissions pathways of NGFS climate scenarios, we estimated the GHG emissions that we will be responsible for based on our BAU1) emissions forecast by 2050. In order to estimate the cost burden, we used the carbon prices of the GCAM5.3 model provided by NGFS.
+Transition‌risk Enhanced GHG emissions regulations and policies. 
+Conceptual Diagram of Estimated GHG Emissions(left) and Carbon Prices(right) in the Net Zero 2050 Scenario 2025 2035 2021 2045 2050 2030 2040 1000 750 500 250 0. 
+USD 2021 2025 2050 2045 2040 2035 2030. 
+Based on the Net Zero 2050 scenario that takes into account South Korea's NDC targets, the financial impact of “enhanced GHG emissions regulations and policies” on SK hynix in 2030 was estimated to be 1.4% of revenue. Through this analysis, we confirmed that the GHG emissions and cost burden in the Net Zero 2050 scenario are higher than in the Below 2℃ scenario, and the transition risks and financial impacts increase as we approach 2050. We will proactively engage in reduction activities such as RE100 implementation and process gases reduction based on strategic decision-making in order to reduce the financial impact of mid- to longterm GHG emissions.
+Analysis Results : GHG emissions pathway : Emissions needed to be mitigated SK hynix’s BAU emissions. 
+Net Zero 2050 (Korea) Net Zero 2050 (China)
+
+
+16 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Heat waves have increased in intensity and frequency due to climate change. Rising air and water temperatures due to heat waves are disturbing the ecosystem and directly or indirectly affect society and the economy, including the health, energy, and transportation sectors. In addition, rising outside temperatures will likely increase the cooling load of manufacturing facilities and buildings, and, in turn, raise power consumption. We defined the number of heat waves days as “the number of days in a year when the maximum daily temperature is 33℃ or higher1),” and analyzed the heat waves exposure of manufacturing sites in Korea (Icheon, Cheongju, Yongin) and China (Wuxi, Chongqing)2) based on the RCP scenario. Given that this is an analysis of mid-to long-term impacts, we included the Yongin site, which will be completed later, in the analysis.
+As a result of comparing the number of heat waves days by manufacturing site and scenario with the number of heat waves days in 20103), which is the base year, both RCP 2.6 and RCP 8.5 scenarios in 2030 do not show a significant change with the increase or decrease of fewer than 10 days compared to the base year. However, a significant increase is expected in 2050. In particular, based on RCP 8.5 in 2050, the number of heat waves days is forecasted to increase by 30 days at the Icheon site, 24 days at the Cheongju site, 28 days at the Yongin site, 10 days at the Wuxi site, and 21 days at the Chongqing site compared to the base year.
+Physical‌risk Heat Waves. 
+Changes in Number of Heat Waves Days 1) Definition based on the criteria of KMA 2) An analysis on heat waves exposure in China was done based on the criteria of the China Meteorological Agency (CMA), which is defined as “the number of days in a year when the maximum daily temperature is 35℃ or higher.” 3) The number of heat waves days in the base year of 2010 was counted as 10 days at the Icheon site, 10 days at the Cheongju site, 8 days at the Yongin site, 7 days at the Wuxi site, and 17 days at the Chongqing site.
+(Changes in number of heat waves days, Base year: 2010) Yongin Icheon Wuxi Chongqing Cheongju 2030. 
+RCP 8.5 RCP 2.6 7
+5 5 6
+9 1 1 5
+8 -1. 
+RCP 8.5 RCP 2.6 21 10 28 24 30 13 6
+13 10 15 2050
+
+
+17 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+The financial impact was estimated based on the cost of electricity used for air conditioners and centrifugal refrigerating machines in our domestic operations caused by the increase in the number of heat waves days. The air conditioning cost was estimated by using the additional electricity required for heat waves days per air conditioner based on monthly air conditioner usage data and the number of air conditioners at each manufacturing site. The electricity cost of centrifugal refrigerating machines was estimated based on the additional electricity cost per m2 of semiconductor manufacturing facilities at each site and the total area of semiconductor manufacturing facilities at each site. The Yongin site, which is yet to be completed, was estimated based on forecasts reflecting future production plans.
+Climate change scenarios are a useful tool for an organization to develop an understanding of how the risks and opportunities associated with climate change may impact its businesses and strategies over time. This means that the purpose of climate change scenario analysis is not to accurately predict the future, but to find appropriate response measures by identifying implications for uncertain future events. Since scenario analysis is based on probable hypotheses rather than a definitive future, it has its own uncertainties and limitations. This means that scenario analysis is a dynamic activity that needs to be improved continuously. As we are deeply aware of this, we will continue to improve the quality of analysis by gradually expanding the scope and level of key considerations such as major assumptions and variables required for scenario analysis.
+Based on the RCP 8.5 scenario, the financial impact of the heat waves in 2030 was estimated to be 0.16% of the power cost. This shows that the additional electricity cost in summer due to heat waves accounted for a small proportion of the power cost, which is manageable. However, in order to respond to heat waves, a natural disaster, from a longterm and multifaceted perspective, we will strive to minimize the impact of heat waves on our business by continuously improving energy efficiency in our operations and building self-generation facilities at manufacturing sites in Korea.
+Analysis Results Results of Heat Waves Exposure Analysis 2030 2050. 
+Yongin site. 
+South Korea. 
+South Korea. 
+South Korea. 
+South Korea. 
+Cheongju site. 
+Icheon site. 
+China. 
+Chongqing site. 
+Wuxi site. 
+Yongin site. 
+Cheongju site. 
+Icheon site. 
+China. 
+Chongqing site. 
+Wuxi site. 
+Yongin site. 
+Cheongju site. 
+Icheon site. 
+China. 
+Chongqing site. 
+Wuxi site. 
+Yongin site. 
+Cheongju site. 
+Icheon site. 
+China. 
+Chongqing site. 
+Wuxi site (Changes in number of heat waves days, Base year: 2010) <0 11-20 0-10 21-30 >30. 
+RCP 2.6 RCP 8.5
+
+
+18 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Water Stress Analysis. 
+Considering the current locations of SK hynix’s operations, the possibility of drought, one of the physical risks, is considered to be very low, so no related financial impact was analyzed in this climate change scenario analysis. However, considering the water-intensive nature of the semiconductor industry, we analyzed the exposure to water stress in our manufacturing sites in Korea and China (Icheon, Cheongju, Yongin, Wuxi, Chongqing) using the Aqueduct Water Risk Atlas provided by the World Resources Institute (WRI). The water stress for the base year (1960-2014) and 2030 is divided into five ratings (Low, Low-medium, Medium-high, High, and Extremely high). We used SSP3 RCP 8.5, a pessimistic scenario that maximizes the physical risks defined by the Aqueduct Water Risk Atlas, for the 2030 scenario.
+Sites whose water stress rating changes in 2030 compared to the base year are in Icheon, Yongin, and Wuxi. The water stress rating changes from “High” in the base year to “Low-medium” in 2030 at the Icheon site; from “Medium-high” to “High” at the Yongin site; from “Low” to “Extremely high” at the Wuxi site.
+Low [<10%] Medium-high [20-40%] Low-medium [10-20%] High [40-80%] Extremely high [>80%]
+Results of Water Stress Analysis. 
+Base year (1960-2014) data1) Based on the SSP3 RCP 8.5 scenario in 2030. 
+Yongin site Yongin site. 
+Icheon site Icheon site. 
+Cheongju site Cheongju site. 
+Chongqing site. 
+Chongqing site. 
+Wuxi site Wuxi site. 
+China China South Korea South Korea 1) Analyzing the water stress based on a broader geographical boundaries, specifically using the location of the manufacturing site by city, the Yongin and Wuxi sites would receive the “High” rating in the base year (in addition to the Icheon site). Source: World Resources Institute. (2021). Aqueduct Water Risk Atlas, World Resources Institute (WRI), https://www.wri.org/data/aqueduct-water-risk-atlas/.
+
+
+19 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction 2030 Goals(Base Year: 2020) Description. 
+Restore. 
+Climate Action. 
+Maintain scope 1 and 2 GHG emissions at 2020 levels1) GHG emissions around 7.55 million tCO2eq. 
+Reduce GHG emissions intensity by 57% (by 2026) Scope 1 & 2 emissions per unit of production (bit)
+Create energy saving of 3000 GWh (cumulative) Accumulated energy savings by replacing highefficiency equipment and optimizing operations. 
+Achieve 33% renewable electricity use Percentage of electricity sourced from renewable energy across global sites. 
+Water Stewardship. 
+Conserve 600 million tons of water (cumulative) Accumulated amount of water saved by reducing water consumption and expanding water reuse, etc.
+Reduce water withdrawal intensity by 35% (by 2026) Water withdrawals per unit of production (bit)
+Circular Economy Receive ZWTL Gold (99%) certification Increase diversion rate to 99% at domestic sites. 
+Innovate. 
+Sustainable Manufacturing. 
+Reduce GHG emissions from process gases by 40% Reduction of GHG emissions from process gases used in the manufacturing process. 
+Improve the destruction and removal efficiency of abatement systems to 95%
+Increase the efficiency of scrubbers installed at fabs across global sites. 
+Green Technology. 
+Double HBM energy efficiency. 
+Improvement in product energy efficiency Increase eSSD energy efficiency by 1.8 times. 
+SK‌hynix’s‌ Climate‌Action 1. 
+Restore the environment to preserve the planet. 
+Innovate our technology for tomorrow 1) GHG emissions from the Dalian fab we acquired from Intel in December 2021 are not reflected in the target. Emission targets for new manufacturing sites such as the Dalian fab and Key Foundry, for which the acquisition contract was signed in 2021, will be announced later after a separate detailed analysis.
+PRISM‌Framework‌ and‌2030‌Goals. 
+In 2022, we developed PRISM, SK hynix’s ESG strategy framework that reflects the ESG-related demands of various stakeholders. To strengthen our ESG commitments, we set concrete 2030 goals for each of the five pillars of PRISM -
+Pursue, Restore, Innovate, Synchronize, and Motivate - with step-by-step plans to achieve them. The goals related to climate change responses are established in the R(Restore) and I(Innovate), the second and third pillars of PRISM. We will transparently share the progress of our efforts to respond to climate change. For more details on PRISM, please read the. 
+SK hynix Sustainability Report 2022.
+
+
+20 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+SK hynix has committed to net zero emissions by 2050 and is actively promoting the use of alternative gases with lower global warming potential and the reduction of process gases used in the manufacturing process to reduce greenhouse gas emissions.
+Recognizing the importance of managing fluorinated gases (F-gases) used in the manufacturing process, we have set goals to reduce GHG emissions from process gases such as F-gases by 40% by 2030 relative to 2020. To this end, we have assessed GHG emissions by the types of process gases and established a reduction plan for certain gases with a high contribution to emissions. For example, we are considering replacing NF3 gas, currently used in the dry cleaning process, with F2 gas that does not emit greenhouse gases.
+We are also working on improving abatement systems that treat fluorinated gases while continuing to install water-free scrubbers. In 2021, we installed 25 de-NOx devices and 6 de-NH3 devices in the existing abatement systems, reducing air pollutant emissions by 74% relative to 2020. In addition, we are reviewing intensive investment in NOx reduction equipment for existing fabs that emit relatively high GHG and NOx due to aging equipment, as well as seeking to reduce the power required for the operation of scrubbers by adjusting power consumption according to the required flow rate. We plan to expand wastewater- reducing scrubbers while researching low-temperature catalytic scrubbers that are highly efficient even at low temperatures, and other low-power scrubbers that use reaction gases. We strive to develop a range of technologies to increase the scrubber’s destruction and removal treatment efficiency from the current 90% - performance measured at domestic sites as of the first half of 2022 – to 95% by 2030 across global sites.
+Reduction‌of‌ GHG‌Emissions‌in‌ Manufacturing‌Processes‌
+SK‌hynix’s‌ Climate‌Action 2
+
+
+21 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+In 2020, SK hynix joined RE100 and announced an interim goal to “achieve 33% of its total global electricity use via renewable energy by 2030.”
+SK hynix aims to run all of its manufacturing sites - both in Korea (Icheon, Cheongju) and China (Wuxi,
+Chongqing) - and a subsidiary in San Jose, USA, by sourcing 100% renewable electricity by 2050. We plan to achieve our RE100 aspiration by procuring renewable energy through KEPCO’s Green Premium program, renewable energy certificates (RECs), and power purchase agreements (PPAs).
+Since renewable energy purchase policies and systems vary by country and region, it is important to develop a plan specific to each region. To this end, we formed regional renewable energy task forces (TFs) in 2020 to monitor regional market conditions and policy changes. Each TF draws up a localized plan by establishing a region-specific process to inspect the procurement of renewable energy. In addition, they closely engage with the respective governments and local communities for public advocacy, and explore optimal implementation methods by continuously communicating with renewable energy generators. We plan to progress towards the goal of RE100 by 2050 by setting renewable energy implementation strategies for each site and making continuous efforts to transition to renewables.
+RE100 RE 33. 
+Procure 33% of electricity from renewable sources by 2030 Achieve 100% of all electricity from renewable sources by 2050 2050 2030 2022. 
+RE100‌implementation. 
+SK‌hynix’s‌ Climate‌Action 3
+
+
+22 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Accumulated Energy Conservation (Accumulated from domestic sites, Unit : GWh) 156 2018 346 2019 589 775 2020 2021. 
+SK hynix makes efforts towards an efficient energy management system and promotes energy efficiency through optimizing operation systems, replacing and retrofitting old equipment, changing lights to LED and more. Based on the ISO 50001 standard, we monitor the status of energy use in all sites on a real time basis by the Energy Portal and measure the energy efficiency performance with appropriate metrics. In particular, we run an Energy Conservation TF which involves six departments to actively discover and carry out energy saving items. The TF sets specific targets to save energy across the company, secures the capital investment needed to improve energy efficiency, supervises the ISO 50001 standard, and raises awareness of the need for energy-saving activities from employees. A total of 255 energy conservation items were identified in 2021, resulting in a drop in energy consumption equivalent to 1786 TJ and cost savings of approximately. 
+KRW 23 billion, which surpassed the targets set at the beginning of the year. As a result, SK hynix has continuously surpassed the yearly targets for improving energy efficiency and savings since 2019.
+Energy‌Management‌‌ and‌Savings. 
+SK‌hynix’s‌ Climate‌Action 4
+
+
+23 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+As ESG performance is growing in importance worldwide, ESG bonds are gaining attention among those who seek to invest in related fields. The issuance of ESG bonds is expected to continue to increase as more investors are interested in ESG investing, and companies can use it as an opportunity to increase brand value while stably raising the funds necessary for ESG management.
+Joining this trend, SK hynix issued a USD 1 billion green bond in January 2021, becoming the first global memory chipmaker to do so at that time. The green bond received an evaluation rating of “Robust,” which is the second-highest among the four ratings of Advanced, Robust, Limited, and Weak. This means that the environmental improvement impact of the eco-friendly projects included in the framework is clear and the investment decision-making process is well established.
+Initially, we planned to raise orders worth around USD 500 million with a maturity of 10 years, but with orders of USD 5.4 billion coming from over 230 institutional investors around the world, we were able to issue a green bond with a total value of USD 1 billion. The funds raised through the green bond will be used for eco-friendly projects in four categories: (1) Sustainable water quality control, (2) Energy efficiency improvement, (3) Pollution prevention, and (4) Ecological environment creation. The categories were selected in consideration of the environmental impacts and characteristics of the semiconductor industry, which uses a large amount of energy and water.
+SK hynix will closely examine the feasibility and the environmental improvement effect of eco-friendly projects utilizing green bond funds, and transparently disclose information on the use of funds and results, and unallocated amounts in a report annually available on the website. See the details and performance of the execution in 2021 in the SK hynix Green Bond Impact Report published in January 2022.
+Issuance‌of‌Green‌Bond. 
+SK‌hynix’s‌ Climate‌Action 5. 
+SK hynix Green Bond Project. 
+Sustainable water quality control • Construction and improvement of wastewater treatment plants • Regional water supply business (Icheon and Cheongju) • Construction of water recycling treatment facilities. 
+Energy efficiency improvement • Development of low-power SSD • Replacement of office lighting with LED. 
+Pollution prevention • Installation of nitrogen oxide (NOx) reduction equipment • Deployment of an environmental analysis system. 
+Ecological environment creation • Creation of ecological parks
+
+
+24 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Climate Risk Management Framework. 
+SK hynix recognizes climate-related risks as material risks and has established the Climate Change Risk Management Framework to manage climate risks in an integrated way. Based on this framework, we derive key climate risks that can affect mid- to long-term business strategies and overall operations, and establish mitigation strategies by identifying potential impacts through scenario analysis. Related departments implement tasks according to the established strategies and identify improvement areas by monitoring the progress. Key risks are reported to the management/BOD so that we can further enhance our mitigation of climate risks.
+Risk Identification. 
+Risk Pool Determined by Internal and External Analysis • [Internal] Analyze climate change issues through the Climate Change Roundtable • [External] Analyze domestic and international climate change policies, industry trends, stakeholder interest and demands, and expert opinions. 
+Risk Assessment and Analysis. 
+Identification and Evaluation on Key Risks • Identify key climate risks through risk materiality assessment based on likelihood and impact. 
+Scenario Analysis for Key Risks • Analyze key parameters for climate risk measurement • Analyze potential impacts of risks by scenarios. 
+Monitoring and Reporting. 
+Monitoring Climate Risk Management Performance and Reporting the Results • Monitor the progress and performance of responses to climate change and identify areas for improvement • Report risk assessment/analysis results to management/BOD. 
+Response Strategies to Climate Change. 
+Establishment and Implementation of Climate Risk Response Strategies • Establish climate risk response strategies by stages/areas • Implement tasks to respond to climate change by individual departments. 
+Climate. 
+Risk Management. 
+Framework. 
+Risk‌Management
+
+
+25 SK hynix TCFD Report 2022. 
+It is essential in communicating with stakeholders to set business-relevant metrics and targets, disclose achievements transparently, and assess and manage climate-related risks and opportunities.
+SK hynix establishes specific metrics and targets and measures the performances in key areas related to climate change such as greenhouse gases, energy, and water resources. We also disclose the information related to the seven cross- industry, climate-related metric categories recommended by TCFD. In 2020, we joined the RE100 initiative with other member companies of the SK group as the first in Korea and subsequently committed to net zero emissions by 2050. In order to achieve this, we plan to maintain absolute GHG emissions (Scope 1 and 2) by 2030 at 2020 levels through aggressive GHG reduction activities despite a significant increase in production with the operation of the Yongin cluster, our future manufacturing site.
+Metrics‌&‌Targets. 
+Metrics & Targets Strategy & Risk Management Governance Introduction
+
+
+26 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Category Sub-category Unit 2018 2019 2020 20211)
+Scope 1. 
+CO2 tCO2eq 254,988 103,208 106,640 111,567. 
+CH4 4,086 4752) 515 496. 
+N20 113,306 151,415 146,593 72,920. 
+HFCs 131,402 171,672 236,172 253,753. 
+PFCs 420,583 671,204 1,036,958 961,220. 
+SF6 152,365 169,250 232,692 248,419. 
+NF3 881,814 852,883 951,838 980,546. 
+Total 1,958,542 2,126,171 2,711,409 2,628,921. 
+Scope 2. 
+CO2 3,948,968 4,706,167 4,829,381 4,988,932. 
+CH4 798 1,257 1,317 1,001. 
+N20 6,082 5,875 6,221 19,611. 
+Total 3,955,848 4,713,299 4,836,919 5,009,544. 
+Scope 3. 
+Purchased raw materials3) - 2,623,411 2,801,363 3,092,433. 
+International transport (import) 58,992 33,565 26,849 55,269. 
+International transport (export) 20,650 23,598 29,447 26,832. 
+Waste 8,481 6,655 6,197 228,419. 
+Overseas business trip 2,136 1,687 167 144. 
+Employee commute 18,841 23,454 37,105 29,680. 
+Total 109,100 2,712,370 2,901,128 3,432,777. 
+Scope 1 Emissions intensity 4) tCO2eq/ KRW 100 million 4.84 7.88 8.50 6.11. 
+Scope 2 9.78 17.46 15.16 11.65 1) Based on a market-based method starting from 2021, and Scope 2 emission based on location-based method is 5,302,908 tCO2eq. 2) According to the change in internal calculation logic, the CH4 emissions (Unit : tCO2eq) in 2019 was revised from 6,540 to 475, but the total emissions maintained based on the verification result. 3) Disclosed after the completion of verification for data including those for 2019 and 2020 4) Based on sales on consolidated financial statements in Annual Report * Global Warming Potential (GWP) figures in the Fifth Assessment Report (AR5) applied * F-GHG emissions assessed in accordance with the Electronic Product Environmental Assessment Tool (EPEAT) standards: 2,402,481 tCO2eq * Data scope: Icheon, Cheongju, Bundang, Wuxi, Chongqing. 
+GHG Emissions GHG Management Goals and Achievements. 
+Greenhouse Gas (GHG) 7.64 million tCO2eq (market-based emissions) 8,151 tCO2eq/100 million Gb, 15% decrease 3% reduction. 
+Maintain Scope 1 and 2 GHG emissions at 2020 levels. 
+Reduce GHG emissions intensity by 57% (by 2026)
+Reduce GHG emissions from process gases by 40% 90% based on domestic sites (as of first half of 2022)
+Improve the destruction and removal efficiency of abatement systems to 95%
+Double HBM energy efficiency 1.0 times. 
+Increase eSSD energy efficiency by 1.8 times 1.2 times 2030 Goals 2021 Achievements
+
+
+27 SK hynix TCFD Report 2022. 
+Reducing GHG Emissions Intensity. 
+In the semiconductor industry, higher production naturally leads to an increase in GHG emissions. Due to the rapid increase in demand for chips during the. 
+COVID-19 pandemic, our GHG emissions over the past three years have been increasing. However, our GHG emissions intensity has been continuously decreasing, so the interim goal set by the 2022 ECO vision - a 40% reduction of GHG emissions intensity relative to the 2016 BAU baseline (29.7 tCO2eq/
+KRW 100 million) by 2022 - was achieved in 2021 (17.8 tCO2eq/KRW 100 million), one year ahead of the schedule. Consequently, we set new mid-term goals by 2030 such as maintaining the absolute GHG emissions at 2020 levels and reducing GHG emissions from process gases by 40% relative to the 2020 baseline. Although our production is expected to continue to expand with the operation of the Yongin cluster, we will continue to strive to cut emissions through various activities such as using lower-GWP alternatives in process gasses so that we can reduce the GHG emissions intensity by 57% by 2026 relative to the 2020 baseline.
+27 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Scope 1. 
+Scope 2. 
+Emissions intensity (tCO2eq/KRW 100 million) 7,548,328 Total 2,711,409 23.7 4,836,919. 
+Scope 1 and 2 GHG Emissions (Unit: tCO2eq) 2019 2020 2021 17.8. 
+Total 2,628,921 5,009,544 6,839,470 2,126,171 25.3 4,713,299. 
+Total. 
+SK hynix TCFD Report 2022 7,638,4651) 1) Based on a market-based method
+
+
+28 SK hynix TCFD Report 2022. 
+Improving Scope 3 Emissions Disclosure. 
+SK hynix considers emissions not only in our operations but also across the value chain beyond our direct control. This is why we have voluntarily disclosed information on several Scope 3 emissions categories such as overseas transportation (import and export) and waste disposal. One step further, in 2021, we focused on estimating the “emissions generated from sourcing raw materials (category 1),” which are likely to be considered significant in the upstream value chain.
+The methods for calculating Scope 3 category 1 emissions can be divided into spend-based, average-data, hybrid, and supplier-specific methods depending on data types and specificity. We employed the average data method to calculate emissions from purchased raw materials by collecting data on the mass of raw materials and utilizing the relevant secondary cradle-to- gate emission factors. In order to do this, we assessed in detail each of the ingredients in products manufactured at all of our plants for the past three years, and disclosed the information in this report and our Sustainability Report 2022. Committed to transparent disclosure of information on GHG emissions, we will continue to improve the level of disclosure on Scope 3 emissions by expanding the number of assessed categories and refining calculation methods.
+Scope 3 GHG Emissions (Unit: tCO2eq)
+Employee commute. 
+Waste. 
+International transport(import)
+Overseas business trip. 
+International transport(export)
+Purchased raw materials 2,712,370 Total 23,454 6,655 33,565 1,687 23,598 2,623,411 2,901,128 Total 37,105 6,197 26,849 167 29,447 2,801,363 3,432,777 Total 29,680 228,419 55,269 144 26,832 3,092,433 2020 2021 2019 28 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction
+
+
+29 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Energy. 
+Category Unit 2018 2019 2020 2021. 
+Consumption by energy source. 
+LNG. 
+GJ 4,818,131 2,100,857 2,026,936 2,199,591. 
+Electricity1) 78,421,166 78,617,897 83,403,131 95,498,700. 
+Steam2) 739,437 4,551,895 4,733,947 5,801,655. 
+Other3) -59,725. 
+Total 83,978,734 85,270,649 90,164,014 103,559,671. 
+Consumption by intensity4)
+LNG. 
+GJ/ KRW 100 million 11.91 7.78 6.35 5.12. 
+Electricity1) 193.9 291.28 261.45 222.10. 
+Steam2) 1.83 16.86 14.84 13.49. 
+Other3) -0.14. 
+Total 207.64 315.92 282.64 240.85. 
+Energy savings5) Target GWh 189 171 177 177. 
+Performance 156 190 243 186 1) Electricity consumption includes from renewable sources 2) Data scope : Wuxi site in 2018, and Icheon and Wuxi sites in 2019 3) Newly disclosed from 2021; including gasoline, kerosene, and etc,. 4) Based on sales on consolidated financial statements in Annual Report 5) Data scope : Icheon, Cheongju. 
+Energy Consumption Energy Management Goals and Achievements 186 GWh of domestic energy savings. 
+Renewable energy consumption of approximately 2.6 million GJ. 
+Create energy saving of 3000 GWh (cumulative)
+Achieve 33% renewable electricity use 2030 Goals 2021 Achievements
+
+
+30 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Water Resource. 
+Water Resource Management. 
+Category Unit 2018 2019 2020 2021. 
+Water withdrawals. 
+Domestic 1000m3 62,782 65,860 67,123 71,973. 
+Overseas 18,052 24,696 28,592 32,070. 
+Total 80,834 90,556 95,715 104,043. 
+Water consumption1)
+Domestic 1000m3 11,725 11,470 10,423 13,512. 
+Overseas 2,129 3,242 2,369 2,929. 
+Total 13,854 14,712 12,792 16,441. 
+Water reuse (Reuse rate)
+Domestic 1000m3 (%) 18,644 (27%) 21,631 (28%) 26,932 (32%) 34,463 (37%)
+Overseas 8,650 (35%) 10,991 (34%) 13,554 (34%) 13,106 (31%)
+Total 27,294 (29%) 32,622 (30%) 40,486 (33%) 47,569 (35%) 1) Water consumption = water withdrawals - wastewater discharge. 
+Water Resource Management Goals and Achievements. 
+Conserved 49.8 million tons of water 108,148 ton/100 million Gb, 8% decrease. 
+Conserve 600 million tons of water (cumulative)
+Reduce water withdrawal intensity by 35% (by 2026) 2030 Goals 2021 Achievements
+
+
+31 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Waste. 
+Category Unit 2018 2019 2020 2021. 
+Waste generated. 
+Nonhazardous waste. 
+Domestic. 
+Ton 167,213 164,704 182,162 216,500. 
+Overseas 20,386 48,741 58,266 63,896. 
+Total 187,599 213,445 240,428 280,396. 
+Hazardous waste. 
+Domestic 206,780 226,059 220,118 214,432. 
+Overseas 47,516 74,863 111,589 139,750. 
+Total 254,296 300,922 331,707 354,182. 
+Waste recycled (Recycling rate)
+Nonhazardous waste. 
+Domestic. 
+Ton (%) 162,945 (97.4%) 159,576 (96.9%) 177,501 (97.4%) 212,048 (97.9%)
+Overseas 17,631 (86.5%) 45,161 (92.7%) 57,028 (97.9%) 61,731 (96.6%)
+Total 180,576 (96.3%) 204,737 (95.9%) 234,529 (97.5%) 273,779 (97.6%)
+Hazardous waste. 
+Domestic 193,505 (93.6%) 219,203 (97.0%) 214,349 (97.4%) 210,181 (98.0%)
+Overseas 24,748 (52.1%) 52,107 (69.6%) 96,436 (86.4%) 139,520 (99.8%)
+Total 218,253 (85.8%) 271,310 (90.2%) 310,785 (93.7%) 349,701 (98.7%)
+Waste Management Waste Management Goals and Achievements. 
+Received ZWTL Gold(98%) certification Receive of ZWTL Gold(99%) certification 2030 Goals 2021 Achievements
+
+
+32 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+SK hynix discloses information on the seven cross-industry, climate-related metric categories recommended by TCFD as follows.
+Information on Climate-related Metrics. 
+Capital Deployment. 
+SK hynix prioritizes investment to reduce environmental impact and create eco-friendly manufacturing sites, and manages SHE(Safety, Health and Environment) capital investment costs as an indicator of this effort.
+Internal Carbon Prices. 
+As a participant in the Korea Emissions Trading System, SK hynix continuously monitors carbon prices and actively engages in the sale and purchase of emission permits. We are also considering introducing internal carbon prices to our unit costs.
+Remuneration. 
+At SK hynix, social value/ESG-related activities including climate change account for 10-20% of the key performance indicators (KPIs) in CEO performance evaluation. The KPI evaluation results are linked to the CEO’s remuneration, and the RE100 implementation progress has been included in the evaluation from 2021.
+Item Unit 2018 2019 2020 2021. 
+SHE capital investment1) KRW million 102,398 103,611 82,456 74,354 1) Data scope: Icheon, Cheongju. 
+Greenhouse Gas Emissions. 
+SK hynix’s Scope 1, 2, and 3 GHG emissions are reported on p.26.
+Transition Risks. 
+Among the transition risks, an analysis of the financial impact of “enhanced climate change policies including strengthened regulations on GHG emissions” is reported on p.15.
+Physical Risks. 
+Among physical risks, an analysis of the financial impact of "heat waves" is reported on p.16-17.
+Climate-related Opportunities. 
+A qualitative and financial analysis of key climate-related risks and opportunities is reported on p.10-12.
+
+
+33 SK hynix TCFD Report 2022 Metrics & Targets Strategy & Risk Management Governance Introduction. 
+Eco-friendly Products. 
+SK hynix’s efforts and achievements in developing eco-friendly products are reported in the. 
+SK hynix Sustainability Report 2022.
+SK hynix discloses information on the following metrics recommended for non-financial groups to disclose in the TCFD recommendations.
+R&D Plans and Achievements. 
+SK hynix has spared no expense in investing in the future, such as recruiting experts, industry-academia research collaborations, and supporting a wide range of academic research, in pursuit of developing low-power, high-efficiency memory solutions and materials. Our achievements include the development of HBM3, which is the world’s best- performing DRAM, in October 2021, shipping samples of 24 Gigabit (Gb) DDR5 DRAM in December, and the development of PIM (Processing-In-Memory), a next-generation memory semiconductor with computational functions, in January 2022. As a global leader in the semiconductor industry, SK hynix will continue to innovate so that we can develop new technologies and maintain our technological superiority.
+Information on Other Metrics. 
+Energy. 
+SK hynix’s energy management goals and achievements are reported on p.29.
+Water Resources. 
+SK hynix’s water resource management goals and achievements are reported on p.30.
+R&D Investment. 
+Nunber of personnel Investment(KRW 100 million) 28,949 2018 31,885 2019 34,819 2020 40,448 2021 7,198 7,985 8,295 8,742

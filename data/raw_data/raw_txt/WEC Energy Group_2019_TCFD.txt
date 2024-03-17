@@ -1,0 +1,468 @@
+Pathway to a. 
+Cleaner Energy Future. 
+Climate Report
+
+
+Message from Company Leadership. 
+This is a pivotal time in the energy industry. Many stakeholders – including investors, customers and nonprofit organizations – are calling on companies to address the challenges of climate change. At WEC Energy Group, we have made it a priority to reduce greenhouse gas emissions while maintaining reliable, resilient and costeffective infrastructure.
+Over the past two decades, we have reduced our carbon dioxide emissions by more than one-third. And, we have added more than 430 megawatts of renewable wind generation to our operating fleet. Beyond our regulated utility operations, we have invested in 350 megawatts of wind energy infrastructure. We plan to add more than 200 megawatts of solar generation for our customers by the end of 2020. And we continue to build on those accomplishments.
+Our long-term strategy reflects our focus on environmental stewardship. In 2016, we set a goal to reduce total carbon dioxide emissions by 40 percent, compared to 2005 levels, by the year 2030. Then, last year, we announced an additional carbon reduction goal: an 80 percent reduction from 2005 levels by 2050.
+We considered many factors when we set these goals – including the need to be realistic and transparent.
+When we set a goal, you can count on the fact that we have analyzed the risks, benefits and feasibility. We’re confident in our ability to achieve our 80 percent reduction goal, but it will require significant effort, continued improvements in technology and reshaping our generation fleet.
+Gale Klappa, Executive Chairman. 
+Kevin Fletcher, President and Chief Executive Officer
+
+
+Of course, a number of variables will influence the path we take to achieving our climate-related goals. We supply electricity and natural gas to more than 4.5 million customers throughout the Midwest. It’s imperative that we maintain a system that can respond reliably and consistently – in the face of severe weather events and other emergencies. We also need to comply with an evolving regulatory environment that could affect our capital investments and customer costs. Developments in alternative energy technologies, such as electric vehicles, also could influence electric demand and change the playing field.
+This report focuses on the risks and opportunities associated with transitioning to a low-carbon economy, based upon the modeling of dozens of potential emission reduction pathways. It incorporates industry-specific research from the Electric Power Research Institute and global emissions scenarios used by the Intergovernmental Panel on Climate Change. We have framed our discussion and analysis in accordance with the recommendations of the Financial Stability Board's Task Force on Climate-Related Financial Disclosures.
+This analysis is not an end in itself, but one step in our ongoing mission to provide clean, reliable, safe and affordable energy – for today’s customers and generations to come.
+Thank you for your interest in our energy and environmental strategies. We will continue to work with our industry peers, environmental groups, public policymakers and our customers to support a sustainable future.
+Gale E. Klappa Executive Chairman. 
+J. Kevin Fletcher President and Chief Executive Officer 1 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+WEC by the numbers $23.0 billion market cap 1.6 million electric customers 2.9 million natural gas customers 60% ownership of American Transmission Co.
+70,100 miles of electric distribution 50,000 miles of natural gas distribution and transmission 7,300 megawatts of rated capacity $19.8 billion of rate base 99% regulated. 
+An energy industry leader. 
+WEC Energy Group is one of the nation’s leading energy companies, with the operational expertise and financial resources to serve the Midwest region’s electricity and natural gas needs safely, reliably and responsibly.
+Our subsidiaries focus on reliable service, customer satisfaction and shareholder value. Together, we provide energy services to 4.5 million customers throughout Wisconsin, Illinois, Michigan and Minnesota. We understand that our energy infrastructure must be designed not only to endure but also to support the environment and the region's economy.
+We Energies delivers electricity, natural gas and steam to more than 2.2 million customers in Wisconsin.
+Wisconsin Public Service delivers electricity and natural gas to more than 776,000 customers in northeast and central Wisconsin.
+Michigan Gas Utilities delivers natural gas to more than 178,000 customers in southern and western Michigan.
+Minnesota Energy Resources delivers natural gas to more than 238,000 customers in communities across Minnesota.
+Peoples Gas delivers natural gas to more than 869,000 customers in the city of Chicago.
+North Shore Gas delivers natural gas to more than 162,000 customers in Chicago’s northern suburbs.
+Upper Michigan Energy Resources delivers electricity and natural gas to more than 42,000 customers in Michigan’s Upper Peninsula.
+Bluewater Gas Storage, located in southeast Michigan, provides natural gas storage and hub services to We Energies and Wisconsin Public Service.
+We Power designs, builds and owns modern, efficient power plants that are leased to We Energies.
+WEC Infrastructure holds ownership interests in wind generating facilities that have long-term offtake agreements for the energy they produce.
+2 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Executive Summary. 
+The primary purpose of this report is to illustrate the approach we are taking to reduce greenhouse gas (GHG) emissions and to present an analysis of factors that could affect our future decision-making. The report was prepared in collaboration with the Electric Power Research Institute (EPRI) and M.J. Bradley & Associates (MJB&A).
+EPRI is a nonprofit, scientific research organization with a public benefit mandate. For many years, EPRI has demonstrated technical capabilities in assessing and modeling potential futures, identifying key assumptions, capturing and quantifying uncertainties, and engaging with subject matter experts from many diverse, climate-related fields. Due to their work as lead authors for the Intergovernmental Panel on Climate Change, EPRI offers unique perspectives on global climate matters.
+MJB&A also is known for analytical and modeling expertise and strategic consulting services to address energy and environmental issues. The organization engages with a variety of stakeholder groups, combining private sector strategy with public policy in energy, climate change, energy efficiency, renewable energy and advanced technologies. In 2018, MJB&A authored and submitted to Ceres “Climate Strategy Assessments for the U.S. Electric Power Industry.”
+Our report follows the recommendations of the Financial Stability Board's Task Force on Climate-Related Financial Disclosures (TCFD). We chose to follow the TCFD framework for two reasons: TCFD suggests a logical method for framing climate issues, starting with general strategies and moving to specific tactics, while encouraging transparency and organizational engagement; and using this framework enables interested parties to compare our results to other reporting entities.
+The TCFD’s “Core Elements of Recommended Climate-Related Financial Disclosure” guide the structure of this report:  Our Core Objectives (page 4) We provide an overview of our targets for managing GHG emissions and information on the metrics we use in our environmental assessments and reporting.
+ Risk Management and Governance (page 6) In this section, we outline the processes we use to identify, assess and manage climate-related risks, and describe how our governance structure supports and provides oversight for those processes.
+ Business and Climate Strategy (page 9) This section describes the actual and potential impacts of climaterelated risks and opportunities on our businesses, strategy and financial planning.
+ Climate Scenario Analysis (page 14) We present research and analyses testing how resilient our strategy is to different climate-related scenarios – including scenarios consistent with limiting global temperature rise to 2 degrees Celsius – and relevant assumptions about additional variables. We describe risks and opportunities associated with potential impacts of policies to manage climate change on company investments and operations. We also introduce a technical foundation for informed public dialogue on climate scenarios and targets. We believe this will be helpful in our ongoing engagement with our stakeholders.
+ Appendices (page 24) We provide technical information, including details on the model used by EPRI, to support the results presented in Climate Scenario Analysis.
+Addressing climate change is an integral component of our strategic planning process as we fulfill our obligation to provide reliable, affordable energy to customers.
+The analysis in this report supports our current emissions reduction trajectory while demonstrating the importance of technological and market innovation in the years ahead. We see the potential for economywide emissions reductions through electrification, which our electric companies could help facilitate.
+Recent and planned investments in renewable energy, air quality control systems, power grid upgrades, natural gas distribution system modernization and other environmental protection technologies position our energy companies well for the future.
+ 3 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Our Core Objectives. 
+Our companies evaluate environmental impacts and regulations, including regulation of greenhouse gas (GHG) emissions, in all facets of our strategic business planning. We follow a comprehensive approach to address electricity supply and reliability issues for our customers in a way that considers both the economy and the environment.
+Targets and initiatives. 
+As strategies to reduce GHG emissions take shape, our plan is to work with our industry partners, environmental groups and governing bodies to meet a near-term goal of reducing carbon dioxide (CO2) emissions from electricity generation by approximately 40 percent below 2005 levels by 2030. In addition, we have set a long-term goal to reduce CO2 emissions by approximately 80 percent below 2005 levels by 2050.
+Our plan for achieving these goals assumes that certain older, fossilfueled generation will be replaced with carbon-free resources. Emissions attributed to newer, more efficient fossil-fueled power plants would be mitigated with carbon-free resources, natural gas generation using more efficient technology, or other carbon-reduction techniques. Our plans include assumptions about potential future markets, technologies and policies, all of which represent opportunities and risks. We will continue to evaluate these factors and update our approach as technology, policy and markets evolve.
+Taken as a whole, our strategy is to reduce costs to customers, preserve fuel diversity and reduce CO2 emissions through changes to our generation fleet – all while operating resilient systems.
+Our generation reshaping plan is achieving strong results. As we leverage current technology and retire older, coal-fueled generation, we anticipate achieving our 40 percent reduction goal well in advance of our 2030 target, likely by 2023.
+Other company initiatives are aimed at reducing our systemwide GHG emissions. These include ongoing support for energy conservation projects and improvements to power plant and distribution system efficiency. As part of our natural gas pipeline replacement program in Chicago, we have made voluntary commitments under the U.S. Environmental Protection Agency’s Methane Challenge.
+As we work toward the above goals, we will continue to assess potential long-term GHG reduction pathways and uncertainties, taking into account the objectives set forth by the Paris Agreement on climate change.
+We are committed to ensuring customers have the energy they need. We operate all of our facilities in an environmentally responsible manner and are making renewable energy a key part of our energy mix.
+Reduction goals 40% below 2005 levels by 2030.
+80% below 2005 levels by 2050.
+4 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+The Paris Agreement became effective Nov. 4, 2016, after having been ratified by 55 countries that together accounted for at least 55 percent of global GHG emissions. The agreement aims to keep global average temperature rise to less than 2 degrees Celsius above pre-industrial levels.
+As this report details, we have collaborated with Electric Power Research Institute (EPRI) and others to assess potential transitions through 2050. This work involves evaluating GHG pathways consistent with limiting warming to 2 degrees Celsius, including publicly available scenarios developed by the scientific community and used by the Intergovernmental Panel on Climate Change (IPCC).
+In addition, we have completed work with EPRI to evaluate long-term emissions reduction scenarios for the region and the state of Wisconsin, home to our largest utility operations. The results are helping us better understand how the region’s economy and our own carbon profile could evolve under a wide range of assumptions around GHG reduction targets, natural gas and other fuel prices, technology availability and costs, and other variables. This assessment is intended to identify costeffective and resilient strategies for producing and using clean energy, resulting in reduced GHG emissions at our electric companies. Results from this work are incorporated into this report.
+Reporting climate-related metrics. 
+We measure and assess key factors associated with climate risks and opportunities, including GHG emissions, and have voluntarily published them in an annual corporate responsibility report for the past two decades. We also are participating in initiatives led by Edison Electric Institute and American Gas Association to promote consistency and transparency in sustainability reporting across the energy utility sector. Reports are made available on the Corporate Responsibility page of our website.
+Important metrics for assessing climate risk include measured GHG emissions from electric generation and estimated GHG emissions associated with electricity purchases. A complete picture of our emissions performance must reflect our long-term purchase agreement for the output from the zero-carbon Point Beach Nuclear Plant in Wisconsin. We expect 20 percent of the electricity to meet our customers’ needs will come from this carbon-free source for the next decade.
+We also track the methane emissions from our natural gas infrastructure, which represent a very small percentage of annual GHG emissions. This amount will continue to shrink on a relative basis as we modernize our distribution network in Chicago.
+We have also been focusing increased attention on evaluating our exposure to potential water-related impacts associated with climate change. While we already consume a relatively low amount of water for power plant cooling purposes, that amount continues to decline as coal-fueled generation facilities are retired.
+Our location, with operations in the Great Lakes and Mississippi River basins, and our water treatment and monitoring processes limit our water-related risk, such as drought and water quality impacts..
+Our customers’ participation in energy efficiency programs and related opportunities is measured in first-year energy savings and aggregate rebates and incentives. This information is shared in our Corporate Responsibility Report and other publications. We continue to develop innovative opportunities to help our customers use energy wisely and reduce their energy bills.
+We will add other relevant metrics associated with climate-related considerations as they are identified. During 2019, we are engaging with EPRI to perform a priority issue assessment. This effort will revisit previously identified focus areas, providing a rigorous analysis of priority sustainability issues that incorporates feedback from internal and external stakeholders. The initiative will provide important insights as we continue to evolve our climate risk assessment process and disclose our progress.
+5 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Risk Management and Governance. 
+Our governance structure drives corporate accountability and is supported by policies and management systems to anticipate, plan for and manage corporate initiatives and risks, including those related to climate change. We believe that effective corporate governance is an essential driver of shareholder value and a key component of sustainability.
+Our board of directors is responsible for providing oversight with respect to our major strategic initiatives, which requires meaningful dialogue centered on opportunities and risks, financial and business objectives, key corporate policies, and overall economic, environmental and social performance. Senior management is responsible for managing the company’s enterprise risks through effective planning and execution of daily operations. Success requires a cohesive system for timely identification and evaluation of relevant information.
+Management of climate-related risks. 
+Various levels of the organization are tasked with assessing the risks and opportunities associated with climate change. Senior management has primary responsibility for managing risk, and addresses this responsibility using a multifaceted approach that seeks out and captures input from internal resources, as well as from leading industry experts.
+The company’s vice president – environmental, in collaboration with members of her team, takes the lead on analyzing the climate-related impacts of our strategies and related tactics. The Wholesale Energy and Fuels and Environmental teams engage with other functional areas of the company to identify cost-effective options for reducing carbon emissions. The vice president – environmental provides regular updates on environmental issues, including regulatory matters, to the Audit and Oversight Committee of our board of directors through formal quarterly reports.
+Working with external organizations and our internal staff, Environmental leadership anticipates and prepares for policy developments at various levels. Leadership further engages with policymakers and other stakeholders to improve transparency and results. These efforts help us identify opportunities for research, development, demonstration, collaboration, investment and piloting, whether alone or with others in our industry.
+We actively participate in industry organizations that are involved in the legislative and regulatory processes involving climate change and other environmental matters. These organizations include Edison Electric Institute, Utility Air Regulatory Group, Utility Water Act Group, Utility Solid Waste Activities Group and American Gas Association. We also collaborate on scientific and technical work with organizations like the Electric Power Research Institute to inform company planning, risk management and operations.
+Our Environmental team reports on climate-related risks and opportunities at meetings of the Greenhouse Gas Executive Steering Committee ("GHG Committee"). This committee brings together seniorlevel representatives from multiple areas: Corporate Communications and Investor Relations, Environmental, External Affairs, Finance, Legal Affairs and Governance, Power Generation, and Wholesale Energy and Fuels, including executives leading these functions. The representatives meet at least quarterly to discuss sustainability efforts; investor engagement; transparency; GHG reduction goals; climate scenario analyses; research, development and demonstration; and GHG regulation.
+The GHG Committee operates under an enterprisewide approach to managing risk and compliance, under the leadership of an Enterprise Risk Steering Committee (ERSC). The ERSC consists of senior-level management employees who regularly review the company’s key risk areas and provide input about the development and implementation of effective compliance and risk management practices.
+To support the work of the ERSC, the Audit Services department conducts an annual enterprise risk assessment, whereby business leaders identify existing, new or emerging issues or changes within their business areas that could have enterprise implications. Risk areas are then mapped to create a cumulative assessment of their significance and likelihood, taking into consideration industry benchmarking information, as appropriate. The mapping also identifies lines of responsibility for managing the risks to ensure accountability and focus. Climate change and its implications are included in this assessment.
+On a bimonthly basis, the ERSC discusses findings of this assessment, holds in-depth discussions with members of management on identified subjects, and tracks progress and status thereafter.
+6 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Oversight by the board of directors. 
+Our board of directors fulfills its oversight responsibilities through sound principles that align with governance best practices. Each director is elected annually using a one-share, one-vote, majorityvote standard in uncontested elections. Our Corporate Governance Guidelines provide that the board will consist of at least a two-thirds majority of independent directors at all times. Current board members possess a diversity of knowledge and skills, including expertise in the utility industry and on environmental, social and governance topics.
+Our board of directors oversees the company’s risk environment and associated management practices as part of its evaluation of the company’s ongoing operations and strategic direction. To carry out its oversight function, the board is organized into five standing committees with specific duties and risk-monitoring responsibilities: Audit and Oversight, Compensation, Corporate Governance, Executive and Finance. With the exception of the Executive Committee, the board and each of its committees meet regularly throughout the year, and receive regular briefings prepared by management and outside advisers on specific areas of current and emerging risks to the enterprise.
+The committees routinely report to the full board on matters that fall within designated areas of responsibility as described in their charters. The chart below provides examples of risk oversight responsibilities assigned to each committee.
+Executive sessions for the non-management directors are generally held at every regularly scheduled board and committee meeting, during which directors have direct access to, and meet as needed with, company representatives to discuss matters related to risk management. Outside of scheduled meetings, the board, its committees and individual board members have full access to senior executives and other key employees, including the president and CEO, chief financial officer, general counsel, chief audit officer, compliance officer, chief information officer and controller.
+While the board delegates specified duties to its committees, the board retains collective responsibility for comprehensive risk oversight, including short- and long-term critical risks that could impact the company’s sustainability. The board believes that certain risks, such as those that have the potential to result in significant reputational or financial consequences or drive company strategy, must be contemplated by its full membership and the diverse perspectives that the collective body brings to bear. The board believes oversight of climate-change risks, opportunities and strategies should remain within the purview of the full board, rather than be delegated to any single committee.
+Throughout the year, the board engages in substantive discussions with management about the company’s long-term strategy, which the board must evaluate within the context of the many risks and opportunities facing the utility sector, including those related to climate change. Management routinely reports to the board on both high-level and narrowly focused risks, which serve as important input as the directors evaluate the impact of strategic alternatives. The full board also reviews the company’s Corporate Responsibility Report each year as a mechanism to affirm that management has appropriately captured the tone and essence of its commitment to sustainable decision-making.
+The board is confident that its leadership structure, in combination with management's enterprise risk management program, effectively supports risk oversight.
+• Financial reporting • Legal and regulatory compliance including: • Environmental • Information technology security • Litigation • Ethics and compliance • FERC/NERC compliance • Outside auditor independence • Governance structure and practices • Director independence • Board performance • Board succession planning • Compensation practices and programs • Executive acquisition and retention • Executive succession planning • Talent management and development • Capital allocations • Capital structure and financings • Employee retirement and benefit plan assets • Insurance risk. 
+Audit Committee Compensation Committee Corporate Governance. 
+Committee Finance Committee 7 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Climate-related risk areas  Environmental laws and regulation We believe environmental and climate policy should foster development of new, cost-effective clean energy technologies. Environmental and economic interests are aligned when environmental regulation allows flexible, cost-effective and market-based approaches to achieving desired environmental results.
+Current GHG emissions regulation, as well as future legislation or regulation that may be adopted, carries with it a wide range of possible effects on our energy business; therefore, we strive for the flexibility to react to this variety of potential outcomes while ensuring a secure, low-cost and reliable supply of fuel for generating needs. Our electric energy companies build flexibility into fuel supply and transportation contracting strategies to account for potential climate-change regulation.
+Regulations that may be adopted at either the federal or state level to reduce GHG emissions could have a material adverse impact on our electric generation and natural gas distribution operations, could make it uneconomical for us to maintain or operate some of our electric generating units, and could affect unit retirement and replacement decisions. Our strategic planning processes enable our companies to continuously evaluate these uncertainties in the context of maintaining reliable, affordable energy supplies for our customers that follow the environmental improvement trajectory that we have set.
+ Physical risks Our electric reliability and planning teams evaluate potential impacts of both acute and chronic risks associated with weather events that could affect system availability and reliability. We perform economic analyses of weather and energy use in order to identify trends that are used for generation, financial and strategic planning.
+As part of our process for improving equipment reliability, we use an equipment reliability index we created based upon industry best practices to gauge our reliability performance, identify opportunities for improvement, evaluate potential adaptation alternatives, and gain the associated cost and performance benefits.
+ Energy conservation and demand As part of our planning process, we estimate the impacts of changes in customer growth and customer energy conservation efforts. Conservation of energy can be influenced by certain federal and state programs that are intended to influence how consumers use energy. For example, several states, including Wisconsin, Illinois and Michigan, have adopted energy efficiency targets to reduce energy consumption by certain dates.
+ Technology and market changes. 
+Research and development activities abound for new technologies that produce or store power or reduce power consumption. These technologies include renewable energy, customer-owned generation, distributed generation, energy storage and energy efficiency. We generate power predominantly at central station power plants to achieve economies of scale and produce power at a competitive cost, although we have begun to transform our generating fleet with the addition of wind and solar technologies. If alternative technologies become cost-competitive and achieve economies of scale, our market share could be eroded, and the value of some of our generating facilities could be reduced. Advances in technology also could change the channels through which our electric customers purchase or use power, which could reduce our sales and revenues or increase our expenses.
+Our generation planning processes evaluate potential impacts of renewable energy penetration, changes in the fuel markets and advances in technology, in part to support decisions regarding unit retirement and replacement decisions. We also estimate the impacts of changes in customer growth and customer energy conservation efforts. Our load forecasting and fuel procurement processes evaluate potential impacts of changes in fuel prices on customer demand.
+Identifying opportunities. 
+Our intermediate- and longer-term GHG emission reduction goals are consistent with national and international climate policy commitments to date, while recognizing uncertainties inherent in long-term planning. We also will continue to evaluate energy efficiency initiatives along with other demand- and supply-side options in our future GHG emission reduction strategies, in the context of an evolving electric industry regulatory framework. In the following Strategy section, we outline opportunities we have identified for addressing changes in our industry while maintaining reliable and resilient operations.
+8 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Business and Climate Strategy. 
+Our long-standing focus on environmental stewardship and climate change is fundamental to our obligation to deliver long-term value to shareholders and customers. Consideration of climate change is integral to our strategic planning approach, and we have conducted scenario analyses to assess the strength of our strategy. We are reshaping our portfolio of electric generation facilities and modernizing our infrastructure to improve environmental performance, including reducing greenhouse gas (GHG) emissions. Our commitment to addressing climate change is exemplified in our ambitious goal to reduce GHG emissions by 80 percent below 2005 levels by 2050.
+With this vision in mind, we expect to invest more than $14 billion across our company between 2019 and 2023, with a focus on: • Reshaping our generation fleet for a clean, reliable future.
+• Modernizing our electric and natural gas delivery infrastructure.
+• Launching advanced metering functionality and upgrading systems and equipment.
+Our goal. 
+Continue to build and sustain long-term value for our shareholders and customers by focusing on the fundamentals of our business: reliability, operating efficiency, financial discipline, customer care and safety.
+Our approach. 
+Our approach is driven by an intense focus on delivering exceptional customer care every day. We strive to provide the best value for our customers by embracing constructive change, demonstrating personal responsibility for results, leveraging our capabilities and expertise, and using creative solutions to meet or exceed our customers’ expectations.
+Our shareholders and customers have made it clear that together we must transition to a low-carbon future. Through these actions, we will not only deliver cleaner energy to our customers, but also fortify and modernize our electricity grid and distribution services.
+9 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Electricity generation supply. 
+We are committed to reducing emissions from our electricity generation while maintaining the reliability that is a cornerstone of our business model. We supply energy to our customers from generation facilities we own, representing approximately 7,300 megawatts (MW) of rated capacity in 2018, and purchased power. Power purchases represent about 30 percent of the electricity we deliver, and more than 70 percent of that purchased power comes from zero-carbon sources.
+We continue to reshape our portfolio of electric generation facilities strategically, focusing on investments that improve environmental performance and reduce emissions from our operating fleet. Over the past two decades, we have worked to reduce the role coal generation plays in our system, retiring or converting to natural gas approximately 2,500 MW of coal-fueled generation between 2000 and 2018. Figure 1 and Appendix C illustrate our ongoing transformation.
+In place of coal, we are building state-of-the-art natural gas generation, as well as investing in cost-effective zero-carbon generation. We expect to spend $1 billion between 2019 and 2023 to increase the amount of renewable generation in our system. Although our largest electric utilities, We Energies and Wisconsin Public Service (WPS), met Wisconsin’s renewable portfolio standard well in advance of the state deadline, we intend to go further.
+Actions taken: 2000-2018. 
+Projects: 2019 and beyond. 
+Coal  Retired or converted approximately 2,500 MW of coal-fueled generation  Sold Milwaukee County. 
+Power Plant  Retired 350-MW. 
+Presque Isle Power Plant in 2019. 
+Natural gas  Added 1,655 MW from new, highly efficient, less carbon-intensive, combined-cycle units  Added more than 180 MW of efficient natural gas generation. 
+Renewables  Added new short-term purchase power agreements for 75 MW of wind generation  Added 438 MW of wind generation  Added 50 MW of biomass generation  Add 350 MW of utility-scale solar  Add up to 185 MW in renewable pilot programs. 
+As we integrate cleaner resources into our supply portfolio, we not only move closer to our carbon reduction goals but also reduce other air pollution emissions. Since 2000, we have reduced emissions of mercury by 94 percent, sulfur dioxide by 93 percent and nitrogen oxide by 83 percent.
+Figure 1:
+Sources of electricity supply by fuel type 2005. 
+Low and no carbon. 
+Coal 73% 27% 2018 48% 52% 2030. 
+Estimated 29% 71% 2050. 
+Estimated* 100% * Assumes low-carbon generation includes natural gas generation, as well as coal-fueled generation with at least 70 percent emission reduction.
+10 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Recent opportunities to invest in energy infrastructure outside of our regulated utilities have helped our business grow sustainably. We have committed capital to increase renewable generation in the Midwest. With a total investment of $587 million, we have acquired majority ownership interests in three wind farms: Upstream Wind Energy Center in Nebraska, Coyote Ridge Wind Farm in South Dakota, and Bishop Hill III Wind Energy Center in Illinois. Under long-term offtake agreements, these wind farms will provide carbon-free energy to companies outside our organization.
+
+
+Electric distribution. 
+Our regulated businesses are committed to ensuring reliable electricity delivery to our customers while maintaining the safety and integrity of our system. Through the synthesis of multiple strategies, we can continue to establish a more resilient and dependable grid. As we leverage the following innovative technology developments, we can keep affordability at the center of our platform and provide tools that help customers manage energy use and reduce environmental impacts.
+System modernization: WPS’ System Modernization and Reliability Project (SMRP) is a multiyear initiative focused on modernizing parts of its electricity distribution system by burying or upgrading lines. Phase I, launched in 2014, converted more than 1,000 miles of overhead lines to underground lines. Additionally, WPS added distribution automation equipment on 400 miles of lines. In Phase II, approved in 2017, WPS aims to bury an additional 1,000 miles of lines by 2021. More than 100,000 customers have already benefited from a 95 percent improvement in reliability in portions of the electric system placed underground. The SMRP is an example of how we are adapting to improve system reliability and resiliency in response to extreme weather events.
+Renewable energy pilot programs: At the close of 2018, the Public Service Commission of Wisconsin approved two innovative renewable energy pilot programs for We Energies. The Solar Now pilot is twofold: commercial and industrial customers with solar photovoltaic systems receive monthly payments based on the capacity value of the hosted system for the energy they produce, while We Energies retains the energy generated and distributes it throughout the system.
+The second pilot, Dedicated Renewable Energy Resources, addresses the growing demand for dedicated renewable resources that meet specific sustainability goals. Through this program, We Energies will partner with large commercial and industrial customers that have set ambitious renewable energy goals and build specific renewable resources to serve their commitments. In comparison to other renewable energy riders, this program is unique in that the customer subscribes to and pays the costs of ownership for a portion of the project and in turn receives a monthly capacity and energy credit.
+Green pricing programs: Integrating zero-carbon sources into our energy supply is very important to our customers. In response, We Energies and WPS offer green pricing programs that allow participants to enroll at variable levels, up to 100 percent of their energy usage. We Energies and WPS produce or purchase renewable energy to match the customer’s selected plan.
+Local generation and distributed energy resources: By researching and investing in local generation, we aim to provide electricity close to the point of use and improve power system resiliency. We are striving to effectively integrate local generation while building on the availability and reliability of the existing power grid in a compatible and interactive way.
+Advanced metering technologies: A key part of our capital investment plan is implementing smart meter technology across all our energy companies. In creating an integrated system of smart meters, communication networks and data management programs, we can further enable two-way communication between our customers and their utilities.
+We already have seen progress in our implementation efforts: the total number of electric customers with smart meters rose from 13 percent in 2016 to 47 percent in 2018. By installing remote meter disconnection and reconnection technology, We Energies alone has prevented more than 190,000 truck rolls since July 2016. Smart meters could provide customers with more usage- and demand-based billing and energy management options in the future, expanding our customers’ control over electricity usage.
+Demand-side management and energy efficiency: WPS and We Energies offer energy management services to business customers, which include assessments, technical monitoring and consultations to help improve energy efficiency. Thanks to these and other programs, incremental annual energy savings through energy efficiency measures increased 6 percent between 2017 and 2018.
+Electric vehicles: Our customers who own electric vehicles can save on electricity costs through the Time-of-Use savings program offered by We Energies. By shifting electric vehicle charging to off-peak hours, our customers can see substantial savings. To understand companywide interest in workplace charging for plug-in electric vehicles, we surveyed our employees in 2017 and installed 10 new charging stations at seven company locations based on their feedback.
+Industry recognition of We Energies. 
+Recipient of the Regional ReliabilityOne Award for outstanding reliability performance in the Midwest for eight consecutive years.
+12 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Natural gas distribution. 
+Methane, a short-lived and potent greenhouse gas, is emitted during the production and transportation of natural gas, coal and oil. Because we are a major distributor of natural gas in the Midwest, methane reduction efforts are central to our environmental performance.
+Peoples Gas, our subsidiary in Chicago, began its System Modernization Program in 2011. Through this long-term program, Peoples Gas aims to replace approximately 2,000 miles of Chicago’s aging natural gas pipeline infrastructure, switching dated cast and ductile iron pipes with modern polyethylene pipes. The Environmental Protection Agency (EPA) estimates that older iron pipes leak at a rate 24 times higher than polyethylene pipes. Furthermore, by transitioning the natural gas system from low-pressure to medium-pressure operation, the program improves system safety and makes it easier for customers to install high-efficiency appliances.
+Program progress is reported and tracked in EPA’s voluntary Methane Challenge program. Peoples Gas, along with 32 other natural gas utilities across the nation, kicked off the challenge in 2016, and we are evaluating options to expand our efforts.
+Underscoring our commitment to preserve the environment, Peoples Gas has committed to replacing iron natural gas mains at an annual rate of at least 2 percent per year through 2022, which could achieve significant fugitive methane emission reductions. Through 2023, we expect to invest approximately $300 million annually in this important program.
+13 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Climate Scenario Analysis: Evaluating Climate Risk. 
+As part of our ongoing efforts to manage the risks and opportunities associated with climate change, WEC Energy Group – working with the Electric Power Research Institute (EPRI) – has conducted extensive analyses of long-term greenhouse gas (GHG) reduction pathways for the U.S. electric sector and other parts of the economy (e.g., transportation and buildings).
+The Task Force on Climate-Related Financial Disclosures (TCFD) encourages organizations to use scenario analysis to assess climaterelated risks and opportunities using external scenarios and models or in-house modeling capabilities. According to the TCFD, “[t]he Task Force recognizes the use of scenarios in assessing climate-related issues and their potential financial implications is relatively recent and practices will evolve over time, but believes such analysis is important for improving the disclosure of decision-useful, climate-related financial information.”
+We review and draw insights from the growing body of work projecting potential “deep decarbonization” pathways for the world and U.S. economies, such as scenarios developed by the scientific community and used by the Intergovernmental Panel on Climate Change (IPCC). 1. 
+However, for this effort, we worked with EPRI on modeling to provide a more in-depth analysis of the states in which we operate.
+We will continue to review and incorporate, as appropriate, the latest economic and scientific research in our future scenario analyses. The Paris Agreement seeks to keep global average temperature increase “well below” 2 degrees Celsius. Research is focused on what may be required to meet the target set forth by this agreement. Current GHG emissions regulations, as well as regulations that may be adopted, expose us to a wide range of possible effects on our energy business; therefore, we strive for the flexibility to react to this variety of potential outcomes while ensuring a secure, affordable and reliable supply of fuel for generating needs. We will continue to support research efforts to understand the scientific underpinnings of long-term climate scenarios.
+Separate from this analysis, EPRI recently completed a study analyzing the state of the science associated with climate policy scenarios.2 EPRI found that there is significant uncertainty between a global temperature goal and an individual company’s emissions reduction goal (see “Grounding decisions”).
+Grounding decisions. 
+EPRI recently completed a study assessing current scientific understanding regarding the relationship between a global temperature goal and a company’s emissions reduction goal. Among other things, the EPRI study found that the existing scientific literature is consistent in finding that global emissions must peak and then decline to have a better-than-even chance of limiting warming to 3 degrees Celsius or lower, but there is significant variation in pathways consistent with any temperature level. EPRI also identified other key uncertainties for emissions reduction pathways, including how climate policy might actually evolve in stringency and design globally, nationally and subnationally; the cost-effective role of an individual company or sector in achieving these goals; and the feasibility of realizing some emissions pathways.
+For example, Figure 2 shows the range for 408 global emissions pathways consistent with limiting warming to 2 degrees Celsius (shaded area). The range represents uncertainties about, among other things, climate system dynamics, economic growth, energy use, and technologies, as well as differences in models. These, as well as other uncertainties, are important to acknowledge within a climate assessment, and we have modeled a wide range of assumptions to address some of these uncertainties in order to evaluate the robustness of our strategy.
+Figure 2: Global CO2 pathways consistent with limiting warming to 2 degrees Celsius, representing more than 400 scenarios. Range (shaded area) and illustrative select scenarios (colored lines) shown. Source: Developed from EPRI study (Rose and Scott, 2018).
+ -60 -40 -20 0
+20 40 60 80 1. Almost 1,200 global emissions scenarios were assembled by the scientific community for the IPCC’s 5th Assessment Report, including approximately 400 consistent with limiting warming to 2 degrees Celsius. See EPRI study (Rose and Scott, 2018).
+2. S.K. Rose and M. Scott, “Grounding Decisions: A Scientific Foundation for Companies Considering Global Climate Scenarios and Greenhouse Gas Goals," Report No.
+3002014510, (Palo Alto, California: EPRI, 2018).
+2010 2020 2030 2040 2050 2060 2070 2080 2090 2100 billion metric tons CO2 (GtCO2) per year 2050 (14% to -96% change from 2010) 14 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Analytical approach. 
+Informed by EPRI’s work assessing scientific understanding of climate scenarios, we evaluated the potential changes associated with transitioning to a lower-carbon economy using EPRI’s U.S. Regional Economy, Greenhouse Gas, and Energy Model (US-REGEN).3 The analysis evaluated pathways for reducing emissions in the electric sector and other key sectors of the economy, including transportation, industry and buildings. This integrated modeling framework supports a holistic assessment of potential changes associated with low-carbon energy strategies including electrification and greater energy efficiency.
+For the electric sector, the analysis applied emissions reduction targets across the entire U.S. with separate targets for Wisconsin, the broader regional wholesale electricity market4, and the rest of the U.S. We modeled a nationwide emissions reduction scenario because of the interconnected nature of the electric power system. The analysis was also designed to provide a more in-depth view of the results for Wisconsin’s electric sector; however, we believe this analysis also provides important insights that also apply to our natural gas delivery companies in Wisconsin, Illinois, Michigan and Minnesota.
+The analysis included more than 100 model runs, including scenarios that assume nearly complete decarbonization of the U.S. electric sector by 2050 (i.e., 95 percent reduction in emissions by 2050 relative to 2005 levels). We also modeled other scenarios that targeted electric sector reductions ranging from 40 percent to 80 percent by 2050. The estimated increase in electric sector costs from these scenarios ranged from 4 to 9 percent if the transmission system can be expanded and 5 to 13 percent if the transmission system is limited to its current configuration.5 Even higher costs resulted from other sensitivities, including high natural gas prices and no available offsets.
+The reduction targets were modeled with varying technology cost assumptions and natural gas prices6 (see Appendix A). We believe this broad range of reduction scenarios and assumptions, which are grounded in science, provides a robust test of the company’s future business plans.
+We engaged with multiple internal business units and outside experts to design the assessment and interpret the results, including the opportunities for our business, the implications for the electric grid, and the state of technology to achieve these goals. To draw meaningful lessons and insights from this type of analysis requires close coordination and engagement across the entire organization. The team included individuals from Environmental, Wholesale Energy and Fuels, Power Generation and Customer Service.
+Key elements of our approach • EPRI’s US-REGEN model combines a detailed dispatch and capacity expansion model of the U.S. electric sector with a technologically detailed model of end-use energy demand. The two models are solved in an iterative way to estimate market changes and provide electric sector and broader economywide results. We worked with EPRI modelers to select the emissions reduction scenarios and assumptions. (See example in Figure 3.) • The modeling applied a CO2 price (consistent with the price resulting from the electric sector caps) on the broader economy, including transportation, buildings and the industrial sector. This CO2 price (which varies depending on the electric sector target and other assumptions) creates an incentive to reduce emissions from these other sectors of the economy; however, these sectors were not held to a firm target as was the electric sector. In the study area, the scenarios with 80 percent and 95 percent sector caps and standard assumptions both achieved about a 60 percent reduction in CO2 emissions from all covered sectors by 2050 (from 2015 levels).
+• The analysis considered a range of technology costs for wind, solar and other technologies. The analysis also evaluated a range of natural gas price forecasts. In some cases, emissions offsets from biological sequestration were assumed to be available for compliance at a price of $15 per metric ton (see Appendix B). Sensitivity cases are important to understand the potential implications of the different reduction pathways, recognizing the uncertainties inherent in long-term energy modeling as well as the uncertainty regarding future carbon regulations. The current analysis does not consider uncertainty about policy design details or electricity demand. We are exploring these issues and will consider including them in the future.
+Figure 3: EPRI’s US-REGEN model includes detailed representations of the U.S. energy system, including heating and cooling degree days, among other assumptions.
+3. Learn more about the EPRI US-REGEN model: http://eea.epri.com/models.html 4. The Midcontinent Independent System Operator (MISO) ensures reliable, least-cost delivery of electricity across all or parts of 15 U.S. states and one Canadian province with approximately 65,000 miles of high-voltage transmission and 200,000 megawatts of power-generating resources. The northern part of the MISO region was held to the emissions reduction target.
+5. The costs are measured as the change in the net present value (NPV) of electric sector costs between the respective policy scenario (e.g., 95 percent) and the reference case.
+6. The modeling relied on the AEO 2017 High Oil and Gas Recovery Case and the AEO 2017 Reference Case natural gas prices.
+Based on hourly temperature data in NASA MERRA2 dataset 15 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Findings and insights. 
+This section focuses on the 95 percent emissions reduction cases because they most directly address stakeholder questions regarding scenarios that would limit global temperature rise to less than 2 degrees Celsius. Specifically, they represent the bottom of the range of global pathways in 2050 (see Figure 2). However, given uncertainties, we also evaluated the other emissions reduction levels: 40 percent, 60 percent and 80 percent. The assessment highlights the potential role for electricity to facilitate GHG reduction goals by decarbonizing the electric power system and electrifying end uses in transportation, buildings and industry. Whether and how this potential is realized will depend on policy, markets and technology.
+Transitioning to a low-carbon grid Decarbonizing the electric power system in Wisconsin and the Midwest will depend, at a minimum, on a combination of: • Retirement of coal-fueled generating stations that are without carbon capture.
+• Investment in new low- and zero-carbon generating facilities and energy efficiency.
+• Transmission system upgrades and expansions, including energy storage systems, to accommodate the transfer of electricity across the region and to accommodate the changing resource mix.
+• Flexible abatement opportunities, including the import of zero-carbon energy and. 
+GHG offsets.
+• Availability of seasonal-scale energy storage systems.
+• Replacement of power from zero-emitting nuclear plants.
+The exact blend of investments – to minimize overall system costs and maintain reliability – will depend on a range of technical, public policy and economic factors. Each of the scenarios suggested a different mix of investments to achieve the reduction targets.
+The EPRI modeling found that importing a significant amount of wind energy from the Dakotas and other neighboring states would be the lowest-cost option to meet a 95 percent reduction goal. This finding assumes unrestricted imports where the most economic out-ofstate zero- and low-carbon energy resources could be transmitted into Wisconsin – limited only by the cost of new transmission investments where needed – and a specific set of generation cost assumptions. In this scenario, imports dominate the state’s resource mix by 2050. In-state generation would be about 50 percent renewable and 50 percent natural gas (with offsets). Conventional coal generation would be virtually eliminated by 2040.
+By contrast, if imports are constrained at historic levels, the least-cost option would be a mix of in-state resources including renewables, new nuclear and natural gas generation (with offsets). Renewables would account for almost 50 percent of in-state generation in this case. This scenario also assumes the addition of about 2,000 megawatts of new nuclear capacity.
+Figure 4: EPRI modeling projects significant changes in the resources used to supply electricity to Wisconsin customers in the 95 percent reduction scenario. The results vary significantly depending on the ability to import power from neighboring states and other assumptions (see Appendix A).
+Efficient electrification The EPRI analysis builds on prior research by the organization evaluating the potential for electricity to serve an expanded role in the U.S. energy system. EPRI’s U.S. National Electrification Assessment (USNEA) examines customer adoption of electric end-use technologies over the next several decades, along with key implications for emissions and the grid.
+Some of the major themes from the national assessment also emerge in the analysis for our company. Namely, even in the absence of climate policy, electricity is expected to serve an increasing share of the nation’s energy needs led by the transportation sector. EPRI also projects increasing adoption of heat pumps for space and water heating, along with electric technologies in industry. In the WEC Energy Group analysis, even the reference case projected expanded electrification. The addition of a CO2 price had limited effect on transportation and building use. Instead, technology adoption in the model was spurred by projected declines in technology costs and performance improvements.
+0 10 20 30 40 50 60 70 80. 
+Wisconsin generation fuel mix (TWh)
+Unrestricted imports 2015 2030 2050 2030 2050 • Fossil fuel • Nuclear • Renewables • Net imports. 
+Restricted imports 16 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Tackling transportation sector emissions. 
+Limiting global temperature rise to less than 2 degrees Celsius will require all sectors of the economy to reduce GHG emissions. The electric sector could play an important role in facilitating these efforts. In 2016, the transportation sector surpassed the electric sector as the leading source of CO2 emissions in the U.S.7 In Wisconsin, the transportation sector accounts for roughly 30 percent of energyrelated CO2 emissions. With projected declines in battery costs and a low carbon grid, EPRI modeling shows a steady decline in light-duty vehicle emissions.
+Figure 5 shows the projected changes in the light-duty vehicle fleet in Wisconsin under the most ambitious emissions reduction scenario. Under this scenario, by 2050, almost 80 percent of light-duty vehicles are projected to be electric or hybrid electric, reducing tailpipe emissions by almost 90 percent from current levels. Gasoline consumption would be reduced to a fraction of current levels. However, electricity’s role in decarbonizing transportation and other parts of the economy will depend on the price competitiveness of electricity and the type of policy incentives for reducing emissions in those sectors.
+Figure 5: The US-REGEN model projects steady adoption of electric passenger cars in the U.S. in the 95 percent reduction scenario as a result of declining battery costs and the lower operating costs of an electric vehicle. The chart plots the change in Wisconsin’s light-duty vehicle stock. < 1% 30%
+Clean vehicles 2015 2030. 
+Electric vehicles: percentage of vehicle travel. 
+Clean vehicles. 
+Electric vehicles replace conventional passenger cars.
+40% 30% 20% 10% 0
+2015 2020 2025 2030 7. U.S. Environmental Protection Agency, “Inventory of U.S. Greenhouse Gas Emissions and. 
+Sinks: 1990-2016,” (Washington, D.C.: EPA, 2018), https://www.epa.gov/sites/production/ files/2018-01/documents/2018_complete_report.pdf.
+2020 2025 2030 2035 2040 2045 2050 0
+1 2
+3 4
+5 6
+• Conventional • Plug-in Hybrid • Electric million vehicles 17 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Lowering the carbon footprint of other sectors The EPRI analysis also explored emissions reduction opportunities in other key sectors of the economy, including buildings and industry. Representing about 17 percent of Wisconsin’s energy-related CO2 emissions in 2015 (excluding electricity use), buildings will be an important component of any future climate strategy. The largest source of emissions in buildings is from the direct use of fossil fuels, primarily natural gas, to serve space- and water-heating needs.
+Gas furnaces are the dominant source of space heating today, serving over 70 percent of floor space across Wisconsin. However, the role of electric heat pumps with either electric resistance, gas furnace or other heating backup is projected to increase significantly in the EPRI analysis. The use of heat pumps grows from meeting 4 percent of space-heating needs today to 35 percent by 2050. A similar trend takes place for water heating in the residential sector. Electric heat pumps with electric resistance backup go from serving 5 percent to 33 percent of the Wisconsin housing stock by 2050.
+Despite significant gains in the use of electricity for space and water heating, the overall impact on electricity load is minimal due to the efficiency gains assumed for heat pumps. In fact, end-use energy consumption for space and water heating only increases 2 percent by 2050 as more energy-intensive electric resistance applications are displaced.
+National Climate Assessment: Evaluating physical risk The Fourth National Climate Assessment, released in November 2018 by the U.S. Global Change Research Program, explores the science of climate change and its potential impacts on reliability and resiliency in different regions of the United States, including the Midwest. According to the report, “[c]limate change creates new risks and exacerbates existing vulnerabilities in communities across the United States, presenting growing challenges to human health and safety, quality of life, and the rate of economic growth.”
+Some of the key issues highlighted in the report that are particularly relevant to WEC Energy Group, due to Midwest operations, include the risk of heavy rain events and more frequent flooding within the region. Heavy precipitation events in the Midwest have increased in frequency and intensity over the past century and are projected to increase throughout this century. Other risks to the region include extreme high temperature events, with an increasing number of days with temperatures above 100 degrees Fahrenheit. Climate change could also increase the frequency of meteorological conditions that lead to poor air quality.
+Given the potential impact climate change may have on the Midwest and our business operations, we are searching for the most thorough and reliable way to assess and measure resiliency. As part of this effort, we are engaged with EPRI research on current practices in resiliency assessment and decision-making in order to advance industry awareness of emerging resiliency issues collaboratively (EPRI 2018).8 EPRI’s resiliency matrix developed through this project examines resiliency through two specific dimensions – threats and vulnerabilities. As EPRI notes, there is no “one-size-fits-all” metric, and it is not uncommon to develop and employ different metrics based upon the needs and priorities of various customers or organization segments, as well as varying regional conditions. EPRI’s results will continue to inform our ongoing evaluation of alternatives for implementing distribution system improvements.
+8. “ Technical Assessment of Resiliency Metrics and Analytical Frameworks” (Palo Alto, California: EPRI, 2018), 3002014571, https://www.epri.com/#/pages/product/000000003002014571/?lang=en-US.
+18 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Implications. 
+The transition to a low-carbon energy system presents both risks and opportunities for WEC Energy Group, and the EPRI analysis helped to bring these into sharper focus for us.
+Implications for power generation. 
+In 2018, our coal-fueled power plants and other companies’ coal-fueled plants accounted, respectively, for 45 and 35 percent of Wisconsin’s electric sector CO2 emissions.9 In the most aggressive emissions reduction cases analyzed, conventional coal-fueled generation in Wisconsin is mostly eliminated by 2040. Our current portfolio diversification strategy does not go this far, but it sets us on an ambitious trajectory to significantly reduce GHG emissions (see Appendix C). With this strategy, we are well-positioned to maintain reliable, resilient and affordable electricity service and to adjust to changing market, technology and regulatory conditions in the future. We believe this is a responsible and realistic approach.
+We retired approximately 35 percent of our coal-fueled generation capacity in 2018 and early 2019. With zero-carbon generation projects under development, we expect to invest $1 billion in new renewables through 2023. This will further reduce our exposure to carbon regulation and put us on track to achieve our long-term goal of reducing CO2 emissions 80 percent below 2005 levels by 2050 (see Figure 6). This is in line with some of the most ambitious sectorwide reduction scenarios that we evaluated with EPRI’s REGEN model.
+We continue to evaluate future investment options in carbon-free resources that would support our 2050 emissions reduction target and address emissions from our existing coal facilities. Our Weston 4 and Elm Road Generating Station coal facilities are focal points for this analysis. Most coal plants in the United States were built before 1990. Weston 4 came online in 2008 and the two Elm Road units started service in 2010 and 2011. These units will be only 40 years old in 2050 and are currently some of the newest and most efficient coal plants in the country. We will continue to explore options for carbon capture and storage (CCS) technology; however, this option may not be economically viable given the lack of underground storage reserves near the facilities, lack of infrastructure, and cost of transporting carbon to potential storage sites in the Midwest. The plants could be cost-effective to operate beyond 2030, under the most ambitious reduction scenarios, if offsets are available and natural gas prices rise above the standard assumptions. As demonstrated by the EPRI modeling, achieving the longer-term goals – in 2040 and 2050 – raises a challenging set of decisions about the future of the electric system and these facilities.
+Achieved and anticipated CO2 reductions (mass) 0% -10% -20% -30% -40% -50% -60% -70% -80%
+Figure 6: Our generation reshaping plan aims to reduce emissions 40 percent below 2005 levels by 2030 and 80 percent below 2005 levels by 2050. This is aligned with the most aggressive scenario we modeled. We believe this still gives us options to adjust to changing needs, technology, capability and expectations as we engage with regulators and stakeholders.
+2005 2018 2030 2050 9. U.S. EPA Clean Air Markets Database 19 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+As we diversify our generation portfolio, we are committed to making renewable energy a key part of our energy mix. The EPRI analysis helps to highlight uncertainties that we must factor into our future strategy. The Dakotas have tremendous wind energy potential (as depicted in Figure 7), which could enable the import of zero-carbon electricity to households and businesses in Wisconsin. However, if these imports are limited by transmission system constraints, then a different set of strategies would need to be deployed to meet the state’s renewable energy needs, and it would come at a different cost to our customers. Therefore, the ability to import zero-carbon electricity becomes a key variable in the most ambitious climate scenarios, as well as a key uncertainty in evaluating future climate risks.
+Figure 7: Representation of wind-speed data in US-REGEN. 
+Implications for electric load and operations. 
+The EPRI analysis shows that fueling transportation with electricity instead of petroleum has the potential to significantly reduce CO2 emissions. It also creates significant additional demand for electricity. We have an opportunity to help facilitate this transition by working with regulators and customers to capture the environmental benefits of a clean transportation system, saving our customers money in the process. Our utility time-of-use savings programs can reduce charging costs for electric vehicle owners by shifting the related electricity use to off-peak hours when electric demand is low. This can result in substantial savings, thus encouraging wider adoption of electric vehicles, potentially lowering total household energy costs.
+As more tasks are accomplished with electricity, including travel, space heating and water heating, daily and seasonal demand for electricity will fundamentally change with seasonal variations and a higher peak demand. Figure 8 illustrates a typical load profile in Wisconsin today. In Wisconsin, and the Midwest, demand for electricity typically peaks in the summer, when the use of energy-intensive air conditioners is high. With the electrification of multiple end uses, Wisconsin could transition to a winter peaking system. Electric demand would rise significantly in the coldest months of the year, driven by heat pumps and the fact that electric vehicles would need more charge time to travel an equivalent distance in cold conditions. Figure 8 shows the projected load profile in 2050 with the new winter peak.
+At the same time, the mix of resources serving the grid would be changing with additional wind, solar and other zero-carbon resources – some of which may be available to serve the winter peak, while others may not. For an electric system operator, simultaneously altering the supply mix while fundamentally changing the demand profile will create significant challenges for the industry. Our customers rely on us to provide reliable and affordable energy services, and we are prepared to facilitate this transition to a clean energy future.
+Figure 8: Peak demand is the highest amount of electricity used in a single hour, and electric system operators must ensure that they have sufficient power resources to meet this peak. Wisconsin would shift from a summer-peaking system to a winter-peaking system with the electrification of vehicles and other end uses assumed in the EPRI analysis.
+2015 aggregate load profile 2050 aggregate load profile. 
+Implications for electric load and operations go beyond just transitional risk to the area of physical risks and opportunities as well. The physical impacts of climate change described in the National Climate Assessment could damage transmission and distribution lines, disrupting customer service and adding expense to the electric system. Varying weather conditions could also result in fluctuations of electric and natural gas sales to customers, affecting our corporate performance.
+Winter peak. 
+Winter peak 2015. 
+Summer peak. 
+Summer peak 20 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Our electric reliability and planning area has established processes we expect will help reduce the magnitude of energy generation and delivery risks associated with weather events. We perform economic analyses of weather and energy use to establish historical relationships that are used for generation, financial and strategic planning. These analyses include long- and short-term forecasts of sales revenues and demand. The forecasts are supported by detailed load research. This analysis drives the cost of service studies used in price-setting and market research areas of the company. We expect this planning process will mitigate risks associated with changes in customer demand.
+Summary of risks and opportunities. 
+Changing climate conditions, potential policy measures and the technology changes reshaping the U.S. energy sector pose risks and opportunities for WEC Energy Group that vary significantly by business segment. Our utility subsidiaries work with regulators and other stakeholders to make the best investment decisions on behalf of our customers, and we depend on state regulators to enable timely cost recovery and the ability to earn a reasonable return on investment.
+The following table summarizes the key climate-change risks and opportunities that we factor into our long-term business planning and regulatory discussions. The table also includes the “signposts” associated with each category. The EPRI US-REGEN and climate scenario analyses highlight several important signposts or forward indicators that would signal significant shifts toward a “deep decarbonization” pathway consistent with the goals of the Paris Agreement.
+We will continue to track market, technology and policy developments against these signposts to help inform our future business plans. There is an opportunity for increased use of electricity to help decarbonize other parts of the economy cost-effectively; however, that opportunity will depend on future markets, technology and the design of enabling policies at various levels.
+As we reshape our generation fleet for a clean, reliable future, we will continue to evaluate these uncertainties and their potential impacts on our targets and strategies, and adjust our business strategies accordingly.
+“A merciless cold lingers in the Midwest”
+This was just one of the many news headlines in January 2019 as record-setting cold, descending from the Arctic, blanketed much of the Midwest. The temperature in Green Bay, Wisconsin dipped as low as -26 degrees Fahrenheit, matching the record set in 1899. These cold weather events, which can persist for days, highlight one of the challenges the region would face in electrifying vehicles and buildings and adding high levels of wind and solar generation. Batteries are less efficient at low temperatures, so additional charging is required during cold winter months. Heat pumps are also less efficient in extreme cold weather, and wind generation is limited when temperatures fall to -20 degrees Fahrenheit. These issues can be managed in a variety of ways, but represent one of the unique challenges in the region.
+21 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Major risks and opportunities associated with climate change and leading indicators of a "2 degrees Celsius" transition. 
+Business segment Risks Opportunities Signposts. 
+Overarching Transition risk  Climate change and climate regulations could impact the broader economy in the Midwest with implications for our business.
+Transitioning to a low-carbon economy creates opportunities to further develop a modern, resilient energy system, enhancing our reputation and brand value.
+• Policy proposals to limit greenhouse gas emissions or mandatory clean energy standards • Financial incentives for alternative energy technologies • Extreme weather events impacting the. 
+Midwest economy • Public opinions about the threat of climate change. 
+Electric generation. 
+Transition risks  Climate regulations and shifts in markets and technology could impact the economics of our generating facilities, resulting in the early retirement of some facilities.
+Deploying new technologies raises cost and performance risks.
+Physical risks  The increased frequency, duration or intensity of severe weather events could damage generating facilities.
+Prolonged drought could disrupt our generating facilities that rely on cooling water.
+Fuel supplies could be disrupted.
+Expanding the presence of zerocarbon resources in our fleet creates new investment opportunities and reduces our exposure to potential future climate regulations.
+The electrification of transportation and buildings could create new demand for electricity.
+New market opportunities could emerge from working with customers to meet their clean energy and sustainability goals.
+• Electricity demand and technologies • Generation fuel mix and markets • Planned capacity additions • Planned power plant retirements • Cost of renewable energy and other generating technologies • Breakthroughs in carbon capture and sequestration technology • Nuclear generation constraints and opportunities. 
+Electric transmission. 
+Transition risks  Transmission expansions, efficiency improvements and improved use of assets will be critical to expanding renewable energy in the Midwest. This raises siting and permitting challenges.
+Physical risks  The increased frequency, duration or intensity of severe weather events could damage transmission assets.
+Investment opportunities in transmission projects could help us deliver clean energy to market and maintain affordable energy supplies for our customers.
+• Import capacity for the state of. 
+Wisconsin • New transmission proposals • Wind and solar capacity additions in the MISO region. 
+Electric distribution. 
+Transition risks  Electric vehicles and distributed generation and storage could put new demands on the distribution system, creating operational risks and requiring upgrades and investments in the system.
+Physical risks  The increased frequency, duration or intensity of severe weather events could damage distribution lines.
+Investment opportunities to modernize and harden electric distribution equipment are helping us improve reliability and meet our customers' expectations.
+New business opportunities could include vehicle chargers, distributed resources and advanced energy-management services.
+• Electric vehicle models offered by car manufacturers • Sales of electric vehicles and percent of new car sales • Number of public charging stations • Customer opinions about electric vehicle options • Behind-the-meter solar energy systems • Heat pump installations. 
+Natural gas distribution and storage. 
+Transition risks  End-use efficiency, decarbonizing supply and electrification could impact the economics of our natural gas distribution and storage businesses.
+Physical risks  Fuel supplies could be disrupted.
+System modernization and replacement efforts are reducing methane emissions while enhancing safety and reliability.
+• Miles of polyethylene pipes 22 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Conclusion. 
+Across WEC Energy Group, we are supporting the transition to a lower-carbon economy. We have greatly reduced our GHG emissions while maintaining awardwinning electric reliability, and our strategy is designed to achieve still more ambitious reductions over the long term.
+A broad range of scenario analyses has indicated significant opportunities for our business, many of which will depend on continued technological development. Our robust risk-management program and ongoing efforts to improve grid resiliency can help facilitate this transition. We will continue to communicate our efforts and plans as they evolve, and welcome input from our stakeholders.
+23 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Appendices. 
+Appendix A: EPRI scenario analysis. 
+The Electric Power Research Institute (EPRI) modeled more than 140 scenarios with varying assumptions regarding technology costs, fuel prices, an electric sector cap and Wisconsin interstate power flows.
+Reference case assumptions were based on prior research by EPRI and the U.S. Energy Information Administration (EIA), and took into account recent regulatory, economic and operational developments: • Fuel prices from EIA’s Annual Energy Outlook 2017 High Oil and. 
+Gas Recovery case.
+• End-use technology assumptions following EPRI’s U.S. National. 
+Electrification Assessment reference case.
+• Existing environmental policies modeled, including Cross-
+State Air Pollution Rule, State Renewable Portfolio Standards, Regional Greenhouse Gas Initiative and New Source Performance Standards [section 111(b)].
+• No limits on building new generation technologies, except nuclear [50 gigawatts (GW) per five years].
+• Build limits on new interregional transmission, informed by. 
+EPRI’s Power Delivery and Utilization sector.
+• Lifetime limits on all existing units, including 70-year lifetime for coal units.
+• Solar capital costs lowered by 10 percent per discussion with. 
+EPRI staff to better reflect latest numbers, and 10 percent investment tax credit extended to 2050.
+• New nuclear units allowed to cycle (previously considered must-run).
+• About 75 percent of Wisconsin onshore wind potential removed, i.e., all, except the wind in the southwest of the state, due to stringent state law on setback requirements from residences and potential impact on Lake Michigan bird migration routes..
+• Added pipeline costs for captured carbon dioxide (CO2) to be sent to Illinois for storage, and added 45Q federal tax credit for CO2 storage.
+• New solar photovoltaic and natural gas-fueled units under construction in Wisconsin.
+• Half of biomass CO2 emissions ignored for target purposes due to policy uncertainty regarding whether biomass is considered carbon-neutral.
+• Energy storage considered outside of project scope. Based on the current state of energy storage technology, it was determined that including energy storage would be unlikely to change the key insights. As storage technology and costs improve over time, however, future analyses could be updated accordingly. The likely result will be both lower costs and lower carbon dioxide (CO2) emissions.
+Table 1: EPRI’s standard assumptions on technology costs as well as sensitivities analyzed. 
+Technology Standard assumption Sensitivity Sensitivity notes. 
+Carbon capture, transport and storage ~$2/metric ton storage + 317-mile CO2 pipeline ~$2/metric ton storage + 210 mile CO2 pipeline. 
+Assumes a more direct route to Illinois ‘Long’ 45Q extension 12-year subsidy at $50/short ton CO2 Lifetime subsidy at $50/short ton CO2 ‘High’ 45Q expansion 12-year subsidy at $50/short ton CO2 12-year subsidy at $63/short ton CO2 25% higher. 
+Biomass CO2 credit 50% 100% Informed by EPRI staff. 
+Biomass energy crops available No energy crops grown 132 trillion Btu of energy crops at $4 per million Btu. 
+Informed by EPRI staff. 
+Solar photovoltaic $648/kilowatt (kW) + $450/kW connection charge $515/kW + $100/kW connection charge. 
+Department of Energy Sunrise 2050 projection. 
+Biological (agriculture and forestry) greenhouse gas offsets ~86 million metric tons at $15/ton No offsets available EPRI study. 
+Nuclear $5,128/kW $4,000/kW EPRI Advanced Nuclear study. 
+Offshore wind $2,143/kW $2,858/kW National Renewable Energy Laboratory high cost projection 24 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Appendices. 
+Nine core scenarios were identified based on potential electric decarbonization targets and power flows, with other variables set according to reference case assumptions.
+Table 2: Core scenarios based on electric sector caps and power flows. 
+Decarbonization. 
+Interstate power flows can respond to policy changes*
+Interstate power flows fixed to Ref levels**
+Reference Ref 40% off electric sector emissions by 2050 vs. 2005. 
+Cap40 Cap40i 60% off electric sector emissions by 2050 vs. 2005. 
+Cap60 Cap60i 80% off electric sector emissions by 2050 vs. 2005. 
+Cap80 Cap80i 95% off electric sector emissions by 2050 vs. 2005. 
+Cap95 Cap95i * Helps to understand how Wisconsin could reach the target at least cost using both. 
+Wisconsin resources and additional out-of-state imports.
+** Helps to understand how Wisconsin could reach the target “alone,” without additional imports.
+
+The electric sector emissions reduction targets produced a wide range of CO2 prices through 2050, which were then applied to energy use in other sectors of the economy. Taking these prices into account, Figure 1 shows EPRI’s modeling of the additional costs of meeting different decarbonization targets. Costs here are measured as the percentage change in net present value costs between the policy scenario and the reference case for the electric sector.
+Figure 1: Wisconsin additional electric sector costs above reference case to meet CO2 targets 
+0 2% 4% 6% 8% 10% 12% 14%
+Wisconsin electric sector relative costs. 
+Cap40 Cap40i Cap60 Cap60i Cap80 Cap80i Cap95 Cap95i 25 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Appendices. 
+Appendix B: Offsets through biological sequestration. 
+As part of the scenario analysis process, EPRI developed estimates of U.S. agriculture and forestry mitigation supply derived from previously completed offsets supply work. Annual mitigation supply of 1 to 10 million metric tons of carbon dioxide (CO2) is estimated to be available at prices less than or equal to $15 per ton CO2 equivalent (tCO2eq).
+The figure below shows estimates for annual mitigation supply at $15/ tCO2eq. The estimates are annual averages from cumulative mitigation over different time periods for the given price.
+Two kinds of mitigation potential are estimated in the graph – economic and market. Economic potential is EPRI’s estimate of mitigation supply given technology and economic assumptions. Market potential includes technology and economic assumptions, as well as additional costs from uncertainty about mitigation technology performance and carbon crediting. These market realities are potentially significant costs that affect the credits that might be available at a given price.
+The results assume a tax-subsidy scheme for incentivizing mitigation. If we instead assume a voluntary program, where mitigation suppliers can choose to change behavior to generate mitigation credits or not (i.e., participation is optional), we might expect a smaller supply of credits, as well as net mitigation that is less than the credits due to leakage.
+Agriculture and forestry mitigation supply potential is dependent on the demand for agriculture and forest biomass feedstocks for energy. If biomass demand for energy increases, the cost of agriculture and forestry mitigation increases.
+Figure: Estimated annual average U.S. forestry and agriculture mitigation with $15/tCO2eq for different time periods. Note: A negative result implies an increase in emissions from baseline. “Other” includes fossil fuel, fertilizer production and pesticide production emissions.
+ 
+0 20% 40% 60% 80% 100% 120% -20% To 2020. 
+Economic potential (64 MtCO2e/yr)
+Market potential (44 MtCO2e/yr) 2021-2030. 
+Economic potential (200 MtCO2e/yr)
+Market potential (121 MtCO2e/yr) 2031-2050. 
+Economic potential (159 MtCO2e/yr)
+Market potential (71 MtCO2e/yr) • Forest products • Forest management • Agricultural soil carbon • Afforestation • Other agricultural • Other 26 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Appendices. 
+Appendix C: Generation reshaping in Wisconsin. 
+WEC Energy Group expectations and options. 
+We have set goals to reduce carbon dioxide (CO2) emissions by approximately 40 percent below 2005 levels by 2030 and 80 percent below 2005 levels by 2050. Following are our expectations and options for reshaping our generation mix to achieve these goals.
+1. Assumptions for fossil-fueled and nuclear power plants built before 2000: • Replaced with carbon-free resources: • Coal generation • Natural gas and oil simple-cycle and natural gas steam generation • Point Beach Nuclear Plant energy purchases 2. Options for fossil-fueled power plants built after 2000: • Elm Road units’ emissions reduced or mitigated; some possible options for accomplishing this include: • Retrofit with carbon capture utilization and storage (CCUS) technology.
+• Mitigate using biological sequestration projects (e.g., forestry).
+• Weston Unit 4 replaced with carbon-free resources or natural gas combined-cycle (NGCC) generation.
+• Other NGCC generation replaced with newer, more efficient NGCC technology.
+We consider coal-fueled generation with at least 70 percent emissions reduction (e.g., 70 percent carbon capture), NGCC generation and natural gas-fueled reciprocating internal combustion engines (RICE) to be low-carbon generation.
+Table: Possible options for WEC Energy Group assets as of 2050 2050 goal* Illustrative example. 
+Current asset. 
+Current fuel 80% CO2 reduction 95% CO2 reduction. 
+Elm Road 1-2 Coal As is + 70% CCUS or 70% offset**
+As is + 90% CCUS or 90% offset**
+Weston 4 Coal New NGCC or new carbon-free. 
+New carbon-free. 
+Weston 3 Coal Low or no carbon New carbon-free. 
+Columbia 1-2 Coal Low or no carbon New carbon-free. 
+South Oak Creek 5-8 Coal Low or no carbon New carbon-free. 
+Valley 1-4 Natural gas Low or no carbon New carbon-free. 
+Combinedcycle (NGCC)
+Natural gas New NGCC or new carbon-free. 
+New NGCC + 70% CCUS or 70% offset**
+Simple-cycle Natural gas Low or no carbon New carbon-free. 
+RICE units Natural gas Low or no carbon New carbon-free. 
+Point Beach*** Nuclear New carbon-free 
+* From 2005 CO2 levels ** Offset examples include forestry or agricultural carbon-sequestration projects *** Units 1 and 2 licenses expire in 2030 and 2033, respectively 27 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Appendices. 
+Statewide generation. 
+EPRI developed the following chart to show projected CO2 emissions in Wisconsin resulting from each core scenario, as defined in Appendix A.
+0 20 40 60 80 100 120. 
+Ref Ref Cap80 Cap80i Cap95 Cap95i Ref Cap80 Cap80i Cap95 Cap95i • Electricity generation • Buildings • Industrial • Light-duty vehicles • Other transportation 2030 2015 2050 million metric tons 28 PATHWAY TO A CLEANER ENERGY FUTURE
+
+
+Cautionary Statement Regarding Forward-Looking Information. 
+Certain information contained in this report is forward-looking information based upon management’s current expectations and projections that involve risks and uncertainties. Forward-looking information includes, among other things, statements concerning future GHG emissions, environmental regulations, capital plans and expenditures, investment opportunities, corporate initiatives, the purchase of solar and wind energy, renewable energy programs, electric generating unit retirements, demand-side management and energy efficiency programs, and sources and costs of fuel. Readers are cautioned not to place undue reliance on this forward-looking information. Forward-looking information is not a guarantee of future performance and actual results may differ materially from those set forth in the forward-looking statements.
+In addition to the assumptions and other factors referred to in connection with the forward-looking information, factors that could cause WEC Energy Group’s actual results to differ materially from those contemplated in any forward-looking information or otherwise affect the company’s future results include, among others, the following: general economic conditions, including business and competitive conditions in the company’s service territories; timing, resolution and impact of rate cases and negotiations, including recovery of deferred and current costs and the ability to earn a reasonable return on investment, and other regulatory decisions; political developments; energy conservation efforts; continued adoption of distributed generation by customers; the company’s ability to continue to successfully integrate the operations of its subsidiaries; availability of the company’s generating facilities and/or distribution systems; unanticipated changes in fuel and purchased power costs or availability; key personnel changes; varying weather conditions; continued industry consolidation; cyber-security and terrorist threats; construction risks; equity and bond market fluctuations; the remaining uncertainty surrounding the tax legislation enacted in December 2017; federal and state legislative and regulatory changes relating to the environment, including climate change and other environmental regulations impacting generation facilities and renewable energy standards, the enforcement of these laws and regulations, changes in the interpretation of regulations or permit conditions by regulatory agencies, and the recovery of associated remediation and compliance costs; the performance of projects the company’s energy infrastructure business invests in; the ability to obtain additional generating capacity at competitive prices; current and future litigation and regulatory investigations; the inability of customers, counterparties, and affiliates of the company and its subsidiaries to meet their obligations; advances in technology, and related legislation and regulation supporting the use of that technology; the value of goodwill and its possible impairment; changes in accounting standards; and other factors described under the heading “Factors Affecting Results, Liquidity, and Capital Resources” in Management’s Discussion and Analysis of Financial Condition and Results of Operations and under the headings “Cautionary Statement Regarding Forward-Looking Information” and “Risk Factors” contained in WEC Energy Group’s Form 10-K for the year ended December 31, 2018, and in subsequent reports filed with the Securities and Exchange Commission. WEC Energy Group expressly disclaims any obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Third-Party Information. 
+Third-party scenarios discussed in this report reflect the modeling assumptions of their respective authors, not WEC Energy Group, and their use or inclusion in this report is not an endorsement by the company of their likelihood or probability.
+
+
+WEC Energy Group is committed to sustainable business practices. For more information about corporate responsibility, visit www.wecenergygroup/csr.
+© 2019 WEC Energy Group

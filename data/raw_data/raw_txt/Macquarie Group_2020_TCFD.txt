@@ -1,0 +1,445 @@
+Macquarie and climate change. 
+TCFD implementation progress and scenario analysis. 
+J U LY 2 0 2 0 macquarie.com/ESG
+
+
+ABOUT THIS REPORT. 
+Macquarie continues to support the important work of the Task Force on Climate‑related Financial Disclosures (TCFD) and is actively implementing its recommendations.
+This report builds on previous disclosures and provides details on our approach to understanding and managing climate‑related risks, including our strategy, risk management and governance practices and the heat‑mapping and scenario analysis that we have completed in 2020.
+Acclimatise, Vivid Economics and Risk Frontiers have supported Macquarie in the climate scenario analysis activities.
+We will continue to monitor developments, engage with stakeholders and evolve our approach to identifying and managing climate‑related risks and opportunities.
+
+
+Macquarie and climate change 1. 
+Climate change governance 3. 
+Climate strategy and risk management 5. 
+TCFD implementation summary 8. 
+FY2020 scenario analysis 10. 
+FY2020 energy sector exposures 11. 
+Transition risk 12. 
+Scenarios 12. 
+Heat maps 15. 
+Scenario analysis 18. 
+Physical risk 20. 
+Scenarios 20. 
+Heat maps 20. 
+Scenario analysis 20. 
+Additional climate-related disclosures 26. 
+C O N T E N T S
+
+
+1. 
+Climate change presents one of the most significant challenges for society and the global economy. 
+The financial sector has a critical role to play, alongside government, businesses, investors and the community, to support the transition to a low carbon and climate‑resilient economy.
+As a global financial services provider, with the purpose of empowering people to innovate and invest for a better future, we are committed to using our expertise in infrastructure, renewable energy, clean technology and environmental markets to connect global capital to opportunities that support this transition.
+M A C Q U A R I E A N D C L I M A T E C H A N G E 1
+
+
+2. 
+We anticipate that our businesses will adapt, adjust, manage the risks and continue to seek opportunities in response to the decarbonisation of the global economy.
+Alongside the action being taken by our businesses,
+Macquarie continues to support the important work of the Task Force on Climate‑related Financial. 
+Disclosures (TCFD) and is actively implementing its recommendations based on the four key pillars of climate change governance; strategy; risk management; and metrics and targets, as outlined in the TCFD implementation summary table on page 9.
+To further refine understanding of the potential vulnerabilities to climate change risks for Macquarie, we have developed physical and transition risk heat mapping for our lending and equity portfolios under 1.5°C and 3‑4°C scenarios. This analysis is intended to provide an assessment of relative exposures to physical and transition risks associated with each selected scenario across industry sectors and geographies. The analysis indicates the impacts on each of the sectors to which we are presently exposed would primarily be felt after 2030, and that the impact on. 
+Macquarie would not be considered material given the diverse nature of our portfolio, the short time horizon of our exposures compared to these scenarios and the limited size of our existing lending exposure to each sector.
+M A C Q U A R I E A N D C L I M A T E C H A N G E
+
+
+3. 
+Climate change governance. 
+Macquarie’s Board is responsible for approving Macquarie’s risk management framework which includes the environmental, social and governance (ESG) framework and key ESG policies.
+
+
+4. 
+The Board Governance and Compliance Committee (BGCC) through its Charter, assists the Board by overseeing and monitoring the effectiveness of the ESG framework including the approach to and management of climate‑related risks.
+Macquarie’s Chief Risk Officer (CRO) is responsible for embedding climate change risks into the risk management framework.
+Macquarie’s Environmental and Social Risk (ESR) team, which reports to the Chief Risk Officer, facilitates the assessment of climate‑related risks. In doing so, the ESR team works with specialist teams within Macquarie’s broader Risk Management. 
+Group and businesses. Senior Management (through our. 
+Management Committees) and the BGCC receive reports, at least on a six‑monthly basis, on a range of ESG‑related matters including climate‑related risks and opportunities.
+Macquarie’s internal Global Green Committee, reporting to Senior. 
+Management, with representatives from across our businesses, promotes and coordinates business development opportunities related to the low carbon economy. Macquarie's four operating groups are engaged in activities to support clients and customers in managing the energy transition and adapting to climate change.
+This includes Macquarie’s Green Investment Group (GIG), which specialises in green infrastructure development and financing across the capital structure and is dedicated to supporting the growth of the global green economy.
+C L I M A T E C H A N G E G O V E R N A N C E
+
+
+5. 
+Climate strategy and risk management. 
+The diversity of our operations combined with a strong capital position and robust risk management framework are important factors in our ability to adapt to changing conditions.
+
+
+6. 
+Climate strategy. 
+Our climate change approach supports the transition to a low carbon and climate‑resilient economy and focuses on: • identifying and leveraging opportunities for Macquarie and our clients • assessing and managing the risks arising from climate change and future carbon constraints • collaborating with industry, government and other stakeholders to share knowledge and build capacity • managing the carbon footprint of our own operations.
+Realising opportunities. 
+The international community and governments at all levels have made enduring commitments to mitigate and adapt to climate change, improve air quality and enhance resource efficiency. Macquarie believes that private capital is critical to delivering the scale of response necessary to meet these commitments and will continue to apply its resources and expertise to support the mobilisation of capital to meet this need.
+Macquarie will do this by: • developing assets, investing and providing asset financing solutions in the renewable energy, clean technology and energy efficiency sectors • making investments that will support the increase in volume and value of low carbon and clean assets in established and emerging markets • providing clients and staff with research on the economic, policy and business impacts of climate change and emerging technologies • assisting industry participants to reach their decarbonisation goals and to prepare for compliance with carbon regulation and providing carbon risk management products.
+Managing climate change risks. 
+Consistent with its strong risk management focus,
+Macquarie considers climate change and future carbon constraints within the existing risk management framework. The group‑wide Environmental and Social. 
+Risk policy provides a robust process for embedding environmental and social risk management into investment decision making.
+C L I M A T E S T R A T E G Y A N D R I S K M A N A G E M E N T
+
+
+7. 
+Climate‑related risks are considered through the assessment of changes to laws and regulations; technology developments and disruptions; physical and reputational risks; and the evaluation of adaptation and mitigation measures for transactions and counterparties in exposed industry sectors.
+Matters with material environmental and social risks, including climate change risks, may be escalated to the Chief Risk. 
+Officer, Executive Committee or Macquarie Board.
+Macquarie regularly conducts sector‑specific credit portfolio analysis, monitoring credit concentration by counterparty, country, risk type, industry and credit quality. Building on this credit portfolio analysis,
+Macquarie has evolved methodologies to incorporate the assessment of climate‑related risks for carbon intensive sectors using climate vulnerability indices to assist in identifying potential risk concentrations across regions.
+We will continue to refine this analysis and seek to extend it to other industry sectors, where relevant.
+Supporting global activity to better understand, mitigate and adapt to the impacts of climate change. 
+Macquarie has a longstanding commitment and expertise in the renewable energy and clean technology sectors through its investment activity, its cross‑industry collaboration to accelerate the growth of the green economy and its industry‑ leading analysts dedicated to alternative energy research and the impact measurement of climate mitigation projects.
+Macquarie continues to support global efforts to better understand the impact of climate change on society, our clients and our business. This involves a diverse range of activity including engaging clients and assets; research projects into areas such as reducing agricultural emissions with CSIRO; active engagement in initiatives like TCFD; and initiating collaborative working with other financial institutions through the United Nations’ Climate Finance Leadership. 
+Initiative (CFLI) and broader multi‑stakeholder initiatives like the World Bank’s Global Commission on Adaptation (GCA).
+Through this engagement, Macquarie is working to improve our understanding of the risks associated with climate change while also pursuing opportunities to work with clients to advance mitigation and adaptation.
+More broadly, our industry experts continue to work with governments, non‑government organisations and industry groups to build international capacity in the green finance sector and promote confidence among investors to finance green assets. Globally, last year, we took an active role in over 109 industry initiatives and conferences which included membership of the UK’s Green Finance. 
+Task Force, and advisory groups establishing common international standards for Sustainable Finance.
+C L I M A T E S T R A T E G Y A N D R I S K M A N A G E M E N T 12.8GW of renewable energy assets in operation or under management at 31 March 20201 $A9b invested or arranged in renewable energy or energy efficiency projects in FY20 1 GW of renewable energy assets in operation or under management reflect 100% generating capacity of each asset, not the proportion owned/managed by Macquarie
+
+
+8. 
+TCFD implementation summary
+
+
+9. 
+Climate change governance Strategy Risk management Metrics. 
+Progress to end of FY2019 • Board responsibility for approving. 
+ESG framework and key ESG policies • BGCC oversight and monitoring effectiveness of ESG framework, including approach to climate change risk management • Internal Global Green Committee to promote and coordinate climate change mitigation and adaptation opportunities.
+• Connection of global capital with climate mitigation opportunities using our deep understanding and expertise in the renewable energy and clean technology sectors • Supporting the Macquarie CEO’s role as a founding member of the CFLI and a Commissioner of the GCA • Assisting in the development of common international standards for sustainable finance through membership of the UK’s Green Finance Task Force, and other relevant advisory groups • Extending GIG’s geographic scope to support the growth of the green economy globally. GIG is now active in over 25 markets across EMEA, Asia, North America and ANZ • Supporting energy retailers in the UK by providing funding solutions for government mandated roll out of smart meters • Carbon financing and trading to support voluntary and regulated emissions trading schemes • Carbon neutral since 2010.
+• Incorporated climate‑related risks into environmental and social risk and credit analysis for carbon intensive sectors • Established approaches to transition risk analysis in the oil, gas, coal and power generation sectors of our lending and equity portfolios • Conducted scenario analysis for these sectors representing transition pathways to 2°C warming and 3–4°C warming by 2100.
+• $A7.9 billion invested or arranged in renewable energy and energy efficiency projects in FY2019 • 13,530 MW of renewable energy assets in operation or under management at 31 March 20192 • FY2019 emissions per capita reduced by 33% from FY2010 baseline (11% increase from FY2018) • FY2019 absolute emissions reduced by 32% from FY2010 baseline (15% increase from FY2018) • FY2019 scope 2 direct emissions reduced by 35% from. 
+FY2009 baseline (10% reduction from FY2018).
+Progress during FY2020 • CRO nominated as accountable executive • Established climate risk steering committee • Expanded the scope of the Global. 
+Green Committee and enhanced briefing to Board, BGCC and Senior Management.
+• Worked alongside the UN Green Climate Fund and other public finance bodies to support emerging market countries to create conditions conducive for green finance • Utilised founding membership of the US Alliance for Sustainable. 
+Finance • Delivery of CFLI and GCA reports to the United Nations during UN. 
+Climate Week • Continued GIG growth into development stage investment and using PPAs to progress projects without public subsidy • Evolved asset financing opportunities to support clients to transition vehicle fleets to ultra low emissions.
+• Included climate change risk within Group Risk. 
+Appetite and Risk Management Statements • Generated physical and transition climate risk vulnerability heat maps for lending and equity portfolios across sectors and geographies • Conducted transition risk analysis of lending and equity portfolios for the oil, gas, coal, metals and mining and power generation sectors, representing pathways to 1.5°C and 4°C warming by 2100 • Analysed physical risk of Macquarie’s mortgage portfolio, representing pathways to 1.5°C and 4°C warming by 2100 • Evolved understanding of carbon emissions for the. 
+MIRA infrastructure assets.
+• $A9.0 billion invested or arranged in renewable energy and energy efficiency projects in FY2020 • 12,800 MW of renewable energy assets in operation or under management at 31 March 20202 • FY2020 emissions per capita reduced by 45% from FY2010 baseline (18% reduction from FY2019) • FY2020 absolute emissions reduced by 42% from FY2010 baseline (16% reduction from FY2019) • FY2020 scope 2 direct emissions reduced by 40% from. 
+FY2009 baseline (8% reduction from FY2019) • Closed a $A1 billion agriculture fund targeting improvements in on farm energy efficiency and reducing carbon emissions.
+Focus beyond FY2020 • Ongoing implementation of relevant regulatory guidelines on climate risk governance • Continue to refine and embed climate considerations within existing risk management framework • Continue to enrich Board and executive insight into and visibility of climate‑related risks and opportunities.
+• Continue to build internal expertise and capacity to support the energy transition into new markets and across new technologies • Evolve approaches for integration into business strategy planning • Work alongside businesses in further incorporating climate risk in product design and engaging with clients on climate risk • Source 100% renewable energy for Macquarie premises by 2025 in line with our RE100 commitment.
+• Continue integration of climate‑related risks through our risk management framework • Refine scenario analysis and seek to extend to other industry sectors, where relevant • Evolve integration of scenarios into existing risk processes and stress testing • Assess vulnerability and resilience of our business premises to physical climate risks.
+• A further 20% reduction in electricity use by 2023 (from 2014 baseline) • Source 100% renewable energy for Macquarie premises by 2025 in line with our RE100 commitment • 80% of employees in sustainably rated premises3 • Ongoing enhancement of TCFD disclosures to be consistent with all relevant Task Force recommendations • A commitment to develop 20 GW of renewable energy projects over the next five years, with 4 GW of this in non OECD emerging market countries.
+2 MW of renewable energy assets in operation or under management reflect 100% generating capacity of each asset , not the proportion owned/managed by Macquarie.
+3 LEED Gold, BREEAM Good, 5 Star Green Star or equivalent.
+T C F D I M P L E M E N T A T I O N S U M M A R Y
+
+
+10. 
+FY2020 scenario analysis. 
+Scenario analysis provides a tool for assessing future risks and opportunities associated with climate change. The scenarios presented in this section are not predictions or forecasts but provide a variety of plausible future outcomes.
+
+
+11 1.3% of total funded loan assets exposed to conventional energy at 31 March 20204 2.2% of total funded equity investments exposed to conventional energy at 31 March 20205 13.6% of total funded equity investments exposed to renewable energy at 31 March 20205 4 Total funded loan assets include loan assets held at amortised cost adjusted to exclude certain items such as assets that are funded by third parties with no recourse to Macquarie. In addition, loan assets at amortised cost per the statutory balance sheet are adjusted to include fundable assets not classified as loans on a statutory basis (e.g. assets subject to operating leases). Total funded loan assets amount to $A86.5 billion as at 31 March 2020 ($A82.3 billion as at 31 March 2019).
+5 Equity investments are reported on a funded balance sheet basis and therefore exclude equity hedge positions and non controlling interests. Macquarie’s carrying value of its interest in East Anglia ONE Limited is $A2.8 billion, which has been partially funded with asset‑specific borrowings of $A2.3 billion at 31 March 2020. Total funded equity investments amount to $A7.4 billion as at 31 March 2020 ($A5.9 billion at 31 March 2019).
+FY2020 energy sector exposures. 
+As a managed global energy transition continues, it is clear that there will be an ongoing role for conventional energy for some time as the deployment of renewable energy rapidly grows. Macquarie has deep expertise in the energy sector, providing solutions for clients through activities in both physical and financial markets across conventional and renewable energy. We have played a leading role in facilitating the shift toward renewables and the wider decarbonisation of the global economy.
+Particular focus was placed on trying to address the various challenges that remain to full transition including energy storage, land use, the need for a greater number of investible projects, particularly in emerging economies, and greater levels of investment in adaptation and resilience projects.
+In FY2020 these efforts continued globally, see pages 46–49 of Macquarie Group’s. 
+FY20 Annual Report.
+For further information on our activities in. 
+Commodities and Global markets, refer to our. 
+Operational Briefing, February 2020. 
+The table below provides Macquarie’s equity and loan portfolio exposures to the coal, oil, gas and renewables sectors as at 31 March 2020.
+FY19 FY20. 
+Loan assets4 $Ab. 
+Equity investments5 $Ab. 
+Loan assets4 $Ab. 
+Equity investments5 $Ab. 
+Oil 0.7 0.2 0.5 0.1. 
+Gas 0.4 –
+Coal 0.2 – 0.2 –
+Renewables – 0.9 – 1.0. 
+FY2020 scenario analysis. 
+The use of scenario analysis, in the form of physical and transition risk heat mapping across our lending and equity portfolios, has refined our understanding of the potential vulnerabilities to climate change risks for Macquarie.
+These heat maps are intended to provide an assessment of relative exposures to physical and transition risks associated with various scenarios across industry sectors and geographies, based on the current composition of the portfolio assuming no changes across all time horizons.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S
+
+
+12. 
+T R A N S I T I O N R I S K. 
+Scenarios. 
+There are numerous possible future pathways for the world to reach a particular climate outcome. We selected three divergent scenarios for transition risk, representing plausible transition pathways to 1.5°C warming by 2100 relative to pre‑industrial levels (including an orderly and a disorderly transition) and 3‑4°C warming by 2100 relative to pre‑industrial levels (or baseline scenario). These were based on scenarios that informed the Intergovernmental. 
+Panel on Climate Change’s (IPCC) Special Report on 1.5°C and used the Potsdam Institutes’ Advance. 
+REMIND models.
+In selecting these scenarios, a detailed review was conducted of a wide range of public climate scenarios.
+Our selection was based on models that covered various climatic outcomes; provided information for the sectors and geographies most relevant to Macquarie’s exposures; are widely recognised and used by the industry; and are regularly updated.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S
+
+
+13. 
+Scenario assumptions 1.5°C – Orderly 1.5°C – Disorderly Baseline Scenario (3–4°C)
+Time horizons 2020, 2030s, 2050s. 
+Policy Immediate policy action consistent with limiting warming to 1.5°C by 2100. Policy action is delayed until after 2030, from which point action is taken to limit warming to 1.5°C by 2100.
+The (Intended) Nationally Determined Contributions to the Paris Agreement by 2030 are implemented, with an extrapolation of implied effort beyond 2030.
+Carbon price An immediate strengthening of near‑term mitigation action and stringent long‑term climate policies.
+Policies drive carbon pricing of over US$100 / tCO2 in 2025 reaching over US$400 / tCO2 by 2050.
+Carbon price remains low until 2030, when stringent policy action results in a rapid increase to over US$200 / tCO2 by 2035 and over US$500 / tCO2 by 2050.
+Carbon price remains low, initially reaching US$15 / tCO2 in 2025, and rising to around US$25 / tCO2 by 2050.
+Energy By 2030, renewables comprise 29% of primary energy demand, increasing to 68% by 2050.
+Coal as a proportion of energy demand reduces to close to zero by 2050, while gas demand reduces to approximately 8% by 2050.
+Carbon capture and storage is deployed, mainly used for bioenergy related to hydrogen generation.
+Refer to Figure 1 on page 14.
+In 2030, renewables comprise 19% of primary energy demand, increasing to 71% by 2050.
+Coal as a proportion of energy demand reduces to close to zero by 2050, while gas demand reduces to approximately 6% by 2050.
+Deployment of carbon capture and storage is similar to the Orderly Scenario with limited deployment to abate fossil fuels and industrial processes.
+Refer to Figure 1 on page 14.
+By 2050, fossil fuels comprise 67% of primary energy demand, compared to 84% in 2020.
+Coal demand as a share of total primary energy demand grows in developing regions but falls in developed regions, leading to an overall slightly decreasing share of global primary energy demand by 2050.
+Increasing primary energy demand is delivered predominantly through renewables.
+Electricity generation. 
+By 2030, fossil fuels provide 24% of total electricity generation, with renewables providing 65%.
+By 2050, total electricity generation comprises 89% renewables (including 57% solar and 23% wind), with fossil fuels accounting for approximately 1% of generation.
+Refer to Figure 2 on page 14.
+Generation trajectories align with the baseline scenario until 2030, with gas based generation growing until around 2030 but falling thereafter to less than 1% of capacity by 2050.
+Refer to Figure 2 on page 14.
+By 2050, total electricity generation comprises 76% renewables with solar accounting for around 47% of all electricity generation.
+Refer to Figure 2 on page 14.
+Regional Variations. 
+Gas demand decreases as a proportion of total primary energy demand across all regions by 2050 with substantive decreases in US and Europe by 2035.
+However in Asia gas demand increases until around 2035, with some countries such as India seeing an increase until 2040.
+Biomass provides approximately 22% of total primary energy demand globally by 2050 (~10% in 2020).
+Latin America sees the greatest increase in biomass as a proportion of primary energy demand, reaching ~50% by 2050.
+In contrast, biomass remains at around 15% of primary energy in India.
+Similar to the Orderly Scenario, gas demand as a proportion of total primary energy demand decreases across all regions by 2050, with deeper reductions in the US and Europe than under the Orderly Scenario.
+Asia responds differently with gas demand as a proportion of total primary energy demand increasing in parts of Asia including China until around 2035 but peaking in India around 2030.
+Biomass provides more than a quarter of primary energy demand globally by 2050.
+Across all regions, limited growth in biomass as a proportion of primary energy occurs until after 2030, with the most substantive increases in biomass as a proportion of primary energy demand occurring in Latin America and China, reaching ~45% (Latin America) and ~18% (China) by 2050.
+A slight decrease in gas as a proportion of total primary energy demand is observed.
+Biomass declines from ~10% primary energy demand in 2020 to ~6% in 2050.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K
+
+
+14. 
+Figure 1: Primary energy demand by fuel type 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 2020 2030 2050 2020 2030 2050 2020 2030 2050 1.5°C Orderly 1.5°C Disorderly Baseline. 
+Biomass. 
+Renewables (non-biomass)
+Nuclear. 
+Gas. 
+Coal. 
+Oil. 
+Figure 2: Electricity generation by fuel type. 
+Nuclear. 
+Gas. 
+Coal. 
+Other. 
+Biomass. 
+Hydro. 
+Solar. 
+Wind. 
+Electricity supply (EJ / year) 0
+50 100 150 200 250 300 350 1.5°C Orderly 1.5°C Disorderly Baseline 2020 2030 2040 2050 2020 2030 2040 2050 2020 2030 2040 2050. 
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K. 
+Source: REMIND ADVANCE Scenario 2020_1.5C‑2100, ADVANCE Scenario 2030_1.5C‑2100 and ADVANCE Scenario (I) NDC
+
+
+15. 
+Heat maps. 
+The sectors most negatively impacted by 2050 as a result of carbon pricing and related policies include fossil fuel intensive industries such as coal mining, carbon intensive power generation, and oil and gas exploration and production. The utilities sector experiences a high variation in impact, with the least carbon intensive companies experiencing positive growth. Within the transport sectors, air transportation is more affected than shipping, with road and rail transportation least affected due to the relative availability of electrification.
+Regional variations were identified at a sector level, influenced by the characteristics of the companies operating in each region including emissions intensity and market variations.
+For the metals and mining sector, regional differences were identified that could be attributed to the product mix and emissions intensity of production. Impacts were greater than the global average for this sector in Africa,
+China, India and the Middle East with US and Canada showing limited impact and Central and South America experiencing more positive outcomes due to their high proportion of miners producing green minerals.
+Within the coal mining sector, by 2050 the impacts across all regions were similar under both the Disorderly and. 
+Orderly Scenarios, with some regional variations seen under the Disorderly Scenario up to 2035.
+Some regional variations were apparent within the aircraft and airline sector, attributed to variations in flight composition and the associated emissions intensity with slightly higher impacts indicated in Australia than other regions, although negative impacts were identified across all regions and time horizons.
+Highly carbon intensive power generators were projected to be significantly negatively impacted from 2025 under the Orderly Scenario and after 2035 under the Disorderly. 
+Scenario. However, the impacts were less in countries where the overall market had high emissions intensity such as China, India and other parts of Asia including. 
+Indonesia, Malaysia and the Philippines. An example of the transition risk heat mapping is presented in the following graph. This reflects the potential transition risk impact at a global level for key sectors and is based on the average impact across all companies analysed within each sector.
+The heat map presents the anticipated transition risk for these industry sectors and does not reflect Macquarie’s exposure to these sectors, which is detailed on page 11.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K
+
+
+16. 
+Heat map extract. 
+Transition Risk Orderly Scenario Disorderly Scenario. 
+World World. 
+Macquarie Sector Groups 2025 2035 2050 2025 2035 2050. 
+Agriculture. 
+Consumer Staples (including Food and Beverages)
+Commercial and Professional Services. 
+Consumer Discretionary. 
+Consumer Discretionary: Automobiles. 
+Consumer Discretionary: Automobiles – Electric Vehicles. 
+Financials. 
+Health and Education. 
+Technology and Telecommunications. 
+Aircraft and Airlines. 
+Rail Transport. 
+Road Transport. 
+Shipping. 
+Chemicals. 
+Heavy Building Materials. 
+Metals and Mining. 
+Metals and Mining (Green Minerals)
+Coal Mining (Coking)
+Coal Mining (Thermal)
+Gas Exploration and Production. 
+Oil Exploration and Production. 
+Capital Goods. 
+Capital Goods: Renewables Equipment. 
+Property and Real Estate. 
+Utilities: Power and Gas. 
+Utilities: Power Generation – High Carbon6. 
+Utilities: Power Generation – Low Carbon. 
+Utilities: Water and Sewerage. 
+Legend – Transition Gradient scale. 
+Positive profit impact No or limited profit impact Negative profit impact 6 Represents those companies with emissions intensity above the median and low carbon represents those companies with emissions intensity below the median.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K
+
+
+17. 
+Heat map outcomes. 
+For each scenario, we analysed the vulnerability of our lending and equity portfolios at 30 September 2019, using modelling to assess the impact of a low carbon transition at a sector and regional level. In line with industry practice, our modelling assumed that there were no changes to the portfolio across all time horizons, which will not be the case given the relatively short duration of our balance sheet investments and lending. Analysis of our lending portfolio showed that less than 10% could be exposed to sectors with a higher vulnerability to transition risk under the Orderly Scenario in 2025, rising but below 20% by 2050. Under the Disorderly Scenario, a similar proportion of the lending portfolio could be exposed to sectors with a higher vulnerability to transition risk by 2050.
+For our equity portfolio, the heat map analysis indicated that under a Disorderly Scenario, less than 5% could be exposed to sectors that by 2050 demonstrate a higher vulnerability to transition risk while under an Orderly. 
+Scenario this would be around 5%.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K
+
+
+18. 
+Scenario analysis. 
+Building on the heat mapping, we have conducted scenario analysis of carbon intensive sectors using a combination of portfolio level analysis and company level analysis to assess the potential financial implications of the transition scenarios.
+Our lending and equity exposures to the oil, gas, coal, power generation and metals and mining sectors have been categorised as shown in the table below:
+Sector Oil and gas Coal Metals and mining Power utilities. 
+Sector Segments. 
+Upstream: exploration and production. 
+Midstream: transporting, processing, storage and distribution. 
+Downstream: manufacturing, refining and petrochemicals. 
+Thermal. 
+Metallurgical. 
+Precious metals (including gold and platinum)
+Ferrous and non‑ferrous metals. 
+Green minerals (including those that provide inputs for low carbon technologies such as cobalt, copper, lithium, nickel and silver)
+Generation: renewables, low carbon, high carbon. 
+Transmission and distribution. 
+Trading. 
+Retail supply. 
+Our Approach. 
+A combination of portfolio level (top‑down) and company (bottom‑up) level analysis was undertaken. The company level analysis sought to separate oil and gas exposures and to identify sector segment share where possible.
+Macquarie's analysis did not separate thermal and metallurgical coal. A combination of portfolio level (top‑down) and company (bottom‑up) level analysis was undertaken. The analysis included exposures to coal producers and traders.
+Macquarie's analysis included all non‑coal mining exposures.
+A combination of portfolio level (top‑down) analysis with no differentiation between green and non‑green minerals and company (bottom‑up) level analysis with market segment differentiation was conducted.
+Macquarie's analysis of its power utilities exposures sought to identify sector segments that were exposed to the energy transition while separating those segments considered to have limited exposure to transition risks: • Low carbon and high carbon electricity generation were included in the analysis.
+• Renewable energy generators with no fossil fuel generation were excluded from the top‑down analysis.
+• Gas transmission and distribution exposures were included, however electricity transmission and distribution were excluded where the company had no generating capacity.
+• Wholesale energy trading companies, retail electricity supply and meter leasing were excluded from the analysis as these companies were all considered to be independent of changes to the energy generation mix.
+A combination of portfolio level (top‑down) and company (bottom‑up) level analysis was undertaken.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S |
+T R A N S I T I O N R I S K
+
+
+19. 
+Our findings from the scenario analysis of carbon intensive sectors is presented below:
+Sector Oil and gas Coal Metals and mining. 
+Power Generation (excluding renewable energy generators)
+Transition risk scenario analysis7. 
+By 2050 under both scenarios, lending portfolio average default rates are forecast to double compared to the baseline.
+Estimated losses for the equity portfolio are similar under both scenarios and could be up to 50% of the current asset value by 2050.
+The overall impact on Macquarie under both scenarios would be limited and would not be considered material given the size of our existing total lending and equity exposures. We note that the analysis assumes no changes to the portfolio across all time horizons, which would not in practice be the case.
+Under both scenarios, lending portfolio average default rates are anticipated to rise by almost five times, peaking in 2030 under the Orderly Scenario and peaking in 2050 under the Disorderly Scenario.
+Our equity portfolio has de minimis exposure to this sector.
+The overall impact on Macquarie would not be considered material given our lending exposures to this sector are limited and we expect them to run off over the next few years.
+By 2050, under the Disorderly scenario lending portfolio average default rates are forecast to almost double, with a smaller increase under the Orderly scenario.
+Our equity portfolio has de minimis exposure to this sector.
+The overall impact on Macquarie would not be considered material given the limited size of our existing lending exposure to this sector.
+Under both scenarios, lending portfolio average default rates are anticipated to almost double by 2050.
+Under both scenarios, losses for the equity portfolio show no change from current loss projections given the contractual provisions in place.
+The impact on Macquarie would not be considered material as more than 75% of our power utilities lending is to sector segments that are considered to be independent of changes to the energy generation mix such as energy traders and retailers with no generation capacity.
+The analysis indicates the impacts on each of the sectors to which we are presently exposed would primarily be felt after 2030, and that the impact on Macquarie would not be considered material given the diverse nature of our portfolio, the short time horizon of our exposures compared to these scenarios and the limited size of our existing lending exposure to each sector.
+Learnings and next steps. 
+Macquarie acknowledges the benefits of the combined portfolio level (top‑down) and company level (bottom‑up) analysis that was undertaken in FY2020 and will build on this as we continue to refine our approach to climate‑related scenario analysis.
+The company level approach highlighted limitations with the availability and granularity of data and the need to continue working closely with our clients as part of ongoing relationships to support their plans to reduce their carbon intensity.
+7 Scenario analysis was completed at 30 September 2019 assuming a static book with no changes in composition over the modelling time horizons and does not include impacts associated with COVID‑19.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | T R A N S I T I O N R I S K
+
+
+20. 
+P H Y S I C A L R I S K. 
+Scenarios. 
+We selected two contrasting warming scenarios for the physical risk analysis corresponding to global average temperature increases of approximately 1.5°C warming by 2100 and 4°C warming by 2100 relative to pre‑industrial levels. These are derived from the output of climate models driven by the warming scenarios of. 
+Representative Concentration Pathways (RCP) 2.6 and. 
+RCP 8.5. The RCP scenarios are the greenhouse gas concentration trajectories adopted by the IPCC.
+Three time horizons were selected: including one to capture the present day (2020), one for the medium term (2030s), and one for the longer term (2050s).
+The physical risk scenarios and time horizons used in the analysis are shown in the table below.
+1.5°C 4°C. 
+Time horizons 2020, 2030s, 2050s. 
+IPCC Representative. 
+Concentration Pathway (RCP)
+RCP 2.6 RCP 8.5. 
+Mean warming by 2100 relative to pre industrial levels 1.6°C 4.3°C. 
+Using these scenarios, climate datasets were defined that aligned with the modelling time horizons. The datasets included chronic climate changes, extreme weather events and climate‑related hazards such as bushfires. We then used sub‑sector vulnerability indicators that consider both direct and indirect impacts of physical climate risks to overlay the data with our equity and lending portfolios to assess the physical risk vulnerabilities of these portfolios.
+Heat maps. 
+The heat maps provide a strategic tool to identify potential areas of vulnerability and will be used to help inform further analysis and investment decision making in our business as lending and equity portfolios continually evolve.
+The findings of this exercise were consistent with our expectations that climate hazards are anticipated to increase across the time horizons, with the most severe impacts occurring after 2050. Country level analysis has resulted in some smoothing of climatological variations which is more pronounced across large and diverse geographic regions such as the US or Australia.
+Consequently, both the US and Australia were assessed to have relatively higher physical risk profiles in comparison with other countries, reflecting that the anticipated changes in climate‑related hazards are above the global average for these countries. While the heat map indicated variations in vulnerabilities across sectors and sub sectors, these were highly dependent on the country of exposure.
+Scenario analysis. 
+Macquarie has undertaken physical risk scenario analysis to assess the potential implications of climate‑related risks to its retail mortgage portfolio in Australia. The analysis sought to evaluate the vulnerabilities of properties within the portfolio to extreme weather events under present and future climatic conditions aligned with the scenarios used in the physical risk heat mapping.
+20. 
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S
+
+
+21. 
+We considered the impact of four extreme weather perils: • Riverine flooding • Tropical cyclone (winds and storm tide) • Bush and grass fire • Hailstorm. 
+The modelling used high‑resolution natural catastrophe models to estimate the risk of physical damage and the financial costs of such damage to residential properties.
+Properties within the Macquarie mortgage portfolio were geocoded, i.e. the addresses were converted into coordinates to allow the location to be integrated into the models. The models provided estimates of the probable maximum losses at given return periods and the average annual loss (AAL). These are statistical metrics with the AAL reflecting the average property damage that could occur to a property or the portfolio in any given year. Results were aggregated at a portfolio, state and postcode level.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S |
+P H Y S I C A L R I S K
+
+
+22 22. 
+Figure 3: Map showing distribution of Macquarie mortgage portfolio at 30 September 2019. 
+The model incorporated localised projections of changes in climate variables such as temperature and rainfall and other atmospheric conditions. Across the four extreme weather perils, the models integrated projections of climate variables across Australia from the CORDEX project to inform the quantification of hazard frequency and severity in the catastrophe loss models. Considerable scientific uncertainty exists around the prediction of future climatic impacts, in particular in relation to infrequent weather events such as tropical cyclones or those that are more localised such as hailstorms.
+The modelling was undertaken on our exposures at 30 September 2019 and assumes a static book with no changes in composition over the modelling time horizons.
+Macquarie’s mortgage portfolio, as indicated in Figure 3, is predominantly located on the East Coast, with a higher proportion of the portfolio located in metro areas.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | P H Y S I C A L R I S K
+
+
+23. 
+Across all time horizons there is considerable variation across geographic locations. Our findings from the scenario analysis are presented below:
+Scenario analysis Retail mortgage portfolio in Australia. 
+Physical risk – Impacts Present day. 
+Under present day climatic conditions, hail was identified to be the primary contributor to AAL for properties within the Macquarie mortgage portfolio. This is reflective of there being more frequent small hail events than other perils. By contrast, infrequent events such as tropical cyclones with return periods beyond 1 in 100 years, can result in more significant property damage that drives probable maximum loss at these longer return periods.
+Across the four perils, there is considerable variation by location in vulnerability under present‑day and future climatic conditions.
+For the Macquarie portfolio, exposure to coastal storm surge as a result of tropical cyclone events is considered to be very unlikely based on the geolocations of our properties.
+Our exposure to bush and grass fire risk is assessed to be limited under present day conditions due to the metro location of a large proportion of the portfolio, and is consistent with our actual experience during the 2019/20 bush fires, with minimal impact on the portfolio.
+Future climate (RCP8.5 ~4C warming at 2100)
+Increased vulnerability to bush and grass fire is projected by the 2050s under RCP8.5, with the largest increases to AAL attributed to this peril. These changes are unevenly distributed across States with Victoria accounting for the majority of most exposed postcodes, refer to Figure 5.
+As the global atmosphere mean temperature increases, its capacity to hold moisture increases, enhancing the potential for extreme rainfall events and the risk of flooding. Projections indicate that the areas likely to see the greatest increase in rain intensities are central Queensland and NSW and northwest WA.8 In general, coastal areas with the highest present‑day rain depths along the eastern seaboard show lower projected increases in rain depths for future scenarios. Refer to Figure 4 for the projected change compared to the baseline to AAL in 2050 under RCP8.5.
+Considerable scientific uncertainty exists around estimations in the change in tropical cyclone occurrence under future climate scenarios. The focus of the modelling conducted for the Macquarie portfolio was on the impact from tropical cyclone winds, rather than from storm surge given limited exposure to this peril. The modelling indicated increased vulnerability in parts of the Northern Territory, Queensland, and northern NSW by the mid‑2050s. Prior to this period, any change was difficult to identify outside the current variability of these events.
+There are significant limitations in modelling the influence of climate change on hailstorm events due to their localised nature. On this basis, given the high levels of uncertainty and limited scientific confidence in any predictions, our analysis has assumed no change to current baseline for this peril, although the modelling suggests reduced vulnerability in 2050 under RCP8.5.
+Outcomes By 2050, under the RCP8.5 scenario, the modelling suggests a small increase in customer average annual loss in our Australian retail mortgage portfolio given its geographical footprint. The impact is expected to be reflected through increasing insurance premiums or exclusions to certain perils in higher risk postcodes. It is Macquarie’s policy for customers to have building insurance as part of their home loan. However, if customers in higher risk locations have insufficient insurance coverage for natural disasters, they could experience financial stress.
+Our analysis of the potential financial loss to Macquarie assumes: a proportion of the properties in the portfolio will become underinsured or uninsured; the associated property value reduces significantly as a result of the peril related damage; and higher probability of default is experienced in these affected areas.
+At portfolio level, the increase in loss to Macquarie from climate change is small, given the portfolio bias toward metro locations and low loan‑to‑value ratios, with less than 10% of the portfolio experiencing increased climate‑related vulnerability.9. 
+Learnings and next steps Macquarie acknowledges the increase in physical risk impacting our residential mortgage portfolio.
+The increase in risk is not uniform and varies substantially by postcode and type of peril. The result of the analysis has highlighted areas likely to be most at risk. This will be taken into consideration as we help customers manage these risks.
+8 Flash‑flooding was not modelled as part of this analysis, as there is a high degree of uncertainty associated with future projections.
+9 Where increased climate vulnerability has been defined as >10% increase in AAL by 2050.
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | P H Y S I C A L R I S K
+
+
+24. 
+Figure 4: Riverine flooding. 
+Percentage change in AAL by 2050 compared to baseline under RCP8.5. 
+Australia Melbourne Sydney. 
+Percentage change in AAL 20% 0% 10% 5% 15%
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | P H Y S I C A L R I S K
+
+
+25. 
+Figure 5: Bush fire. 
+Percentage change in AAL by 2050 compared to baseline under RCP8.5. 
+Australia Melbourne Sydney. 
+Percentage change in AAL 200% 0% 100% 50% 150%
+F Y 2 0 2 0 S C E N A R I O A N A LY S I S | P H Y S I C A L R I S K
+
+
+26. 
+Additional climate-related disclosures. 
+Within Macquarie’s ESG Report, we provide more detailed metrics about opportunity‑related metrics, such as renewable energy lending and assets under management, and our operational metrics including the Scope 1,
+Scope 2 and Scope 3 emissions of our global operations.
+Macquarie is a signatory to the Carbon Disclosure Project (CDP) and has responded annually since 2010. Macquarie’s annual responses are available on the CDP website.
+We continue to report our emissions for our Australian operations to the Clean Energy Regulator in accordance with the National Greenhouse and Energy Reporting Act.
+More information on our ESG approach and our operational emissions is available in Macquarie’s. 
+FY20 ESG Report and at macquarie.com/ESG.

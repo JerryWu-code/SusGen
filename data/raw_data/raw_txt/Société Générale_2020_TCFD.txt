@@ -1,0 +1,1085 @@
+CLIMATE DISCLOSURE. 
+Societe Generale’s climate-related reporting following the TCFD and NFRD guidelines. 
+Second Edition - Octobre 2020 
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 2. 
+FOREWORD BY FRÉDÉRIC OUDÉA. 
+
+FRÉDÉRIC OUDÉA Chief Executive Office Societe Generale 
+2020 is in many aspects an extraordinary year. We have seen the development of a worldwide pandemic with Covid 19 impacting all our economies and resulting into unprecedented actions by governments, central banks and commercial banks to support the economy.
+2020 is also the year where Societe Generale, one of the leading European financial services groups, has defined its corporate purpose as a driving force towards its business development: “to build, together with our clients, a better and sustainable future through responsible and innovative financial solutions.”
+I am proud that Societe Generale has been able to act in line with its purpose all over the world in those challenging times, demonstrating the role that banks play in stabilizing and financing the economy, supporting the development of businesses, accompanying our clients in their different projects.
+In these troubled times, there is a collective move to accelerate a greener and more inclusive economic recovery. As a Founding Signatory of the Principles for Responsible Banking, we believe that a robust international coalition and common frameworks are the right answer to act both collectively and individually to pave the way for a sustainable future as well as a manageable transition for our economies.
+But any change has to start with oneself and this is why, at Societe Generale, we are all committed towards contributing to building a responsible bank. This is an integrated priority in our strategic plan, our governance, our risk management, as well as our innovation programme and the performance assessment of our teams. This report intends to illustrate such efforts as well as the road ahead to delivering the significant results that we all aim for.
+Societe Generale is shaping itself from being an ‘energy Bank’ to becoming an ‘energy transition bank’. And, as we committed to do on the occasion of COP24 in Katowice, we are starting to align our portfolios with the goals for the Paris agreement, starting with our energy financing:
+Notably, we were among the first banks globally to reduce our exposure to the coal sector. Our goal now is to reach zero exposure to coal-fuelled power by 2030 in the EU and OECD countries, and by 2040 for the rest of the world.
+We are now one of the first global banks to announce a significant short-term reduction in our overall exposure to the oil and gas extraction sector. In this context, we have decided to stop the financing of onshore oil and gas extraction in the USA.
+As a recognized leading financer of the renewable energy sector, we have also committed to raising €120 billion to the energy transition between 2019 and 2023 and to keep reducing the emissions of our power generation financing. We will continue to develop this offering by leveraging on our innovative capabilities and pioneering spirit.
+More targets will be published as part of our strategic plan 2021-2025 in the first half of 2021. We are convinced this transition will be done by and with our clients. We will stand by them offering a wide range of sustainable solutions to meet their advisory, financing and investment needs.
+I look forward to driving this journey with our teams, as this is an exciting journey ahead of us, where we all have a significant role to play and can make a positive difference towards a better legacy to the young generations, our beloved children.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 3. 
+TABLE OF CONTENTS 1. INTRODUCTION ................................................................................................................. 4 2. STRATEGY ........................................................................................................................... 7 2.1. Societe Generale’s climate materiality at a glance .................................................................................... 8 2.2. Societe Generale’s climate strategy ........................................................................................................... 8 2.3. Assessing the resilience of Societe Generale’s strategy with scenario analysis ...................................... 14 3. GOVERNANCE ................................................................................................................. 17 3.1. Role of governance bodies ........................................................................................................................ 18 3.2. Key policies and due diligence processes related to climate mitigation ................................................ 19 3.3. Business units and service units’ roles ..................................................................................................... 20 3.4. Training and access to expertise on climate-related issues .................................................................... 21 3.5. Remuneration linked to the Group’s climate-related performance ........................................................ 21 4. MANAGING CLIMATE RISKS ......................................................................................... 23 4.1. Climate-related risk terminology .............................................................................................................. 24 4.2. Integration of climate-related risks into the standard risk assessment framework ............................... 25 4.3. Processes for identifying and managing climate-related risks ................................................................ 29 5. MANAGING CLIMATE IMPACTS ................................................................................... 36 5.1. Direct materiality ....................................................................................................................................... 36 5.2. Indirect materiality .................................................................................................................................... 37 6. SUPPORTING THE SUSTAINABLE AND POSITIVE IMPACT OF OUR CLIENTS .. 40 6.1. Climate-related opportunities identified ................................................................................................. 41 6.2. Sustainable and positive impact financing .............................................................................................. 42 6.3. Sustainable and responsible investing ..................................................................................................... 44 6.4. Strategic advisory & business development ............................................................................................ 46 7. METRICS AND TARGETS ............................................................................................... 48 7.1. Managing transition risks .......................................................................................................................... 48 7.2. Managing impact - own operations .......................................................................................................... 49 7.3. Managing impact - Credit portfolio alignment (pre-2020 targets) ........................................................... 50 7.4. Managing impact - Credit portfolio alignment (post-2020 targets) ......................................................... 50 7.5. Financing the transition ............................................................................................................................ 52
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 4 
+1. INTRODUCTION. 
+Climate change is accelerating, and urgent and unprecedented changes are needed more than ever. The COVID-19 crisis reinforces the need for appropriate solutions to sustain the economic development of our societies and Societe Generale remains committed to supporting an extensive shift towards a decarbonised and more resilient economy.
+In this second edition of our Climate Disclosure report, we have sought to further highlight efforts made not only to manage the materiality of climate change on our activity but also the materiality of our activities on climate change. Our governance, strategy, risk management framework and KPIs have been complemented and improved throughout 2019. We are aware, however, that significant challenges remain ahead to build a fully comprehensive and robust climate-related risk management framework.
+1.1. Climate context. 
+Climate change is accelerating. According to the World Meteorological Organization, the period 2015–2019 saw an accelerated increase in the atmospheric concentration of major greenhouse gases (GHGs), with growth rates nearly 20% higher compared to the previous five years.
+The year 2019 ended with a global average temperature of 1.1 °C above pre-industrial averages; the second warmest year on record. Sea levels are rising at an increasing pace, through greater warming of the oceans. Heatwaves, combined with wildfires of unprecedented size have struck Australia, the Amazon and Siberia. Besides these powerful phenomena, more subtle incremental changes are taking place, harming health and economic growth.
+As Antonio Guterres, United Nations Secretary-General puts it, “we are currently way off track to meeting either the 1.5 °C or 2 °C targets that the Paris Agreement calls for.” Urgent and unprecedented changes are needed to realise this transformation to keep the increase in the global average temperature to 2°C and 1.5°C if possible.
+Meanwhile, the Covid-19 has exposed the fragility of our societies to global shocks and the need for a more resilient society.1 Despite warning about the risks of potential global pandemics, the global economy was not ready for this health crisis. We’re similarly unprepared to respond to the climate crisis, especially as we enter the decisive decade where action to reduce emissions and to adapt to immutable climate change impacts has never been more critical.
+1.2. Regulatory context. 
+In this context, the fight against climate change and the mitigation of its impact on societies and economies has been an increasing area of concern for political bodies, especially under pressure from civil society.
+2019 saw numerous positive initiatives, especially in Europe where the new European Commission (EC) was elected on the promise of a European Green Deal, and where the Action Plan for Sustainable Finance launched in 2018 gave birth to concrete outputs, both legislative (Regulations on the taxonomy on sustainable activities and on lowcarbon indices) and non-legislative (Guidelines on non-financial reporting, TEG reports on Green Bond standards).
+Many of those actions aim at pushing the financial industry, whose role is more important than ever, to provide the necessary financing to the creation of a low-carbon and climate resilient economy. Societe Generale actively supports and took part in the public consultation launched by the EC in 2020 on the renewed sustainable finance strategy2.
+In parallel, managing climate-related risks to ensure financial stability also became a significant area of concern for supervising bodies and financial markets players, as shown by the launch in 2019 of sensitivity exercises on climate risk by the Banque de France, the European Banking Authority and the Bank of England (Societe Generale is participating in the first two).
+ 1 This health crisis has also exposed the relationship between biodiversity loss and emerging infectious diseases, as land-use change and wildlife exploitation increase infectious disease risk by bringing people and domestic animals in close proximity to pathogen-carrying wildlife, and by disrupting the ecological processes that keep diseases in check. 2 Consultation launched by the EC on the renewed sustainable finance strategy https://ec.europa.eu/info/consultations/finance-2020-sustainablefinance-strategy_en
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 5. 
+The EBA published in December 2019 its Action Plan for Sustainable Finance with the objective of integrating ESG risks into Pillars 1, 2 and 3 of the CRR/CRD3, while the European Central Bank launched in May 2020 a public consultation on its Guide on Climate-related and Environmental Risks4 (consultation to which Societe Generale contributed).
+The Basel committee also created a dedicated task force on Climate-related Financial Risks (TFCR) which released in April 2020 its first report5. Additional action includes the publication by the Network for Greening the Financial System (created in 2017 and gathering more than 50 central banks) Call for action report was also of particular notice, providing recommendations to central banks, supervisors and political bodies to facilitate the financial sector contribution to the Paris agreement.
+Importantly, without sufficient, reliable and comparable sustainability-related information from its clients, the financial sector cannot efficiently steer capital to drive solutions to the sustainability crises we face and cannot effectively identify and manage the risks that will arise from those crises. Policy has a key role to solve this data gap issue, and we consider that the recent consultation from the European Commission on the new Non-Financial Reporting Directive, to which Societe Generale contributed, is a step in the right direction.
+1.3. What is new in this edition. 
+This second edition of Societe Generale’s climate report still draws inspiration from the Task Force for Climaterelated Disclosure (TCFD)6 recommendations but also brings reporting considerations from the EU’s Non-Financing Reporting Directive (NFRD)7. The NFRD brings a double materiality perspective: • Financial materiality: how climate change affects the bank’s activities, where the primary audience is investors.
+• Environmental & social materiality: how the bank’s activities affect climate change. This perspective is typically of interest to business partners, employees, customers, and civil society, but also increasingly investors.
+While the TCFD recommendations took largely a financial materiality perspective, the NFRD covers both financial materiality and environmental and social materiality as illustrated in Figure 1. Henceforth, reference to risks should be understood to refer both to risks of negative impacts on the company (transition and physical risks) and risks of negative impacts on the climate.
+Figure 1: The double materiality perspective in the context of climate-related reporting 
+
+ 
+3 EBA action plan on sustainable finance https://eba.europa.eu/sites/default/documents/files/document_library/EBA%20Action%20plan%20on%20sustainable%20finance.pdf 4 Public consultation on the draft ECB Guide on climate-related and environmental risks https://www.bankingsupervision.europa.eu/legalframework/publiccons/html/climate-related_risks.en.html 5 Basel committee stocktake report on climate-related financial risk initiatives https://www.bis.org/press/p200430.htm 6 https://www.fsb-tcfd.org/ 7 EU (2019) Guidelines and reporting climate-related information https://ec.europa.eu/finance/docs/policy/190618-climate-related-informationreporting-guidelines_en.pdf. 
+FINANCIAL MATERIALITY ENVIRONMENTAL & SOCIAL MATERIALITY. 
+To the extent necessary for an understandingof the company’s development, performance and position. ... and impact of its activities. 
+Climate change impact on company. 
+Company impact on climate can be financially material. 
+To the extent necessary for an understandingof the company’s development, performance and position.
+Primary audience:
+INVESTORS. 
+Primary audience:
+CONSUMERS, CIVIL SOCIETY, EMPLOYEES, INVESTORS. 
+Company impact on climate. 
+TCFD recommendations. 
+Non-Financial Reporting Directive (NFRD)
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 6. 
+The document is structured as follows, combining TCFD recommendations and the NFRD disclosure framework:
+TCFD8 NFRD 2. Strategy - Overview of Societe Generale’s climate change strategy and public commitments. We expose in more details how our climate strategy is addressing the double materiality highlighted above. We also expose the active public engagement that Societe Generale has delivered over the last few years.
+S(b) Business model 3. Governance - Role of the Board, general management and business & service units, as well as climate-indexed remuneration is explained. We further explain how the governance of climate-related issues has been reinforced in 2019 by the addition of a Group Responsible Commitments Committee (CORESP).
+G(a,b) Policies and due diligence process 4. Managing Climate risks - First pillar of our climate strategy: we present progress made in reinforcing our E&S risk framework, including the management of climaterelated risks on credit.
+S(a) RM(a,b,c)
+Principal risks 5. Managing Climate impacts - Second pillar of our climate strategy: this section presents the work undertaken by the Group to reduce its direct (own operations) and indirect impact (through our offer of financial products). We illustrate progress made in terms of portfolio alignment for certain high-emitting sectors.
+S(a,c) Principal risks. 
+Business model 6. Financing the transition - Third pillar of our climate strategy: this section offers an overview of the Group’s climate-related financing solutions and products to help accompany clients through the transition.
+S(b) Business model 7. Metrics and targets - This last section summarises in quantitative terms the state of progress and commitments taken by the Group, in addition to portfolio alignment targets.
+MT(a,b,c) Outcomes KPIs 
+
+8 https://www.fsb-tcfd.org/wp-content/uploads/2020/03/TCFD_Booklet_FNL_Digital_March-2020.pdf - page 20. S for strategy, G for governance, RM for risk management, MT for metrics and targets
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 7 
+2. STRATEGY. 
+As an integral part of its strategy, the Group has defined a climate strategy articulated around three axes: • Managing climate-related risks (transition and physical); • Managing the Group’s impact on climate (via its own operations and those of its clients); • Supporting the transformation of its clients with its financing and investment products and services;
+In this second edition of our Climate Disclosure report, the Bank’s climate strategy and its commitments are presented against a granular mapping of the Group’s activities. This mapping illustrates how Societe Generale’s financing activities and investment activities represent the bulk of the Bank’s climate materiality in 2019. This edition also offers disclosure on the Group’s public commitments. Moreover, in 2020, we have refined our corporate purpose, which is to “build together, with our clients, a better and sustainable future through responsible and innovative financial solutions”.9. 
+Figure 2: Overview of Societe Generale’s climate strategy 
+
+ 
+“Over the past few years, Societe Generale has built the foundations to become a trusted partner in accompanying its stakeholders in the transition towards a low-carbon and resilient economy: we have set up a climaterelated risk management framework, a robust sustainable finance offering and are now integrating climate scenarios at the heart of our strategy to align with the Paris Agreement’s objectives. This learning and progress will feed into the definition of Societe Generale’s upcoming strategic plan.” DIONY LEBOT Deputy CEO Societe Generale 
+9 Societe Generale (2020) Integrated Report https://www.societegenerale.com/sites/default/files/documents/Rapportintegre/2020/irsg2020_eng_web.pdf. 
+Connected to our stakeholders. 
+International institutions, peers, regulators, NGOs, students, employeers. 
+MANAGING CLIMATE IMPACTS. 
+MANAGING CLIMATE RISKS. 
+FINANCING THE TRANSITION. 
+Using climate scenarios to monitor climate risk on credit, market and operational risks. 
+Managing direct impact Internal carbon tax on our operations. 
+Sustainable& positive impact solutions to support clients. 
+Monitoring climate-related risk impact on reputation risk using E&S standards. 
+Managing indirect impact Aligning our activities with the goals of the Paris Agreement. 
+Climatedisclosure. 
+TCFD and NFRD reporting
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 8 
+2.1. Societe Generale’s climate materiality at a glance. 
+Societe Generale is one of the leading European financial services groups. Active in the real economy since 1864 with a solid position in Europe and connected to the rest of the world. Societe Generale employs over 138,000 members of staff in 62 countries and supports 29 million individual clients, businesses and institutional investors.
+The Group’s activities in relation to climate change can be thought of in terms of direct materiality (climate-related risks and impact that are owned or controlled by the Group) and indirect materiality (risks and impact that are a consequence of the Group’s activities but occur at sources owned or controlled by its clients) as shown in Figure 3.
+Figure 3: Overview of Societe Generale’s main activities in relationship to climate materiality (URD 202010) 
+
+2.2. Societe Generale’s climate strategy. 
+Increasing awareness and understanding about climate-related risks and opportunities has had influence on Societe Generale’s strategic decisions across most of the activities highlighted above. In 2017, Societe Generale presented its strategic plan for 2020, Transform to Grow, based around 5 strategic objectives including the CSR ambition for all the Group’s activities. To define the CSR strategic plan, the Group consulted 1,500 stakeholders, both internal and external. It then established a materiality matrix of stakeholder expectations, ranking CSR issues according to the priorities expressed. Climate change became one of the 6 strategic pillars of the Group’s CSR ambition. 11 It resulted in a climate strategy for 2017-2020, which was reviewed by General Management and validated by the Board of Directors. This strategy has been articulated around three axes and are illustrated in Figure 2.
+2.2.1 Managing climate-related risks on the Group. 
+First pillar of the climate strategy: the management of climate-related risks. The Group does not view the risks associated with climate change as a new risk category but rather an aggravating factor for the categories already covered by the Bank’s risk management system (credit risks, operational risks, market risks, etc.). Accordingly, the existing risk management governance framework and processes have been updated to include climate risk factors; ensuring that the increasing relevance of such factors is properly taken into account.
+ 10 Quantitative information from 2020 URD https://www.societegenerale.com/sites/default/files/documents/Document-d-enregistrementuniversel/2020/sg_urd_eng_2020.pdf 11 Materiality Matrix shown in the 2017 annual report https://www.societegenerale.com/sites/default/files/documents/Document%20de%20r%C3%A9f%C3%A9rence/2018/rd-2018-societe-generaleamf-d18-0112-eng.pdf. 
+INDIRECT MATERIALITY DIRECT MATERIALITY. 
+Own operations Building (3.6 million m²) Transport (423 million km) Electricity (688 GWh) Waste (14,635 tonne) Water (1,54 million m³) Paper (8978 tonne) IT Infrastructure. 
+Leasing Automotive [ALD] (1.66 million vehicles) Equipment [SGEF]
+Financing activities (EUR 918 billion of Exposure at Default) Corporates (33%) Sovereign (23%) Retail (22%) Institutions (12%) Others (10%)
+Investment activities (EUR 360 billion of Asset Under Management) Insurance [Sogecap] (26%) Private Banking (33%) Investment management, ETF and indexing [Lyxor] (41%)
+Market and investor services Fixed income and currencies, advisory services, payments, equity & security services have indirect materiality through the activities of clients. 
+Real estatedevelopment 3161 dwellings delivered [SOGEPROM]
+Supply chain ~EUR 6 billion purchases
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 9 
+• For credit risk, Societe Generale has made progress integrating into its standard credit risk assessment framework the evaluation and control of transition risks (on large corporates of sensitive sectors) and is working on furthering its understanding of physical risks.
+• For compliance and reputational risks, Societe Generale has developed and maintained an E&S risk management framework with cross-sectoral and sector-specific E&S policies (identification lists, exclusion lists, evaluation procedures for clients and issuers, dialogue with civil society).
+The two processes are two sides of the same coin relying on similar processes and inputs: one assesses the longterm impact of transition risk on corporate client credit risk using scenario analysis, while the other looks at the short-term impact of transition risk on reputational risks using the Group’s normative standards set out in its E&S policies.
+Section 4 offers a complete overview of Societe Generale climate-related risk assessment framework.
+2.2.2 Managing the Group’s impact on climate. 
+Societe Generale manages its direct impacts on climate through its own operations (electricity consumption, employee transport, IT infrastructure, etc) via an internal ‘carbon tax’ mechanism and a set of environmental policies. As part of its 2014-2020 carbon reduction programme, Societe Generale has undertaken to cut its greenhouse gas emissions by 25% per occupant and to improve the energy consumption per occupant of the Group’s buildings by 20% by 2020 as compared to 2014 levels. These commitments have been achieved in 2019.
+The Group also manages its indirect impacts – the impact associated with its financing activities - by implementing its E&S policies and aligning its portfolios with the goals of the Paris Agreement.
+• In 2015, at COP 21, the Group committed to develop methodologies to align its activities with the targets set in the Paris Agreement with a focus on the coal sector. A first methodology was developed in 2016, and the Group has reduced the share of its coal power and coal mining exposure.
+• In 2018, the Group signed the Katowice Commitment to develop open-source methodologies alongside four other international banks and pledged to align its activities with the goals of the Paris Agreement by 2020. The publication of the Katowice application of PACTA in September 2020 was a first step towards meeting this commitment.12 In 2019, the Katowice commitment served as a precursor to the Collective Commitment to Climate Action, announced as part of the UN Principles for Responsible Banking (PRB). In 2019, Societe Generale also signed the Poseidon Principles, which are consistent with the goal of the International Maritime Organization (IMO) to reduce shipping emissions by at least 50% by 2050.
+• In 2020, the Group is now committing to phase out thermal coal extraction and power financing (by 2030 for the OECD and by 2040 for the rest of the world). Societe Generale is now one of the first commercial bank to reduce its upstream oil&gas exposure in absolute terms on a short-term horizon (-10% by 2025). The Group also pledged to reduce the emission intensity of its power financing (-18% by 2025).
+ “Societe Generale was instrumental in creating the Principles for Responsible Banking and remains a leading contributor to their effective implementation by all Signatories. With the Collective Commitment to Climate Action as the most ambitious commitment to climate alignment for banks globally, Societe Generale is one of the banks leading the way to a global banking industry that plays its crucial role in avoiding catastrophic climate change.” SIMONE DETTLING Banking Team Lead United Nations Environment Programme - Finance Initiative. 
+More details can be found in Section 5 on the way Societe Generale manages its climate impact and in Section 7 for a comprehensive overview of the commitments and targets taken.
+ 12 https://www.transitionmonitor.com/wp-content/uploads/2020/09/PACTA-for-Banks-Methodology-Document.pdf
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 10 
+2.2.3 Supporting the sustainable and positive impact of our clients. 
+As a committed and responsible partner in tackling today's climate challenges, Societe Generale offers a comprehensive range of finance and advisory services for clients active in the energy sector around the world. The Group has been active in the renewable energy for over a decade, taking a pioneering role in the funding of renewables, supporting innovative start-ups as well as financing large-scale projects. Today, as one of the world's top financers of renewable energies, we remain more committed than ever to accompanying the development of our clients (see league tables renewable energy financing Section 6.2.1). In December 2017, Societe Generale committed to raising EUR 100 billion in financing earmarked for the energy transition between 2016 and 2020. By the end of 2019, the Group had already surpassed this target (having raised EUR 26.6 billion for the renewable energies sector and EUR 82.4 billion for green bonds – a 109% achievement rate), see section 7: Metrics and targets.
+Building on this initial commitment, the Bank has set itself a new goal, committing to raise EUR 120 billion for the energy transition between 2019 and 2023. This total sum breaks down as follows: EUR 100 billion in sustainable bond issues led or co-led by Societe Generale. Sustainable bonds include both green bonds and sustainability bonds (as defined by the ICMA guidelines and the EU’s Green Bond Standard), as well as all bonds indexed to climate targets; and EUR 20 billion for renewable energies, in the form of consulting and financing.
+More details can be found in Section 6 on the bank sustainable product and services offering.
+2.2.4 Connecting with our stakeholders. 
+Collaboration with institutions and peers. 
+Climate change is a shared global challenge. We have taken a wide range of collaborative actions with peer banks, international organisations and regulators to manage financial and E&S risks: 
+
+
+Principles for Responsible Banking (2019)
+Societe Generale is a founding signatory of the Principles for Responsible Banking, signed by 130 banks worldwide. Officially presented at the UN General Assembly in September 2019, these principles aim to define the role of the banking sector in building a sustainable future, in line with the United Nations Sustainable Development Goals. https://www.unepfi.org/banking/bankingprinciples/
+Collective Commitment to Climate Action (2019)
+We have also joined in 2019 the Collective Commitment to Climate Action, signed by 34 banks to align their lending with the objectives of the Paris Agreement on Climate. https://www.unepfi.org/banking/bankingprinciples/collective-commitment/
+Positive Impact Finance (2016)
+Societe Generale has pioneered the creation of the UN’s Positive Impact initiative which seeks to provide a common language and developing new solutions to finance the Sustainable Development Goals along with its clients.
+UNEPFI: TCFD pilot (2017-18)
+We participated in the Phase 1 of the TCFD pilot during 2017 and 2018 and contributed to the summary report reports produced on transition and physical risks. https://www.unepfi.org/banking/tcfd/ 
+Voluntary application of the EU Taxonomy (2019)
+Societe Generale joined this working group aiming to provide high-level recommendations on the voluntary application of the EU taxonomy to core banking products. https://www.ebf.eu/sustainable-finance/high-level-recommendations-on-thevoluntary-application-of-the-eu-taxonomy-to-core-banking-products/ 
+Paris Agreement Capital Transition Assessment (PACTA) pilot (2019)
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 11. 
+Societe Generale participated in 2018 in the pilot test of the PACTA tool, developed by 2DII that provides a forward-looking analysis of the transition in key sensitive sectors. https://2degrees-investing.org/resource/pacta/ 
+Katowice Commitment (2018)
+Societe Generale, with BBVA, BNP Paribas, ING, and Standard Chartered committed to align our lending portfolios with the goals of the Paris Agreement. We have collaborated with the think tank ‘The 2°C Investing Initiative ». https://2degrees-investing.org/thekatowice-commitment-one-year-on/ 
+Poseidon Principles (2019)
+One of the founding signatories to the Poseidon Principles in 2019, with Global Maritime Forum, promoting shipping industry decarbonisation. https://www.poseidonprinciples.org/ 
+Getting to Zero coalition (2019)
+Societe Generale also announced that it had joined the Getting to Zero coalition, which aims to develop and deploy commercially-viable deep-sea zero-emission vessels by 2030. https://www.globalmaritimeforum.org/getting-to-zero-coalition/ 
+Hydrogen Council (2019)
+Societe Generale joined the Hydrogen Council in 2019 (more specifically joined the Investor Group), a global CEO-led initiative launched during the 2017 World Economic Forum in Davos, which will be responsible for creating new economic models for lowcarbon hydrogen solutions to aid their future large-scale commercialisation. https://hydrogencouncil.com/en/ 
+Carbon Pricing Leadership Coalition (2018)
+Commit in principle to the transition towards a low carbon business model in Singapore (and the region); and commit in principle to the implementation of some internal carbon pricing model in at least one department in your organisation, within the next two years. https://www.carbonpricingleadership.org/ 
+Green Investment Principles (2020)
+Signature of the Green Investment Principles, which aims to incorporate low-carbon and sustainable development into projects in Belt and Road Initiative countries. http://www.gflp.org.cn/public/ueditor/php/upload/file/20181201/1543598660333978.pd f. 
+NetExplo Smart Cities Accelerator Program (2018)
+Societe Generale joined the “Smart Cities Accelerator Program” launched by NetExplo since the beginning in 2018, in the frame of the Group’s Sustainable Cities Initiative, which aims to develop solutions for smart & sustainable cities. https://www.netexplo.com/corporate/smart-cities-/ 
+Sustainable IT Charter (2019)
+On the occasion of its #TechWeekSG event, Societe Generale announces the signature of the Sustainable IT Charter, under which the Group is reasserting its commitment to contribute to the positive transformation of societies and economies. https://www.societegenerale.com/en/NEWSROOM-Sustainable-IT-Charter. 
+LaREF - French Business Climate Pledge (2019)
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 12. 
+In the framework of the Rencontre des Entrepreneurs de France (LaREF), 99 French companies, accounting for 1.650 billion euros turnover and 6 million jobs worldwide, reaffirm the need to collectively change course by accelerating innovation and R&D through their investments in low-carbon solutions, in order to engage in a drastic reduction of global greenhouse gas (GHG) emissions. https://www.societegenerale.com/sites/default/files/documents/Document%20RSE/fre nch_business_climate_pledge_2019_eng.pdf. 
+Act4Nature (2018)
+Act4nature international is the continuation of act4nature 2018 for companies with international activities. It is also led by EpE under a multi-stakeholder steering committee and, though aimed at global actors, is a French collective initiative run by French partners. Companies committed to act4nature in 2018 and willing to pursue their action under act4nature international are invited to send updated commitments (SMART) by 19 June 2020, thus generating strong momentum for progress beyond 2020. http://www.act4nature.com/en/ 
+UN Global Compact Network (2003)
+The United Nations Global Compact is a non-binding United Nations pact to encourage businesses worldwide to adopt sustainable and socially responsible policies, and to report on their implementation. SG is also a member of the GCN at the regional level; e.g. Singapore.
+https://www.unglobalcompact.org/what-is-gc/participants/8628#cop. 
+Public engagement is also at the heart of the group Societe Generale, an extension of its approach as a responsible investor and in line with its adherence to the United Nations Principles for Responsible Investment (PRI): 
+Principles for Responsible Investment (2014)
+Since 2014, LYXOR has been a signatory to the United Nations Principles for Responsible Investment (PRI). For 2018, LYXOR obtained the rating of A+ in the Strategy and Governance category. In 2020, ASSU and Sogecap (insurance branch of Societe Generale) have also signed the PRI. https://www.unpri.org/ 
+Climate Bond Initiative (2018)
+LYXOR has joined the Climate Bond Initiative, a not-for-profit investor serving organization that raises capital for a low-carbon economy. https://www.climatebonds.net/ 
+Green Bond Principles (2018)
+LYXOR adheres to the Green Bond Principles, which determine how green bonds are issued, thereby contributing to market integrity. https://www.icmagroup.org/green-socialand-sustainability-bonds/green-bond-principles-gbp/ 
+Climate Action 100+ (2018)
+LYXOR joined the Climate Action 100+ in 2018, an international initiative that mobilize and engage greenhouse gas emitters to drive the energy transition and thus contribute to the achievement of the Paris Agreement objectives. http://www.climateaction100.org/ 
+Sustainable Finance and Responsible Investment (2019)
+LYXOR is a member of the “Sustainable Finance and Responsible Investment” Chair whose research aims to understand the role of responsible investment in the economy. https://www.institutlouisbachelier.org/en/programme/sustainable-finance-andresponsible-investment/
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 13. 
+
+Taskforce on Climate-related Financial Disclosure (2020) In 2020, LYXOR publicly supports the TCFD. Initiated in 2017, it encourages organizations to communicate on the way in which they manage climate-related risks according to 4 pillars: governance, strategy, risk management and metrics & targets. This pledge fits into the continuity of commitments that LYXOR is taking to participate in the fight against climate change.
+
+Carbon Disclosure Project (2020) Besides the use of the data that is proposed (data on climate change, deforestation and water security to inform decision making, engage with companies, reduce risks and identify opportunities), Lyxor is now a supporter on the CDP SBTi Campaign https://www.cdp.net/en/investor/engage-with-companies/cdp-science-based-targetscampaign. 
+House of Finance of the University Paris-Dauphine (2015) In 2015, Lyxor launched a partnership with the House of Finance of the University ParisDauphine: the Lyxor/Dauphine Research Academy. Its 2019 paper focused on how ESG portfolios have, on average, not led to reduced returns.
+Public policy engagement. 
+Societe Generale is fully and unambiguously committed to the transition to a more sustainable economy. As one of the world leaders in energy financing, Societe Generale shares the conviction that accompanying and accelerating the energy transition is vital to mitigate climate change.
+As such Societe Generale acts to promote the appropriate regulation of sustainable finance in Europe, directly or through its participation to trade associations (in particular French Banking Federation, chaired by Societe Generale’s CEO Frédéric Oudéa, and European Banking association) in 2019.13. 
+It is from this perspective that the Group supports policymakers’ initiatives to build a regulatory framework for sustainable finance. In particular, a taxonomy of common environmental sustainability criteria at the EU level is necessary for all market participants to give clarity and confidence in the sustainability of investee or borrowing companies or projects.
+In this respect Societe Generale has provided extensive feedback to the Technical Expert Group of the European Commission on the elaboration of the EU taxonomy, gathering expertise from across the Group on the technical screening indicators. The Group is now part of a working group organised by the UNEPFI and EBF to provide highlevel recommendations on the application of the EU taxonomy on a selection of banking products. The Group also contributed to several consultation launched in the sustainable finance domain, such as the revision of NonFinancial Reporting Directive14 and the Renewed sustainable finance strategy of the European commission15, and the consultation on the Draft ECB Guide on climate-related and environmental risks16.
+More recently, in the context of the Covid-19 crisis, the Group joined the Green recovery alliance initiated by Pascal Canfin (Member of the European Parliament), recognising the importance of aligning the Covid 19 economic recovery plans with the environmental transition.
+More than ever, Societe Generale is very conscious of the bank’s decisive role to ensure that the energy transition is as fair and as inclusive as possible. Our duty is to ensure the business continuity of all our clients and stakeholders, irrespective of their location, by accompanying them on the transition path and protecting them against the rise of living costs linked to climate-related measures. A careful consideration of social impacts is the cornerstone of a just and inclusive transition.
+Connecting with civil society 
+13 https://www.ebf.eu/wp-content/uploads/2018/12/EBF_035239-EBF-key-messages-on-the-EP-draft-report-on-taxonomy.pdf 14 https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12129-Revision-of-Non-Financial-Reporting-Directive/publicconsultation 15 https://ec.europa.eu/info/consultations/finance-2020-sustainable-finance-strategy_en 16 https://www.bankingsupervision.europa.eu/legalframework/publiccons/html/climate-related_risks.en.html
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 14. 
+In the course of 2019, Societe Generale participated in various working groups and discussion meetings with some 10 NGOs (including Friends of the Earth, BankTrack, Oxfam, Rainforest Action Network, Share Action, Urgewald WWF, etc.), either in the form of bilateral meetings or broader consultation meetings organised by the associations themselves or, among others, by the OECD, the Equator Principles Association, and Entreprises pour les Droits de l’Homme (Companies for Human Rights).
+Societe Generale was asked by the Student Manifesto for an Environmental Awakening to answer a questionnaire on how the Company is taking the climate emergency into account. This response has been posted online.17 The Group has a Dialogue and Transparency section on its website18.
+Shareholder engagement. 
+In line with its responsible investor policy and its willingness to act positively in favour of the climate transition, LYXOR has defined rules in its voting policy that could lead to opposition in a general meeting to several types of resolutions (discharge of the Board, renewal of the Chairman of the Audit or Sustainable Committee, etc.) in the event of environmental controversies and/or non-disclosure of GHG emissions. In addition, LYXOR pays attention to external resolutions of a social and environmental nature which promote corporate citizenship while improving the long-term shareholder and partnership value.
+2.2.5 Climate-related disclosure. 
+Climate change poses risks for the stability of the financial system, particularly for the insurance and banking sectors. Increasing and improving the relevance of climate-related information disclosed voluntarily by corporations is key to enable financial market players and the authorities to better understand and manage the risks they represent.
+Societe Generale supports the recommendations of the TCFD and treat the disclosure of climate-related information, in a consistent, reliable, clear and efficient manner, very seriously. This second edition of our Climate Disclosure (TCFD & NFRD) report is an illustration of this commitment.
+Societe Generale was recently distinguished by financial research firm Autonomous, which assessed the climate policies of 43 international banks. The survey ranked Societe Generale in 2nd place in terms of climate risk management. It notably commended the quality of the information provided on our climate strategy, notably referring to the TCFD report published in June 2019, which it cites as "Best in Class".
+Moreover, every year, in conjunction with the S&P Dow Jones Indices, RobecoSAM publishes a ranking of the world's largest companies based on economic, environmental and social factors. These rankings provide a benchmark for fund managers looking to invest in sustainable companies. In 2019, RobecoSAM's annual sustainability ranking puts Societe Generale in 1st place worldwide on environmental topics and in 6th place in Europe across all ESG (Environmental, Social and Governance) factors, out of the 175 banks analysed.
+2.3. Assessing the resilience of Societe Generale’s strategy with scenario analysis 2.3.1 Why Societe Generale use scenarios. 
+Strategic planning requires the use of forward-looking scenarios. As the materiality and timing of climate-related transition risks are uncertain and long-term, any forecasting exercise, as the bank usually does to predict the evolution of its portfolio, is impossible. Traditional macroeconomic models do not allow this type of analysis and relying on expert judgment would expose the analysis to implicit biases.
+It is therefore necessary to consider how risks and opportunities can evolve under different conditions. One way to do this is to conduct scenarios analysis. Not designed to provide forecasts, scenarios are a means of exploring a series of plausible future states if certain trends continue or if certain conditions are met. They provide a coherent framework for formalising the reasoning on possible futures.
+ 
+17 https://pour-un-reveil-ecologique.org/en/les-entreprises-nous-r%C3%A9pondent/#-reponses 18 https://www.societegenerale.com/en/news-and-media/dialogue-and-transparency
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 15 
+
+“Climate scenarios are not just a tool for risk management, but key to shaping our strategic decisions on climate change and allowing us to work on innovative solutions for our clients. Climate variables, moreover, are fast making their way into the broader toolkit guiding our near-term analysis. The climate transition is no longer a long-term issue, it’s happening now.” MICHALA MARCUSSEN Group Chief Economist and Head of Economic and Sector Research Societe Generale 2.3.2 How scenarios are used to inform the bank's strategy. 
+Societe Generale has used scenarios to stress the resilience of the Bank’s strategy, reflected in its portfolio allocation, through two types of exercises: • Assessing climate-related risks: Every year since 2018, the Bank assesses the impact of transition risks using a transition scenario on the most sensitive sectors of its corporate portfolio. A similar exercise was carried out for physical risks, but contrary to transition risks, the methodology is not sufficiently developed to enable a proper financial valuation.
+• Strategic portfolio reallocation decisions: Societe Generale has reduced its coal financing in line with climate scenarios since 2016. The Group is also very active in the development of an open source methodology with the think tank the 2°C Investing Initiative 2DII and partnering banks (ING, BNPP, BBVA and Standard Chartered). The PACTA methodology develop makes use of climate scenarios.
+Table 1 summarises the use of scenarios over previous years.
+Table 1: Complementary information on the climate scenarios used. 
+
+Strategic exercise Year used Scenario used Horizon (max)
+Coal reduction target 2016 IEA 2DS and IEA 450 scenarios Up to 2020. 
+Physical risks (operations) 2017 Seine River Flooding (in-house) NA. 
+Transition risks (credit) 2018 REMIND SSP2 (2°C) and IEA SDS scenarios. 
+Up to 2040/2050 2019 - Present IEA SDS scenario. 
+Portfolio alignment (multiple sectors) 2019 - Present IEA SDS scenario. 
+Shipping alignment 2019 - Present IMO target 2.3.3 Governance & rationale for selection. 
+The reference scenarios are reviewed annually by the Group Chief Economist and the selection is validated by a climate-related risk committee (CORISQ), chaired by the General Management. The decision of a reference scenario applies both to transition risk assessment and portfolio alignment exercises. If the selected scenario does not cover a given activity, other ad-hoc scenarios may be used.
+The selection process considers several criteria including covering the institutional set up of the scenario provider, transparency of the scenario assumptions and modelling, frequency of updates, coverage in terms of both sectors and geographies and efficiency of use.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 16 
+2.3.4 Key features of the selected scenarios. 
+In 2019, in accordance with the selection process described above, the CORISQ validated the Sustainable Development Scenario (SDS) of the International Energy Agency (IEA) as the Group reference scenario to be used for transition risk assessment and portfolio alignment exercises.
+The SDS scenario is aligned with the Paris Agreement, consistent with limiting the projected median global temperature rise in 2100 to below 1.8°C with a probability of 66%, or a 50% probability of a 1.65°C stabilisation without any recourse to net negative emissions.
+Under the SDS scenario, global CO2 emissions from the energy sector peak immediately at 33Gt and then fall to less that 10Gt by 2050 and on course to net zero emissions globally by 2070. The SDS does assume emission reductions from carbon capture, utilisation and storage (CCUS) of 310MtCO2 per annum by 2030, increasing to 1,320MtCO2 by 2040.
+The SDS assumes that the fossil fuel share of primary energy demand declines from 81% in 2018 to 58% in 2040, with renewables seeing an increased share.
+Like any climate scenario, the SDS carries uncertainty and limitations relating to the complexity of representing long-term and non-linear interactions; including shocks, irreversibility and changes in social norms.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 17 
+3. GOVERNANCE. 
+Societe Generale is fully committed to act as a responsible bank and this engagement is anchored from the top of the organization, starting at the Board of Directors level. The Board of Directors approves the Group’s strategic CSR policy, oversees its implementation and reviews it at least once every year. In 2017, the General Management reviewed the Bank’s climate strategy and submitted it to the Board of Directors, as part of the 2017-2020 CSR ambition. Climate change is included in the roadmaps for the Business and Service Units and performance against climate-related targets is part of both General Management and employees’ remuneration policy.
+In 2019, the governance was reinforced by the addition of a Group Responsible Commitment Committee to take strategic CSR decisions including climate-related ones. 2019 was also marked by the updating and integration of Environmental and Social risk management principles into the Group’s new normative documentation, where the concepts of E&S risks and their governance have now been more formally defined. This new edition also offers more in-depth disclosure on climate-related staff and training.
+Figure 4: Societe Generale’s climate-related organigram. 
+
+
+BOARD OF DIRECTORS. 
+Approves and monitors the CSR strategy (including climate)
+BUSINESS AND SERVICE UNIT. 
+CSR strategy (including climate strategy) is declined in the roadmaps of each Business and Service units. 
+All Business / Service units are responsible for its deployment (LOD1)
+Risks and Compliance. 
+LOD2 for E&S risks and impact including climate related risks. 
+CSR Proposes and deploys the CSR strategy. 
+Global Banking Solutions. 
+A dedicated offering of sustainable finance solutions and products to clients. 
+GENERAL MANAGEMENT. 
+Submits the CSR strategy to the BoD and oversees its implementation. 
+Responsibility Commitment. 
+Committee (CORESP)
+Manages the strategic decisions on E&S materiality. 
+Risk Committee (CORISQ)
+Defines the risk appetite on portfolios sensitive to climate (financial materiality)
+Other business & service units. 
+Investor relations, PR, purchasing, etc.
+E&S RISK MANAGEMENT FRAMEWORK. 
+Formalised into Societe Generale’s normative documentation. 
+E&S sector policies & implementation. 
+Framework for managing environmental & social materiality and financing materiality. 
+Climate credit risk framework. 
+Framework for managing financing materiality (transition and physical risks)
+Audit (LOD3)
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 18 
+3.1. Role of governance bodies 3.1.1 Board of Directors’ oversight. 
+The Board of Directors approves the orientation of the Group’s strategy, oversees its implementation and reviews it at least once a year. As regards to climate-related risks and opportunities, in 2017, the Corporate Social Responsibility (CSR) policy, including Societe Generale’s climate strategy, underwent a strategic review by General Management and was presented to the Board of Directors. The Board of Directors validated the 2017-2020 CSR ambition, which is integrated into the overall strategy of the Group. The CSR policy was presented in the documentation supplied for the Investor Day19 on 28th November 2017. The CSR policy is reviewed and presented to the board on an annual basis.
+The Board also approves the global strategy, the risk appetite and verifies their implementations. As regards to climate related risks, the Risk Committee of the Board has been informed of the analysis and orientations taken by the CORISQ (Risk Committee) of January 2017, October 2018 and July 2019.
+Following the introduction of the so-called PACTE Law (Law n° 2019-486 of 22 May 2019, hereinafter referred to as the “Pacte Law”), the Board of Directors discussed the Company’s purpose and adopted the following wording: “Building together, with our clients, a better and sustainable future through responsible and innovative financial solutions”.
+3.1.2 General Management’s role. 
+Starting from 2021, the duties of General Management will be performed by: • the Chief Executive Officer, Frédéric Oudéa, • assisted by two Deputy Chief Executive Officers, Philippe Aymerich and Diony Lebot20, as well as Séverin Cabannes until 2021 and • three Deputy General Managers, Slawomir Krupa, Sébastien Proto and William Kadouch-Chassaing.
+The Chief Executive Officer is vested with the broadest powers to act in the Company’s name in all circumstances, within the confines laid down by the applicable legislation and regulations, the by-laws, the Internal Rules of the Board of Directors and the objectives approved by the Board of Directors.
+The Deputy Chief Executive Officers have the same powers as the Chief Executive Officer. General Management submits the company’s overall strategy to the Board of Directors and manages its implementation.
+General Management oversees climate-related issues through three committees:
+A Group Responsible Commitments Committee (CORESP), which was created in 2019, and deals with topics related to the Group's normative framework in CSR, culture and conduct, or other topics that have an impact on the Group's liability or reputation: • it arbitrates complex transactions and clients’ cases that carry a risk of non-alignment with the Group's standards; • it examines topics at risk in CSR, culture and conduct, ethics or reputation; • it debates new Group commitments or change in the normative framework (i.e. E&S sector policies).
+• it also sets cross-cutting objectives to help businesses develop products with positive impacts; Indeed, the CORESP also has a role of identifying business opportunities. 
+This committee is chaired by the Deputy CEO in charge of CSR or in some cases by the Group CEO and, depending on the agenda, is composed of the relevant Business and Service Units. Since its creation, the CORESP has regularly met (on average, every two months) and has dealt in particular with: initiatives joined by the Group, such as the Principles for Responsible Banking; the review of E&S policies (thermal coal, defence, etc.); the internal E&S risk management framework (including alignment with Paris Agreement).
+ 19 Societe Generale presented its 2020 Strategic and Financial Plan at an Investor Day held in Paris. 20 Following Séverin Cabannes's decision to retire in 2021, he will leave his position as Deputy Chief Executive Officer at the end of 2020
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 19. 
+A Risk Committee (CORISQ): meeting at least once a month, the CORISQ defines the Group’s key priorities in terms of risks (credit, country, market and operational risks), within the framework of the risk appetite and the financial targets set by the Group Strategy Committee, and monitors compliance in such respect. Subject to the powers attributed by the Board of Directors, the CORISQ, based on proposals from the Risk Division, takes the main decisions relating to the management of various risks (credit risks, country risks, market and operational risks). CORISQ responsibilities include the review of the main credit portfolios and those which present concentration risk and defines the risk appetite of these portfolios.
+Since 2017, the CORISQ reviews climate-related risks annually, and especially the “reference climate scenario” of the Group and the portion of the credit portfolio exposed to climate-related risks. This annual review also requires a continuous improvement of methodologies and a follow-up of the regulatory banking environment. The Risk Department in its secretary role for the CORISQ, systematically requires the opinion of the CSR department on environmental or CSR-related reputation issues when the credit portfolio is concerned (over the last 3 years the CSR Department has expressed its opinion on metals & mining, automotive, oil & gas, renewable energy, real estate, airlines and shipping sectors).
+A series of Management bodies and cross-business Oversight Committees assist the Chief Executive Officers in managing the Bank: A General Management Committee, a Group Strategy Committee and a Strategic Management Committee of the Business and Service Units. All these committees are competent on matters related to CSR affairs and their agenda may cover climate topics.
+In addition to these committees, Societe Generale has a consultative committee for communicating and debating strategy and issues of general interest to the Group: Group Management Committee. Comprising around 60 executives appointed by the Chief Executive Officer, the Group Management Committee meets at least once per quarter. It is through such a Committee that the General Management submits the company’s overall strategy to the Board of Directors and oversees its implementation.
+Several individuals in the Group Management Committee have dedicated responsibilities as regards to climaterelated affairs: • Diony Lebot is Deputy CEO and is responsible for supervising risk, compliance, internal control and the Group's financial services and insurance activities. She is the sponsor of the Group's Corporate and Environmental Responsibility and chairs the CORESP; • Pierre Palmieri is Head of Global Finance & Advisory and lead sponsor of the sustainable and positive impact finance offering for SG’s wholesale businesses); • Gilles Briatta is Group General Secretary who manages the development and oversight of CSR, public affairs and institutional relations and advocacy initiatives; • Sylvie Préa is Global Head of CSR.
+• Patrick Folléa is Head of the Wealth and Asset Management Business Unit, supervises the development of climate-related affairs for the investment arm of Societe Generale.
+• Grégoire Simon-Barboux is Deputy Group Chief Risk Officer and oversees particularly climate-related risk integration into the Group risk management framework.
+• Michala Marcussen is Group Chief Economist and Head of Economic and Sectorial Research, whose responsibilities include the Group climate scenario selection and the Group sovereign-related risks assessment (including on climate-related aspects).
+3.2. Key policies and due diligence processes related to climate mitigation. 
+All Societe Generale Group activities are governed by rules and procedures covered by a set of documents referred to collectively as the “Normative Documentation”, gathered in the Societe Generale Code.
+The Societe Generale Code has a normative function within the Group. It defines the governance of the Societe Generale Group, the structures and duties of its Business Units and Services Units. It sets out the operating framework of an activity and the management principles and rules applicable to products and services and defines internal procedures.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 20. 
+The year 2019 was marked by the updating and integration of Environmental and Social (E&S) risk management principles into the Group’s Code. The concepts of E&S risks and their governance have been more formally defined.
+These principles take an approach of E&S risk management being achieved through the integration of E&S aspects into existing processes, such as transactional processes, on-boarding processes and periodic customer review processes. Aspects relating to E&S risks are thus gradually being integrated into the credit and reputational risk management policies and processes of all Business Units.
+Similarly, risks associated with climate change, particularly transition risks, have been identified as factors that could aggravate the Group’s existing risks and have been integrated into the normative documentation of Societe Generale for the last three years.
+3.3. Business units and service units’ roles. 
+CSR objectives and processes (including climate ones) are rolled out in the roadmaps of all Business Units (BU) and Service Units (SU), which are responsible for the implementation of the Group’s CSR policy and the corresponding alignment of their actions.
+The CSR department assists and monitors the implementation of these policies. It is also in charge of defining and proposing regular updates of the framework and of promoting CSR within the Group. The Group also has a dedicated wholesale sustainable finance offering. The Group is also starting to structure a sustainable investment and retail offering.
+Since last year’s report, resources have been strengthened with the recruitment or appointment of E&S experts in several Business Units, including the strengthening of local teams in Africa, Eastern Europe and Russia, as well as in other Business Units, such as Equipment Finance, Trade Finance, Global Transaction & Payment Services, and Global Markets. Other regions where the Group operated are also concerned.
+As regards to risks, as the first line of defence (LoD1), the Business Units and Service Units (for their own activities) bear primary responsibility for assessing, managing and monitoring their risk levels in all risk categories, including climate-related risks. A second line of defence (LoD2) is composed of the Risk, the Compliance and the Finance SUs, and is entirely separate from the operational activities (in accordance with the French Order of 3rd November 2014).
+The main role of the Risk Division is to support the development of the Group’s activities and profitability by defining the Group’s risk appetite (allocated between the Group’s different business lines) in collaboration with the Finance Division and the BUs/SUs and establishing a risk management and monitoring system as a second line of defence. In performing its work, the risk department reconciles independence from the businesses with a close working relationship with the BUs, which are responsible in the first instance for the transactions they initiate.
+The Group Compliance Division is responsible for the definition and consistency of the compliance risk prevention and control framework, and for coordinating the framework aimed at preventing, identifying, assessing and controlling reputational risk across the entire Group (for which Compliance plays the LoD2 role).
+Moreover, the Service Unit responsible for General Inspection and Internal Audit serves as an independent 3rd line of defence (LOD3). In 2019-2020, this department conducted a review of CSR risks and opportunities within the Group, demonstrating the rising importance of the subject for Societe Generale.
+Table 2: Count of roles of people involved in the strategic CSR transformation (not FTE) 
+Department Role & responsibility 2018 2019. 
+CSR department Defining strategy & policies 18 20. 
+Dedicated wholesale sustainable finance (LoD1) Sustainable finance offering 20 36. 
+Risk & compliance department (LoD2) Management of climate-related risks 10 18. 
+CSR correspondents deployed in other BU & SU Deployment of CSR strategy 21 24. 
+TOTAL 69 98
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 21 
+3.4. Training and access to expertise on climate-related issues. 
+In 2019, two training sessions were provided to the Group Management Committee (top 60 executives) on climaterelated scenarios, sustainable finance and regulation, and business opportunities associated with the transition.
+In 2019, the Group also continued to roll out its training programmes on E&S and climate-related credit risk: • Climate-related credit risk identification training (2019): Dedicated training courses were set up for target populations within the business lines and the Compliance and Risk Departments, and specific training on the climate vulnerability index (CVI, see Section 4 Managing climate risks for more details on the CVI) was provided to more than 800 people.
+• E&S risk management training (2019): Face-to-face training, which includes E&S assessment procedures for transactions and customers, was provided to nearly 400 employees. In addition, a micro-learning platform is now available.
+• Financing of energy efficiency in the industry (2020): Societe Generale engaged into the INVEEST program21 to further enhance competencies in Energy Transition financing, especially for SMEs in industry.
+• A dedicated training on Energy transition (2020) has been provided by the wholesale Banking to all staff (1200); it covered the fundamentals of the energy transition, its drivers, opportunities and complexity and a zoom on clients, their moves, as well as energy transition financing and our current positioning.
+Overall, close to 2500 employees have been trained on climate-related issues this last 12 months. In addition to those training sessions, dedicated actions have been organised to raise employee’s awareness about E&S risk (newsletters and information meetings).
+Moreover, a dedicated internal CSR portal will be deployed by the end of 2020, which will make (among other topics) access to climate-related risks principles and tools easier, fostering the awareness of all employees within the Group.
+3.5. Remuneration linked to the Group’s climate-related performance 3.5.1 Remuneration of the Chief Executive Officers. 
+The remuneration of Chief Executive Officers is broken down into three components: a fixed remuneration, an annual variable remuneration, and long-term incentives.
+CSR objectives are a part of the evaluation criteria for the CEO’s annual variable remuneration determination. This annual variable remuneration is based 60% on quantitative criteria and 40% on qualitative criteria. The qualitative criteria include CSR targets, reflected in particular by Societe Generale’s positioning objective in extra-financial ratings.
+Long-term incentives are aligned with Group CSR targets for 20% of the award: • 10% is based on independent, external analysis of Societe Generale’s CSR performance, assessed by SAM Corporate Sustainability Assessment (formerly RobecoSAM) (in the 1st quartile), Sustainalytics (in the 1st quartile) and MSCI (Rating >= BBB); • 10% is based on the achievement of Societe Generale’s commitments in terms of financing the energy transition (100% vesting if the target is achieved in 2023. No vesting if the target is not met).
+In its 2019 questionnaire, RobecoSAM applied a 15% weighting to climate-related issues.
+3.5.2 Remuneration of the other members of the Management Committee. 
+In addition to the CEOs, variable remuneration of the Management Committee, comprising 60 managers, complies with the CRD4 Directive and is dependent on the achievement of collective and individual targets.
+ 21 https://inveest.org/?gclid=EAIaIQobChMIx4HfnoT46gIVV7LVCh3sKQSAEAAYASAAEgLFvvD_BwE
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 22. 
+The collective targets are common to all members of the Management Committee and reflect the Group's collective performance including Societe Generale’s positioning within the upper quartile of RobecoSAM’s bank ratings. As mentioned previously, RobecoSAM applies a 15% weighting to climate-related issues.
+3.5.3 Remuneration of employees. 
+Remuneration of employees is split into fixed remuneration and an annual variable remuneration, though these are not tied to climate objectives.
+However, in France, employees are involved in the Bank’s long-term development through profit-sharing and/or incentive schemes. They are linked to the Company’s overall performance (financial and non-financial) and regulated by Societe Generale agreements signed with the trade unions every three years. For Societe Generale SA in France, out of the total amount of profit-sharing and incentives paid in 2018 for the financial year 2017, 4% was related to CSR objectives.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 23 
+4. MANAGING CLIMATE RISKS. 
+For the second year in a row, the European Central Bank (ECB) has identified climate-related risks as a key risk driver for the euro area banking system22. Societe Generale considers that risks associated with climate change (transition and physical risks) do not represent a new risk category, but rather an aggravating factor for the types of risks already managed through the risk management framework of the bank. As a result, the integration of climate-related risks relies on existing governance and processes and follows a classical approach (Identification, Quantification, Risk appetite setting, Control and Mitigation).
+This new edition shows how the transition risk evaluation for corporates has been consolidated in 2019 and gives insight into a first evaluation on physical risks as well as how climate risks have been integrated into credit risk assessment of sovereigns. It also shows the updated thermal coal policy.
+
+Figure 5: Integration of climate-related risks into the standard risk assessment framework 
+
+ 
+22 https://www.bankingsupervision.europa.eu/ecb/pub/ra/html/ssm.ra2020~a9164196cc.en.html#toc2. 
+SOCIETE GENERALE’S STANDARD RISK MANAGEMENT FRAMEWORK. 
+INTEGRATION OF CLIMATE-RELATED RISKS INTO THE FRAMEWORK. 
+Transition and physical risks, as well as other environmental and social risks, are not new risks but aggravating factors of the existing risk categories. As a result, the integration of climate-related risks in the risk management framework relies on existing governance and processes.
+GOVERNANCE CORISQ, CORESP (among others)
+RISK TYPES Credit, Market, Operational (incl. Reputational), Insurance, Liquidity. 
+INTERNAL CONTROL FRAMEWORK LOD 1, 2, 3. 
+IDENTIFICATION & ASSESSMENT A risk mapping exercise identifies sectors most exposed to climate-related risks. The assessment of transition risk’s impact on corporate clients’ credit risk is done using a in-house methodology (the Climate Vulnerability Indicator) relying on climate scenarios. This assessment is proposed by LOD1 and validated by LOD2. LOD1 also identifies whether any counterparties fall into any sectors sensitive to E&S risk or that has been subject of controversies and, if so, assesses the level of E&S risk focusing on credit risk, reputational risk or risks of non-alignment with the E&S policies. Societe Generale assesses physical risks on its own assets and operations within its operational risk framework. The assessment methodology of physical risks for corporates and sovereigns is under development.
+MANAGEMENT For clients with a long-term exposure and a negative vulnerability to the transition, a discussion is initiated to formalize an opinion on the climate strategy of the counterparty in relation to transition risk. Likewise, if an E&S assessment results in a negative opinion mitigation actions are proposed in proportion to risk identified by LOD1 and reviewed by LOD2.
+GOVERNANCE The CORISQ reviews climate-related risks and defines the Group’s climate transition scenario used to assess transition risks impact on credit risk. Analysis and orientations taken are then communicated to the Risk Committee of the Board. The CORESP validates the E&S policies setting the normative standard for sectors most sensitive to climate. The definition of these policies is also informed by scenarios.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 24 
+
+“Climate-related risks are aggravating factors of risks usually assessed and reviewed in Societe Generale overall risks management framework. They require however a strengthened set-up with the right tools and competences at both LoD1 and LoD2 levels to properly identify transition and physical risks attached to the transactions and clients primarily operating in the sensitive sectors.”
+GRÉGOIRE SIMON-BARBOUX Deputy Group Chief Risk Officer Societe Generale 4.1. Climate-related risk terminology. 
+The Bank has adopted the risk terminology proposed by the TCFD for qualifying climate-related risks, i.e. physical and transition risks.
+Transition risks: Transitioning to a low-carbon economy may entail extensive policy, legal, technology and market changes to address mitigation and adaptation requirements related to climate change. Depending on the nature, speed and focus of these changes, transition risks may pose varying levels of financial and reputational risk to organisations.23 Even if not expressed as such in the TCFD recommendations, we have also considered liability risks, arising if parties who have suffered losses from physical and transition risk factors seek to recover these losses from those they view as responsible24, in this category.
+Table 3 shows the main categories of transition risks identified and their potential financial impact for Societe Generale and its customers (mainly in carbon-intensive sectors). In comparison with last year’s report, we expect policy, regulation and market impacts to become material on a short-term horizon.
+Table 3: Main categories of transition risks identified (ST < 1 year; 1 year < MT < 5 years; LT > 5 years) 
+Risk driver Impact identified Horizon. 
+Policy and regulation. 
+Higher operating costs for most carbon intensive customers, as the price of carbon is expected to rise in the coming years. 
+Higher reporting obligations and related costs (data collection): • Enhanced emissions-reporting obligations (e.g. scope 3) • Green Taxonomy related-reporting expected (incl. for banks) • New Financial Reporting Directive at EU level. 
+Additional capital requirement for banks for high carbonized exposures (concept of brown penalizing factor) could increase the costs of customers’ access to financing. 
+ST-MT. 
+Technology. 
+Costs to transition to lower emissions products and services (e.g. power generators customers with a high share of fossil fuel generation are expected to experience high capital expenditure requirements to decarbonize their mixes)
+Write-offs and early retirement of existing assets due to technology changes: decommissioning costs and stranded assets are foreseen in the power sector and oil & gas sector. 
+MT-LT 
+23 TCFD (2017) Recommendations of the Task Force on Climate-related Financial Disclosure https://www.fsb-tcfd.org/wpcontent/uploads/2017/06/FINAL-TCFD-Report-062817.pdf 24 Bank of England (2018) Transition in thinking: The impact of climate change on the UK banking sector https://www.bankofengland.co.uk//media/boe/files/prudential-regulation/report/transition-in-thinking-the-impact-of-climate-change-on-the-uk-banking-sector.pdf
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 25. 
+Market. 
+Reduced demand for goods and/or services due to shift in consumer preferences (e.g. increasing demand for green financial services from customers)
+Change in revenue mix and sources resulting in decreased revenues: (e.g. shift in revenue from oil supply to gas supply for customers in the Oil & Gas sector)
+Abrupt and unexpected shifts in energy costs: decrease in electricity wholesale prices resulting from large deployment of intermittent power generation technologies. 
+Re-pricing of assets (e.g., fossil fuel reserves, land valuations, securities valuations) may lead to increase liquidity risks for coal power assets. 
+ST-MT. 
+Reputation. 
+Reduced revenue from decreased demand for goods/services of stigmatized sectors and counterparties ST. 
+Physical risks: Physical risks resulting from climate change can be driven by events (acute) or longer-term shifts (chronic) in climate patterns. Physical risks may have financial implications for organizations, such as direct damage, either supply shocks (to own assets or indirect impacts on supply chain) or demand shocks (impacting downstream destination markets). Organizations’ financial performance may also be affected by changes in water availability, sourcing and quality, food security, and extreme temperature changes affecting organizations’ premises, operations, supply chain, transport needs and employee safety.
+Table 4 shows the main categories of physical risks identified and their potential impact for the Bank and its customers.
+Table 4: Main categories of physical risks identified (ST < 1 year; 1 year < MT < 5 years; LT > 5 years) 
+Risk driver Impact identified Horizon. 
+Acute. 
+Increased severity and multiplication of extreme weather events could lead to: • Lower revenues because of value chain impacts (impact on own assets as production centres, supply chain, commercial routes...) or end markets • Increased capital costs (e.g. to repair damage to facilities) and insurance costs to cover potential future damages. 
+MT-LT. 
+Chronic. 
+Changes in weather patterns (e.g. risings temperature, sea level...) could cause: • lower revenues in areas where business models and operation facilities would be negatively impacted (e.g. temperature rise impact on agricultural yields or on number of working hours in the construction domain) • decrease of asset values in affected areas (e.g. real estate value in coastal flooding areas such as Florida)
+MT-LT 4.2. Integration of climate-related risks into the standard risk assessment framework 4.2.1 Identification and consideration of climate-related risks in relation to existing risk factors. 
+Climate-related Risk identification is part of the overall Group risk identification process. This Group-wide process is continuously performed to identify all risks that are or might be material. It is comprehensive and holistic (it covers all risk types and all Group exposures) and relies on two pillars:
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 26 
+• The risk-management governance (including key committees such as CORISQs at Group level or BU level, or New Product Committees) that monitor the risk profile per risk type (credit, market, operational…). On top of the monitoring of risks well identified, this governance allows a debate between risk experts and senior management on emerging risks along with opportunities. This debate is fuelled by recent market news, warning signals, etc… • A series of exercises aiming to identify additional risks, e.g. arising from evolutions in: macro-economic or sectorial conditions; financial markets; regulatory constraints; competitors/market pressure; business model (concentration effects) and bank organization evolutions. These additional identification exercises are also organized by risk types but include some identification of cross-risk effects (e.g. market X credit, or credit X operational). For a given risk type, these exercises analyse / segment the Group exposure along several axes (BU / activity / client / product / region…). For the perimeters where this risk is assessed as material, the underlying risk factors are identified.
+For Societe Generale, climate-related risks do not form a new category of risks but constitute an aggravating factor of existing categories as credit, market, operational, insurance risks and liquidity risks. This is in line with the best practices published in 2020 by the French banking regulator (Autorité de contrôle prudentiel – ACPR)25 and the European Central Bank Guide on climate-related and environmental risks26.
+Those risks categories are defined as below27 : • Credit and counterparty risk: risk of losses arising from the inability of the Group’s customers, issuers or other counterparties to meet their financial commitments. Credit risk includes the counterparty credit risk linked to market transactions and securitisation activities. In addition, credit risk may be further amplified by individual, country and sector concentration risk.
+• Market risk: risk of a loss of value on financial instruments arising from changes in market parameters, the volatility of these parameters and correlations between them. These parameters include but are not limited to exchange rates, interest rates, the price of securities (equity, bonds), commodities, derivatives and other assets.
+• Operational risk: risk of losses resulting from operational failures, inadequacies or failures in processes, personnel or information systems, or from external events. It includes: - non-compliance risk (including legal and tax risks): risk of court-ordered, administrative or disciplinary sanctions, or of material financial loss, due to failure to comply with the provisions governing the Group’s activities, - reputational risk: risk arising from a negative perception on the part of customers, counterparties, shareholders, investors or regulators that could negatively impact the Group’s ability to maintain or engage in business relationships and to sustain access to sources of financing, - misconduct risk: risk resulting from actions (or inactions) or behaviour of the Bank or its employees inconsistent with the Group’s Code of Conduct, which may lead to adverse consequences for our stakeholders, or place the Bank’s sustainability or reputation at risk, - IT and Information Systems Security risk (cybercrime, IT systems failures, etc.); • Risk related to insurance activities: through its insurance subsidiaries, the Group is also exposed to a variety of risks linked to this business. In addition to balance sheet management risks (interest rate, valuation, counterparty and exchange rate risk), these risks include premium pricing risk, mortality risk and the risk of an increase in claims.
+• Liquidity and funding risks: liquidity risk is defined as the inability of the Group to meet its financial obligations: debt repayments, collateral supply, etc. Funding risk is defined as the risk that the Group will not be able to finance its business growth on a scale consistent with its commercial objectives and at a cost that is competitive compared to its competitors; 
+25 Gouvernance et gestion des risques climatiques par les établissements bancaires : quelques bonnes pratiques https://acpr.banquefrance.fr/sites/default/files/medias/documents/20200525_synthese_gouvernance.pdf (p.6) 26 https://www.bankingsupervision.europa.eu/legalframework/publiccons/pdf/climate-related_risks/ssm.202005_draft_guide_on_climaterelated_and_environmental_risks.en.pdf 27 https://www.societegenerale.com/sites/default/files/documents/Document-d-enregistrement-universel/2020/sg_urd_eng_2020.pdf chapter 4
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 27. 
+Table 5 shows how those typologies of risk could be impacted by climate-related physical and transition risks (without reference on the materiality of those impacts for Societe Generale activities).
+Table 5: Identified climate-related risks impact on existing categories of risk. 
+Risk Physical Transition. 
+Credit. 
+Physical risk could increase customer’ probability of default by directly damaging their assets in affected areas (as physical events could hit production facilities, warehouses, services and decisions centres) and indirectly impacting their business model by disturbing their supply chain, commercial routes or markets.
+In case of the customer default, physical risks could also make the Group ability to recover part of their commitment more difficult, for example through lower collateral valuations in real estate portfolios as a result of increased flood risk.
+Transition risks, for sectors affected by lowcarbon transition policies (higher price of carbon for example), could also impact customers’ ability to generate revenues and meet their financial commitments if they do not take measure to adapt their business models or if they cannot finance the needed adaptations measures (as research and developments to develop low-carbon alternatives to products and services).
+Transition risks could also indirectly impact customers’ assets valuation, for example by impacting the valuation of fossil fuels reserves such as coal or oil, whose value is expected to fall in a low-carbon economy perspective (stranded assets phenomenon). This could particularly impact collateral valuation.
+Market. 
+Severe physical events may lead to shifts in market expectations and could result in sudden repricing. For example, hurricanes impacting companies’ premises in certain areas may impact market expectations on their ability to generate revenues, and so their share value.
+Transition risks may generate an abrupt repricing of securities and derivatives, for example for products associated with industries affected by asset stranding.
+Operational. 
+Physical events could impact Societe Generale’s own sites and the Group ability to keep on providing services to its customers.
+
+Non-compliance with transition-related disclosure obligations could lead to legal proceedings and fines.
+Non-compliance with public commitments towards low-carbon economy transition could also generate a reputational risk who might stigmatize banks and generate a loss of revenues caused by customer shift. An additional reputational risk could also exist if a commitment would be perceived by external stakeholders as inappropriate or insufficient.
+Insurance. 
+Multiplication of physical events and of higher severity could impact IARD activity (Incendies, Accidents et Risques Divers) of which it is the object.
+
+Physical and transition risks could impact the value of the assets in which insurance activities invest the money collected. As a result, a drop of those assets values because of transition risks could impact the ability of insurance activities to deal with its financial commitments.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 28. 
+Liquidity. 
+Multiplication of physical events causing physical damages to clients’ properties could impact liquidity risk by pushing clients to withdraw money from their accounts in order to finance damage repairs.
+The non-alignment of an institution's activities with the goals of the Paris Agreement could result in the deterioration of its extra-financial rating. Such degradation could then lead to the exclusion of its securities from the investment universe of asset managers.
+Also, sudden repricing of securities due to extreme weather events or abrupt implementation of carbon-restrictive policies may reduce the value of banks’ high-quality liquid assets, thereby affecting liquidity buffers.
+ 4.2.2 Consideration of climate-related risks in the normative framework (E&S policies)
+As part of its risk management framework, the Group has adopted procedures to implement its E&S commitments (E&S General Guidelines and policies and the Equator Principles). These procedures aim at managing the E&S issues associated with transactions and clients to which the Bank provides banking and financial services. Initially only applicable to the activities of Corporate and Investment Banking, they are now being developed and gradually rolled out to cover all of the Group’s financing and investment activities. In addition to facilitating the identification, assessment and appropriate management of potentially negative E&S impacts, these procedures also enable the identification of transactions and clients having a positive impact in relation to sustainable development.
+Developed by cross-business line working groups under the supervision of the Group CSR Department, the E&S policies are approved by the CORESP. They detail the main E&S challenges and risks of the sectors covered, identify international standards for such sectors, and propose an analytical framework applied to the evaluations of clients and dedicated transactions. As part of the Group’s commitment to ongoing improvement, sector watch allows to assess the need to update existing policies.
+Energy and mining are covered by a number of sector-specific policies due to their importance for the economy and for the Group, their potentially significant impact in terms of atmospheric emissions, as well as their impact on the natural environment and local communities (dams and hydroelectric energy, thermal power plants, coal-fired power plants, mines, civil nuclear power and oil and gas). The Group also has policies on other climate relevant sectors such as palm oil or forestry.
+In 2018, the Oil and Gas policy was updated. The Group committed to finance only those activities in the oil and gas sector that have a mitigated impact on the climate. In particular, Societe Generale will no longer finance activities relating to the production of oil from oil sands anywhere in the world or to the production of oil in the Arctic. These commitments also target the implementation or commitment to implement measures to limit continuous flaring and methane emissions. For companies using fracking techniques, they also include the implementation of best E&S practices in line with the Golden Rules of the IEA (including limitation of methane leakages).
+In 2020, Societe Generale published an updated thermal coal sector policy. It is a new step towards the implementation of the Group's ambitious targets regarding its exit from thermal coal sector. Societe Generale is restricting its support to companies involved in this sector in two steps: • First, Societe Generale disengages from the most exposed companies (over 25% of revenues linked with thermal coal sector) which have not made commitments to exit the thermal coal sector. The Bank also further tightens the policy criteria for all thermal coal mining entities and prospects of the sector. All these new measures are effective immediately.
+• Second, from the end of 2021 at the latest, Societe Generale will stop providing new financial products and services to any company with mining or power thermal coal assets which is a thermal coal developing company or does not have communicated a transition plan aligned with the 2030/2040 thermal coal phase out objectives of Societe Generale.
+By the end of 2021, Societe Generale will have reviewed its entire portfolio and had a dialogue with all client companies with mining or power production thermal coal assets about their transition plans and coal phase-out timeline.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 29 
+• Oil & gas, alternative liquid & gaseous fuels: https://www.societegenerale.com/sites/default/files/2018/oil_gas_sector_policy.pdf • Civil nuclear power: https://www.societegenerale.com/sites/default/files/2018/civil_nuclear_power_sector_policy.pdf • Dams & hydropower: https://www.societegenerale.com/sites/default/files/2018/dams_hydropower_sector_policy.pdf • Shipping: https://www.societegenerale.com/sites/default/files/2018/shipping_sector_policy.pdf • Thermal power: https://www.societegenerale.com/sites/default/files/documents/Document%20RSE/politiques_sectorielles/th ermal-power-sector-policy.pdf • Thermal coal: https://www.societegenerale.com/sites/default/files/documents/Document%20RSE/politiques_sectorielles/th ermal-coal-sector-policy.pdf 4.3. Processes for identifying and managing climate-related risks. 
+This remaining subsection present four processes in place to identify, assess and manage climate-related risks. As shown on Table 6, these processes examine a range of transition and physical risk impacts on a variety of risk factors and portfolios, and are at various stage of maturity:
+Two already operational processes are monitoring transition risk impact on credit and reputational risks. One assesses the long-term impact of transition risk on corporate client credit risk using scenario analysis, while another looks at the short-term impact of transition risk on reputational risks using the Group’s normative standards set out in its E&S policies. Those two processes are nonetheless intertwined as they rely on similar input data, scenarios, processes and, in some cases, people within the bank.
+Societe Generale also assesses physical risks on its on assets and operations within its operational risk framework.
+The assessment of physical risks on the Group’s corporate and retail loan books as well as the impact of climaterelated risks on sovereign’s credit risk are currently under development.
+Table 6: Processes to identify and manage climate-related risks. 
+Risk Risk factor Portfolio covered Identification & assessment Management. 
+Transition. 
+Reputational Corporates loan book Based on normative standard (E&S policies)
+Mitigation action. 
+Credit. 
+Corporates loan book Based on scenario analysis (Climate Vulnerability Indicator)
+Client engagement on climate strategy. 
+Sovereign loan book. 
+Under development -
+Physical. 
+Corporates loan book. 
+Retail loan book. 
+Sovereign loan book. 
+Operational Own operations Part of operational risk framework Mitigation action
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 30 
+4.3.1 Climate Vulnerability Indicator: transition risk impact on corporate credit risk using scenario analysis. 
+The impact of transition risk on the credit risk of Societe Generale’s corporate clients has been identified as the main climate-related risk for the Group. As a result, this has been our first area of focus while implementing a climate-related risk framework. In order to measure this impact, the Group is gradually implementing a Climate Vulnerability Indicator that aims at reinforcing the credit analysis on the most exposed counterparties.
+Societe Generale is engaged in the sensitivity analysis on climate risk organized by the European Banking Authority (EBA) and the French banking regulator (Autorité de Contrôle Prudentiel et de Résolution - ACPR) in 2020, which focuses on transition risk impact on financial institutions. It is an opportunity to test and keep improving our methodologies (described below), with a collective approach and inputs from our peers and regulators on the subject.
+The approach adopted by Societe Generale for measuring transition risks is inspired by the United Nations Environment Programme Initiative (UNEP FI), to which Societe Generale has contributed along with 15 international banks in 2018. In a nutshell, this approach aims to assess transition risks by quantifying the marginal impact of the climate scenario on the credit rating of borrowers for a set of priority sectors, under the assumption that the borrower does not adapt to this scenario. This climate scenario is validated every year by the CORISQ following the proposal of the Economics and Sector Research department.
+The evaluation of transition risk is conducted as per the 5 steps below and summarised in Figure 6.
+1. Identify priority sectors: taking into account the materiality of Societe Generale’s exposure, the sectors affected by the transition risk identified as priorities include as of now: Oil & Gas, Power Utilities, Metals & Mining, Transportation (including Automotive, Shipping, Aircraft) and Commercial Real Estate. This first set of sectors has been validated by the CORISQ, with the opportunity to be extended in the future (with CORISQ validation) 2. Choice of a single climate scenario: such scenario integrates the effects of policy measures to limit global warming below the Paris Agreement threshold. The scenario focuses on clarifying the evolution of certain variables (e.g. carbon tax, investments in new technologies, changes in energy prices) which are detailed at the level of each activity sector in an associated geographical area (detailed on the chosen scenario provided in section 2.2.4).
+3. Define homogeneous segments: The selected sectors are then sub-divided into segments, which consist in groups of borrowers with a homogenous sensitivity to the transition scenario in terms of credit risk. This homogeneity is defined by experts in relation to the main transition risk factors given by the scenario. The assignment to one segment relies on expert decision tree and based on objective sectoral and regional criteria (e.g. energy mix for electricity producers, US and EU utility regulatory differences).
+4. Assign borrowers into segments: Most borrowers in the sectors defined and above a certain threshold of exposure are then assigned into a segment, thanks to the borrowers’ data (publicly available or specifically asked to the client when missing).
+5. Assess the “climate vulnerability” of borrowers: The borrowers automatically inherit the level of sensitivity of the segment to which they belong, materialised by a climate vulnerability indicator (CVI). The CVI is represented by a 7-level scale as shown on Figure and corresponds to the marginal impact on the counterparty current internal rating over a 20-year time horizon of the selected transition scenario. It is evaluated in parallel to the internal rating (which is based on a 1-year probability of default), and under the assumption that the counterparty does not take any adaptation measures.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 31. 
+Figure 6: Methodology for assessing transition risks on the credit portfolio. 
+
+This evaluation is reviewed by the appropriate governance: the CVI calculated according to this methodology is proposed by the first line of defence (LoD1), which can adapt the evaluation (and then modify the CVI) according to the borrower’s specifics. It is then validated by the Risk Department as second line of defence (LoD2).
+The CVI lead to 2 types of outputs: • Quantifying an impact on credit risk metrics. Once calculated, borrowers’ vulnerability can be translated into a quantified impact in terms of Expected Losses and Risk-Weighted Assets. This is done thanks to the sector experts’ opinion on the vulnerability identified and expressed in average rating degradation (for each of the 7 CVI levels is associated a rating degradation that can be applied to the related clients). In a bottom-up process, this quantification exercise can then be done at segment and sector level.
+• A list of clients vulnerable to transition risks for which the strategy will be examined. For borrowers that are identified as vulnerable or highly vulnerable, the client relationship manager formalises an opinion on the client’s adaptation strategy as regards to the transition risk. For long-term exposure, attention is paid on the financing risk at maturity. Vigilance is also paid to the timeliness of the client’s strategic shift compared to that of the scenario. Indeed, in the case of a slow adaptation, the borrower could find itself in difficulty to raise the liquidity needed to finance its transformation plans.
+
+Scenarios Credit portfolios. 
+Quantification of Expected Loss (EL) and Risk-Weighted Assets (RWA) at borrower and segment/sector level. 
+Identify priority sectors. 
+Client engagement action needed if borrower has a moderate or high negative vulnerability. 
+Define homogeneous segment. 
+Iteration. 
+INPUTS PROCESSES OUTPUTS. 
+Assess the climate vulnerability of borrowers. 
+Main variables. 
+Assign borrowers into segments. 
+Borrower data
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 32. 
+Figure 7: Vulnerability Assessment Scale 
+
+ 4.3.2 E&S policies monitoring transition risk impact on reputational risks. 
+For several years now, the Group has had procedures in place to implement its commitments. The year 2019 was marked by the updating and integration of E&S risk management principles into the Group’s new normative documentation (Societe Generale Code). The concepts of E&S risks have been more formally defined.
+These principles are that E&S risk management is achieved through the integration of E&S aspects into existing processes, such as transactional, on-boarding and periodic customer review processes. Aspects relating to E&S risks are thus gradually being integrated into the credit and reputational risk management policies and processes of all Business Units. E&S risk management is based on three main steps: • E&S risk identification: This step consists in identifying whether the customer’s activities or the transaction present a potential E&S risk. In particular, it is based on an analysis aimed at verifying whether the counterparties or underlying activities are on the E&S exclusion list or the E&S identification list, which lists any projects, companies or sectors/countries, irrespective of whether they are financed by Societe Generale, that are subject to controversy or public campaigns on the part of civil society for E&S reasons, or whether the client’s transaction is in a sector covered by a sector policy. This process makes it possible to review compliance with the criteria of the various sector-specific policies; • E&S assessment (of counterparties or transactions identified as presenting an E&S risk): when an E&S risk has been identified, an E&S risk assessment (focusing on E&S reputational risk and the risk of non-alignment with E&S policy criteria) is performed by the business lines. The following are analysed: compliance with the criteria of the applicable E&S policy(ies), the severity of E&S controversies and, where applicable, the CSR maturity of the counterparties; • E&S actions: The E&S assessment can result in a positive, conditional (contractual conditions, action plans, restrictions) or negative E&S opinion. Mitigation actions are proposed in proportion to the residual risk identified. Opinions that are not positive and proposed action plans are reviewed by the second line of defence, i.e. the Risk or Compliance Departments, and may be mediated by the heads of the business lines if necessary. Monitoring and controls are also gradually being implemented in E&S risk management processes within the business lines.
+This clarification and updating of procedures, and the gradual roll-out of procedures within the various Business Units, will make it possible to continue to standardise E&S risk assessment and management practices within the Group.
+High Positive. 
+Moderate Positive. 
+Low Positive. 
+Low Negative. 
+Moderate Negative. 
+High Negative. 
+No impact. 
+No Specific Actions. 
+Client relationship manager to formulate an opinion on the client’s strategy and its management of transition risks. Vigilance increased on long-term operations.
+Vulnerability assessment scale Risk management
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 33 
+4.3.3 Physical risk in SG operational risk. 
+Societe Generale assesses physical risks on its on assets and operations within its operational risk framework. A scenario analysis has been conducted to quantify the risks from weather hazards, which are adjusted in a forwardlooking fashion to integrate their aggravation stemming from climate change. For instance, the scenario « Flood of the River Seine » which used to be associated to a 100-year frequency is now associated to a 20-year frequency. This scenario is taken into account in internal models for capital requirement calculations.
+4.3.4 Identification of physical risk impact on credit risk using scenario analysis. 
+Our R&D work on physical risk-related impacts on our portfolios started with our French retail mortgage loan portfolio, for which the exact location of financed assets is known. Conversely it is more complex to locate all assets, installations, premises of our corporate borrowers as explained in the next section. Our analysis was conducted as follow: • Assessement of the amount of residential loans exposed to acute physical events (but not the expected financial loss) i.e. we mapped the portfolio against the physical risk map of most impacted areas.
+• Monitoring risks associated with drought, flooding and coastal flooding. Coastal flooding occurs when normally dry, low-lying land is flooded by seawater. Note that it is a different risk to sea level rise. The former is an acute risk (increased severity of extreme weather events) while the latter is a chronic risk (changes in extreme variability in weather patterns). However, sea rising is an aggravating factor of coastal flooding.
+• Our analysis was based on data provided by the ONRN (Observatoire National des Risques Naturels). It contained the part of the population of each municipality affected by drought, floods and coastal flooding risk.
+It was noted that the consequences of extreme weather events for borrowers would first be covered by the stateguaranteed natural disaster regime as long as the borrowers have insurance cover. If this cover is no longer maintained and default arises, the bank would be partially covered by the guarantee from Crédit Logement28. In this study, no climate physical risk scenario has been used to map the identified vulnerable areas to weather projections.
+A web application has also been internally developed to identify the drought, flooding and coastal flooding risks at municipality level. The application computes Societe Generale’s exposure in any particular area and enables a visualisation of the different types of risk at selected levels of granularity. The application also provides aggregated data at department level. Figure 7 provides an illustration of this interface.
+After conducting this first study on home loans, the CORISQ requested to pursue R&D physical risk work on the Group’s corporate loan portfolio.
+The main challenge is to obtain the precise location of clients’ assets and value chains, making difficult to undertake a systemic study on our entire portfolio. To address this issue, we are developing use cases at corporate or sector levels in order to put in place analyses to be generalised in the future.
+ 
+28 Crédit Logement is a financing company specializing in the guarantee (surety) of real estate loans to individuals distributed by banks.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 34. 
+Figure 7: Illustration of coastal flooding mapping in the Societe Generale’s internal web application 
+
+4.3.5 Identification of transition & physical risks impact on sovereigns using scenario analysis (loan books)
+A proof of concept for a sovereign Climate Vulnerability Indicator has been conducted and is now being built. The goal is to construct an indicator of the relative vulnerability of countries to climate risks to understand the direct effect on country risk, i.e. the ability and willingness of a country to honour their external debt commitments.
+The lack of historical data on sovereign default associated with climate change and the only recent integration of ESG considerations into agency ratings prevent the use of traditional rating modelling techniques or application of an econometric model.
+This index, which is built in-house, evaluates the vulnerability to physical and transition risk and is adaptable to any scenario. The variables used to calculate the indices are constructed using publicly available data. For each variable, the countries are ranked from least vulnerable (0) to most vulnerable (1) and the indices are constructed as an average of the ranks of the relevant variables.
+A physical risk score ranks countries according to their vulnerability. It thus considers both extreme weather events and gradual global warming as these climate-related hazards will likely lead to a deterioration of public and external finances. This score includes for instance data such as shared water resources or share of population living below 5 meters of elevation.
+A transition risk score ranks the countries according to their vulnerability that can have a negative effect on public and external solvency via two channels: • The cost associated with adaption to a lower-carbon economy • The opportunity cost of stranded assets, which may translate into lower FX revenues for instance, deteriorating the external metric of a country. 
+This score includes data on energy imports dependency or CO2 intensity of the economy.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 35. 
+The preliminary finding of this work shows that a physical risk score is highly correlated with sovereign rating. Indeed, countries that have a high vulnerability to physical risks usually have weak governance and fragile public finances, elements that are already incorporated in the classical country risk analysis. However, the correlation between the transition risk score and sovereign risk is less clear, and different clusters can be identified. The integration of both scores in the sovereign climate change vulnerability index is thus useful and necessary to get a comprehensive view of all the aspects of climate change risk.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 36 
+5. MANAGING CLIMATE IMPACTS. 
+Societe Generale manages its direct and indirect impact on climate: • The direct impact, which takes place via our own operations such as electricity consumption or employee transport, is managed via an internal ‘carbon tax’ and a set of environmental policies (real estate, IT, etc.) • The indirect impact, through our the activities of our clients, is managed by aligning our financing and investment portfolios with the goals of the Paris Agreement.
+In this new edition, more details are provided on the development of an alignment methodology, which have resulted from the active cooperation and work of the Katowice Banks working group and our partnership with the 2°C Investing Initiative.
+ “The emergence of the Covid-19 is not unrelated to the climate and biodiversity crises we are experiencing. Managing the impact of our organisation on the environment takes a greater significance when realising the value provided to society by the company, its purpose and the support of its stakeholders. Now more than ever, CSR is a driver of future performance, it is at the heart of our strategy, in line with our purpose and our values, and gives the banking business its full meaning.”
+SYLVIE PRÉA Global Head of CSR Societe Generale 5.1. Direct materiality. 
+The Group has set out environmental policies for all its sources of emissions:
+Buildings: Societe Generale has developed an environmental strategy for its real estate portfolio (of more than 4 million square metres in 2019) aimed at improving the energy performance of its buildings. An energy audit of the central buildings took place in 2019 for this purpose. This audit is part of the Group’s objective to reduce energy consumption, which has led to a 25% reduction in consumption per occupant between 2014 and 2019. Of the 40 central buildings in France, 22 are ISO 50001 certified.
+Electricity consumption: Societe Generale is the first French bank and one of the first companies in France across all sectors to have signed a long-term Power Purchase Agreement (PPA) with EDF in 2019. This PPA concerns the purchase of 27 GWh annually over three years from the Eurowatt wind farm in France. This innovative solution promotes the development of renewable energies by enabling producers to guarantee their income over several years and for customers to know the origin of their supply.
+IT infrastructure: Societe Generale has been committed to the development of responsible, environmental and social digital technology for several years, first within the Green IT Club and now within the framework of the Institut Numérique Responsable (Responsible Digital Institute), of which the Group is a founding member. By signing, in 2019, the Responsible Digital Charter drawn up by the Institut du Numérique Responsable in partnership with WWF*, ADEME* and Fing*, the Group has committed to further structuring its approach, notably by defining a governance and organisation on the subject29.
+ 29 https://institutnr.org/wp-content/ uploads/2019/06/Charte-num%C3%A9rique-responsable-INR-Vierge.pdf
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 37. 
+In France, a CSR training programme was launched for IT department employees. 135 employees have been trained in Responsible Digital practices (3-day training delivered by the Institut Numérique Responsable), 133 of whom will be certified in 2019. CSR topics were integrated into the 2019 edition of TECHWEEK, which was held over three days in Paris in November 2019. At the beginning of 2019, a new service provider from the protected and adapted work sector was entrusted with the processing of IT equipment to optimise its reuse: 73 tonnes of IT equipment will be recovered in 2019 in France, 52 tonnes of which will be given a second life.
+Paper: The progress achieved with respect to paper consumption, the main consumable used by the service activities, is the result of various measures introduced throughout the Group, such as good printing practices, moves towards digital rather than paper resources, and the use of recycled paper. In 2019, paper consumption amounted to 8,978 tonnes (a decrease of 1,277 tonnes of paper compared to 2018). A Societe Generale representative sits on the Board of Directors of CITEO, an eco-organisation that promotes the circular economy, formed further to the merger between Eco-emballages and Ecofolio. This gives the Group first-hand knowledge on best practices.
+Mobility: For the work commute, targeted measures have been deployed to promote alternatives to individual vehicle use. The Head Office at La Défense has set up a carpooling platform and a car-sharing service for the Group’s employees. Some entities (for example: ALD Automotive subsidiaries) have also made bicycles and e-bikes available to their employees. A growing number of Group entities are rolling out extensively telecommuting, with more than 32,000 individuals telecommuting worldwide. The COVID-19 crisis has considerably changed remote working for over 100,000 staff of the Group and a review is currently underway to further promote telework post-crisis.
+Waste management: Through recycling, the Group strives to minimise the direct impact of its waste on the environment. It is estimated that 14,653 tonnes of waste were produced in 2019 (vs. 15,580 tonnes in 2018). Selective sorting in five streams (paper and cardboard, metal, plastic, glass and wood) is widespread in all Societe Generale branches and central buildings.
+Food waste: As part of its strategy to reduce food waste, the partnership signed between the Group’s company restaurants at La Défense in the Paris region and the association Le Chaînon Manquant30 has made it possible to collect more than 3,800 kilograms of food and thus distribute 7,600 meals to its network of partner associations.
+To meet its carbon objectives, each year, a carbon tax is levied on each of the Group’s entities, based on their greenhouse gas emissions (EUR 10/tonne CO2 equivalent) and the sums collected are then redistributed in the form of rewards for the best internal initiatives limiting the Group’s direct environmental impact as part of the Environmental Efficiency Awards (see: societegenerale.com). Here are some facts and figures on the scheme: • 81,000 tonnes of cumulative CO₂ recurring savings avoided for the last 17 years, i.e. 81,000 round trips between Paris and New York. In between 2018 and 2019, the group has reduced its emissions by 14,200 TCo2e.
+• an average budget of EUR 3 million allocated each year to the 391 award-winning initiatives from 37 participating countries spanning four continents.
+5.2. Indirect materiality 5.2.1 Portfolio alignment. 
+The concept of aligning finance with the Paris Agreement PA has emerged over the past couple of years as the new paradigm for increasing climate action ambition within the financial community. This concept integrates the fact that financial flows need to be “consistent with a pathway towards low greenhouse gas emissions and climateresilient development” (PA article 2.1.c), to hold “the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C pre-industrial levels” (PA article 2.1.a).
+ 30 http://lechainon-manquant.fr/
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 38. 
+At the 2018 COP24 in Katowice, Societe Generale, together with BBVA, BNP Paribas, ING and Standard Chartered publicly pledged to develop an open source methodology and to align their activities with the goals of the Paris Agreement, i.e. this became known as the Katowice commitment.31 This commitment was echoed by the Collective Commitment on Climate Action (CCCA) launched on the side of the signing of the United Nations Principles for Responsible Banking. The CCCA was signed by 36 international banks including the 5 ‘Katowice Banks’.32. 
+Since 2018, the Katowice Banks have collaborated with think tank 2° Investing Initiative (2DII) to make the Paris Agreement Capital Transition Assessment or PACTA methodology applicable to bank lending (initially developed for equity and bond portfolios). Close to twenty systemically important banks took part in the PACTA pilot, and the open source tool can be used by any bank that is interested, using a range of input data.33. 
+In September 2020, 2DII published its PACTA methodology. A couple of days after the Katowice Banks jointly publish a report on the application of the PACTA methodology on their credit portfolios.34. 
+The publication of this report is a first response to the Katowice commitment of developing an open source methodology. With this document Katowice Banks aim to demonstrate why PACTA is a robust approach to steer banks' portfolios towards financing a lower-carbon society. The report provides an overview of the approach and specificities identified as most useful for banks. Having a standardised approach will ensure results are comparable across banks, for the benefit of their stakeholders. By sharing their insights and learnings the banks hope to help and inspire other banks to use PACTA and contribute further to its development.
+ 2DII publish the “PACTA methodology” with an online tool.
+ 
+https://www.transitionmonitor.com/wp- content/uploads/2020/09/PACTA-for-Banks-Methodology-
+Document.pdf. 
+Katowice Banks publish their “Application of the PACTA methodology”.
+https://2degrees-investing.org/wp- content/uploads/2020/09/Katowice-Banks-2020-Credit-
+Portfolio-Alignment.pdf. 
+The banks will continue to collaborate to refine methodologies, develop new indicators and push for more accessible and better-quality climate data and scenarios. It is the banks’ strong belief that collectively they can have a more positive impact on the fight against global warming and the support of sustainable development.
+This work is a first step for banks in the goal to progressively align their lending portfolio with the Paris Agreement, thereby contributing to the ultimate goal of climate neutrality. The five Katowice banks are at different stages of progress but expect to communicate on their respective levels of alignment by the end of 2021.
+ 31 https://www.societegenerale.com/sites/default/files/documents/Document%20RSE/the_katowice_commitment.pdf 32 UNEPFI (2019) Collective Commitment on Climate Action https://www.unepfi.org/news/industries/banking/collective-commitment-to-climateaction/ 33 https://www.transitionmonitor.com/wp-content/uploads/2020/09/PACTA-for-Banks-Methodology-Document.pdf 34 https://2degrees-investing.org/wp-content/uploads/2020/09/Katowice-Banks-2020-Credit-Portfolio-Alignment.pdf
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 39 
+
+“When the 2°C Investing Initiative created the PACTA tool, we did not expect to receive such active support from users. The spontaneous creation of the Katowice group, and the active involvement of Societe Generale in particular in improving the methodology and data, made it possible to give a whole new dimension to the project. Of course, the hardest part - aligning the real economy with the Paris Agreement - remains to be done, but both the collaborative tool and the dynamics between banks constitute a good starting point for this.”
+STANISLAS DUPRÉ Founder and CEO The 2° Investing Initiative 5.2.2 Poseidon Principles. 
+In 2019, Societe Generale contributed to the development of and signed the Poseidon Principles. These principles provide a framework for integrating climate considerations into lending decisions in the sector to promote the decarbonisation of international shipping. The Poseidon Principles are consistent with the goal of the International Maritime Organization (IMO) to reduce greenhouse gas emissions from the shipping sector by at least 50% by 2050. Societe Generale also announced that it had joined the Getting to Zero coalition, which aims to develop and deploy commercially-viable deep-sea zero-emission vessels by 2030.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 40 
+6. SUPPORTING THE SUSTAINABLE AND POSITIVE IMPACT OF OUR CLIENTS. 
+Societe Generale has been active in renewable energy for over a decade, taking a pioneering role in the funding of renewables, supporting innovative start-ups as well as financing large-scale projects. Today, as one of the world's top financers of renewable energies, we remain more committed than ever to accompanying the development of all industry players and is continuously innovating.
+The bank is transitioning from being an “energy bank” into an “energy transition bank” and is broadening its financing to all sectors vital to the transition. In addition, we offer a comprehensive range of financing and investing solutions as well as financial services for the transition to a low-carbon economy around the world.
+Figure 8: Societe Generale Sustainable & Positive Impact Finance Solutions. 
+
+SUSTAINABLE & POSITIVE IMPACT FINANCING. 
+SUSTAINABLE & RESPONSIBLE INVESTING. 
+STRATEGIC ADVISORY & BUSINESS DEVELOPMENT. 
+Green, social & sustainability-linked products Bonds, Loans, Guarantees & Letters of Credit, Securitisation. 
+Sustainable and positive investment solutions ESG research, ESG indices, Custom investment & hedging solutions. 
+Sustainable projects & asset finance Promoting Infrastructure Development, Supporting the Transition. 
+Asset management & sustainable and responsible investments Committed & Responsible shareholder, ESG & climate assessment tool. 
+ESG advisory & market access. 
+Financial services Equipment Finance, Mobilitysolutions, Supply Chain Finance. 
+Securities services & ESG offer. 
+New businesses & markets Impact Based Finance, Social Impact Solutions, Sustainablecities. 
+Strategic advisory –corporate finance
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 41 
+
+“The Group has fully integrated the challenges of sustainable development into its activities and seeks to actively contribute to the success of the energy transition, particularly by supporting our clients with consulting and project financing. We are reaffirming our willingness to continually adapt our sustainable and positive impact finance approach by drawing on our innovative skills and pioneering spirit to support the energy transaction. „
+PIERRE PALMIERI Head of Global Finance & responsible for the “Sustainable & Positive Impact Finance” offering Societe Generale 6.1. Climate-related opportunities identified. 
+Up to now, the identification of climate-related business opportunities has been the domain of sectoral experts and CSR officers (using scenario and taxonomies). It is now becoming mainstream for Societe Generale and all business units have made climate change a pillar of their workplan. Societe Generale sees a wide range of opportunities arising from the energy transition across all sectors in the economy.
+Table 7: Climate-related opportunities identified. 
+Sector Opportunities Horizon. 
+Construction Refurbishment of old buildings ST. 
+Power Deployment of renewable capacity, electricity storage. 
+Energy efficiency services and CCS in the longer term. 
+ST-LT. 
+Oil & Gas Carbon Capture & Storage. 
+Liquefied Natural Gas. 
+ST-LT. 
+Chemistry Manufacturing of biodegradable and recyclable plastic MT-LT. 
+Transport Low-carbon and energy efficient transport means (electricity, hydrogen, LNG)
+Mobility services and battery storage, rail. 
+ST-LT. 
+Metals & mining Production of metals for electric vehicles (aluminium, copper, lithium, rare earth, cobalt, nickel). ST-LT. 
+Infrastructure Smart electricity grid, smart mobility networks. 
+Charging infrastructure for electric vehicle. 
+ST-LT. 
+Agriculture Efficient irrigation systems, aero/aquaponic, drought resistant seeds, biogas. ST-LT. 
+Other sectors Circular processes, waste recovery, hydrogen in industrial processes ST-LT. 
+Product-wise, Socially Responsible and Impact investing (SRI) issues, as well as Environmental, Social & Governance (ESG) factors, have become important performance drivers. Societe Generale’s dedicated ESG research team has helped investors and asset managers to integrate these criteria into investment decisions.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 42. 
+Geographically, Societe Generale has also placed the sustainable development of the African continent at the heart of its strategic priorities. The Group is committed to playing a leading role with private and public-sector players in Africa's low-carbon development, particularly in energy infrastructure, which is essential for sustainable economic growth in these countries.35 In November 2018, Societe Generale confirmed that it would continue to expand its business on the African continent, in line with its strategic plan, Transform to Grow, and launched its new Grow With Africa initiative.
+6.2. Sustainable and positive impact financing. 
+We have built our expertise on our deep historical knowledge in environmental & social risk management, structured finance and capital markets to meet the increasing demand of our clients for financial solutions that match their sustainability agenda.
+6.2.1 Renewable energy project finance. 
+With a global presence and acknowledged energy sector expertise, Societe Generale is a reference bank in renewable energy (solar, wind and biomass energy, etc.) with a global franchise.
+• Societe Generale ranks #1 on the financing of renewable energies in the EMEA region according to Infranews in 2020.
+• Societe Generale ranks #2 in renewable energy project financing in the 2019 Dealogic rankings for the EMEA region, having acted as Mandated Lead Arranger (MLA) on 17 transactions representing a total value of USD 1.1 billion. Dealogic based its rankings on an analysis of 91 international banks.
+• Societe Generale ranks #3 in the region Europe, Middle-East and Africa (EMEA) in IJ Global’s league table of financial advisers for renewable energy project finance, with a total value equivalent to USD 6,000 billion. About 60 of the banks were studied by IJ Global as part of this ranking.
+• Societe Generale is also the sole bank with an offshore wind track record across the Americas, Asia and Europe and has led a series of first moves for clients across the globe.
+6.2.2 Renewable energy participatory financing. 
+Societe Generale has acquired Lumo36, one of the leaders in the participatory financing of renewable energies. Lumo is a French Fintech that combines strong skills in participatory finance and renewable energies and accelerates the energy transition since 2012. The platform offers local communities, individuals and businesses to participate in financing a selection of local projects supporting renewable energies in France. With this acquisition, the Group aims to strengthens its capacity to serve its major energy customers by offering them a solution of recourse to crowdfunding for the development of their projects.
+6.2.3 Positive impact structured finance. 
+Societe Generale was a pioneer in the creation of the UN’s Positive Impact initiative37, which seeks to analyse the impacts of projects or corporates, to determine positive and negative impacts, and requiring the latter to be mitigated. To support its clients’ transformation –corporates and investors alike- Societe Generale has developed a dedicated offering bringing together all its environmental & social expertise across the full spectrum of investment and financing solutions.
+6.2.4 Green, social and positive Impact bond. 
+Issuances of green, social and positive impact bonds for Societe Generale’s own account include: 
+35 https://societegenerale.africa/fr/societe-generale-afrique/grow-with-africa/ 36 https://www.lumo-france.com/ 37 The Positive Impact initiative is based on the idea that addressing global economic, social & environmental issues is both an imperative and a massive business opportunity for the private sector once an impact-based approach is implemented. The Positive Impact Finance Initiative* aims at providing a common language and developing new solutions to finance the Sustainable Development Goals along with its clients; http://www.unepfi.org/positive-impact/positive-impact/
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 43. 
+Figure 9: Societe Generale public issuances. 
+Bond type Description. 
+Societe Generale Positive Impact Bond 2015. 
+EUR 500 million 5-year fixed rate senior note The net proceeds will serve exclusively to finance projects that contribute to the fight against climate change and whose negative impacts have been identified and properly managed (renewables and water treatment system). This bond established a benchmark in the market in terms of transparency and traceability and was met with great success among the community of investors, as it was six times oversubscribed.
+Societe Generale Positive Impact Bond 2016. 
+EUR 500 million 5-year fixed rate senior The net proceeds are used exclusively to finance projects that contribute to the fight against climate change. Essentially Solar and Wind.
+ALD automotive Positive Impact Bond 2018. 
+EUR 500 million 4-years fixed-rate senior note The net proceeds of the bond are exclusively used to finance or refinance eligible vehicles. Priority is given to vehicles with the greatest net positive contribution to climate change (Greenhouse Gas (GHG) emissions – commonly referred to as CO2) and the environment (reduction in nitrogen oxide (NOx) emissions, in particular). ALD Automotive has therefore selected an initial portfolio of 14,348 eligible vehicles to finance, composed of 24% Electric vehicles (EV) and 76% hybrid electric vehicle (HEV) and plug-in hybrids vehicles (PHEV), across 13 countries in Europe.
+Societe Generale Green bond 2018. 
+TWD 1.6 billion split into 3 tranches The net proceeds of the issuance are used to fund renewable energy projects in Taiwan, including the successful project financing of the Formosa 1 Offshore Wind Project, Taiwan’s first commercial-scale offshore wind farm. This bond is aligned with the Green Bond Taiwanese requirements and with the Positive Impact Finance principles launched in Paris along with United Nations Environmental Program (UNEP).
+Societe Generale SFH (Société de Financement à l’Habitat) Green Covered bond 2019. 
+EUR 1 billion 10-year fixed-rate The funds raised are used to refinance home loans granted for carbon-efficient buildings. The eligible home loans have been selected under a methodology developed in partnership with Wild Trees, an independent consultancy firm. This covered bond issuance framework complies with both the “Principles for Positive Impact Finance” and the “Green Bond Principles” requirements. This double alignment is independently assessed by Vigeo Eiris.
+6.2.5 Sustainability-linked loans and bonds. 
+As an innovative way to value our client’s sustainability performance, Societe Generale has developed an Impact Loan offer, linking the financing structure to the client’s achievements in terms of corporate and social responsibility (CSR) targets. According to a recent RBC research paper, Societe Generale ranked 3rd in sustainabilitylinked loans deal value in the EMEA region.
+Defined on a case by case basis, the targets are discussed with our clients and supported by an incentivised mechanism. With this tailormade structured offer, Societe Generale joins forces with our clients to help them achieve their sustainability ambition and reach their CSR goals. Sustainability mechanisms offer multiple structuring opportunities and can also be used in the structuring of bonds. €1.4bn loans with positive impact features have been granted by Societe Generale to our clients.
+6.2.6 Partnerships with supranational, multilateral and development finance institutions (MDFIs)
+As an lender with a historical presence in many developing countries, we are convinced that the strong complementary relationship between local knowledge, the know-how of development finance institutions and our own product expertise makes us collectively stronger in addressing the development challenges of these countries.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 44. 
+Multilateral development banks and other development finance institutions represent key partners with whom Societe Generale enjoys long-lasting and fruitful relationships. Our cooperation is based on a wide range of cofinancing instruments such as B-loans, sovereign risk guarantees, risk sharing facilities, or partial credit guarantees. Over the years, we have designed solutions to apply these instruments across many of our areas of financial expertise, from project and commodities financing to capital markets and risk management, including • Projects in the commodity sector or commodity trade finance programs, infrastructure projects in Western Europe and emerging countries, Positive Impact Financing in emerging countries; • Export finance transactions in emerging countries to finance sustainable infrastructure; • Originate-to-distribute transactions, with multilaterals and development finance institutions acting as investors in the whole range of securities, from debt to mezzanine and equity.
+6.2.7 Export finance. 
+With a global presence, Societe Generale is a leader in export finance and contributes to the long-term financing of investments in emerging countries. Since 2017, the Export Finance team has incorporated the Sustainable Development Goals into its business model resulting in the financing of numerous projects. In 2018, these included a number of industrial and infrastructure projects in Africa, such as potable water, bridge and city infrastructure projects, meteorological equipment projects, as well as train maintenance workshops. We are proud of our commitment to Africa, where we have a long historical presence and strong local franchises contributing to the development of local economies and communities. This longstanding presence on the continent provides our clients with unmatched access to local markets.
+6.3. Sustainable and responsible investing. 
+Societe Generale’s Cross Asset Research department is evolving its offer to systematically integrate an analysis of Environmental, Social and Governance (ESG) dimensions into its equity publications, in addition to the fundamental financial analysis. This new offer will be available from January 2020, making Societe Generale one of the first players to develop this holistic approach for equity research.
+6.3.1 Socially Responsible and Impact investing (SRI) and ESG Research & advisory. 
+With a top-ranked ESG Research team, performing index solutions and a broad socially responsible product offer - ranging from the most vanilla to the most customized proposal - the aim is to deliver sustainable investment solutions that fit the diverse ESG & SRI strategies of Societe Generale’s clients. Societe Generale’s equity research systematically includes an ESG analysis as well as the financial analysis.38. 
+Socially Responsible and Impact investing (SRI) issues, as well as Environmental, Social & Governance (ESG) factors, have become important performance drivers. Sitting alongside financial and macroeconomic considerations, ESG factors have become easier to quantify and are now considered when assessing any company. Since 2016, Societe Generale’s dedicated ESG research team has helped investors and asset managers to integrate these criteria into investment decisions. From 2020 all Societe Generale equity research integrates ESG analysis.
+Lyxor also puts SRI at the heart of its investment strategy by creating concrete solutions that take into account environmental, social and governance factors to meet the challenges of the future, including climate transition and growing demand for responsible investment. In 2017, LYXOR launched the world’s first Green Bond ETF (this fund is representative of the performance of green bonds issued by Investment Grade entities). More recently, LYXOR is the first provider to launch an ecosystem of ETFs designed to counter climate change. It specifically completed its ETF offer related to the fight against climate change and reinforced its shareholder engagement policy to push climatefriendly policies in the companies invested.
+6.3.2 ESG innovation in Asset Management. 
+Lyxor Asset Management39 is addressing within its active and passive solutions the challenges of climate transition and the growing demand for responsible investments.
+ 38 https://www.societegenerale.com/en/newsroom/en-societe-generale-CIB-places-esg-at-heart-equityresearch 39 https://www.lyxor.com/en/article-173-and-tcfd
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 45. 
+As a pioneer of ETFs in Europe, Lyxor has leveraged on its strong ability to innovate in order to provide investors with ESG solutions. As such, Lyxor provides ETF-based thematic solutions aligned with five Sustainable Development Goals - Water, New Energy, Climate Action, Sustainable Cities and Communities and Gender Equality.
+On the ESG selection side, Lyxor expanded its range of ETF with (i) the Lyxor MSCI Europe ESG Leaders which adopts a Best-in-Class ESG selection (ii) and the Lyxor MSCI ESG Trend Leaders, four ETFs that combine Best-in-Class ESG selection with the innovative ESG Momentum score that measures the trends of company ESG score. Two of those ETFs (Lyxor MSCI Europe ESG Leaders and Lyxor MSCI EMU ESG Trends Leaders) were awarded the SRI label in 2019.
+Lyxor is the first ETF provider to make a full range of ETFs designed to counter climate change available to investors. These unique ETFs track MSCI's Climate Change indices, which take into consideration the main objectives of the European Union's regulations on investment benchmarks as part of the EU “Action Plan on Financing Sustainable Growth” of 2018.
+LYXOR has been gradually increasing the integration of ESG criteria within its equity active management, through the GARI strategies which integrate companies’ ESG ratings and Risks in the selection of investment universes. Furthermore, LYXOR has integrated extra-financial criteria in the management of an institutional mandate which invests in French SMEs. LYXOR partnered with SEB (Skandinaviska Enskilda Banken Swedish investor) in 2019 to launch a Multi-manager strategy which uses an innovative ESG selection in order to create investment universes with measurable positive economic, social and/or environmental strategy (otherwise referred to as “Impact Investing”). In 2020, LYXOR Asset Management is integrating ESG filters into its sovereign bond management business with its High-Quality Liquidity Assets (HQLA) strategy.
+6.3.3 Sustainable bonds. 
+Societe Generale continuously accompanies its clients in the sustainable bond market, and more than ever since 2016 with the lead management of over 111 green, social and sustainability bonds amounting to a total exceeding EUR 480 billion equivalent.
+In addition, Societe Generale acted as structuring advisor for highly visible inaugural green and social bonds for key clients in all asset classes – corporates, financial institutions and Sovereigns, supranationals and agencies (SSA) – in Europe and Asia, highlighting the bank’s strong advisory capabilities in the sustainable and positive impact finance field.
+In a drive to support the further development of the sustainable bond market globally, Societe Generale is taking an active part in several initiatives, such as being a member of the ICMA Green and Social Bond Principles and being the first French bank joining in 2018 the Climate Bond Initiative’s Partnership Programme.
+6.3.4 Innovative Sustainable & Positive Impact Products. 
+Societe Generale aims to meet its clients’ ESG priorities by offering a wide range of sustainable investment solutions. Below are some examples of initiatives that address environmental priorities more specifically:
+Underlyings • Commercialization of structured products on Equity indices that integrate Environmental filters, such as the CO2 emission levels, thus allowing capital flows to be redirected towards firms that are leaders in that space: such as Solactive Environmental Footprint Index or Societe Generale Climate Risk Control Index.
+• Commercialization of linear products on equity baskets that integrate Environmental filters, such as the CO2 emission levels, thus allowing capital flows to be redirected towards firms that are leaders in that space.
+Products • Commercialization of Positive Impact notes that allow clients to invest in a structured note whilst promoting Positive Impact Finance; some of the positive impact loans financed by Societe Generale can have an impact towards the fight against global warming (Climate change mitigation represents 39% of the Positive impact financings supported by the PI Notes, as per the 2019 annual report on the Positive Impact Notes).
+• Commercialization of structured notes that allow investors to contribute to reforestation projects, that foster the capture of CO2.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 46 
+6.3.5 Insurance services. 
+Societe Generale Insurance’s investment policy includes a number of environmental, social and governance (ESG) criteria. These ESG criteria are officially taken into account alongside credit ratings and rankings when selecting securities and deciding whether or not to keep them in the portfolio. At the end of 2019, Societe Generale Insurance had assessed around EUR 87.7 billion of assets under management according to ESG and carbon criteria. In addition, by the end of the year, it had invested a total of EUR 1.5 billion (up almost 120% on end-2018) in environmental or energy transition projects, particularly via green bonds.
+Through its life-insurance savings solutions, Societe Generale Insurance offers its customers a range of sustainable financial products enabling them to invest in projects and companies that meet environmental and social needs. At the end of 2019, in accordance with the PACTE law, all of Societe Generale Insurance’s French contracts offered at least one vehicle backed by a solidarity fund or an SRI* (Socially Responsible Investment) or Greenfin* (energy and ecological transition financing) certified fund. This equated to a range of 153 sustainable vehicles (i.e. certified vehicles or those offering similar characteristics), totalling EUR 864 million in assets under management (vs. EUR 353 million at end-2018, i.e. an increase of close to 145% over the year).
+6.4. Strategic advisory & business development 6.4.1 Renewable energy equipment finance. 
+With our in-depth environmental and social expertise across our business sectors, we help our clients focus on executing sustainable concepts to increase their long-term value.
+In cooperation with manufacturers, energy service providers and specialised financial intermediaries, Societe Generale Equipment Finance fosters the implementation of sustainable and green initiatives for its clients in the real economy. Thanks to our international network with leading partners, we are able to finance our clients’ investments in sustainable, clean and renewable technologies and concepts. Based on our in-depth focus on four business sectors – Technology, Industrial Equipment, Healthcare & Green, Transportation - we define with our partners the implementation of new sustainable concepts with embedded finance solutions for end-customers.
+In addition, developing new International Vendor Programs is a key focus to realise positive impact. All of our “green” activities are increasingly supported by a special financing solution. We are committed to “Positive Impact Solutions” and its key role to contribute to the development of sustainable concepts.
+6.4.2 Securities Services integrates ESG factors. 
+Societe Generale Securities Services is fully committed to supporting its clients in their sustainable finance practice leveraging its ESG experts. Whether they are issuers or institutional investors, SGSS helps them to integrate ESG factors in their strategies in an entirely independent way. Societe Generale Securities Services offers comprehensive solutions covering the ESG and carbon criteria: • Portfolio analysis based on various ESG metrics, including carbon footprint, benefitting from independent calculation capabilities and allowing to create virtual portfolio analysis through a user-friendly interface.
+• A proxy voting service to participate to General meetings, through a single platform covering 36 markets and connected to 16 proxy advisers.
+• Integration of ESG criteria in fund depository controls.
+• A General Meeting organisation service, already selected by 150 listed companies, proposing electronic vote capabilities.
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 47 
+6.4.3 Impact investment risk transfer transaction. 
+Societe Generale and Mariner Investment Group completed a USD 3.4 billion impact investment risk transfer transaction in October 201940. The Jupiter portfolio corresponds to more than 250 loans in over 40 countries around the world, with credits sourced from Societe Generale’s leading structured finance franchise in a variety of sectors. The Bank has committed to dedicate 25% of the risk weighted asset reduction to spur new Positive Impact financing over the next three years. By reallocating the released capital from the legacy loan book and dedicating it to enhance the capacity to finance new Positive Impact projects.
+6.4.4 Next generation of sustainable mobility solutions. 
+As a leading global mobility provider, ALD Automotive is committed to supporting its clients with innovative and sustainable mobility solutions. ALD Automotive supports its corporate clients by providing eco-friendly fleets and mobility solutions whether it be to reduce fleet emissions, improve safety on the road or promote new mobility solutions. For a complete overview of ALD’s CSR policy, please refer to ALD Automotive Annual Report.41. 
+Promoting electric vehicles (EV): As ALD's fleet is rebalanced, the most urgent efforts are aimed at reducing the share of diesel vehicles and creating the necessary conditions for the emergence of electric vehicles. At the end of 2019, ALD had a portfolio of 152,000 electric or hybrid vehicles under management – an increase of 50% year-onyear. Pure electric vehicles represent over 26,300 vehicles of this total, making ALD one of the main operators of electric vehicles throughout the world. Our ambition is to reach 200,000 “green” vehicles under management by the end of 2020, representing at least 20% of new contracts on passenger cars.
+Creating new products and business lines to support EV growth: the development of specific products and services. This involves facilitating the customer experience by integrating into the leasing offer access to recharging infrastructures at home, at work and in public places (“end to end” offer). ALD also created new “EV enabler” services. For example, the ALD Switch offering, already available across the EU, provides an electric vehicle and includes the supply of a combustion engine/hybrid vehicle when the customer needs it (for up to 60 days per year).
+Financing growth of electric and hybrid fleet: In September 2019, the European Investment Bank granted a EUR 250 million credit envelope to enable the development of ALD’s range of hybrid and electric vehicles across the EU, making it possible to purchase a total of 15,000 vehicles. In 2018 ALD successfully issued its first positive-impact bond, of EUR 500 million with a 4-year maturity. The funds raised are exclusively used to (re)finance a fleet of electric and hybrid vehicles selected according to their climate and environmental impact.
+New mobility solutions: ALD Automotive also places a strategic focus on investing in new mobility solutions that will transform car usage, fostering new behaviours that are gradually shifting the model away from the traditional “one user-one car” scenario. ALD identified three priority areas in which to innovate post 2020: digital and connected vehicles, flexible leasing and new mobility solutions including corporate car-sharing.
+Advising customers: We advise our clients, providing knowledge about existing and future technologies, laws and taxation and mobility trends. We endeavour to guide them towards the best technology available for their needs, both financially and environmentally, taking into account the actual use of their vehicles in order to help them move towards a more balanced mix of engine types including petrol, hybrid and electric cars. This requires analysing the fleet and taking into consideration a client’s business model, driver profiles and vehicle usage. The goal is to identify the right car for the right usage, ensuring that diesel is only used when it continues to make sense.
+ 40 https://www.societegenerale.com/en/newsroom/mariner-risk-transfer-impact-october-2019 41 https://www.aldautomotive.com/Portals/international/adam/Content/OQm_Tf2mEa6KOBLcZ6A6g/Picto_Url/2018%20ALD%20Annual%20Report%20(including%20Financial%20statements)%20-%20PDF%20BD.pdf
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 48 
+7. METRICS AND TARGETS. 
+This second edition of Societe Generale Climate report shows that all the commitments taken prior to 2020 have been met: - We have met our commitment to cut the GHG emissions per occupant of own operations, and to improve the energy performance per occupant of our buildings.
+- We have exceeded our commitment to reduce the financing granted to the thermal coal mining sector and to reduce share of thermal coal in our financed power mix.
+- We have met our commitment to raise EUR 100 billion of bonds, advisory and financing for the energy transition between 2016 and 2020.
+Post 2020, Societe Generale is taking new commitments to align its portfolios with the goals of the Paris Agreement: - We commit to phase out thermal coal extraction and power financing by 2030 in the EU and OECD countries, and by 2040 for the rest of the world, which is more ambitious than the IEA SDS coal production trend.
+- We commit to reduce our upstream oil&gas portfolio by 10% by 2025, which is more ambitious than the IEA SDS oil&gas production trend. As a first step towards meeting this target, the Group will cease to provide financing to the onshore upstream oil&gas in the US.
+- We commit to reduce the average emission intensity of our power portfolio by 18% in 2025 from 2019 (from 260 gCo2/kWh in 2019 to 212 gCo2/kWh in 2025 and 63 gCo2/kWh in 2040).
+- The Bank has also pledged to raise EUR 120 billion to support the energy transition between 2019 and 2023, in the form of EUR 100 billion in sustainable bonds and EUR 20 billion for renewable energies, in the form of advisory and financing.
+ 7.1. Managing transition risks. 
+As detailed in section 4.3.1, Societe Generale has developed a transition risk evaluation tool (the climate vulnerability indicator or CVI). The main value of the CVI at client level is the improvement of the credit granting process through a risk differentiation on how borrowers are concerned by climate change.
+Figure 10 shows the distribution of exposure across seven sectors sensitive to transition risks: oil & gas, commercial real estate, power generation, automotive, shipping, airlines and metals & mining. It illustrates that the oil & gas sector is relatively larger in exposure terms.
+Figure 10: Share of EAD by sector using CVI as of 31.12.2018 
+
+29% 17% 16% 16% 5% 4% 13% 0% 20% 40% 60% 80% 100%
+Oil & gas. 
+Real estate. 
+Power generation. 
+Automotive. 
+Shipping. 
+Airlines. 
+Metals & mining
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 49 
+7.2. Managing impact - own operations. 
+This section presents metrics for Societe Generale’s own operations. Figure 11 shows that the Group’s total GHG emissions (scope 1, 2 and 3) have decreased by 21% between 2015 and 2019. 42 While Figure 12 shows the distribution of this carbon footprint across its main sources, with electricity being the main one.
+Figure 11: GHG emissions (S1-3) own operations. 
+
+Figure 12: Split of GHG emission (S1-3) 2019. 
+
+
+For its 2014-2020 carbon reduction programme, Societe Generale committed to cut its GHG emissions per occupant by 25% and to improve the energy performance per occupant of its buildings by 20% by 2020 as compared to 2014 levels. As demonstrated in Figure 12 and Figure 13, the Group has met these targets one year ahead of schedule.
+Figure 13: Emission per occupant commitment. 
+
+Figure 14: Energy per occupant commitment43 
+
+ 
+42 CO2 emissions are calculated according to the GHG Protocol method and is broken down into three categories: Scope 1 covers direct emissions related to energy consumption and fugitive emissions of fluorinated gases; Scope 2 covers indirect emissions related to energy consumption; Scope 3 covers GHG emissions from all office paper consumption, business travel, transport of goods and data centres hosted in France since 2012. 43 Of note the name of the indicator has changed. In the previous URD it was refered as ‘energy performance indicator’ with a 20% target relative to 2014.
+342 269 0
+50 100 150 200 250 300 350 400 450 500 2015 2016 2017 2018 2019. 
+GHG emissions (Thousands TCo2e)
+Scope 1 Scope 2 Scope 3 -21% 2.5 1.9. 
+Target 1.89 0.0 0.5 1.0 1.5 2.0 2.5 3.0 2014 2015 2016 2017 2018 2019 2020. 
+Co2eq / occupant. 
+Portfolio Target 5.9 4.2. 
+Target 4.5 0
+1 2
+3 4
+5 6
+7 2014 2015 2016 2017 2018 2019 2020. 
+KWh / occupant. 
+Portfolio Target
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 50 
+7.3. Managing impact - Credit portfolio alignment (pre-2020 targets)
+In 2016, Societe Generale developed a methodology to reduce its thermal coal power and coal mining financing in line with the IEA's 2DS scenario. The targets derived from IEA 2DS excludes China’s coal contribution given that Societe Generale has little exposure in this region. Since China accounts for the lion share of the goal coal supply and demand, the target for Societe Generale is more stringent than the ‘World’ target.
+By the end of 2019, Societe Generale had met its target of limiting to 19% the proportion of coal power (installed capacity) in its financed electricity generation mix by 2020 (Figure 15). It has also met its target of reducing its loan outstanding (drawn amount) related to coal mining by at least 14% by 2020 (Figure 16).
+Figure 15: Coal power financing commitment. 
+
+Figure 16: Coal mining financing commitment 
+
+ 7.4. Managing impact - Credit portfolio alignment (post-2020 targets) 
+Societe Generale pledges to reduce its thermal coal power & mining financing to zero by 2030 in the EU and OECD countries, and by 2040 for the rest of the world. This target aims to demonstrate that Societe Generale’s thermal coal extraction and power financing reduces in absolute terms. The indicator selected is the thermal coal extraction and power financing (bn EUR gross commitment base 100), as per the Katowice application of the PACTA methodology.44. 
+As a scenario benchmark, we use the thermal coal extraction and power demand trend (% change EJ) from the IEA’s SDS 2020 edition. Of note, because the SDS does not provide a coal scenario expressed in the monetary unit, we use the physical production as a proxy. Societe Generale coal phase out commitment is more ambitious compared to the IEA’s thermal coal production trend.
+Figure 17: Thermal coal power & mining financing 
+
+ 44 https://2degrees-investing.org/resource/credit-portfolio-alignment-katowice-report/ 19% 23.0% 22.4% 19.3% 16.3% 11.1% 0% 5% 10% 15% 20% 25% 2016 2017 2018 2019 Q2 2020. 
+Coal power share (%MW)
+IEA 2DS (exc. China) Portfolio -14% ​ -7% -10% -31% -43% 0
+20 40 60 80 100 120 2016 2017 2018 2019 Q2 2020. 
+Coal mining (drawn EUR base 100)
+IEA 2DS (exc. China) Portfolio -50% -78%
+Exit OECD -100% 0
+20 40 60 80 100 120 2020 2025 2030 2035 2040. 
+Gross commitment (base 100)
+Portfolio IEA SDS (2020) Target
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 51. 
+Societe Generale commits to reduce its upstream oil&gas financing by 10% by 2025 relative to 2019. This reduction in absolute terms would happen faster than the IEA SDS (2020) oil&gas production trajectory – which is at -4% by 2025 relative to 2019 (expressed in % change EJ).
+The upstream oil&gas portfolio is measured in line with the Katowice application of the PACTA methodology and is expressed here again in bn EUR gross commitment base 100.
+As an immediate first step towards meeting this target, the Group will exit the US onshore upstream oil&gas.
+
+Figure 18: Upstream oil & natural gas financing. 
+Societe Generale pledges to reduce the average emission intensity of its power portfolio from 260 gCo2e/kWh in 2019 to 63 gCo2e/kWh by 2040 (with interim targets at 212 and 163 gCo2e/kWh in 2025 and 2030 respectively). Societe Generale’s power generation portfolio is far less carbon intensive than the IEA SDS world scenario (260 gCo2e/kWh vs 463 gCo2e/kWh) and the interim target are set at more ambitious levels than the IEA’s.
+This indicator is measured as per the Katowice application of the PACTA methodology. The two interim targets (212 and 163) are set below the SDS 2019 by linear interpolation between the baseline and the 2040 target. This is done to set targets for portfolios that are already aligned and demonstrate a progressive effort towards 2040.
+
+Figure 19: Power generation emission intensity. 
+Finally, to ensure that the alignment of the coal, oil&gas and power portfolios as a whole are also aligned, we monitor Societe Generale primary and secondary energy financing mix. As per the Katowice methodology, this indicator monitors Societe Generale’s energy financing mix (%€) against the IEA SDS energy demand mix (%EJ), which includes thermal coal, upstream oil&gas and power generation. This is only used as complementary reporting indicator and targets are not set specifically. Currently, the share of fossil fuel in Societe Generale’s energy financing mix (69%), is far below the IEA SDS energy mix (85%) given efforts made in recent years in reducing coal and increasing renewable financing.
+Figure 20: Energy financing mix (primary & secondary) 
+-4% -27% -10% 0
+20 40 60 80 100 120 2020 2025 2030 2035 2040. 
+Gross commitment (base 100)
+Portfolio IEA SDS (2020) Target 260 463 327 212 67 0
+100 200 300 400 500 2020 2025 2030 2035 2040. 
+Emission intensity (gCo2e/kWh)
+Portfolio IEA SDS (2020) Targets 69% 85% 76% 60% 40% 50% 60% 70% 80% 90% 100% 2020 2025 2030 2035 2040. 
+Share of fossil fuels in energy financing mix. 
+Portfolio IEA SDS (2020)
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 52. 
+
+Societe Generale has signed the Poseidon Principles which aims to reduce the total annual GHG emissions of the shipping industry by at least 50% by 2050 relative to 2008 based on the International Maritime Organisation’s (IMO) objective. The indicator selected corresponds to the carbon intensity of each financed vessel (gCo2e/tnm) measured through the Average Efficiency Ratio (“AER”) as per the Poseidon Principles methodology. Expressed in emission intensity, the Poseidon Principles target represents a more than 80% reduction from the average AER level of 2012 and is thus compliant with the IMO 2050 greenhouse gas strategy.
+For 2019, Societe Generale’s shipping portfolio is slightly misaligned by 2.05% relative to the 2019 IMO emission intensity decarbonisation trend. This result reflects the fundamental changes the industry is going through. Going forward, Societe Generale is committed to supporting its clients in their efforts towards decarbonisation and to continuously working on improving its portfolio by financing vessels aligned with IMO targets.
+Figure 21: Shipping emission intensity. 
+
+
+As part of its new strategic plan 202545, ALD automotive has pledged to reduce the average tailpipe carbon emission of its new vehicle deliveries for the EU, Norway, United Kingdom, Switzerland by 40% in 2025 relative to 2019 level (gCo2/vkm NEDC standard). The resulting target is set at a more ambitious level than the emission intensity threshold set by the EU regulation 2019/631.
+ALD expects the share of electric vehicles46 in its new car deliveries to reach around 30% by 2025 and around 50% of battery electric vehicle deliveries by 2030.
+Figure 22: ALD automotive emission intensity 
+*Passenger cars (EU + Norway + UK + Switzerland) **The target set for 2025 is expressed in NEDC and therefore will be reviewed when the new emission protocal (WLTP) takes place.
+ 45 https://www.aldautomotive.fr/decouvrez-ald-automotive/nos-engagements/move-2025 46 Battery electric vehicles + plug-in hybrid electric vehicles + hydrogen vehicles. Targets set for deliveries of new passenger vehicles for EU, Norway, UK, Switzerland ∆ = 2,05% 0
+20 40 60 80 100 120 2015 2020 2025 2030 2035 2040 2045 2050. 
+Decarbonisation trajectory (base 100)
+Portfolio IMO Objective 3 116 95 81 59 70 0
+20 40 60 80 100 120 140 2020 2025 2030 2035 2040. 
+Emission intensity (gCo2/vkm NEDC)
+ALD portfolio* Eu regulation 2019/631. 
+Target**
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 53 
+7.5. Financing the transition. 
+The Group is monitoring its Sustainable and Positive Impact Finance (SPIF)47 to extend credit, leasing and customer support in the growth of sustainable activities. The figure below shows the evolution and distribution of climaterelated financing over time.
+Figure 23: Green financing production (corporate) 
+
+Figure 24: Split of green financing production 2019. 
+
+ 
+In December 2017, Societe Generale committed to raising EUR 100 billion in financing earmarked for the energy transition between 2016 and 2020. By the end of 2019, the Group had already surpassed this target (having raised EUR 26.6 billion for the renewable energies sector and EUR 82.4 billion for green bonds – a 109% achievement rate).
+Building on this initial commitment, it therefore set itself a new goal, committing to raise EUR 120 billion for the energy transition between 2019 and 2023. This total sum breaks down as follows: • EUR 100 billion in sustainable bond issues led or co-led by Societe Generale. Sustainable bonds include both green bonds and sustainability bonds (as defined by the ICMA guidelines and the EU’s Green Bond Standard), as well as all bonds indexed to climate targets; • EUR 20 billion for renewable energies, in the form of consulting and financing.
+
+Figure 25: Green financing commitment 2016-2023* 
+
+All values are reported at the last quarter of each year.
+ 47 For SPIF methodology, refer to Societe Generale’s UDR 2020 ; https://www.societegenerale.com/sites/default/files/documents/Document-denregistrement-universel/2020/sg_urd_eng_2020.pdf 2.0 3.2 2.9 6.5 6.5 0
+1 2
+3 4
+5 6
+7 2015 2016 2017 2018 2019. 
+Billion euros. 
+Renewable energy production (53%)
+Sustainable buildings (28%)
+Public transport (9%)
+Other environmental projects (10%) 69 109 41 100 120 0
+20 40 60 80 100 120 2016 2017 2018 2019 2020 2021 2022 2023. 
+Billion euros. 
+Renewable financing or advisory Bond issuance led or co-led Target
+
+
+CLIMATE DISCLOSURE REPORT - SEPTEMBER 2020 C0-PUBLIC 
+
+│ 54. 
+Table 8: Summary of climate-related indicators and targets *Alignment delta measures the distance between the indicator and the scenario (or trajectory) in the current reporting. A positive alignment delta signifies a misalignment, while a negative figure means that the portfolio is aligned. Alignment deltas are not provided when there is scenario benchmark at baseline. ** In that the Group met its initial target over a year in advance, it set itself a new target in the third quarter of 2019. The 2019 data are therefore included in the figures in respect of both the 2016-2020 target and the 2019-2023 target. 
+Scope Indicator Scenario Method Baseline Target Realisation Alignment delta in 2020*
+Financing. 
+Renewable energies financing or advisory + green bonds issued led or co-led (EUR bn) -
+Societe Generale 12.7 (2016) 100 (2020) 119 (Q4 2019) n/a Target met. 
+Renewable energies financing or advisory + green and sustainability bonds issued led or co-led (EUR bn)** - 120 (2023) 79 (Q2 2020) n/a On-track. 
+Managing impact. 
+Direct. 
+Emissions intensity (Co2e/occupant) 2.5 (2014) 1.89 (2020) 1.9 (2019) -4% On-track. 
+Energy consumption intensity (kWh/occupant) 5.9 (2014) 4.5 (2020) 4.2 (2019) -11% On-track. 
+Indirect (clients)
+Share of coal in financed installed capacity mix (%MW) IEA 2DS Coal power mix excluding China (%MW) 23 (2016) 19 (2020) 11.1 (Q2 2020) -42% Target met. 
+Coal mining drawn amount (EUR base 100) IEA 2DS Coal mining production excluding China (%∆ EJ) 100 (2016) 86 (2020) 57 (Q2 2020) -34% Target met. 
+Coal power & mining gross commitment (EUR base 100) IEA SDS 2020 Coal power & mining production trend (%∆ EJ)
+PACTA / Katowice 100 (2020) 0
+(2030/40. 
+OECD/RoW) 100 (2020) 0% n/a. 
+Upstream oil&gas gross commitment (EUR base 100) IEA SDS 2020 Oil&gas production trend (%∆ EJ) 100 (2020) 90 (2025) 100 (2020) 0% n/a. 
+Power generation emission intensity (gCo2e/kWh) IEA SDS 2020 Emission intensity (gCo2e/kWh) 260 (2020) 212 / 67 (2025/40) 260 (2020) -44% On-track. 
+Share of fossil fuel out of total primary & secondary energy financing mix (% EUR)
+IEA SDS 2020 Primary and secondary demand mix (% EJ) 69 (2020) Not set 69 (2020) -19% On-track. 
+ALD automotive deliveries fleet emission intensity passenger cars NEDC (gCo2e/vkm)
+EU regulation 2019/631 Emission intensity (gCo2e/vkm) 116 (2019) 70 (2025) 116 (2019) - n/a. 
+Shipping emission intensity (gCo2e/tnm base 100) IMO Objective 3 Emission intensity (gCo2e/tnm)
+Poseidon Principles 87 (2020)
+Not applicable 87 (2020) +2.05 %
+Slightly off- track
+
+
+ 
+Photos Credit Page 1: ESA / Envisat / Greenland's ice sheet / CC BY-SA 3.0 IGO / http://www.esa.int/ESA_Multimedia/Images/2011/06/Greenland_s_ice_sheet Page 6: ESA / Sentinel-3 / Baltic swirls / CC BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2016/07/Baltic_swirls Page 16: ESA / Sentinel-3 / Greenland swirls / CC BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2018/05/Greenland_swirls Page 22: ESA / Envisat / Iceberg Alley, Labrador / CC BY-SA 3.0 IG http://www.esa.int/ESA_Multimedia/Images/2011/05/Iceberg_Alley_Labrador Page 35: ESA / Envisat / Greenland's East Cost / CC BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2009/10/Greenland_s_east_coast Page 39: ESA / Envisat / Icy Waters in Greenland / CC BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2011/10/Icy_waters_in_Greenland Page 47: ESA / Envisat / Greenland / C C BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2002/08/Greenland_Denmark_-_MERIS_-_17_May_2002 Page 53: ESA / Envisat / Arctic Ocean swirls / CC BY-SA 3.0 IGO http://www.esa.int/ESA_Multimedia/Images/2008/06/Arctic_Ocean_swirls

@@ -1,0 +1,206 @@
+Introduction. 
+Climate change has emerged as one of the most pressing systemic risks of our time, with far reaching, global, ecological and socio-economic impacts and resulting investment implications. Climate change has been a key ESG focus area for AIMCo since 2015. We issued our ‘Strategic Position on Climate Change’ shortly after COP 21, and publicly endorsed G-7 and G-20 investor statements calling for policy action on climate change. We closely followed the work of the FSB Task Force on Climate-related Financial Disclosures (TCFD), contributed to TCFD consultations and publicly supported their recommendations.
+Far reaching global and country commitments to address climate change have resulted in a complex regulatory environment requiring concerted action from market participants. As 194 countries attempt to deliver on their respective COP 21 commitments to reduce greenhouse gas emissions, AIMCo is doing our part to evaluate climate risks and opportunities, so as to protect and enhance investment returns for our clients and their beneficiaries— all Albertans.
+TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES. 
+Governance. 
+Strategy. 
+Risk Management. 
+Metrics and Targets. 
+TCFD BACKGROUND “The TCFD recommendations are designed to solicit consistent, decision-useful, forward-looking information on the material financial impacts of climate-related risks and opportunities, including those related to the global transition to a lower-carbon economy” (TCFD)
+We encourage companies to disclose their GHG emissions and to begin the process of adopting the TCFD recommendations. This will serve to inform "internal business processes and provide quality, relevant disclosure to investors.
+1 AIMCo's TCFD REPORT 2019
+
+
+Governance. 
+Current State. 
+ROLE OF THE BOARD OF DIRECTORS. 
+Ultimately, AIMCo’s Board oversees the governance of responsible investment at AIMCo—it approves the RI Policy and periodic refreshments to the policy. The Board is appraised of the scope of our RI activity, including our activities regarding consideration of climate change.
+ROLE OF MANAGEMENT. 
+We have a Responsible Investment Committee (RIC) chaired by our CEO and comprised of senior management, representing all asset classes and investment departments. The RIC approves overarching responsible investing strategies and is regularly appraised and consulted on ESG-related activities, including consideration of climate change.
+In November 2018, an internal cross-functional TCFD working group was formed to identify climate-related risks, opportunities and financial impacts, address carbon footprint methodologies and inform our approach to the TCFD recommendations. The effort is led by the RI team, with representation from the CFO office, Economics & Fund Strategy and Risk.
+Future Plans. 
+We feature ESG materials regarding the governance of climate risk in our in-house board education portal. A related board presentation has also been scheduled for December 2019.
+REAL ESTATE LEADS ON CLIMATE-RELATED REPORTING. 
+Globally, the real estate sector accounts for 30% of GHG emissions and 40% of energy consumption. Finding cost saving ways to curb emissions and reduce energy consumption makes both business and climate sense. AIMCo invests in assets with green building certifications where feasible and has adopted targets for energy consumption, water withdrawal and waste diversion.
+Our real estate sustainability dashboard allows us to identify climate change risks and opportunities across the portfolio. For example, we can track emissions attributable to heating (Scope 1) & energy consumption (Scope 2) and view property-specific emissions including variations by location, demonstrating properties’ dependency on the regional electricity grid, and variations by property type. The results inform our active ownership strategies,risk management framework and target setting process.
+The dashboard further informed our 2021 sustainability targets and helps us target opportunities for eco-efficiency upgrades and retrofits and capital provisions to third-party property managers.
+Asset Class Energy Water Waste (ekWh/sq.ft.) (L/sq.ft.) (% Diversion)
+Office 24 60 75%
+Retail 30 100 75%
+Mixed-use 26 72 60%
+AIMCo's TCFD REPORT 2019 2
+
+
+Strategy. 
+Current State. 
+SHORT, MEDIUM & LONG-TERM CLIMATE-RELATED RISKS & OPPORTUNITIES. 
+We recognize the business imperative of integrating climate change into our investment strategies and view the physical, regulatory and reputational risks of climate change as material to our clients’ objectives, especially over medium and long-term investment horizons.
+The investor community is still in the early stages of addressing climate change risks and opportunities, given significant data limitations and the forward-looking nature of climate-related risk assessments. We believe that companies exhibiting better disclosure of their climate change mitigation strategies, emissions performance, and related material environmental metrics are likely to demonstrate better risk-adjusted performance over the long run.
+Considering the current climate-related disclosure landscape, we are committed to the following active management strategies in alignment with our commitments as a PRI signatory: 1) To exercise shareholder voice by voting to promote climate-related disclosure 2) To engage with investee companies and promote climate-related disclosure 3) To advocate with policymakers, regulators and stock exchanges to encourage climate-related disclosure guidance 4) To take an active role in collaborative research regarding appropriate management of key elements such as carbon, plastics, methane and water, and promote best practices and benchmark firms’ performance on these metrics over time. 
+IMPACT OF CLIMATE-RELATED RISKS & OPPORTUNITIES ON BUSINESSES, STRATEGY & FINANCIAL PLANNING. 
+Our processes in identifying climate-related risks and opportunities across asset classes continues to evolve. Today, we have well over $2 billion in assets under management in the renewable energy sector alone. AIMCo doubled our renewable energy investments in infrastructure (16.5% vs. 31.3% of the total value of the portfolio) between 2008 and 2018. As of the end of Q1 2019, our Fixed Income Private Placement portfolio included over $395 million in renewables, with 87% of its power & utilities industry exposure in renewable energy. We continue to invest in sustainable real estate and infrastructure assets and in the energy, utilities and transportation sectors during the transition to the low carbon economy.
+The RI team continues to test methodologies for CO2 footprint analysis, as a proxy for climate change risk, while expanding the scope to other asset classes. Our CFO Office conducts internal verification of all climate-related reporting.
+Future Plans. 
+Our TCFD working group will continue to identify assumptions, plausible and relevant scenarios and related trends across portfolios. These efforts will continue to inform AIMCo’s climate-related reporting and any implications for investment strategy.
+3 AIMCo's TCFD REPORT 2019
+
+
+Risk Management. 
+Current State. 
+PROCESS FOR IDENTIFYING AND INTEGRATING CLIMATE-RELATED RISK AND OPPORTUNITIES INTO OVERALL RISK MANAGEMENT PROCESS. 
+For public issuers, we identify firms that do not disclose carbon emissions and proceed to engage with a select group of them to promote climate resilience strategies and related disclosure. We assess public equities external managers regarding whether their active ownership practices encourage climate-related disclosure, as featured in their proxy voting guidelines and engagements with companies.
+For illiquid investments, we factor climate-related risks into our due diligence processes which includes consideration of the asset or fund’s overall climate resiliency and its management of material environmental risks.
+Future Plans. 
+AIMCo has recently implemented FactSet as a new risk platform which integrates ESG, financial and risk data, and has assigned product risk managers for each asset class. RI, in collaboration with the TCFD working group will use the risk platform to inform climate-related risk analysis and to identify plausible approaches to climate change scenario analysis.
+SCENARIO ANALYSIS: PARIS AGREEMENT CAPITAL TRANSITION ASSESSMENT (PACTA)
+Scenario analysis is highly complex, relying on varying inputs for discrete factors such as the probability of natural catastrophic weather events, chronic weather pattern changes, changes in consumer demand, technological advances and regulatory responses, all with varying sensitivities across the portfolio, across geographies and across time.
+We found the 2 Degrees Investing Initiative (2Dii) PACTA tool useful as a starting point. It demonstrates whether a portfolio’s sector allocation and distribution are aligned with a range of global warming scenarios, including a 2-degree warming scenario. However, the PACTA tool's limitations are that it is specific to public equities and focuses only on the most carbon intensive sectors relative to its own proprietary benchmark. Given our highly diversified investment strategy and increasing exposure to renewables beyond public equities, it will be important to focus on total fund positioning rather than on relative fund exposure to carbon-intensive sectors in public equities alone.
+COP 21. 
+AIMCo Public Equities Portfolio Warming Trajectory in Degrees Celsius 6° 2° 4° 0°
+Power Fossil Fuel Automotive. 
+Coal Power Gas Power Renewable Power Nuclear Power Oil Production Gas Production ICE Vehicle Production EV Production >6°C _ >6°C _ >2°C _ >2°C _ 2°C - 4°C 2°C - 4°C 2°C - 4°C 2°C - 4°C
+
+
+Metrics. 
+DESCRIBE THE METRICS USED TO ASSESS CLIMATE-RELATED RISK & OPPORTUNITIES. 
+AIMCo has been monitoring the absolute emissions and emissions intensity of our public equity holdings since 2016. Investors may track GHGs, or attribute CO₂ emissions in several ways: • Proportionate to investor's equity (owned emissions method) • Proportionate to equity and debt (financed emissions method) • The portfolio's relative exposure to carbon intensive industries (weighted average carbon intensity method)
+Despite ongoing data quality issues regarding missing and unverified emissions data, we have tested these methodological approaches and find that each method has validity, with some having more relevance to the asset class in scope. Each method provides a view of emissions-related risk by identifying key drivers and top company contributors to portfolio emissions.
+A key AIMCo objective is ‘Doing Business the Right Way’ – we believe it is important to adopt an accounting of the CO₂e emissions of our portfolios that is relevant, comparable, decision-useful and consistent over time. We continue to internally monitor our CO₂ emissions under each method as appropriate to analyze absolute emissions, emissions intensity and emissions exposure by asset class. For the purposes of this report, we are disclosing the carbon footprint of our public equities portfolio following the GHG protocol recommended method (owned emissions) and the TCFD recommended weighted average carbon intensity method (WACI).
+DISCLOSE THE LEVEL OF GHG EMISSIONS & RELATED RISKS. 
+Method(1) AIMCo Public Equity Portfolio(2) Description Underpinning Principle Carbon Accounting Equation. 
+Carbon Footprint (Owned) 243 tonnes of CO2e /$M invested Tonnes of CO2e/$M invested. 
+GHG emissions proportionate to equity ownership. 
+Recommended by GHG protocol. 
+Share of company’s emissions is a function of equity ownership—larger shareholders can influence firm behaviour. 
+Weighted Average Carbon Intensity (WACI) 194 tonnes of CO2e /$M revenue Tonnes of CO2e/$M revenue. 
+GHG emissions per unit of revenue based on company weight in the portfolio. 
+Recommended by TCFD. 
+Tracks portfolio’s exposure to carbon-intensive companies, based on the current value of the investment relative to total portfolio value. 
+Footnote (1) Measures issuers’ Scope 1 (produced) and Scope 2 (purchased) CO2e emissions for both methods (2) Includes 75% of AIMCo’s public equity holdings as of December 31, 2018. MSCI ESG Manager data covered $29 billion of the $38 billion portfolio. Coverage excluded shorts, exchange traded funds, mutual fund units, options, convertible bonds, rights and warrants and positions in securities for which we have no look-through or where emissions data has not been proxied by MSCI.
+AIMCo’S PUBLIC EQUITIES CARBON FOOTPRINT. 
+Interestingly, under one method, the carbon footprint (owned emissions) method, the AIMCo Public Equities portfolio emissions intensity increased over 2015 levels, while under the other method, weighted average carbon intensity (WACI), it decreased over 2015 levels (see table below). Both are correct; however, this demonstrates that they measure different things.
+Year Carbon Footprint (Absolute) Carbon Footprint (Intensity) Weighted Average Carbon Intensity 2015 4.2 million tonnes of CO2e 179 tonnes of CO2e/$M invested 202 tonnes of CO2e/$M revenue 2016 3.8 million tonnes of CO2e 151 tonnes of CO2e /$M invested 234 tonnes of CO2e/$M revenue 2017 5.6 million tonnes of CO2e 195 tonnes of CO2e /$M invested 203 tonnes of CO2e/$M revenue 2018 6.9 million tonnes of CO2e 243 tonnes of CO2e /$M invested 194 tonnes of CO2e/$M revenue. 
+Under the owned emissions method, an issuer’s Scope 1 & 2 emissions are attributed based on the investor’s ownership or share of the issuer’s total market capitalization. A significant ownership position in a carbon intensive company, even with a smaller market capitalization, would bear greater weight in the owned emissions method, whereas the same holding under the WACI method would look different, as WACI is agnostic to the investor’s ownership share in a company.
+( ( ) (
+Holding MVi Issuer's Emissionsi Issuer's Mkt Cap* i ∑ n (
+(
+Holding MVi Issuer's Emissionsi Issuer's $M Revi Portfolio MV * i ∑ n
+
+
+CARBON FOOTPRINT DRIVERS: TOP EMITTERS. 
+As a result of the carbon footprint exercise, we were able to identify the top emitters in the portfolio. 30% of AIMCo’s public equities portfolio emissions were approximately driven by just 3% of the portfolio’s assets under management. This suggests that portfolio emissions have the potential to be reduced through a strategy of targeted engagement.
+CARBON FOOTPRINT DRIVERS: SECTORS. 
+The bar on the left shows the portfolio composition by sectors, whereas the bar on the right shows the corresponding sector contribution to the weighted average carbon intensity (WACI). The utilities, materials, energy and industrials sectors together represent only 31% of the portfolio’s total market value, yet account for 91% of AIMCo’s public equities emissions.
+Emissions intensive sectors are at risk from a rapidly evolving regulatory landscape, potentially affecting consumer preferences and impacting firms’ profitability. This highlights the opportunity for innovation to facilitate the transition to the low carbon economy.
+Analyzing the sources and drivers of carbon emissions is a useful starting point to identify issuers and sectors that potentially face operational disruptions from climate-related risks such as carbon pricing and other regulatory measures.
+75% 90% 50% 80% 40% 100% 100% 60% 50% 70% 30% 20% 10% 25% 0% 0%
+Sector Exposure. 
+Assets Under Management WACI Driver. 
+Other. 
+Utilities. 
+Utilities. 
+Materials. 
+Materials. 
+Industrials. 
+Energy. 
+Energy. 
+Other. 
+Industrials. 
+WACI Driver. 
+Top 10 Emitters All Other Holdings
+
+
+The large circles represent cooperation initiatives on carbon pricing between subnational jurisdictions. The small circles represent carbon pricing initiatives in cities.
+Source: World Bank, State and Trends of Carbon Pricing, 2019. 
+CARBON PRICING. 
+Governments around the world are adopting policy mechanisms such as carbon pricing and emissions trading systems in an effort to meet their nationally determined contributions (NDCs) to COP 21. AIMCo is a global investor, with issuers representing 62% of our total Public Equities assets under management domiciled in the United States, Canada, China, Japan and the United Kingdom. We will continue to monitor carbon regulations globally to inform our assessment of climate-related transition risks.
+Regional, National and Subnational Emissions Trading System (ETS) and Carbon Tax. 
+ILLIQUID INVESTMENTS. 
+We have conducted a carbon footprint of our domestic real estate assets under the owned emissions approach. As we continue to refine our methodology, we plan to expand our carbon footprint analysis to other asset classes.
+ETS implemented or scheduled for implementation. 
+Carbon tax implemented or scheduled for implementation. 
+ETS or carbon tax under consideration. 
+ETS and carbon tax implemented or scheduled. 
+Carbon tax implemented or scheduled, ETS under consideration. 
+ETS implemented or scheduled, carbon tax under consideration. 
+ETS and carbon tax implemented or scheduled, ETS or carbon tax under consideration. 
+
+Shanghai. 
+Shenzhen. 
+Fujian. 
+Beĳing. 
+Tianjin. 
+Hubei Chongqing. 
+Guangdong. 
+Tokyo Saitama. 
+Taiwan Ukraine. 
+Norway. 
+UK. 
+Portugal. 
+France. 
+Switzerland. 
+Slovenia. 
+Poland. 
+Latvia Estonia. 
+Finland. 
+Sweden. 
+Den mark. 
+Ireland. 
+Liechtenstein Catalonia. 
+Spain. 
+Prince Edward Island. 
+Nova Scotia. 
+Saskatchewan Ontario. 
+Québec. 
+New Brunswick. 
+Alberta. 
+RGGI. 
+Virginia. 
+Newfound land and Labrador. 
+TCI. 
+Massachusetts. 
+Targets. 
+For our Domestic Real Estate portfolio, an internal dashboard tracks environmental efficiency performance, including key metrics such as water efficiency, energy efficiency, and waste diversion per square foot. We have adopted relevant targets for each of the metrics for our Canadian Real Estate portfolio.
+To set realistic, accomplishable and time bound targets related to climate change, we need to ensure that all relevant stakeholders agree with the target and what is required to achieve it. This conversation continues.
+ETS implemented or scheduled for implementation. 
+Carbon tax implemented or scheduled for implementation. 
+ETS or carbon tax under consideration. 
+ETS and carbon tax implemented or scheduled. 
+Carbon tax implemented or scheduled, ETS under consideration. 
+ETS implemented or scheduled, carbon tax under consideration. 
+ETS and carbon tax implemented or scheduled, ETS or carbon tax under consideration. 
+
+Shanghai. 
+Shenzhen. 
+Fujian. 
+Beĳing. 
+Tianjin. 
+Hubei Chongqing. 
+Guangdong. 
+Tokyo Saitama. 
+Taiwan Ukraine. 
+Norway. 
+UK. 
+Portugal. 
+France. 
+Switzerland. 
+Slovenia. 
+Poland. 
+Latvia Estonia. 
+Finland. 
+Sweden. 
+Den mark. 
+Ireland. 
+Liechtenstein Catalonia. 
+Spain. 
+Prince Edward Island. 
+Nova Scotia. 
+Saskatchewan Ontario. 
+Québec. 
+New Brunswick. 
+Alberta. 
+RGGI. 
+Virginia. 
+Newfound land and Labrador. 
+TCI. 
+Massachusetts

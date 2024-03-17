@@ -1,0 +1,39 @@
+AXA Group Carbon Footprint 2015 Disclosure. 
+AXA IS WELL AWARE THAT CLIMATE CHANGE WILL HAVE SIGNIFICANT IMPACTS ON ITS INSURANCE BUSINESS AND MORE LARGELY ON THE RESILIENCE OF SOCIETIES WORLDWIDE. THE GROUP IS ALSO CONVINCED THAT CLIMATE CHANGE AND THE NECESSARY TRANSITION TO A LOW-CARBON ECONOMY REPRESENT NEW CHALLENGES AND OPPORTUNITIES FOR ITS INVESTMENT BUSINESS. HOW DO SUCH RISKS MATERIALIZE IN OUR INVESTMENTS, AND HOW CAN THEY BE MEASURED AND ADDRESSED?
+MEASURING THE CARBON INTENSITY OF 75% OF AXA’S GENERAL ACCOUNT. 
+Increasingly stringent carbon emissions standards and the potential need to reintegrate carbon-related costs, currently treated as a free externality, may place pressure on the profi tability of carbon- intensive industries, as well as spill over into other industries. This is why AXA undertook a “carbon footprinting” analysis of its General Account assets, focused on asset classes where data exist and make sense, namely corporate and sovereign fi xed income and equities. This represents a total of €402bn, ie 75% of the Group’s General Account. This type of analysis will become mandatory in France by 2017, but the Group, having signed the Montréal Carbon Pledge (www.montrealpledge.org) has committed to voluntarily disclose the results of this foot-printing exercise.
+
+
+AXA GROUP FOOTPRINT BY ASSET CLASS. 
+AXA GROUP CARBON INTENSITY 284 T CO2/$M OF REVENUE 55% Utilities 12% Basic materials 11% Industrial 10% Energy 6% Consumer non-cyclical 6% Others. 
+Corporate Bonds & Equities 379 t CO2/$m of revenue 66% Europe 18% Asia 15% North-America 1% Others. 
+Sovereign Debt 216 t CO2/$m of revenue. 
+Beyond sectorial biases, AXA’s geographical footprint also strongly influences its carbon intensity. The diagram below provides some benchmarking information.
+AXA’s global carbon intensity – as measured on 75% of its General Account – is 284 t CO2/$m of revenue, broken down per asset class as follows:
+Sovereign Debt (measured on €199bn) – 216 t CO2/$m AXA’s geographic profi le and asset-liabilities management leads to a developed market bias which induces a low carbon intensity score, both in absolute and relative terms.
+Corporate Bonds and Equities (measured on €203bn) – 379 t CO2/$m (of which Corporate Bonds 387 t CO2/$m and Equities 322 t CO2/$m) In order to optimize their investments, insurance companies tend to overweight more “defensive” and resilient sectors (such as industrials), leading to higher carbon intensity levels.
+0 100 200 300 400 500. 
+Equities. 
+Corporate Bonds. 
+Sovereign Debt. 
+Total. 
+AXA Group 0 100 200 300 400 500 on €402bn o/w €199bn o/w €184bn o/w €19bn t CO2/$m of revenue
+
+
+CARBON FOOTPRINTING: CONCLUSIONS. 
+BEYOND FOOTPRINTING. 
+This footprinting work highlights our portfolio’s largest carbon emitters, which may be an interesting “carbon asset risk” proxy. It is a potentially useful tool to understand high carbon holdings, revealing that while broad asset-class level figures do not provide useful insights, a breakdown into sub-sectors (not disclosed here) shows highly different levels of carbon intensity per industry. This can inform engagement efforts with, for example, the Utilities, Oil & gas and Materials sectors which account for the highest carbon emissions. However, some limitations remain: The benchmarks used for comparison are generally biased toward fossil fuels compared to the “real” economy. Carbon data coverage can be incomplete for certain asset classes, and may not be the right metric for target-setting purposes.
+Carbon data is a snapshot of current emissions, but is not forward-looking. As such, it appears insuffi cient to clearly identify players across industries that are contributing to the low carbon economy. It highlights today’s carbon emitters, but not tomorrow’s low carbon solutions providers. These challenges with carbon footprinting are no reason for inaction. AXA believes that such analyses require further investigation and that currently such metrics are not yet appropriate tools for piloting the transition to a low carbon economy or for reducing “carbon asset risks”. This is why we support initiatives such as the Financial Stability Board (FSB)’s Task Force on Climate-related Financial Disclosures (co-chaired by AXA) and the CDP, pushing for improved carbon disclosures, or collaborative engagement efforts to analyze these limitations and explore more forward-looking and granular options.
+Coal divestment +2°C is considered to be the maximum temperature rise before triggering significant risks to society, which requires severely limiting CO2 emissions, which in turn translates into a need to extract and burn only 1/3 of existing fossil fuel reserves by 2050. Enforcing this carbon constraint would result in a significant loss of value for a number of carbon-intensive assets, which today is called the “stranded assets” hypothesis. Coal being the most carbon-intensive source of energy, coal-related industries may be the fi rst hit if this scenario materializes. For this reason, AXA has divested from coal mining and electric utilities most exposed to coal- related activities in the belief that this €500m effort contributes both to de-risking our investment portfolios and to building better alignment with AXA’s corporate responsibility strategy to build a stronger, safer and more sustainable society.
+Green investments We also commit to tripling our green investments aiming to reach over €3bn by 2020 for our General Accounts, originating coming principally from investments in private equity, renewable energy infrastructures, and green bonds.
+Engagement Shareholder engagement is a key strategy to signal carbon risk-related expectations to companies or industries. AXA will continue to support standalone or collaborative initiatives such as the Carbon Action (Round II 2016), or Aiming for A. We believe our publicly communicated divestment policy strengthens the credibility of our engagement efforts.
+ESG integration The most impactful measure for a company of AXA’s size remains the systematic integration of environmental, social and governance (ESG) criteria in our investment decisions. We have developed internal tools to this effect since 2008 and have gradually improved their sophistication and greatly expanded their reach over time. Therefore we have committed to integrating ESG footprint in all relevant asset classes of AXA’s General Account.
+
+
+THE METHODOLOGY. 
+AXA PARTNERS WITH. 
+CONTACT. 
+The methodology used for this foot-printing exercise is a “Carbon Intensity” approach based on TruCost data (a specialist data vendor), itself dated Dec. 2014. Each company’s (/country) carbon emission is divided by its revenue (/GDP); an average weighted result is then computed taking into account the considered investment universe.
+The scope of this measure includes all Sovereign Debt, Corporate Bonds and Equities managed internally for AXA’s General Account: €402bn out of a total of €545bn (of which €203bn of Corporate Bonds and Equities and €199bn of Sovereign Debt). The coverage achieved thanks to the TruCost database is 84% (69% for Corporate Bonds and Equities and 99% for Sovereign Debt).
+Media Relations: +33.1.40.75.46.74 Hélène Caillet: +33.1.40.75.55.51 Jean-Baptiste Mounier: +33.1.40.75.49.68 x. 
+AXA’s carbon intensity = carbon emissionsi revenuesi exposurei asset class exposure ( ) ( ) ∑ i

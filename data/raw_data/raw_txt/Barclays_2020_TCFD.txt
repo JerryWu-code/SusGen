@@ -1,0 +1,774 @@
+Making a difference. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Barclays is a British universal bank. We support consumers and small businesses through our retail banking services, and larger businesses and institutions through our corporate and investment banking services. In the wake of an extraordinary year, we have refreshed our corporate Purpose and our Values to ensure they are relevant to today’s world.
+Our Purpose. 
+We deploy finance responsibly to support people and businesses, acting with empathy and integrity, championing innovation and sustainability, for the common good and the long term.
+Our Values Respect We harness the power of diversity and inclusion in our business, trust those we work with, and value everyone’s contribution. Integrity We operate with honesty, transparency and fairness in all we do. Service We act with empathy and humility, putting the people and businesses we serve at the centre of what we do. Excellence We champion innovation, and use our energy, expertise and resources to make a positive difference. Stewardship We prize sustainability, and are passionate about leaving things better than we found them.
+You can read more about our new Purpose at home.barclays/purposeandvalues. 
+Our Stakeholders. 
+Having a strong Purpose and Values ensures we are able to deliver for all our stakeholders:
+For our customers and clients We help those who use our products, services and expertise realise their aspirations. 
+For our colleagues We support their health and wellbeing, enable them to build their career, and empower and motivate them to be able to provide excellent service. 
+For society Our success over the long term is tied inextricably to the progress of our communities, and the preservation of our environment. 
+For our investors We continue to build a strong, diversified business that can deliver attractive and sustainable returns. 
+Making a difference
+
+
+Contents Our climate-related financial disclosures form part of the Barclays PLC annual reporting suite.
+Inside this book. 
+Introduction and Executive summary. 
+Governance. 
+Strategy. 
+Risk management. 
+Scenario analysis. 
+Metrics and targets. 
+We understand our stakeholders’ needs for different levels and types of information and have therefore integrated extracts of our climate-related financial disclosures in the Strategic Report and Annual Report.
+Additional reports. 
+Barclays PLC Annual Report 2020. 
+A detailed review of Barclays’ 2020 performance with disclosures that provide useful insight and go beyond reporting requirements.
+Barclays PLC Environmental Social Governance Report 2020. 
+An overview of our ESG strategic priorities and performance, reported against a range of quantitative and qualitative indicators.
+Barclays PLC Fair Pay Report 2020. 
+An overview of our approach to pay-fairness and how we implement this in our principles and policies through the themes of our Fair Pay agenda.
+Barclays PLC Diversity and Inclusion Report 2020. 
+An overview of the Group’s approach to building a more inclusive company, including a progress report on each of our five pillars of diversity and inclusion.
+Barclays PLC Country Snapshot 2020. 
+An overview of our global tax contribution as well as our approach to tax, including our UK tax strategy, together with our country-by-country data.
+Barclays PLC Pillar 3 Report 2020. 
+A summary of our risk profile, its interaction with the Group’s risk appetite, and risk management.
+These can be found at: home.barclays/annualreport. 
+ESG reporting hub. 
+Non-financial reporting index. 
+This includes additional information relevant to ESG investors, suppliers, clients and rating agencies prepared in accordance with the Global Reporting Initiative (GRI) Standards (core option) and with reference to the Sustainability Accounting Standards Board’s (SASB) reporting framework.
+Further online resources include ■ ■ Barclays’ ESG Reporting Framework and Impact Eligibility Framework used for social and environmental financing ■ ■ Barclays’ policy statements ■ ■ Barclays’ investor ESG presentations ■ ■ Other ESG-relevant content including details of Barclays’ green product suite. 
+This can be accessed at: home.barclays/esg. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 01. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Barclays was a founding member of the Financial Stability Board’s Task Force on Climate-related Financial Disclosures (TCFD) and this is our fourth year of disclosure aligning to the TCFD recommendations.
+We continue to believe that comprehensive, robust and comparable disclosures are essential to enabling stakeholders to understand our activity and progress in managing our climate-related opportunities and risks.
+In our report this year, we are pleased to have been able to enhance our level of disclosure – further meeting the recommendations and demonstrating an evolution in our response to climate change, from the point of view of our governance, our strategic approach, the capturing of the opportunities and an increasingly sophisticated approach to our management of climate risk.
+We have run a climate internal stress test this year, which has been an evolution from our first climate stress test in 2019 which we disclosed details of in last year’s report. This year’s exercise has helped us to further understand climate risks and prepare for the Bank of England’s 2021 biennial exploratory scenario on the financial risks from climate change. We share details on our approach with our climate internal stress test in the Scenario analysis section.
+Note a Net zero is defined on page 39 of the Barclays PLC 2020 Annual Report.
+In last year’s ESG report, we announced our ambition to be a net zeroa bank by 2050 across all of our direct and indirect emissions, and a commitment to align all our financing activities to the goals of the Paris Agreement.
+During 2020, we launched BlueTrack™ – our methodology to help us embed climate impact into our financing decisions, so that we can make active choices to re-shape our portfolio. In November 2020 we announced the targets that would guide us on this journey. This is the first time that we are reporting our performance against those targets and details can be found in the Metrics and targets section.
+.
+Introduction. 
+International Climate Reporting Awards. 
+Barclays was recognised at the 2020 Awards in the Banks category for our 2019 ESG Report (Climate Disclosure).
+Building on leading global standards, including the TCFD, the Awards aim to recognise financial institutions that integrate climate-related considerations into their reporting and business practices.
+Core elements of recommended climate-related financial disclosures. 
+Governance. 
+Strategy. 
+Risk management. 
+Metrics and targets. 
+Governance The organisation’s governance around climate-related risks and opportunities.
+Strategy The actual and potential impacts of climate-related risks and opportunities on the organisation’s businesses, strategy and financial planning.
+Risk management The processes used by the organisation to identify, assess and manage climate-related risks.
+Metrics and targets The metrics and targets used to assess and manage relevant climate-related risks and opportunities.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 02 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+TCFD theme Progress and enhancements in 2020. 
+Governance 1) Further information on the Board’s approach to overseeing social and environmental matters, including our approach to climate change.
+2) A new role of Group Head of Public Policy and Corporate Responsibility, who is also a Group Executive Committee (Group ExCo) member, was created. The role is responsible for leading Barclays’ efforts in tackling climate change.
+3) The Chief Risk Officer maintained responsibility for climate-related financial risk under the Senior Managers Regime.
+Strategy 1) Barclays announced an ambition to be a net zero bank by 2050, across all our direct and indirect emissions and across all sectors, and we committed to aligning our financing activities to the goals of the Paris Agreement.
+2) Undertook climate internal stress test in preparation of Bank of England’s climate biennial exploratory scenario (Climate BES) in 2021. Disclosure of scenario, models, results and management actions.
+Risk management 1) Each Principal Risk has continued to evolve its approach through implementation of the Climate Change Financial and Operational Risk Policy and ongoing requirement to meet the PRA Supervisory Statement on financial risks of climate change.
+2) A new role of Head of Climate Risk was created with responsibility for developing our climate risk methodologies and managing climate risk in our portfolio.
+3) Integrated our enhanced due diligence approach to include clients in the additional energy sub-sectors that became in scope of our Climate Change Statement.
+Metrics and targets 1) Progress against Paris Agreement targets set across our Energy and Power portfolios.
+2) Disclosure of 2020 and 2019 figures for key metrics to provide year on year comparison – elevated risk sectors, carbon-related assets and capital markets financing.
+Executive summary We have further developed our strategic response to climate-related issues in 2020 and will continue to evolve our approach over the coming years. These advancements are reflected in our TCFD disclosure this year.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 03. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Barclays’ governance around climate-related risks and opportunities. 
+Governance. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 04 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Barclays PLC Board The Barclays PLC Board sets the strategic direction and risk appetite of the Group and is the ultimate decisionmaking body for matters of Group-wide strategic, financial, regulatory or reputational significance.
+Oversight of social and environmental matters, including climate change, was reallocated to the Board in 2019.
+The Board recognised that Barclays can, and should, make a real contribution to tackling climate change, and help to accelerate the transition to a low-carbon economy. The Board also recognised, however, that we were behind where we needed to be, and approached the challenge to help accelerate the transition in a positive, thoughtful, authentic and open way. Having begun in the autumn of 2019 to review our environmental policies with a view to making the step-change required, in the first quarter of 2020 the Board established a Board Climate Committee, to oversee our activities in this critically important area.
+The Board Climate Committee met four times throughout the year and played a key role in setting our ambition on climate change, advising the Board on formalising the commitment at the AGM in May 2020 and reporting on progress in November 2020.
+In addition to advice and support from the Board Climate Committee, the Board also received updates on environmental matters and climate-related issues from management at each scheduled Board meeting.
+Board Risk Committee (BRC) The Barclays PLC Board Risk Committee monitors and recommends the Group’s financial, operational and legal risk appetite. It considers reports on key financial and legal risk issues and oversees conduct and compliance. It also monitors the Group’s financial, operational and legal risk profile.
+In 2020 a climate dashboard was introduced and this is reviewed by the BRC on a quarterly basis. It provides updates to the Committee on evolving climate risk governance and our exposure to elevated risk sectors and countries across financial and operational risks. In late 2020 the Committee made a decision that Climate risk would become one of the Principal Risks within the Enterprise Risk Management Framework (ERMF) from 2022.
+Governance. 
+How climate is embedded in our governance structure. 
+Climate change at the 2020 AGM. 
+Resolution 29 at the Company’s 2020 Annual General Meeting (AGM) set the ambition for Barclays to be a net zero bank by 2050 and committed the Group to a strategy, with targets, for alignment of its entire financing portfolio with the goals and timelines of the Paris Agreement. The Board had extensive discussions with stakeholders in advance of proposing Resolution 29 and unanimously recommended its adoption by shareholders.
+Further details can be found in our Section 172(1) statement on pages 18 to 21 of the Barclays PLC Annual Report 2020; and further details can also be found in our 2020 Notice of AGM which is available at home.barclays/AGM. 
+Governance structure. 
+Barclays PLC Board. 
+The Board oversees social and environmental matters, including our approach to climate change. 
+Barclays UK Barclays International Barclays Execution Services Limited. 
+Global Head of Sustainability and ESG Head of Climate Risk. 
+Group Executive Committee (Group ExCo)
+Responsible for leading Barclays’ efforts in tackling climate change Responsible for climate-related financial risk under the Senior Managers Regime. 
+Group Head of Public Policy and Corporate Responsibility Group Chief Risk Officer. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 05. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Board Audit Committee (BAC) The Barclays PLC Board Audit Committee monitors and reviews the integrity of the Group’s financial statements and related announcements. It also monitors the effectiveness of the Group’s internal controls which includes restrictions on sensitive sectors, such as our position on climate change.
+Management responsibility for climate strategy and managing climate-related risk Group Head of Public Policy and Corporate Responsibility During 2020 the role of Group Head of Public Policy and Corporate Responsibility was created with accountability for the bank’s sustainability and citizenship agendas, and has overall responsibility for Corporate Relations and Regulatory Relations. Specifically, the role is responsible for leading Barclays’ efforts in tackling climate change, and for integrating our ambition and commitments to help accelerate the transition to a low-carbon economy into the business.
+Barclays’ role in, and engagement with, society is critically important to the success and sustainability of the Group, and Barclays believes that the accountability for that agenda should be explicitly represented at the Executive Management level of the bank, and so the incumbent of this role has been appointed to the Group ExCo. With the creation of this role, our Environment and Social Impact (ESI) Committee has been disbanded. The purpose of ESI was to provide senior management with oversight of sustainability issues, which is now provided by this role.
+Global Head of Sustainability and ESG The Global Head of Sustainability and ESG leads the strategic direction and execution of Barclays’ policies and practices across a broad range of sustainability and ESG matters, including climate change. The role also oversees the development of standards and metrics to advance green and sustainable finance and to steward early innovation in sustainable product and service development.
+This role is responsible for reputation risk issues arising from climate change, although the Board has overall responsibility for reputation matters generally.
+These issues are raised through the reporting line to the Group Head of Public Policy and Corporate Responsibility, ultimately up to the Group ExCo or via Barclays’ established governance processes which include escalation to the Group Controls Committee or Group Risk Committee as appropriate.
+Chief Risk Officer The Group Chief Risk Officer remains the Senior Manager responsible for climate-related financial risk under the Senior Managers Regime.
+Head of Climate Risk The Head of Climate Risk was appointed in July 2020 to develop Barclays’ climate risk methodologies and manage climate risk in the portfolio. The role includes development of climate risk governance, stress testing methodologies and our approach to carbon modelling, including the BlueTrack™ model.
+This role is responsible for the financial and operational risks arising from climate change. These issues are raised through the reporting line to the Chief Risk Officer, ultimately up to the Group ExCo or via the bank’s established governance processes which include escalation to the Group Controls Committee or Group Risk Committee as appropriate.
+Management/Business-level committees The Group Controls Committee and the Group Risk Committee both have distinct roles in governing the issue of climate change. These committees are mandated and form part of Barclays’ formal governance architecture. They are convened to oversee a specific attribute of the Barclays control framework. Each committee is itself governed by terms of reference that lay out the duties, decision-making authority and escalation route of any material issues.
+Group Controls Committee (GCC)
+The GCC oversees the effectiveness of Barclays’ control environment in managing reputation risk. In instances where the reputation risk arises from a breach of sensitive sector restrictions, such as our position on climate change, this is reported into the GCC and any material breaches are ultimately reported up to the Group Executive Committee and the Board.
+Group Risk Committee (GRC) The GRC is the most senior risk executive body and it monitors Principal Risks and key topics of a material nature to Barclays, such as climate change. Items that have been raised at GRC include the methodologies and results of the climate internal stress test, including impacts on retail and wholesale credit portfolios.
+Management/Business-level forums Forums or standalone governance bodies are not part of the mandated Committee structure but are set up from time to time to oversee a specific task or issue. These climate-related management forums support the Global Head of Sustainability and ESG and the Head of Climate Risk in overseeing climate-related issues within their remit and escalating material issues as required.
+TCFD Forum This senior forum, chaired by the Global Head of Sustainability and ESG, with representation from business lines and function teams including Strategy, Risk, Finance, Treasury and Compliance, was set up in 2017 to provide oversight and drive implementation of the TCFD recommendations and the Group’s wider climate change strategy. The forum reports where appropriate to senior management on Barclays’ response to the issue of climate change, including the approach to climate-related opportunities and risks within the Bank; and ensuring public commitments on the TCFD recommendations are upheld.
+Financial and Operational Risks of Climate Change (FORCC) Forum To oversee the implementation of climate change risk management, a Monthly Execution Meeting was established in 2019, bringing together senior colleagues within Risk, Treasury, Finance and Sustainability. Chaired by the Head of Climate Risk, the purpose of this meeting is to drive execution of the FORCC PRA plan, by monitoring and reporting progress made by each risk type and disclosure, on a monthly basis.
+Governance continued. 
+Committees and forums that underpin our governance. 
+Board Committees Board Risk Committee Board Audit Committee. 
+Management/ Business Committees. 
+Group Risk Committee. 
+Group Controls Committee. 
+Management/ Business-level Forums FORCC TCFD Forum. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 06 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+The actual and potential impacts of climate-related risks and opportunities on Barclays’ businesses, strategy and financial planning. 
+Strategy. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 07. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+We agree with the TCFD that while changes associated with the transition to a lower-carbon economy present risks, they also create significant opportunities for organisations focused on climate change mitigation and adaptation solutions.
+Alongside our detailed assessment and structured management of climate-related risks, we believe that Barclays can make a real contribution to tackling climate change and help accelerate the transition to a low-carbon economy. It’s our ambition to be a net zero bank by 2050. We’re already net zero emissions from our own operations, and our focus now is on reducing the client emissions that we finance.
+We have committed to aligning all of our financing with the goals of the Paris Agreement, on the way to achieving our net zero ambition. It’s a commitment that covers capital markets activity as well as lending, better reflecting the breadth of our support for clients through our Investment Bank. And it will ultimately cover all sectors, starting with Energy and Power.
+We have made our net zero ambition a key responsibility of a new role on Barclays’ Executive Committee, and appointed a Group Head of Climate Risk specifically to lead our work in this area.
+Climate-related considerations and how they are significant to the bank Risks associated with climate change Risk is, and has always been, fundamental to the business of banking; it is integral to the way we make decisions, and it defines our contribution to a safe and sound financial system. The ability to identify, understand and manage risk is not just how banks contribute to economic growth, it is critical to their long-term strength and stability.
+Climate risk is no different in this regard, although it requires banks to address risks that may be present over a much longer period of time than that covered by more traditional approaches to risk management.
+We broadly categorise climate risks into three types: transition risk, physical risk and connected risk. Within these broad categories we identify a number of factors arising from climate change which we monitor over the short, medium and long term.
+Transition risk ■ ■ Policy, regulatory and legal changes ■ ■ Technology shifts ■ ■ Changing market demand. 
+Physical risk ■ ■ Acute – event-driven e.g. extreme weather events ■ ■ Chronic – longer-term shifts in climate patterns e.g. sustained higher temperatures. 
+Connected risk ■ ■ Second order risk arising from transition or physical risk impacts e.g. recessionary pressures. 
+When considering climate-related risks, Barclays has categorised short, medium and long term to mean the following timescales: Short term 0-1 year. 
+Medium term 1-5 years. 
+Long term 5-30 years. 
+Risks and opportunities for Barclays Banking is a long-term business; our client relationships span decades, and sometimes centuries. As a significant institution in the global financial system, we recognise the importance of our contribution to achieving stability in the global economy, and in helping to provide the trillions of pounds of financing required for the world to make the transition to net zero – not just today, but in the decades to come.
+The timescales over which we think about our business vary. From near real-time decisions in support of delivering products and services to our customers and clients today, through in-year and multi-year risk assessment, financial planning and target setting, to longer-term thinking about the risk profile of our business and the role we can play in accelerating the transition to a low-carbon economy.
+Strategy. 
+Supporting the transition to a net zero carbon economy. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 08 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+We manage these risks through our Enterprise Risk Management Framework (ERMF). The ERMF sets our strategic approach for risk management by defining standards, objectives and responsibilities for all areas of Barclays. It is complemented by frameworks, policies and standards, aligned to individual Principal Risks.
+Enterprise Risk Management Framework (ERMF)
+Climate Change Standard Climate Change Financial Risk and Operational Risk Policy. 
+Reputation risk Credit risk Market risk Treasury and capital risk Operational risk. 
+More information about the specific climate-related risks faced by Barclays, their materiality, and the processes through which they are identified, assessed and managed, is available in the Risk management section of this report.
+Specific information about our exposure to carbonrelated assets, including a breakdown of financing by sector, is available in the Metrics and targets section of this report.
+Opportunities created by the low-carbon transition Banks, and especially those with a large capital markets business, are in a unique position within society to help accelerate the transition to a low-carbon economy. The world will require trillions of pounds of investment to enable it to become low-carbon, and the primary source of that investment will be financing arranged by banks like us, either through loans or from the capital markets.
+Certain sectors of the economy are more embedded in the high-carbon economy through long-standing technologies or supply chains they have relied on. These sectors in the coming years will need both substantial capital and investment but also innovative technological and financing solutions and products to help them on the complex journey to adapt to a low-carbon economy and eventually to net zero emissions.
+As one of the world’s largest banks, with a significant capital markets franchise and also expertise across a breadth of sectors, markets and products, Barclays can make a real difference and contribution in helping to accelerate the transition that will require all actors in the economy and across the world to make their respective contributions. There are many ways in which we can support our clients on this journey, and in so doing also capture the associated commercial opportunities in the process.
+There is broad support for banks to take on this role. 75 of the world’s central banks and financial regulators have joined together to form the Network for Greening the Financial System, which seeks to mobilise mainstream finance to support the transition towards a sustainable economy. And Barclays is among the 197 banks to have signed the UNEP Finance Initiative’s Principles for Responsible Banking, which calls for banks to align their business activities to the Paris Agreement.
+Public interest in, and understanding of, climate-related issues is increasing quickly. As retail customers become more influenced by green issues, we expect there to be opportunities to build on and extend our existing green retail propositions.
+This increasing public focus on climate-related issues may create reputational risks as Barclays balances the speed of transition to a low-carbon economy against the very real social and economic costs of a disorderly transition for families and businesses around the world. However, it also creates opportunities to enhance our reputation by demonstrating that we understand both the importance and urgency of climate change, and have a clear sense of our role in accelerating the transition to a low-carbon economy.
+In the longer term, we will continue to work closely with our clients to help them understand what the transition means for them. There may be companies or particular activities which cannot adjust to transition over time, and in such cases we believe that they will find it increasingly difficult to access the capital markets for financing, not only through Barclays. We expect any reduction in revenue earned from financing fossil fuel extraction or combustion to be outweighed by the opportunity of financing the transition of the installed asset base to new or emerging technologies, including renewable energy, at-scale hydrogen production, electric vehicles, and carbon capture and storage.
+To support environmental entrepreneurs to turn their green ideas into reality, our Sustainable Impact Capital Initiative will invest £175m over the next five years in the equity of innovative and environmentally focused private companies. We expect this to include the acceleration of innovative carbon-efficient technologies and supply chains, and supporting the development of viable markets for carbon capture and sequestration.
+Strategy continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 09. 
+Barclays PLC Climate-related Financial Disclosures 2020
+
+
+We will continue to enhance and extend our support for clients as the world makes the transition to a greener future, recognising that the transition to a zero-carbon economy creates commercial opportunities right across our business.
+We will continue to engage with our peers, through established and emerging industry groups, to evolve our own approach and work towards standardisation across the industry. In setting out our own net zero ambition, and transparently disclosing the methodology and targets through which we are aligning our financing portfolio to the goals of the Paris Agreement, we are one of the first major capital markets banks to demonstrate tangible action on climate change. We will continue to evolve and adapt our approach as part of the international financial services community, and engage constructively with all of our stakeholders.
+Impact of climate-related risks and opportunities on our business and strategy Our strategy for managing climate-related risks and opportunities touches on many different areas of our business. We have integrated the management of climate-related risks into our traditional and existing approach to risk management – this is detailed in the Risk management section of this report.
+BlueTrack™ is helping us to embed climate impact in our financing decisions, so that we can make active choices to re-shape our portfolio within our ‘carbon limit’ for each sector. Full details of our methodology, targets, and climate dashboard are available online at home.barclays/netzero. We believe that transparency and collaboration are key to achieving a common approach across the industry.
+Our dashboard also shows the fuel mix of our portfolios, not just the overall ‘carbon limit’; this reflects our focus on transition, and shows specifically how we are accelerating the shift from higher-emissions to lower-emissions activity.
+We have derived Paris-aligned benchmarks for both the Energy and Power sectors using the International Energy Agency’s Sustainable Development Scenario (SDS), as set out in the 2019 World Energy Outlook. The scenario is developed by a reputable external provider, and is aligned with the Paris Agreement goals. Also, in contrast to some other scenarios, it offers a sufficiently high-resolution dataset to meet our needs. The absolute emissions benchmark for our Energy portfolio is taken from the SDS’s OECD fossil fuel production forecasts, which we believe most accurately reflect the geographic range of our client. 
+As a strategic response to the issue of climate change, in March 2020 Barclays set an ambition to be a net zero bank by 2050, beginning with the commitment and the work that has started to align all of our financing with the goals of the Paris Agreement. We describe this further on, but for more technical detail, please go to home.barclays/society/our-position-on-climate-change/
+The business and product teams, and initiatives that are already established to address the needs of clients in transition, have been added to and augmented during 2020 and these are described further below, including product solutions that we are delivering to our clients.
+Aligning our financing with the Paris Agreement To deliver on our commitment to align all of our financing with the goals of the Paris Agreement, including our capital markets activity, it was necessary to create a methodology that builds on and extends existing industry approaches – we call this methodology BlueTrack™. Our work sits alongside engagement with leading industry and academic groups on common approaches to tackling the climate challenge, including the Paris Agreement Capital Transition Assessment (PACTA) and the Partnership for Carbon Accounting Financials (PCAF).
+base. For our Power portfolio, we believe the SDS electricity production pathway for the OECD is the most appropriate benchmark. The intensity of the SDS pathway is derived by dividing electricity total emissions by electricity production.
+It is difficult to compare approaches and targets used across the industry, given the lack of standardisation. We believe that our targets are stretching but achievable, and reflect not only the current size and composition of our Energy and Power portfolios, but also progress already made in their decarbonisation.
+Evolving our products and services We are re-focusing and re-shaping our Banking business to strengthen our support for clients in helping them understand what the transition means for them, and helping deliver the financing needed to achieve it. We are also working across our corporate and retail businesses to extend and develop our green proposition.
+Energy Banking Team To help our clients accelerate the transition to a low-carbon economy, we have created a new, multi-disciplinary Energy Banking team. We’re working with our clients to help them understand what the transition means for them, and then helping deliver the financing needed to achieve it.
+The team brings together our existing Power and Utilities, Natural Resources, and Sustainable and Impact Banking groups; this integrated approach will enable our support for clients to better reflect the inter-related changes currently underway across the energy industry, and extends our long-standing leadership in the sector to capture the commercial opportunities of transition.
+Green and Sustainable Capital Markets The team is focused on underwriting Green and Sustainability Bond issuance across sectors and geographies for corporate, financial institution and sovereign clients. Established in 2019, the team has continued to execute a range of landmark green, social and sustainability bonds.
+Strategy continued. 
+BlueTrackTM model structure 1 2 3 4 Output. 
+Quantify client emissions. 
+Link emissions to financing. 
+Aggregate to a portfolio -level metric. 
+Portfolio alignment measurement Activity. 
+Construct Paris-aligned portfolio benchmarks. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 10 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Strategy continued. 
+Sustainable and Impact Banking SIB integrates with existing Investment Banking sector coverage teams and includes a specific focus on businesses addressing climate change across four key verticals: alternative energy technologies, circular economy, food and agriculture, and water.
+Corporate Bank Sustainable Product Group We have continued to build our product range for Corporate Banking clients, including green loans, green trade loans, green innovation loans, green asset finance and project finance capabilities to support clients that may not be able to access the capital markets. The Sustainable Product Group was created in 2020 to focus on the development and execution for green and sustainable banking products and solutions and enhance collaboration with other teams in the Corporate and Investment Bank and wider Barclays Group.
+Financing, products and services In the near term, our £100bn target for green financing is already helping to accelerate the transition to a low-carbon economy. By the end of 2019 we had already facilitated over £15bn of green financing, and our green financing in 2020 was nearly £18bn.
+Barclays was the first mainstream UK bank to launch a ‘green mortgage’ in 2018, and we’re continuing to expand our proposition. Our small business customers can already take advantage of a green loan, to help fund green energy and sustainable projects. We’re also actively engaging with our retail customers to understand what they want from green products, and how we can help them make their banking greener.
+Our Sustainable Impact Capital Initiative will invest £175m of equity capital in sustainability-focused start-ups, helping to accelerate our clients’ transition to a net zero future. We hope these investments will advance innovative carbonefficient technologies and supply-chains, and help to develop viable markets for carbon capture and sequestration. Through the initiative, we aim to fill growth-stage funding gaps and help accelerate and scale catalytic and strategic environment over the coming five to 10 years, and multi-dimensional analysis of where companies sit on the spectrum of ESG performance and whether markets are incorporating ESG attributes in security pricing.
+The team is also developing evidence-based empirical analysis of the market relationships between ESG ratings of issuers and the performance and valuation of their debt and equity securities.
+solutions to environmental challenges. As of the end of 2020, we have invested £24m and are actively working on more.
+As organisations and investors seek to understand the climate challenge and how they should respond, our Research teams are providing the expertise and insights to help navigate the green transition.
+Topics covered by the team include identifying global thematic trends that could shape the business. 
+Financial planning In 2020 we launched a strategic climate programme, which mobilised key functions and business areas to deliver on our climate ambition. The strategic climate programme manages the revenue opportunities and risks of climate change – aligning our portfolio with the Paris Agreement, growing green finance and managing exposures to sensitive sectors. The programme has been integrated into our financial planning process.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 11 Barclays PLC Climate-related Financial Disclosures 2020. 
+Growth stage companies Mid-size corporates Large corporates and governments. 
+Consumer. 
+Sustainable Product Group. 
+Corporate Bank focus on renewables, green products and sustainability-linked loans. 
+Sustainable and Impact Banking Group. 
+Strategic advisory, capital raises for growth companies and collaboration across the firm to support ESG integration for corporate and investor clients. 
+Green and Sustainable Capital Markets. 
+Origination, structuring and execution of Green, Social and Sustainability Debt products for our global clients including governments, public sector, corporates and financial institutions. 
+Sustainable Impact Capital Initiative £175m principal equity investments. 
+Company size. 
+Financing requirements. 
+Supporting clients across the spectrum. 
+Green Home Mortgages. 
+Mortgage offering lower interest rates for new build properties meeting minimum energy efficiency requirements. 
+Sustainable Investing solutions Dedicated sustainable products, such as Sustainable Discretionary Strategies and Barclays MultiImpact Growth Fund
+
+
+Strategy continued. 
+Alongside financial planning, we considered climate risk in our Strategic Risk Assessment, which assesses forward-looking risk over the five-year business planning horizon cycle. Our risk appetite defines the level of risk we are prepared to accept and it is a central consideration in business planning, setting of strategy, new product approvals and business change initiatives.
+Working with our suppliers Since 2016, we have been working with the Carbon Disclosure Project to calculate supply chain emissions from our top 125 suppliers.
+Our Supplier Code of Conduct has a specific focus on environmental management requirements, which includes establishing operational practices that minimise impact on the environment, and deploying measures to prevent and reduce environmental harm.
+Through the Code of Conduct, we also expect suppliers to track performance and report environmental improvements, as well as setting environmental targets and commitments.
+We ask suppliers to align to our strategic goals and set emissions reduction targets that are long term, embrace the science-based target methodology and support the transition to a low-carbon economy.
+Delivering a greener pension for Barclays’ employees Our 210,000-member UK Retirement Fund (UKRF) was the first UK bank pension fund to sign up to the Principles for Responsible Investment (PRI) in 2015, and has PRI assessment scores of ‘A’ on Strategy and ‘A+’ on Manager Selection. It’s also a Tier 1 signatory to the UK Stewardship Code.
+Climate change is the subject of specific risk management and measurement as part of the fund’s responsible investment approach. In 2020, the fund signed up to the Institutional Investors Group on Climate Change (IIGCC). In Q4 2020 the UKRF completed the integration of ESG factors across its Diversified Multi-Asset Growth Fund (Growth Fund). At £1.3bn in assets under management, the Growth Fund is the main building block within the default option of the UKRF Defined Contribution (DC) scheme.
+Managing our direct environmental impact We have already made significant progress in managing the environmental impact of our own operations and have already achieved net zero across our own operations – using high-quality carbon credits to offset our residual emissions.
+We achieved a 71% reduction in carbon emissions against a 2018 baseline, through the purchase of renewable energy contracts across our operations in the UK and continental Europe. We are procuring 74% of our operational electricity needs from renewable energy and are on track to hit our interim RE100 target of 90% by 2021.
+As part of our annual capital planning process, we set aside budget for energy efficiency projects and replacement of end-of-life building plant to newer modern equipment. This is helping to improve our building resiliency and energy consumption across our property portfolio. The review of projects that support energy efficiency is critical in our capital planning process.
+Evolving our approach We are continually evolving our approach to climaterelated issues, to ensure that our strategy is robust and resilient in an ever-changing environment.
+Our risk management processes continue to identify new and emerging risks, and these are included as they arise within our risk management framework.
+Particularly in relation to the alignment of our financing with the Paris Agreement, we will continue to engage with our peers, through established and emerging industry groups, to evolve our own approach and work towards standardisation across the industry.
+BlueTrack™ will ultimately extend to cover our entire financing portfolio, and we expect to include additional Industrial and Manufacturing or Transport sub-sectors over the coming years. The methodology will be updated over time to track newer benchmark scenarios as they are developed. As company disclosures continue to improve, not least as a result of the TCFD guidelines, we are hopeful that this data will become sufficiently robust to play a much greater role in the calculation of BlueTrack™ metrics.
+We believe that Barclays is well placed to manage the risks associated with the transition to a lower-carbon economy, and to take advantage of the significant opportunities it creates. We are actively monitoring developments in the scientific understanding of climate change, including the availability of new climate scenarios, to help us adapt our response.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 12 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+The processes used by Barclays to identify, assess and manage climate-related risks. 
+Risk management. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 13 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Enterprise Risk Management Framework. 
+The ERMF sets the strategic approach for risk management across the firm by defining standards, objectives and responsibilities for all areas of the Group. The ERMF is complemented by frameworks, policies and standards which are mainly aligned to individual Principal Risks. Within the ERMF, the Group has a Climate Change Standard that corresponds to our latest Climate Change Statement to manage reputation risk, including our exposure to sensitive energy sub-sectors. For Credit, Market, Treasury and capital and Operational risk, the Group published a ‘Climate Change Financial Risk and Operational Risk Policy’ in 2019.
+Risks arising from climate change materialise through various channels: 1) through the financial services and support we provide to customers who may themselves be exposed to the risks of climate change; 2) the operation of our own infrastructure, business and premises which may be exposed to both transition and physical risk; and 3) through a deteriorated perception of Barclays if we do not adequately support a transition away from high-carbon activities and consequent loss of our social licence to operate.
+Governance Enterprise Risk Management Framework (ERMF)
+Climate Change Standard Climate Change Financial Risk and Operational Risk Policy. 
+Reputation risk Credit risk Market risk Treasury and capital risk Operational risk. 
+Responsibilities ■ ■ Outline minimum requirements and controls for Reputation risk management relating to client relationships or transactions.
+■ ■ Outline the expected business behaviours in relation to these issues.
+■ ■ Outline the approach to enhanced due diligence.
+■ ■ Review individual obligors’ exposure using Climate Change Lens.
+■ ■ Consider climate change risk appetite in relevant countries and portfolios.
+■ ■ Include in ICAAP.
+■ ■ Oversight by Retail and Wholesale Risk Management Committees, and Board Risk Committee.
+■ ■ Assess and identify all risk factors affecting climate change risk.
+■ ■ Apply stress scenarios, assess stress losses and set risk limits.
+■ ■ Include in ICAAP.
+■ ■ Oversight by Market Risk Committee and Board Risk Committee.
+■ ■ Identify exposure to climate change risks.
+■ ■ Consider key indicators and limits to support risk management.
+■ ■ Include in ICAAP and ILAAP.
+■ ■ Oversight by Treasury and Capital Risk Committee and Board Risk Committee.
+■ ■ Integrate climate change across different risk categories e.g. Resilience and Premises.
+■ ■ Include climate change within risk assessment processes including Strategic Risk Assessment.
+Ownership. 
+Global Head of Sustainability and ESG. 
+Prinicipal Risk Delegate Prinicipal Risk Delegate Prinicipal Risk Delegate Prinicipal Risk Delegate. 
+Risk management. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 14 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Risk management continued. 
+Climate-related risks. 
+We broadly categorise climate risks into one of the following – transition risk, physical risk and connected risk. Within these broad categories we identify a number of factors arising from climate change which we monitor over the short, medium and long term.
+Transition risk Transition to a lower-carbon economy will involve significant rapid policy, regulatory and legal changes, as evolving technology and markets adapt to a changing climate and associated impacts.
+Changing public sentiment may lead to scrutiny of the business activity, leading to reputational damage.
+Over time, campaign and other groups may decide to take legal action against entities perceived to be contributing to climate change.
+Physical risk Physical risks resulting from a changing climate can be event-driven (acute risks), including increased severity of extreme weather events such as cyclones, hurricanes and flood.
+Longer-term shifts in climate patterns (chronic risks) arise from sustained higher temperatures that may cause rises in sea levels, rising mean temperatures and more severe weather events.
+Potential impacts on GDP, unemployment, food prices, inflation, insurance costs, asset prices and profitability of sectors. Physical damage could result in higher costs and impair asset values.
+Connected risk Connected risk is the second-order risks arising from physical or transition risk impacts. Connected risk is diverse, impacting consumer and wholesale portfolios.
+These could be household affordability or recessionary pressures from the rise in credit defaults and sector profitability arising from transition and physical risk.
+When considering climate-related risks, Barclays has categorised short, medium and long term to mean the following timescales: Short term (S) 0-1 year. 
+Medium term (M) 1-5 years. 
+Long term (L) 5-30 years. 
+Examples of climate transition risks. 
+Regulatory risk S, M, L ■ ■ Rapid policy or regulatory changes (e.g. carbon taxes, tightening of energy efficiency standards) could lead to increased credit risk of clients and counterparties.
+■ ■ In certain jurisdictions, legislators and policymakers are increasingly focused on building a regulatory framework for the management of the financial risks arising from climate change. These include, among other things, regulations and/or policies on climate risk management, climate stress testing, taxonomy and disclosure. Compliance with these requirements may increase the operational risk burden on firms with cross-border businesses, where there is a material divergence in climate regulations and policies in the different jurisdictions in which impacted firms operate.
+Technology risk S, M, L ■ ■ New evolving and disruptive technologies could lead to substantial and rapid changes in costs of production and operation, competitiveness, supply and demand in certain sectors – which could impact on credit risk of clients and counterparties.
+■ ■ The risk of this occurring exists now and in the future.
+Legal risk S, M, L ■ ■ Clients could face potential litigation as a result of the environmental impact of their business activities or their approach to addressing climate change, which could lead to credit risk for the bank where we have exposure to them.
+■ ■ There is some evidence that this is an emerging risk which could continue into the future.
+Examples of climate physical risks. 
+Acute physical risk (event-driven) S, M, L ■ ■ These will impact on credit and market risk associated with counterparties and clients.
+■ ■ Barclays’ own operational resilience will mitigate against business disruption and damage to assets.
+■ ■ Acute physical events are already happening in the short term but will likely continue to occur and become more widespread.
+Chronic physical risk (shifts) M, L ■ ■ These risks could impact on entire sectors and geographic regions that the bank supports, as well as potentially impacting on the bank’s own infrastructure.
+■ ■ These shifts in climate pattern are expected to manifest in the longer term.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 15 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Risk management continued. 
+Climate Change Financial and Operational Risk (CCFOR) Policy. 
+The policy was introduced in 2019 addressing climate change as an overarching risk impacting Credit, Market, Treasury and capital, and Operational risks.
+The policy outlines the requirements for identifying, assessing, managing and reporting on Financial and Operational risks arising from the physical, transition and connected risks associated with climate change. In 2020, the policy was embedded into 28 policies and standards across the in-scope Principal Risks.
+Each Principal Risk has continued to evolve its approach through implementation of the policy and the ongoing requirement to meet the PRA Supervisory Statement on financial risks of climate change (SS3/19). This continues to be an area of focus for the Group.
+Climate-related risk management process Credit risk Market risk Treasury and capital risk Operational risk. 
+Frequency of assessment Annual Quarterly Annual Annual. 
+Time horizons covered S,M,L S,M,L S,M S,M. 
+Description The risk of loss to the Group from the failure of clients, customers or counterparties, including sovereigns, to fully honour their obligations to the Group, including the whole and timely payment of principal, interest, collateral and other receivables.
+The risk of loss arising from potential adverse changes in the value of the Group’s assets and liabilities from fluctuation in market variables including, but not limited to, interest rates, foreign exchange, equity prices, commodity prices, credit spreads, implied volatilities and asset correlations.
+Treasury and capital risks are impacted by climate-related risks, primarily in a second order manner, and include liquidity risk, capital risk and interest rate risk in the banking book.
+The risk of loss to the Group from inadequate or failed processes or systems, human factors or due to external events (for example, extreme weather events) where the root cause is not due to credit or market risks.
+Process Client-level assessment. Portfolio-level assessment. Qualitative assessment of oversight portfolios and review of climate stress testing results to inform risk management.
+Qualitative assessment – regular oversight of internal and external risk events relevant to climate change. Key learnings to inform assessment of the bank’s resilience capabilities.
+Example A client operating in a carbonintensive sector which does not have an adaptation plan to transition to a low-carbon economy and becomes subject to high carbon tax payment that negatively affects its cash flow.
+Climate change may lead to market risk through a disorderly transition to a low-carbon economy or via physical climate events and shifts in supply and demand for financial instruments, which may then impact market prices for susceptible sectors or countries.
+Adverse market movements resulting from transition risks such as legislative change, or from government fiscal responses to sudden physical climate change events, may impact the fair value of the bank’s investments such as those in the liquid asset portfolio. Additionally, longerterm climate change risks may adversely impact the bank’s future revenue through customer behaviour, balance sheet or strategy changes over the longer term in response to climate change risk factors.
+An extreme weather event occurs which impacts locations and sites where the Group operates could also prevent employees from accessing the premises, and/or results in a data centre failing.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 16 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Credit risk Definition The risk of loss to the Group from the failure of clients, customers or counterparties, including sovereigns, to fully honour their obligations to the Group, including the whole and timely payment of principal, interest, collateral and other receivables.
+Identification We start risk identification by highlighting sectors particularly susceptible to climate change risk. These are broadly divided into three categories: elevated, moderate and low risk.
+Elevated risk sectors These sectors have been identified through an analysis of Barclays Industrial Classifications by portfolio and benchmarked against Moody’s and other external sources, with additional input from subject matter experts.
+Our rationale for choosing these sectors and assessing exposure to them, year on year, is detailed opposite. It highlights the factors that drive the sectors’ susceptibility to climate change risk.
+For the basis of preparation for elevated risk exposure breakdown (chart below), please refer to page 31 in the Metrics and targets section.
+Elevated risk sector rationale. 
+Airlines Airports. 
+More stringent air emission and carbon regulations, requiring high levels of capital investment and Research & Development (R&D) expenditure.
+Automobile manufacturers. 
+Policy pressure to cut emissions to meet regional emission requirements, requiring high levels of capital investment and R&D expenditure. Phase out of fossil fuel vehicles around the world (e.g. ban on sales of internal combustion engine vehicles).
+Building materials Policy pressure to cut emissions, in particular, for cement producers.
+Coal mining and supporting infrastructure. 
+Reduction in demand of thermal coal, as utilities transition away from fossil fuel. More stringent air emissions, resulting in higher levels of capital investment.
+Commodity chemicals Increasing environmental regulation, including carbon regulations. The increasing efforts to eliminate single-use plastics and improve recycling to prevent marine pollution could also impact demand for products used in plastic manufacture.
+Mining and metals, excluding coal. 
+Rising costs as a result of tighter environmental regulations and increasing water stress.
+Oil & Gas – Extraction Oil & Gas – Midstream Energy Oil & Gas – Oilfield Services Oil & Gas – Refining and Marketing. 
+Policy pressure to cut emissions, exposure to carbon taxes and overall increasing environmental regulation of operations and restrictions on access to new resources. Over time, falling demand for fossil fuels.
+Power Utilities Policy pressure to cut emissions, leading to increased capital expenditure costs, plus potential exposure to carbon taxes.
+Protein and Agriculture Shifts in environmental regulations may raise costs of production for animal protein. Volatile weather conditions and increased ESG regulation in the food sector will affect agriculture. Fall in meat and dairy consumption due to changes in societal behaviours.
+Shipping Policy pressure to cut emissions, requiring higher levels of capital investment.
+Steel Being an energy-intensive sector, the sector is exposed to the policy pressure to cut emissions and evolving air pollution regulation.
+Surface transportation and logistics. 
+Policy pressure to cut emissions, requiring high levels of capital investment.
+Elevated risk exposure breakdown (2020) as percentage of total loans & advances and loan commitments £m. 
+Note Elevated risk exposure as % of Total Loans & Advances and Loan Commitments. Total Loans & Advances and Loan Commitments amount to £675,682m 661 689 502 683 1,339 3,649 1,194 2,005 7,414 3,223 2,100 2,821 5,453 6% 2,065 9,911 28. 
+Airlines Airports Automobile manufacturers Building materials Coal mining and supporting infrastructure Commodity chemicals Mining and metals, excluding coal Oil & Gas – Extraction Oil & Gas – Midstream Energy Oil & Gas – Oil�eld Services Oil & Gas – Re�ning and Marketing Power Utilities Protein and Agriculture Shipping Steel Surface transportation and logistics. 
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 17 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Each climate-related risk in elevated sectors is assessed by risk drivers and impacts. Risk drivers and impacts were designed internally and are based on rating agencies’ climate change assessments, recommendations of the TCFD and our involvement in UNEP FI’s TCFD Banking Pilot Project Phase II.
+Building on identified elevated risk sectors, in 2019, a Climate Change Risk Inventory was introduced to map climate-related risks across Credit, Market, Treasury and capital, and Operational risks and provide appropriate mitigation measures where necessary.
+In 2020, the Climate Change Risk Inventory was evolved into the Climate Change Risk Register to align with the. 
+Group’s Risk Register Taxonomy. In particular, drivers for each risk were identified across climate risk types (physical, transition and connected) in addition to macroeconomic and climate variables. The Register is feeding into scenario design for the climate internal stress test.
+Sovereign risk assessment In 2020 a climate sovereign risk assessment was introduced, which included a risk factors matrix incorporating physical, transition and connected risk factors. It was designed to support the internal stress test on Climate Change and is being introduced as part of our ongoing risk review as part of the CCFOR Policy.
+Credit Climate Lens sample questions. 
+Risk Focus area Sample question. 
+Physical Acute: Frequency and intensity of extreme weather events What is the exposure of operations and supporting assets to direct damage from extreme weather events?
+Reducing availability of financial protection/insurance What is the severity of the potential lack of insurance covering business interruptions caused by extreme weather events?
+Transition Regulatory, policy and supervisory change Does the company have an adaptation plan in place?
+Technology change What is the likelihood of accelerating contingent liabilities, with alternative technologies displacing existing operations and supporting assets?
+A range of indicators were used to assess a sovereign’s ability and capacity to respond to climate-related challenges, including five Transition Risk factors, five Physical Risk factors and three Economic & Fiscal Strength factors. A number of external metrics have also been utilised, including the University of Notre Dame’s Global Adaptation Index and Climate Change Performance Index – Climate Policy. These factors were then applied to countries with material exposure of more than £200m. Sovereigns that are most impacted to these factors are now being monitored on an ongoing basis.
+In support of the climate internal stress test, this analysis resulted in adjustments being made to the sovereign credit rating, as determined by the underlying scenario. From here, stress loss was calculated to inform Barclays’ vulnerability.
+Assessment In 2019, a Credit Risk Materiality Matrix for climate change, known as a ‘Credit Climate Lens’, was developed to identify and assess how climate change may impact the Group’s wholesale credit risk exposures, against physical and transition risks.
+The Credit Climate Lens review is completed for wholesale clients operating in elevated risk sectors with material exposure of more than £5m. It is completed by either Banking or Credit Risk teams across all Barclays entities.
+The Lens consists of a set of 20 questions, grouped into themes, that are used to assess the impact of physical and transition risk on the counterparty. Opposite are illustrative examples of questions that are included in the Lens (these do not cover the breadth of focus areas or questions included in the Lens, instead are a representative sample of the type of assessment made for each climate-related risk).
+Each Lens question has a specific threshold assigned to it that corresponds to a rating of Low, Moderate or High risk. These are aggregated to provide an overall rating for the client with rationale for the assigned rating, and comments on both physical and transition risks.
+In 2020 we continued to embed the Credit Climate Lens across elevated risk sectors and implemented a Climate Lens review at annual review for 415 clients, representing 82% of the bank’s corporate exposurea within elevated sectors in Barclays International. In Barclays UK, 142 clients in elevated risk sectors, with total borrowings greater than £5m, have been assessed by Relationship Teams using the Credit Climate Lens.
+Managing risk On an annual basis, where an overall Credit Climate Lens rating for a client is assessed as Medium or High, the client details are referred to the Environmental Risk Team (ERT). This dedicated team within the Enterprise Risk Management (ERM) function, conducts enhanced due diligence (EDD). Following their analysis, ERT provides recommendations and guidance on how to proceed with these clients, addressing any issues identified during the EDD process.
+In addition to EDD, scenario analysis and stress testing were identified as primary tools to support risk management efforts in assessing climate change risks in the portfolio and overall resilience of Barclays’ strategy. Please see the Scenario analysis section for more information on stress testing.
+Portfolio and Mandate & Scale In 2020 we have integrated environmental and climate change risks into Mandate & Scale annual credit portfolio reviews for elevated risk sectors.
+Mandate & Scale Exposure Controls are a portfolio risk management tool and form part of the overall Risk Appetite control framework to review and control business activities, checking they are within Barclays’ mandate (i.e. aligned with expectations), and are of an appropriate scale (relative to the risk and reward of the underlying activities). Limits and triggers are put in place to avoid concentrations that may lead to unexpected losses detrimental to the stability of the relevant business or the Group. They take the broader economic outlook, wider Group strategy, and risk/ return considerations into account and are set for a number of sectors and products. Physical, transition. 
+Note a Exposure is defined as primary limits as of December 2020.
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 18 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+and connected risks arising from climate change are also now considered as part of the wider risk management decision process to account for the potential credit risk consequences of climate change on affected portfolios.
+Market risk Definition The risk of loss arising from potential adverse changes in the value of the Group’s assets and liabilities from fluctuation in market variables including, but not limited to, interest rates, foreign exchange, equity prices, commodity prices, credit spreads, implied volatilities and asset correlations.
+Climate change may lead to Market risk through a disorderly transition to a low-carbon economy or via physical climate events and shifts in supply and demand for financial instruments, which may then impact market prices for susceptible sectors or countries.
+Identification Climate-related risks are determined at a Group level and used in the Market risk identification process.
+The table above outlines the climate-related risks, transition and physical, considered for all market risks under each asset class.
+Assessment Market risk arising from climate change is measured by applying a range of stress scenarios, which stresses the core risks susceptible to climate change over long and short-term horizons to individual risk factors.
+Four event-based scenarios were developed to specifically stress elements of the portfolio. The scenarios range from severe physical impacts covering the majority of the global footprint – where key markets for the portfolio are Europe, US and India; as well as a disorderly transition scenario due to increased carbon taxes across jurisdictions. These scenarios were chosen and designed to support the central climate scenario used in the climate internal stress test.
+Asset class Physical risk Transition risk. 
+Traded credit Country/region impact Sector impact Sector impact. 
+Securitised products ■ ■ Countries most susceptible to climate changes ■ ■ Sectors reliant on stable weather conditions and power/water supply (e.g. agriculture, soft commodities, tourism, mining, manufacturing, transportation) ■ ■ Financial protection – insurance against weather events ■ ■ Carbon-intensive sectors: – primary producers (e.g. coal miner, oil & gas) – consumers (e.g. petrochemicals, transport) – supply chain (e.g. auto, retailer) ■ ■ Additional cost to meet new regulatory requirements, financial penalties, carbon taxes, green energy subsidies.
+■ ■ Increased capex/cost for primary producers and consumers due to: – technological/regulatory-driven shifts in consumer demand – tightening efficiency/emissions ■ ■ Increases in cost, impaired quality of goods and speed of delivery due to weaknesses within the supply chain, need for alternative suppliers/products. 
+Equities. 
+Macro (FX, rates, commodities)
+Event-based scenario Narrative Climate risk 1 Severe climate events in Europe and the UK driving market risk losses ■ ■ Wettest autumn with severe and widespread flooding in key UK and European towns.
+■ ■ Europe and UK see early and record snowfall in winter with severe public services disruption. Physical 2 Severe climate events in the US driving market risk losses ■ ■ Historically late and severe autumn hurricanes and flooding across the US southern and eastern coastline.
+■ ■ The northeast coast of US, incl. New York and Washington DC, is hit by repeated snow storms and blizzards. Physical 3 Severe climate events in India driving market risk losses ■ ■ India experiences simultaneous severe weather conditions.
+■ ■ These events spark national and global outcry against Indian government’s lack of action on climate change with global media coverage which gains momentum.
+■ ■ Government responds with sizeable fiscal package, creating economic, fiscal and social costs for the sovereign. Material decline in GDP outlook.
+Physical 4 Disorderly introduction of carbon tax in Europe, UK and US ■ ■ Europe, UK and US introduce sudden and extreme carbon tax.
+■ ■ Energy companies are slow to shift to renewable sources and instead pass tax on to consumers, driving higher energy prices.
+■ ■ ‘High’ climate risk clients are unable to pass on costs; profits deteriorate, driving downgrades/defaults.
+■ ■ Carbon-intensive asset classes are particularly impacted following introduction of a carbon tax.
+Transition. 
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 19 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+■ ■ Accrual Banking Book Net Interest Income may be moderately impacted by climate change. In addition to general interest rate movements, transition risks such as future changes to legislation, commitments to meeting carbon targets or reputational considerations may impact future deposit levels, pricing and longer-term interest rate risk management strategies. There may also be impacts from physical risks such as flooding or drought potentially impacting the composition and performance of our asset portfolios including asset prepayment rates, new volumes, pricing and interest rate risk management of those portfolios.
+Managing risk Treasury and Capital Risk will undertake an annual review to identify exposures in our oversight that are impacted by physical, transition and connected risks arising from climate change. This will inform the setting of relevant key indicators and risk limits, which will be overseen by the Treasury and Capital Risk Committee on a quarterly basis.
+Further analysis and review of stress testing results will be used to build upon our understanding of climate risks.
+On the previous page is a high level overview of the four scenarios and their underlying narrative.
+Stress losses arising from these scenarios measure and aggregate climate-related risks, and are calculated quarterly.
+Managing risk The pattern of stress losses arising from the stress scenarios is used to estimate and set ongoing limits, consistent with the Board-approved maximum stress loss capacity for Market risk, under which Barclays monitors and controls Market risk arising from climate changes. These limits are reviewed on an annual basis and must include consideration of potential portfolio impacts arising from climate-related risks.
+Furthermore, climate-related Market risk is managed through ongoing monitoring that is reported through the existing risk committee structures. This ensures key risk indicators are monitored and escalated as required.
+Treasury and capital risk Definition This comprises:
+Capital risk: the risk that the Group has an insufficient level or composition of capital to support its normal business activities and to meet its regulatory capital requirements under normal operating environments or stressed conditions (both actual and as defined for internal planning or regulatory testing purposes). This also includes the risk from the Group’s pension plans.
+Liquidity risk: the risk that the Group is unable to meet its contractual or contingent obligations or that it does not have the appropriate amount, tenor and composition of funding and liquidity to support its assets.
+Interest rate risk in the banking book (IRRBB): the risk that the Group is exposed to capital or income volatility because of a mismatch between the interest rate exposures of its (non-traded) assets and liabilities.
+The Treasury and Capital Risk function manages Treasury and capital risk exposure on a day-to-day basis with the Group Treasury Committee acting as the principal management body, ensuring that these risks remain within acceptable boundaries and thresholds. The Treasury and Capital Risk function is responsible for oversight and provides insight into key capital, liquidity, IRRBB and pension risk management activities.
+Identification and assessment The Treasury and Capital Risk function has focused on building awareness of how the areas within our risk oversight may be impacted by physical, transition and connected risks, and calibration of key indicators for regular reporting and monitoring. The function will continue to build upon our understanding of climate risks, including through Barclays’ participation in the 2021 Climate BES and climate internal stress tests.
+Analysis to date highlights the following:
+Capital risk: ■ ■ Barclays’ capital position is indirectly subject to climate risk through Group-wide exposures across all risk types. The Treasury and Capital Risk function oversees the bank’s capital management activities and planning, and will use the output of Group-wide climate stress tests to inform our understanding of how capital management may be impacted.
+Liquidity risk: ■ ■ The 2020 Internal Liquidity Adequacy Assessment Process (ILAAP) outlines the potential funding and liquidity risks that may arise as a result of certain physical risks such as extreme weather events, or transition risks such as a move to a low-carbon economy. An initial risk assessment has been performed to explore the potential vulnerabilities to certain industries and asset classes that may be subject to a lack of available liquidity under a climate stress scenario.
+Interest rate risk in the banking book and Pension risk: ■ ■ Fair value positions such as those within the Liquid Asset Buffer are exposed to general market conditions which could deteriorate under longerterm climate stress. Physical or transition risks may lead to government fiscal responses that would impact market volatility. Our long-term investment strategy may be subject to change in light of these climate pressures.
+■ ■ Pension exposures are subject to climate stresses impacting market conditions. Pension holdings are primarily affected by interest rates, inflation and credit spreads which may be impacted by longerterm climate change effects.
+■ ■ Principal Investments (PI) – equity positions held by Barclays – are most likely to be impacted by stresses to energy markets and carbon transition changes. The future investment strategy of the team and long-term revenue of these investments may be influenced by changing climate and legislative conditions.
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 20 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Reputation risk Definition Barclays is linked to clients across a wide range of sectors and geographies, including those that have the potential to cause or contribute to significant adverse impacts on the climate. We recognise that we have a responsibility to proactively identify and address the adverse impacts that we may be linked to through our provision of financial services to these clients. We believe that the integration of robust environmental and social risk management considerations, including those around climate change, in our assessment and engagement with clients is not only the right thing to do, but it also helps to safeguard our reputation and ensure the longevity of our business. This engagement also enhances our ability to serve our clients and support them in improving their sustainability practices and disclosures.
+Identification Management of environmental and social risks associated with clients are governed as part of Barclays’ reputation risk and credit risk management frameworks and processes. This includes the client and transaction review process, which is managed by the Group Sustainability and Reputation Risk teams and assesses the impacts of clients and transactions on the environment and society. We also have a dedicated Environmental Risk Management team within the central Credit Risk Management function whose role is to advise on the environmental and climate-related credit risks to Barclays associated with particular credit transactions.
+Operational risk Definition The risk of loss to the Group from inadequate or failed processes or systems, human factors or due to external events (for example, extreme weather events) where the root cause is not due to credit or market risks.
+Barclays is exposed to climate change risks in its operations, either directly or via the operations of its suppliers. This exposure is predominantly related to physical risk such as extreme weather events (e.g. cyclones, hurricanes and floods), along with longerterm changes in weather patterns (e.g. increased mean temperatures, sea levels, changing rain patterns, water stress/scarcity or drought conditions).
+Identification Physical risk events related to extreme weather events could impact Barclays’ operational capabilities. Operational risk maintains a taxonomy of operational risks on behalf of the Group, which includes the operational risks across Principal Risks (e.g. Conduct risk, Legal risk, Model risk) as well as operational failures associated with financial Principal Risks (Credit, Market, Treasury and capital). The Operational Risk Taxonomy is managed and governed in accordance with an Operational Risk Taxonomy Standard that forms part of the Operational Risk Framework, which is reviewed and updated, where appropriate, on an annual basis.
+Sector position statements We have established position statements on sensitive sectors and activities that may present significant adverse impacts on people or the environment. The statements and corresponding internal procedural standards relevant to climate change are listed in the table below.
+Our position statements are developed in consultation with technical specialists, NGOs and investors, and are aligned with industry best practices, such as the International Finance Corporation (IFC) Performance Standards. We also participate in various industry forums that help inform these positions.
+These statements are underpinned by internal standards within the ERMF, which are a core part of client acceptance and transaction approval processes, where applicable.
+Position statements on sensitive sectors. 
+Climate change. 
+Forestry and agricultural commodities ■ ■ Coal mining ■ ■ Coal power ■ ■ Oil sands ■ ■ Fracking ■ ■ Arctic oil and gas ■ ■ Forestry, pulp and paper ■ ■ Palm oil ■ ■ Soy. 
+Assessment Our assessment of Operational risk is currently qualitative. We are cognisant that a quantification approach is required and will continue to explore different approaches, albeit there are challenges for quantification relating to the lack of appropriately granular, business-relevant data and tools. Quantifying Operational risk through existing structured scenarios would allow us to better examine and size the potential incremental impact arising from climate risks. However, the challenge of determining scenarios that are business orientated and in particular connect the given scenario to the idiosyncrasies of Operational risk will require further consideration.
+Managing risk The Group Property Standard outlines Barclays’ approach to addressing environmental risks with respect to the availability of operational premises. Additionally, exposure to extreme weather events is considered when selecting locations for new strategic sites.
+Our Resilience programme outlines Barclays’ requirements (including requirements of its suppliers) to maintain services and respond to business disruption. Barclays deploys and validates appropriate resilience strategies for its critical processes, including the ability to transfer processing to alternative locations or premises.
+For our suppliers, resilience requirements are articulated through our Supplier Control Obligations (SCOs). Each supplier is required to attest to their compliance with the SCOs on an annual basis and further testing is undertaken on a risk-based approach.
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 21 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Assessment Enhanced due diligence Barclays’ front-office business teams are responsible for identifying client relationships and transactions that may present significant environmental and social risks. These may include broader considerations on human rights, labour practices and operations in sensitive geographies. These teams review client relationships and transactions that are in scope of our position statements and internal standards, as part of their due diligence.
+Where significant environmental and social risks are identified, or the client or transaction is in scope of our statements and standards, this will be referred to the Group Sustainability team to conduct enhanced due diligence and /or provide advice. This may include a review of the client’s policies, performance and practices, as well as their commitments and capacity to manage any identified risks. We may also review independent third party reports and assessments, and engage with the client directly to better understand how these risks are managed.
+During the year we focused on augmenting our enhanced due diligence approach for clients in the energy sub-sectors covered by our Climate Change Statement, such as thermal coal, oil sands and hydraulic fracturing (commonly referred to as fracking). All in-scope clients in these sub-sectors are now required to complete a detailed due diligence questionnaire on an annual basis, which is used to evaluate their performance on a range of environmental and social issues, such as use of tailings dams or community engagement approach, for example. This annual review generates a reputation risk rating (low, medium, high), which in turn determines whether further review and client engagement may be required.
+As we have undertaken the annual review process, we have evolved our approach to address certain parameters, such as when general corporate purposes conglomerate financing would require enhanced due diligence on business interests that touch these energy sub-sectors (in the case of oil sands and fracking, for example, we apply a 10% of group revenue test, among other factors that we consider).
+Managing risk Escalation and decision Where client relationships or transactions are considered to be high risk following an enhanced due diligence review, they are then escalated to the appropriate business unit review committee. This year, we established a specific committee responsible for reviewing in-scope clients and transactions that contain significant reputation risk related to climate change. The committee is co-chaired by a CoPresident of Barclays Bank PLC and the Group Head of Public Policy and Corporate Responsibility, and its membership comprises designated members of the Group Executive Committee.
+Decisions may be informed by the extent to which we can work with the company to address the risks causing concern. In cases where clients are unable or unwilling to agree to an action plan to address identified risks, or the risks are deemed too high, we may decline to support the transaction or re-evaluate the client relationship.
+Monitoring We believe that we can have a greater positive impact through supporting clients to improve their ESG performance within a reasonable time frame, rather than declining all transactions that carry heightened environmental or social risks. To achieve this, we may, as part of the escalation and decision process, require that environmental and social risk management requirements are integrated into loan documentation, and work with the client to develop a time-bound action plan to address significant risks. In these instances, we will monitor the client’s progress on a regular basis.
+Equator Principles For project-related finance, we apply our Environmental Risk Standard which implements the Equator Principles and relevant IFC Performance Standards. Barclays was one of four banks which collaborated in developing the Principles, ahead of their launch in 2003 with 10 adopting banks.
+Our Environmental Risk Standard is supported by a toolkit for employees comprising a range of practical guidance documents.
+Following an extensive two-year consultation process, the Equator Principles Association (EP Association) adopted a fourth iteration of the Equator Principles (EP4) on 18 November 2019. It came into effect on 1 October 2020 and Barclays has aligned its policies and procedures to the new commitments, including running two workshops for teams involved in project finance to raise awareness on the newly introduced changes.
+Deforestation and soft commodities Barclays recognises that deforestation is a critical environmental issue, and a key driver of climate change and biodiversity loss. We are committed to supporting clients that promote sustainable forestry and agribusiness practices, and are a signatory to the New York Forest Declaration of the United Nations and its objective of supporting all endeavours to cut natural forest loss in half by 2020, and to end it by 2030. We are also a founding member of the Banking Environment Initiative’s Soft Commodities Compact, which commits us to helping our corporate clients in a number of sectors including forestry, pulp and paper, and palm oil to achieve zero net deforestation.
+Barclays understands that a major cause of deforestation is the production of these commodities, and we therefore have a specific due diligence approach for these sectors which is outlined in our Forestry and Agricultural Commodities Statement. In recognition of the deforestation impacts of soy production in South America, during 2020 we expanded the scope of our Statement and enhanced due diligence approach to include clients involved in the production and primary processing of soy in this region. The Statement now includes a range of strict requirements that are applied to these clients, such as requiring that they prohibit the conversion of forests in their own operations, are a member of the Roundtable for Responsible Soy, and are working towards achieving a fully traceable and deforestation-free soy supply chain.
+Risk management continued. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 22 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Scenario analysis. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 23 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Scenario analysis. 
+Scenario analysis is an important tool in assessing the future implications of potential climate change pathways on an organisation. It forms a key part of the TCFD’s recommendation on strategy, guiding organisations to assess their resilience to climate-related issues under a range of uncertainties and future states.
+Building on our 2019 climate scenario analysis, which explored a severe but plausible near-term climate scenario, this year we have reviewed two alternative climate scenarios over a long-term horizon to 2050.
+Scenarios In June 2020, the Network of Central Banks and Supervisors for Greening the Financial System (NGFS) published its first iteration of climate scenarios using the climate scenarios framework shown opposite. The first iteration explores a set of eight scenarios; three representative scenarios and five alternatives. The three representative scenarios cover ‘Orderly’, ‘Disorderly’ and ‘Hot house world’, exploring key dimensions of climate risk and developed to provide a common starting point for analysing climate risks.
+Barclays utilised two NGFS scenarios to undertake two climate stress tests to help us further understand climate risks and also to prepare for the 2021 Climate Biennial Exploratory Scenario.
+Barclays explored a ‘Disorderly’ climate scenario with heightened transitional risks over a 30-year horizon, as well as a more severe physical risk scenario aligned to a ‘Hot house world’ as a sensitivity to the ‘Disorderly.’ The latter is discussed in more detail at the bottom of this section.
+These scenarios built on the NGFS scenario publication and complement it with additional climate and macroeconomic variables required to run our internal climate risk methodologies and stress testing models. Two notable variables that underpinned our scenario taken from the NGFS were carbon price and primary energy mix.
+Scenario analysis. 
+Orderly We start reducing emissions now in a measured way to meet climate goals. 
+Hot house world. 
+We continue to increase emissions, doing very little, if anything, to avert the physical risks. 
+Disorderly Sudden and unanticipated response is disruptive but sufficient enough to meet climate goals. 
+Too little, too late. 
+We don’t do enough to meet climate goals, the presence of physical risks spurs a disorderly transition. 
+Physical risks. 
+Transition risks Disorderly Orderly. 
+Transition pathway. 
+Source: NGFS climate scenarios for central banks and supervisors, June 2020.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 24 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Scenario analysis continued. 
+Key variables in the NGFS Disorderly and Hot house world scenarios The NGFS Disorderly scenario assumes climate policies are not introduced until 2030. Since actions are taken relatively late and limited by available technologies, in order to limit warming to below 2°C emissions reductions need to decline sharply resulting in high transition risk.
+In the NGFS Hot house world scenario, only currently implemented policies are preserved, resulting in emissions still growing by 2050. This scenario would result in severe physical risks, with an estimated median temperature rise of over 2°C by 2050.
+Carbon price A key assumption of the NGFS carbon price is the timing of policy action. This has a significant impact on the emissions price level that is required to achieve a given temperature target and the Disorderly scenario is subject to a rapid rise in carbon pricing between 2030 and 2050.
+Emission price development – Representative scenarios USD (2010)/tCO2 800 700 600 500 400 300 200 100 0
+2020 2030 2040 2050. 
+Orderly Disorderly Hot house world. 
+Source: NGFS climate scenarios for central banks and supervisors, June 2020.
+Primary energy mix In the NGFS Disorderly scenario, the energy mix shifts rapidly from fossil fuel based energy to renewables, due to the delayed policy response and reduced availability of CDR technologies.
+Evolution of the primary energy mix by scenario % 2030 Orderly 2020 2050 2030 Disorderly 2020 2050 2030 Hot house world 2020 2050. 
+Renewables and biomass Nuclear Gas. 
+Oil Coal. 
+Source: NGFS climate scenarios for central banks and supervisors, June 2020.
+Macroeconomic impacts In its publication, the NGFS acknowledges that the scenarios have gaps which limit their ability to fully assess macro-financial risks. In order to run our climate stress test, we required greater granularity of macroeconomic variables and also overlaid the scenarios with an economic shock from the point of transition in 2030, as disorderly climate policy implementation is assumed to disrupt economic output.
+Climate stress test methodology Approach Barclays’ approach for the climate stress test aligns to the proposals set out in the Bank of England’s Discussion Paper published in December 2019, on the Climate Biennial Exploratory Scenario. This includes assessments at five-yearly intervals, focusing on credit risk, traded market risk and non-traded market risk and based on a static balance sheet assumption with a cut-off date as at 30 June 2020. The methodology on the next page describes our assessment of these risks for three asset classes: corporates, households and governments.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 25 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Scenario analysis continued. 
+Corporates Climate risks in certain corporate sectors are judged elevated, while others are of moderate or low risk. We used a ‘tiered’ approach to stress our corporate exposures, utilising tools and subject matter expert analysis appropriate for the climate risk ‘tier’ under review.
+Clients in elevated climate risk sectors were assessed using the Credit Climate Lens – further detail on the Climate Lens is available in the Risk management section of this report.
+A representative sample of clients assigned a Climate Lens rating of medium or high were individually assessed using a new earnings model methodology, which is described in more detail below. A small sub-sample of these clients were brought to the Group Credit Risk Committee (GCRC) for review.
+The remaining sectors have been assessed using physical and transition risk scorecards. These scorecards assess a number of physical risk or transition risk vulnerability indicators, such as reliance on natural resources or technology risks. Clients in sectors considered to be exposed to transition or physical risk under the scorecard received a credit rating downgrade.
+All corporates, irrespective of whether they are captured in the above climate risk-specific methodologies, were subject to macroeconomic stress, capturing the ‘connected’ risks associated with wider economic downturn caused by climate change risk.
+We developed a new earnings model to assess the impact of climate variables on corporates. This model takes key climate scenario variables such as carbon price, oil demand etc. and applies the changes in these to counterparty EBITDA. The model also factors in an assessment of the client’s current transition plans. The adjusted EBITDA over the scenario horizon impacts the company’s leverage, Credit risk officers then make a judgement as to how the company’s credit profile will change. These updated credit default grades are then fed into Barclays’ stress test models.
+Corporate earnings and leverage model. 
+Material exposures. 
+Elevated risk sectors: high or medium-risk counterparties. 
+Elevated risk sectors: low-risk counterparties. 
+Moderate risk sectors. 
+Low-risk sectors. 
+Increasing granularity of analysis as climate risks increase. 
+Overview. 
+Credit committee to review sample of material elevated exposures. 
+Elevated risk counterparties in elevated risk sectors subject to EBITDA methodology. 
+Low-risk counterparties in elevated risk sectors considered ‘minimal risk’, evaluated with Climate Lens. 
+Moderate risk sectors stressed using physical and transition risk scorecards. 
+Macroeconomic variables are applied to all counterparties, to assess the impact of connected risk. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 26 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Scenario analysis continued. 
+Households Barclays’ climate risk analysis for households included quantifying the effect of flood risk (physical risk) and changes in affordability as a result of certain transition policy actions (transition risk).
+The transition risk methodology assesses changes in customer affordability as a result of tighter energy efficiency regulation and the resulting costs needed to upgrade properties to minimum standards.
+As well as direct physical and transition risk, the ‘Disorderly’ transition scenario creates ‘connected’ risks for households, for example, reduction in GDP and higher unemployment. This indirect effect had the most material impact on losses to households in this scenario.
+Governments (sovereigns) We identified a set of risk factors to assess the potential impact of climate change on government credit ratings. Five Transition Risk factors were identified, alongside five Physical Risk factors and three Economic & Fiscal Strength factors.
+A rating of severe, medium or low was assigned for each climate risk type, to arrive at a scorecard for credit rating adjustments. In order to calibrate the severity of rating changes, historical external rating downgrades during past crises have been examined, and Country Risk SMEs have reviewed the calibration and specific outputs for each sovereign name.
+Results of Disorderly stress test The Disorderly stress test resulted in ‘transition impacts’, particularly in corporate and government portfolios, and indirect ‘connected’ macroeconomic impacts, primarily in retail portfolios. The stress test involved measuring credit impairment and market risk losses; of the two, credit impairment had a more material impact.
+The peak losses were observed during the initial period of disorderly transition, 2031-2035, as a number of corporates more exposed to carbon taxes defaulted, compounded by the broader ‘connected’ macroeconomic stress impacting the corporate, household and government portfolios. Losses in later years remained above typical run rate levels, due to rising carbon taxes continuing to have an impact on wholesale credit across the horizon and modest physical risk in the later years.
+Losses associated with physical impacts of the ‘Disorderly’ scenario were low. For example, flood risk in the mortgage portfolio appeared limited in this scenario, in which only a moderate increase in the probability of flood by 2050 is anticipated. Indirect ‘connected’ macroeconomic impacts of the ‘Disorderly transition’ scenario were observed primarily in retail portfolios where excess impairment was caused by the modest short-term rise in unemployment.
+Lessons learned and next steps Our climate internal stress test has been an evolution of our first climate stress test last year and has helped us further understand climate risks. The outcomes of the climate stress test will be considered in setting our risk appetite and it has also helped us to identify areas of potential enhancements of our capabilities to prepare for the 2021 BES.
+Hot house world stress test The ‘Hot house world’ scenario stress test has been run as a sensitivity to the ‘Disorderly’ scenario stress test, assuming a more severe physical risk stress. It is designed to test Barclays’ vulnerabilities to more physical risk under the assumption the world reaches 2 degrees of warming by 2045-2050; irreversible changes like higher sea level rises are included. The methodologies outlined above have been calibrated to account for additional physical risks.
+For example, for the flood risk assessment in UK mortgages, we use flood risk assessments for an increased temperature scenario and without flood defences. The results of this stress test highlight specific vulnerabilities, notably to consumers in coastal-lying cities in the US, postcodes exposed to high flood risk in the UK, and counterparties in sectors with vulnerabilities to physical risk.
+Physical risks for UK households. 
+To further understand physical risks in the UK mortgage portfolio, we have collaborated with an insurance specialist to develop a granular view of flood risks, the primary physical climate risk for this customer segment.
+This new analysis provides flood frequency at a four-digit postcode level, with and without flood defences, out to 2050, expressed as a return period (e.g. 1 in 100-year flood). We developed a flood risk ‘map’ highlighting increasing frequency of floods as the century evolves, across three different temperature scenarios. A sample of postcodes is shown opposite.
+The impact of flooding on house prices has been estimated based on analysis of historic house price changes in areas with different levels of flood risk. The flood risk map suggests locations that are currently at no or low risk of flooding are expected to see a material increase in flood risk in the future, which is expected to have an impact on house prices in those locations. Changes in house prices are used to estimate impairment in the mortgage portfolio.
+Region Postcode. 
+Flood frequency expressed as return period 2020 2030 2040 2050. 
+Scotland Postcode 1. 
+NE England Postcode 2. 
+SE England Postcode 3. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 27 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+The metrics and targets used to assess and manage relevant climate-related risks and opportunities. 
+Metrics and targets. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 28 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Metrics and targets. 
+Targets. 
+In our 2019 ESG Report we committed to reduce the carbon emissions arising from activities financed by us, initially in the Energy and Power sectors. Over 2020, we developed further the detailed targets for these two sectors which would deliver on our commitment to align our financing with the goals of the Paris Agreement. In November 2020, we provided an update to the market and introduced BlueTrack™, our methodology for measuring our financed emissions. We also produced our climate dashboard which showed our carbon limit by sector and the updated dashboard below represents our first annual update of our progress against target.
+Portfolio alignment targets Climate dashboard Our carbon emissions model – BlueTrack™ – was developed to support Barclays’ portfolio transition in line with the Paris Agreement. It’s also helping us to embed climate impact in our financing decisions. At the highest level, the model uses the 2018 IEA Sustainable Development Scenario (OECD) to establish a set of benchmarks that define how the emissions embodied by the Group’s various financing portfolios will need to change over time to be aligned with the Paris Agreement.
+The model then determines how Barclays’ sector portfolios are performing against these benchmarks by measuring the emissions that the clients produce, determining how those emissions should be linked to the financing Barclays provides, and aggregating these measurements into portfolio-level metricsa.
+Note a The model methodology is disclosed and details can be found at: https://home.barclays/society/our-position-on-climate-change/ bluetrack.
+Our clients’ activity. 
+Financed emissions – Energy Absolute emissions MtCO2 (Indexed 2020 = 100)
+Fuel mix – Energy % 100 80 60 40 20 0
+2020 2025 -15% by 2025 2030 2035 2040. 
+IEA SDS Benchmark: OECD* Portfolio target path. 
+December 2020: 75.0 MtCO₂ 1
+55 44. 
+Barclays Dec 2020 21 41 39 2020 Benchmark OECD. 
+Coal Oil Gas. 
+Financed emissions – Power Emissions intensity KgCO2/MWh. 
+Fuel mix – Power % 350 300 250 200 150 100 50 0
+2020 2025 -30% by 2025 2030 2035 2040. 
+IEA SDS Benchmark: OECD* Portfolio target path. 
+December 2020: 321 KgCO₂/MWh 19 2 2 33 22 25 21 29 18 30. 
+Barclays Dec 2020 2020 Benchmark OECD. 
+Coal Oil Gas Nuclear Renewable (inc. Hydro)
+Our methodology and the data on which it draws are continuously improving; any changes to metrics as a result of methodology changes or new information that lead to materially different outcomes may result in metrics being restated. As company disclosures continue to improve, we are hopeful that this data will become sufficiently robust to play a much greater role in the calculation of BlueTrack™ metrics.
+*https://www.iea.org/reports/world-energy-outlook-2019. 
+Our climate dashboard. 
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 29 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Metrics and targets continued. 
+Green financing. 
+Our green financing commitment £bn 100 90 80 70 60 50 40 30 20 10 0 2018 2019 2020 £100bn by 2030. 
+Our own operations. 
+Renewable electricity % 66 2019 Actual 74 2020 Actual 90 2021 Target 100 2030 Target. 
+Links to more detail in ESG report for operational footprint and green financing. 
+Operational emissions ’000 tCO2e 300 250 200 150 100 50 0. 
+Residual emissions o�set to net zero 2018 2019 2020 2021. 
+Actual Target. 
+Our climate dashboard shows our ‘carbon limit’ by sector, and tracks our financed emissions against that benchmark. It also shows our operational emissions performance, including the residual emissions we are offsetting.
+Our near-term and medium-term targets for the Energy and Power sectors area: ■ ■ Energy portfolio absolute emissions will reduce by 15% by 2025, and continue to track our benchmark reduction on an ongoing basis.
+■ ■ Power portfolio emissions intensity will reduce by 30% by 2025, on the way to alignment with our benchmark by 2035.
+It is difficult to compare approaches and targets used across the industry, given the lack of standardisation. We believe that our targets are stretching but achievable, and reflect not only the current size and composition of our Energy and Power portfolios, but also progress already made in their decarbonisation. We are working with our peers to build a common approach, so that different organisations can be more easily compared.
+Our dashboard also shows the fuel mix of our portfolios, not just the overall ‘carbon limit’. This reflects our focus on the transition to a low-carbon economy, and shows specifically how we are accelerating the shift from higher-emissions to lower-emissions activity.
+Note a Targets are from a baseline of 12 months to 31 December 2020: Power emissions intensity – 321 KgCO2/MWh; Energy absolute emissions – 75 MtCO2.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 30 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Metrics and targets continued. 
+Elevated risk exposure £m 43,670. 
+Total 2019 43,737. 
+Total 2020. 
+Metrics. 
+Elevated risk sectors Credit exposures Barclays is committed to understanding the risks associated with sectors sensitive to the impacts from climate change. Disclosing risk management metrics and quantitative credit exposures supports this approach and our ongoing alignment with the TCFD recommendations. The following sectors represent those that the Group considers at an elevated risk from the impacts of climate change, and cover a broader range of sectors beyond energy and utilities. However, in each sector there will exist a range of vulnerabilities and as such these figures do not represent elevated carbon emission exposures and should not be interpreted as an indicator of relative carbon intensity. These sectors have been identified through an analysis of Barclays Industrial Classifications by portfolio and benchmarked against Moody’s and other external sources, with additional input from subject matter experts.
+Total 2019 £m Total 2020 £m YoY % change. 
+Airlines 1,381 1,339 -3% Airports 546 661 21% Automobile manufacturers 2,971 3,649 23% Building materials 1,141 1,194 5% Coal mining and supporting infrastructure 40 28 -28% Commodity chemicals 1,882 2,005 7% Mining and metals, excluding coal 2,071 2,065 0% Oil & Gas – Extraction 7,308 7,414 1% Oil & Gas – Midstream Energy 3,616 3,223 -11% Oil & Gas – Oilfield Services 2,480 2,100 -15% Oil & Gas – Refining and Marketing 2,774 2,821 2% Power Utilities 10,319 9,911 -4% Protein and Agriculture 5,298 5,453 3% Shipping 715 683 -4% Steel 471 502 7% Surface transportation and logistics 657 689 5%
+Total 43,670 43,737 0%
+Notes * Over the last year we have continued to evolve our understanding of climate and carbon-related risk and have reviewed our Barclays Industrial Classifications to ensure they accurately reflect these risks. As a result of these reviews, we have identified additional areas within the broader sector categories, which we deem elevated climate and/or carbon risk, and have restated last year’s tables to reflect evolved understanding. This covers the Protein and Agriculture, Shipping and Power Utilities sectors. * Barclays does not consider all parts of the Power Utilities value chain exposed to elevated climate risk, for instance Power Distribution & Transmission. Climate risk for this sector may depend on a number of factors such as the reliance and/or focus of the company on fossil fuels. As such, exposures for this sector show the portion of the Power Utilities sector where we do identify elevated climate risks. As a result, our 2019 elevated risk number has been restated from £36,670m to £43,670m.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 31 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Credit risk concentration by elevated risk sector. 
+As at 31 December 2019 Manufacturing £m. 
+Energy and water £m. 
+Wholesale and retail distribution and leisure £m Other £m Total £m. 
+Group total On-balance sheet: Loans and advances at amortised cost 8,323 5,346 10,031 11,068 34,768 Off-balance sheet: Loan commitments 42,148 29,877 14,711 24,100 110,836. 
+Total 50,471 35,223 24,742 35,168 145,604. 
+Identified as elevated climate risk sectors: On-balance sheet: Loans and advances at amortised cost 1,517 3,074 382 5,381 10,354 Off-balance sheet: Loan commitments 7,047 18,900 959 6,410 33,316. 
+Total 8,564 21,974 1,341 11,791 43,670. 
+Of which: Airlines – – – 1,381 1,381 Airports – – – 546 546 Automobile manufacturers 2,971 – – – 2,971 Building materials 1,141 – – – 1,141 Coal mining and supporting infrastructure – 40 – – 40 Commodity chemicals 1,787 – 95 – 1,882 Mining and metals, excluding coal 204 1,867 – – 2,071 Oil & Gas – Extraction – 7,308 – – 7,308 Oil & Gas – Midstream Energy – – – 3,616 3,616 Oil & Gas – Oilfield Services – 2,440 – 40 2,480 Oil & Gas – Refining and Marketing 1,723 – 1,051 – 2,774 Power Utilities – 10,319 – – 10,319 Protein and Agriculture 267 – 195 4,836 5,298 Shipping – – – 715 715 Steel 471 – – – 471 Surface transportation and logistics – – – 657 657. 
+Total 8,564 21,974 1,341 11,791 43,670. 
+Credit risk concentration by elevated risk sector. 
+As at 31 December 2020 Manufacturing £m. 
+Energy and water £m. 
+Wholesale and retail distribution and leisure £m Other £m Total £m. 
+Group total On-balance sheet: Loans and advances at amortised cost 8,142 4,722 12,569 11,937 37,370 Off-balance sheet: Loan commitments 39,638 25,780 17,165 22,571 105,154. 
+Total 47,780 30,502 29,734 34,508 142,524. 
+Identified as elevated climate risk sectors: On-balance sheet: Loans and advances at amortised cost 1,729 2,573 481 6,218 11,001 Off-balance sheet: Loan commitments 7,829 18,511 770 5,626 32,736. 
+Total 9,558 21,084 1,251 11,844 43,737. 
+Of which: Airlines – – – 1,339 1,339 Airports – – – 661 661 Automobile manufacturers 3,649 – – – 3,649 Building materials 1,194 – – – 1,194 Coal mining and supporting infrastructure – 28 – – 28 Commodity chemicals 1,911 – 94 – 2,005 Mining and metals, excluding coal 265 1,800 – – 2,065 Oil & Gas – Extraction – 7,414 – – 7,414 Oil & Gas – Midstream Energy – – – 3,223 3,223 Oil & Gas – Oilfield Services – 1,931 – 169 2,100 Oil & Gas – Refining and Marketing 1,737 – 1,084 – 2,821 Power Utilities – 9,911 – – 9,911 Protein and Agriculture 300 – 73 5,080 5,453 Shipping – – – 683 683 Steel 502 – – – 502 Surface transportation and logistics – – – 689 689. 
+Total 9,558 21,084 1,251 11,844 43,737. 
+Metrics and targets continued Overview of credit exposures by industry sector: ‘manufacturing’, ‘energy and water’, ‘wholesale and retail distribution and leisure’ and ‘other’ are those standard categories, as disclosed in the Annual Report, that have been identified to contain exposures at an elevated risk from the impacts of climate change. The tables below show, for these four categories, loans and advances at amortised cost and loan commitments at a total Group level and for those sectors at an elevated risk from the impacts of climate change. The data presented is before the effects of netting, collateral and risk transfer have been applied.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 32 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Metrics and targets continued. 
+Carbon-related assets To align with the recommendation of the TCFD, we also disclose concentrations of credit exposure to carbon-related assets. The TCFD recommends that carbon-related assets are those assets tied to the energy and utilities sectors under the Global Industry Classification Standard (GICS) excluding water utilities, independent power and renewable electricity.
+Carbon-related assets. 
+Total loans and advances and loan commitments £673,570m 4%
+Total loans and advances and loan commitments £675,682m 4%
+As at 31 December 2020 Energy £m Utilities £m. 
+Total carbon-related assets £m. 
+On-balance sheet: Loans and advances at amortised cost 2,754 587 3,341 Off-balance sheet: Loan commitments 12,831 9,480 22,311. 
+Total 15,585 10,067 25,652 % of total loans and advances and loan commitments 4%
+As at 31 December 2019 Energy £m Utilities £m. 
+Total carbon-related assets £m. 
+On-balance sheet: Loans and advances at amortised cost 2,998 621 3,619 Off-balance sheet: Loan commitments 13,220 9774 22,994. 
+Total 16,218 10,395 26,613 % of total loans and advances and loan commitments 4%
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 33 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Metrics and targets continued. 
+Financing (capital markets) To facilitate greater understanding and transparency of our capital markets financing, in 2019 we disclosed the total capital raised for clients across all sectors using data sourced from Dealogic.
+To aid continued transparency and comparability in our annual reporting, we have provided the same breakdown for our 2020 financing below. The data is prepared in a consistent manner to 2019. It is sourced from Dealogic and the industry sector categories are designated by Dealogic General and Specific Industry. 
+Group classifications. Financing volumes are reported on a manager-proceeds basis including bonds, equities, loans and securitised bonds and no modifications have been made by Barclays.
+This data represents a third party view of our financing and is subject to Dealogic’s league table methodology, which pro-rates volume across lead-managers. We are presenting the data in this format to support transparency and comparability but it should be noted that this data is subject to further analysis and methodological enhancements, before it is included in BlueTrack™.
+Carbon-related energy and extractive sectors (Dealogic Industry Classification) 2019 $m 2020 $m 2019 v 2020 % difference. 
+Mining (General) Total 1,137 1,494 31.4% Oil & Gas Total 20,749 20,982 1.1% Utility & Energy Total 32,835 21,976 -33.1% Grand Total 54,721 44,452 -18.8%
+Total of all industries 466,561 504,030 8.0%
+Note 2019 figure has been restated by Dealogic as data on deals is confirmed throughout the year. In Barclays ESG Report 2019, our 2019 total financing figure was reported as $468,055m.
+Total financing (capital markets) 2020 $504,030m. 
+Transportation 3.1%
+Telecommunications 4.3%
+Professional Services 1.8%
+Mining, Oil & Gas, Utility & Energy 10.2%
+Insurance 2.7%
+Health Care 6.6%
+Government 9.1%
+Food & Beverage 2.6%
+Finance 37.3%
+Computers & Electronics 6.9%
+Auto/Truck 1.9%
+Other sectors* 10.9%
+Dining & Lodging 1.1% Aerospace 0.4% Textile 0.1% Defence 0.1% Forestry & Paper 0.2% Publishing 0.2% *Other sectors Consumer Products 1.3% Machinery 1.6% Retail 1.2% Chemicals 2.2% Leisure & Recreation 0.8% Metal & Steel 0.4%
+Construction/Building 1.3%
+Real Estate/Property 2.6%
+Mining General 3.36% Oil & Gas Diversi�ed 33.89% Exploration & Development 6.81% Field Equipment & Services 1.21% Pipeline 3.02% Re�nery/Marketing 2.27% Royalty Trust Utility & Energy Diversi�ed 13.26% Electric Power 32.50% Gas 3.68%
+Financing of Utility & Energy, Oil & Gas, Mining $44,452m. 
+Notes Excludes non-carbon-related utilities: waste management, hydroelectric power and water totalling $2,970m. Also excludes green/sustainable/social bonds and company issuers defined as Renewables totalling $4,143m.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 34 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Notes The terms ‘Barclays’ or ‘Group’ refer to Barclays PLC together with its subsidiaries. The abbreviations ‘£m’ and ‘£bn’ represent millions and thousands of millions of Pounds Sterling respectively; the abbreviations ‘$m’ and ‘$bn’ represent millions and thousands of millions of US Dollars respectively; and the abbreviations ‘€m’ and ‘€bn’ represent millions and thousands of millions of Euros respectively.
+Important Notice – Basis of Preparation The reader should be aware that this report and the information contained within it, is prepared on the following basis: i. The preparation of this report requires the application of a number of key judgements and also requires assumptions and estimates to be made. The key areas involving a higher degree of judgement or complexity, or where assumptions and estimates are significant to this report, include: financed carbon emissions and portfolio alignment; classification of environmental and social financing; and measurement of climate risk and operational emissions. There is a risk that the judgement exercised, or the estimates or assumptions used, may subsequently turn out to be incorrect. These judgements and resulting data presented in this report are not a substitute for judgements and analysis made independently by the reader; ii. Reported numbers reflect best estimates and judgements at the given point in time; iii. This report uses models, external data and other sources/methodologies, each of which are subject to ongoing adjustment and modifications beyond our control; iv. The outputs of these models, external data and other sources/methodologies can be materially affected by the quality of the underlying data used. They may be subject to uncertainties affecting the accuracy of their outputs. There is a risk that the outputs may be misinterpreted or misused when dealing with developing themes, such as climaterelated disclosures and other environmental, social and governance data points, due to the lack of market standards, historical reference points and benchmark data, as well as the inability to rely on historical data as a strong indicator of future trajectories, in the case of climate change and its evolution.
+v. In general, the quality of the data relied upon in ESG reporting is often not yet of the same standard as more traditional financial reporting and therefore presents an inherent limitation to the performance reported in this report; vi. ESG reporting across the industry as a whole is not yet subject to the same accounting rigour or globally accepted principles and rules as financial reporting. Accordingly, there is a lack of commonly accepted reporting practices for the Group to follow or align to. We will continue to review available data sources and enhance our methodology and processes to improve the robustness of the performance disclosed over time; vii. This report and the information contained within it is unaudited; viii. Further development of accounting and/or reporting standards could materially impact the performance metrics, data points and targets contained in this report; and ix. As standards and practices continue to evolve, it may mean subsequent reports do not allow a reader to compare performance metrics, data points or targets from one reporting period to another, on a direct like-by-like basis.
+Forward-looking statements This report contains certain forward-looking statements with respect to the Group. Barclays cautions readers that no forward-looking statement is a guarantee of future performance and that actual results or other financial condition or performance measures could differ materially from those contained in the forward-looking statements. These forward-looking statements can be identified by the fact that they do not relate only to historical or current facts. Forwardlooking statements sometimes use words such as ‘may’, ‘will’, ‘seek’, ‘continue’, ‘aim’, ‘anticipate’, ‘target’, ‘projected’, ‘expect’, ‘estimate’, ‘intend’, ‘plan’, ‘goal’, ‘believe’, ‘achieve’ or other words of similar meaning.
+By their nature, forward-looking statements involve risk and uncertainty because they relate to future events and circumstances. The forward-looking statements speak only as at the date on which they are made. Forward-looking statements may be affected by: changes in legislation; the development of standards and interpretations including evolving practices in ESG reporting with regard to the interpretation and application of accounting, industry and regulatory standards; the Group’s ability along with government and other stakeholders to manage and mitigate the impacts of climate change effectively; and environmental, social and geopolitical risks. A number of these influences and factors are beyond the Group’s control.
+These statements are based on the current beliefs and expectations of Barclays’ management and are subject to significant risks and uncertainties. Actual outcomes may differ materially from those expressed in the forward-looking statements. Factors that could impact Barclays’ future financial condition and performance are identified in Barclays PLC’s 2020 Annual Report, which is available on barclays.com.
+Subject to our obligations under the applicable laws and regulations of any relevant jurisdiction (including, without limitation, the UK and the US), in relation to disclosure and ongoing information, we undertake no obligation to update publicly or revise any forwardlooking statements, whether as a result of new information, future events or otherwise.
+Governance Strategy Risk management Scenario analysis Metrics and targets. 
+Barclays PLC home.barclays/annualreport 35 Barclays PLC Climate-related Financial Disclosures 2020
+
+
+Registered office: 1 Churchill Place, London E14 5HP © Barclays PLC 2021 Registered in England. Registered No: 48839. 
+Barclays PLC Annual Report 2020 A detailed review of Barclays’ 2020 performance with disclosures that provide useful insight and go beyond reporting requirements.
+Barclays PLC Environmental Social Governance Report 2020 An overview of our ESG strategic priorities and performance, reported against a range of quantitative and qualitative indicators.
+Barclays PLC Climate-related Financial Disclosures 2020 An enhanced report aligning to the Task Force on Climate-related Financial Disclosures (TCFD) recommendations in this, the fourth year of disclosure.
+Barclays PLC Fair Pay Report 2020 An overview of our approach to pay-fairness and how we implement this in our principles and policies through the themes of our Fair Pay agenda.
+Barclays PLC Diversity and Inclusion Report 2020 An overview of the Group’s approach to building a more inclusive company, including a progress report on each of our five pillars of diversity and inclusion.
+Barclays PLC Country Snapshot 2020 An overview of our global tax contribution as well as our approach to tax, including our UK tax strategy, together with our country-by-country data.
+Barclays PLC Pillar 3 Report 2020 A summary of our risk profile, its interaction with the Group’s risk appetite, and risk management.
+Barclays is a British universal bank. We deploy finance responsibly to support people and businesses, acting with empathy and integrity, championing innovation and sustainability, for the common good and the long term.
+Our Purpose and Values ensure we are able to deliver for all our stakeholders: for our customers and clients, for our colleagues, for society and for our investors.
+For further information and a fuller understanding of the results and the state of affairs of the Group, please refer to the Barclays PLC suite of annual reports available at home.barclays/annualreport. 
+Designed and produced by fhensemblestudio.com

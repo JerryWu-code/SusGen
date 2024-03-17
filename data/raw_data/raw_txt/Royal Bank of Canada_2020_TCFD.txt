@@ -1,0 +1,614 @@
+2020 RBC TCFD REPORT 1. 
+Royal Bank of Canada. 
+Task Force on Climate-related Financial Disclosures Report 2020. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 2. 
+Caution regarding forward-looking statements. 
+From time to time, we make written or oral forward-looking statements within the meaning of certain securities laws, including the “safe harbour” provisions of the United States Private Securities Litigation Reform Act of 1995 and any applicable Canadian securities legislation. We may make forwardlooking statements in this 2020 TCFD Report, in fillings with Canadian regulators or the U.S. Securities and Exchange Commission, in reports to shareholders and in other communications. Forward-looking statements in this 2020 TCFD Report include, but are not limited to, statements relating to the causes and impacts of climate change globally, including our economies and communities in which RBC and our clients operate, our strategies to identify, mitigate and adapt to climate-related risks, and our approach to identify and manage climate-related opportunities. The forward-looking information contained in this 2020 TCFD Report is included to assist our stakeholders in understanding the ways we intend to address climate-related risks and opportunities. This information may not be appropriate for other purposes. Forward-looking statements are typically identified by words such as “believe”, “expect”, “foresee”, “forecast”, “anticipate”, “intend”, “estimate”, “goal”, “plan”, “strive”, “target” and “project” and similar expressions of future or conditional verbs such as “will”, “may”, “should”, “could” or “would”.
+By their very nature, forward-looking statements require us to make assumptions and are subject to inherent risks and uncertainties, which give rise to the possibility that our predictions, forecasts, projections, expectations or conclusions will not prove to be accurate, that our assumptions may not be correct and that our strategies to mitigate and adapt to climate-related risks and opportunities will not be achieved.
+We caution readers not to place undue reliance on these statements as a number of risk factors could cause our actual results to differ materially from the expectations expressed in such forward-looking statements.
+These factors – many of which are beyond our control and the effects of which can be difficult to predict – include credit, market, liquidity and funding, insurance, operational, regulatory compliance (which could lead us to being subject to various legal and regulatory proceedings, the potential outcome of which could include regulatory restrictions, penalties and fines), strategic, reputation, legal and regulatory environment, competitive and systemic risks and other risks discussed in the risk sections and Significant developments: COVID-19 section of our Annual Report for the year ended October 31, 2020 (2020 Annual Report) and the Risk management and Impact of COVID-19 pandemic sections of our Quarterly Report for the three-month period ended January 31, 2021 (Q1 2021 Report to Shareholders); including business and economic conditions information technology and cyber risks, Canadian housing and household indebtedness, geopolitical uncertainty, privacy, data and third-party related risks, regulatory changes, environmental and social risk (including climate change), and digital disruption and innovation, culture and conduct, the business and economic conditions in the geographic regions in which we operate, the effects of changes in government fiscal, monetary and other policies, tax risk and transparency, and the emergence of widespread health emergencies or public health crises such as pandemics and epidemics, including the COVID-19 pandemic and its impacts on the global economy and financial market conditions and our business operations and financial results, condition and objectives.
+We caution that the foregoing list of risk factors is not exhaustive and other factors could also adversely affect our results. When relying on our forwardlooking statements to make decisions with respect to us, investors and others should carefully consider the foregoing factors and other uncertainties and potential events. Material economic assumptions underlying the forwardlooking statements contained in this document are set out in the Economic, market and regulatory review and outlook section and for each business segment under the Strategic priorities and Outlook headings in our 2020 Annual Report as updated by the Economic, market and regulatory review and outlook and Impact of COVID-19 pandemic sections of our Q1 2021 Report to Shareholders. Except as required by law, we do not undertake to update any forward-looking statement, whether written or oral, that may be made from time to time by us or on our behalf.
+Additional information about these and other factors can be found in the risk sections and Significant developments: COVID-19 section of our 2020 Annual Report and in the Risk management and Impact of COVID-19 pandemic sections of our Q1 2021 Report to Shareholders.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 3. 
+Climate change is a significant threat to our environment, our economy and our communities. The COVID-19 pandemic has focused attention on our interconnected world and reinforced the need to work together to accelerate a reduction of emissions in a socially responsible manner.
+RBC is fully committed to doing our part in the financial system’s efforts to scale up support for clean economic growth and transition to a net-zero economy. Given that climate change is one of RBC’s top and emerging risks, the Board of Directors oversees management’s plans and carefully assesses whether they effectively balance our strategic opportunities with appropriate risk discipline.
+Kathleen Taylor Chair of the Board, Royal Bank of Canada. 
+Climate change impacts every aspect of our life. As one of the largest banks in the world, we have to play an active role in helping our clients and communities make the transition to net-zero.
+That’s why we’re focused on accelerating cleaner economic growth, a key tenet of the RBC Climate Blueprint.
+To support this, we have committed to net-zero emissions in our lending portfolios by 2050, aligning with global goals set out in the Paris Agreement, and we will measure and disclose our financed emissions in phases starting in 2022. We have also set a $500 billion sustainable financing target by 2025, which builds on our previous $100 billion target achieved last year – well ahead of schedule.
+Additionally, our support of international initiatives and partnerships, such as The Financial Stability Board’s recommendations for more effective climate-related disclosures will help all of our stakeholders develop a clear picture of RBC’s opportunities and risks related to climate change.
+The speed and scale of our collective response to the global pandemic showed a willingness from governments, businesses and communities to pull out all the stops to protect the health, safety and financial well-being of those they serve. As we move ahead, we must act with the same collaborative spirit in tackling climate change – which presents far greater threats to our society than COVID-19.
+We have to act together and we can’t fail.
+David McKay President & Chief Executive Officer, Royal Bank of Canada. 
+Royal Bank of Canada and its subsidiaries (RBC, we, our or us) support the recommendations of the Financial Stability Board’s Task Force on Climate-related Financial Disclosures (TCFD) and committed to producing annual disclosures that consider these recommendations. RBC® first made this commitment in the 2017 RBC Climate Change Position and Disclosure Statement, which was our first disclosure that addressed the TCFD recommendations.
+This is our fourth annual TCFD disclosure. It supplements the TCFD content disclosed in our 2020 Annual Report (see TCFD Disclosure starting on page 95). We also provide relevant information in other public reports, including our 2020 Environment, Social and Governance (ESG) Performance Report, our RBC Climate Blueprint and our response to the 2020 CDP questionnaire. All information in this report is as at October 31, 2020 and all amounts are in Canadian dollars, unless otherwise specified. Information contained in or accessible through the websites that we mention in this report do not form part of this report.
+We have a phased approach to implementing the TCFD recommendations, aiming to integrate them over time. Our disclosures will also evolve to reflect our advancements in how we manage climate-related risks and opportunities, and will improve in line with advancements in data availability and quality, the standardization of climate risk measurement methodologies and the maturity of the sustainable finance and responsible investment markets.
+Introduction. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 4. 
+Prior state Current state Future state. 
+Governance. 
+Board oversight of climate-related matters. 
+Management oversight of climate-related matters and responsibilities defined for key roles. 
+Enterprise-wide coordination of our climate strategy through a senior management working group. 
+Climate change training for employees and advanced training for those in relevant roles. 
+Strategy. 
+Commitment to supporting the principles of the Paris Agreement. 
+Enterprise climate change strategy to manage climate risk and opportunities. 
+Scenario analysis of select portfolios. 
+Development of climate stress testing programs, quantification of potential impacts and enhancement of strategic responses. 
+Risk Management. 
+Identification of climate change as a top and emerging risk 1. 
+Analysis of exposure and sensitivity to climate risk at portfolio and borrower levels. 
+Advancement of the integration of climate risks into policies, procedures and risk appetite statements. 
+Opportunities. 
+Identification and assessment of climate opportunities. 
+Embedding of sustainable finance and responsible investment capabilities in business segments. 
+Development of business growth targets for opportunities and strategies to increase performance year over year. 
+Metrics and Targets. 
+Carbon neutral in our operations (Scopes 1, 2 and 3) 2. 
+Operational greenhouse gas (GHG) emissions reduction target (Scopes 1, 2 and 3) 2. 
+Renewable and non-emitting electricity target. 
+Sustainable finance measurement and target. 
+Measurement of carbon-related assets. 
+Measurement of financed GHG emissions and target setting. 
+Our phased approach. 
+Legend Activity underway, initiated or planned. 
+RBC is committed to a more sustainable path and acknowledges that we play a role in accelerating clean economic growth and supporting our clients in the transition to a net-zero economy. To support this path RBC is committed to continuous improvement in our activities and aims to improve and add to them over time. This phased approach is represented in the foundational work RBC has done in our prior state and current state, and in our endeavour to improve in our future state.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 5. 
+Our Governance Framework. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 6. 
+The Board of Directors (the Board) of Royal Bank of Canada (the Bank) recognizes that climate change is one of the most pressing issues of our age. The risks of climate change to society and the global economy are critical, and as global efforts to transition to a net-zero economy intensify, the financial system plays a key role in the allocation of capital to support clean economic growth.
+Our success as a company is defined by the long-term well-being of the people that we serve, the communities in which we operate and the planet that we will leave to future generations. Our approach to managing ESG matters, including our corporate citizenship strategy, programs and performance, uses a decentralized organizational model that reflects our belief that ESG matters should be embedded in our business. To best support RBC in achieving its Purpose of helping clients thrive and communities prosper, all directors of the Board are required to have experience in ESG matters. In addition, they all share a commitment to the RBC Values of integrity and putting the client first, diversity and inclusion, accountability, and collaboration.
+The Board and its Committees oversee senior management, who are responsible for the execution of the management of environmental and social (E&S) risks and opportunities, which include climate change. The Board provides oversight of our strategic approach to climate change and our E&S risks, which includes how we manage climate-related risks and opportunities. In 2020, the Risk Committee recommended and the Board approved a change to our Risk Appetite Framework to include a qualitative statement requiring consideration of E&S risks, including climate risks, when making risk decisions.
+The following Committees of the Board have oversight of climate-related risks, opportunities and disclosures specific to their areas of responsibility:  Risk Committee – Oversees identification and management of risks to the Bank including top and emerging risks, one of which is E&S risk, which includes climate change, as identified in our 2020 Annual Report (see Top and emerging risks, page 55). The Risk Committee receives updates from the Chief Risk Officer (CRO) in the quarterly Enterprise Risk Report on risks faced by RBC including climate change-related risks. In 2020, the Risk Committee received an in-depth, dedicated presentation from our Group Risk Management (GRM) and Corporate Citizenship groups on climate risks and actions that RBC is taking to manage these risks, including collaborative projects with Canadian and global peers.
+ Governance Committee – Oversees the Bank’s corporate citizenship strategy, which forms part of our enterprise-wide approach to climate change, and reviews annually our ESG Performance Report and TCFD Report, which discuss climate-related risks and opportunities for the Bank. In 2020, the Governance Committee also received an update on progress made against the commitments in our RBC Climate Blueprint.
+ Audit Committee – Oversees our disclosure controls and procedures, and recommended for Board approval our 2020 Annual Report, which includes climate-related disclosures that consider the recommendations of the TCFD.
+ Human Resources Committee – Oversees our compensation principles, policies, programs and decisions, as well as talent management and management succession. The Human Resources Committee recommends for Board approval compensation decisions for the Chief Executive Officer (CEO) and Group Executive (GE), who, in addition to the Bank’s financial performance, are evaluated against key non-financial objectives in the CEO and GE short-term incentive program that include ESG factors, one of which is climate change.
+The Risk Committees of the boards of directors of the Bank’s primary U.K. subsidiary, RBC Europe Limited (RBC EL), and primary U.S. subsidiary, RBC US Group Holdings LLC, received presentations in 2020 that included discussions of climate-related strategy, risks, opportunities, metrics and targets, as well as increasing regulatory expectations. See Appendix on page 30 for additional detail regarding RBC EL.
+Board oversight. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 7. 
+Management oversight. 
+The CRO has overall responsibility for identifying and managing risks from climate change. The Chief Administrative Officer (CAO) has responsibility for Corporate Citizenship and RBC’s ESG related strategies. The Chief Financial Officer (CFO) has overall responsibility for the reporting and disclosures of material financial information related to climate change in our Annual Report. A number of key groups across RBC also have specific accountabilities for climate-related matters, including:  GRM – Oversees the management of E&S risk, such as climate change, and has a dedicated team responsible for identifying, assessing, managing and, where possible, mitigating issues that may pose a risk to RBC.
+ Corporate Citizenship – Responsible and accountable for RBC's enterprise ESG strategies, including our climate change strategy described in our RBC Climate Blueprint. Also coordinates our enterprise-wide approach to reporting on climate change and other material environmental and social issues through our annual ESG Performance Report, TCFD Report and other ESG-related disclosures.
+ RBC Capital Markets® Sustainable Finance Group – Responsible for integrating ESG factors into our core capital markets platform. The team focuses on providing advice and delivering solutions that help to advance our clients’ own ESG strategies accessing the sustainable finance market.
+ RBC Global Asset Management3 (RBC GAM) Corporate Governance and Responsible Investment (CGRI) Team – Responsible for the implementation of our responsible investment activities and strategic priorities. All investment teams and the CGRI team report directly to the RBC GAM Chief Investment Officer (CIO). The CIO is responsible for overseeing and managing all investment activities and is the ultimate investment risk owner responsible for climate change.
+ Corporate Real Estate – Responsible for cost-effectively managing our global portfolio of real estate, which includes reducing our energy consumption and the environmental impacts associated with the buildings we occupy for our branches, office space and data centres, working together with our third-party real estate partners.
+ Technology and Operations Data and Analytics Group – Focuses on climate analytics and location intelligence. They work to enable our climate data capabilities across the enterprise and support our ability to assess physical and transition risks.
+RBC Climate Working Group. 
+In 2019, RBC formed an enterprise climate change roundtable to oversee the coordination of our approach to climate change across RBC. In 2020, the roundtable evolved into our Group Executive sponsored Climate Working Group (CWG), which has executive representation from all of our business segments across Personal & Commercial Banking, Wealth Management, Investory & Treasury Services, Insurance and Capital Markets. The CWG provides the overall vision and strategic oversight for our enterprise ambition and goals, which are outlined in the RBC Climate Blueprint. The CWG is committed to making timely progress on climate change by leveraging subject matter expertise to address critical issues, escalating roadblocks, providing enterprise funding and acting as the integrator on cross-enterprise opportunities. While our approach to climate change is coordinated at the enterprise level, many functions and business segments have tailored climate strategies, goals and/or accountabilities. The CWG meets at least quarterly to review our progress, discuss emerging opportunities and coordinate joint climate initiatives across RBC.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 8. 
+Management oversight. 
+Figure 1 – Overview of the organizational structure for the governance of climate risks and opportunities. 
+Chief Administrative Office • RBC Climate Blueprint • ESG disclosure suite • RBC Foundation® • Corporate Real Estate • Brand marketing and communications. 
+Group Risk Management • E&S risk management (includes climate-related risks)
+Finance • Annual Report (includes TCFD disclosure)
+Technology & Operations • Data and analytics (includes location intelligence)
+Human Resources • Compensation and talent programs. 
+Climate Working Group (co-chaired by two members of Group Executive)
+Board of Directors and its committees. 
+Accountable for oversight of RBC management. 
+Group Executive and Group Risk Committee. 
+Functions. 
+Shared oversight and responsibility for providing strategic direction and developing strategy regarding climate-related risks, opportunities and disclosures. 
+Personal & Commercial Banking Wealth Management Insurance Investor & Treasury Services Capital Markets. 
+Business segments. 
+Implement commitments as described in the RBC Climate Blueprint and leverage insights to identify new opportunities and risks. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 9. 
+Our Strategic Approach. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 10. 
+As Canada's biggest bank, and one of the largest in the world based on market capitalization, we recognize we have a role to play in accelerating clean economic growth and helping our clients and communities thrive in a socially inclusive transition to a net-zero economy. We have established approaches to integrating climate-related risks and opportunities into our short-, medium- and long-term strategic planning, commitments and decision making.
+Our strategic approach. 
+Short-term. 
+Annual Business Portfolio Review and Enterprise Strategy. 
+Provides an annual overview of the financial health of our business portfolio and describes the forward-looking enterprise strategy, including our goals, risks and opportunities, and strategic priorities and initiatives. Climate- related risks and opportunities are included in this strategic planning process.
+Medium-term. 
+RBC Climate Blueprint 4. 
+Provides our medium-term climate strategy to accelerate clean economic growth and support our clients in their transition to a net-zero economy. RBC Capital Markets and RBC GAM, have also integrated climate into business- specific sustainable finance and responsible investment strategies that support the advancement of the RBC Climate Blueprint.
+Long-term. 
+RBC Climate Change Position Statement and Net-Zero Lending Commitment 5. 
+Describes our position on climate change and affirms our role in addressing climate- related risks and opportunities in a transition toward a net-zero economy.
+In 2017, RBC joined governments and leaders in the private sector in committing to a climate strategy that aligns with the principles of the Paris Agreement. Our 2017 Climate Change Position Statement affirms our support for the principles of the Paris Agreement and the international goal to hold global warming below 2 o Celsius.
+The RBC Climate Blueprint is our coordinated enterprise strategy to accelerate clean economic growth and support our clients in a socially inclusive transition to a net-zero economy. Our strategy is designed to position us as a partner for clients and our communities as they look to invest in activities to transition to a net-zero economy, ultimately deepening client relationships and developing new markets that build resiliency and accelerate clean economic growth.
+To align with the global goals of the Paris Agreement, RBC is committed to net-zero emissions in our lending by 2050. We believe that setting interim targets will be critical to staying on track to meet this long-term goal. A first step will be to measure and report our financed emissions for key sectors starting in our 2022 TCFD Report, requiring investments in people, tools, data and analytics. These foundational elements will help us establish an enterprise climate risk appetite, set interim reduction targets and build out climate-related stress testing programs.
+To effect meaningful action, we revised our sustainable financing target from $100 billion to $500 billion by 2025, supporting companies and projects that are contributing to a more sustainable future.
+This commitment to align our lending with the global goals set out in the Paris Agreement is in addition to our commitment to achieve net-zero carbon emissions in our global operations annually, reducing global operational GHG emissions by 70% and sourcing 100% of our electricity from renewable and non-emitting sources by 2025.6. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 11. 
+Support clients in the net-zero transition with our products, services and advice. 
+Reduce emissions from our own operations. 
+Speak up for smart climate solutions. 
+Invest in technology to address complex environmental challenges 4
+5 3
+2 1. 
+Advance our capabilities in climate risk management and publish annual TCFD disclosures. 
+Commitments Pillars. 
+Enhance our industry specific expertise and client solutions to support clean innovation and climate resilience $500 billion in sustainable financing by 20257. 
+Provide more investment options for clients with climate- related objectives and more tools for investment teams to understand climate-related risks and opportunities. 
+Net-zero emissions in our lending by 2050, beginning with measuring and reporting our financed emissions for key sectors in our 2022 TCFD Report. 
+Refine our enterprise climate risk appetite, set interim reduction targets and build out climate-related scenario analysis and stress testing capabilities. 
+Partner with our peers, the scientific community, government and other players to advance shared methodologies, accounting frameworks and disclosure best practices for financial institutions. 
+Net-zero emissions in our global operations, annually. 
+Reduce greenhouse gas emissions by 70% by 20256. 
+Increase our sourcing of electricity from renewable and non-emitting sources to 100% by 2025. 
+Convene stakeholders to advance progress on socially inclusive transition pathways for Canada. 
+Produce research and thought leadership on clean innovation, climate-related risks and opportunities, and the implications of climate policy. 
+Inform public policy that aims to address climate change and improve our resilience, while enhancing economic competitiveness. 
+Through RBC Tech for Nature™, provide up to $10 million in annual support to universities and charities that are developing technology solutions to address climate change and related environmental issues8. 
+Leverage geo-spatial analytic capabilities to advance our ability to identify and assess the impacts of climate change. 
+Establish an enterprise climate data and analytics hub to better understand climate-related risks and opportunities. 
+Our climate strategy: RBC Climate Blueprint. 
+Our strategy outlines five priorities anchored by our strengths in finance, investment, risk management, innovation, economic and policy research, and community investments, and includes a number of commitments.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 12. 
+Collaboration. 
+RBC continues to work with leading organizations, together with our peers, industry sectors, regulators, governments and civil society, to accelerate clean economic growth and inform our understanding of climate-related risks and opportunities:
+Advancing Sustainable Finance, Transition Pathways & Clean Innovation. 
+Climate Risk Management, Scenario Analysis & Disclosures. 
+Sustainable Operations. 
+Bank of Canada and the Office of the Superintendent of Financial Institutions (OSFI) – RBC is involved in a pilot project to use scenario analysis and stress testing to better understand the risks to the financial system related to a transition to a low-carbon economy.
+International Capital Market Association (ICMA) – RBC Capital Markets is a member of the Climate Transition Finance Working Group of the ICMA, which was formed to consider the concept of transition financing in the context of the green bond market.
+Business Renewables Centre Canada (BRC) – The BRC is a community group for buyers to learn how to source renewable energy directly from project developers. Its goal is to grow renewable energy development in the country. RBC is a founding member.
+Partnership for Carbon Accounting Financials (PCAF) – RBC joined PCAF in 2021 and will be using the PCAF methodology to advance the measurement of our indirect emissions and align our methodology with a global standard to measure and disclose emissions associated with lending.
+Canadian Bankers Association (CBA) – RBC works with the CBA to develop consistent and comparable approaches to conducting climate risk assessments and disclosures among our Canadian peers.
+Smart Prosperity – Smart Prosperity is a cross-sectoral initiative focused on accelerating Canada’s transition to a stronger, cleaner economy. RBC supports its initiative to call for better policy measures.
+Canadian Standards Association (CSA) – RBC collaborates with the CSA and a group of Canada's largest banks, pension funds and insurance companies to develop transition finance principles and activities to support the development of the transition finance market in Canada.
+RMI Center for Climate Aligned Finance – RBC joined RMI as a strategic partner in 2021 as we recognize the need to work collectively on sector-based solutions together with our clients and with other financial institutions to pursue a net-zero economy.
+Global Financial Markets Association (GFMA) – RBC Capital Markets was a contributing member to the GFMA on the Climate Finance Markets and the Real Economy report, published December 3, 2020.
+United Nations Environment Programme Finance Initiative (UNEP FI) – RBC joined TCFD pilot projects (Phases I and III) to advance climate scenario analysis related to physical and transition risks, and encourage consistent and comparable approaches among our global peers.
+Institute for Sustainable Finance – RBC became a founding contributor in 2020 to support the first ever collaborative hub with academia, government and the private sector to advance Canada’s sustainable finance capacity through education, training and research.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 13. 
+Climate scenario analysis. 
+Climate change presents a new level of complexity for financial institutions; the impacts often take place beyond typical financial and business planning horizons, and are felt across sectors, geographies and economies. The factors that have increased the frequency and intensity of weather events, changing weather patterns and subsequently driven the transition to a net-zero economy are generally well understood. How they will play out over time, and at what speed and scale, are more uncertain – as is how society will respond and adapt to these factors.
+While stress testing and scenario analyses are used across RBC for capital management, strategic planning and operational risk management, the use of climate change scenarios to assess loan portfolios is relatively recent, and one of the more challenging TCFD recommendations. Since 2017, we have been advancing our capabilities in climate scenario analysis.
+2021. 
+RBC, along with a group of peer financial institutions, is working with the Bank of Canada and the Office of the Superintendent of Financial Institutions (OSFI) to use scenario analysis to better understand the risks to the financial system from a transition to a net-zero economy.
+RBC EL is using the Transition Check methodology developed by the UNEP FI and Oliver Wyman, building on our scenario analysis experience from RBC pilot programs in 2018 and 2019. Our scenarios will span from 1.5°C to 4°C in order to fully explore a diverse range of risks and opportunities. For shorter-term analysis of our exposure to transition risks, we have developed a market risk scenario based on a potential transitiondriven energy crisis. Exploration of additional scenarios is ongoing.
+RBC joined UNEP FI’s Phase III of the TCFD banking pilot to continue advancing the use of climate scenario analysis.
+2020. 
+RBC GAM conducted climate scenario analysis and assessed the climate value at risk and temperature alignment for many of its equity and fixed income investment strategies. RBC GAM's forward-looking analysis considered both transition and physical risk drivers under multiple forwardlooking climate scenarios, including 1.5°C, 2°C, 3°C and Business-as-Usual (Representative Concentration Pathways 8.5) scenarios.10 2017-2019. 
+RBC and 15 other financial institutions participated in a United Nations-led project to develop and publish methodologies for assessing the impact of future climate scenarios on our clients and loan portfolios. We piloted these physical and transition risk methodologies in some of our retail and wholesale portfolios: upstream oil and gas, power generation and home equity finance.9. 
+RBC conducted targeted climate scenario analysis of RBC’s corporate real estate portfolio and parts of our investment portfolio.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 14. 
+Our Approach to Climate Risk. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 15. 
+In line with the TCFD recommendations, RBC identifies climate risk as risks related to the transition to a net-zero economy (transition risks) and the physical impacts of climate change (physical risks). Figure 2, below, provides an overview of climate-related risks and examples of possible impacts to RBC, along with other businesses, and is based on the risk categories identified in the TCFD recommendations.
+We continue to embed climate change in our approach to E&S risk management, which is articulated in our enterprise-wide and business-specific E&S risk management policies. Group Risk Management has a dedicated E&S risk management team that develops approaches to identify, assess, monitor and report on climate-related risks, as appropriate. Business segments and corporate functions are responsible for incorporating E&S risk management requirements in their operations.
+Identification and assessment of climate risks. 
+Our approach to climate risk. 
+Figure 2 – Overview of the associated climate-related risks and examples of possible impacts. 
+Transition risk Physical risk. 
+Climaterelated risks. 
+Chronic 11 Acute 11. 
+Technology Policy and Legal Markets Reputation Heat Stress Sea-Level Rise Flooding Wildfire. 
+Possible impacts. 
+R&D expenditure. 
+Costs to adopt new technology. 
+Increased operating costs. 
+Stranded assets. 
+Litigation. 
+Reduced demand for services. 
+Repricing of assets. 
+Change in revenue sources. 
+Client sentiment. 
+Capital availability. 
+Workforce management. 
+Brand value. 
+Increased operating costs. 
+Damage to facilities. 
+Lack of insurability of assets. 
+Service and supply chain interruptions. 
+Asset devaluation and write-offs. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 16. 
+Climate risk reaches across RBC as transition and physical risk factors could impact other risk types unless they are appropriately managed. The chart below details some of the climate-related risks as they relate to our enterprise risk drivers.
+We take a “top-down” approach to risk management to identify and measure the relative sensitivity of sectors to climate-related risks. An understanding of sector sensitivity to climate-related risks provides us with a better understanding of how climate risk might affect our clients, and the appropriate measures to manage strategic and transactional/positional risks for RBC. Sector sensitivity to climate-related risks does not mean that those risks will be realized for all clients in that sector. We are working to combine the sector information above with a “bottom up” approach to consider the impact of climate risk on clients, taking into consideration factors such as geography, location of assets and mitigation strategies.
+Risk type Description as it relates to climate risk. 
+Macroeconomic ● Systemic risks may arise from abrupt corrections that may result from mispricing assets and misallocating capital. Increasing physical impacts could impact macroeconomic conditions. Trade tensions could rise if climate policies differ from country to country.
+Strategic ● Strategic risks may arise from a failure to identify and adapt to changes taking place in key sectors/regions. Reputation risks may arise from those who believe we are moving too quickly on climate change, and those who believe we are moving too slowly.
+Operational/ Regulatory Compliance ● Operational risks may arise from the impact of more frequent and intense weather events on our operational resilience, including business continuity as well as the pricing of inputs such as energy, water and insurance. This potentially impacts the retention and attraction of employees, especially millennials.
+● Regulatory compliance risks may arise from our ability to adapt to and comply with new climate-related regulations for banks, insurers and asset managers.
+Transactional/ Positional ● Credit risks may arise from changes in the company or asset valuation, uninsured or uninsurable damages, impacts on operating costs and revenue, or client business models and strategies that are (or are perceived to be) misaligned with the transition to a net-zero economy.
+● Market and liquidity risks may arise from the impact of energy and commodity prices, corporate bonds, equities and certain derivatives contracts in carbon-intensive sectors. Our liquidity may be impacted if we are perceived as not addressing the impacts of climate change adequately or fast enough.
+● Insurance risks may arise from misevaluating climate-related health impacts on mortality and disability premiums/liabilities.
+Less. 
+More. 
+Control & Influence. 
+Identification and assessment of climate risks. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 17. 
+Identification and assessment of climate risks. 
+Legend. 
+More sensitive Less sensitive. 
+Sectors Credit risk 12 Climate risk drivers 13 Examples of potential impacts for clients in these sectors may include C$bn % of total exposure Technology Policy Markets Legal Reputation. 
+Wholesale ● Changes in demand for goods/ services ● Reduced revenue ● Increased operating and production costs ● Asset devaluation ● Difficulty accessing financing ● Increased capital costs ● Business model failures ● Reputational damage ● Legal fines or judgments. 
+Automotive $16.3 1.3%
+Oil & gas $20.2 1.6%
+Industrial products $17.1 1.3%
+Mining & metals $6.6 0.5%
+Transportation $14.6 1.1%
+Utilities $31.3 2.4%
+Sub-total $106.1 8.2%
+Table 1: Client sectors most sensitive to transition risk. 
+Sectors Credit risk 12 Climate risk drivers 13 Examples of potential impacts for clients in these sectors may include C$bn % of total exposure Chronic 11 Acute 11. 
+Wholesale ● Change in asset valuation ● Impaired assets, write-offs and early retirement of existing assets ● Lower property values ● Increased capital costs and operating costs ● Reduced or disrupted production capacity ● Reduced revenue from lower sales or output ● Increased insurance premiums or inability to insure. 
+Agriculture $11.5 0.9%
+Forest products $2.1 0.2%
+Industrial products $17.1 1.3%
+Mining & metals $6.6 0.5%
+Real estate & related $87.3 6.8%
+Retail. 
+Residential mortgages and home equity lines of credit $427.4 33.1%
+Sub-total $552.0 42.7%
+Table 2: Client sectors most sensitive to physical risk. 
+Climate-sensitive sectors are those most impacted by the transition risks and physical risks of climate change. The factors that drive transition and physical risks are defined in the TCFD recommendations. Tables 1 and 2 provide an overview of client sectors most sensitive to transition and physical risks, our total credit exposure to these sectors and the relative sensitivity to different climate-related risks in 2020. Sector sensitivity to climate risk drivers does not mean that those risks will be realized for all clients in that sector. The impact at a client level will depend on factors such as geography, location of assets and mitigation strategies.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 18. 
+Identification and assessment of climate risks. 
+We continue to measure and disclose the amount and percentage of carbon-related assets relative to total assets, as recommended by the TCFD, along with our lending to power generation by energy source.
+We recognize these metrics are a starting point, and in 2020, we worked to further explore and develop our understanding of climate risk measurement methodologies (financed emissions and climate scenarios) and how they can be used to inform our overall risk management approach. We will continue to develop our climate risk measurement capabilities as our understanding and industry practices and guidance evolve.
+Lending to power generation by energy source ($bn)15 2.4 2.0 1.1 0.9 0.6 0.2 0.1. 
+Natural gas Nuclear Coal Hydroelectric Oil Other (unclassified) Renewables (wind, solar and other) 2.5 2.0 1.5 1.0 0.5 0.0. 
+Credit risk exposure to carbon-related assets relative to total credit risk exposure14 96.0% ($1.24tn) 4.0% ($48.5bn)
+Carbon-related assets. 
+Other credit risk exposure. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 19. 
+Potential risk Actions to mitigate risk. 
+Emerging regulatory and legal requirements ● Climate change regulations frameworks and guidance that apply to banks, insurers and asset managers are rapidly evolving. Several central banks and regulators are taking steps toward introducing or have already introduced rules to address the financial and economic risks of climate change, for example, the EU published regulations on sustainability-related disclosures which will require financial firms to disclose their approaches to considering environmental, social and governance factors as part of their advice and investment decision process. As regulations and formal requirements evolve, we will monitor such developments and update our disclosures as necessary.
+● For clients in sectors categorized as medium and high environmental risk, such as those in carbon intensive sectors, we evaluate whether clients have assessed and quantified the regulatory impacts of climate change.
+Disruptions to operations and client services ● We identify properties that we lease or own, which contain business processes and supporting applications that require enhanced facility infrastructure to mitigate site disruptions, such as those caused by extreme weather events. We classify critical environment sites based on our business risk tolerance for site-specific downtime and, among other things, site location, power supply, exposure to flooding, geological stability and other hazards.
+● We take steps to mitigate and adapt to climate change through our building design and purchasing decisions.
+● As required, we assess the impact of climate-related events (e.g., floods, hurricanes) on our businesses and client operations.
+Products and services we provide ● We maintain a diversified lending portfolio, which improves our resilience to geographic or sectoral downturns and minimizes concentrations of credit exposure.
+● Each business segment is responsible for identifying material climate-related risks and opportunities, which are integrated into risk management processes as necessary. We have conducted climate scenario analysis on parts of our portfolio to assess the impact of the transition and physical risk drivers under different scenarios, including a 2°C scenario.
+● We provide products, services and advice to assist clients in responding to climate-related risks and opportunities (e.g., carbon trading services, green bond underwriting, clean technology lending and advisory services, and responsible investing).
+● RBC GAM integrates material ESG factors into its investment processes.
+● The RBC Insurance ® platform provides policy administration for property and casualty products sold through Aviva Canada Inc., and is therefore not directly exposed to climate-related risks associated with these products. The insurance industry as a whole has exposure to longer-term shifts in climate patterns, such as rising temperatures and hurricanes, which may indirectly impact our Insurance business results.
+The ability to manage risk is a core competency of RBC, supported by our strong risk conduct, culture and effective risk management approach. We first identified climate change as an emerging risk to RBC in 2017. Since then, we have reported to senior management and the Board on our strategy and approach to managing climate risk, and in 2020, we identified environmental and social risk, including climate risk, as a top and emerging risk to RBC (see our 2020 Annual Report, pg. 55). As a global financial institution with a diversified business model, we actively manage a variety of risks to help protect and enable our business, and have integrated climate considerations into our qualitative risk appetite framework, risk measurement and risk policies.
+As identified below, RBC may be exposed to climate risk through emerging regulatory and legal requirements, disruptions in our operations and services, and the products and services we provide to our clients. Both we and our clients may be exposed to climate risk through technological changes and market forces, and may be vulnerable to physical climate risk as well. We regularly review the risks we face and reflect on the ones that affect our clients, considering:
+Management of climate risks. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 20. 
+For more information refer to our Policy Guidelines for Sensitive Sectors and Activities.
+Looking ahead. 
+We continue to place emphasis on advancing our capabilities in climate risk. In the short-term, we are focusing on enhancing:  Climate risk measurement – Developing tools that will enable the measurement of financed emissions, with work beginning in 2021, and undertaking a forward-looking view of risk exposure with a continued focus on advancing our use of scenario analysis through UNEP FI's TCFD Phase III program and the climate scenario project with the Bank of Canada and OSFI.
+ Integration of measurement into climate risk management – Beginning the development of a more comprehensive set of tools, including climate risk appetite measures and financed emissions targets; and over time integrating these measures into policies, procedures, portfolio management and monitoring tools.
+Financing guidelines. 
+RBC released commitments and updated policies on sensitive sectors and activities in 2020. These include updated restrictions on funding oil and gas development in the Arctic National Wildlife Refuge (ANWR) in Alaska. This is in addition to new policies on the Arctic more broadly and coal.
+Management of climate risks. 
+Coal The Arctic The Arctic National Wildlife Refuge (ANWR)
+RBC will not finance transactions where the proceeds will be primarily used to develop a new greenfield coal-fired power plant, thermal coal mine or Mountain Top Removal coal mining projects.
+RBC will provide financing to new clients that operate some thermal coal mining (≤60% revenue) and coal power generation assets (≤60% generation, MwH) if the client can provide clear evidence that they are: • Reducing their use of coal (e.g., diversifying, retiring assets); and/or • Reducing their GHG emissions; and/or • Converting to high-efficiency, low emissions. 
+For existing clients that operate thermal coal mining or coal power generation assets, RBC will support the client in their transition to lower carbon emissions or other technologies that lower GHG emissions.
+RBC recognizes the natural and cultural significance of the Arctic ecosystem that is threatened by a number of factors, including climate change. The harsh conditions and fragile ecosystems make it a particularly vulnerable and challenging region for energy and resource development projects. We identify resource and energy development activities in the Arctic as high risk. Transactions that directly support exploration or development in the Arctic require enhanced due diligence and must be approved by a senior oversight committee.
+The ANWR in northeastern Alaska is the largest national wildlife refuge in the United States and home to some of the most diverse and abundant wildlife in the Arctic. Due to its particular ecological and social significance and vulnerability, RBC will not provide direct financing for any project or transaction that involves exploration or development in the ANWR.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 21. 
+Our Approach to Climate Opportunities. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 22. 
+Climate-related opportunities for financial institutions are driven by client demand for capital to decarbonize and advance climate business strategies; changing client preferences and expectations of new products and services; the growth of new financial markets (e.g., carbon credits, sustainable debt); and innovations in technology, data, analytics and workplace design that help us identify new ways to reduce costs over the long-term and ensure our business is more climate resilient in the face of both physical and transition risks.
+Identification of climate-related opportunities. 
+Products, services and advice Resource efficient and resilient operations. 
+Support our clients in the net-zero transition and capture new areas of business growth in sustainable finance and responsible investment markets.
+Secure cost savings, reduce our direct impact on climate change and protect our business against the physical and transition risks of climate change.
+● In order to achieve the ambitions of the Paris Agreement, the Global Financial Markets Association estimates that climate finance and investments of $100 - $150 trillion+ cumulatively are needed by 2050, representing an average investment of approximately $3-5 trillion per year globally to decarbonize 10 sectors, including power, industrial products, transportation and real estate.
+16 ● To achieve global 2030 carbon budget objectives the Taskforce on Scaling Voluntary Carbon Markets estimates the carbon offset market will be required to grow by a factor of 15 or more by 2030 to support government efforts to mitigate climate change.
+17 ● Responsible investment has grown significantly; over 3,000 investors have signed the Principles for Responsible Investment, representing more than $89 trillion in assets under management (AUM), growing by a factor of 13 from 2006.
+18 ● Since 2005 the Canada Green Building Council identified that Leadership in Energy and Environmental Design (LEED) Canada has led to enough energy savings to power roughly 700,000 Canadian homes for a full year and water savings to fill almost 15,000 Olympic swimming pools.
+19 ● According to a 2018 global study on green building trends, building owners report that green buildings command a 7% or greater increase in asset value over traditional buildings.
+20 ● In 2020, global corporate renewable energy power purchase agreements were responsible for 23.7 GW in capacity, representing a 42% increase over 2018 capacity.
+21. 
+Figure 3 - Overview of climate-related opportunities and examples of financial value. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 23. 
+Identification of climate-related opportunities. 
+In late 2020 the Global Financial Markets Association published the "Climate Finance Markets and the Real Economy" report. This report highlights the role capital will play to facilitate the transition to a net-zero economy and predicts potential financial market opportunities to be in the trillions of dollars.16 Informed by this and our understanding of climate risks, we’ve identified potential opportunities and areas for continued growth associated with products, services and advice across our key business segments.
+The opportunities identified below need to be supported by government policy, public sector investment, technology innovation and consumer trends, especially in our key markets such as Canada, the U.S. and the U.K. We also have a role in accelerating action and supporting market development by speaking up for smart climate solutions through thought leadership, insights, cross-sector collaboration and product innovation.
+Personal & Commercial Banking. 
+Sustainable finance. 
+Provides a broad suite of financial products and services in Canada, the Caribbean and the U.S. Our commitment to building and maintaining meaningful relationships with our clients is underscored by the breadth of our products, our depth of expertise and the features of our digital solutions.
+● Financing for consumer and commercial purchases of low-emission vehicles ● Advice and lending to support clean technology firms in scaling their businesses ● Energy retrofit financing ● Digital solutions to support clients in measuring and offsetting their carbon footprint 44.5% ($5,087)
+Business segment. 
+Net income22 (% of total, millions of $)
+Potential opportunities and areas for continued growth23. 
+Wealth Management. 
+Serves affluent, high net worth and ultra-high net worth clients from our offices in key financial centres mainly in Canada, the U.S., the U.K., Europe and Asia. RBC Wealth Management offers a comprehensive suite of investment, trust, banking, credit and other wealth management solutions. Through RBC GAM, we provide asset management strategies to institutional and individual clients through our distribution channels and third-party distributors.
+● Fully integrate material ESG factors, including climate change, in RBC GAM investment processes ● RBC GAM continuing active stewardship on climate change adaptation and mitigation through engagement and proxy voting ● Further consider and integrate ESG factors, including climate when making investment recommendations ● Leverage climate data and analytics, such as carbon footprinting and climate scenario analysis to inform investment decisions, across relevant investment strategies ● Client-driven solutions and reporting related to climate change 18.8% ($2,155)
+Responsible investment. 
+Capital Markets. 
+Sustainable finance. 
+Provides expertise in banking, finance and capital markets to corporations, institutional investors, asset managers, governments and central banks around the world. We serve clients from 58 offices in 14 countries across North America, the U.K. & Europe, Australia, Asia and other regions.
+● Sustainable debt, including sustainability-linked loans and bonds, green loans and bonds, and transition finance ● Public sector and infrastructure financing to adapt to and mitigate climate change ● Structured investment solutions that include climate factors and themes ● Climate-related advice and solutions to support capital raisings including initial public offerings, private placements and due diligence in private equity and M&A transactions ● Environmental commodity trading 24.3% ($2,776)
+Figure 4 - Overview of climate-related opportunities by key business segment. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 24. 
+Products, services and advice. 
+Sustainable finance 7. 
+We believe sustainable finance represents a growth opportunity for our business and our clients. RBC Capital Markets hosted its inaugural Global ESG Conference in February 2021, which brought together over 1,600 corporate, investor and government clients alongside RBC employees from around the world to discuss how to “Leverage Sustainability as a Competitive Advantage". In 2019, we committed to providing $100 billion in sustainable financing by 2025, and we achieved our target after just two years. This target supports investments in companies and projects that are widely recognized as contributing to the net-zero, sustainable economy of the future. Achieving this target and supporting our clients in the transition to a net-zero economy are key pillars of our enterprise climate change strategy, laid out in the RBC Climate Blueprint.
+As part of achieving this goal, RBC Capital Markets has a strategy to integrate ESG factors into its core capital markets platform. The Sustainable Finance Group collaborates with partners in Global Markets and Corporate and Investment Banking to deliver advice and solutions to clients that have a positive impact on the world. As we look ahead, supporting our clients in the transition to a net-zero, inclusive economy remains our priority. To effect meaningful action, we have revised our sustainable financing target, from $100 billion to $500 billion by 2025.
+We look forward to continuing to help our clients achieve their sustainability goals by delivering advice and solutions that also aim to have a positive impact on the world. We remain committed to working with industry, government, financial institutions, civil society and academia to promote consistent tracking and measurement of sustainable finance activity, and to evolve our methodology as needed to reflect global best practices.
+Sustainable debt market Our performance in the sustainable debt market builds on our longstanding support for the growth of the green bond market. In 2020, RBC Capital Markets was the number one dealer in underwriting green bonds and maintains the largest market share of Canadian public sector green bond deals in Canada.24 RBC is also active in the global green bond market, leading transactions across multiple currencies and in the U.S. municipal finance market. Since 2014, RBC Capital Markets has hosted the Green Bond Conference in Toronto annually. In 2020, this conference was expanded to reflect the broader sustainable bond market.
+RBC also sees opportunities to diversify our investor base and support the development of the sustainable debt market with the issuance of sustainable bonds. In 2020, we published the RBC Sustainable Bond Framework under which RBC can issue green, social or sustainability bonds. We also published our first RBC Green Bond Report to provide details on the allocation of proceeds from our inaugural Green Bond in April 2019 to a portfolio of eligible green assets.
+Transition finance is emerging as an opportunity to direct capital to companies in carbon-intensive, hard-to-abate sectors with financing needs to significantly reduce GHG emissions in line with the Paris Agreement. We are supporting the development of the transition finance market in Canada, through the CSA, by working with a group of the country’s largest banks, pension funds and insurance companies to develop a transition taxonomy that is relevant for a resourcebased economy like Canada's.
+Public sector finance Investments in infrastructure are required to mitigate and adapt to climate change through the expansion of public electric-vehicle-charging stations, increased investments in public transit and measures to adapt roads and buildings to improve resilience to flooding, fires and sea-level rise.
+Management of climate opportunities. 
+For more information. 
+RBC Capital Markets Sustainable Finance Group. 
+RBC Capital Markets ESG Hub. 
+Sustainable Finance Commitment. 
+RBC Sustainable Bond Framework. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 25. 
+Tax equity investments in renewable energy Our Community Investments group provides capital for renewable energy technologies through tax credit programs in the U.S. By structuring advantageous tax credit opportunities for investors, Community Investments stimulates the development of wind and solar energy projects, among others.
+Environmental commodity trading RBC recognizes the important role of market-based approaches to reducing GHGs and, through its Environmental Commodities Desk established in 2008, was the first Canadian bank to participate in the carbon markets. RBC continues to be active in the North American and European carbon markets, trading over 665 million tonnes of CO2-equivalent credits in 2020, a growth of 20% over the previous fiscal year. To date, RBC has traded over three billion tonnes of various allowances and offsets.
+Other opportunities Opportunities to support Personal & Commercial Banking clients in the net-zero transition are emerging. A few examples include:  Low-emission vehicles – RBC maintains strong partnerships with vehicle manufacturers to provide key financing options for hybrid and electric vehicles. In 2019, we launched the Clean Energy Vehicle Financing Program to further support our clients who want to purchase low- and zero- emissions vehicles. We have seen an 82% increase in hybrid and electric vehicle financing since fiscal 2018, and a 10% increase year over year.
+ Clean technology advisory and lending solutions – RBC is one of the only Canadian financial institutions with a dedicated, national cleantech practice through the Technology and Innovation Banking Group. To support the growth of this sector, we work with a number of partners, such as MaRS and GLOBE Forum, to identify and overcome the hurdles to commercialization.
+ Energy retrofit financing – As governments introduce new energy performance policy measures and energy retrofit rebate programs for homeowners and commercial building owners, corresponding lending and advice solutions become an opportunity.
+Responsible investment. 
+Our commitment to integrating material ESG factors into our investment process spans all of RBC Wealth Management 25 (WM) including RBC GAM.
+Wealth management businesses Responsible investing became a focus for our wealth management businesses in 2020. This involved three focus areas:  Thought leadership and education – WM published several publications and newsletters to aid advisors and clients in responsible investing. Understanding the different forms of responsible investing and how to apply them to a portfolio is at the core of any conversation.
+ Managed solutions – In 2018, RBC U.K. Wealth Management launched the first discretionary ESG portfolio, RBC Global ESG Solution Suite. In 2019, RBC U.S. Wealth Management (USWM) launched RBC ESG Select Portfolios. In 2020, USWM spent time refining and expanding its suite of responsible investing solutions, and WM Canada launched RBC Multi-Asset Portfolio Solutions ESG Global Balanced Portfolio.
+ ESG consideration in equity portfolios – The Portfolio Advisory Group (PAG) performs research on and constructs equity portfolios. In early 2020, they began formally considering ESG factors when building these portfolios. This is an important step towards ESG integration. PAG is now considering ESG factors when making investments and plans for further integration in the years to come.
+Management of climate opportunities. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 26. 
+RBC Global Asset Management RBC GAM is as an asset manager, and as such we have a fiduciary duty to consider all material factors that may impact the risk-adjusted returns of our investments. We believe that integrating material ESG factors into our investment process empowers us to enhance the long-term, risk-adjusted performance of our portfolios and supports that fiduciary duty. Climate change is one such factor.
+At RBC GAM, we have long had a focus on responsible investment this includes climate change. In 2020 we took the additional steps of formalizing our strategic approach. Our approach to climate change is built on the three pillars established in our approach to responsible investment, and sets the foundation for our commitments and actions to address climate-related risks and opportunities, as described below.
+ Fully integrated ESG – All investment teams integrate climate-related risks and opportunities into their investment processes.
+ Active stewardship – We convey our views through thoughtful proxy voting, engagement with issuers and regulatory bodies, and collaboration on climate change with other like-minded investors.
+ Client-driven solutions and reporting – We align our climate-based solutions with client demand and provide transparent and meaningful reporting on climate-related issues.
+In 2020, RBC GAM undertook a number of activities to advance our commitment to climate change. We:  Continued to calculate the carbon footprint of many of our investment strategies.
+ Conducted climate scenario analysis and assessed the climate value at risk and implied temperature rise for many of our equity and fixed income investment strategies.
+ Assessed transition risks and opportunities at both company and strategy levels. This included consideration of product, operational and asset stranding risks, potential revenue generation from net-zero technologies, GHG emissions targets, and executive oversight of environmental strategy, net-zero risk management and disclosure.
+ Conveyed our views on climate change through thoughtful proxy voting and provided disclosure on RBC GAM's voting record in our 2020 Corporate Governance and Responsible Investment (CGRI) Semi Annual Report and 2020 CGRI Annual Report.
+ Engaged with issuers and regulatory bodies on climate-related issues both directly and through collaboration with other like-minded investors. In 2020, RBC GAM became a signatory to Climate Action 100+, which is an investor-led initiative that engages the world’s largest GHG emitters to seek reductions in emissions, stronger governance of climate change and enhanced climate-related disclosures.
+ Provided climate-based products and solutions to meet clients’ investment goals. This included providing fossil-fuel-free and impact strategies to institutional clients in certain jurisdictions, and providing clients with bespoke reporting on climate-related metrics.
+ Published our first RBC GAM TCFD Report 2020.
+Management of climate opportunities. 
+For more information. 
+RBC GAM Approach to Responsible Investment. 
+RBC GAM Approach to Climate Change. 
+RBC GAM TCFD Report 2020. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 27. 
+Management of climate opportunities. 
+Efficient and resilient operations. 
+Beyond our business segments, opportunities in our global operations include investments in green buildings, energy efficiency and renewable energy. Reducing carbon emissions and energy use is foundational to any corporate environmental program and an expectation of any organization that is taking action on climate change. This is why, in 2017, we became carbon neutral and committed to achieving net-zero carbon emissions in our global operations annually. We accomplish this through energy and emissions reduction programs in our property network, information technology (IT) infrastructure, and by sourcing renewable energy credits (RECs) and high quality carbon offsets to account for emissions we cannot eliminate. Our approach to achieving net-zero emissions in our operations is outlined in Figure 5. Our priority is focused on operational efficiency and increasing the amount of renewable energy sourced and produced. As we scale our sourcing of renewable electricity and improve our operational efficiency, we aim to be less reliant on carbon offsets over time, but understand the need for carbon offsets in the short-term for activities such as heating fuel and business travel.
+Reducing the emissions associated with our operations has been a focus for us for over a decade, and we continue to make progress; we had a 36% reduction in GHG emissions in 2020 over our 2018 baseline (see Figure 6 on page 28), partially due to the effects of the COVID-19 pandemic, through our own operational efficiency and green building design, and an increase of 3% in the percentage of electricity sourced from renewable and non-emitting electricity since 2018 (see Figure 7 on page 28).
+Our progress in 2020 can be attributed to a number of factors:  Globally electricity grids continue to decarbonize (a drop in emissions factors related to electricity consumption in key markets)  We purchased renewable energy credits in carbon intense grids where we operate  We rolled out new energy efficiency and Internet of Things (IoT) projects  We relocated our Europe, the Middle East and Africa (EMEA) headquarters and London-based teams to a newly built, highly energy-efficient office in London, U.K.
+Due to the effects of the COVID-19 pandemic, our GHG emissions from business travel decreased by over 60% in 2020. Decreases in our absolute GHG emissions were driven by a combination of factors including lower occupancy rates in our office spaces due to stay-at-home requirements, our continued operational efficiency programming, our increased focus on and investment in renewable energy for our operations, and continued decarbonization of electrical grids globally.
+Carbon offsets. 
+Renewable electricity sourced and produced. 
+Operational efficiency and green building design. 
+Figure 5 - Our approach to achieving net-zero emissions in our operations 100% 80% 60% 40% 20% 0%
+Operational efficiency and green building design. 
+Renewable electricity sourced and produced. 
+Carbon offsets. 
+Baseline Year 201826 97%
+Target Year 202528 25-30% 50-60% 15-20%
+Current Year 202027 62% 9% 29%
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 28. 
+Figure 6 - GHG emissions performance (Scopes 1, 2 and 3) 6. 
+Scope 1 (tonnes of CO2e)
+Scope 2 Market-Based (tonnes of CO2e)
+Scope 3 business travel (tonnes of CO2e)
+GHG emissions intensity (tonnes of CO2e/m 2) 160,000 140,000 120,000 100,000 80,000 60,000 40,000 20,000 0. 
+GHG emissions 0.10 0.09 0.08 0.07 0.06 0.05 0.04 0.03 0.02 0.01 0.00. 
+GHG intensity 2016 2017 2018 2019 2020 2025 Target 82,216 74,322 63,380 94,250 97,291 23,230 24,814 23,268 45,774 24,676 24,174 27,218 132,664 29,737 128,873 11,569 98,217 28,625 147,551 31,115 152,580. 
+Figure 7 - Percentage of electricity sourced from renewable and non-emitting sources 100% 80% 60% 40% 20% 0% 2016 75% 2019 77% 2020 78% 2025 Target 100% 2017 72% 2018 75%
+In 2020, RBC set two additional targets: reduce our absolute GHG emissions by 70% and increase our sourcing of electricity from renewable and nonemitting sources to 100% by 2025, based on a 2018 baseline. To help achieve this goal RBC entered into a long-term power purchase agreement (PPA) – a first for a Canadian financial institution – with BluEarth Renewables. The PPA directly supports the construction of two new solar farms in Alberta. The solar farms are anticipated to create more than 300 new construction jobs and inject $70 million into Alberta’s economy. Together, these solar farms are expected to provide roughly 80,000 MWh of renewable energy to Alberta’s electricity grid annually, enough to power more than 6,400 homes for a year. The installations will represent two of Canada’s largest solar farms once constructed in 2021, and the renewable energy credits gained from this project will support RBC in reducing our emissions over the next several years.
+In 2021 we purchased 98,217 tonnes of United Nations certified emission reduction credits, which offset all reported Scope 1, 2 and 3 GHG emissions2 from fiscal 2020. The purchase of offsets play a dual role of enabling our operations to be carbon neutral and supporting the advancement of the voluntary carbon offset market.
+Management of climate opportunities. 
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 29. 
+Measuring and tracking our progress. 
+Metric Target Source reference Reporting location. 
+Operations. 
+Carbon neutrality Achieve net-zero carbon emissions in our global operations annually RBC Climate Blueprint 2020 ESG Performance Report, p. 62 and 2020 TCFD Report, p. 28. 
+GHG emissions Reduce GHG emissions by 70% by 2025 RBC Climate Blueprint 2020 ESG Performance Report, p. 62 and 2020 TCFD Report, p. 28. 
+Renewable energy Increase our sourcing of electricity from renewable and non-emitting sources to 100% by 2025 RBC Climate Blueprint 2020 ESG Performance Report, p. 62 and 2020 TCFD Report, p. 28. 
+Financing and Investment. 
+Credit risk exposure by portfolio, sector and geography Not applicable TCFD Final Recommendations 2020 Annual Report, p. 66. 
+Credit risk exposure to carbonrelated assets relative to total credit risk exposure Not applicable TCFD Final Recommendations 2020 TCFD Report, p. 18. 
+Lending to power generation by energy source Not applicable TCFD Final Recommendations 2020 TCFD Report, p. 18. 
+Total value of sustainable financing Provide $500 billion by 2025 RBC Climate Blueprint 2020 ESG Performance Report, p. 48. 
+Total value of SRI assets under management by RBC companies Not applicable RBC Climate Blueprint 2020 ESG Performance Report, p. 44. 
+Total value of assets under management by RBC GAM that integrate material ESG factors Not applicable RBC GAM Approach to Responsible Investment 2020 ESG Performance Report, p. 44. 
+Community. 
+Support to universities and charities that are developing technology solutions to address climate change and related environmental issues through RBC Tech for Nature. 
+Up to $10 million in annual support RBC Climate Blueprint 2020 ESG Performance Report, p. 65. 
+RBC is committed to transparency and disclosure. We have reported annually on our key environmental performance metrics and targets since 2003. This includes data related to GHG emissions, energy use, green buildings, products and services that support our clients in the transition to a net-zero economy, socially responsible investments and E&S risk management, among other performance indicators. This section covers an overview of where you can find our performance on key metrics we use to assess climate-related risks and opportunities.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 30. 
+Appendix: RBC Europe Limited management of climate risk. 
+In 2020, the Bank of England, through the Prudential Regulation Authority (PRA), set a deadline for all financial institutions to embed climate risk management into their operations by the end of 2021. The Climate Financial Risk Forum (CFRF) jointly established by the PRA and the Financial Conduct Authority (FCA) published a guide written by industry for industry to help firms approach and address climate-related financial risks. The CFRF guide formed the basis of the U.K. climate risk project roadmap, to adhere to the PRA deadline. This project roadmap consists of four pillars: governance, risk management, scenario analysis and disclosure.
+Governance. 
+In response, the Risk Committee of the Board of Directors of RBC EL (U.K. Risk Committee) received a presentation and training from management on issues related to climate risk, which led to additional layers of governance at both the RBC EL Board and management levels, including:  U.K. Risk Committee – RBC EL Board receives updates quarterly on climate-related developments.
+ U.K. Climate Risk Steering Committee – Meets monthly to discuss climate-related developments and provide guidance on steering action. This committee includes executive membership from GRM and regional chief risk officers.
+ U.K. Senior Management Function (SMF) – The Chief Risk Officer of Europe is responsible for climate-related financial risk for RBC EL.
+ U.K. Climate Working Group – Holds monthly meetings with heads of local risk groups, regional GRM colleagues and other functions, with a mandate to collaboratively meet the PRA’s expectations to embed climate risk management and report to the SMF and U.K. Climate Risk Steering Committee.
+Risk management. 
+Risk appetite is an integral part of how we manage risk as an institution. In 2020, RBC adopted a qualitative environmental (including climate) and social risk appetite statement, and RBC EL adopted a climate risk appetite statement metric to measure the percentage of credit exposure to climate-sensitive sectors of its loan portfolio. In respect of RBC EL’s climate risk appetite statement, this metric is monitored monthly and reported on a quarterly basis to senior management.
+Scenario analysis. 
+RBC EL is currently building on RBC’s scenario analysis experience from projects with the UN in 2018/19. See page 13 for a description of this project. By the end of 2021, scenario analysis for transition and physical risks will be embedded into RBC EL’s risk management approach.
+Transition scenario analysis RBC EL is performing scenario analysis on its most material transition risk exposures. RBC EL is using the Transition Check methodology, developed by the UNEP FI and Oliver Wyman, for long-term transition scenario analysis. Its scenarios span from 1.5°C to 4°C in order to fully explore a diverse range of risks and opportunities. For shorter-term analysis of exposure to transition risks, RBC EL has developed a market risk scenario based on a potential transition-driven energy crisis. Exploration of additional short-term scenarios is ongoing.
+Physical scenario analysis RBC EL is expanding on RBC’s 2018 climate risk methodologies to capture the exposure of real estate to physical risk, beginning with RBC EL's own properties and select client groups. The approach leverages internal capabilities to assess credit metrics such as the loan-to-value ratio and expected credit loss under high and low physical risk climate scenarios.
+Disclosure. 
+RBC EL is committed to providing disclosure updates on its progress toward embedding climate risk into its operations. RBC EL has done so through RBC’s TCFD Report 2020, in addition to RBC EL’s 2020 Annual Accounts, its 2020 Internal Capital Adequacy Assessment Process and 2020 Pillar 3 disclosures.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 31 1 We originally identified climate risk as an emerging risk to RBC in our 2017 Annual Report. Environmental and social risk, including climate risk, is now identified as a top and emerging risk (see page 55 of our 2020 Annual Report). How RBC integrates the measurement, management and monitoring of climate risk into our existing risk management framework is something that we are continuing to develop.
+2 As a responder and signatory to CDP, RBC publicly reports multi-year data on absolute and intensity-based GHG emissions (Scope 1 and Scope 2) calculated according to the GHG Protocol. The GHG Protocol classifies a company's GHG emissions into three scopes. Scope 1 emissions are direct emissions from owned or controlled sources. Scope 2 emissions are indirect emissions from the generation of purchased energy minus emissions offset from renewable energy purchases. Scope 3 emissions are indirect emissions from business travel.
+3 RBC Global Asset Management (RBC GAM) includes the following affiliates: BlueBay Asset Management LLP (BlueBay), RBC Global Asset Management Inc. (including Phillips, Hager & North Investment Management), RBC Global Asset Management (U.S.) Inc., RBC Global Asset Management (UK) Limited, and RBC Global Asset Management (Asia) Limited, which are separate, but affiliated subsidiaries of RBC.
+4 For more information, see our RBC Climate Blueprint.
+5 For more information, see our RBC Climate Change Position Statement and RBC Climate Blueprint.
+6 Our GHG emissions reduction target is calculated based on a 70% reduction against our fiscal 2018 GHG emissions (Scopes 1, 2 and 3) minus emissions offset from renewable energy purchases. Aligned with the science-based target methodologies based on the guidance for real estate and office properties.
+7 For further details on eligible environmental and social categories see our Sustainable Finance Commitment.
+8 For more information, see RBC Tech for Nature.
+9 Our home equity finance portfolio includes residential mortgages, both insured and uninsured, and home equity lines of credit from personal lending.
+10 For more details, please refer to the RBC GAM TCFD Report 2020.
+11 Physical risk includes both chronic and acute risks. Chronic refers to long-term changes in climate patterns (e.g., higher temperatures, increased precipitation) and acute refers to extreme weather events (e.g., increased intensity and frequency of storms).
+12 Amounts are derived from the Credit risk exposure by portfolio, sector and geography table for the year ended October 31, 2020 as provided in our 2020 Annual Report. The amounts present credit risk exposures under the Basel regulatory defined classes and reflects exposures at default. The classification of our sectors aligns with our view of credit risk by industry. These amounts represent our total on- and off-balance sheet credit risk exposure for each sector as at October 31, 2020. These amounts do not include counterparty credit risk. The proportion of credit exposure by sector and relative sensitivity to the climate risk factors is indeterminable and may vary based on several factors such as geography.
+13 The climate risk drivers are defined in the final TCFD Recommendations (June 2017), p.5-6. The relative sensitivity of sectors to transition and physical risk drivers in. 
+Endnotes. 
+Tables 1 & 2 is based on our judgement informed by resources that include third-party publications, engagement with external experts and participation in industry working groups, including the Canadian Bankers Association TCFD Working Group and UN Environment Programme Finance Initiative's TCFD pilot project (2018).
+14 The TCFD recommends defining carbon-related assets as "those assets tied to the energy and utilities sectors under the Global Industry Classification Standard (GICS), excluding water utilities and independent power and renewable electricity producer industries". We have therefore included borrowers within Utilities, Oil & Gas, Mining & Metals (coal only), and excluded renewables, which is included in our Utilities portfolios. This represents our total credit risk exposure to carbon-related assets as a percentage of our total credit risk exposure.
+15 Lending represents the credit risk exposures that include on-balance sheet amount and off-balance sheet amount (undrawn and other). Power generation is a subset of Utilities. It includes those borrowers that generate power and excludes those that are exclusively involved in transmission and distribution or non-power generation. Calculated on a client-by-client basis using the most recent publicly available information on energy source (as a % of MWh), the proportion of which is applied to our credit risk exposure to the client, as at October 31, 2020.
+16 Global Financial Markets Association (2020) Climate Finance Markets and the Real Economy, p. 40.
+17 Taskforce on Scaling Voluntary Carbon Markets (2020), p. 8.
+18 Principles for Responsible Investment (2020).
+19 Canada Green Building Council.
+20 Green Building Council, Dodge Data & Analytics (2018) World Green Building Trends Market Report 2018.
+21 BloombergNEF (2021).
+22 For the fiscal year ended October 31, 2020.
+23 These opportunities are, in some cases, already being adopted by our different business segments but, in other cases, may or may not be advanced or adopted as we continue to evaluate our specific business segment strategies.
+24 Source: Analysis based on Bloomberg data for calendar year 2020.
+25 RBC Wealth Management (WM) includes the following affiliates: RBC Dominion Securities Inc. (Member–Canadian Investor Protection Fund), RBC Direct Investing Inc. (Member–Canadian Investor Protection Fund), Royal Mutual Funds Inc., RBC Global Asset Management Inc., RBC Phillips, Hager & North Investment Counsel Inc., RBC Wealth Management Financial Services Inc., Royal Trust Corporation of Canada and The Royal Trust Company, which are separate but affiliated subsidiaries of RBC.
+26 There are no improvements to operational efficiency as 2018 is used as our baseline year to determine future operational efficiency.
+27 RBC operational efficiency in 2020 is partially attributable to the impact of the COVID-19 pandemic and the switch to a primarily work from home environment.
+28 We continue to evaluate our target approach to achieving net-zero emissions in our operations.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix
+
+
+2020 RBC TCFD REPORT 32 ® / ™ Trademark(s) of Royal Bank of Canada. All other trademarks are the property of the respective owner(s). © Royal Bank of Canada 2021. VPS 107529 124043 (04/2021)
+Providing feedback. 
+This report is published for all stakeholders of Royal Bank of Canada and its subsidiaries.
+We welcome your questions and feedback on our approach, or suggestions for improvement, at corporatecitizenship@rbc.com.
+Climate Risk Strategic Approach. 
+Governance Framework Introduction Climate Opportunities. 
+Metrics & Targets Appendix

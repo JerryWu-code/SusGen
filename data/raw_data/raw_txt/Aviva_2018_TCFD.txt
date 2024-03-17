@@ -1,0 +1,459 @@
+aviva.com 1. 
+Aviva’s Climate-Related Financial Disclosure 2018. 
+Credit: Michel Bish
+
+
+2 Aviva’s Climate-Related Financial Disclosure 2018. 
+Our business is directly impacted by the effects of climate change. Aviva believes that unmitigated climate-related risks present a systemic threat to financial stability over the coming decades. Our responsibility as leaders is to ensure we are taking actions today to identify, measure, manage, monitor and report climate-related risks and opportunities. We are delighted that we are helping to build a long-term sustainable and superior future for our customers and investors.
+Aviva is committed to supporting a Just Transition to a low carbon economy that will improve the resilience of our economy, society and the financial system in line with the 2015 Paris Agreement on climate change. We have already invested £4.4bn in green assets since 2015. We welcome the recommendations of the Financial Stability Board’s Taskforce on Climate-related Financial Disclosures (TCFD). Aviva was a member of the Taskforce and we fully endorse its recommendations.
+Aviva is working collaboratively with the United Nations Environment Programme Finance Initiative (UNEP FI), industry associations, sector peers, academics, professional bodies, external consultancies, regulators and international agencies to develop tools and approaches to assess the potential business impacts of climate-related risks and opportunities. This will promote comparability and consistency of TCFD responses across the industry. We will continue to enhance these tools collaboratively as new research and data become available.
+This report sets out how Aviva incorporates climate-related risks and opportunities into our governance, strategy, risk management, metrics and targets as well as promoting more informed understanding of climate-related risks and opportunities by investors, lenders, insurance underwriters and others. We make this disclosure in respect of our multiple roles as an asset owner with assets to the value of £487bn, an insurer with gross written premiums of £28.7bn, and an asset manager with assets under management of £426bn.
+In particular, this report provides details of a Climate Value-at-Risk (Climate VaR) measure that we are developing in conjunction with the UNEP FI investor pilot project to provide a holistic forward-looking view of climate-related transition and physical risks and opportunities to our business. Transition risks and opportunities include the projected costs of policy action related to limiting greenhouse gas emissions as well as projected profits from green revenues arising from developing new technologies and patents. Physical risks cover the financial impact of climate change through extreme weather as well as the impact of rising sea levels and mean temperatures.
+This analysis is just the beginning of our journey to further develop metrics and targets supporting our TCFD response. In parallel, work is on-going to update our strategic response to climate change and accelerate our ambition to be aligned to the Paris Agreement’s goal of a transition to 2°C or lower.
+Foreword. 
+Angela Darlington, Group Chief Risk Officer. 
+Kirsty Cooper, Group General Counsel and Company Secretary
+
+
+aviva.com 3. 
+Aviva installs ‘first of its kind’ in the UK solar PV carport at its Norwich office.
+
+
+4 Aviva’s Climate-Related Financial Disclosure 2018. 
+Background. 
+Aviva provides 33 million customers around the world with insurance, savings and investment products. For our customers and our business, addressing climate change and supporting the transition to a low carbon future represents the largest combined health, life, liability and general insurance contract that the world could sign up to. The risks and uncertainty resulting from us not doing so are incalculable.
+Aviva has reported on climate change in our Annual Report and Accounts since 2004. Our 2018 disclosure reflects Aviva’s response to the recommendations of the Taskforce on Climate-related Financial Disclosures (TCFD)1, published in June 2017. Our response sets out how Aviva incorporates climate-related risks and opportunities into our governance, strategy, risk management, metrics and targets. It builds on the summary climate-related financial disclosure in the 2018 Annual Report and Accounts.
+These pages, the summary of the Climate-related Financial Disclosure in the 2018 Annual Report and Accounts and our summary of the TCFD Metrics and Targets are available at www.aviva.com/TCFD.
+The ways the insurance sector could be impacted by climate change are diverse. This response focuses on the Transition, Physical and Litigation risk factors and related opportunities. These were described in the Prudential Regulation Authority 2015 report2 and are defined by Aviva as follows: ● ● Transition risks and opportunities relate to the business impact resulting from the transition to a low carbon economy. This may entail extensive policy, legal, technology, and market changes to address mitigation and adaptation requirements related to climate change. As a result, depending on the nature, speed and focus of these changes, transition risks may pose varying levels of financial and reputational risk to organisations.
+● ● Physical risks and opportunities relate to the business impact arising from acute abrupt disruptive impacts such as more frequent and severe storms, extreme heat and cold, floods, droughts and fires, as well as chronic gradual impacts such as higher than average temperatures, rises in sea level and the spread of vector-borne diseases. The risk includes the impacts directly resulting from events, such as damage to property, and those that may arise indirectly through subsequent events, such as disruption of global supply chains or resource scarcity.
+● ● Litigation risks relate to the business impact that could arise from parties who have suffered loss and damage from climate change and seek to recover losses from others who they believe may have been responsible. Where such claims are successful, those parties against whom the claims are made may seek to pass on some or all of the cost to insurance firms under thirdparty contracts.
+The materiality and horizons over which climate-related risks and opportunities impact our business depend on the specific insurance products, geographies and investments being considered. For example, our general insurance business considers risks in the underwriting and pricing processes and setting the reinsurance strategy based on a relatively short time horizon (one to three years). Aviva recognises that the increased severity and frequency of weather-related losses have the potential to negatively impact our profitability. Consequently, large catastrophic losses are already explicitly considered in our economic capital modelling to ensure resilience to such catastrophic scenarios.
+In contrast, when developing our new product strategy and updating Aviva’s overall business plan, the impact of these risks and opportunities needs to be considered over a medium time horizon (three to five years). With respect to life and pensions, in areas such as setting premium rates and reserves for annuities in payment as well as our investment strategy to back those liabilities, the impact of these risks and opportunities needs to be considered over a much longer time horizon (five years plus).
+In general, transition risk is likely to materialise more rapidly than the most extreme physical impacts from climate change. Aviva can mitigate the transition risk and grasp opportunities by investing in the transition to a low carbon economy. Sectors or subsectors particularly exposed to transition risk are closely monitored and the risk to Aviva’s individual company level investments is analysed. Conversely, the most extreme physical risks present a fundamental threat to the insurance business model. The physical effects of climate change will result in more risks and perils becoming either uninsurable or unaffordable.
+It is important to note however, that many commonly used climate scenarios assume a gradualist path, in which temperatures slowly rise and climate policy is ramped up with a fairly high degree of global coordination. This does not consider the transition risk in a more chaotic policy environment, where there is lack of global coordination and policy action is taken too late and too suddenly. See for example the European Systemic Risk Board Report - Too late, too sudden3.
+To consider the impact of these risks and opportunities over a range of different time horizons, we are developing a Climate Value-atRisk (Climate VaR) measure in conjunction with the United Nations Environment Programme Finance Initiative (UNEP FI). This measure enables the potential business impacts of climate-related risks and opportunities to be assessed taking into consideration different scenarios and assumptions regarding policies, technologies, demand and various other macroeconomic factors as well as extreme weather. This measure looks at the evolution of climaterelated risks and opportunities over the next 15 years but with the ability to consider shorter time periods (three to five years) where appropriate.
+
+
+aviva.com 5. 
+Demolition of Power Station Credit: shirokazan
+
+
+6 Aviva’s Climate-Related Financial Disclosure 2018. 
+Governance. 
+Aviva has a strong system of governance, with effective and robust controls. The system of governance is proportionate to the nature, scale and complexity of the operations across Aviva businesses. It allows the Board, relevant management committees and senior management to integrate climate-related risks and opportunities in decision making and business processes.
+Aviva’s Group Chief Risk Officer and the Group General Counsel and Company Secretary are the executive sponsors overseeing this disclosure. However, other group executives and local markets are responsible for managing specific areas of the business which may impact or be impacted by climate change: insurance, asset management, operations and finance. At Board level, the Board Risk Committee and Board Governance Committee oversee our management of climate-related risks and opportunities.
+● ● The Board Risk Committee met 5 times in 2018 to review, manage and monitor all aspects of risk management, including climate-related risks and opportunities. Climate change is classified as a key risk and it is assessed for its proximity and significance to Aviva as part of our emerging risk processes.
+● ● The Board Governance Committee met 4 times in 2018 to oversee how Aviva meets its corporate and societal obligations and formally considered Aviva’s strategic approach to climate change during the year. This includes setting the guidance, direction and policies for Aviva’s customer and corporate responsibility agenda and advising the Board and management.
+The Disclosure and Audit Committees have reviewed and signedoff the contents of the 2018 Annual Report and Accounts including the summary of the Climate-related Financial Disclosure. The Plc Executive Committee has reviewed and the Board Risk Committee has reviewed and signed-off the content of this report after their feedback was incorporated. Local markets are also taking actions to respond to local regulations (for example Article 173 in France).
+In December 2018, as part of our regular training programme, Aviva’s climate-related risks and opportunities were presented to the Board. The Board will use this training to give appropriate direction to the company and ensure actions are taken to identify, measure, manage, monitor and report these risks and opportunities. We are also responding to new requirements at a local governance level. For example, in France, Company Board training on Climate risk is mandatory.
+Figure 1: Aviva’s climate governance structure. Source: Aviva.
+
+Aviva Group Centre. 
+Business Units (BUs)
+Aviva Investors London. 
+Aviva Investors (non UK entities)
+Plc Board. 
+Board Risk Committee. 
+Board Audit Committee. 
+Board Governance Committee. 
+Plc Executive Committee. 
+Group Sustainability. 
+BU Board/Executive Committee. 
+Investment Function ESG Committee (France only)
+Aviva Investors Executive Committee. 
+AI Group Responsible Investment. 
+Underwriting. 
+Insurance companies Asset manager. 
+Risk Function. 
+Capital management. 
+The Board Remuneration Committee oversees the remuneration process at the Executive Director level. It considers the extent to which individuals’ behaviour is consistent with the Aviva values (Care more, Kill Complexity, Never Rest, Create Legacy) in assessing annual bonus plans for its senior leaders and managers globally.
+Aviva Investors was one of the first large asset managers to make the integration of Environmental, Social and Governance (ESG) factors including climate risks and opportunities part of the pay criteria across the firm, including its investment desk heads. Through its Global Reward Framework, all investment employees should support responsible investment and integrate ESG issues into their investment processes. The Global Responsible Investment Team undertakes an annual evaluation of investment professionals on the extent to which they supported ESG integration during the year. The results of the evaluation are subsequently shared with the heads of each investment function as well as Aviva Investors’ Head of Reward. This ensures that commitment to ESG is reflected in compensation outcomes so that a modest but meaningful part of their annual compensation is linked to ESG performance.
+Opportunities to support the transition to a low carbon future
+
+
+aviva.com 7. 
+Strategy. 
+I https://www.ipcc.ch/sr15/
+Our Strategic response to climate change. 
+In our strategic response to climate change, published in 2015, we focussed on five pillars: ● ● Integrating climate risk into investment considerations - Aviva Investors committed in 2012 to integrate ESG factors across all asset classes and regions, to deliver long-term sustainable and superior investment outcomes for our customers.
+● ● Investment in lower carbon infrastructure - Aviva announced in 2015 an investment target of £500m annually for the next five years in lower carbon infrastructure.
+● ● Supporting strong policy action - Aviva continues to provide strong and vocal support for capital market reform, to mobilise the trillions of pounds required to transition to a low carbon economy and properly correct existing market failures with respect to climate change.
+● ● Active stewardship on climate risk - Aviva actively engages with companies to achieve climate resilient business strategies.
+● ● Divestment where necessary - Aviva aims to use our shareholder influence to encourage companies to transition to a low carbon economy and divest highly carbon-intensive fossil fuel companies where they are not making sufficient progress towards the engagement goals set.
+Alongside this strategic investment response, Aviva has continued to further integrate consideration of climate-related risks and opportunities into our insurance products. We for example: ● ● Optimise reinsurance programme to mitigate impact of extreme weather risk on our business and customers. GI reinsurance is now set on an annual aggregate basis and on a per occurrence basis in order to take account of the potential increased frequency of severe weather events. Our exposure to flood risk for UK residential customers is managed by ceding certain policies to FloodRe.
+● ● Promote customer awareness and risk prevention measures of climate-related issues such as air pollution. For example, Aviva Poland has supported the installation of air monitors in local communities and enabled customers to access up to date information about air pollution levels on their smartphones.
+● ● Help customers to build resilience to extreme weather such as the upgrade to Commercial Property Insurance in Canada which provides a ‘build back better’ element.
+● ● Provide products and services that support customers’ choice to reduce their environmental impact, such as bespoke electric vehicle policies in France and supporting the sharing economy in Canada.
+● ● Limit our underwriting exposure to the most carbon intensive sectors of the economy through restrictions in the terms of our Group Underwriting Boundaries for sectors such as mining and power generation. In line with our commitments to manage climate change. Aviva Global Corporate and Specialty team has announced an immediate move away from insuring fossil fuel power production to renewable energy generation in the UK.
+Aviva continues to deliver in all areas of our current climate change strategy. However, the Intergovernmental Panel on Climate Change (IPCC) Global warming of 1.5°C report, published in October 2018I indicates the need to take dramatic action now to keep warming below 1.5°C and the potential severe consequences if this is not achieved. As a result of this emerging information, the risk of climate tipping points being reached causing runaway warming and our internal analysis of the potential impact of climate change, work is on-going to update our strategic response to climate change and accelerate our ambition to be aligned to the Paris Agreement’s goal of a transition to 2°C or lower.
+Primary schoolchildren plant sunflowers. Credit: 10:10
+
+
+8 Aviva’s Climate-Related Financial Disclosure 2018. 
+Integrating climate risk into investment considerations. 
+When integrating the management of climate-related risks and opportunities into our liquid asset portfolios, Aviva Investors considers several layers: macro and sectoral analysis; risk management; investment decisions; climate change risk assessment and alignment as set out in figure 2.
+Figure 2: Integrating climate risk into investment considerations. Source: Aviva.
+
+Macro and Sectoral analysis Climate change impact is intergrated into Aviva Investors “house view” document.
+Risk Management Aviva Heatmap Algorithm scores and additional metrics are used.
+Investment decisions Fund managers and analysts consider climage change impacts on their analysis. 
+Climate change risk assessment. 
+Alignment. 
+Climate change impact is integrated into Aviva Investors’ House View. This document sets out our macro economic views and is the foundation for strategic allocation decisions across all portfolios and multi-asset funds. The House View also highlights the key trends that could impact our investment portfolio. Aviva Investors’ analysts and responsible investing team perform rolling deep dives by sector to establish the key climate-related risks and opportunities.
+With regards to stock selection, fund managers and analysts consider climate change impacts in their company research and consult with the responsible investment team. When meeting with senior management of the companies we invest in, Aviva challenges them about the key risks, including climate change impacts where relevant and increasingly are seeing companies’ management proactively raising climate change in their discussions. Fund managers, risk managers and Aviva’s Chief Investment Officers have access to a growing suite of tools to assess climate change risk at a portfolio level. This includes MSCI’s ESG RatingsII and carbon foot-printing information, which is embedded in Aviva and Aviva Investors’ risk systems, as well as analysis provided by Carbon DeltaIII and Four Twenty SevenIV for Aviva France.
+On a bi-monthly basis, Aviva Investors’ portfolio risk team undertakes an analysis that includes a review of the Aviva Heatmap Algorithm (AHA) scores, and additional metrics (for example carbon. 
+II MSCI ESG Ratings helps investors identify environmental, social and governance (ESG) risks and opportunities within their portfolio. Companies are rated on a ‘AAA’ to ‘CCC’ scale according to their exposure to industry- specific ESG risks and their ability to manage those risks relative to peers.
+III Carbon Delta is an environmental fintech research firm that specialises in identifying and analysing the climate change resilience of publicly traded companies.
+IV Four-Twenty-Seven is a leading provider of market intelligence on the economic risk of climate change and specifically provides climate risk scores for listed securities and site-specific risk assessments for real assets.
+V assesses the water intensity of a company’s operations and exposure to water stresses or scarce regions.
+VI provides an assessment of a company’s water management strategy and performance.
+VII 2018 Aviva climate change stocktake - https://www.aviva.com/content/dam/aviva-corporate/documents/socialpurpose/pdfs/2018-aviva-climate-change-stocktake.pdf emissions exposure, carbon emissions management, water stress exposureV and water managementVI), looking at any directional trends in the score as well as movements relative to the portfolio’s benchmark. If a company is in a sector that has a high exposure to climate change then the weighting of climate change in the overall AHA score is increased to reflect such a risk. In the example below Company A has a higher overall score than Company B and is therefore performing better in term of ESG considerations. Fund managers take this scoring into account in their investment decisions.
+Table 1: Example of Aviva’s Heatmap scores for two electric utility companies. Source: 2018 Aviva climate change stocktakeVII.
+Company A Company B. 
+Average Final Voting Score F D. 
+Latest Voting Score F D. 
+Governance Rating Global C B. 
+Governance Rating Home C B. 
+ESG Rating A BBB. 
+Controversies Overall Flag Green Yellow. 
+Accounting Governance Risk Rating B C. 
+Carbon emissions exposure 5.9 5. 
+Carbon emissions management 5.7 5.8. 
+Water stress exposure 3.9 3.5. 
+Water management 3.4 1.4. 
+AHA score 6.38 6.03. 
+With respect to property, real estate debt and infrastructure, Aviva Investors, who run the vast majority of Aviva’s real assets, have recently moved to an integrated system to monitor, manage and reduce the environmental (and other ESG) impacts across our real asset categories. This system enables us to identify areas in which we can improve our environmental performance and meet both our annual and our longer-term commitments. For example, for real estate, Aviva considers flood risk and building-related energy efficiency. This strengthens our investment analysis and decisionmaking, reducing risk and enhancing long-term value of our own and our clients’ investments.
+Our local markets are also engaged. For example, Aviva France has been developing its understanding of the best way to incorporate climate risk into the business. In 2018, it published its second ESG and Climate report4 in line with the requirements of the French law for energy transition and green growth. As part of this exercise, Aviva France evidenced how, through its asset manager (Aviva Investors France), it incorporates ESG requirements into its investment process and manages climate change related risks impacting its investments. The report covers how Aviva France aims. 
+TEXT BOX TO FORCE FOOTNOTE TO NEXT PAGE
+
+
+aviva.com 9 to accelerate their ambition to be aligned to the Paris Agreement’s goal of a transition to 2°C or lower. Aviva France is now refining its approach to translate climate change considerations into targets using scenario analysis, green investments and carbon foot-printing information.
+The Aviva Staff Pension Scheme Board has also recently commenced a review of their wider ESG policy which incorporates climate change risk. In this regard, they are fully engaged with Aviva Plc and the approach it takes as an asset owner.
+Investment in lower carbon infrastructure. 
+Green Bonds. 
+Lower Carbon Infrastructure £4.4bn of Green Assets 1.3 3.1. 
+Source: Aviva. 
+Aviva committed to investing £2.5bn in lower carbon infrastructure between 2015-2020, with the intention of delivering 100,000t of CO2 savings per year. Aviva currently holds £4.36bn of green assets, including £3.1bn in lower carbon infrastructure investments (mainly solar, wind and waste-to-heat biomass) and £1.26bn in green bonds.
+Supporting strong policy action. 
+Ensuring a smooth transition to a low carbon economy is key. Markets have failed to recognise the potential impact of climate change and the transition to a low carbon economy in company valuations. Addressing this failure requires action throughout the. 
+VIII See for example 2018 Aviva climate change stocktake - Case Study: Royal Dutch Shell. 
+IX 2018 Aviva climate change stocktake - Voting activities on climate related issues capital markets system. Aviva continues to support momentum towards implementation and tightening climate policy at national, regional and global level. Since Aviva’s climate change strategy was published in 2015, Aviva has supported multiple key studies and policy reports investigating the connection between climate change, sustainability and finance and recommending action for policymakers and regulators5-13. We believe that our ideas will have the strongest impact through collaboration with others around the world – from the finance sector, national governments and multilateral institutions. We have therefore been instrumental in calling for and participating in a number of important cross-sector initiatives to encourage sustainable finance1, 14 & 15.
+Active stewardship on climate risk. 
+Aviva Investors’ Corporate Governance and Corporate Responsibility Voting Policy updated in 201816 expects companies to begin reporting climate risks, strategy, policies and performance against the TCFD's recommendations. This includes stress testing of business models and assets against various climate policy scenariosVIII. Aviva Investors will begin voting against the Annual Report and Accounts of companies operating in high impact sectors that have not made sufficient progress in providing the market with relevant climate disclosures.
+Figure 3: Active voting on resolutions related to climate issues (2015-2018, as of 17/10/2018). Source: 2018 Aviva climate change stocktakeIX.
+Number of resolutions 2015 0 10 20 30 40 50 60 70 2016 2017 2018. 
+Climate change strategy Greenhouse Gas Deforestation. 
+Methane Renewable Energy Water. 
+This billboard is not an ad. It’s an air filter which cleans air pollutants generated by 91K cars.
+
+
+10 Aviva’s Climate-Related Financial Disclosure 2018. 
+In addition to our voting activities (as highlighted in figure 3), we also engage with companies both individually and collaboratively on climate change related issues. In 2018 we engaged with 91 companies on climate change. Our engagement is not limited to the companies for which we are shareholders. Aviva Investors also engage with businesses we lend to via the debt markets. For example, through our engagement, with the cooperation of other like-minded asset owners, the oil majors have significantly shifted their stance to broadly welcoming the Paris accord. Aviva focused on in-depth engagement with companies strategically exposed to climate-related risks due to their significant carbon impact and exposure to transition risks and opportunities.
+Divestment where necessary. 
+Aviva recognises that policy, technology and demand/pricing drivers will influence the transition to a low carbon economy. Not all companies will successfully make this transition, but Aviva wishes to support those companies that are willing and able to play a positive and active role. Aviva will divest from highly carbon-intensive fossil fuel companies where we consider they are not making sufficient progress towards the engagement goals set. This decision will not be taken lightly and only where we believe that divestment is a balanced and proportionate response.
+In 2015, we identified 40 companies with more than 30% of their business revenue associated with thermal coal mining or coal power generation and undertook focused engagement with them, including 51 in depth conversations. These meetings set out our expectations on their governance, business strategy, operational. 
+X Figures based on the revised 2018 Urgewald Coal Exit list – constituent companies have changed since 2017.
+efficiency, responsible climate and energy policy advocacy. We also asked whether any of those companies have any plans for new investment in coal generating capacity, as we believe this would be inconsistent with the Paris Agreement’s goal of limiting the global temperature rise to below 2°C. We continue to engage with these companies to encourage them to transition. We believe it is better to be an engaged owner lobbying for change rather than divesting and walking away as these are the companies in need of the greatest challenge from their shareholders. Indeed, five companies we have engaged with, have committed to science-based targets (i.e. targets adopted by companies) to reduce Greenhouse gas emissions in line with the level of decarbonisation required to keep the global temperature increase to 2°C or lower compared to pre-industrial temperatures, as described in the Assessment Report of the IPCC. Whilst others have signed no new Coal pledges, or have diversified their operations away from thermal coal, where we do not see any prospect of movement then we will divest. To date, we have divested Aviva’s own assets from 17 thermal coal mining and power generation companies from the Coal 40.
+In 2018, we were asked by Urgewald - an environmental and human rights Non-Governmental Organisation to review our holdings against their Urgewald CoalExit list of 120 coal companies. Aviva actively manages positions within our beneficial holdings in 15 of these companies with a total market value of £415m or 0.09% of our total financial assetsX. Ten of the 120 companies on the list are companies that we have put on our investment stoplist. More details of this engagement can be found on www.aviva.com/socialpurpose.
+Aviva Stadium: Stunning Green Sports Park Completed in Dublin In 2016 the Aviva-sponsored stadium in Dublin switched to using electricity from renewable sources, saving nearly 3000 tonnes of CO2 per year and becoming the first six nations stadium to do so.
+
+
+aviva.com 11. 
+Risk management, Metrics and Targets. 
+XI The risk should be subject to management action and be fully understood and quantified.
+XII Scope 1 and Scope 2 emissions.
+XIII Where we refer to Shareholder funds this represents shareholder funds (Figures 8,10, 13 and 14) and the shareholder component of participating funds. Where we refer to Shareholder and participating funds this represents shareholder funds and all participating funds (Figures 5,6 and 9). In both cases the data has been taken at year end 2018 from our internal risk system used to monitor credit risk limits and as a source for Solvency II disclosures.
+Aviva’s risk management framework sets out how we identify, measure, manage, monitor and report on the risks to which we are, or could be, exposed and the accountabilities of management, the risk function and internal audit with respect to enterprise-wide risk management.
+Aviva’s process for identifying climate-related risks and opportunities. 
+Aviva’s risk spectrum (see figure 4) determines the significance of the impact and timescale for different external issues. Aviva considers climate change to be a material long-term risk to our business model, and a proximate riskXI, because its impacts are already being felt. We are therefore taking action now to mitigate and manage the impacts of climate change both today and in the future. Through these actions, Aviva continues to build resilience to climate-related transition, physical and litigation risks including the risk of assets becoming stranded.
+Figure 4: Aviva Group Risk Spectrum - October 2018. Source: Aviva.
+En vir om en ta l. 
+He alt h. 
+So ci et al. 
+Ge o- po lit ic al. 
+Po lit ic al. 
+Re gu la to ry. 
+Fi na nc ia l M ar ke ts mo de l t hr ea ts. 
+Ec on om ic &
+Te ch no lo gy &
+b us in es s. 
+Becoming Proximate (Mobilise)
+Proximate (Action)
+Less remote (Analyse)
+Remote (Monitor)
+Climate related risk. 
+Aviva’s process for assessing, managing and monitoring climate-related risks and opportunities. 
+We use a variety of metrics and tools to manage and monitor our alignment with global or national targets on climate change mitigation as well as the potential financial impact of climaterelated risks and opportunities on our business. Whilst recognising the limitations of the metrics and tools used (for example the scope of emissions or sectors covered) and that some are backward looking, we believe they are still valuable in supporting our climaterelated governance, strategy and risk management.
+Transition risks and opportunities. 
+For transition risks and opportunities, the metrics and tools used include: ● ● Carbon foot-printing of investments ● ● Aviva’s operational carbon emissions ● ● Portfolio Warming Potential. 
+Carbon foot-printing of investments We use carbon foot-printing and weighted average carbon intensity data (tCO2eXII/$m sales) to assess and manage the exposure of our assets to a potential increase in carbon prices in both our shareholder and participating fundsXIII. Despite being backward looking, this measure provides a good proxy for assessing exposure of our investments to a potential increase in carbon prices. Carbon intensity measures how carbon efficient Aviva’s investment portfolio is in terms of emissions. It also allows for comparison regardless of portfolio size but is very sensitive to outliers.
+In line with the TCFD guidelines, we monitor the carbon footprint of our credit and equity portfolio on a regular basis. We measure the “weighted average carbon intensity” – i.e. the carbon intensity of our portfolio weighted by the size of our investments. The carbon intensity metric provides a proxy assessment of a company’s exposure to a potential increase in carbon prices and its exposure to changes in climate and energy policies and a shift to low-carbon technologies more generally.
+Figure 5: Weighted average carbon intensity (tCO2e/$m sales) of corporate credit and equities in Aviva’s shareholder and participating funds as at 31/12/2018. Source: Aviva/MSCI.
+189 tCO2e / $M Sales. 
+Credit 0 20 40 60 100 120 140 160 180 200. 
+Equities Credit + Equities 185 186 100 80 60 40 20 120 0. 
+Carbon intensity data coverage (%) 37% 97% 42%
+Weighted average carbon intensity Carbon intensity data coverage (%)
+Represents 39% of Aviva's participating & shareholder funds. 
+Represents 6% of Aviva's participating & shareholder funds. 
+We have the objective to reduce over time the carbon intensity of our investment portfolio in order to reduce its sensitivity to an increase in carbon prices. This could be achieved through reducing our exposure to the most carbon intensive sectors such as utilities, oil and gas, and building materials.
+
+
+12 Aviva’s Climate-Related Financial Disclosure 2018. 
+Figure 6: Aviva’s exposure to carbon intensive sectors in its shareholder and participating funds (corporate credit and equities) as at 31/12/2018. Source: Aviva / MSCI.
+0% 10% 20% 30% 40% 50% 60% 70%
+Share of sector in Aviva’s shareholder and participating funds (corporate credit and equities) Sector’s contribution to weighted average carbon intensity (%) 0% 4%
+Building materials 3% 5%
+Oil & Gas Utilities 7% 69% 80% 90% 100% 90%
+Other 22%
+Figure 6 shows that these carbon intensive sectors represent 10% of our corporate credit and equities shareholder and participating funds but contribute 78% of the weighted average carbon intensity. The utilities sector is the largest single contributor representing 7% of the portfolio but it contributes 69% of the weighted average carbon intensity.
+Aviva’s operational carbon emissions We have measured our operational carbon emissions since 2004 and disclose related metrics on an annual basis in our public filings. We report on the Greenhouse gas emission sources on a carbon dioxide emissions equivalent basis. Aviva has been carbon neutral in respect of our operations since 2006 through the purchase and retirement of carbon offsets from the voluntary carbon market.
+Figure 7: Absolute operational carbon emissions tCO2e. Source: Aviva.
+Scope 1 – natural gas, fugitive emissions, oil, and company owned cars 10,000 2018 2017 0 20,000 30,000 40,000 50,000 60,000 70,000 80,000. 
+Scope 3 – business travel and grey fleet waste and water. 
+Scope 2 – electricity 17,915 31,280 19,305 17,739 25,012 16,198. 
+Aviva 2030 target 43,874 tCO2e Aviva 2020 target 73,874 tCO2e. 
+We have already achieved our 2020 operational target set in 2010 by reducing our emissions by 60% and we have a long-term reduction target of 70% by 2030 compared to this 2010 baseline. Aviva was recognised as one of 20 companies that reported 100% of their Scope 1 emissions. More details of this analysis can be found on www.aviva.com/social-purpose.
+In 2015 we conducted a carbon footprinting exercise of our wider supply chain in the UK with the Carbon Trust. Approximately 73% of our spend is with Professional Services companies. The estimated associated emissions amounted to 780,000 tCO2e. We do not believe these figures will have changed significantly since then but will regularly review them.
+Portfolio Warming Potential Aviva is exploring the use of a number of different emerging metrics designed to help analyse the alignment of investment portfolios to the Paris agreement’s goal of limiting the global temperature rise to below 2°C. We set out our initial findings from this analysis below.
+However, we fully anticipate that these approaches will evolve over time and be improved in the light of new research, data and emerging best practice.
+Aviva has used Carbon Delta’s warming potential metric to assess our corporate credit and equities shareholder funds’ alignment with the Paris agreement 2°C target. This warming potential methodology captures investments’ Scope 1 emissions as well as investments in low-carbon technology to provide a forward-looking perspective. We would like to extend this analysis to our whole portfolio over time.
+The “Portfolio Warming Potential” is calculated as a weighted average of individual issuers’ warming potential. This is based on the alignment of each company within the portfolio to the sectoral Greenhouse gas emission intensity needed for each sector to make its contribution to reach the global 2°C target.
+The actions we are taking to reduce our investment exposure to carbon intensive sectors over time should lead to a reduction of the warming potential of our investment portfolio. The analysis found that Carbon Delta’s warming potential of our equity portfolio at 3.4°C was 0.5°C below that of the FTSE 100 and the warming potential of our corporate credit portfolio at 3.2 °C was 0.2 °C below that of the iBoxx GBP Liquid Corporate Large Cap Index. This analysis does not include our investments in sovereign, real estate and infrastructure assets where we have heavily invested in green assets.
+Figure 8: Corporate credit and equities warming potential (in °C) for Aviva’s shareholder funds as at 31/12/2018. Source: Carbon Delta.
+3.9ºC 3.4ºC. 
+Portfolio warming potential in ºC 0
+1 2
+4 3
+5. 
+Equity Credit. 
+Paris 1.5ºC/2ºC Paris 1.5ºC/2ºC. 
+FTSE 100 3.4ºC 3.2ºC iBoxx GBP Corporate large Cap Index Aviva Aviva. 
+COP 21 ambition. 
+Represents 2% of Aviva’s shareholder funds. 
+Represents 31% of Aviva’s shareholder funds. 
+Aviva has also used the Paris Agreement Capital Transition Assessment (PACTA)17 model developed by 2 Degrees Investing Initiative to analyse alignment of our investment portfolio to a 2°C level set in their methodology. The PACTA model tests the alignment with the International Energy Agency’s 2°C scenario and focusses on three of the most carbon intensive sectors for which energy transition can be estimated with reasonable relevance: the utilities sector, the fossil fuels sector and the automotive sector.
+Figure 9: PACTA analysis as at 31/12/2018 for Aviva’s utilities shareholder and participating funds. Source: 2 degrees investing initiative – PACTA tool.
+Aviva’s portfolio warming trajectory in ºC 0
+2 4
+6. 
+Equity Credit. 
+Coal Gas Renewable. 
+Utilities. 
+Nuclear 4ºC – 6ºC 2ºC – 4ºC <2ºC <2ºC <2ºC <2ºC <2ºC 4ºC – 6ºC 2ºC Paris Agreement Target
+
+
+aviva.com 13. 
+Figure 9 shows how the utilities sector exposure of our corporate credit and equities shareholder and participating funds are aligned to the 2°C climate warming trajectory target at a 2023 horizon. It provides insight into the transition risk by looking through to the mix of energy sources (coal, gas, renewables and nuclear) used by the utility issuers of the securities we hold. Where we are below the red line, this indicates alignment with the 2°C target at a 2023 horizon. Conversely, where we are above the red line this indicates the portfolio is not aligned with respect to this energy source. At a more granular level, it shows alignment with respect to gas and nuclear energy sources. We have fed this analysis into investment strategy reviews of our businesses. Our £3.1bn unlisted infrastructure investments in renewables are not captured in this analysis.
+Physical risks and opportunities. 
+For physical risks and opportunities, the metrics and tools used include: ● ● Monitoring of sovereign risk ● ● Global Real Estate Sustainability Benchmark (GRESB) ● ● Weather-related losses. 
+Monitoring of sovereign risk. 
+Aviva has used the Notre-Dame University’s Notre Dame-Global Adaptation Index (ND-GAIN)XIV to measure our sovereign holdings exposure to climate related risks and opportunities (See figure 10). ND-GAIN measures a country’s vulnerability to climate change and its readinessXV. In addition to our risk monitoring, we engage around the world with finance ministries on climate change, adaptation, mitigation and resilience and will continue to increase our profile in this regard.
+XIV https://gain.nd.edu/our-work/country-index/
+XV ND-GAIN measures overall readiness by considering three components: economic readiness, governance readiness and social readiness.
+XVI GRESB assesses and benchmarks the ESG performance of real asset investments, providing standardised and validated data to capital markets. https://gresb.com/
+Figure 10: Aviva’s top sovereign holdings shareholder funds versus ND-GAIN as at 31/12/2018 (ND-GAIN index 0-100 Higher is Better). Source: Aviva 2018/ NDGAIN 2016.
+% Soveriegn exposure. 
+NG-GAIN score. 
+UK 40 60 65 70 75 49% 18% 12% 2%
+France Italy Poland Germany % Soveriegn exposure ND-GAIN score 55 50 45. 
+Canada 6% 2% 60 50 40 30 20 10 0. 
+For sovereign bonds, Aviva is predominantly exposed to sovereigns from developed markets where physical climate change risk is less likely to have very severe implications for sovereign debt. Aviva has no significant exposure to countries highly vulnerable to climate change and our exposure to moderately exposed countries is captured as part of our risk management and monitoring of sovereign risk. Aviva has also no material exposure from sovereigns whose credit quality is reliant on oil and gas production.
+With respect to transition risk, the Organisation for Economic Cooperation and Development (OECD)18 found that for G20 sovereigns, policies associated with the transition could be growth enhancing.
+Global Real Estate Sustainability Benchmark (GRESB)XVI When acquiring property, Aviva Investors commissions an Environmental Assessment Report, which covers important potential risks, such as flood exposure and historic and potential pollution. Within our real estate portfolio, we use flood mapping to monitor exposure and GRESB to understand the climate resilience and broader sustainability of individual properties and funds. In 2018, we assessed the performance of 18 property funds and Aviva Investors has achieved 32 green stars. Whilst three funds have improved their. 
+Aviva Raises Awareness of Plastic Pollution In 2018 Aviva UK were successful in removing all single use plastic coffee cups internally saving an estimated 7m cups per year and over 50 tonnes in waste.
+
+
+14 Aviva’s Climate-Related Financial Disclosure 2018 performance over the year, the remaining fifteen recorded a small reduction in their overall score. This is because the benchmark is designed to encourage continual improvement in the entities that it is assessing, and as such the scoring methodology becomes more challenging each year. We will continue to work in new areas to maintain and improve our scores.
+Most of our real estate and infrastructure investments are in Europe. As part of our ESG integration approach, all infrastructure projects that are being considered for either debt or equity funding are subject to an ESG due diligence process. Depending on the degree of control we have of an infrastructure asset – i.e. whether we are debt or equity investors – we consider the following ESG issues: Environment (i.e. habitat management, displaced carbon and biodiversity); Social (i.e. labour rights, health and safety, as well as the impact on local community) and Governance (i.e. licenses, permits and planning permissions and verification of relevant ISO certifications of contractors).
+For our infrastructure equity investments, we look to appoint contractors, suppliers, etc. for each investment with acceptable ESG credentials and seek to work with such partners to monitor adherence to our ESG-integrated process.
+Weather-related losses For insurance liabilities, we recognise that weather-related events may become more frequent, severe, clustered and persistent. The speed of this change and the ability of society to adopt mitigation strategies may impact our ability to profitably provide products for our customers at affordable levels over the longer term. This has driven a focus on explicitly considering the impact of climate change and weather in financial planning and pricing. Our general insurance business exposure is limited by being predominantly in Northern Europe and Canada. We require our general insurance businesses to protect against all large, single catastrophe events in line with local regulatory requirements, or where none exist, to at least a 1-in-250year event.
+Factors determining these decisions include capital efficiency, appetite for general insurance earnings volatility, predictability of cash flows and dividend paying capability and reinsurance market competitiveness. Aviva Canada is moving to requiring reinsurance cover up to at least the 1-in-500-year level, in line with government requirements.
+In the medium to longer term, there is potential for the premiums we need to charge to cover our risk exposure, to increase in line with intensity and frequency of extreme weather. Looking across all of our property insurance portfolios, the proportion of property insurance premiums attributable to weather-related losses is currently fairly small, so impact on premiums would be generally small. Naturally there are areas at higher risk, which would see disproportionate increases in premiums. In those cases, we consider that the continued presence of industry wide initiatives like Flood Re in the UK and development of risk mitigation techniques would be vital in ensuring widespread access to insurance for all.
+A change in climate can also mean that disease may spread to new and expanded geographic areas. Aviva uses external reinsurance for its life business to manage its exposure to life insurance risks and to manage capital in an efficient manner in line with the Aviva Group’s risk appetite.
+Figure 11: Weather-related losses impact. Source: Aviva.
+2008 0% 100% 200% 300% 400%
+Weather loss by business unit (afer reinsurance) 2010 2012 2018 2016 2014. 
+Better than expected. 
+Worse than expected. 
+UK Ireland All Canada France. 
+Impact of weather on Aviva’s Combined Operating Ratio (afer reinsurance) -3% -1% -2% 0% 1% 2% 3% 2014 2018 2016 2017 2015. 
+Positive impact. 
+Negative impact. 
+UK & Ireland Europe Canada Total. 
+We build the possibility of extreme weather events into our planning to ensure our pricing is adequate. Catastrophic event model results are supplemented by in-house disaster scenarios. We have purchased property catastrophe protection up to a 1-in-250-year return period or beyond that limits Aviva’s losses depending on territory from a relatively low retention level (£150m on a per occurrence basis and £175m on an annual aggregate basis) up to 1-in-250.
+Litigation. 
+The risk posed to Aviva through the underwriting of Directors and Officers liability insurance is very low. The most likely insurable loss would be defence costs. Litigation is possible under trustees’ policies underwritten by Aviva and litigation has recently been threatened against trustees of large, high profile pension schemes regarding a lack of action on climate change. We may also have holdings in companies that could be subject to regulatory and legal challenges due to their climate-related impacts and/or the level of their disclosures. The direct impact from legal challenges and any associated fines are likely to be limited to specific companies and the risk should be mitigated by diversification within our portfolio. Aviva recognises the growing trend in climate-related litigation and has assessed its potential exposure to litigation risks accordingly.
+There are two main direct litigations trends that can most likely impact Aviva. The first is litigation which seeks to get companies to increase their disclosure on climate change (physical and transition risks). In addition, this could extend to the climate-related risk of the assets in which the company invests, the impact of projects, and companies that the company finances. The second trend is litigation that targets asset owners, such as Aviva UK Insurance, or asset managers, such as Aviva Investors, in relation to the climate impact of their investments.
+
+
+aviva.com 15. 
+Aviva’s Climate VaR measure. 
+Climate-related risks and opportunities have the potential to impact insurers balance sheets as well as the long-term business model. Traditional approaches based largely on backward looking analysis may need to be refined or enhanced to capture these risks going forward. In order to address this challenge, Aviva is developing a Climate VaR measure, in conjunction with the UNEP FI investor pilot project and Carbon Delta an environmental FinTech as well as Elseware a risk management and quantification expert consultancy. This measure enables the potential business impacts of future climate-related risks and opportunities to be assessed in each of the IPCC scenarios and in aggregate (See Appendix for more details of our Climate VaR methodology).
+In order to support this initiative, an internal inter-disciplinary team was created with representation from across the business to manage the project day-to-day and an expert panel was set-up to review and challenge the main assumptions made in the selection, development and modelling of the scenarios. The panel included internal experts as well as three external experts (Simon Dietz, Nick Robins, Swenja Surminski) from the Grantham Research Institute on Climate Change and the Environment at the London School of Economics.
+The IPCC has identified four potential future scenarios with respect to climate changeXVII. Each scenario describes a potential trajectory for future levels of greenhouse gases and other air pollutants and can be mapped to potential temperature rises and levels of mitigation required: 1.5°C (emissions halved by 2050), 2°C (emissions stabilise at half today’s levels by 2080), 3°C (emissions rise to 2080 then fall) and 4°C (emissions continue rising at current rates).
+XVII The IPCC Fifth Assessment Report (AR5) provides an overview of the state of knowledge concerning the science of climate change. See https://www.ipcc.ch/report/ar5/syr/
+Figure 12: The choice we face now. Source: TCFD.
+The IPCC Global warming of 1.5°C report, published in October 2018, indicates the need to take dramatic action now to keep warming below 1.5°C and the potential severe consequences if this is not achieved. The scale of change needed to meet the 1.5°C target is unprecedented; industry will have to slash their CO2 by 65% to 90% by 2050 and investments in low-carbon energy technology and energy efficiency will need to increase 5-fold by 2050 versus 2015 levels.
+Buildings and transport will also need to shift heavily towards green electricity and tools to remove CO2 emissions from the atmosphere, such as carbon capture and storage (unproven at scale), will be needed to store 100 to 1,000 gigatons of CO2 over the century.
+In the IPCC’s 4°C scenario which corresponds to emissions continuing to rise at current rates, the transition risk is clearly more limited but the potential physical risks are significant and. 
+U.S. Department of Agriculture (USDA) Agricultural Research Service Biological Science Technician harvesting honey Photo: USDA
+
+
+16 Aviva’s Climate-Related Financial Disclosure 2018 the likelihood of tipping points being reached is much higher. In particular, one can expect increased precipitation, coastal and river flooding, periods of extreme heat and cold, wildfires and droughts. In addition, sea levels could rise significantly resulting in major displacement of populations as well as spread of diseases currently typical only in tropical areas to more temperate areas.
+Finally, particularly in the more extreme warming scenarios it is also important to consider whether climate may trigger changes in social attitudes which result in increased litigation against companies for failing to reduce emissions or to disclose climate risks transparently.
+Figure 13 compares a plausible range of outcomes (5th to 95th Percentile) from our initial Climate VaR analysis for the different scenarios considered. As can be seen from this analysis Aviva is most exposed to the BAU 4°C scenario where physical risk dominates, negatively impacting long-term investment returns on equities, corporate bonds, real estate, real estate loans and sovereign exposures.
+The aggressive mitigation 1.5°C scenario is the only scenario with potential upside. Physical risk impacts are much more limited but there is still downside risk on long-term investment returns from carbon intensive sectors (for example utilities) as a result of transition policy actions. This is offset partially by revenues on new technologies from some sectors (for example automotives).
+Figure 13: Initial Climate VaR output by scenario for Aviva’s shareholder funds as at 31/12/2018. Source: Aviva.
+Baseline + Impacts – 4ºC 3ºC 2ºC 1.5ºC. 
+Aggregate. 
+The grey bars represent the range of outputs between the 5th Percentile and the central estimate for each scenario and the orange bars the range between the central estimate and the 95th Percentile.
+When aggregated together to determine an overall impact of climate-related risks and opportunities across all scenarios, the plausible range is dominated by the results of the 3°C and 4°C scenarios, reflecting that neither existing or planned policy actions are sufficiently ambitious to meet the Paris agreement goal.
+The 1.5°C scenario is dominated by transition risk, see Figure 14, even after taking into account mitigating technology opportunities. In the 2°C scenario, transition and physical risks are more evenly balanced, whereas in the 3°C and 4°C scenarios physical risk dominates.
+Figure 14: Physical versus transition risks by scenario for Aviva’s shareholder funds as at 31/12/2018. Source: Aviva.
+0% 40% 20% 60% 80% 100% 4ºC (BAU) 3ºC 2ºC 1.5ºC. 
+Physical Transition. 
+In all scenarios the impact on insurance liabilities is more limited than on investment returns, However, there is potential for some impact on life and pensions business as a result of changes in mortality rates in different scenarios either from physical effects such as more extreme hot and cold days or transition effects related to changes in pollution levels. The impact on general insurance liabilities is relatively limited because of the short-term nature of the business and the ability to re-price annually and mitigation provided by our reinsurance programme. However, the physical effects of climate change will result in more risks and perils becoming either uninsurable or unaffordable over the longer term.
+This analysis is just the beginning of our journey to further develop metrics and targets to support decision making and our understanding of the impact of climate-related risks and opportunities on our business. We will continue to develop and incorporate Climate VaR into our overall strategy, risk management and reporting frameworks. In particular, we will further consider the impact of climate-related risks and opportunities on specific insurance products, geographies and investments.
+Aviva fully anticipates that this approach will evolve and improve in light of new research and data becoming available as well as emerging best practices over the coming years. The findings from our 2018 Climate-related Financial Disclosure work will be reflected in our revised strategic response to climate change.
+Monitoriing coral bleaching Credit: NPS Climate Change Response
+
+
+aviva.com 17. 
+Appendix: Climate VaR Modelling Approach. 
+XVIII REMIND is a global multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector. It allows for the analysis of technology options and policy proposals for climate mitigation.
+XIX The Potsdam Institute for Climate Impact Research (PIK) is a German government-funded research institute addressing crucial scientific questions in the fields of global change, climate impacts, and sustainable development.
+XX Intended Nationally Determined Contributions is a term used under the United Nations Framework Convention on Climate Change for reductions in greenhouse gas emissions that all countries that signed the UNFCCC were asked to publish in the lead-up to COP21.
+Climate scenarios considered Aviva is developing a Climate VaR measure that enables the potential business impacts of future climate-related risks and opportunities to be assessed in each of the IPCC scenarios and in aggregate. The IPCC scenarios aim to measure the effect on the energy balance of the global climate system due to changes in the composition of the atmosphere from sources like Greenhouse gas emissions, other air pollutants19 and changes in land use. The four IPCC scenarios represent different Representative Concentration Pathways (RCPs) which describe the composition of the atmosphere at the end of the 21st century. Table 2 summarises the link between the RCPs, potential temperature rises by 2100 and the level of mitigation required, which we will use to describe the scenarios in this report.
+Table 2: Mapping for RCPs, potential temperature rises and levels of mitigations. Source: TCFD.
+RCP Temperature rise Description Notes. 
+RCP2.6 1.5°C Aggressive mitigation emissions halved by 2050. 
+RCP4.5 2°C Strong mitigation emissions stabilise at half today’s levels by 2080. 
+RCP6.0 3°C Some mitigation emissions rise to 2080 then fail. 
+RCP8.5 4°C Business as usual (BAU) emissions continue rising at current rates. 
+Figure 12 also sets out implications for Greenhouse gas emissions and potential temperature rise by 2100 for each scenario. Aggressive mitigation is the only scenario where it is more likely than not that the temperature change in 2100 will be less than 2°C.
+Aviva is developing this Climate VaR measure in conjunction with the UNEP FI investor pilot project, which is developing models and scenario analysis tools to assess the potential impact on corporate assets and real estate of the four IPCC scenarios in conjunction with Carbon Delta.
+Carbon Delta is using the REMIND modelXVIII from the Potsdam Institute for Climate Impact Research (PIK)XIX. Scenario outputs from the REMIND model include financial metrics such as direct/indirect emissions costs, additional capital expenditure, and revenue implications broken down by sector and geography. Whilst these scenarios reflect current scientific research and the Paris agreement, there clearly remains significant uncertainty regarding future climate trajectories as well as political risk with respect to implementation of the Paris agreement and Nationally Determined Contributions (NDCs)XX.
+It is important to note that the four scenarios all assume a gradual path, in which temperatures slowly rise but climate policy is ramped up at varying speeds with a fairly high degree of global coordination. They do not consider the transition risk in a more chaotic policy environment, where there is lack of global coordination and policy action is taken too late and too suddenly. This may result in an understatement of transition risk.
+The Carbon Delta model and scenario analysis tools also allow consideration of the five Shared Socioeconomic Pathways (SSPs)20. These consider socio-economic characteristics including things such as population, economic growth, education, urbanisation and the rate of technological development.
+Time horizon considered for each scenario In conjunction with the UNEP FI investor pilot project, it was agreed to use a single 15-year time horizon for the Climate VaR measure to analyse the impact of the different scenarios on our business but with the capability to consider transition effects over shorter time horizons depending on the business decision being considered. Consideration was given as to whether a longer time horizon was needed to capture the worst physical impacts of climate change, as these are not likely to manifest themselves until the second half of the century (See Figure 15).
+To address this point in a decision-useful way and ensure consistency with the 15-year time horizon for transition risk, it was agreed to look at a higher, 95th percentile of physical risks as well as the expected outcome in the BAU scenario over the 15-year horizon. Figure 16 shows large dispersion around the mean from the impact of climate change on Coastal flooding over the next 15 years.
+
+
+18 Aviva’s Climate-Related Financial Disclosure 2018. 
+Figure 15: Global average surface temperature change. Source: IPCC. Figure 16: Example of Coastal Flooding . Source: Carbon Delta.
+6.0 42 39 32 4.0 2.0 0.0 -2.0 1950 2000 2050 2100. 
+Global average surface temperature change (ºC)
+RCP2.6. 
+Mean over 2081-2100. 
+RCP8.5 historical. 
+RCP2.6 RCP4.5 RCP6.0. 
+RCP8.5 
+2015 0.35 0.30 0.25 0.20 0.15 0.10 0.5 0 2020 2025 95th percentile. 
+Increase in damage [% of asset value]
+Expected Value SLR scenarios. 
+Year 2030 2035. 
+Risks and opportunities covered The modelling of transition and physical risks and opportunities specifically covers the projected costs of policy action related to limiting Greenhouse gas emissions as well as projected profits from green revenues arising from developing new technologies and patents. In addition, it captures acute abrupt weather impacts such as more frequent and severe storms, extreme heat and cold, heavy precipitation and snowfall, wind gust, and tropical cyclones, as well as chronic gradual impacts such as higher than average temperatures and rises in sea level. It is important to note that the changes in acute and chronic weather can also have a positive as well as negative impact on individual companies or instruments (see figure 17), as this is measured against current conditions and in some regions these impacts will reduce even though the overall the impact will be negative.
+Figure 17: Risks and opportunities covered. Source: Carbon Delta.
+
+Building Block Approach To assess these risks and opportunities, a building block approach has been adopted (see Figure 18).
+Figure 18: Building Block Approach. Source: Carbon Delta.
+
+
+aviva.com 19. 
+When assessing the impact of climate-related risks and opportunities associated with each scenario, different financial indicators need to be used and assumptions made. To assess the impact on market value of investments and the impact on reserves or premiums, for example, the following assumptions need to be considered: 1. The extent to which asset valuations, reserves and premiums already take account of the climate-related risks and opportunities in each scenario; 2. The likely timing of future changes to asset valuations, where not all these climate-related risks and opportunities are currently considered; 3. Changes in our asset portfolio over time and the timing of such changes relative to the timing of any future market corrections to take account of these climate-related risks and opportunities.
+4. The extent to which changes in costs over the next 15 years will be passed on to policyholders and/or sales volumes could reduce or increase for specific lines of business; and 5. The impact on reinsurance market capacity and pricing, as well as the creditworthiness of reinsurers, and the implications for our reinsurance strategy.
+Finally, to assess the overall impact of climate-related risks and opportunities across all scenarios, the relative likelihoods or probabilities of each scenario need to be assigned. To do this Aviva considered amongst other things the current scientific analysis of the likely trajectory of emissions as well as policy commitments made by countries to reduce emissions (See Figure 19).
+Figure 19: Most Likely outcome based on where we are. Source: Aviva.
+
+Probabililty. 
+Pull towards 1.5°C – 2oC Push towards 4°C+
+Temperature rise in 2100 1.5°C – 2oC Paris ambition 4oC+ No climate policy. 
+Transition risks and opportunities. 
+The financial impact of transition risks and opportunities are calculated relative to the BAU scenario (i.e. there are assumed to be no transition costs or opportunities in the BAU scenario, where current emissions are presumed to continue to rise at the current rate). The calculation covers both emission reduction costs and revenues from new technologies. Emission reduction prices used within the model vary by climate change scenario and geography (see figure 20).
+Figure 20: 2°C emission reduction prices. Source: Carbon Delta/PIK.
+100 0
+80 60 40 20 120 2039 2040 2038 2037 2036 2035 2034 2033 2032 2031 2030 2029 2028 2027 2026 2025 2024 2023 2022 2021 2020 2019 2018 2oC ROW 2oC Russia 2oC USA 2oC Africa 2oC China 2oC EU 2oC India 2oC Japan 2oC LatAM 2oC MEA 2oC Asia
+
+
+20 Aviva’s Climate-Related Financial Disclosure 2018. 
+Investments The following high-level methodology is used to assess the potential downside risk from different transition scenarios on our investments (see figure 21).
+Figure 21: High level methodology overview. Source: Carbon Delta.
+Reduction by company [company scope 1 emissions level]
+GREENHOUSE GAS LEVEL MtCO2e/y Business As Usual $10* $60 $150m 3ºC Scenario (NDCs)* 2ºC Scenario 1.5ºC Scenario *Average annual cost calculated to reach the defined emission reduction target 160 140 120 100 80 60 20 2018 2023 TIME PRESENT VALUE. 
+MARKET VALUE. 
+CORE and by sector. 
+Reduction by country 1. Climate Change Efects 2. Cost Calculation 3. Dividend Discount Model 4. VaR. 
+TOTAL COST —
+REDUCTION AMOUNT. 
+X
+PRICE / tCO2e. 
+For both corporate bonds and equity shares the difference between the market value and the adjusted value after factoring in future climate change costs and/or revenues is measured (i.e. the impact relative to current climate conditions and emissions trajectory). To estimate the impact in a consistent way when a company has issued both shares and bonds, the Merton modelXXI is used. This model enables the impact on a business as a whole to be translated into a change in value of its corporate bonds and equity shares. As both costs and opportunities are covered, the Climate VaR can be either negative or positive depending on the balance of future anticipated carbon-related costs and revenues for individual companies or instruments.
+Carbon Delta has also developed a methodology for estimating the transition exposure of property assets which we have used for both direct real estate and real-estate-linked debt holdings. For infrastructure assets, Aviva plans to use the ClimateWise Transition Risk Framework to identify the key risk exposures across our portfolio of assets, taking into account how transition risk and opportunities vary by geography, sector and sub-sector to assess the potential impact in different climate scenarios. For example, a recent review of transport infrastructure highlighted strong potential opportunities.
+Insurance liabilities Aviva has assessed the impact on life insurance reserves from the potential reduction in mortality rates resulting from less air pollution in the aggressive and strong mitigation scenarios. This reflects an anticipated reduction in carbon emissions and an increase in electric vehicles replacing vehicles with internal combustion engines. For each transition scenario, there is potential for fewer deaths relating to air pollution. Although we note that this is very much dependent on the fuel mix generating electrical power for the grid. Whilst waste-to-energy plants have similar particulate outputs to gas-fired power stations, biomass plants such as wood pellet fired facilities, for their many positives, produce significantly more particulates than gas-fired power stations for example21.
+On the general insurance side, transition risks and opportunities may also arise. For example, the wider adoption of electric vehicles and the rise of car-sharing and automated cars might decrease the pool of vehicles to be insured leading to a decrease in claims frequencies but also premiums. However, these affects have not been included to date. We plan to extend our modelling to cover general insurance transition risks and opportunities over time.
+Physical risks and opportunities. 
+The financial impact of physical risks and opportunities is based on an assessment of both the expected costs in the BAU scenario and the costs at a higher 95th percentile arising from hazards such as: Extreme heat and cold, Heavy precipitation and snow, Coastal flooding, Wind gusts and Tropical cyclones. We use the expected costs and the costs at a higher percentile to define a distribution of physical risk outcomes for each scenario and thus capture some of the more extreme potential physical effects of climate change whilst using a consistent 15-year time horizon as that used for transition risk.
+Investments The physical risks on investments are generally going to be driven by the exposure of the facilities (buildings, plant, infrastructure) owned or used by the company who has issued the financial instrument, their “facilities”, and the supply chain they rely on for producing their end product. We use the following high-level methodology to assess the potential physical risk from different scenarios on our investments in this regard.
+XXI Analysts and investors utilise the Merton model to understand how capable a company is at meeting financial obligations, servicing its debt, and weighing the general possibility that it will go into credit default.
+
+
+aviva.com 21. 
+Figure 22: Impact modelling and expected cost estimate. Source: Carbon Delta.
+
+EXPECTED COST - VULNERABILITY x HAZARD x EXPOSURE. 
+VULNERABILITY Cost Function. 
+HAZARD Extreme Weather. 
+EXPOSURE Company Facility. 
+The cost (in figure 22) is built up by mapping the facilities onto a world map, with measures that define the facility’s exposure to different extreme weather hazards, and then combining this with a vulnerability function that converts the exposure and an assessment of the physical hazard impact in each scenario into an estimated monetary cost, per facility.
+For both corporate bonds and equity shares, the difference between the market value and the adjusted value after factoring in aggregated facility costs and/or revenues is measured. The costs and/or revenues to a business are measured relative to an assessment of physical risks under current conditions as these are assumed to be already factored in to the market value. This business impact is then translated into a change in the value of its corporate bonds and equity shares using the Merton model.
+Aviva recognises that the current approach does not capture the impact on companies’ supply chains nor necessarily demand for its products and services or potential mitigating impact of insurance. For example, in the case of a major car manufacturer their real assets will mainly include their factories and machinery and possibly their dealerships. Their supply chain will be broad, complex and potentially geographically diverse and if disrupted it could adversely impact companies’ costs and/or revenues. We will continue to work internally and with external partners to develop best practice in this area. For directly held real estate assets, real estate loans and infrastructure assets, we use the same approach described above. For directly held real estate the impact is carried directly against the property valuation. For real estate loans, we assess the physical climate change risk impact by running the stressed property value through our debt valuation models.
+For sovereign bonds, the impact on the market value of a security is measured by assessing how a sovereign’s rating could change as a result of the occurrence of different extreme weather hazards in each scenario. The following climate-related factors may impact sovereign debt: exposure and vulnerability to climate change; readiness and adaptation; ability to raise money for mitigation and post-disaster repair; ability to raise money via taxation and debt; reliance on foreign aid and support of the International Monetary Fund and other supra-national bodies. To assess a sovereign’s vulnerability to climate change and readiness, the Notre-Dame University’s Notre Dame-Global Adaptation Index (ND-GAIN)XXII measure for country climate change risk has been used. We note that the assessment of sovereign debt is difficult because sovereigns are exposed to climate change via several vectors: government buildings and government owned infrastructure, cost of emergency relief to areas effected by climate-related disasters, aid and rebuilding costs and the cost of acting as insurer of last resort. So, the ND-GAIN data has been used to help support expert judgements about the appropriate stresses to apply to different sovereign bonds in our modelling at this stage. We will continue to work internally and with external partners to develop best practice in this area.
+Insurance liabilities The Climate VaR for life insurance risks calculates the impact on reserves of a change in mortality rates as a result of the occurrence of different extreme weather hazards in each scenario based on a review of academic literature linking climate change to potential changes in mortality rates22-25. For higher temperature scenarios, where climate change has dramatically taken hold, the picture is complicated. For example, it is possible that both summers and winters will be warmer or that seasons will in fact be more extreme. The latter is more likely to have an adverse impact and for the UK could plausibly result from the Gulf Stream changing its path and missing the UK.
+On the general insurance side, the Climate VaR calculates the impact on premiums as a result of the occurrence of different extreme weather hazards in each scenario. The impact on premiums is then used to determine the impact on our business, considering the impact on pricing, sales volumes and our reinsurance strategy. Initially, we have focussed our efforts on UK Flood. We have worked with internal and external experts to consider how climate change could change the frequency and severity of UK Flood and leveraged our existing catastrophe modelling capability to assess the impact of this on premiums. We plan to further refine this approach and to extend our modelling to other extreme weather hazards over time.
+XXII https://gain.nd.edu/our-work/country-index/
+
+
+22 Aviva’s Climate-Related Financial Disclosure 2018. 
+Aggregation of climate-related risks and opportunities. 
+In conjunction with Elseware, a risk management and quantification expert consultancy, we have used a Bayesian NetworkXXIII methodology to aggregate all the component parts of our exposure to derive an aggregate view of the impact of climate-related risks and opportunities. The attraction of this approach is that we can combine a set of beliefs, expert judgements, internal data and external data to assess the potential impact of these risks, on an aggregated basis. We can then determine an overall Climate VaR for each scenario (See Figure 23).
+The impact distributions of each climate scenario are then combined to give a fully aggregated result across all four scenarios. This final step of aggregation uses the assigned likelihood given to each scenario taking into consideration amongst other things the current scientific analysis of the likely trajectory of emissions as well as policy commitments made by countries to reduce emissions (See Figure 24).
+Figure 23: Aviva’s aggregation process for each scenario. Source: Aviva. 
+Climate Scenario. 
+Transition Risk Physical Risk. 
+Overall Assessed Climate Change Impact. 
+Sectors - Energy - Transport - ...
+Equities Corporate Bonds ... GI Liabilities ...
+Aggregated Impact. 
+Sectors - Energy - Transport - ...
+Product Lines - Home - Commercial - ...
+Sectors - Energy - Transport - ...
+Equities Corporate Bonds ... GI Liabilities ... Sectors - Energy - Transport - ...
+Product Lines - Home - Commercial - ...
+Aggregated Impact. 
+Figure 24: Overall assessed climate change impact . Source: Aviva.
+Aviva: Internal. 
+Likelihoods or probabili/es of each scenario. 
+Impact for each scenario Overall Assessed Climate Change. 
+XXIII probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph.
+
+
+aviva.com 23. 
+Bibliography 1. Taskforce on Climate-related Financial Disclosures, June 2017. www.fsb-tcfd.org/publications/final-recommendations-report/ 2. Prudential Regulation Authority report, September 2015. www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/impactof-climate-change-on-the-uk-insurance-sector.pdf 3. Reports of the Advisory Scientific Committee, No 6, Too late, too sudden: Transition to a low-carbon economy and systemic risk, ESRB Advisory Scientific Committee, February 2016. www.esrb.europa.eu/pub/pdf/asc/Reports_ASC_6_1602.pdf 4. Aviva France 2018 ESG and Climate report.
+5. Christopher Watts, in The cost of inaction: Recognising the value at risk from climate change, The Economist Intelligence Unit, 2015. www.aviva.com/ content/dam/aviva-corporate/documents/socialpurpose/pdfs/thoughtleadership/EIU-cost-of-inaction.pdf 6. Renée Friedman, in The Road to Action: Financial regulation addressing climate change, The Economist Intelligence Unit, 10th July 2017. perspectives.eiu.com/financial-services/road-action-financial-regulation-addressing-climate-change.
+7. Steve Waygood and Stephanie Maier, in Seeing Beyond the Tragedy of Horizons Report, Aviva, 2016. icpmnetwork.com/wp-content/uploads/2018/09/Aviva_Tragedy_of_Horizons_Report-1.pdf 8. Sustainable finance toolkit, Aviva, www.avivasustainablefinancetoolkit.com/#home.
+9. Mobilising Finance to Support the Global Goals for Sustainable Development, Aviva, September 2015. www.aviva.com/content/dam/aviva-corporate/ documents/socialpurpose/pdfs/thoughtleadership/Mobilising_Finance_Avivas_Calls_to_Action_2.pdf.
+10. Steve Waygood and Pauliina Murphy, in How Finance Can Further the Sustainable Development Goals, Aviva, 21st September 2016. https://www.aviva.com/content/dam/aviva-corporate/documents/socialpurpose/pdfs/thoughtleadership/Money_Talks_-_How_Finance_Can_ Further_the_Sustainable_Development_Goals.pdf.
+11. Delivering the sustainable finance system the world needs, Aviva, 2017. www.aviva.com/content/dam/aviva-corporate/documents/socialpurpose/ pdfs/2363_8_Global_policy_report_v3.pdf 12. Global Sustainable Finance in 2018 – An Aviva guide for policymakers and regulators, Aviva, 2018. www.aviva.com/content/dam/aviva-corporate/documents/socialpurpose/pdfs/aviva-2018-sf-policy-guide.pdf.
+13. Financing our Future, A4S and Aviva Investors, September 2018. www.accountingforsustainability.org/content/a4s/corporate/financing-our-future.html.
+14. The EU High-Level Expert Group on Sustainable Finance, European Commission, January 2018. ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance_en#hleg 15. The UK Green Finance Task Force, Department for Business, Energy & Industrial Strategy, 28th March 2018. www.gov.uk/government/publications/accelerating-green-finance-green-finance-taskforce-report.
+16. Aviva Investors Corporate Governance and Corporate Responsibility Voting Policy, 2019. www.avivainvestors.com/content/dam/aviva-investors/main/assets/about/responsible-investment/our-approach-to-responsible-investment/ downloads/uk-corporate-governance-and-corporate-responsibility-voting-policy-v2019.pdf.
+17. The Paris Agreement Capital Transition Assessment (PACTA). 2degrees-investing.org/pacta/.
+18. OECD report: Investing in Climate, Investing in Growth. www.oecd.org/environment/cc/g20-climate/synthesis-investing-in-climate-investing-in-growth.pdf 19. Daniel Vallero, in Fundamentals of Air Pollution (Fifth Edition), 2014. www.sciencedirect.com/book/9780124017337/fundamentals-of-air-pollution 20. Keywan Riahi and others, in Global Environmental Change Volume 42, Shared Socioeconomic Pathways, Pages 153-168, January 2017. www.sciencedirect.com/science/article/pii/S0959378016300681 21. Shakoor Hajat and others, in Climate change effects on human health projections of temperature-related mortality for the UK during 2020s, 2050s and 2080s, February 2014. jech.bmj.com/content/68/7/641 22. Antonio Gasparrini and others, in The Lancet Planetary Health, Volume 1, Issue 9, Projections of temperature-related excess mortality under climate change scenarios, Pages e360-e367 December 2017. www.sciencedirect.com/science/article/pii/S2542519617301560 23. Every breath we take: The lifelong impact of air pollution, Royal College of Physicians, 23rd February 2016. www.rcplondon.ac.uk/projects/outputs/every-breath-we-take-lifelong-impactair-pollution.
+24. Martin William and others, in The Lancet Countdown on health benefits from the UK Climate Change Act: a modelling study for Great Britain, The Lancet, May 2018. www.thelancet.com/journals/lanpla/article/PIIS2542-5196(18)30067-6/fulltext 25. Jessica Elkin and others, in Hot and Bothered report, Club Vita, 4th July 2018. www.clubvita.co.uk/collaborative-research/hot-and-bothered.
+
+
+24 Aviva’s Climate-Related Financial Disclosure 2018. 
+RRDLB4365 03/2019 © Aviva plc. 
+Aviva Group plc. St Helen’s, 1 Undershaft, London EC3P 3DQ. aviva.com. 
+If you have any questions please contact crteam@aviva.com

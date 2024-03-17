@@ -1,0 +1,1318 @@
+TOYOTA MOTOR CORPORATION. 
+Environmental Report 2020
+
+
+22 Environmental Report 2020. 
+Driving (WtW1)
+Parts Manufacturing. 
+Logistics. 
+Disposal and Recycling. 
+Vehicle Manufacturing. 
+Materials Manufacturing. 
+Zero CO2 Emissions Throughout the Entire Vehicle Life Cycle in the Future. 
+To mitigate the various risks posed by climate change, the Life Cycle Zero CO2 Emissions Challenge seeks to completely eliminate CO2 emissions not only during driving (TtW2), but throughout the entire vehicle life cycle including materials, parts and vehicle manufacturing, logistics, disposal and recycling. Some electrified vehicles may have materials and parts that increase CO2 emissions in the processes of manufacturing. Possible means of reducing these emissions include adopting low CO2 emitting materials during manufacturing, components downsizing, and introducing renewable energy. We will reduce CO2 emissions in the disposal and recycling stages by expanding use of recycled materials and designs that make it easier to dismantle vehicles. We will accelerate eco-friendly designs as we pursue “ever-better cars” in the future. We are working to accelerate efforts for reducing CO2 emissions on a global scale while engaging in even closer communication with parties in the value chains including suppliers and dealers. We will also promote reductions in CO2 through the efficient use of mobility by providing mobility services and supporting the widespread adoption of eco driving. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 12.8 (sustainable lifestyles) and 13.1 (reduction of CO2).
+Completely Eliminate All CO2 Emissions Throughout the Entire Vehicle Life Cycle. 
+Life Cycle Zero CO2 Emissions Challenge Challenge. 
+For details of initiatives by and , refer to Suppliers Dealers and distributors Value Chains Collaboration p. 15. 
+Fundamental Approach. 
+Yaris: Vehicle subject to life cycle CO2 assessment in 2019 1 Well to Wheel: Includes CO2 emissions during driving as well as CO2 emissions during the production stage of fuel and electricity (CO2 emissions vary depending on the power supply configuration and hydrogen production method, in the case of battery electric vehicles and fuel cell electric vehicles) 2 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles)
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation. 
+Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature. 
+Zero CO2 Emissions 2013 2025 2030. 
+Reduce by 25% or more. 
+Reduce by 18% or more. 
+TCFD Strategy b. 
+Contribution to SDGs � Reduce CO2 emissions by 18 percent or more throughout the entire vehicle life cycle compared to 2013 levels � Steadily promoted life cycle CO2 emissions reduction by environmental management for product development after 2005 � In Japan, achieved life cycle CO2 emission levels in four new and redesigned models equivalent to or lower than those of reference vehicles (e.g., reduced by 12 percent from Yaris hybrid electric vehicle (HEV) model compared to HEVs of the same class in FY2017) � Achieved 100 percent renewable electricity introduction rate at all R&D centers in Japan ��Japan: Reduce CO2 emissions by 7 percent by improving transport efficiency compared to 2018 levels (average of 1.0 percent reduction per year) ��Overseas: Reduce CO2 emissions by vessels for export (introduce two LNG-powered pure car carriers)
+Logistics. 
+Progress 2025 Target CY2019/FY2020 Initiatives � Promoted continual kaizen activities including loading efficiency improvement, shortening of logistic routes and modal shifts � CO2 emissions in Japan: 292 thousand tons (up 1 percent compared to 2018 levels)
+Environmental Data p. 37-H. 
+Achieved. 
+As planned. 
+Behind schedule. 
+TCFD Metrics and Targets c. 
+Future Vision. 
+Life cycle CO2 Emissions. 
+Six Challenges. 
+Life cycle CO2 emissions. 
+Editorial Policy. 
+This Environmental Report is a part of the Sustainability Data Book and reports on Toyota’s Environmental (E) initiatives. For information on Social (S) and Governance (G) related initiatives, please refer to the Sustainability Data Book. In addition to the content of this Environmental Report, videos, presentation materials and other information on Toyota’s initiatives intended for the general public are available.
+This report fundamentally covers fiscal year 2020 (April 1, 2019 to March 31, 2020). Some prior achievements, initiatives carried out up to the time of publication and future projections and plans are also included.
+This report covers Toyota Motor Corporation (TMC) and its global consolidated subsidiaries. (non-consolidated vehicle production companies are also covered with respect to some initiatives) ● This report has been prepared in accordance with the GRI Standards: Comprehensive option.
+● Prepared by referencing the Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). Icons (e.g. ) are described at the relevant articles of this report.
+● Prepared by referencing the disclosure standards of the U.S.-based Sustainability Accounting Standards Board (SASB). Icons (e.g. ) are described at the relevant articles of this report.
+October 2020 (reports are released once annually) The previous report was released in October 2019.
+Toyota Motor Corporation Environmental Affairs Division 1 Toyota-cho, Toyota City, Aichi Prefecture 471-8571, Japan Tel: 0565-28-2121 (Main number)
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data. 
+GRI Content Index. 
+TCFD Content Index. 
+SASB Content Index “Environmental Initiatives” on the Toyota Official Global Website. 
+Disclaimer. 
+Period Covered. 
+Scope of Coverage. 
+Third Party Assurance. 
+Publication. 
+Contact Information. 
+Standards Followed. 
+This report includes not only past and current facts pertaining to TMC and other companies within the scope of coverage, but also plans and projections at the time of its publication as well as forecasts based on management policies and strategies. These forecasts are assumptions or determinations based on information available at the time they are stated, and the actual results of future business activities and events may differ from the forecasts due to changes in various conditions. In cases where information provided in prior reports is corrected or restated and in cases where material changes have occurred, the details will be indicated in this report. The reader’s understanding regarding the above is requested.
+Top Menu. 
+Sub Menu. 
+Icons. 
+This PDF file is an interactive PDF. It can be operated in the following manner.
+Navigate to the beginning of each section. 
+Navigate to content within sections. 
+The symbol on pages links to related pages in this report, and the symbol links to other sources (websites, etc.). Note: These functions are operable when connected to the Internet.
+Verification Statement p. 40 01 Environmental Report 2020 denotes data assured by an Independent Practitioner.
+▲ ▲
+▲ ▲
+Navigate to the Table of Contents ▲
+Navigate to the Cover. 
+About this PDF Report. 
+Sustainability Data Book. 
+Environmental Initiatives. 
+Third Party Assurance. 
+TCFD Governance a. 
+SASB TR-AU-410a.1
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data 02 Environmental Report 2020. 
+Contents. 
+Message from the Head of the Company. 
+Overview of Toyota Motor Corporation. 
+Strategy and Management. 
+Changes in Key Consolidated Financial Data 3
+4 5. 
+Environmental Data 18 20 22 24 26 28 6
+7 8
+9 10 11 12 14 15. 
+Fundamental Approach Toward the Environment. 
+Environmental Materiality Analysis. 
+Toyota Environmental Challenge 2050 2030 Milestone. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Stakeholder Engagement. 
+Environmental Management and Value Chains Collaboration. 
+Verification Statement 40. 
+Challenge Challenge of Establishing a Future Society in Harmony with Nature. 
+Challenge New Vehicle Zero CO2 Emissions Challenge. 
+Challenge Plant Zero CO2 Emissions Challenge. 
+Challenge Life Cycle Zero CO2 Emissions Challenge. 
+Challenge Challenge of Minimizing and Optimizing Water Usage. 
+Challenge Challenge of Establishing a Recycling-based Society and Systems 30 35 35 36 37 38 38 39. 
+Progress of the Sixth Toyota Environmental Action Plan (Detail)
+Environmental Management. 
+New Vehicle Zero CO2 Emissions Challenge. 
+Plant Zero CO2 Emissions Challenge. 
+Life Cycle Zero CO2 Emissions Challenge. 
+Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature. 
+Six Challenges
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data 03 Environmental Report 2020. 
+I would like to begin by sending my deepest condolences to the families who have lost loved ones to COVID-19 and to everyone who has suffered from this disease and is experiencing uncertain and difficult times. Also, I express my heartfelt thanks and deep respect to healthcare professionals who work day and night on the front lines responding to COVID-19, including national and local governments.
+I made the following statement at the FY2020 Financial Results Press Conference in May: “I believe that our mission is to provide goods and services that make people throughout the world happy, or, in other words, to ‘mass produce’ happiness. In achieving this, I believe that it is necessary to cultivate Toyota people in the world, human resources that have a ‘YOU perspective,’ who can wish for and take action for the happiness of those other than themselves. I view this as also being a part of earnestly engaging in the SDGs, for which international society is aiming, with the stance of ‘no one will be left behind.’” “How we, as human beings and as companies, should live our lives.” The crisis made me think about this, and the above statement was intended to convey my thinking.
+Until now, Toyota has committed itself in solving many issues that society faces through manufacturing. As a part of those efforts, we have been promoting responses to electrification based on the belief that environmental technologies can contribute to society when they come into widespread use, in the environmental fields.
+In 2015, we announced the Toyota Environmental Challenge 2050 with the aim of realizing a sustainable society. We have promoted to further popularize electrified vehicles and to minimize the environmental loads of the vehicle manufacturing process itself.
+At the beginning of this year, five years after this announcement, we set out a plan to build a prototype city of the future called the Woven City, and take on the challenge of realizing a hydrogen-based society. Of course, Toyota cannot do this alone and achieving it will depend on cohesively leveraging mobility and infrastructure. We would like to collaborate with like-minded partners to create a blueprint for an eco-friendly society that is not reliant on fossil fuels.
+We all live on the same earth. Toyota takes action from the perspective of our “Home Planet,” above and beyond concepts of “home town” and “home country.” The current working generation are responsible for bequeathing this beautiful home for future generations, as a place where they can live safely. I hope to create opportunities for future generations to look back and say, “We are where we are today thanks to the people back then.” It is with this shared aspiration of the current generation that I wish to make ever greater efforts.
+October 2020. 
+Akio Toyoda. 
+President. 
+Toyota Motor Corporation. 
+Message from the Head of the Company
+
+
+Plants. 
+Japan: Number of Toyota Motor Corporation sites and major production companies Overseas: Number of production companies. 
+R&D centers. 
+No. of employees No. of vehicles produced 8,819,622 units 8,958,423 units (FY2020)
+Total vehicle sales (FY2020) 359,542. 
+Headquarters/plants. 
+R&D centers. 
+Company Profile. 
+Company Name. 
+President and Representative Director. 
+Date Founded. 
+Capital. 
+Main Business Activities. 
+No. of Employees (consolidated)
+No. of Consolidated Subsidiaries (based on U.S. GAAP)
+No. of Affiliates Accounted for Under the Equity Method. 
+Company Address. 
+Toyota Motor Corporation. 
+Akio Toyoda. 
+Motor Vehicle Production and Sales. 
+August 28, 1937 635.4 billion yen 359,542 528 72. 
+Head Office 1 Toyota-cho, Toyota City, Aichi Prefecture, Japan Tokyo Head Office 1-4-18 Koraku, Bunkyo-ku, Tokyo, Japan Nagoya Office 4-7-1 Meieki, Nakamura-ku, Nagoya City, Aichi Prefecture, Japan. 
+Japan 56% North America 14%
+Europe 6%
+Others 6% Asia 18% 50% 20% 8% 5% 17% 25% 30% 12% 15% 18%
+Europe Asia (Excluding Japan)
+Japan. 
+North America. 
+North America. 
+Others 7
+3 26 4
+13 5
+6 0
+16 8. 
+Overview of Toyota Motor Corporation (as of March 31, 2020)
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data 04 Environmental Report 2020
+
+
+19 (billion yen) 2016 17 18 20 (FY) 0 35,000 25,000 30,000 5,000 10,000 15,000 20,000 29,379.5 30,225.6 29,929.9 28,403.1 27,597.1 19 (billion yen) 2016 17 18 0 3,000 1,000 2,000 2,467.5 20 (FY) 2,442.8 2,853.9 1,994.3 2,399.8 19 (billion yen) 18 2016 17 0 2,500 2,000 500 1,000 1,500 1,882.8 20 (FY) 2,076.1 2,493.9 2,312.6 1,831.1 18 1,064.2 (billion yen) 2016 17 1,055.6 1,037.5 0
+1,200 800 1,000 200 400 600 19 1,048.8 (FY) 20 1,110.3 19 18 (billion yen) 2016 17 0 1,500 1,200 300 600 900 1,465.8 20 (FY) 1,393.0 1,302.7 1,292.5 1,211.8 • Shows the net income attributable to the shareholders of Toyota Motor Corporation • Excluding vehicles and equipment on operating leases. 
+Net Revenues Operating Income. 
+R&D Expenses Capital Expenditures. 
+Net Income. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data. 
+Changes in Key Consolidated Financial Data* * Based on U.S. Generally Accepted Accounting Principles (U.S. GAAP) 05 Environmental Report 2020
+
+
+06 Environmental Report 2020. 
+Vision & Philosophy. 
+Fundamental Approach Toward the Environment. 
+Toyota is working on initiatives that contribute to the sustainable development of society and the world through all its business activities in cooperation with global society. Toyota aims to build a corporate group that is admired and trusted by society through ensuring that all employees, including those at consolidated subsidiaries, recognize and act on our sustainability policy. In the area of environment, we are advancing specific initiatives including the Toyota Environmental Challenge 2050, based on the Toyota Earth Charter (established in 1992 and revised in 2000).
+Toyota Earth Charter 1. Contribution toward a prosperous 21st century society Contribute toward a prosperous 21st century society. Aim for growth that is in harmony with the environment and set as a challenge the achievement of zero emissions throughout all areas of business activities. 2. Pursuit of environmental technologies Pursue all possible environmental technologies, developing and establishing new technologies to enable the environment and economy to coexist harmoniously. 3. Voluntary actions Develop a voluntary improvement plan, based on thorough preventive measures and compliance with laws, which addresses environmental issues on the global, national and regional scales and undertake continuous implementation. 4. Working in cooperation with society Build close and cooperative relationships with a wide spectrum of individuals and organizations involved in environmental preservation, including governments, local municipalities, affiliated companies and industries.
+I. Basic Policy. 
+Promotion by the Sustainability Meeting which consists of top management. 
+III. Organization in Charge 1. Always be concerned about the environment Take on the challenge of achieving zero emissions at all stages, i.e., production, utilization and disposal. (1) Develop and provide products with top-level environmental performance (2) Pursue production activities that do not generate waste (3) Implement thorough preventive measures (4) Promote businesses that contribute toward environmental improvement 2. Business partners are partners in creating a better environment Cooperate with affiliated companies. 3. As a member of society Actively participate in social actions. (1) Participate in the creation of a recycling-based society (2) Support government environmental policies (3) Contribute to non-profit activities 4. Toward better understanding Actively disclose information and promote environmental awareness.
+II. Action Guidelines. 
+Fundamental Approach Toward the Environment. 
+Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+07 Environmental Report 2020. 
+Prioritization We conducted a comparative assessment along two-axes—relevance to stakeholders and importance to Toyota—based on communications with stakeholders including experts, investors and NGOs in Japan and overseas as well as internal discussions.
+STEP 2. 
+Identification of Issues We identified global environmental issues that we should address in light of Toyota’s principles and values as well as management environment (social and competitor trends and status of internal strategies and actions). STEP 1. 
+Environmental issues may entail both business risks and opportunities. It is therefore essential to identify key issues from both risk and opportunity perspectives when formulating environmental strategies. In order to grasp the potential risks and opportunities, Toyota has identified and assessed global environmental issues from the standpoints of relevance to stakeholders and importance to our business.
+Analysis Process. 
+We reflect the key issues identified through environmental materiality analysis in short- to long-term strategies and action plans including the Toyota Environmental Challenge 2050 and the Toyota Environmental Action Plan. Environmental materiality was reviewed at timing of recent formulation of the 2025 Target (Seventh Toyota Environmental Action Plan) in accordance with the above process. In addition, TMC and six regions (North America, Europe, China, Asia, South America and South Africa) embodied those targets from global and regional perspectives under an integrated process.
+Reflection in Environmental Strategies. 
+Validation We established a common understanding between Toyota Motor Corporation (TMC) and all regions at the global meetings also based on the analyses conducted by overseas affiliates. We also engaged in dialogue with international organizations to validate the issues identified from perspectives outside of the company. The matrix was confirmed by relevant executives.
+STEP 3. 
+Review Process We review the environmental materiality once every five years at the timing of the formulation of the five-year action plan. If there are any major shifts in society or Toyota, we will conduct flexible reviews regardless of the regular interval. STEP 4. 
+Environmental Materiality Analysis. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge. 
+Toyota Philosophy Guiding Principles at Toyota Toyota Global Vision Toyota Earth Charter. 
+Principles and Values. 
+Importance to Toyota. 
+Conservation of water resources. 
+Conservation of biodiversity Fostering of environmentally conscious persons. 
+CO2 emissions reduction during driving (improvement in fuel efficiency and electrification)
+CO2 emissions reduction at plants (energy-saving and renewable energy)
+Efficient use of mobility Promotion of environmental actions throughout the value chains. 
+Appropriate treatment of End-of-life vehicles Establishment of a recycling-based society and systems Partnership and collaboration with various industries Close communication with stakeholders Incorporation of environment into corporate management Conservation of air quality. 
+Management of chemical substances Reduction of waste. 
+Environmental Materiality Matrix. 
+Relevance to stakeholders. 
+Action Plan. 
+Medium- to Long-term Strategies. 
+Toyota Environmental Challenge 2050 2030 Milestone 2025 Target [Global and six regions]
+TCFD Strategy a, Risk Management a & b. 
+Fundamental Approach Toward the Environment. 
+Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+08 Environmental Report 2020. 
+Life Cycle Zero CO2 Emissions Challenge. 
+Plant Zero CO2 Emissions Challenge. 
+New Vehicle Zero CO2 Emissions Challenge. 
+Challenge of Establishing a Future Society in Harmony with Nature. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Minimizing and Optimizing Water Usage. 
+Challenge. 
+Challenge Challenge. 
+Challenge. 
+Challenge Challenge. 
+Toyota has been continuously following public opinions and trends and considering what issues should be focused, and working on environmental issues with new ideas and technologies in anticipation of future issues. However, there are still many global environmental issues to be addressed including climate change, water shortages, resource depletion and loss of biodiversity. We announced the Toyota Environmental Challenge 2050 in October 2015 so that each one of us can face these issues and continue to tackle challenges from a long-term perspective of the world 20 and 30 years ahead. In order to achieve the Toyota Environmental Challenge 2050, in 2018 we set the 2030 Milestone and set the 2025 Target in 2020. We will take concrete action under these short- to medium-term measures, contributing to the realization of a sustainable society.
+Contribution to SDGs1. 
+Toyota is contributing to achieving the goals and targets of the SDGs through measures to realize the Toyota Environmental Challenge 2050. The contributions to the SDGs as well as the targets and progress of the 2025 Target for achieving the SDGs are described on the first page of each challenge. For information regarding contributions to the SDGs through companywide business activities, please refer to “SDGs Initiatives” in the company website.
+* Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia 2 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles) 1 Sustainable Development Goals: International goals for the period from 2016 to 2030 set forth in the 2030 Agenda for Sustainable Development adopted at the United Nations General Assembly in September 2015. The SDGs consist of 17 goals and 169 targets.
+Reduce global* average CO2 emissions (TtW2) from new vehicles by 90 percent compared to Toyota’s 2010 levels by 2050. 
+Connect nature conservation activities beyond the Toyota Group and its business partners among communities, with the world, to the future. 
+Contribution to SDGs. 
+Contribution to SDGs. 
+Contribution to SDGs. 
+Contribution to SDGs. 
+Contribution to SDGs. 
+Contribution to SDGs. 
+Achieve zero CO2 emissions at global plants by 2050. 
+Minimize water usage and implement water discharge management according to individual local conditions. 
+Completely eliminate all CO2 emissions throughout the entire vehicle life cycle. 
+Promote global deployment of End-of-life vehicle treatment and recycling technologies and systems developed in Japan. 
+Toyota Environmental Challenge 2050. 
+SDGs Initiatives. 
+Toyota Environmental Challenge 2050. 
+Achieve Zero CO2 Emissions Achieve a net positive environmental impact. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement 1997 2010 2020 2040 2025 Target 2030 2030 Milestone 2050. 
+Toyota Environmental Action Plan (Five-year Plan)
+TCFD Strategy a. 
+Structure of Toyota’s Environmental Strategies. 
+Fifth First to Fourth Sixth Seventh. 
+Toyota Environmental Challenge 2050
+
+
+09 Environmental Report 2020. 
+Toyota Environmental Challenge 2050 2030 Milestone CY2019/FY2020 Initiatives. 
+New Vehicle Zero CO2 Emissions Challenge. 
+Plant Zero CO2 Emissions Challenge. 
+Life Cycle Zero CO2 Emissions Challenge. 
+Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature ● Make annual global sales of more than 5.5 million electrified vehicles, including more than 1 million battery electric vehicles (BEVs) and fuel cell electric vehicles (FCEVs). The estimate of global* average CO2 emissions reduction (TtW* g/km) from new vehicles will be 35 percent or more, which may vary depending on market conditions, compared to 2010 levels. * Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia * Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles) ● Implement measures, on a priority basis, in the regions where the water environment is considered to have a large impact <Water quantity> Complete measures at the four Challenge-focused plants in North America, Asia and Southern Africa <Water quality> Complete impact assessments and measures at all of the 22 plants where used water is discharged directly to river in North America, Asia and Europe ● Disclose information appropriately and communicate actively with local communities and suppliers ● Realize “Plant in Harmony with Nature”—12 in Japan and 7 overseas—as well as implement activities promoting harmony with nature in all regions where Toyota is based in collaboration with local communities and companies ● Contribute to biodiversity conservation activities in collaboration with NGOs and others ● Expand initiatives both in-house and outside to foster environmentally conscious persons responsible for the future ● Complete establishment of battery collection and recycling systems globally ● Complete set up of 30 model facilities for appropriate treatment and recycling of End-of-life vehicles ● Reduce CO2 emissions from global plants by 35 percent compared to 2013 levels ● Reduce CO2 emissions by 25 percent or more throughout the entire vehicle life cycle compared to 2013 levels by promoting activities for the milestones of New Vehicle Zero CO2 Emissions Challenge and Plant Zero CO2 Emissions Challenge, and with support from stakeholders such as suppliers, energy providers, infrastructure developers, governments and customers. 
+The 2030 Milestone announced in September 2018 indicates how the six challenges will be as of 2030. Steady action is being taken while confirming progress each year along with the Toyota Environmental Action Plan that sets the specific action plans and targets for every five-year period.
+2030 Milestone. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge. 
+Challenge 2030 Milestone ● Sold 1.92 million hybrid electric vehicles (HEVs), achieving the annual sales target of 1.5 million units ahead of schedule. Reached cumulative sales of 15.01 million units, achieving the target of 15 million units ahead of schedule. ● Reduced global average CO2 emissions from new vehicles by 22 percent compared to 2010 levels by improving environmental performance and expanding vehicle lineups ● Introduced innovative technologies including a new type of paint atomizer (airless paint atomizer) that uses static electricity and promoted energy-saving through daily kaizen ● Global CO2 emissions was 5.68 million tons (down 8.9 percent compared to 2013 levels) ● Achieved a 11.5 percent renewable electricity introduction rate for renewable electricity (100 percent introduction rate achieved at all plants in Europe, four plants in South America, as well as on the Mirai FCEV production line in Japan) ● Started various verification tests to support the utilization of hydrogen (fuel cell (FC) generator and electrolysis-based machine for hydrogen generation and filling) ● Comprehensively introduced reduction technologies and undertook daily water-saving efforts, such as water recycling and reducing the amount of steam used in painting processes ● In progress to reducing water usage per vehicle produced at a pace above target (down 5.0 percent compared to 2013 levels) ● Continuously managed water quality under internal standards that are stricter than regulatory standards ● Assessed the impact of wastewater at all plants ● Implemented wildlife habitat maintenance and improvement measures at the Tsutsumi, Teiho and other plants and conducted indicator species surveys to confirm the effects. Conducted 800 harmony with nature activities or more with the participation of 160,000 people or more over four years in collaboration with the Toyota Group companies and other affiliated companies. ● Continuously supported the assessment of endangered species (cumulative total of 21,341 species over four years) by the International Union for Conservation of Nature (IUCN); supported 26 projects by NPOs under the Toyota Environmental Activities Grant Program ● Conducted tree-planting activities participated by employees. Also, carried out multiple environmental education programs to the public and children at the Forest of Toyota and the Toyota Shirakawa-Go Eco-Institute.
+● Established an organization for promoting the 3R (Rebuilt, Reuse and Recycle) for onboard batteries in four regions (U.S., Europe, China and Asia), in particular, completed establishment of a system for HEV battery collection and recycling in Thailand ● Fully prepared for setting up model facilities for appropriate treatment of End-of-life vehicles in Belgium and Malaysia ● Steadily promoted life cycle CO2 emissions reduction by environmental management for product development after 2005 ● Conducted life cycle CO2 assessment for four vehicle models in Japan and achieved CO2 emission levels equivalent to or lower than those of reference vehicles ● Achieved 100 percent renewable electricity introduction rate at all R&D centers in Japan. 
+TCFD Metrics and Targets a & c. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+10 Environmental Report 2020. 
+Toyota announced the Seventh Toyota Environmental Action Plan-2025 Target, a new five-year action plan to achieve the Environmental Challenge 2050. Under this new target, we will accelerate environmental initiatives and contribute to the realization of a sustainable society including the Sustainable Development Goals (SDGs). We also formulated regional 2025 targets for six regions in line with the 2025 Target.
+Seventh Toyota Environmental Action Plan-2025 Target 2025 TargetーSeventh Toyota Environmental Action Plan 10. Toyota Global 100 Dismantlers Project 11. Toyota Global Car-to-Car Recycle Project ● Continuously accelerate easy-to-dismantle designs ◆ Integrate easy-to-dismantle designs to respond to appropriate treatment and recycling of End-of-life vehicles and resource issues, and provide appropriate information (large batteries, fuel cell (FC) hydrogen tank and others) ● Complete set up of 15 model facilities for appropriate treatment and recycling of End-of-life vehicles ● Develop technologies to utilize recycled materials (especially plastics) in accordance with the conditions in each region ◆ Promote utilization by technological development to optimally exploit recycled materials in Europe and to increase the supply of recycled materials in Japan ● Establish a safe and efficient system for battery 3R (Rebuilt, Reuse and Recycle), eyeing the widespread use of electrified vehicles ◆ Aim to maximize collection and detoxification of End-of-life batteries globally ◆ Start operating battery 3R throughout five regions—Japan, U.S., Europe, China and Asia. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Contribution to SDGs 12. Toyota Green Wave Project 13. Toyota Today for Tomorrow Project 14. Toyota ESD2 Project 2 Education for Sustainable Development ● Globally strengthen conservation of endangered species, which symbolize biodiversity in collaboration with NGOs and others. 
+Challenge of Establishing a Future Society in Harmony with Nature. 
+Contribution to SDGs ● Implement globally unified initiatives to foster environmentally conscious persons responsible for the future ◆ Offer environmental education opportunities by utilizing biotopes and others in collaboration with “Plant in Harmony with Nature” ◆ Foster environmentally conscious persons at both in-house and outside sites, including plants and the Forest of Toyota, by utilizing educational tools in harmony with nature for the next generation 4. Life cycle zero CO2 emissions 5. Logistics 6. Suppliers 7. Dealers ● Reduce CO2 emissions by 18 percent or more throughout the entire vehicle life cycle compared to 2013 levels ● Japan: Reduce CO2 emissions by 7 percent by improving transport efficiency compared to 2018 levels (average of 1 percent reduction per year) ● Overseas: Reduce CO2 emissions by vessels for export (introduce two LNG-powered pure car carriers) ● Promote CO2 emissions reduction activities among major suppliers ● Achieve 100 percent introduction rate for CO2 emissions reduction items at newly-constructed and remodeled dealers. 
+Life Cycle Zero CO2 Emissions Challenge. 
+Contribution to SDGs 8. Water quantity 9. Water quality ● Reduce water usage taking the water environment in each country and region into consideration ● Promote wastewater recycling, rainwater use and various activities including daily kaizen ● Reduce global water usage by 3 percent per vehicle produced compared to 2013 levels (reduce by 34 percent compared to 2001 levels) ● Complete measures at two Challenge-focused plants where the water environment is considered to have a large impact ● Realize “Plant in Harmony with Nature”－six in Japan and four overseas ● Promote activities to connect with local communities in collaboration with Toyota Group companies and other affiliated companies ● Start activities promoting harmony with nature in collaboration with local communities and companies toward biodiversity conservation 15. Chemical substances 16. Air quality 17. Waste ● Product: Steadily introduce low-emission vehicles and boost further improvement by introducing and increasing ZEVs3 ● Production: Continue volatile organic compound (VOC) emissions reduction activities and maintain industry-leading level 3 Zero Emission Vehicles: Vehicles that have the potential not to emit any CO2 during driving such as battery electric vehicles and fuel cell electric vehicles. 
+Environmental Management ● Promote activities to thoroughly reduce waste globally and aim to minimize the volume of resource input and waste, with the environment and economy in balance 18. Logistics packaging ● Implement initiatives to reduce and recycle plastics used in packaging and recycle them 19. Risk management ● Thoroughly comply with environmental laws and regulations and strengthen proactive prevention activities for environmental risks in each country and region ● Implement thorough management by carefully considering legal trends in each country and region ● Thoroughly manage water discharge quality under internal standards that are stricter than regulatory standards ● Continuously assess the impact of wastewater at all plants where it is discharged directly into the river. 
+Challenge of Minimizing and Optimizing Water Usage 2. Electrified vehicles ● Reduce global* average CO2 emissions (TtW1 g/km) from new vehicles by 30 percent or more compared to 2010 levels * Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia 1 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles) ● Make cumulative sales of 30 million electrified vehicles or more, targeting annual sales of 5.5 million units in 2030. 
+New Vehicle Zero CO2 Emissions Challenge Contribution to SDGs 3. Plant zero CO2 emissions ● Reduce CO2 emissions by implementing innovative technologies and daily kaizen and introducing renewable energy ● Reduce CO2 emissions from global plants by 30 percent compared to 2013 levels ● Promote proactive technological development to utilize hydrogen ● Achieve a 25 percent introduction rate for renewable electricity. 
+Plant Zero CO2 Emissions Challenge. 
+Contribution to SDGs ● Provide all models in the Toyota and Lexus lineups worldwide to be available either as a dedicated electrified model or with an electrified option, by around 2025. 
+Contribution to SDGs. 
+Contribution to SDGs 1. Average CO2 emissions from new vehicles. 
+Target Target Target Target. 
+Target Target Target. 
+TCFD Metrics and Targets a. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Based on U.S. GAAP Strategy/Management Six Challenges Environmental Data Verification Statement
+
+
+11 Environmental Report 2020. 
+Toyota is currently undertaking environmental initiatives under the Sixth Toyota Environmental Action Plan−FY2021 Target, and generally made steady progress in FY2020 as described below. Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Challenge. 
+Challenge. 
+Challenge. 
+Harmony with Nature. 
+Area Challenge. 
+Low Carbon (Climate Change, CO2)
+Recycling (Resources, Water)
+Environmental Management. 
+Highlights of Progress in FY2020 ● Reduced global average CO2 emissions from new vehicles by 22 percent compared to 2010 levels by expanding vehicle lineups and others ● Sold 1.92 million hybrid electric vehicles (HEVs), achieving the target of annual sales of 1.5 million units ahead of schedule. Reached cumulative sales of 15.01 million units, achieving the target of 15 million units ahead of schedule. ● The Lexus UX 300e, the first Lexus battery electric vehicle (BEV) production model, made its world premiere at the Guangzhou International Automobile Exhibition; the Mirai fuel cell electric vehicle (FCEV) is scheduled for launch in 2020 ● Comprehensively introduced reduction technologies and undertook daily water-saving efforts such as water recycling and reducing the amount of steam used in painting processes, decreasing Toyota’s water usage per vehicle produced (at vehicle plants) by 35 percent compared to FY2002 levels ● With regard to water quality, globally assessed the impact of plant wastewater that is discharged directly into rivers and managed water quality under internal standards that are stricter than regulatory standards ● Under the Toyota Green Wave Project, conducted training for employees who carry out Plant in Harmony with Nature initiatives in collaboration with NGOs. Implemented wildlife habitat maintenance and improvement measures at the Tsutsumi, Teiho and other plants and conducted indicator species surveys to confirm the effects. Conducted 800 harmony with nature activities or more with the participation of 160,000 people or more over four years in collaboration with the Toyota Group companies and other affiliated companies. ● Under the Toyota Today for Tomorrow Project, continuously supported the assessment of endangered species (cumulative total of 21,341 species over four years) by the International Union for Conservation of Nature (IUCN). Supported 26 projects by NPOs under the Toyota Environmental Activities Grant Program. ● Under the Toyota Education for Sustainable Development (ESD) Project, conducted tree-planting activities at the Aichi Earth Expo Memorial Park with the participation of 112 persons including employees and members of the All-Toyota Harmony with Nature Working Group ● There were two minor non-compliance issues on abnormal water quality in the production area and one minor non-compliance issue on waste in the non-production area, for which measures and yokoten were implemented ● Toyota revealed in the CDP* A List, the highest rank, in both the climate change and water security categories scored by CDP. Also, expanded the scope of application of the CDP Supply Chain Program every year and undertook measures in the climate change and water security areas with approximately 84 percent of suppliers on a procurement value basis.
+* CDP: An international NGO that encourages and assesses corporate disclosures on environmental actions based on calls from global institutional investors with high levels of interest in environmental issues. 
+Challenge. 
+Environmental Data p. 30 Progress of the Sixth Toyota Environmental Action Plan (Detail)
+New Vehicle Zero CO2 Emissions Challenge ● Conducted life cycle CO2 assessment for four vehicle models in Japan and achieved CO2 emission levels equivalent to or lower than those of reference vehicles ● Reduced CO2 emissions through steady kaizen activities (loading efficiency improvement, shortening of logistics routes and modal shifts) in the area of logistics ● Introduced innovative technologies including a new type of paint atomizer (airless paint atomizer) that uses static electricity and promoted energy-saving through daily kaizen ● Expanded reduction effects globally through yokoten of measures especially on adoption of steamless and airless processes and on a shift to LED lighting, as well as best practices in daily kaizen ● Accelerated global introduction of renewable energy, achieving 100 percent renewable electricity introduction rate at all plants in Europe, four plants in South America, as well as on the Mirai FCEV production line in Japan ● Started various verification tests to support the utilization of hydrogen (fuel cell (FC) generator and electrolysis-based machine for hydrogen generation and filling)
+Challenge. 
+Life Cycle Zero CO2 Emissions Challenge. 
+Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature ● Under the Toyota Global 100 Dismantlers Project, fully prepared for setting up model facilities for appropriate treatment of End-of-life vehicles in Belgium and Malaysia. Also, prepared a video manual on removal of hydrogen gas from FCEVs. ● Under the Toyota Global Car-to-Car Recycle Project, established an organization for promoting the 3R (Rebuilt, Reuse and Recycle) for onboard batteries in four regions (U.S., Europe, China and Asia). In particular, completed establishment of a system for HEV battery collection and recycling in Thailand. Also, to further promote plastic recycling, expanded use of recycled plastic first in Europe, where the recycled plastic market is large.
+Plant Zero CO2 Emissions Challenge. 
+Challenge. 
+TCFD Metrics and Targets a & c. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+12 Environmental Report 2020. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Toyota strives to identify the various risks and opportunities that will arise from environmental issues, takes action while continuously confirming the validity of strategies such as the Toyota Environmental Challenge 2050 and works to enhance its competitiveness. Within these efforts, we believe that tightening regulations as measures against climate change and adopting new technologies will be necessary in various areas. As climate change advances, it is expected that temperatures will increase, ocean levels will rise and natural disasters including typhoons and flooding will become more severe. These changes may have various impacts on Toyota’s business fields. These impacts may also pose risks to Toyota’s business, but it is our understanding that if we can respond appropriately, this will lead to enhanced competitiveness and the acquisition of new business opportunities. Based on this understanding, we have organized the risks relating to climate change and identified particularly significant risks in light of the degree of impact and the level of interest by stakeholders. Toyota supports the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) and appropriately discloses information concerning risks and opportunities related to climate change and their analyses.
+List of Toyota Climate Change Related Risks (Risks (1), (4) and (8) are significant and have high levels of stakeholder interest)
+Transition Risks. 
+Physical Risks. 
+Regulations (1) Tighter regulations of fuel efficiency and ZEVs* (electrification responses); (2) Regulation of life cycle CO2 emissions; (3) Carbon taxes and carbon pricing * Zero Emission Vehicles that have the potential not to emit any CO2 during driving such as battery electric vehicles and fuel cell electric vehicles. 
+Markets (4) Costs to reduce plant CO2 emissions; (5) Changes in customer values (sharing, modal shifts and others)
+Reputation (6) Stricter Environment, Social and Governance (ESG) assessment criteria and disclosure requirements; (7) Differences between catalog fuel efficiency and actual fuel efficiency. 
+Acute (8) Increased frequency and intensification of natural disasters. 
+Chronic (9) Increased difficulty in purchasing water. 
+Significant Risks and Opportunities with High Interest of Stakeholders and Toyota’s Measures. 
+Risks Opportunities Toyota’s Current Status and Measures Relationship with Climate Scenario. 
+Current Scenario. 
+Impacts will be an extension of current status. 
+Enhanced Measures Scenario (2DS/B2DS/1.5°C)
+Impacts will increase ● Fines for failure in achieving fuel efficiency regulations ● Decrease in market share due to delays in complying with ZEV regulations ● Stranded assets of engine manufacturing sites ● The highest levels of fuel efficiency in Europe are expected to comply with current regulations ● Launch of battery electric vehicles (BEVs) are starting in China ● Increase of investments in ZEVs and shift of resources are needed ● Establishment of external sales structures with Group companies such as hybrid systems are needed ● Increase sales of electrified vehicles ● Higher profits from external sales of hybrid systems and other products (1) Tighter regulations of fuel efficiency and ZEVs (electrification responses) (4) Costs to reduce plant CO2 emissions (8) Increased frequency and intensification of natural disasters. 
+Impacts will be an extension of current status Impacts will increase. 
+Impacts will be an extension of current status Impacts will increase ● Higher energy costs due to use of expensive renewable energy and hydrogen ● Poor reputation in case the introduction of renewable energy falls below that of society ● Promoting comprehensive energy-saving and introduction of renewable energy and hydrogen ● Entry into the renewable energy power generation business and promote stable purchase ● Energy-saving activities ● Improve reputation and reduce energy costs through the purchase of low-cost, high-quality renewable energy and hydrogen ● Production suspension due to damage to production facilities and supply chain disruptions by natural disasters ● Formulating a business continuity plan (BCP) in light of disaster experiences ● Reinforcing information gathering in collaboration with suppliers to avoid purchasing delays ● Higher demand for electrified vehicles due to increased need for supply of power from automobiles during emergency situations. 
+TCFD Strategies a & b & c, Risk Management a SASB TR-AU-410a.3. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Based on U.S. GAAP Strategy/Management Six Challenges Environmental Data Verification Statement
+
+
+13 Environmental Report 2020. 
+As climate change measures proceeds, there is a possibility that the automobile industry and the entire mobility society will be exposed to substantial changes. These changes will present both risks and opportunities to Toyota. We set multiple images of society in 2030 as Toyota’s external environment based on the International Energy Agency (IEA) scenarios and others, in light of risk and opportunity analysis. With regard to the IEA scenarios, we put focus on the 2°C scenario (2DS) and pictured future images in cases where climate change measures do not progress and where climate change measures progress further (B2DS).
+STEP 1 Set Future Images Assuming Climate Change Effects. 
+We examined the impacts on Toyota for each of the future images developed in STEP 1. No matter what type of society develops in 2030, the global market for the new vehicles will expand, but in a society where climate change measures progress further, the percentage of electrified vehicles and ZEVs in use will increase. With regard to effects on production and purchasing, introduction of and increases in carbon pricing may lead to higher purchasing and production costs, while promoting energy-saving and introducing renewable energy and hydrogen will mitigate risks. In addition, introducing the regulation of life cycle CO2 emissions will likely give rise to calls to take measures to reduce not just TtW1 emissions, but also WtW2 emissions. On the other hand, in the case where climate change measures are not adequate throughout society, production suspensions and supply chain disruptions are likely to increase as a result of increased frequency and severity of natural disasters such as flooding. Under the current analysis, B2DS under the IEA scenario is the scenario under which measures will progress the most, but it is our understanding that tighter regulations and technological advances will be called for more under the scenario where temperature increase is limited to 1.5°C than under B2DS.
+1 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles) 2 Well to Wheel: Includes CO2 emissions during driving as well as CO2 emissions during the production stage of fuel and electricity (CO2 emissions vary depending on the power supply configuration and hydrogen production method in the case of battery electric vehicles and fuel cell electric vehicles)
+STEP 2 Consider the Impacts on Toyota. 
+Toyota will begin selling battery electric vehicles (BEVs) in China in 2020 and is promoting electrification from all directions including hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs) and fuel cell electric vehicles (FCEVs). This strategy will allow for flexible and strategic responses to each demand for varying powertrains depending on the scenario as well as WtW emissions reductions optimized for each region by introducing BEVs in regions where the emission factors from electricity are low and promoting emissions reductions through HEVs in regions where the emission factors are high. By promoting real CO2 emissions reductions throughout the world through these types of initiatives, we are working to achieve New Vehicle Zero CO2 Emissions and Life Cycle Zero CO2 Emissions. We are also working towards Plant Zero CO2 Emissions in the production stage and reducing CO2 emissions through comprehensive energy-saving and introduction of renewable energy and hydrogen. With respect to renewable energy in particular, we have set a new target, achieve a 25 percent introduction rate for renewable electricity by 2025, and are actively working towards that target including announcing our entry into the renewable energy power generation business. With regard to the ongoing confirmation of the suitability and progress of Toyota’s strategies, we believe that we will have opportunities for stable funding and sustainable increases in corporate value through appropriate information disclosure, dialogue with institutional investors and other stakeholders and enhanced responses to various ESG assessment indicators.
+STEP 3 Respond to Toyota’s Strategies. 
+Scenario Analysis Assuming Risks and Opportunities. 
+Three Different Images of Society as Toyota’s External Environment • Growth of conventional engine vehicles, electrified vehicles and ZEVs under BAU • Higher frequency and intensification of natural disasters such as flooding. 
+Future Image in the Case Where Climate Change Measures Do Not Progress • Increase in sales of electrified vehicles and ZEVs, and contracting market for conventional engine vehicles • Need stronger responses throughout the entire value chains through life cycle-oriented approach. 
+Future Image in the Case Where Climate Change Measures Progress 2DS Future Image • Increase in sales of electrified vehicles and ZEVs • Sales of engine vehicles remain at current levels. 
+Global new vehicle sales market. 
+Purchasing & production • Higher energy purchasing costs due to the introduction of carbon pricing and other measures • Acceleration of investment in electrification. 
+Reputation • Calls for disclosure concerning progress consistent with the 2°C scenario • Increase in importance of degree of compliance with regulations, renewable energy rates and others. 
+Changes in customer values. 
+Regulation of life cycle CO2 emissions. 
+Carbon taxes Carbon pricing. 
+Physical risks such as disasters. 
+Promotion of energy-saving and use of renewable energy and hydrogen. 
+Review of production of conventional engine vehicles due to electrification. 
+Strengthen Environment, Social and Governance (ESG) assessment criteria and calls for disclosure. 
+Regulations of fuel efficiency and zero emission vehicles (ZEVs)
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+14 Environmental Report 2020. 
+Customers. 
+Global Society and Local Communities Shareholders. 
+Employees Business Partners TOYOTA. 
+Sustainability Data Book. 
+CSR Policy. 
+We understand and commend each of the environmental challenges. However, we are unable to gain a clear, overall picture of Toyota’s initiatives and contributions to society. It is necessary for Toyota to present an overall image of solutions to various environmental and social issues. In particular, way to comprehensively solve energy and resource recycling issues.
+We strive to present overall images of solutions to various environmental and social issues in the Environmental Report as well as the Annual Report and Sustainability Data Book. We will take additional actions to address energy and resource recycling issues in accordance with the 2025 Target.
+Toyota declares in the preamble of the CSR Policy to manage interacting with all stakeholders in order to contribute to the sustainable society and endeavor to build and maintain sound relationships with stakeholders through open and fair communication. The CSR Policy identifies customers, employees, business partners, shareholders and global society and local communities as stakeholders. Of these, global society and local communities includes the residents, governments, economic and industry organizations, NGOs and NPOs, in the area where our offices all over the world are located. Toyota establishes a policy on the CSR Policy to build and maintain communications and relationships with each of these stakeholders. Based on these policies, our various relevant divisions and offices all over the world acts as the main contacts for dialogues with stakeholders on diverse objectives and topics. We share Toyota’s philosophy and also enhance mutual understanding. Please refer to the Sustainability Data Book for details of dialogues with each stakeholder.
+In the area of environment, we believe that communication with global society and local communities made up of diverse parties is particularly important in the pursuit of establishing a future society in harmony with automobiles and nature. Based on this, we engage in dialogues primarily with experts, NGOs, assessment agencies, international organizations and government officials with the ability to disseminate information, while maintaining a solid understanding and holding insight regarding the ideal expected of the global society and local communities. Through such dialogues, we seek to impart understanding of Toyota’s environmental initiatives and build supportive and collaborative relationships while seeking valuable ideas on how we can further strengthen those initiatives. This policy was discussed and adopted in April 2019 at the Global Environment Meeting for general manager level employees of Toyota Motor Corporation (TMC) and regional environmental secretariats.
+Main Stakeholder Groups and Fundamental Approach to Stakeholder Engagement Main Suggestions and Toyota’s Responses. 
+In formulating the 2025 Target, we engaged in dialogues with various NGOs, assessment agencies, international organizations and government officials in FY2020, and examined the direction of our initiatives and reflected them in the plan. A stakeholder engagement dialogue held in Bangkok, Thailand is shared below as an example.
+September 17, 2019. 
+Conference room of a hotel in Bangkok, Thailand. 
+United Nations Environment Programme (UNEP) Asia and the Pacific Office, six people. 
+TMC, four employees; TDEM (an affiliate in Thailand), three employees. 
+There are concerns that air pollution caused by automobiles can have negative impacts on health similar to smoking. There is a strong relationship with non-communicable disease in particular. Electrified vehicles are effective in preventing air pollution, and for this reason, their widespread adoption should be encouraged.
+The 2025 Target expressly refers to air pollution in its materiality analysis and incorporates specific actions such as reducing emissions of volatile organic compounds (VOCs). We will work to promote the widespread use of electrified vehicles based on the 2025 Target.
+Main Suggestions Toyota’s Response. 
+Stakeholder engagement dialogue in Bangkok, Thailand. 
+Example of Stakeholder Engagement Conducted in the Form of a Meeting in FY2020. 
+Date. 
+Location. 
+Participating stakeholders. 
+Toyota. 
+Stakeholder Engagement. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement. 
+Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+15 Environmental Report 2020. 
+Product: In response to stricter emissions regulations in various countries and regions, steadily introduced vehicles that satisfy those regulations Production: Continued efforts to reduce the use of cleaning solvents and to increase the percentage of waste solvent recovery. 
+Complied with Toyota internal rules in the global deployment of chemical substance management structures, and evaluated and improved chemical substance management structures by auditing and investigating suppliers’ processes. 
+Promoted waste reduction and efficient use of resources through measures aimed at the sources of waste. 
+Promoted kaizen with a focus on increasing use of returnable containers and reducing the weight of wrapping material. 
+There were two minor non-compliance issues on abnormal water quality in the production area and one minor non-compliance issue on waste in the non-production area, for which measures were completed. 
+Environmental Management and Value Chains Collaboration. 
+Fundamental Approach 2025 Target. 
+Environmental Management Pursue reductions in environmental load and risks in collaboration with consolidated subsidiaries. 
+CY2019/FY2020 Initiatives. 
+Chemical substances. 
+Air quality. 
+Waste. 
+Logistics packaging. 
+Risk management. 
+Implement thorough management by carefully considering legal trends in each country and region. 
+Product: Steadily introduce low-emission vehicles and boost further improvement by introducing and increasing zero emission vehicles (ZEVs) Production: Continue volatile organic compound (VOC) emissions reduction activities and maintain industry-leading level. 
+Promote activities to thoroughly reduce waste globally and aim to minimize the volume of resource input and waste, with the environment and economy in balance. 
+Implement initiatives to reduce and recycle plastics used in packaging and recycle them. 
+Thoroughly comply with environmental laws and regulations and strengthen proactive prevention activities for environmental risks in each country and region. 
+Toyota is identifying environmental risks and opportunities that can affect business operations and incorporating them into management plans to build structures for sustainable development in harmony with society. Together with consolidated subsidiaries, we are steadily promoting environmental management globally, including legal compliance measures and comprehensive risk management. To conserve the global environment and conduct sustainable business, it is necessary to reduce environmental load throughout the entire vehicle life cycle. Because of this, Toyota is taking measures not limited to scope of consolidation, but also in collaboration with businesses, including suppliers and dealers, in the upstream and downstream value chains. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 3.9 (reduction of environmental pollution), 11.6 (reduction of environmental impact of cities), 12.6 (sustainable practices), 12.8 (sustainable lifestyles), and 13.1 (reduction of CO2).
+Environmental Management. 
+Contribution to SDGs. 
+Value Chains Collaboration. 
+Implemented environmental initiatives including item introduction and started global development of systems for sharing information on progress. 
+Started global formulation of implementation plans to identify CO2 emissions management methods and expand activities 2025 Target. 
+Value Chains Collaboration Pursue reductions in environmental load throughout the entire vehicle life cycle in collaboration with suppliers, dealers and distributors. 
+CY2019/FY2020 Initiatives Progress. 
+Dealers and distributors. 
+Suppliers. 
+Achieve 100 percent introduction rate for CO2 emissions reduction items at newly-constructed and remodeled dealers. 
+Promote CO2 emissions reduction activities among major suppliers. 
+Achieved. 
+As planned. 
+Behind schedule. 
+Achieved. 
+As planned. 
+Behind schedule. 
+Environmental Data p. 35-A. 
+Environmental Data p. 35-B. 
+Environmental Data p. 35-C. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement. 
+Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+16 Environmental Report 2020. 
+Environmental Management. 
+Compliance Toyota and all of its consolidated subsidiaries undertake comprehensive risk management based on prevention in accordance with criteria that meet or exceed laws and regulations. If a violation occurs or a complaint is made, we have systems in place to respond in a timely manner, and we work to prevent reoccurrence through identification of root causes. In 2019, we were not involved in any major environmental incidents causing air or water pollution, nor was the Toyota Group subjected to any fines or penalties. However, there were two minor non-compliance issues on abnormal water quality in the production area and one minor non-compliance issue on waste in the non-production area, for which measures were implemented.
+Ozone-depleting Substances We are taking measures to completely eliminate the use of ozone-depleting substances, and no significant releases have been found.
+Air Pollution Measures: Expanded Verification Tests in California Freight trucks currently operate in coastal areas of the United States, releasing significant amount of carcinogens, diesel particulate matters (DPM) and other pollutants and causing serious problems for communities in the vicinity of the Port of Long Beach and Port of Los Angeles. To solve these problems, we conducted verification tests toward the practical use of heavy-duty commercial fuel cell (FC) electric trucks. Toyota is working with various partners to improve the global atmospheric environments by expanding the use of hydrogen.
+Risk Management. 
+At Toyota, Operating Officers and executives make timely decisions and carry out environmental initiatives from positions that are closer to customers and worksites under the supervision of the Board of Directors. The Sustainability Meeting deliberates on long-term enhancement of competitiveness and responses to risks in light of internal and external changes with a focus on environmental, social and governance issues. The progress regarding measures to reduce CO2 in the area of product and production are reported as key management indicator at meetings attended by those on and above chief officer and company president levels. Three core committees—the Environmental Product Design Assessment Committee, the Production Environment Committee and the Resource Recycling Committee—consider issues and responses in each area in light of risks and opportunities, and all relevant divisions work together to carry out initiatives. In addition, environmental secretariats have been established in six regions (North America, Europe, China, Asia, South America and South Africa), and global meetings are held once a year or more to promote globally-united environmental initiatives.
+Environmental Management Structure. 
+All global production affiliates (130 companies) in Japan and overseas maintain 100 percent certification to renew their certification.
+ISO 14001. 
+Revealed in the CDP A List In January 2020, Toyota has been selected for inclusion in the A List which is the highest evaluation for climate change and water security by CDP*.
+* CDP: An international NGO that encourages and assesses corporate disclosures on environmental actions based on calls from global institutional investors with high levels of interest in environmental issues. 
+Received the Minister of the Environment Award at the 2019 Award for Advanced Human Resource Development for Global Environment The Award recognizes companies that develop human resources that can lead eco-friendly corporate activities. Our activities for conducting employee training through three cycles—know, learn, do—depending on the level of employee awareness and comprehension were highly evaluated.
+Awards Received. 
+Environmental Management is operated, covering all consolidated subsidiaries (488 companies) on a financial accounting basis as well as unconsolidated vehicle production companies included within the scope of the environmental challenges (10 companies). Each company carries out environmental management in accordance with the following three items.
+Environmental Management Promotions. 
+Scope of Environmental Management and Promotions 1. Organize internal structures (governance) 2. Conduct thorough risk management (compliance and voluntary actions) 3. Maximize environmental performance. 
+Global Environmental Management Structures. 
+Toyota Motor Corporation (TMC)
+Region (North America, Europe, China, Asia, South America and South Africa)
+Strategy/Target Implementation. 
+Toyota Environmental Challenge 2050 2030 Milestone 2025 Target. 
+Regional 2025 Targets. 
+Regional environmental secretariat. 
+Environmental Product Design Assessment Committee Production Environment Committee Resource Recycling Committee. 
+Collaboration global meetings, etc. ( )
+Collaboration. 
+TCFD Governance a & b, Risk Management a & b & c. 
+The heavy-duty commercial FC electric truck currently undergoing verification tests. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement. 
+Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+17 Environmental Report 2020. 
+Green Purchasing1 Guidelines Toyota purchases a wide range of materials, parts and equipment from many different suppliers. We have been collaborating with all suppliers on implementing environmental initiatives through the TOYOTA Green Purchasing Guidelines. We released the Green Purchasing Guidelines not only in Japan, but also at overseas purchasing sites tailored to local conditions. We will continue to request that suppliers undertake initiatives in accordance with the guidelines.
+1 Green Purchasing: Prioritizing the purchase of parts, materials, equipment and services with a low environmental footprint when manufacturing products. 
+Mutual Studies with Suppliers We study environmental issues with suppliers through a variety of opportunities. Research groups of the Kyohokai, which consists of 200 parts suppliers or more, commenced activities on environmental topics throughout the year. At the end of FY2020, research groups summarized the activities of the study sessions in the first term and shared the results among the Kyohokai members.
+Green Purchasing Guidelines. 
+Value Chains Collaboration. 
+Toyota has strong bonds of trust with its dealers and distributors built on shared values for products and services. With respect to environmental activities, in 2016 we established the Environmental Global Policy in the Sales and Service Area and all dealers and distributors globally implemented four steps according to local conditions: establishing a structure of environmental system, minimization of environmental risks, improvement of environmental performance and activities to make environment better with customers and society.
+Initiatives with Suppliers. 
+Recognition of Supplier’s Environmental Initiatives We established the Environmental Activity Awards in FY2018 to commend suppliers that conduct exceptional environmental initiatives and has presented the awards every year.
+CDP2 Supply Chain Program We introduced the CDP Supply Chain Program in FY2016 to support continuous environmental initiatives conducted with suppliers. The program enables us to determine supplier’s risks, opportunities and their initiatives on climate change and water security. Each year we create opportunities for environmental communication by holding briefing sessions and response guidance where we share information on social trends and Toyota’s initiatives and provide feedback on response results. The scope of subject suppliers has been increasing every year, and in FY2020, suppliers accounting for approximately 84 percent of the total purchasing value were covered by the program. Based on the self-assessment results, we confirmed that approximately two-thirds of suppliers had reduced CO2 intensity (total emissions/net revenues) compared to the previous year.
+Climate Change. 
+Number of responses: 107 companies (up 18 from the previous year) Response rate: 96%
+Governance C1.1 Whether there is board-level oversight. 
+Risks and opportunities C2.3 Identifying climate-related risks. 
+Targets and performance C4.1 Reporting an emissions target or goal 91% 85% 89% 93%
+Water Security. 
+Number of responses: 102 companies (up 19 from the previous year) Response rate: 94%
+Procedures W3.3 Assessment of water-related risks. 
+Risks and opportunities W4.1 Identifying water-related risks 77% 71% 79% 62%
+Initiatives with Dealers and Distributors. 
+Ensuring Compliance with Regulation Concerning the REACH3 and Other Global Regulations on Chemical Substances Against a backdrop of rising interests in the Sustainable Development Goals (SDGs) and Environment, Social and Governance (ESG), countries and regions around the world are strengthening regulations related to chemical substances. Such regulations include the Chemical Substances Control Law4 in Japan, and the Directive on ELV5 and Regulation concerning the REACH of a European Union. Moreover, companies are expected to raise levels of corporate attitudes, such as chemical substance management structures and information disclosure, even further. In addition to complying with laws and regulations, Toyota is improving structures and undertaking operational management in cooperation with all parties involved in conveying chemical substance information in order to disseminate and share the ideals of the SDGs and ESG. In the future, we will continue industry collaboration and global deployment and comprehensive implementation of action standards tailored to the cultures and industrial structures of each region.
+3 Regulation concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals regulation: A regulation for managing chemical substances to protect human health and the environment 4 Chemical Substances Control Law (The Act on the Regulation of Manufacture and Evaluation of Chemical Substances): An Act to prevent environmental pollution caused by chemical substances that pose a risk of impairing human health and interfere with the inhabitation and growth of flora and fauna 5 Directive on End-of Life Vehicles: A directive designed to reduce the load of End-of-life vehicles on the environment. 
+Main Results of the CDP Supply Chain Program (questions that Toyota considers as material) responded: implemented or yes 80% or more responded: implemented or yes 60% or more. 
+Business strategy W7.1 Integrating water-related issues into business strategy. 
+Business strategy C3.1 Integrating climate-related issues into business strategy Governance W6.1 Whether the organization has a water policy 2 CDP: An international NGO that encourages and assesses corporate disclosures on environmental actions based on calls from global institutional investors with high levels of interest in environmental issues. 
+Fundamental Approach Toward the Environment Environmental Materiality Analysis 2030 Milestone Stakeholder Engagement. 
+Environmental Management and Value Chains Collaboration. 
+Seventh Toyota Environmental Action Plan-2025 Target. 
+Highlights of Progress of the Sixth Toyota Environmental Action Plan. 
+Toyota Environmental Challenge 2050. 
+Risks and Opportunities and Scenario Analysis Relating to Climate Change. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement
+
+
+18 Environmental Report 2020. 
+Extreme weather phenomena around the world are wreaking havoc on society, attesting to the reality of climate change. If adequate measures are not taken, the harm will become even more severe, and the risks of global-scale damage have been pointed out. Under these circumstances, the Paris Agreement, which came into effect in 2016, sets long-term goals to hold the increase in the global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit the temperature increase to 1.5°C above pre-industrial levels. As the world moves to curtail temperature increase, Toyota sees this situation as both a risk and an opportunity and will strive to reduce average CO2 emissions per vehicle during driving by 90 percent compared to 2010 levels by 2050 under the New Vehicle Zero CO2 Emissions Challenge. Based on the idea that eco-friendly vehicles contribute to the environment only when they come into widespread use, we are not only deploying technologies for conventional engine vehicles, but also accelerating advances in technology and its widespread adoption for the electrified vehicles that Toyota has been developing (including hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs), battery electric vehicles (BEVs) and fuel cell electric vehicles (FCEVs)). We are committed to continuing working hand in hand with stakeholders to build the necessary infrastructure that supports the widespread use of BEVs and FCEVs. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 7.3 (improvement in energy efficiency) and 13.1 (reduction of CO2).
+Fundamental Approach. 
+Reduce Global* Average CO2 Emissions (TtW*) from New Vehicles by 90 Percent Compared to Toyota’s 2010 Levels by 2050. 
+New Vehicle Zero CO2 Emissions Challenge. 
+Progress 2025 Target CY2019/FY2020 Initiatives. 
+Challenge * Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia * Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles) ● Reduce global* average CO2 emissions (TtW g/km) from new vehicles by 30 percent or more compared to 2010 levels ● Reduced global* average CO2 emissions from new vehicles by 22 percent compared to 2010 levels by improving environmental performance and expanding vehicle lineups ● Make cumulative sales of 30 million electrified vehicles or more, targeting annual sales of 5.5 million units in 2030 ● Provide all models in the Toyota and Lexus lineups worldwide to be available either as a dedicated electrified model or with an electrified option, by around 2025 ● Sold 1.92 million HEVs including PHEVs globally, surpassing the 2020 target of 1.5 million units annually. 
+Average CO2 emissions from new vehicles. 
+Sales of electrified vehicles. 
+The Mirai Concept, scheduled for launch in 2020 [Index]
+Global* Average CO2 Emissions from New Vehicles. 
+Environmental Data p. 35-E. 
+Achieved. 
+As planned. 
+Behind schedule. 
+Average CO2 emissions from new vehicles. 
+TCFD Strategy b. 
+SASB TR-AU-410a.3. 
+Contribution to SDGs. 
+Six Challenges. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature 2010 0 20 40 60 80 100 Reduce by 30% or more. 
+Reduced by 22% 2019 2025 2030 2050. 
+Reduce by 35% or more. 
+Reduce by 90% or more. 
+Third Party Assurance. 
+TCFD Metrics and Targets c. 
+SASB TR-AU-410a.2. 
+TCFD Metrics and Targets c Third Party Assurance
+
+
+19 Environmental Report 2020. 
+Eco-friendly Vehicles Contribute to the Environment only when They Come into Widespread Use—Results in Europe CO2 Emissions Reduction Efforts with Other Industries. 
+Promoting the Development and Widespread Use of Electrified Vehicles World Premiere of the UX 300e, the First Lexus BEV Production Model. 
+The UX 300e, the first Lexus BEV model for market launch. 
+In the process of seeking dedicated electrified vehicles and electric options, at the Tokyo Motor Show 2019, Lexus announced its global electrification strategy, called “Lexus Electrified,” which targets driver enjoyment. The UX 300e is scheduled to go on sale in China, Europe and other regions in phases starting in 2020, with sales in Japan slated to start in the first half of 2021.
+Tightening of major environmental regulations relating to automobiles has been seen in many countries in recent years. Tightening of CO2 regulations has been accelerating within Europe in particular, a major market for Toyota new vehicle sales. In 2018, Toyota’s average CO2 emissions from new vehicles were 102.1 g/km, substantially better than the regulatory standards and the best level in the industry. We believe that this was the result of electrified vehicles—mainly hybrid electric vehicles (HEVs) and plug-in hybrid electric vehicles (PHEVs)—reaching 58 percent of all sales thanks to the improved fuel efficiency and enhanced marketability. Since the launch of the Prius in 1997, we have continuously made technological innovations and refined mass production technologies. We will continue to leverage these Toyota’s strengths to expand the lineup of vehicles that customers choose.
+Toyota achieved the Sixth Toyota Environmental Action Plan of cumulative sales of 15 million electrified vehicles by 2020 ahead of schedule. As of March 2020, the CO2 emissions reduction effects from the introduction of electrified vehicles have reached approximately 125 million tons. And, in the 2025 Target, announced in April 2020, we set a target of cumulative sales of 30 million electrified vehicles or more by 2025, and will continue working toward the widespread use of electrified vehicles. We also announced the challenges toward the widespread use of electrified vehicles which aims to expand dedicated electrified models and electric options and have no vehicles available only as an engine model globally by around 2025. We will expand the product lineup according to customer needs while seeking global sales of more than 5.5 million electrified vehicles including 1 million or more battery electric vehicles (BEVs) and fuel cell electric vehicles (FCEVs), which are ZEVs*, by 2030.
+* Zero Emission Vehicles: Vehicles that have the potential not to emit any CO2 during driving such as battery electric vehicles and fuel cell electric vehicles. 
+In 2019, Seven-Eleven Japan Co., Ltd. and Toyota launched a joint next-generation convenience store project toward greater CO2 emissions reduction. The project aims to introduce technologies and systems developed by Toyota in Seven-Eleven store operation and distribution, reducing CO2 emissions. Stationary fuel cell (FC) generators and rechargeable batteries are being introduced at stores and centrally managed by building energy management systems to reduce CO2 emissions by raising the proportion of renewable energy and electric power derived from hydrogen used. In distribution, the objective is to achieve zero emissions of substances of concern including CO2 by introducing a newly developed small FC electric truck.
+Average CO2 Emissions from New Vehicles and Percentage of HEVs and PHEVs in Europe (M1 compact passenger car)
+Environmental Data p. 35-E. 
+Environmental Data p. 35-E. 
+Sales of Electrified Vehicles and CO2 Emissions Reduction Effects (as of end of March 2020)
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature 25.0 1997 0 0 2
+4. 
+Annual. 
+Cumulative 6
+10 20 30 2000 2005 2010 2015 2020 2025 0 0 12.5. 
+Annual. 
+Cumulative 62.5 125.0 121.26 16.58 15.01. 
+Seventh Plan Target. 
+Sixth Plan Target 1.92. 
+Annual sales. 
+Cumulative sales. 
+Annual CO2 emissions reduction effect. 
+Cumulative CO2 emissions reduction effect. 
+SASB TR-AU-410a.2. 
+SASB TR-AU-410a.1. 
+Third Party Assurance 0
+60 80 100 120 140 0
+20 40 60 80 100 102 58 2010 2012 2014 2016 2018. 
+Average CO2 emissions from new vehicles (left scale) ［％］ ［g/km］
+Percentage of HEVs & PHEVs (right scale)
+Source: European Environment Agency (EEA)
+Average CO2 emissions from new vehicles. 
+Percentage of HEVs and PHEVs (million t CO2) (million t CO2) (million units) (million units)
+
+
+20 Environmental Report 2020. 
+Challenge. 
+Achieve Zero CO2 Emissions at Global Plants by 2050. 
+Plant Zero CO2 Emissions Challenge. 
+Motomachi Plant production line for the Mirai: The Mirai is produced using 100 percent renewable electricity (left: installation of a high-pressure hydrogen tank; right: final inspection)
+Fundamental Approach. 
+The Plant Zero CO2 Emissions Challenge seeks zero CO2 emissions in the vehicle manufacturing process. To achieve this, Toyota is undertaking the introduction of innovative technologies and daily kaizen as well as the introduction of renewable energy and utilization of hydrogen. First of all, processes and the time required were reduced by simplifying and streamlining manufacturing processes, which made an improvement to energy use efficiency, including equipment optimization and the use of waste heat. Furthermore, we use every possible means to reduce CO2 emissions including introducing an innovative process called karakuri that does not consume any energy source at all. In addition, we will effectively utilize renewable energy such as solar power and wind power along with hydrogen energy, and we are committed to continuing working hand in hand with stakeholders to build the necessary social infrastructure to support the widespread use of these energy sources. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 7.2 (introduction of renewable energy), 7.3 (improvement in energy efficiency), 9.1 (infrastructure development), 9.4 (sustainable industrial processes), and 13.1 (reduction of CO2).
+Global CO2 Emissions. 
+Environmental Data p. 36-F 100% renewable electricity. 
+All plants Europe 4 plants South America. 
+Mirai fuel cell electric vehicle (FCEV) production line in Japan. 
+Japan. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature. 
+Contribution to SDGs. 
+TCFD Strategy b 2019 2013. 
+Reduce by 30% 2025 2030 2050. 
+Reduce by 35%
+Zero CO2 Emissions. 
+TCFD Metrics and Targets b. 
+Reduced by 8.9% ● Reduce CO2 emissions by implementing innovative technologies and daily kaizen and introducing renewable energy ● Reduce CO2 emissions from global plants by 30 percent compared to 2013 levels ● Achieve a 25 percent introduction rate for renewable electricity ● Introduced innovative technologies including a new type of paint atomizer (airless paint atomizer) that uses static electricity and promoted energy-saving through daily kaizen ● CO2 emissions was 5.68 million tons (down 8.9 percent compared to 2013 levels) ● Achieved a 11.5 percent introduction rate for renewable electricity (100 percent renewable electricity introduction rate achieved at all plants in Europe, four plants in South America, as well as on the Mirai FCEV production line in Japan)
+Plant CO2 emissions. 
+TCFD Metrics and Targets c. 
+Progress 2025 Target CY2019/FY2020 Initiatives. 
+Achieved. 
+As planned. 
+Behind schedule ● Promote proactive technological development to utilize hydrogen ● Started various verification tests to support the utilization of hydrogen (fuel cell (FC) generator and electrolysis-based machine for hydrogen generation and filling)
+Renewable electricity. 
+Hydrogen. 
+Six Challenges
+
+
+21 Environmental Report 2020. 
+Hydrogen Hydrogen. 
+New hydrogen burner. 
+Oxygen Hydrogen and oxygen are fully mixed. 
+Oxygen Slow combustion by preventing hydrogen and oxygen from fully mixing. 
+Conventional hydrogen burner. 
+High NOx Low NOx. 
+Established Toyota Green Energy to Conduct Renewable Energy Power Generation Business. 
+Achieve Zero CO2 Emissions at All Global Plants by 2050 New Airless Paint Atomizer Achieves World’s Highest1 Coating Efficiency. 
+Reducing CO2 Emissions in Production Activities. 
+Introduction of Renewable Energy and Utilization of Hydrogen —100 Percent Renewable Electricity Achieved at All Plants in Europe and Four Plants in South America. 
+Development of World’s First General-purpose Hydrogen Burner. 
+As a result of the rising demand for automobiles and the progress of vehicle electrification, plant CO2 emissions under BAU are expected to increase in the future. Toyota is taking action to reduce total CO2 emissions, by working on both the energy-saving by introduction of innovative technologies and daily kaizen and the introduction of renewable energy and utilization of hydrogen with the aim of achieving zero CO2 emissions from all global plants by 2050.
+Toyota is promoting the introduction of renewable energy, taking into consideration the characteristics of each country and region. We are currently constructing wind power generating facilities (21.5 MW) at the Tahara Plant in Japan and actively introducing renewable energy generating facilities at other Toyota plants. In 2019, these facilities generated approximately 160,000 MWh of electric power. We have achieved a 100 percent renewable electricity introduction rate at all plants in Europe and four plants in South America as well as on the Mirai fuel cell electric vehicle (FCEV) production line in Japan. Also, due to the rising use of electricity derived from natural energy in recent years, hydrogen holds great promise as a means of suppressing supply and demand variation in energy and for energy storage and transportation. Toyota is participating in the Hydrogen Utilization Study Group in the Chubu and other initiatives to create mechanisms for the use of hydrogen energy throughout society and is contributing to the realization of a decarbonized society. With respect to the utilization of hydrogen at plants, we are developing hydrogen burners that can decarbonize the combustion process, expanding the use of fuel cell (FC) forklifts, installing generators that run on hydrogen fuel, and conducting verifications.
+Toyota developed a new paint atomizer (airless paint atomizer) that uses static electricity instead of air to replace the conventional air paint atomizers used in the vehicle body painting process. The newly developed airless painter uses first of its kind in the world new technology to improve coating efficiency (the amount of paint sprayed versus the amount that actually adheres to the vehicle body) to 95 percent or more, the highest in the world, from conventional efficiency of approximately 60 to 70 percent. By deploying the airless paint atomizer in the Toyota Group’s painting process, it is expected that the Group can reduce its CO2 emissions by approximately seven percent.
+The practical use of hydrogen burners has proved challenging since they generate large amounts of nitrogen oxides (NOx) during combustion. The newly developed burners incorporate two new structures that enable hydrogen to combust more slowly and greatly reduced NOx emissions. The world’s first2 general-purpose hydrogen burner for industrial use, has been introduced at the Honsha Plant. This will make it possible to achieve zero CO2 emissions by utilizing hydrogen in processes that use combustion such as furnaces.
+2 As of November 2018, according to Toyota data. 
+In 2019, Toyota’s plant manufacturing departments worked with production engineering and drive force departments to conduct energy diagnoses at production sites, propose improvements and implement measures. We continuously undertook energy-saving activities (internal ESCO activities) and yokoten* of best practices. Also, the introduction of innovative technologies was expanded with a focus on painting processes and energy-saving was promoted by adopting steamless and airless processes and shifting to LED lighting. As a result, we reduced global CO2 emissions (total) to 5.68 million tons (down 8.9 percent compared to 2013 levels). We also conducted study sessions with Toyota Group companies and suppliers to share know-how on energy-saving measures, and that information has been reflected in improvements implemented by those companies. We also observed other industries and are continuously seeking to discover new ideas for kaizen.
+* Yokoten: Refers to sharing of best practices with other divisions. 
+Toyota, Chubu Electric Power Co., Inc. and Toyota Tsusho Corporation established Toyota Green Energy LLP. The new company will acquire and operate renewable energy sources in Japan and will supply electric power to all the Toyota Group companies in the future. The clean electric power to be supplied through this business will lead to zero CO2 emissions in production activities.
+Conventional air spray paint atomizer (air atomization) New airless paint atomizer (electrostatic atomization)
+CO2 emissions under BAU 2013 2030 2050. 
+Plant CO2 emissions. 
+Zero by 2050. 
+Reductions through introduction of renewable energy and utilization of hydrogen. 
+Reductions through daily kaizen and innovative technologies. 
+Environmental Data p. 36-F. 
+Many particles were scattered. 
+World’s first new technology. 
+Static electricity. 
+Few particles scatter. 
+Air. 
+TCFD Metrics and Targets b 1 As of March 2020, according to Toyota data. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature
+
+
+22 Environmental Report 2020. 
+Driving (WtW1)
+Parts Manufacturing. 
+Logistics. 
+Disposal and Recycling. 
+Vehicle Manufacturing. 
+Materials Manufacturing. 
+Zero CO2 Emissions Throughout the Entire Vehicle Life Cycle in the Future. 
+To mitigate the various risks posed by climate change, the Life Cycle Zero CO2 Emissions Challenge seeks to completely eliminate CO2 emissions not only during driving (TtW2), but throughout the entire vehicle life cycle including materials, parts and vehicle manufacturing, logistics, disposal and recycling. Some electrified vehicles may have materials and parts that increase CO2 emissions in the processes of manufacturing. Possible means of reducing these emissions include adopting low CO2 emitting materials during manufacturing, components downsizing, and introducing renewable energy. We will reduce CO2 emissions in the disposal and recycling stages by expanding use of recycled materials and designs that make it easier to dismantle vehicles. We will accelerate eco-friendly designs as we pursue “ever-better cars” in the future. We are working to accelerate efforts for reducing CO2 emissions on a global scale while engaging in even closer communication with parties in the value chains including suppliers and dealers. We will also promote reductions in CO2 through the efficient use of mobility by providing mobility services and supporting the widespread adoption of eco driving. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 12.8 (sustainable lifestyles) and 13.1 (reduction of CO2).
+Completely Eliminate All CO2 Emissions Throughout the Entire Vehicle Life Cycle. 
+Life Cycle Zero CO2 Emissions Challenge Challenge. 
+For details of initiatives by and , refer to Suppliers Dealers and distributors Value Chains Collaboration p. 15. 
+Fundamental Approach. 
+Yaris: Vehicle subject to life cycle CO2 assessment in 2019 1 Well to Wheel: Includes CO2 emissions during driving as well as CO2 emissions during the production stage of fuel and electricity (CO2 emissions vary depending on the power supply configuration and hydrogen production method, in the case of battery electric vehicles and fuel cell electric vehicles) 2 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles)
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature. 
+Zero CO2 Emissions 2013 2025 2030. 
+Reduce by 25% or more. 
+Reduce by 18% or more. 
+TCFD Strategy b. 
+Contribution to SDGs ● Reduce CO2 emissions by 18 percent or more throughout the entire vehicle life cycle compared to 2013 levels ● Steadily promoted life cycle CO2 emissions reduction by environmental management for product development after 2005 ● In Japan, achieved life cycle CO2 emission levels in four new and redesigned models equivalent to or lower than those of reference vehicles (e.g., reduced by 12 percent from Yaris hybrid electric vehicle (HEV) model compared to HEVs of the same class in FY2017) ● Achieved 100 percent renewable electricity introduction rate at all R&D centers in Japan ● Japan: Reduce CO2 emissions by 7 percent by improving transport efficiency compared to 2018 levels (average of 1.0 percent reduction per year) ● Overseas: Reduce CO2 emissions by vessels for export (introduce two LNG-powered pure car carriers)
+Logistics. 
+Progress 2025 Target CY2019/FY2020 Initiatives ● Promoted continual kaizen activities including loading efficiency improvement, shortening of logistic routes and modal shifts ● CO2 emissions in Japan: 292 thousand tons (up 1 percent compared to 2018 levels)
+Environmental Data p. 37-H. 
+Achieved. 
+As planned. 
+Behind schedule. 
+TCFD Metrics and Targets c. 
+Future Vision. 
+Life cycle CO2 Emissions. 
+Six Challenges. 
+Life cycle CO2 emissions
+
+
+23 Environmental Report 2020. 
+Promoting Environmental Management for Product Development (Eco-VAS)
+Measures to Achieve Zero CO2 Emissions During Vehicle Manufacturing. 
+To reduce the environmental impact of its vehicles, we have introduced the Eco-Vehicle Assessment System (Eco-VAS) to set and convey environmental targets such as life cycle CO2 emissions and recyclability, under the guidance of the chief engineer, starting in the development stage and has used LCA1 to assess environmental impact. Some electrified vehicles achieve lower CO2 emissions during driving (TtW2), but have higher emissions during the materials and vehicle manufacturing processes. Because of this, we believe that it is crucial to reduce environmental load not only during driving (TtW), but throughout the vehicle life cycle.
+1 Life Cycle Assessment: A comprehensive technique to assess vehicle’s impact on the environment throughout the entire life cycle from resource mining to disposal and recycling, by quantifying the impact of each stage 2 Tank to Wheel: CO2 emissions during driving (CO2 emissions during the production stage of the fuel is not included; TtW emissions are zero in the case of battery electric vehicles and fuel cell electric vehicles)
+Toyota is reducing CO2 emissions with the aim of achieving zero CO2 emissions at global plants by 2050. There is a tendency, however, for CO2 emissions to increase during the manufacturing of electrified vehicles, such as fuel cell electric vehicles (FCEVs), regarding which are expected to gain in popularity. To address this issue, in 2019 we introduced electric power generated 100 percent from renewable electricity on FCEV production lines for the assembly and key components (high-pressure hydrogen tanks and fuel cell (FC) stacks). As a result, CO2 emissions during production have been drastically reduced.
+Toward a Realistic CO2 Emissions Reduction During Electrified Vehicle Driving (WtW3)
+Battery electric vehicles (BEVs) do not emit CO2 during driving (TtW), but the amount of CO2 released varies depending on the generation method of the electricity used for charging. For example, unlike thermal electric power generation, solar power does not involve the combustion of fossil fuels during power generation, and consequently CO2 emissions are zero. In regions where the proportion of electricity generated from this type of renewably energy is high, CO2 emissions from BEVs calculated on a WtW basis are low. In light of this, Toyota is pursuing electrification from all directions, making possible electrified vehicle lineups optimized for each region, and contributing to real reductions in CO2 emissions based on the WtW concept.
+3 Well to Wheel: Includes CO2 emissions during driving as well as CO2 emissions during the production stage of fuel and electricity (CO2 emissions vary depending on the power supply configuration and hydrogen production method in the case of battery electric vehicles and fuel cell electric vehicles).
+Responding to Scope 3. 
+Scope 3 assesses not just CO2 emissions from the corporate activities of the company and its consolidated subsidiaries (Scope 1 and 2), but also CO2 emissions from various stages, such as the purchase of materials and parts, transportation, employee commuting and business travel, along with the driving, maintenance and disposal of customer vehicles. The scope of calculation was set to lead to future reductions in emissions. Toyota is undertaking the Life Cycle Zero CO2 Emissions Challenge, also leading to reductions in Scope 3 CO2 emissions.
+Image of CO2 Emissions Reduction Throughout the Entire Vehicle Lifecycle. 
+Developed vehicles Reference vehicles ● CO2 emissions reduction of production development ● Measures to achieve zero CO2 emissions during vehicle manufacturing ● CO2 emissions reductions in logistics activities ● Collaboration with suppliers and dealers ● Promotion of recycling, etc.
+Mirai High-pressure hydrogen tank FC stack. 
+Toward a Realistic CO2 Emissions Reduction: CO2 Emissions from Electrified Vehicles (WtW) CO2 emissions during driving (WtW) vary depending on the fuel and power generation methods 100 (index)
+Gasoline vehicles. 
+Hybrid electric vehicles Battery electric vehicles 100% fossil fuel 100% renewable energy. 
+Zero CO2 emissions. 
+Power generation method Power generation method. 
+Environmental Data p. 37-I Plant Zero CO2 Emissions Challenge p. 20 * Created by Toyota based on the Stated Policy Scenario in the 2019 version of the World Energy Outlook (WEO), which is released by the International Energy Agency (IEA) each year. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature. 
+TCFD Metrics and Targets b. 
+Three Sites in Thailand Collaborate to Reduce CO2 Emissions by 4.5 Percent (Year on Year)
+Plants at three sites in Thailand are collaborating to reduce CO2 emissions in logistics. They improved transportation efficiency by relocating the logistics hub to the most efficient site based on the relative positions of the plants, dealers and ports. Transportation volumes were also improved by steadily replacing trucks with models with larger loading capacity. Various other measures are also being continuously implemented such as installing driving monitors to instill eco driving minds among drivers and effectively using empty trucks. As a result, CO2 emissions were reduced by 4.5 percent (956 tons) year on year.
+Pursuing Transportation Efficiency and Reducing CO2 Emissions in Logistics Activities. 
+To reduce CO2 emissions in logistics activities, Toyota is taking measures to improve the transportation efficiency of production parts, completed vehicles and other goods. In 2019, despite ongoing measures including expanding retrieval logistics areas, improving loading efficiency and modal shifts from truck to railway, CO2 emissions in Japan from logistics operations in 2019 were 292,000 tons (up 1 percent year on year) due largely to an increase in volume and a higher production rate in remote locations. We will fully analyze these results and continuously work to further improve transportation efficiency.
+Environmental Data p. 37-H. 
+Achieving 100 Percent Renewable Electricity Introduction Rate at R&D Centers. 
+CO2 emissions reduction is also being promoted at sites other than plants, with 100 percent renewable electricity used at all R&D centers in Japan from April 2020.
+
+
+24 Environmental Report 2020. 
+Reservoirs (two in the middle) at TMMF, a production affiliate in France: By using rainwater, water usage has been reduced by approximately 90 percent, and cars are manufactured on up to 330 days of the year without using any outside water. 
+It is said that the world’s population will grow to 9.1 billion by 2050, water demand will increase 55 percent from current levels, and 40 percent of the world’s population is therefore expected to suffer water shortages*. Water problems such as increases in water stress in conjunction with rising populations and climate change as well as stricter regulations in response to deterioration of water quality in rivers and other water sources are important issues from the perspective of risks in corporate activities. Water is used in painting and other car manufacturing processes. This makes it imperative to reduce the impact on the water environment, to whatever degree possible. While there are significant differences in the characteristics of the water environment depending on the region, we have two main strategies regardless of the region: thoroughly reduce the amount of water usage and purify wastewater thoroughly and return. We have implemented various initiatives such as collecting rainwater to reduce industrial water usage, cutting water usage in production processes, recycling wastewater to reduce amounts withdrawn from water sources and returning high-quality water to local environments. In the future, we will undertake measures that have a positive impact on local water environments, taking into consideration the local requests and water issues. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 6.3 (improvement in water quality) and 6.4 (ensuring water resources).
+* According to Toyota data. 
+Fundamental Approach Minimize Water Usage and Implement Water Discharge Management Based on Individual Local Conditions. 
+Challenge of Minimizing and Optimizing Water Usage Challenge. 
+Water Usage per Vehicle Produced. 
+Environmental Data p. 38-J. 
+Environmental Data p. 38-J. 
+Progress ● Reduce water usage taking the water environment in each country and region into consideration ● Promote wastewater recycling, rainwater use and various activities including daily kaizen ● Reduce global water usage by 3 percent per vehicle produced compared to 2013 levels (reduce by 34 percent compared to 2001 levels) ● Complete measures at two Challenge-focused plants where the water environment is considered to have a large impact ● Thoroughly manage water discharge quality under internal standards that are stricter than regulatory standards ● Continuously assess the impact of wastewater at all plants where it is discharged directly into the river ● Comprehensively introduced reduction technologies and undertook daily water-saving efforts, such as water recycling and reducing the amount of steam used in painting processes ● In progress to reducing at a pace above target (down 5.0 percent compared to 2013 levels)
+Achieved. 
+As planned. 
+Behind schedule ● Continuously manage water quality under internal standards that are stricter than regulatory standards ● Assessed the impact of wastewater at all plants. 
+Water quantity Water quality 2025 Target CY2019/FY2020 Initiatives. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature 2013 2001. 
+Reduce by 34% 2019 2025. 
+Reduce by 3%
+Reduced by 5%
+Contribution to SDGs. 
+Six Challenges
+
+
+25 Environmental Report 2020. 
+Substantial Reduction in Water Usage During Painting (China)
+Washing process before painting. 
+Sichuan FAW Toyota Motor Co., Ltd. (SFTM), a production affiliate in China, reduced water usage in body painting pre-processing (electrodeposition processing). SFTM implemented various measures in parallel including extending the useful life of cleaning water, reducing the amount of pure water used and promoting wastewater recycling to reduce water usage per vehicle produced by 142 liters and annual water usage by 170,000 m3.
+Reduction of Water Usage According to the Actual Water Environment in Each Region and Water Quality Management. 
+Toyota introduced innovative technologies in conjunction with planned upgrades to production lines, reduced the use of steam in manufacturing processes and implemented other measures, and as a result, water usage in 2019 was 44.0 million m3 (down 1.0 percent year on year) and water usage per vehicle produced was 4.1 m3 (down 2.4 percent year on year). We also assessed the impact of water environments at global plants, identified four Challenge-focused plants in North America, Asia and South Africa, and are now implementing comprehensive water management. With regard to the water quality discharged from plants, we assessed the impact on wastewater at each global plant where it is discharged directly into the river, set water discharge quality under internal standards that are stricter than regulatory standards and is continuously conducting water management. Moving ahead, we will continue striving to minimize our impacts on the water environment through water-saving and water recycling, and engage in activities that have positive effects on local water environments.
+Measures Undertaken in Accordance with the Toyota Water Environment Policy. 
+IN OUT. 
+Thoroughly reduce the amount of water usage Purify wastewater thoroughly and return. 
+Toyota Water Environment Policy. 
+Striving to consider the importance of water sustainability, Toyota will aim for realizing prosperous societies that will share a sound water environment to the future.
+Minimize the impact on local water resources by minimizing water withdrawal and utilizing rainwater. 
+Have a net positive impact on the environment by returning clean water in the local water environment. 
+Become No. 1 regional plant leading to prosperity throughout the entire society. 
+Measures to Improve Water Discharge Quality (Argentina)
+TASA, a production affiliate in Argentina, is reducing its water intake by recycling wastewater and is managing water discharge quality under internal standards that are stricter than regulatory standards. It took measures to further improve water discharge quality with the aim of minimizing the impact of wastewater. TASA uses chlorine in wastewater treatment processes, and by monitoring that status of wastewater processing and appropriately controlling the timing of adding chlorine, the amount of chlorine in wastewater can be controlled to appropriate levels. Similar measures are also being taken with regard to other substances in wastewater to enhance water discharge quality even further.
+Environment Data P38-J 142 liters/unit 1,300 1,200 1,100 0 Before kaizen After kaizen. 
+Amount of Water Usage per Vehicle Produced (liters/unit) 1,275 1,133. 
+Although water-related issues and measures differ depending on the region, Toyota established the Toyota Water Environment Policy and takes action in order to achieve the Challenge of Minimizing and Optimizing Water Usage on a global level. Under the Toyota Water Environment Policy, we are assessing our impact on water environments and working to minimize those impacts from two perspectives: the input side, where we thoroughly reduce the amount of water usage, and the output side, where we purify wastewater thoroughly and return. We take action from three directions—the pursuit of environmental technologies, community-rooted operations and cooperation with society—and strive to become the No. 1 regional plant leading to prosperity throughout the entire society.
+Painting Process Made Water-free Through Introduction of Innovative Technology (Japan)
+Until now, large amounts of water have been used to recover the paint mist that did not adhere to vehicle bodies during the painting process. We developed a paint mist recovery technology that uses absorption by a dry filter, achieving the water usage in the painting process to zero. Since no water is used, the energy required to dehumidify the air in painting booths can also be drastically reduced. This technology has been adopted on the Prius and RAV4 production lines, and we plan to deploy it at other plants in the future.
+Innovative Painting Process Technology. 
+Air conditioning units (air supply)
+Recycle. 
+Painting device. 
+High coating efficiency painting system. 
+Spraying booth. 
+Reduce ventilation volume. 
+Dry filter. 
+Recover paint mist without using water. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems Challenge of Establishing a Future Society in Harmony with Nature. 
+South Africa. 
+Asia North America
+
+
+26 Environmental Report 2020. 
+Challenge. 
+Fundamental Approach. 
+Promote Global Deployment of End-of-life Vehicle Treatment and Recycling Technologies and Systems Developed in Japan. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Progress CY2019/FY2020 Initiatives ● Complete set up of 15 model facilities for appropriate treatment and recycling of End-of-life vehicles ● Continuously accelerate easy-to-dismantle designs ◆ Integrate easy-to-dismantle designs to respond to appropriate treatment and recycling of End-of-life vehicles and resource issues, and provide appropriate information (large batteries, fuel cell (FC) hydrogen tank and others) ● Fully prepared for setting up model facilities for appropriate treatment of End-of-life vehicles in Belgium and Malaysia ● Continued to incorporate easy-to-dismantle designs in new vehicles and increased provision of information to the dismantling industry operators through mass advertisements (trade papers and periodicals) in Japan ● Establish a safe and efficient system for battery 3R (Rebuilt, Reuse and Recycle), eyeing the widespread use of electrified vehicles ◆ Aim to maximize collection and detoxification of End-of-life batteries globally ◆ Start operating battery 3R throughout five regions—Japan, U.S., Europe, China and Asia ● Develop technologies to utilize recycled materials (especially plastics) in accordance with the conditions in each region ◆ Promote utilization by technological development to optimally exploit recycled materials in Europe and to increase the supply of recycled materials in Japan ● Established a system for HEV battery collection and recycling in Thailand ● Continuously promoted utilization of renewable resources and recycled materials (HEV batteries, motor magnets, plastic bumpers and others)
+Toyota Global 100 Dismantlers Project. 
+Toyota Global Car-to-Car Recycle Project. 
+RAV4. 
+Battery of hybrid electric vehicles (HEVs)
+Due to global population growth along with the pursuit of economic growth and convenient lifestyles, the pace of resource consumption is accelerating. If large-scale exploitation continues without change, natural resources will be depleted, and if waste increases due to mass consumption, appropriate disposal will be unable to keep pace, resulting in risks of environmental pollution. To prevent the environmental load caused by End-of-life vehicles, Toyota launched and has been promoting the Toyota Global 100 Dismantlers* Project, to establish social systems for appropriate treatment of End-of-life vehicle. On the other hand, to create a resource recycling-based society, in addition to responding to the risks of resource depletion and reducing substances of concern, it is necessary to grasp the possibility of creating business opportunities and to address recycling throughout the entire vehicle life cycle. We aim to realize the ultimate recycling-based society, and is promoting the Toyota Global Car-to-Car Recycle Project so that we can utilize resources from End-of-life vehicles for manufacturing new vehicles. Through these initiatives, we will contribute to achieving Sustainable Development Goal (SDG) 9.1 (infrastructure development), 9.4 (sustainable industrial processes), 12.2 (sustainable management and efficient use of natural resources), 12.4 (management of wastes) and 12.5 (reduction of waste).
+* Dismantlers: Operators of vehicle dismantling businesses. 
+Achieved. 
+As planned. 
+Behind schedule. 
+Contribution to SDGs 2025 Target. 
+Six Challenges. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature
+
+
+27 Environmental Report 2020. 
+Toyota Global 100 Dismantlers Project Seeks to Establish Social Systems for Appropriate Treatment of End-of-life Vehicles. 
+When End-of-life vehicles are not properly disposed or dismantled, it may not only affect local environments, but also causes risks to the health and safety of local residents. To prevent these problems, we promote the establishment of social systems for appropriate treatment of End-of-life vehicles, using our long-established technologies and know-how to not impose environmental load. In FY2020, we conducted surveys on the condition of End-of-life vehicles treatment in an island country and the infrastructure for proper treatment of CFC/HFC. In addition, we created a video manual on hydrogen gas removal to support appropriate treatment of fuel cell electric vehicles (FCEVs). We will continuously research the flow of End-of-life vehicles, setting treatment levels according to the conditions of national and regional infrastructures and work to establish model facilities in cooperation with local affiliates. Through the Toyota Global 100 Dismantlers Project, we are properly treating waste oil, fluid and CFC/HFC at model facilities. We will strive to establish recycling-based societies that enable efficient resource recycling by taking measures such as calling on national governments to ensure that such measures take root as social systems.
+Achieve Industry-leading Levels in Easy-to-dismantle Design for Effective Resource Recycling. 
+To promote material recycling of End-of-life vehicles, since launch of the Raum passenger car in 2003, we have been making direct visits to dismantling companies in Japan and overseas to investigate actual conditions. Based on this, we are actively adopting vehicle structures that makes it easy to dismantle and separate parts for new vehicles. The new RAV4, Corolla, Raize, Granace and Yaris launched in FY2020 adopted the TNGA*, a new concept for car manufacturing. We continue to incorporate easy-to-dismantle designs to these vehicles to ensure safe and speedy dismantling operations. In light of the recent situation in which many early model vehicles are transiting to the End-of-life stage, we placed an advertisement for the first time in trade papers and periodicals to highlight the ease of removing wiring harness, a representative example, in order to raise understanding on Toyota’s easy-to-dismantle designs for dismantling operators (starting in December 2019).
+* Toyota New Global Architecture: Toyota’s company-wide global program to structurally transform automobile design. TNGA aims to dramatically improve the basic performance and marketability of Toyota vehicles by reforming and integrally redeveloping powertrain components and platforms.
+Toyota Global Car-to-Car Recycle Project—A Recycling Initiative that Considers the Entire Vehicle Life Cycle. 
+It is important to consider sustainability through the entire vehicle life cycle, from its production to the End-of-life. Therefore, Toyota reduces the generation of waste and repeatedly uses reusable materials in four stages of the vehicle life cycle: development and design, production, sales and disposal. We are also working to make waste recyclable. Since the early 1990s, we have been collecting and recycling bumpers generated through repair work at Toyota dealers as a way to reduce the usage of petroleum-based plastics. Also, to promote the reuse of rare resources and recycled materials used in electrified vehicles including hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs) and FCEVs, we are collaborating with partner companies to establish a framework for collecting and recycling HEV batteries and motor magnets, along with tungsten carbide tools used in production. The ultimate goal of this project is to achieve closed-loop recycling. In order to make more effective use of limited resources, we are working on car manufacturing that takes recycling into consideration, by providing results of these activities into the development and design stages.
+Environmental Data p. 38-O. 
+Toward zero waste. 
+New vehicle. 
+Dealer. 
+Dealer/repair shop End-of-life vehicles. 
+In-house recycling. 
+Production plant. 
+Automobile dismantling company. 
+Development site. 
+Recycler plant. 
+Remanufactured parts. 
+Bumpers replaced during repair Automobile shredder residue (ASR)
+Resource input. 
+Resource input. 
+Resource input. 
+New materials. 
+Recycled materials. 
+Sales. 
+Production Development & Design. 
+Disposal. 
+Supplier. 
+In-process recycling In-process recycling. 
+Air bag collection and recycling. 
+Waste oil and fluid. 
+CFC/HFC collection. 
+Reuse as energy. 
+Plant for treatment of ASR. 
+HEV battery. 
+HEV motor Resource recycling Resource recycling Resource recycling Resource recycling. 
+Iron. 
+Non-ferrous metals. 
+Shredding company 660,000 annually 47 tons cumulative (magnets) 140,247 tons annually 171,000 units cumulative 220 tons cumulative tungsten carbide tools. 
+Press. 
+Video manual on hydrogen gas removal. 
+SASB TR-AU-440b.2. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Future Society in Harmony with Nature. 
+Six Challenges. 
+Challenge of Establishing a Recycling-based Society and Systems
+
+
+28 Environmental Report 2020. 
+Progress 2025 Target CY2019/FY2020 Initiatives. 
+Achieved. 
+As planned. 
+Behind schedule. 
+Challenge. 
+Fundamental Approach. 
+Connect Nature Conservation Activities Beyond the Toyota Group and Its Business Partners Among Communities, with the World, to the Future. 
+Challenge of Establishing a Future Society in Harmony with Nature. 
+A camera trap survey conducted in a national park in Thailand confirmed the presence of the Indochinese tiger, an endangered species (Global Corporate Partnership with the World Wide Fund for Nature (WWF)) ©WWF Japan. 
+It is critical for humans to conserve forests and other natural environments in all regions for coexistence in harmony with nature. However, deforestation, fragmentation of habitats for various wildlife and loss of biodiversity are increasing across the world. These developments entail a range of issues including depletion of biological resources that are essential to society, causing natural disasters and driving global warming, and we believe that they pose risks to the sustainability of the entire society. In light of these risks, in order to “enrich the lives of communities” in each region, Toyota launched programs promoting harmony with nature in Japan and overseas and is taking action to expand “Connecting Communities” activities under the Toyota Green Wave Project, and is “Connecting with the World” by promoting activities for achieving harmony with nature and preserving biodiversity globally under the Toyota Today for Tomorrow Project in cooperation with international organizations and NGOs. In addition, we conduct environmental educational programs for employees, future generations and others and carry out “Connecting to the Future” measures under the Toyota ESD1 Project. Through these three “connecting” programs, we are working to create a future where people and nature can exist in harmony and will contribute to achieving Sustainable Development Goal (SDG) 12.8 (sustainable lifestyles), 15.1 (conservation of terrestrial ecosystems), and 15.a (ensuring financial resources).
+● Implemented wildlife habitat maintenance and improvement measures at the Tsutsumi, Teiho and other plants and conducted indicator species surveys to confirm the effects ● Implemented activities promoting harmony with nature such as creating forests at plant sites and conserving biodiversity in collaboration with Toyota Group companies and other affiliated companies ● Completed assessment of 21,341 species for the International Union for Conservation of Nature (IUCN) Red List, held a side event at the CMS COP132 and donated vehicles to conduct surveys and conservation activities in countries such as Myanmar, Tahiti and Guyana ● Supported 26 projects of NPOs and other non-profit organizations and groups addressing biodiversity and climate change (11 overseas and 15 in Japan) ● Implement globally unified initiatives to foster environmentally conscious persons responsible for the future ◆ Offer environmental education opportunities by utilizing biotopes and others in collaboration with “Plant in Harmony with Nature” ◆ Foster environmentally conscious persons at both in-house and outside sites, including plants and the Forest of Toyota, by utilizing educational tools in harmony with nature for the next generation. 
+Toyota Green Wave Project. 
+Toyota Today for Tomorrow Project. 
+Toyota ESD Project ● Realize “Plant in Harmony with Nature”―six in Japan and four overseas ● Promote activities to connect with local communities in collaboration with Toyota Group companies and other affiliated companies ● Start activities promoting harmony with nature in collaboration with local communities and companies toward biodiversity conservation ● Globally strengthen conservation of endangered species, which symbolize biodiversity in collaboration with NGOs and others ● Conducted tree-planting activities participated by employees. Also, carried out multiple environmental education programs to the public and children at the Forest of Toyota and the Toyota Shirakawa-Go Eco-Institute 1 Education for Sustainable Development 2 13th Meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature. 
+Contribution to SDGs. 
+Six Challenges
+
+
+29 Environmental Report 2020. 
+Initiatives of Toyota Technical Center Shimoyama Promoting Harmony with Nature and Local Communities. 
+Toyota Technical Center Shimoyama in the overlapping area of Toyota City and Okazaki City, conserves about 60 percent of the total project site as areas for environmental conservation based on the concept of “technical center in harmony with nature and local communities.” Five species of animals and plants (oriental honey-buzzard, grey-faced buzzard, Japanese night heron, Japanese eight-barbel loach and Japanese bellflower) representative of the project site’s satoyama ecosystems were selected as indicator species, and we are regenerating and managing forests and valley bottom rice fields in collaboration with local government and the local community. We actively share the status of these activities and new findings gained from them.
+Collaborates with IUCN, WWF and Other Organizations to Conserve Biodiversity. 
+We began a five-year partnership with the International Union for Conservation of Nature (IUCN) in 2016. Under the partnership, we provide annual grants of approximately 1.2 million U.S. dollars. We are the first private-sector company providing this scale of support to the IUCN to enhance the IUCN Red List1, a global indicator of wildlife species. With this support, IUCN will conduct assessments of extinction risk for 28,000 species, accounting for 35 percent of the 80,000 additional species needed on the IUCN Red List to inform global decision making for the United Nations’ Convention on Biological Diversity. The IUCN Red List plays important roles including serving as a source of globally trusted and comprehensive data on the status of conservation of animals, fungi and plants on a global scale to support implementation of the United Nations 2030 Agenda. Toyota is also the first car company and the first Japanese company to sign a five-year Global Corporate Partnership agreement with the World Wide Fund for Nature (WWF). We have made one million U.S. dollar annual grants since 2016 to support the Living Asian Forest Project, to conserve tropical forests and wildlife in Southeast Asia and make the production of important commodities such as natural rubber more sustainable.
+1 The IUCN Red List of Threatened Species™: A list of threatened species in the world publishing by the international organization IUCN. 
+Toyota Environmental Activities Grant Program ―Plastic Cleanup in Ehime Prefecture. 
+Tree-planting at the Aichi Earth Expo Memorial Park. 
+In 1999, Toyota was honored with the Global 500 Award from the United Nations Environment Programme (UNEP). To commemorate this, in FY2001, we launched a grant program to support the environmental activities of NPOs and other non-profit organizations and groups. Over the 20 years since the program was established, we have supported 413 projects in 57 countries and regions worldwide. The photos show an example of one project undertaken in Japan—plastic cleanup from the shore and an uninhabited island in Ehime Prefecture. The plastics are gathered by boat before it degrades into microplastics2 and other particles with the aim of raising awareness regarding the issues of ocean plastic and reducing environmental load.
+2 Microplastics: Minute plastic particles of 5 mm or smaller that are found in the environment. 
+As a program of the Toyota Global Environment Month, which is an environmental awareness-raising activity for employees, we conducted tree-planting activities at the Aichi Earth Expo Memorial Park with NPO Donguri-mongori, an organization that receives grants under the Toyota Environmental Activities Grant Program. A total of 112 employees and All-Toyota Harmony with Nature Working Group members planted 250 oaks and azalea saplings and made 112 saplings.
+Participants planting saplings in light rain. 
+Transporting waste by sea Consolidating the plastic waste that was collected. 
+Number of Species for Which Assessments Have Been Completed by the IUCN Thanks to Toyota’s Support. 
+FY2017: 1,333 species FY2018: 3,777 species FY2019: 4,306 species FY2020: 11,925 species Four-year total 21,341 species. 
+Toyota Environmental Activities Grant Program. 
+Environmental Data p. 39-R. 
+Conducted Employee Education Programs in Collaboration with the Nature Conservation Society of Japan to Promote Plant in Harmony with Nature. 
+Group photo of program participants (at the Tsutsumi Plant)
+Conducted MORIBITO Project of Waterside and Greenery at the Teiho Plant. 
+We conducted basic educations on the Sustainable Development Goals (SDGs), the functions of greenery at plant sites and other topics, as well as outdoor educations at Biotope Tsutsumi (Tsutsumi Plant) in collaboration with the Nature Conservation Society of Japan (NACS-J) to foster employees who can personally promote the Plant in Harmony with Nature project. Employees who pass the program are certified by the NACS-J as promotion leaders at the Plant in Harmony with Nature, and they lead activities promoting harmony with nature at each plant.
+In addition to the living creature’s habitat maintenance and improvement activities including mowing by employees working in collaboration with Toyota Nishi High School, Toyota Yahagi River Institute and Aichi University of Education at the regulating reservoir on the plant site, indicator species surveys were conducted (oriental reed warbler, dragonfly larvae and other species were used as indicators) to confirm the effects. In addition, a workshop was conducted in February 2020 for participants to share what they learned and felt over the course of the one-year program and to discuss the objectives that should be pursued over the next 10 years. These activities will continue to be implemented so that those objectives can be achieved.
+Survey of dragonfly larvae (at the Teiho Plant) Group photo of workshop participants. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+New Vehicle Zero CO2 Emissions Challenge Plant Zero CO2 Emissions Challenge Life Cycle Zero CO2 Emissions Challenge Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 30 Environmental Report 2020. 
+Environmental Data. 
+Progress of the Sixth Toyota Environmental Action Plan (Detail) : Steady progress toward FY2021 target : Issues remain, but FY2021 target is expected to be met : FY2021 target is not expected to be met −
+Action Items Evaluation FY2020 Progress Specific Actions and Targets 1. Develop technologies to achieve the best fuel efficiency performance (1) New Vehicle Zero CO2 Emissions Challenge ● Achieve reduction rate in global average CO2 emissions from new vehicles by 22% or more compared to 2010 global levels, by 2020 – Develop high-performance powertrain through Toyota New Global Architecture (TNGA) and introduce it in steps – Enhance hybrid electric vehicle (HEV) performance further and expand deployment 2. Promote development of next-generation vehicles using electric power and widespread adoption by making use of their features ● HEV: Promote higher performance and expand the lineup to broaden consumer adoption of HEVs, aim to reach annual HEV sales of 1.5 million units and cumulative sales of 15 million units by 2020 ● Plug-in hybrid electric vehicle (PHEV): Establish PHEV as core electrified vehicle in support of fuel diversification and develop higher-performance PHEVs and promote widespread adoption ● Battery electric vehicle (BEV): Promote technological development for short-distance purposes in combination with low-carbon traffic systems ● Fuel cell electric vehicle (FCEV): Promote activities to further reduce cost, achieve greater compactness and durability and strengthen product appeal toward effective use of hydrogen as an important future energy source ● Reduced global average CO2 emissions from new vehicles in 2019 by 22% compared to 2010 levels (Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia) ● HEV & PHEV: Sales in 2019 were 1.92 million units (achieving the target ahead of schedule) and cumulative sales reached 15.01 million units (achieving the target ahead of schedule) ● BEV: Sales of the BEV model for market launch under both the Toyota and Lexus brand is scheduled to start in 2020 ● FCEV: Sales of the Mirai Concept model for market launch, which was unveiled at the Tokyo Motor Show 2019, is scheduled to start in 2020. 
+Region Item Base year Target (FY2021)
+Overseas. 
+Japan Emissions. 
+Emissions per transportation volume. 
+FY1991. 
+FY2007. 
+Measured performance 25% reduction 14% reduction (1% reduction per year)
+Region Item Base year FY2020 results. 
+Overseas. 
+Japan Emissions. 
+Emissions per transportation volume. 
+FY1991. 
+FY2007. 
+Measured performance 34% reduction 20% reduction (2) Life Cycle Zero CO2 Emissions Challenge 3. Promote environmental management for product development (Eco-VAS) ● Steadily promote environmental target management using Eco-Vehicle Assessment System (Eco-VAS) at the development stage – Reduce life cycle environmental load or both redesigned models and new models compared with previous models – Disclose assessment results properly to customers on website and in product catalogs 4. Study practical use development of catalyst technology-based CO2 absorption and new material creation (artificial photosynthesis and others) ● Develop artificial photosynthesis technologies from CO2, water and solar power – Complete basic verification tests for creation of primary CO2-absorbing material (material or fuel) using the world’s most efficient photosynthetic unit in 2020 5. Pursue transportation efficiency and reduce CO2 emissions in logistics activities ● Promote CO2 emissions reduction activities by further improving transportation efficiency (take comprehensive measures to reduce total distance traveled and promote further modal shift) ● In Japan, achieved life cycle CO2 emission levels in four new and redesigned models equivalent to or lower than those of reference vehicles (e.g., reduced CO2 emissions by 12 percent from Yaris HEV model compared to HEVs of the same class in FY2017) ● Artificial photosynthesis technology using iron, manganese and silicon, which are general-purpose elements, as the main components is being used to enhance the efficiency of reactions for synthesizing raw materials for fuel and other materials from CO2 and water ● Conducted kaizen activities (loading efficiency improvement, shortened transportation routes and modal shifts) and reduced CO2 emissions as indicated below: 6. Contribute to local communities through the expansion of local grid energy management technologies ● Establish micro-grid (F-grid) and regional optimal energy management technology and promote global deployment – Verify the tests in Ohira-mura project in Tohoku and Motomachi Plant project in Toyota City – Deploy technologies at other plants in Japan and other countries including Asia 7. Promote an integrated approach to reduce CO2 emissions in road traffic sectors ● Contribute to realization of smart mobility society through IT and ITS technologies – Based on the verification test results of the next-generation transportation system Ha:mo, which uses ultra-compact BEVs, in Japan and France, aim to deploy technologies in other regions and establish business models, considering the Olympic and Paralympic Games Tokyo 2020 ● Actively participate in integrated traffic flow improvement project for establishment of a low-carbon mobility society – Establish WBCSD-SMP 2.0 Sathorn Model and formulate roadmap for rollout in Bangkok ● Promote adoption of eco driving globally – Promote eco driving globally among customers and employees. 
+Promoted all projects as planned ● Ohira-mura project in Tohoku (F-grid): Achieved 21% energy saving and 25% CO2 emissions reduction after introduction of the technology ● Global deployment: Formulated plans for regional energy management verification with companies in the Tahara and Akemi regions to expand the use of renewable energy (Activities officially started in FY2021 with the agreement of five companies in those regions) ● Continued verification tests of the Ha:mo in Tokyo; Toyota City, Aichi Prefecture; Okinawa Prefecture; and Bangkok, Thailand ● The Toyota Mobility Foundation launched a project in cooperation with the Thai Ministry of Transport, Bangkok Metropolitan Administration, Metropolitan Police Bureau, Chulalongkorn University and a private company to utilize big data and AI in order to ease traffic congestion in Bangkok (November 2019) ● In conjunction with Eco Driving Month designated by the Japanese government, created and displayed posters highlighting eco driving for internal education and promoted “10 Recommendations for Eco Driving,” preferable acts for eco driving ● Introduced the “Eco-driving e-Learning Content: The Quiz and the Game” created by the Japan Automobile Manufacturers Association, Inc. (JAMA), as a tool to enable employees to learn in a fun manner about eco driving and the environment in general. 
+Low Carbon (Climate Change, CO2)
+TCFD Metrics and Targets a & c
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 31 Environmental Report 2020. 
+Region Item Base year Target (FY2021)
+TMC (vehicle plants)
+Overseas. 
+Usage per vehicle produced FY2002. 
+Promote regional No. 1 reduction activities 12% reduction 11. Achieve industry-leading levels in easy-to-dismantle design for effective resource collection ● Maintain and improve industry-leading levels for easy-to-dismantle design – Apply reliable easy-to-dismantle designs to all models including next-generation vehicles (battery electric vehicles (BEVs) and fuel cell electric vehicles (FCEVs)) and smart mobility vehicles – Develop and apply easy-to-dismantle designs to new technologies and new materials parts 12. Contribute worldwide through End-of-life vehicle treatment and recycling technology developed in Japan ● Deploy proper End-of-life vehicle treatment technology overseas in accordance with conditions in each country and region – Conduct proper End-of-life vehicle treatment in accordance with local End-of-life vehicle recycling laws and regulations, while enhancing initiatives in countries and regions where laws and regulations are expected to be introduced, based on the guidance prepared by Toyota – Set up 100 model facilities for appropriate treatment of End-of-life vehicles (7 facilities by 2020) (4) Challenge of Minimizing and Optimizing Water Usage 9. Reduce water usage in production activities ● Promote continual activities to reduce water usage in consideration of the water environment in each country and region – Introduce innovative initiatives linked with planning of new plants and production line reforms – Reduce water usage through daily kaizen and other activities (5) Challenge of Establishing a Recycling-based Society and Systems 10. Reduce consumption of dwindling natural resources through use of renewable resources and recycled materials ● Reduce the use of petroleum-based plastics – Develop technology for recycled plastics and eco-plastics meeting quality and performance requirements – Establish collection systems for used plastics ● Promote reuse of rare resources and use of recycled materials – Develop Carbon Fiber Reinforced Plastics (CFRP) recycling technologies – Develop technologies for recycling and reducing use of rare earth elements. 
+Region Item Base year FY2020 results. 
+TMC (vehicle plants)
+Overseas. 
+Usage per vehicle produced FY2002. 
+Implemented reduction activities according to local water conditions 35% reduction ● Took the following initiatives: – Continued to incorporate easy-to-dismantle designs to newly developed vehicles such as the RAV4, Corolla, Raize, Granace and Yaris – In light of the recent situation in which many early model vehicles with easy-to-dismantle designs are being discarded, placed an advertisement for the first time in trade papers and periodicals to highlight the ease of removing wiring harness, a representative example, in order to raise understanding on our eco-friendly designs for dismantling operators (starting in December 2019) – Developed techniques for the efficient extraction of hydrogen gas from FCEVs and developed and launched low-cost gas extraction tools ● Took the following initiatives: – Implemented measures with local affiliates in response to the introduction of the End-of Life Vehicle Recycling Law in Malaysia, India and Georgia – Continuing set up of model facilities in developed countries through preparation of a video manual on degassing hydrogen gas from FCEVs ● Developed and introduced water recycling technologies and reduced water usage in production processes ● Reduced the use of petroleum-based plastics – Continued expanding the utilization of recycled plastic, first in Europe, where the recycled plastic market is large – Continued to collect and recycle End-of-life bumpers generated through repair work at Toyota dealers; started operation of a new scheme in some regions to reduce costs ● Promoted reuse of rare resources and use of recycled materials – Projected an outlook on carbon fiber separation and recovery technology using a thermal separation technique and CFRP recycling technology for recycling waste CFRP materials and commenced development of applications – Continued development of technologies that can reduce the amount of rare earth elements used in HEV motor magnets and other components. 
+Region Item Base year Target (FY2021)
+Global*
+TMC. 
+Overseas. 
+Emissions per vehicle. 
+Emissions per vehicle. 
+Total emissions. 
+FY2002. 
+FY2002 1990. 
+Promote regional No. 1 reduction activities 39% reduction 48% reduction 28% reduction (3) Plant Zero CO2 Emissions Challenge 8. Reduce CO2 emissions in production activities ● Promote activities to reduce CO2 emissions through the development and deployment of low-CO2 production technologies and daily kaizen activities – Pursue further productivity and include offices and other sites in rollout of activities ● Utilize clean energies in accordance with the particular conditions in each country and region – Promote introduction in stages toward FY2021 ● Manage greenhouse gases from sources other than energy sources * TMC and consolidated subsidiaries (manufacturing) in Japan and overseas ● Promoted development of low-CO2 production technologies and steadily introduced developed technologies ● Globally conducted yokoten of daily kaizen practices through shop-oriented environmental activities and accelerated CO2 emissions reduction activities ● Purchased renewable energy ● Increased in-house power generation by installing solar panels and starting wind turbine construction at Tahara Plant ● Achieved 100 percent renewable electricity introduction rate at all plants in Europe and 4 plants in South America ● Started various verification tests to support the utilization of hydrogen (fuel cell (FC) generator and electrolysis-based machine for hydrogen generation and filling)
+Action Items Evaluation FY2020 Progress Specific Actions and Targets. 
+Low Carbon (Climate Change, CO2) Recycling (Resources, Water)
+Region Item Base year FY2020 results. 
+Global. 
+TMC. 
+Overseas. 
+Emissions per vehicle. 
+Emissions per vehicle. 
+Total emissions. 
+FY2002. 
+FY2002 1990. 
+Implemented reduction scenarios that match local situations 40% reduction 50% reduction 49% reduction : Steady progress toward FY2021 target : Issues remain, but FY2021 target is expected to be met : FY2021 target is not expected to be met − Progress of the Sixth Toyota Environmental Action Plan (Detail) TCFD Metrics and Targets a & c
+
+
+: Steady progress toward FY2021 target : Issues remain, but FY2021 target is expected to be met : FY2021 target is not expected to be met − Progress of the Sixth Toyota Environmental Action Plan (Detail) TCFD Metrics and Targets a & c. 
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 32 Environmental Report 2020 13. Expand original recycling systems for End-of-life vehicle materials worldwide ● Promote advanced development of Toyota’s original recycling technologies and provide support overseas – Enhance technologies for remanufacturing and recycling nickel-metal-hydride batteries (lowering cost) and provide support overseas – Establish technologies for remanufacturing and recycling lithium-ion batteries and provide support overseas – Achieve practical use of recycled wiring harnesses in Japan (expand scale of operations) – Achieve practical use of recycled magnets in Japan (expand scale of operations) – Develop power generation and storage systems using HEV units – Study and project an outlook on bumper collection and recycling technologies in key regions overseas (5) Challenge of Establishing a Recycling-based Society and Systems 14. Reduce waste and use resources efficiently in production activities ● Promote activities to reduce waste through development and deployment of waste reduction-oriented production technologies and daily kaizen activities – Promote waste reductions and efficient use of resources through improving yields and other measures aimed at the sources of waste – Promote activities to reduce resources loss by reducing amounts of valuables and waste generated ● Promote activities to reduce metal scrap generation and implement All-Toyota campaigns to effectively use resources internally 15. Reduce packaging and wrapping materials and use resources efficiently in logistics activities ● Promote kaizen with a focus on increasing use of returnable containers and reducing the weight of wrapping material (Japan) Continue kaizen at conventional level (14% reduction compared to FY2007 levels) (Overseas) Assess best practices (6) Challenge of Establishing a Future Society in Harmony with Nature 16. Promote expansion of nature conservation activities “Connecting Communities” ● Toyota Green Wave Project—an initiative to connect with local communities through the various activities undertaken by All-Toyota companies and their global affiliates to conserve the natural environment – Continue the currently sustainable plant activities and simultaneously expand the various activities of All-Toyota Group companies to overseas subsidiaries, affiliates and local communities and expand the reach of activities in partnership with stakeholders 17. Boost grant for environmental activities “Connecting with the World” ● Toyota Today for Tomorrow Project—an initiative to connect environmental and biodiversity conservation activities to the world through grants for those activities – Strengthen grants for projects helping to solve environmental issues as a means to prioritize the area of environment among social contribution activities. Collaborate with global organizations and stakeholders to provide new value and extend the circle of activities globally.
+1 Waste at cost, incinerated waste and landfill waste 2 TMC and consolidated subsidiaries (manufacturing) 3 Zero means direct landfill waste equal to less than 1% of the amount generated in FY1996. 
+Scope Region Item Base year Target (FY2021)
+Valuables. 
+Waste1. 
+Overseas Promote regional No. 1 reduction activities. 
+Zero landfill waste3. 
+Waste volume generated per vehicle. 
+Total volume generated. 
+Waste volume generated per vehicle. 
+FY2002 35% reduction. 
+FY2002 63% reduction. 
+Japan2. 
+Japan Waste. 
+TMC. 
+Promote activities to reduce metal scrap generation and implement All-Toyota campaigns to effectively use resources internally. 
+Scope Region Item Base year FY2020 results. 
+Valuables. 
+Waste. 
+Overseas Promoted various activities, such as reuse. 
+Zero landfill waste. 
+Waste volume generated per vehicle. 
+Total volume generated. 
+Waste volume generated per vehicle. 
+FY2002 38% reduction. 
+FY2002 63% reduction. 
+Japan. 
+Japan Waste. 
+TMC. 
+Promoted yield improvement and reliably collected scrap materials ● Took the following initiatives: – Since the launch of the first-generation Prius in FY1998, collected a cumulative total of 171,000 batteries from End-of-life vehicles for reuse and recycling – Continued promotion of remanufacturing and reuse of batteries including use for stationary storage – Continued investigation of large-capacity storage battery systems in cooperation with an electric power company (Japan) – Established battery 3R promotion organizations in U.S., Europe, China and Thailand and promoting activities in Asia (Thailand) in particular – Continued to extract rare earth elements from collected magnets for recycling and reuse as magnetic materials and so on; since FY2013, have collected and recycled a cumulative 47 tons of magnets ● Promoted waste reductions and efficient use of resources through measures aimed at the sources of waste ● Took the following initiatives: (Japan) Reduced 33% compared to FY2007 levels by continuously reducing wrapping materials (Overseas) Assessed best practices ● Continued activities by the All-Toyota Harmony with Nature Working Group at group and other companies (22 companies) (Activities to Connect Communities) – The number of activities promoting harmony with nature by conference members was expanded to 277 (up 12% year-on-year) – In addition to activities by individual companies, conducted All-Toyota joint activities in June (Aichi Prefecture) and October 2019 (Miyagi Prefecture) (Enhancement of awareness) – Applied for and won the Biodiversity Action Award for the All-Toyota Harmony with Nature Working Group activities ● Continued “Plant in Harmony with Nature” activities – Conducted training for employees who carry out Plant in Harmony with Nature initiative in collaboration with an NGO – Implemented wildlife habitat maintenance and improvement measures and continued indicator species surveys to confirm the effects at the Tsutsumi Plant – Implemented wildlife habitat maintenance and improvement measures and started an indicator species survey at the Teiho Plant through collaboration between industry, government and academia – Held community workshops at the Kamigo Plant to consider the objectives that should be pursued and measures for achieving them ● A Thailand based affiliate planned and implemented mangrove planting and plastic collection events in collaboration with the Toyota Group companies and the International Union for Conservation of Nature (IUCN) ● Built cooperative relationships with international organizations and NGOs as described below, and contributed to the conservation of global biodiversity – Conducted the following activities in collaboration with the IUCN: · Conducted assessments of extinction risks for 21,341 species to enhance the IUCN Red List, a global indicator of ecosystems · Jointly organized a side event at the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (February 2020) · Issued updated releases concerning the Red List and released information on a database website – Donated vehicles to BirdLife International and Conservation International in Myanmar, Tahiti and Guyana to conduct surveys and conservation activities of species listed on the IUCN Red List Conducted an awards ceremony at the 1st Asian BirdLife Festival and Nature Expo 2020 (January 2020) – Continued measures to protect endangered wildlife and conducted patrols to prevent illegal logging as a part of the World Wide Fund for Nature (WWF) Living Asian Forest Project TMC conducted joint publicity activities on the social media and websites with TDEM and TMMIN, affiliates in Asia ● Continued the Toyota Environmental Activities Grant Program to support the biodiversity and climate change related activities of small- and medium-size NGOs and NPOs. 
+Action Items Evaluation FY2020 Progress Specific Actions and Targets. 
+Recycling (Resources, Water) Harmony with Nature
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 33 Environmental Report 2020 18. Boost contribution to environmental education activities “Connecting to the Future” ● Toyota ESD* Project—an initiative to strengthen environmental education using plant sites and company-owned lands in each region and thereby connect environmental conservation activities to the future – Globally expand education of local residents and children utilizing forests and green biotopes at plants and others – Promote development of educational programs taking advantage of the special characteristics of company-owned land (the Toyota Shirakawa-Go Eco-Institute, Forest of Toyota, Toyota Mie Miyagawa Mountain Forest and others) and promote human resources development to connect to the future * Education for Sustainable Development 19. Promote environmental contributions through biotechnology and afforestation business, automotive peripheral technologies and forest conservation activities ● Respond to environmental issues with biotechnology – Promote cellulose ethanol research and development by further improving yeast ferment capacity – Contribute natural capital creation by applying to the area of agriculture and farming biomass business • Contribute to “Adaptation” in climate change through urban greening business and Group-owned technology – Respond to heat island 20. Strengthen consolidated environmental management. 
+Environmental Management ● Enhance activities globally of various environmental committees to improve environmental management activities and ensure superior environmental performance (CO2, water and others) across all business activities in each country and region ● Establish a model to utilize resources effectively at the Toyota Mie Miyagawa Mountain Forest ● Realize a sustainable technical center in harmony with nature and local communities at the Toyota Technical Center Shimoyama, which is currently in the planning stage ● Thoroughly comply with environmental laws and regulations and strengthen proactive prevention measures for environmental risks in each country and region ● Improve chemical substance management by carefully monitoring legal trends in each country and region (6) Challenge of Establishing a Future Society in Harmony with Nature ● Took the following initiatives: (Employee education) – Same as No. 25 (Forest of Toyota) – Held hands-on nature programs for local elementary school children (4,800 children in FY2020) – In May 2019 and February 2020, held a basic course on frogs, announced case studies, held hands-on workshops, conducted field tours and hosted various other events as the third part of the educational series on the living creatures of satoyama (Toyota Shirakawa-Go Eco-Institute) – Provided hands-on nature programs for children and adults; the total number of people who visited the institute in FY2020 was 12,819, and 9,288 people participated in institute programs; the Children’s Camp, which nurtures children’s environmental awareness, self-reliance and ability to take action, was supplemented by a new 2-week camp, and 8 different camp programs were held with 164 children participating – The 2nd SDGs Education Forum in Toyota Shirakawa-Go Eco-Institute was held in September 2019 as an activity to enhance the value of the institute ● Promoted initiatives in the area of biomass – Developed yeast with ethanol productivity at the world’s highest level to contribute to the widespread use of low-carbon fuels – Developed technology for ethanol production from biomass that does not compete with food and feed ● Promoted initiatives in the area of urban greening – Initiatives completed * Business was transferred to Oshima Landscape Construction Co., Ltd. in July 2019 ● Toyota Mie Miyagawa Mountain Forest – For the “Forest Challenge and Development Project,” which seeks to create new utilization of trees and forests, the selected projects started activities in April 2018 to promote reinvigoration of local communities and forests “a day in the forest,” an educational program to learn about the “forest cycle” of growing and using trees, was held in November 2019 ● Toyota Technical Center Shimoyama – Started partial operation in April 2019 – Continued steady environmental conservation activities and surveys at the development site and reported the results to the Environment Monitoring Committee (twice annually) – Worked together with experts to continue activities to conserve wild birds, which are declining in number in Aichi Prefecture Confirmed nest building and fledging of young by the oriental dollarbird, a species subject to conservation ● Took the following initiatives: (Japan) – Held the All-Toyota Production Environment Conference and Liaison Committee (Executives’ Meeting) to discuss initiatives in the area of production (Overseas) – Held the Global Environment Meeting with those responsible for environmental matters (general manager level) from all six regions, and discussed the next five-year plan – Held the Environmental Strategy Meeting with executives from four key regions (North America, Europe, China and Asia) to discuss the next five-year plan and global environmental issues – Held the eighth Global ECO. Awards to promote environmental kaizen activities in the area of production and logistics and conducted yokoten of best kaizen practices ● Took the following initiatives: – Held on site mutual confirmation meetings targeting those responsible for environmental initiatives at the Toyota Group companies in Japan – Three environmental non-compliance issues (three in Japan and zero overseas) All were minor incidents, for which measures and yokoten were completed ● Deployed chemical substance management structures globally – Complied with Toyota internal rules – Evaluated and improved chemical substance management structures by auditing and investigating suppliers’ processes. 
+Action Items Evaluation FY2020 Progress Specific Actions and Targets. 
+Harmony with Nature Environmental Management : Steady progress toward FY2021 target : Issues remain, but FY2021 target is expected to be met : FY2021 target is not expected to be met − Progress of the Sixth Toyota Environmental Action Plan (Detail) TCFD Metrics and Targets a & c
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 34 Environmental Report 2020 24. Promote environmental activities in cooperation with business partners (dealers and distributors) ● Promote environmental management in cooperation with dealers and distributors (Japan) – Promote environmental activities by adhering closely to the Toyota Dealer CSR Checklist and promote CO2 emissions reduction and others, by improving environmental management (Overseas) – Promote and strengthen the environmental activities led by each regional headquarters and distributors in each country (CO2 emissions reduction and others) – Promote and strengthen the Dealer Environmental Risk Audit Program (DERAP) 25. Bolster global employee education and awareness activities ● Raise awareness of environmental conservation through global environmental education among employees – Systemize environmental education programs conducted in cooperation with consolidated affiliates – Conduct environmental education in accordance with situations in each country and region 26. Enhance active disclosure of environmental information and communication ● Enhance environmental information disclosures – Expand affiliates subject to collection of environmental information, and creation of the system – Further enhance the Environmental Report content ● Further enhance environmental communications activities in each country and region 22. Reduce volatile organic compound (VOC) emissions in production activities ● Develop and deploy VOC emissions reduction technologies through reducing the use of paint and thinners in painting processes – Promote continual reduction in VOC emissions through initiatives linked to painting equipment upgrade plans as well as daily kaizen activities 23. Promote environmental activities in cooperation with business partners (suppliers) ● Reinforce cooperation with suppliers to further promote environmental activities globally – Ensure compliance with each country’s laws and regulations while steadily promoting chemical substance management – Pursue cooperative environmental activities in a broad range of areas, including CO2 emissions reduction, resource recycling, water impact reductions and the establishment of societies in harmony with nature * TMC and consolidated subsidiaries (manufacturing) in Japan and overseas. 
+Scope Region Item Target (FY2021)
+TMC. 
+Overseas. 
+Emissions volume per area painted 310 g/m2 or less (average for all lines)
+Japan/Overseas. 
+Bumper painting. 
+Other painting Promote VOC emissions reduction activities. 
+Promote regional No. 1 reduction activities. 
+Emissions volume per area painted. 
+Emissions volume per area painted 26 g/m2 or less (average for all lines) 19 g/m2 or less (average for all lines)
+Japan*
+Vehicle body painting TMC 21. Reduce vehicle exhaust emissions to improve urban air quality in each country and region ● Steadily introduce low-emissions vehicles to improve urban air quality in each country and region ● Contribute to air quality improvement through air quality research in collaboration with research organizations in each country. 
+Environmental Management ● In response to stricter emissions regulations in each country and region, steadily introduced vehicles that satisfy those regulations ● Implemented air pollution measures with various partners to contribute to improvement of urban environments. 
+Scope Region Item FY2020 results. 
+TMC. 
+Overseas. 
+Emissions volume per area painted 161 g/m2. 
+Japan/Overseas. 
+Bumper painting. 
+Other painting Promoted painting condition optimization and others. 
+Promoted coating efficiency improvement and others. 
+Emissions volume per area painted. 
+Emissions volume per area painted 21.1 g/m2 13.5 g/m2. 
+Japan. 
+Vehicle body painting TMC ● Took the following initiatives: (Japan) – Promoted enhancement of environmental management of dealers including reduction of CO2 emissions by updating the check items under the Toyota Dealer’s Legal Compliance Manual (former CSR Checklist) – Prepared the environmental guidebook in May 2019 to expand the policy for environmental activities to dealers (Overseas) – Reinforced environmental initiatives including CO2 emissions reduction based on environmental guidelines prepared in each region – 100 distributors and 4,647 dealers from 97 countries worldwide participated in the Dealer Environmental Risk Audit Program, and 95% of participating dealers satisfied all 5 audit requirements (down 1% year-on-year) * Including some distributors that did not issue reports this fiscal year due to organizational restructuring and other factors ● Took the following initiatives: – Set the Toyota Global Environment Month and conducted environmental education for employees globally Conducted employee educations using internal digital signage and the company intranet, took measures to encourage action by employees (My Action Declaration on Biodiversity, provision of sustainable seafood at employee cafeterias and tree-planting events), reimbursed fees for the Certification Test for Environmental Specialists, screened documentaries in the environment and took other measures – Held participation events for employees before the World Water Day and during the Toyota Water Week – In addition to the above, continued environmental lectures conducted by outside speakers, environmental seminars for employees and environmental education for new employees ● Took the following initiatives: – Presented information on the Toyota Environmental Challenge 2050 by participating in events and holding exhibits – Produced videos, posted them on the company websites and social media and provided them to overseas affiliates ● Continued efforts to reduce the use of cleaning solvents and to increase the percentage of waste solvent recovery ● Took the following initiatives: – Continued to request activities based on the revised TOYOTA Green Purchasing Guidelines (at 36 affiliates in 15 countries) – Updated self-assessment check list for suppliers in Japan to ensure thorough chemical substance management Continued measures to utilize the self-assessment results in future activities Implemented similar activities adapted to regional conditions at overseas sites – Held workshops for suppliers that requested to participate in the CDP Supply Chain Program Engaged in mutual communication concerning the risks and opportunities relating to climate change and water – Summarized the 18 months of activities of the study sessions in the first term on environmental topics at the Kyohokai (a supplier organization) – Continued commendation of suppliers that made substantial contributions to environmental initiatives. 
+Action Items Evaluation FY2020 Progress Specific Actions and Targets. 
+Environmental Management : Steady progress toward FY2021 target : Issues remain, but FY2021 target is expected to be met : FY2021 target is not expected to be met − Progress of the Sixth Toyota Environmental Action Plan (Detail) TCFD Metrics and Targets a & c
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 35 Environmental Report 2020. 
+Global Sales of Electrified Vehicles (thousand vehicles) (miles per gallon) (miles per gallon)
+Hybrid electric vehicles (HEVs) 1,466 1,519. 
+Plug-in hybrid electric vehicles (PHEVs) 51. 
+Fuel cell electric vehicles (FCEVs) 2 1,584 1,632 46 2
+1,864. 
+Light Duty Vehicle (LDV) (Domestic)
+U.S.
+37.3 39.2 39.4. 
+LDV (Non Domestic) 38.1 39.7 41.4. 
+Light Duty Truck (LDT) 27.4 28.6 27.7 1,922 56 2. 
+Total. 
+E
+Average Fuel Efficiency from New Vehicle by Region D 2016 2017 2018 (g-CO2/km)
+M1 (compact passenger car) Europe 105.4 103.1 102.1 Third Party Assurance 2017 2018 2019 2016 2017 2018. 
+SASB TR-AU-410a.1. 
+In principle, fractions are rounded down to the nearest unit. For this reason, the total and the breakdown totals do not always match.
+Volatile Organic Compound (VOC) Emissions Volume per Area Painted at Toyota Motor Corporation (TMC) A. 
+Average for Body Line (g/m2) 14.4 15.0 13.5. 
+FY2018 FY2019 FY2020. 
+Average for Bumper Line 176 176 161 (thousand tons)
+Waste at cost* 216 216. 
+Incinerated waste 38 40. 
+Landfill waste 16 18. 
+Total 264 275 193 45 23 261 2017 2018 2019. 
+B Global Waste Volume 2017 2018 2019. 
+Japan (TMC) 29. 
+Japan (Consolidated subsidiaries) 145. 
+North America 34. 
+Europe 11. 
+China 16. 
+Others (Asia (excluding Japan), Latin America, South Africa) 39. 
+Total. 
+By region By type 275 30 138 33 14 13 35 264. 
+Per vehicle produced 29 134 32 11 18 37 261 26.0 25.2 24.4 <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies. 
+SASB TR-AU-440b.1 (Total: thousand tons; per vehicle produced: kg/unit)
+Usage of Packaging and Wrapping Materials at TMC (thousand tons) 45.8 46.4 47.1. 
+C
+FY2018 FY2019 FY2020. 
+Usage of packaging and wrapping materials. 
+Environmental Management New Vehicle Zero CO2 Emissions Challenge. 
+SASB TR-AU-410a.2 * Waste at cost: Waste that is recycled for a fee. 
+Third Party Assurance
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 1 Peta joule: Peta represents 1015 and a joule is a unit of energy 2 Giga joule: Giga represents 109 and a joule is a unit of energy <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies <Conversion Factors> • Electricity: 3.6 GJ/MWh • Other than electricity: “2006 IPCC Guidelines for National Greenhouse Gas Inventories” and "Greenhouse Gas Emissions Accounting and Reporting Manual” (version 4.4), Japanese Act on Promotion of Global Warming Countermeasures. 
+Europe 3.8 3.4 3.5 36 Environmental Report 2020. 
+Global CO2 Emissions (Total: million tons; per vehicle produced: ton/unit)
+Japan (Toyota Motor Corporation (TMC)) 1.27 1.10. 
+Japan (Consolidated subsidiaries) 1.80 1.94. 
+North America 1.03 1.03. 
+Europe 0.19 0.16. 
+Others (Asia (excluding Japan), Latin America, South Africa) 1.05 1.11. 
+Total 5.94 6.00. 
+CO2 emissions per vehicle produced (tons/unit) 0.57 0.57. 
+F G (PJ1)
+Japan (TMC) 13.6 12.1. 
+Japan (Consolidated subsidiaries) 22.4 22.8. 
+North America 13.9 14.6. 
+China 5.6 6.2. 
+Others (Asia (excluding Japan), Latin America, South Africa) 9.8 11.1. 
+Total. 
+By type By type 69.0 70.3. 
+Per vehicle produced 0.97 1.89 0.97 0.09 1.05 5.68 1.75 1.92 1.90 4.19 4.08 3.78 0.53 12.6 22.9 13.8 3.5 6.7 10.6 70.0 6.60 6.65 6.53 2017 2018. 
+Electricity 28.0 28.1. 
+City gas 19.6 18.5. 
+Natural gas 14.5 15.4. 
+LPG 1.8 1.8. 
+LNG 1.0 1.2. 
+Coke 0.3 0.3. 
+Coal 0.1 0.1. 
+Heavy oil A 0.8 0.7. 
+Diesel oil 0.4 0.4. 
+Kerosene 0.1 0.1. 
+Steam 1.1 1.2. 
+Hot water 0.6 0.6. 
+Renewable energy 0.4 1.4. 
+Total 69.1 70.3 2019 2017 2018 2019 2017 2018 2019 26.2 19.0 14.9 1.6 1.2 0.3 0.1 0.6 0.3 0.1 1.0 0.7 3.5 70.0. 
+Global Energy Consumption • GHG Protocol was used to calculate emissions <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies <Emission Factors> • Electricity: Emission factor method by electric companies (used some 2017 conversion factors from the IEA CO₂ Emissions from Fuel Combustion 2019) • Other than electricity: “2006 IPCC Guidelines for National Greenhouse Gas Inventories” and "Greenhouse Gas Emissions Accounting and Reporting Manual” (version 4.4), Japanese Act on Promotion of Global Warming Countermeasures. 
+Direct emissions (Scope 1)
+Indirect emissions (Scope 2) (Total: PJ1; per vehicle produced: GJ2/unit)
+TCFD Metrics and Targets b. 
+Plant Zero CO2 Emissions Challenge. 
+Third Party Assurance. 
+Third Party Assurance. 
+In principle, fractions are rounded down to the nearest unit. For this reason, the total and the breakdown totals do not always match.
+China 0.61 0.66 0.71. 
+Others 0.5 0.6 0.5
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 37 Environmental Report 2020 (million tons)
+Purchased goods and services 1 
+61.19 338.51 412.01 
+2 Capital goods 4.18 3 Fuel- and energy-related activities (not included in Scope 1 or 2) 0.95 4 Upstream transportation and distribution 0.87 5 Waste generated in operations 0.12 0.15 6 Business travel 7
+8 9. 
+Employee commuting 0.66. 
+Upstream leased assets (Calculated in the other categories)
+Downstream transportation and distribution 0.01 10 Processing of sold products 1.41 3.79 11 Use of sold products ―
+― ―
+12 End-of-life treatment of sold products 13 Downstream leased assets (Calculated in the other categories) 14 Franchises (N/A) 15 Investments 0.17 65.10 (16.4%) ◯
+◯ ◯
+◯ ◯
+◯ 320.50 (80.5%) 397.94 (100%) 4.23 (1.1%) 0.91 (0.2%) 0.96 (0.2%) 0.09 (0.0%) 0.17 (0.0%) 0.68 (0.2%) 0.01 (0.0%) 1.24 (0.3%) 3.96 (1.0%) ―
+― ―
+0.09 (0.0%) 63.29 339.25 414.91 4.54 0.93 0.89 0.12 0.15 0.64 0.01 1.17 3.84 ―
+― ―
+0.08. 
+Total for categories 1 through 15. 
+Logistics CO2 Emissions (Total) (million tons) 2.17 2.20. 
+H
+FY2018 FY2019 FY2020 0.286 0.289 0.292 2.45. 
+Global CO2 Emissions Volume and Ratio of 15 Categories in Scope 3 I. 
+Railway 22.0 g-CO2/tkm. 
+Vessel 39.0 g-CO2/tkm. 
+Gasoline 2.32 kg-CO2/L. 
+Diesel oil 2.62 kg-CO2/L. 
+Heavy oil C 2.98 kg-CO2/L. 
+Categories 1, 2, 3, 5, 7 • Ministry of the Environment of Japan, “Database on Emissions Unit Values for Accounting of Greenhouse Gas Emissions, etc., by Organizations Throughout the Supply Chain” (version 3.0)
+Categories 3, 9, 11. 
+Categories 3, 7, 9, 11. 
+Category 6 • IDEA v2.3 • Japan Environmental Management Association for Industry, “Carbon Footprint of Products Communication Program, Basic Database” (version 1.01) • “Greenhouse Gas Emissions Accounting and Reporting Manual” (version 4.4), Japanese Act on Promotion of Global Warming Countermeasures 2017 2018 2019. 
+Global. 
+Toyota Motor Corporation (TMC)
+Actions under the Life Cycle Zero CO2 Emissions Challenge. 
+Life Cycle Zero CO2 Emissions Challenge. 
+TCFD Metrics and Targets b <Scope of Coverage (Global)> • Total CO2 emissions from business that handle logistics in the seven regions (Japan, North America, Europe, China, Asia, South America and South Africa) from delivery of production parts, service parts and completed vehicles * Transportation excluded from the scope of calculations • Transportation between regions (e.g., Japan to North America) • Production and sales affiliates (different to affiliates that handle logistics) that directly handle deliveries in North America, China and Southeast Asia and other transportations <Emission Factors> • Global: Emission factors have been calculated according to the calculation methods of each affiliate in each region • TMC: Ministry of Economy, Trade and Industry and Ministry of Land, Infrastructure, Transport and Tourism of Japan, “Guidelines on Disclosure of CO2 Emissions from Transportation & Distribution” (version 3.0) and others. 
+Third Party Assurance. 
+In principle, fractions are rounded down to the nearest unit. For this reason, the total and the breakdown totals do not always match.
+• The calculation range mainly covers financial consolidated automotive business • Category 11 is calculated from the average fuel efficiency and estimated lifetime mileage of vehicles in Japan, U.S., Europe, China, Canada, Brazil, Saudi Arabia, India, Australia, Taiwan, Thailand and Indonesia; the consolidated number of vehicles sold in 2019; and the emission factor <Emission Factors>
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement. 
+Total. 
+Volume of recycled water discharge 39.0 35.7 38.4. 
+Total 44.4 44.0 38 Environmental Report 2020. 
+Municipal water 35.4. 
+Groundwater 8.8. 
+Fresh surface water (rainwater, river water, etc.) 0.2. 
+Water discharge from other organizations 0.0 44.5 35.1 9.1 0.2 0.2 35.0 8.6 0.4 0.0. 
+River/lake 23.1 24.7. 
+Groundwater 0.5 0.7. 
+Brackish surface water/seawater 2.4 2.3. 
+Sewage 8.4 8.8. 
+Other organizations 1.4 2.5 25.3 0.7 2.1 7.8 2.4. 
+Global Water Usage J. 
+Global Water Withdrawal Volume by Source K. 
+Global Water Discharge Volume by Destination L 2017 2018 2019 2017 2018 2019 2017 2018 2019 3.1 3.3 2.8. 
+Global Recycled Water Discharge Volume M 2017 2018 2019. 
+Japan (Toyota Motor Corporation (TMC)) 4.5. 
+Japan (consolidated subsidiaries) 19.6. 
+North America 6.5. 
+China 3.8. 
+Others (Asia (excluding Japan), Latin America, South Africa) 8.5. 
+Total 44.4. 
+Water usage per vehicle produced (m3/unit) 4.20 6.4 18.8 6.6 3.2 7.9 44.5 4.26 4.5 19.8 6.6 3.4. 
+Europe 1.5 1.7 1.5 8.1 44.0 4.10. 
+Ratio of oil delivered using tanker trucks (bulk supply system5) (Volume sold by parts distributors)
+Vehicle recovery rate2 (converted into a per-vehicle value) 99 99 99. 
+ASR recovery rate3 98 97 96. 
+Bumpers 775 765 69.7 63.8 658. 
+Lead wheel balance weights4 69.7 64.8 64.8 64.0. 
+Volume of raw materials used 13.75 14.03. 
+Ratio of recycled materials used 24 24 14.54 24. 
+N Changes in Vehicle Recovery Rate and ASR1 Recovery Rate at TMC. 
+O Results of Damages and Removed Parts Collected and Recovered at TMC. 
+P Volume of Raw Materials Used and Ratio of Recycled Materials Used (Global)
+FY2018 FY2019 FY2020 2017 2018 2019. 
+SASB TR-AU-440b.3. 
+SASB TR-AU-440b.2 (%)
+Challenge of Minimizing and Optimizing Water Usage Challenge of Establishing a Recycling-based Society and Systems. 
+Third Party Assurance (Total: million m3; per vehicle produced: m3/unit) (million m3) <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies <Scope of Coverage> TMC and consolidated subsidiaries, a total of 130 companies (million m3) (million m3) 1 Automobile Shredder Residue: Residue after End-of-life vehicles are shredded 2 Vehicle recovery rate: Calculated by combining the percentage recycled and recovered through the dismantling and shredding processes, approximately 83% (quoted from the April 2003 joint council report), with the remaining ASR rate of 17% × ASR recovery rate of 96% 3 ASR recovery rate: Recovery volume/amount collected 4 Lead wheel balance weights: Weights used to ensure rotation balance when joining a wheel and tire 5 Bulk supply system: Filling oil directly to tanks (Bumpers: thousand pieces, Lead wheel balance weights: tons, Ratio of oil delivered: %) (Volume: million tons, Ratio: %)
+FY2018 FY2019 FY2020. 
+In principle, fractions are rounded down to the nearest unit. For this reason, the total and the breakdown totals do not always match.
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 39 Environmental Report 2020. 
+Automatic transmissions 1,368 68. 
+Power steering gear 3,932 1,784. 
+Torque converters 1,196 4,328. 
+Used parts. 
+Remanufactured parts 32,679 — 1,077 78 3,613 1,609 1,015 6,266 30,264 — 855 52 3,391 1,673 794 2,569 26,716 —
+Q Supply Results of Used and Remanufactured Parts at Toyota Motor Corporation (TMC)
+FY2018 FY2019 FY2020. 
+SASB TR-AU-440b.2. 
+Total 27 28 26. 
+Asia-Pacific 5 6. 
+North America, Latin America 0 2. 
+Africa 3 1 8
+1 2. 
+Results of Toyota Environmental Activities Grant Program R. 
+FY2018 FY2019 FY2020 413 124 23 35. 
+Cumulative total* (Reference) New parts (Reference) New parts (Reference) New parts. 
+Challenge of Establishing a Recycling-based Society and Systems. 
+Challenge of Establishing a Future Society in Harmony with Nature * Cumulative total number of programs since FY2001 (Number of parts supplied) (programs)
+In principle, fractions are rounded down to the nearest unit. For this reason, the total and the breakdown totals do not always match.
+Japan 18 17 15 216. 
+Europe 2 1 0 15
+
+
+Editorial Policy Contents Message from the Head of the Company Overview of Toyota Motor Corporation Changes in Key Consolidated Financial Data Strategy and Management Six Challenges Environmental Data Verification Statement. 
+Environmental Data Verification Statement 40. 
+Verification Statement. 
+Environmental Report 2020
+
+
+Published: October 2020. 
+Toyota is a Worldwide Olympic/Paralympic Partner in the category of vehicles, mobility support robots and mobility services.

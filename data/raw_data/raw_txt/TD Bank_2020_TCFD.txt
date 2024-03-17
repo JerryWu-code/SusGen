@@ -1,0 +1,689 @@
+2020 Managing Climate-Related Risks and Opportunities. 
+Update on TCFD
+
+
+1. 
+
+ 
+
+ 
+
+ 
+
+Table of Contents. 
+About This Report 2. 
+Our Commitment to Climate Action 3. 
+Introduction 4. 
+TD’s Approach to the TCFD Recommendations 6. 
+Governance 9. 
+Strategy 12. 
+Risk Management 16. 
+Metrics & Targets 20. 
+Endnotes 23. 
+Caution Regarding Forward-Looking Statements 24
+
+
+Managing Climate-Related Risks and Opportunities 2. 
+UPDATE ON TCFD — ABOUT THIS REPORT. 
+
+ 
+
+ 
+
+
+About This Report. 
+This report presents TD’s eforts towards implementing the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). TD supports the recommendations from the Financial Stability Board’s (FSB) Task Force on Climate- related Financial Disclosures (TCFD), which provide important guidance on using a more consistent approach to assessment and reporting of climate-related risks and opportunities. Since 2018, we have released disclosure on how TD has embedded the assessment and disclosure of climate-related risks and opportunities into our governance, processes and reporting. TD is on a journey to adopt the requirements of TCFD and intends to continue in building our expertise for managing climate risks and opportunities. TD’s current focus is to embed climate considerations into our business strategy to enable TD to help facilitate the transition to the low-carbon economy. This is our third TCFD report, and it outlines our approach, accomplishments and priorities during the reporting period November 1, 2019-October 31, 2020.
+Throughout this report, “TD” or “the Bank” or “we” refers to TD Bank Group. “TD Bank” refers to TD Bank, America’s Most Convenient Bank®. All currency is in Canadian dollars unless otherwise noted.
+TD is a signatory to or supporter of the following voluntary reporting initiatives that promote integrating climate-related considerations into business activities: • CDP • Climate Action 100+ • Equator Principles • Partnership for Carbon Accounting Financials • Renewable Energy 100 • Task Force on Climate-related Financial Disclosures • UNEP FI Principles for Sustainable Insurance • UN Principles for Responsible Investment. 
+This publication is part of our reporting suite. FOR MORE INFORMATION ABOUT TD AND OUR ACTIVITIES, PLEASE READ OUR OTHER REPORTS: 2020 Annual Report 2020 Principles for Sustainable Insurance (PSI) – Annual Disclosure. 
+UN Principles for Responsible Investment (PRI) Transparency Report 2020 Environmental, Social and Governance (ESG) Report 2020 TD Ready Commitment Report. 
+Adapting with purpose 2020 Annual Report. 
+Principles for Sustainable Insurance – Annual Disclosure 2020. 
+In 2014, TD Insurance became the second Canadian-based signatory to the United Nations Environment Programme Finance Initiative’s Principles for Sustainable Insurance (UNEP FI PSI). UNEP FI PSI serve as the global framework for insurance companies to better manage environmental, social and governance (ESG) risks, as well as opportunities in their core business strategies and operations.
+As a PSI signatory, TD Insurance reports on its progress embedding the principles into all aspects of its operations. This document outlines the activities TD Insurance has undertaken to demonstrate its commitment to the PSI.
+Principle 1: We will embed in our decision-making environmental, social and governance issues relevant to our insurance business.
+Company Strategy. 
+United Nations Environment Programme Finance Initiative Task Force on Climate-related Financial Disclosures (TCFD) Implementation Pilot. 
+In 2018, TD Insurance joined a group of 16 PSI signatories who have committed to participating in the UNEP FI supported pilot to implement the recommendations of the TCFD in the insurance industry. The pilot group developed and is testing analytical tools to support insurance industry climate risk disclosures, providing information to investors, consumers and other stakeholders. The tools and indicators incorporate the latest scenario analysis to assess climate-related physical and transition risks in insurance portfolios. The pilot group, whose focus is on non-life insurance work, released an interim report in September 2020 and concluded its work by releasing a final report in January 2021. The UNEP FI pilot participants will seek to begin public disclosures, in a format of their choosing, in 2021/2022.
+Employee Experience. 
+Employee Empowerment: Every TD Insurance office in Canada has a Green Team, made up of employees who volunteer their time to address local environmental issues through activities like tree planting, park and shoreline clean ups, and education sessions. In support of our PSI commitment we continued our ongoing efforts to revitalize our Green Teams by recruiting new members and ensuring strong leaders are in place. In addition to creating both physical and virtual spaces for employees across Canada to connect on these issues, we launched nationwide recycling initiatives focused on diverting and repurposing materials that would otherwise end up in landfills, and on reducing consumption of agricultural products responsible for high levels of greenhouse gas (GHG) emissions. This year, in response to the COVID-19 pandemic, we provided additional opportunities for virtual engagement in place of in person activities including: workshops on waste reduction and reduced consumption, a meatless recipe repository, sharing of gardening tips and activities for families, and interactive sessions on well-being.
+We are supporting this work with organization-wide education on climate change issues, insurance industry concerns, TD Insurance activities and commitments, and opportunities for employee involvement.
+Indigenous Internship Program: The TD Insurance Indigenous Internship Program provides opportunities for Indigenous young professionals to gain skills and experience with various segments of our business while actively participating in and contributing to the celebration and acknowledgement of Indigenous history and culture.
+Risk Management and Underwriting. 
+TD Insurance’s underwriting criteria include: • A requirement for customers to install sewer back-up valves following a claim in order to continue coverage; and • Strict criteria for oil tanks.
+2020 TD Ready Commitment Report. 
+An investor initiative in partnership with UNEP Finance Initiative and UN Global Compact. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+RI TRANSPARENCY REPOR T 2020. 
+TD Asset Management (TD Asset Management Inc.) 
+Adapting with Purpose 2020 Environmental, Social and Governance Report
+
+
+Managing Climate-Related Risks and Opportunities 3. 
+UPDATE ON TCFD — OUR COMMITMENT TO CLIMATE ACTION. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Our Commitment to Climate Action. 
+Climate change presents a significant risk to our environment, our economy and our communities, and we consider it our responsibility to address climate-related risks and opportunities as an integral part of our strategy and purpose.
+In November 2020, TD evolved its Environmental, Social and Governance (ESG) strategy and announced an ambitious Climate Action Plan. The Climate Action Plan supports the Bank’s ESG strategy to address the urgent challenges of climate change by setting a target to reduce TD’s contribution to climate change and introducing sustainable finance products and services. The Climate Action Plan’s target of achieving net-zero greenhouse gas (GHG) emissions associated with our operating and financing activities by 2050 is aligned to the associated principles of the Paris Agreement.
+By continuing to integrate ESG practices into our business, we can support the transition to a low-carbon economy and help mitigate the potential efects of climate change on our customers, businesses and the broader society.
+“Climate change is an important environmental and business challenge, and I am proud of TD’s long history of environmental leadership as we position the Bank for growth in the low-carbon economy. In 2020, we took additional bold measures to address the urgent challenges and risks brought on by climate change. Our Climate Action Plan outlines steps we will take to support long-term sustainable economic growth, including a target to achieve net-zero greenhouse gas emissions associated with the Bank’s operations and financing activities by 2050, and provide advice and expertise to our clients through their own transitions.
+TD supports the Financial Stability Board’s Task Force on Climate-Related Financial Disclosures, including the development of consistent climate disclosures for financial markets. We want to be part of the solution and play a central role in the work ahead.” — Bharat Masrani, Group President and Chief Executive Oficer. 
+TD MILESTONES 2010 • TD is the first major North American-based bank to become carbon neutral 2013–20 • TD is recognized by CDP as a top-performing Canadian bank for climate disclosure 2014–20 • TD is listed on the Dow Jones Sustainability World Index. In 2020, TD was the only North American-based bank on the World Index 2014 • TD is the first Canadian bank to issue a green bond • TD Insurance (TDI) becomes the second Canadian-based signatory to the UNEP FI PSI 2015 • TD joins Renewable Energy 100 (RE100); meets our 100% renewable electricity commitment 2017 • TD issues US$1 billion green bond • TD announces its commitment to help support the transition to a low-carbon economy with a target of $100 billion, in total, toward initiatives in low-carbon lending, financing, asset management and internal corporate programs by 2030 • TD joins all three pilot programs convened by the UNEP FI to address the TCFD recommendations and is the only financial institution globally to participate in all pilots for lending, investment and insurance 2018 • TD publishes its first report addressing the TCFD recommendations 2019 • TD Economics publishes a report about the role of central banks in managing climate-related risks to the financial system 1 • TD is the first in the Canadian insurance industry to announce the establishment of an Advisory Board on Climate Change • TD Asset Management (TDAM) joins Climate Action 100+ 2020 • TD publishes its Climate Action Plan which includes a target of net-zero GHG emissions with its operations and financing activities by 2050, a first by a Canadian bank. It also includes a ban on providing any new project-specific financial services, including advisory services, for activities that are directly related to the exploration, development, or production of oil and gas within the Arctic Circle, including the Arctic National Wildlife Refuge (ANWR) • TD issues its first US$500 million sustainability bond,2 which was also the first of its kind in SOFR format.
+
+
+Managing Climate-Related Risks and Opportunities. 
+UPDATE ON TCFD — INTRODUCTION 
+
+ 
+
+ 4. 
+Introduction. 
+CLIMATE CHANGE OVERVIEW. 
+Climate change is a global issue with far-reaching impacts across virtually all economic sectors. In 2018, a special report released by the Intergovernmental Panel on Climate Change (IPCC) highlighted that at its current rate, global warming is likely to reach 1.5°C by the middle of the century, resulting in a range of diferent climaterelated risks.3 The World Economic Forum’s 2020 Global Risks Report4 ranked climate change and related environmental issues among the top five long-term risks by likelihood and by impact over the next decade, underscoring the profound efect that climate-related risks are having on the global economy.
+In 2020, the COVID-19 pandemic has caused a global economic and health crisis that is afecting every facet of society. Many countries, including Canada, experienced a significant decline in economic activity and GDP due to government imposed lockdowns and physical distancing measures implemented to help slow the spread of COVID-19.5 Alongside the Bank’s response against COVID-19, as part of our ambitious Climate Action Plan, we have established a Sustainable Finance and Corporate Transitions Group to advise and support clients as they work to capture the opportunities of the transition to the low-carbon economy, and, while the precise path to achieve the 2050 target remains unclear, we intend to work closely with our clients as we set interim GHG reduction goals on the path towards 2050. The efects of climate change are happening faster and more severely than expected.6. 
+In addition, GHG emissions continue to rise despite warnings from climate scientists and commitments made by countries and companies around the world to reduce GHG emissions in line with the Paris Agreement.
+Many governments around the world have included ‘green recovery’ considerations within their COVID-19 stimulus packages to use green energy and infrastructure to help ensure a sustainable, resilient recovery enabled by innovation and new jobs.7 In Canada, the government has promised to build back a stronger and more resilient Canada by proposing climate change initiatives and action with a focus on investments in renewable energy, clean technology and zero-emission products as part of its economic recovery plan.8 In the U.S., the government’s Build Back Better plan is aiming to invest US$2 trillion over the next four years in targeted investments in clean infrastructure and energy projects to support the U.S.’ renewed climate goals. 9. 
+TD’S RESPONSIBILITY. 
+In December 2015, approximately 200 countries, including Canada and the U.S., entered into the Paris Agreement, a global agreement focused on reducing worldwide GHG emissions, preventing further impacts of climate change and supporting adaptive measures. The key target adopted by the signing countries is to keep the global average temperature rise this century to well below 2°C above pre-industrial levels and to pursue eforts to limit the temperature increase even further to 1.5°C. Significant progress is still needed to limit global GHG emissions in line with the Paris Agreement and the financial sector has a critical role to play in helping the transition to the low-carbon economy. 10. 
+The Paris Agreement is a critical step in responding to the global threat of climate change, and TD afirms its alignment with the associated principles of the Agreement. We support the Canadian and U.S. governments’ objectives to meet the goals of the Paris Agreement and recognize our responsibility to contribute by integrating climate considerations across our business, with a focus on key areas of finance such as lending, investment, insurance and risk management, as well as our own operations.
+As a large integrated financial institution, we have a role to play when it comes to driving sustainable growth for the customers and communities we serve and the economies we support. This report highlights how we are continuing to embed climate-related considerations into our business practices across TD and how we are working toward achieving our target of net-zero GHG emissions associated with our operations and financing activities by 2050, aligned to the associated principles of the Paris Agreement. In addition, our climate action plan supports our new ESG strategy, which leverages TD’s business, people and financial resources to help deliver sustainable economic prosperity.
+“TD’s Climate Action Plan further strengthens the work we’ve done over many years to drive change within the Bank and across our footprint. We plan to leverage our experience to extend our eforts even further, and together with thousands of dedicated TD Bankers, will deliver new approaches and creative solutions for the future.” — Norie Campbell, Group Head and General Counsel
+
+
+ 
+
+ 
+
+ 
+
+UPDATE ON TCFD — INTRODUCTION. 
+Introduction (cont’d)
+UNDERSTANDING CLIMATE CHANGE RISKS AND OPPORTUNITIES. 
+Climate risk is the risk of financial loss or reputational damage resulting from the physical and transitional impacts of climate change to the Bank and its customers and clients. This includes physical risks related to the chronic and acute physical impacts of climate change (e.g., shifts in climate norms, and extreme weather events such as hurricanes, wildfires and floods), and transition risks associated with the global transition to a low-carbon economy (e.g., climate-related policy actions and litigation claims, technological innovations, and shifts in supply and demand for certain commodities, products and services).
+The IPCC special report Global Warming of 1.5°C published in October 2018 highlighted that climate change has already had an impact on many industries and regions, and its impacts will continue to rise. Beyond the environmental impacts of climate change, the social and economic impacts are also being felt across an increasing number of cities and other communities. In 2018, the global economic costs from natural disasters totalled US$165 billion, of which 50% was uninsured.
+11 12. 
+In Canada, the Insurance Bureau of Canada (IBC) estimated that the insured damage and cost of severe weather events associated with climate change was $1.3 billion in 2019. 13. 
+However, along with the risks of climate change, there are significant opportunities. To meet the goals of the Paris Agreement, significant investment in the low-carbon economy is needed. A 2017 report from the Organisation for Economic Co-operation and Development estimated an annual investment of US$7 trillion is needed by 2030 to support sustainable economic growth. In Canada specifically, the Institute for Sustainable Finance estimates that a total investment of $128 billion over the next 10 years is required in order for Canada to achieve its 2030 GHG reduction goal, a substantial portion of which will come from the private sector.
+14 15. 
+In addition, the market for climate change solutions such as renewables, electric vehicles and green investing is expected to grow steadily. To capitalize on these opportunities, we have established teams across the Bank to advise and support clients as they work to capture the opportunities of the transition to a low-carbon economy.
+Managing Climate-Related Risks and Opportunities 5
+
+
+Managing Climate-Related Risks and Opportunities. 
+UPDATE ON TCFD — TD’S APPROACH TO THE TCFD RECOMMENDATIONS 
+
+ 
+
+ 
+
+ 6. 
+TD’s Approach to the TCFD Recommendations. 
+OVERVIEW OF THE TCFD. 
+In 2015, the FSB established the TCFD, in response to concerns that climate change represented a systemic risk to the global financial system. Following a period of public consultation, the TCFD released its final recommendations in June 2017. Three years later, over 1,500 organizations have come out in support of the TCFD, including many of the world’s largest institutional investors, who are collectively responsible for assets totalling US$150 trillion. 16. 
+Taken together, the 11 recommendations set forth by the TCFD represent a significant efort to provide lenders, insurers and investors with consistent, comparable, decision-useful and financially material climate-related information to enhance how climate-related risks are assessed, priced and managed. The TCFD asserts that organizations that implement the recommendations will be better able to evaluate emerging climate-related risks and opportunities in the short, medium and long term.
+WHY TD IS ADDRESSING THE TCFD RECOMMENDATIONS. 
+We are committed to positioning the Bank to thrive in a changing world. Helping our clients, customers and communities transition to a low-carbon economy through our investments, products, services and engagements is an important priority for the Bank.
+As part of this priority, it is important for TD to develop the capacities required to accurately assess material climate risks facing our businesses, as well as identify the emerging opportunities in the transition to a low-carbon economy. We believe that through our participation in relevant industry-led initiatives and our internal working groups, we are improving our ability to identify and manage our climate-related risks using the TCFD’s recommendations as an internationally recognized framework.
+TD’S APPROACH TO TCFD. 
+As of 2017, TD has taken a multi-year approach to the TCFD recommendations starting with education and awareness and thoughtful consideration towards integration, along with industry collaboration. The table below and remaining sections in this report summarize TD’s eforts to address the TCFD recommendations and highlight our many initiatives to support the responsible transition to a low-carbon economy.
+
+
+Managing Climate-Related Risks and Opportunities 7. 
+UPDATE ON TCFD — TD’S APPROACH TO THE TCFD RECOMMENDATIONS. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TD’s Approach to the TCFD Recommendations (cont’d)
+TD’S PHASED APPROACH TO IMPLEMENTING TCFD RECOMMENDATIONS. 
+PRIORITIES. 
+WORK TO DATE: CURRENT FOCUS: FUTURE PRIORITIES:
+Engagement and Understanding Integration and Analysis Embedding in Strategy • Developed comprehensive understanding of the TCFD’s recommendations • Identified sectors that we consider to be most exposed to climate-related risks • Explored industry climate scenario analysis methodologies • Advanced internal governance structures to help manage climate-related risks and opportunities • Advanced internal risk management frameworks to help support the identification, management and reporting of climate-related risks • Test industry climate scenario methodologies − Develop appropriate climate scenarios and methodology − Portfolio-level climate analysis and materiality assessment • Integrate climate considerations into existing lending and investment processes •
+•
+Execute Climate Action Plan to work to address climate- related risks and opportunities across our businesses Engage and support clients to capture opportunities in the transition to a low-carbon • Determine climate scenarios to use across the Bank • Extend scenario analysis through participation in industry pilots and working groups • Incorporate climate risks into enterprise stress-testing practices • Work closely with clients as we set interim GHG reduction goals on the path towards 2050.
+APPROACH. 
+WORK TO DATE: CURRENT FOCUS: FUTURE PRIORITIES:
+Engagement and Understanding Integration and Analysis Embedding in Strategy. 
+Governance • Integrated climate considerations into governance structures: − Risk Committee of the Board − Corporate Governance Committee of the Board − Senior Executive Environmental Champion − Corporate Environmental Afairs − Corporate Citizenship Council − Sustainable Finance Executive Council • Established TCFD Executive Steering Committee and Working Groups • Conducted Board educational session on managing climate risk and related investment strategies • Establish an ESG Senior Executive Team Forum to oversee and execute the key climate priorities of TD’s ESG strategy and Climate Action Plan • Establish an ESG Centre of Expertise drawing on experts from across TD to participate in data measurement and analytics, invest in research and support academic progress and technological innovation • Establish a Sustainable Finance Executive Council to oversee TD’s sustainable products and services • Continue integration of regular climate risk assessment and monitoring responsibilities into existing executive committees • Review governance practices with a focus on enhancing the management of climate-related issues • Incorporate a number of additional ESG metrics in the executive compensation plan for the senior executive team
+
+
+Managing Climate-Related Risks and Opportunities 8. 
+UPDATE ON TCFD — TD’S APPROACH TO THE TCFD RECOMMENDATIONS 
+
+ 
+
+ 
+
+ -
+ -
+ -
+TD’s Approach to the TCFD Recommendations (cont’d)
+APPROACH. 
+WORK TO DATE: CURRENT FOCUS: FUTURE PRIORITIES:
+Engagement and Understanding Integration and Analysis Embedding in Strategy. 
+Strategy • Launch of TD Ready Commitment in 2018 • Have been carbon neutral since 2010 • Joined relevant industry initiatives: − UN Principles for Responsible Investment (PRI) − UNEP FI PSI − Equator Principles − RE100 • Published two studies conducted with the UNEP FI TCFD pilots on assessing and measuring physical climate risk in our equity and lending portfolios • Operationalize 2050 climate target arising from TD’s Climate Action Plan • Establish a Sustainable Finance and Corporate Transitions Group to provide clients with advisory services and transition- and sustainability focused financing • Continue progress to meet our target of $100 billion by 2030 to help support the transition to a low-carbon economy − Issued a US $500 million sustainability bond • TDAM launched two new ESG-oriented mutual funds (TD North American Sustainability Equity Fund and TD North American Sustainability Balanced Fund) • Continue to participate in industry initiatives, including the Bank of Canada and the Ofice of the Superintendent of Financial Institutions’ (OSFI) new scenario analysis pilot program • Continue to assess climate risks and opportunities for TD’s business segments and operations • Continue advancing scenario analysis to understand climate-related risks across the Bank and develop strategic responses • Continue engagement with clients and investment community on climate issues. 
+Risk Management • Introduced environmental and climate change considerations into existing risk management processes and governance • Created a dedicated E&S Risk Management unit • Identified E&S risk, which includes climaterelated risk, as one of TD’s top and emerging risks • Continue integrating E&S risk into existing enterprise risk management process − Implement Enterprise E&S Risk Framework − Introduce qualitative E&S measures in 2021 Risk Appetite Statement − Update risk inventory to include E&S risk − Introduce E&S Risk Dashboard to enhance management of climate related risks − Incorporate climate change into Industry Reviews − Implement new non-retail credit strategies to identify and assess climate risk − Escalate material E&S risks to Risk Committees for additional review and due diligence • Embed E&S risks in all relevant enterprise risk management processes • Develop an enterprise-wide view to inform and evaluate TD’s position on complex and evolving climate-related issues • Continue work on the development of key E&S risk metrics in 2021. 
+Metrics & Targets • Quantified scope 1 and 2 and select operational categories of scope 3 emissions (since 2006) • Measured gross credit risk exposure to carbon related assets relative to total assets • Measured gross credit risk exposure by industry sector and focus on power generation by energy source • Set target of net-zero GHG emissions associated with our operations and financing activities by 2050 • Joined the Partnership for Carbon Accounting Financials (PCAF) to support the development of carbon accounting methodologies for financial institutions globally • Introduce new climate-related metrics • Calculate scope 3 financed emissions where methodologies exist and work with others to develop new methodologies in order to establish GHG baselines across our operations and financing portfolio • Set interim goals for reducing TD’s direct and indirect carbon emissions • Further explore key climate risk and opportunity metrics
+
+
+UPDATE ON TCFD — GOVERNANCE. 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 9. 
+Governance. 
+Strong governance anchored by a well-defined risk culture is what will help enable TD to achieve our purpose while maintaining the trust of our customers today and into the future. As the banking landscape evolves, TD must increasingly manage both traditional and emerging risks while continuing to deliver value for our customers, communities, employees and shareholders.
+KEY ACCOMPLISHMENTS • Introduced an ESG Forum with the Senior Executive Team to provide oversight on the Bank’s strategic initiatives relating to ESG, including climate change.
+• Established an ESG Centre of Expertise to draw on experts from across TD to bring together the experience and talent of colleagues working on these issues across the enterprise, allowing for coordinated and streamlined eforts, minimizing gaps and helping to ensure speed of decision-making • Created a Sustainable Finance Executive Council to engage executives from across the Bank with a goal of aligning sustainable products, services and programs to support TD’s customers and clients in their transition to a low-carbon economy • Integrated regular climate risk assessment and monitoring responsibilities into existing executive committees. 
+APPROACH. 
+TD believes that strong Board and executive oversight of climate-related issues is essential for assessing and managing potential impacts on our business strategies and financial performance. That is why we are integrating climate-related risk and opportunity considerations even further into our existing comprehensive governance structures.
+Corporate Governance Committee. 
+Risk Committee Human Resources Committee Audit Committee. 
+Board of Directors. 
+ESG SET Forum Chaired by Group Head and General Counsel. 
+Environmental & Social Risk Management (E&S Risk Management)
+ESG Centre of Expertise (ESG Strategy and Leadership)
+Enterprise Risk Management Committee Chaired by Group Head and Chief Risk Oficer. 
+Business Segments and Corporate Functions. 
+MANAGEMENT COMMITTEES MANAGEMENT COMMITTEES. 
+TD ESG Strategic Framework: TD Climate Action Plan. 
+Reputational Risk Committee (RRC)
+Operational Risk Oversight Committee (OROC)
+ESG Disclosure Sub-Council. 
+Sustainable Finance Executive Council (SFEC)
+
+
+UPDATE ON TCFD — GOVERNANCE. 
+
+ 
+
+ 
+
+Managing Climate-Related Risks and Opportunities 10. 
+Governance (cont’d)
+BOARD OVERSIGHT. 
+TD’s Board of Directors is focused on creating sustainable growth and long-term value for our shareholders. The Board oversees the implementation of an efective risk culture and internal control framework across the enterprise. As part of its mandate, the Board oversees risks and controls related to climate change issues afecting TD and its stakeholders and the delivery of a strategy that manages climate-related risks and opportunities, including TD’s eforts to help accelerate the transition to a low-carbon economy.
+The Board accomplishes this mandate through its committees, including the Risk Committee of the Board (“the Risk Committee”) and the Corporate Governance Committee of the Board (“the Corporate Governance Committee”). The Risk Committee oversees management of the Bank’s risk profile, including climate-related physical and transition risks. In 2019, E&S was added as a top and emerging risk for the Bank; and in 2020, the Risk Committee continued to monitor climate risk as a top and emerging risk and how it may afect TD. The Corporate Governance Committee oversees the Bank‘s alignment with its purpose and the Bank‘s global corporate citizenship framework, and reviews and assesses the bank‘s strategy, performance and reporting on corporate responsibility for environmental, social and governance matters. Each year the committee reviews the Bank‘s ESG Report and receives periodic updates on environmental and social trends, best practices and the bank’s relative performance. For more details on Board governance on ESG, refer to page 30 of the 2020 ESG Report.
+MANAGEMENT. 
+The Global Head, Sustainability and Corporate Citizenship, and the Senior Vice President, Operational Risk Management, hold senior executive accountability for environmental and social risk management.
+In 2020, the ESG Senior Executive Team (SET) Forum was formed to help accelerate decisions on the execution of TD’s ESG strategy and provide oversight of the Bank’s strategic initiatives relating to ESG matters, including climate change. SET members are briefed on emerging issues and strategic planning, including TD’s Climate Action Plan.
+The ESG strategy and leadership team within the new ESG Centre of Expertise (COE) is responsible for developing environmental, social and related governance strategy, setting performance standards and targets, and reporting on performance. The COE acts as environmental subject matter experts, monitors industry best practices and participates in industry working groups and helps lead working group discussions. In addition, the Bank’s Environmental and Social Risk Management group, operating under Operational Risk Management, has environmental and social risk oversight accountabilities, including establishing risk frameworks, policies, processes and governance to actively manage, monitor and report on these risks at the Bank. The Bank’s various business-specific and enterprise risk committees are also involved in monitoring material risks and acting as governance bodies for escalation and oversight of material environmental and social risk issues.
+
+
+UPDATE ON TCFD — GOVERNANCE. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Managing Climate-Related Risks and Opportunities 11. 
+Governance (cont’d)
+In 2019 TD established a TCFD Executive Steering Committee (ESC) and Working Group to systematically consider climate-related risks throughout our business.
+TCFD EXECUTIVE STEERING COMMITTEE. 
+Who • Business and Corporate function executives (from areas relevant to the scope of TD’s TCFD assessments)
+Purpose • Act as champions within respective groups, represent the interests of businesses, facilitate any escalation and approval processes and allocate required resources including Working Group leads • Provide input and sign-of on assessment scope and methodology • Review assessment results. 
+Outcome • Endorse TCFD results for presentation to Group Heads, SET, Board, and executive committees and subcommittees deemed relevant by the ESC. 
+TCFD WORKING GROUP. 
+Who • Business and Corporate function lead representatives, and subject matter experts as appropriate. 
+Purpose • Recommend assessment scope and methodology • Gather TD portfolio data and conduct climate risk analysis and materiality assessments • Participate in regular meetings (as needed) • Attend relevant UNEP FI pilot calls and produce deliverables. 
+Outcome • Recommend TCFD results and disclosure for presentation to the ESC. 
+Sustainable Finance Executive Council. 
+TD established a Sustainable Finance Executive Council to support TD’s ESG strategy, which leverages TD’s business, people and financial resources to help deliver sustainable economic prosperity. The Council comprises executives from across the Bank and is responsible for the oversight of the sustainable finance component of TD’s ESG strategy. TD intends to take a thoughtful approach to integrating ESG considerations into product and services development to help achieve our sustainability objectives, and the creation of the Sustainable Finance Executive Council will help drive this work.
+Upcoming Priorities. 
+In 2021, TD intends to continue to enhance its governance practices with a focus on efectively managing climate-related issues. At the executive level, we are formally incorporating a number of additional ESG metrics in the Executive Compensation Plan for the Senior Executive Team, and the additional metrics include objectives related to climate change. At the management level, TD is aligning its ESG positions and priorities across the enterprise by integrating new responsibilities for climate change across many business units so that relevant risks and opportunities are being integrated into how we do business.
+
+
+UPDATE ON TCFD — STRATEGY. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 12. 
+Strategy. 
+We are committed to giving customers, communities and colleagues the confidence to thrive in a changing world. Readying ourselves and our stakeholders for the transition to the low-carbon economy is an important priority for the Bank. 
+TD considers the impacts of climate change when formulating business strategies, including direct impacts to our operations, as well as indirect impacts associated with our customers. TD continues to work across its business segments to monitor our exposure to climate-related risks and opportunities and to identify their implications. In doing so, we aspire to be ready for the future by stress-testing our strategies for diferent climate change scenarios.
+KEY ACCOMPLISHMENTS • In November 2020, TD announced its new Climate Action Plan, which includes the steps TD is taking to address our climate-related risks and support our clients to capture the opportunities of the transition to a low-carbon economy. Our Climate Action Plan includes an ambitious target of achieving net-zero GHG emissions from our operations and financing activities by 2050.
+• TD committed to cease providing any new project-specific financial services, including advisory services, for activities that are directly related to the exploration, development, or production of oil and gas within the Arctic Circle, including the Arctic National Wildlife Refuge.
+• The creation of a new TD Sustainable Finance and Corporate Transitions Group within TD Securities to provide clients with advisory services and important transition- and sustainability-focused financing globally.
+• In August 2020, TD unveiled our new Sustainable Bonds Framework , which outlines the methodology for future Sustainable Bond issuances, which include green, social and sustainability bonds, by the Bank. In September 2020, TD issued its inaugural US$500 million sustainability bond, the proceeds of which will be used to finance or refinance loans, investments or internal or external projects that meet the Framework’s criteria for being considered environmentally or socially responsible.
+• TDAM launched two new sustainable investment mutual funds in September 2020 — TD North American Sustainability Equity Fund and TD North American Sustainability Balanced Fund. These new products provide unique diferentiated solutions to help investors achieve their financial goals while aligning their investments with their values to make a positive impact.
+• TD was invited to participate in the Bank of Canada and the Ofice of the Superintendent of Financial Institutions’ (OSFI) pilot project to use climate-change scenarios to better understand the risks to the financial system related to a transition to a low-carbon economy.
+APPROACH. 
+CLIMATE-RELATED OPPORTUNITIES. 
+At TD, we believe that we have a role to play when it comes to helping drive sustainable growth for the customers and communities we serve and the economies we help support. That’s why we are committed to helping create a more sustainable future for everyone. Our approach includes integrating relevant climate considerations into our strategies, business decisions, products and services to support our long-term growth strategy. For example: • In 2020, TD contributed over $12 billion to financing the transition to the low- carbon economy through lending, financing, asset management and internal corporate programs. In 2017, we committed to providing $100 billion in low-carbon lending, financing, asset management and internal corporate programs by 2030 and we are more than half way to meeting this target.
+• In 2020, TD Securities expanded its capabilities with the establishment of the Sustainable Finance and Corporate Transition group. The group’s mandate is to provide clients with important transition and sustainability-focused financing globally and to serve as a dedicated resource for ESG advisory services to clients across the Bank.
+• TD Asset Management announced its investment in a 60-megawatt battery energy storage project in Alberta, through the TD Greystone Infrastructure Fund. The project is expected to construct three 20-megawatt installations using Tesla Megapack batteries starting in 2020 and, once completed, will be the largest battery energy storage project in Canada.
+• The proceeds from TD’s 2020 sustainability bond issuance will support projects with positive environmental or social impacts, such as the Finch West Light Rail Transit project. This project will expand transit in the Greater Toronto and Hamilton Area to give northwest Toronto a transit system that ofers more transportation options. The project is planned to provide new cycling infrastructure, and is expected to result in less travel time and increased reliability.
+
+
+UPDATE ON TCFD — STRATEGY. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 13. 
+Strategy (cont’d) • A portion of TD’s 2017 green bond issuance has been used to support the Rutherford GO Station Expansion, which is part of the GO Rail Expansion project to transform the transportation network in the Greater Toronto and Hamilton Area. Environmental benefits are expected to include reduced trafic congestion, GHG emissions and fuel consumption.
+• TD Securities was an active bookrunner and sustainability advisor on Ivanhoé Cambridge’s inaugural $300 million green bond issuance in 2019, the first unsecured green bond transaction in Canada by a real estate entity. The bonds’ proceeds will finance eligible projects including certified green buildings, renewable energy investments and clean transportation.
+CLIMATE-RELATED RISKS. 
+Climate risk is the risk of financial loss or reputational damage resulting from the physical and transitional impacts of climate change on the Bank and its customers and clients. The Bank is exposed to environmental and social risks, which includes climate risk, through its businesses and operations and through its clients and customers. Key environmental and social risks include: • direct risks associated with the ownership and operation of the Bank’s business, which include management and operation of company-owned or managed real estate, business operations, and associated services • indirect risks associated with environmental and social issues or events (including climate change) that may impact the Bank’s customers and clients to whom the Bank provides financial services or in which the Bank invests • identification and management of new or emerging environmental and social regulatory issues • failure to understand and appropriately leverage environmental or social-related trends to meet customer and consumer demands for products and services. 
+TD is taking several steps to discern the impacts that climate-related risks and opportunities, along with others, are having on our business strategies and financial performance.
+A comprehensive account of our climate-related risks and opportunities is disclosed annually in our CDP climate change response. 17. 
+CASE STUDY TD Greystone Real Estate Strategy Assessing Physical Risks and Resilience in its Canadian Portfolio. 
+TD Greystone Real Estate Strategy18 is conducting a study to identify climate risks in its Canadian real estate portfolio and how well properties are prepared to manage the risks. In 2020, TD Greystone engaged property managers to understand what resiliency measures have been adopted by properties in the portfolio. In 2021, TD Greystone will continue the study by assessing the level of physical climate risks using third-party climate data. Using this analysis, TD Greystone will be able to assess both its levels of portfolio risk and resilience, identify specific regions and property types with increased risk and identify opportunities for improved resilience through capital and operations investments.
+TD GREYSTONES REAL ESTATE STRATEGY’S ASSESSMENT OF PHYSICAL. 
+CLIMATE-RELATED RISKS AND RESILIENCE IN ITS CANADIAN PORTFOLIO 1. Property resilience measures. 
+Property-level practices and measures • Emergency preparedness • Business continuity • Operational actions • Physical measures and capital projects • Community resilience • Resilience planning 2. Physical climate risks. 
+Regional and geographic climate risk exposure including physical risks • Flooding • Extreme heat • Sea-level rise • Extreme storms • Understand portfolio climate risks and resilience practices • Identify “hot spots” or regions that may be more exposed • Identify opportunities for climate risk management and resilience
+
+
+UPDATE ON TCFD — STRATEGY. 
+
+ 
+
+ 
+
+ 
+Managing Climate-Related Risks and Opportunities 
+
+ 
+
+14. 
+Strategy (cont’d)
+SCENARIO ANALYSIS. 
+Scenario analysis can help TD to structure and frame our thinking on assessing the resilience of our business strategies to climate change risks and on identifying opportunities in a highly complex and uncertain future. The outputs from these analyses inform future management discussions about the ways we can best prepare for several plausible future climate conditions.
+Climate-related scenario analysis is an emerging industry practice. TD is dedicated to undertaking the process thoughtfully to gain valuable insight into our overall business strategy. As such, we have embarked on a multi-year journey to conduct climate scenario analysis using new methods, data and tools. In this report, we outline our approach and progress in laying the foundation for our analysis. As our scenario analysis practice matures, so, too, will our analytical inputs and results.
+INDUSTRY LEADERSHIP. 
+Our engagement in industry initiatives helps us stay informed on emerging climate change issues and better understand climate change impacts in our businesses. To pioneer new practices and drive progress across the sector, TD is participating in the UNEP FI pilot studies and has joined various industry working groups to foster a better understanding of the resilience of our lending, investment and insurance portfolios to climate-related impacts. Results of the studies are helping to inform methodologies for assessing our financial risks and opportunities under various climate scenarios. In particular, our participation in the UNEP FI pilots has helped: • Expand our knowledge of the diferent climate scenarios and tool kits available for assessing climate-related risks. This information will help shape TD’s focus on future climate scenarios and determine the long-term road map to complete a full assessment of climate scenarios on the Bank’s lending portfolio.
+• Gain greater insights on methodologies and understand which scenario analysis tools are best suited for application to TDAM investment portfolios. TD will be participating in the next phase of the investment pilot in 2021.
+• Develop analytical tools to support insurance industry climate risk disclosures and assess climate-related physical and transition risks in insurance portfolios. In 2020, the UNEP FI insurance group released an interim report, Using Hindsight and Foresight — a progress update on their initiative to pilot the TCFD recommendations.
+TD is also involved in several industry initiatives to advance scenario analysis in the Canadian context. The Bank participates in the Canadian Bankers Association’s working group on the TCFD, which seeks to support the implementation of the TCFD recommendations across all Canadian financial institutions. In November 2020, TD was selected to join the Bank of Canada and OSFI climate change scenario analysis pilot program, which aims to issue its inaugural report at the end of 2021. As part of this program, the Bank of Canada and OSFI will first develop a set of climate change scenarios that are relevant for Canada and using those scenarios, we will explore the potential risk exposures on our balance sheets. 
+TD’S SCENARIO ANALYSIS PROGRAM. 
+TD is also actively engaged in its own internal climate scenario analysis and stress testing with TD’s Enterprise Stress Testing team and E&S Risk Management team. The first exercise piloted an assessment of financial impacts of a hypothetical Eastern Seaboard hurricane.
+The objective of the exercise was to understand the impact of climate-related financial risks and opportunities on TD’s businesses under the scenario of a severe weather event. To conduct the scenario we engaged various business groups such as finance, treasury and risk management to support the identification and understanding of the key physical risk impacts. The impacts were assessed in the relevant business areas afected by the scenario. Our approach leveraged a mix of both qualitative and quantitative methodologies for assessing the financial impacts from the scenario.
+As TD’s scenario analysis program continues to mature, what we have learned from this exercise will help support future enhancements to existing challenges in climate scenario analysis.
+
+
+UPDATE ON TCFD — STRATEGY 
+
+ 
+
+ 
+
+ -
+
+Managing Climate-Related Risks and Opportunities 
+- 
+
+15. 
+Strategy (cont’d)
+CASE STUDY UNEP FI TCFD Banking Phase II — Heat Mapping Exercise. 
+In September 2020, the UNEP FI TCFD banking Phase II pilot released two reports, Charting a New Climate and Beyond the Horizon , which outlined the progress to date by the 39 global financial institutions participating in developing tools and data to support assessing physical and transition climate risks through scenario analysis.
+As part of this pilot, TD worked with the other participants to develop a consistent methodology for approaching heat mapping to support both physical and transition climate risk identification and assessment. Heat mapping ofers a process for assessing whole portfolios — across sectors, sub-sectors and regions — providing insights into total portfolio exposure to physical and transition climate-related risks.
+The physical risk exercise outlined in Charting a New Climate examined key areas of vulnerability and relevant hazards for six sectors of interest — agriculture, metals and mining, power and energy, oil and gas, real estate and manufacturing. Participants assessed the sector and sub-sector vulnerabilities for four of the eight identified physical climate risk hazards. This exercise identified key areas of climate-related vulnerability for specific sectors and can be used to inform broader physical climate risk analysis.
+The report Beyond the Horizon examined sectors using an ambitious transition scenario, consistent with the Paris Agreement’s goal to limit warming to well below 2˚C this century. Participants examined four diferent transition-related impacts on each sector — direct emissions costs, indirect emissions costs, low-carbon capital expenditures and revenue — which resulted in an overall sector transition risk rating. This exercise generated insights into how climate sensitive sectors may be impacted during a low-carbon transition.
+TD’s participation in these exercises yielded useful insights to inform our ongoing eforts to identify and assess sectoral physical and transition climate risk exposures in our businesses. These reports showcase methodologies that the participants can consider when performing their own assessments of physical and transition climate-related risks facing their businesses.
+Upcoming Priorities. 
+TD’s ESG strategy and Climate Action Plan lays out our ambitious vision for our climate goals moving forward. We intend to develop a TD point of view on sector specific pathways to inform engagement with clients and identify opportunities to expand our product and service oferings that support the transition to the low-carbon economy. We intend to take a thoughtful approach toward understanding the diferent challenges and opportunities associated with key industries, and have established a Sustainable Finance and Corporate Transitions Group to provide clients with advisory services and important transition and sustainability-focused financing globally.
+Through our involvement in UNEP FI pilots and our own internal initiatives, TD continues to work towards the development and application of scenario analysis. TD plans to continue its stress-testing across the Bank using multiple climate scenarios to monitor the resiliency of our strategy and businesses to diferent potential pathways in alignment with the TCFD’s recommendations
+
+
+UPDATE ON TCFD — RISK MANAGEMENT. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 16. 
+Risk Management. 
+Climate change is an evolving and complex area that poses a significant risk to the financial industry, our customers and the communities we operate in. Understanding the landscape of existing and emerging risks is one of the ways TD is preparing for the future. Developing insights into our risk exposures and proactively working to manage them helps us and our stakeholders thrive in a changing world. Climate change presents an interconnected set of risk and opportunities for TD, and we consider it part of our responsibility to assess and manage the associated risks and impacts.
+KEY ACCOMPLISHMENTS • Developed and implemented an Enterprise E&S Risk Management Framework (ESRF) to help manage climate-related risks across the Bank.
+• Developed a qualitative E&S Risk Appetite Statement (RAS) Principle and RAS Measure to inform our E&S risk appetite to help measure and assess E&S risks across the Bank.
+• E&S risk added to TD’s Risk Inventory to provide an enterprise-wide approach to identifying E&S risk across TD’s operations so that it would be managed as an enterprise top and emerging risk.
+• Established an E&S Dashboard so that the Operational Risk Oversight Committee can actively manage and track climate-related risks on a regular basis.
+• Incorporated climate change risks into industry reviews to identify higher-risk industries and inform strategy.
+• Developed an Enterprise E&S Risk Assessment Tool to provide a consistent and standardized approach to assessing E&S risks at the borrower and transaction level across the Bank’s non-retail credit portfolios.
+• Developed a Borrower Climate Change tool to assist TD in assessing borrowers’ susceptibility to physical and/or transition risks in non-retail credit portfolios.
+APPROACH. 
+Operating a complex financial institution exposes the Bank’s businesses and operations to a broad range of environmental and social risks. Our approach considers both physical and transition risks which could result in credit, insurance, market, operational, reputational and regulatory risks for the Bank and its clients in climate sensitive sectors. Assessing climate-related risk exposure for a large financial institution is complex, considering the number of clients carrying out business activities across numerous regions and industry sectors, complicated by a variety of financial exposures (e.g., loans, investments, insurance policies, etc.). As such, there are numerous risk factors that must be considered when assessing the overall impact from climate risk.
+• Location: location of physical assets • Physical Climate Risk: projected future climate conditions • Transition Climate Risk: projected future climate-related economic factors • Sector: industry sector and associated vulnerabilities to climate impacts • Financial Exposure: type of financial exposure (e.g., loans, investments, insurance policies, etc.)
+Climate risk has emerged as one of the top environmental risks for the Bank. Since 2019, climate risk, has been identified and tracked as a top and emerging risk for the Bank. We have put governance practices in place to monitor, oversee and report climate-related risk. Our current governance and risk assessment practices help us manage and monitor climate-related risks for new or evolving business initiatives, financing activities and emerging industry activity.
+Our processes for identifying, assessing and managing climate-related risks are integrated into our Enterprise Risk Management approach. E&S risk was added to TD’s Risk Inventory in 2020 and is now embedded into the Bank’s risk framework and the approach we take to define, determine, govern and manage risk.
+In 2020, we continued to build our capabilities and enhance tools to support consistent identification and assessment of E&S risks across our business segments. Our new ESRF outlines our approach to E&S risk management and describes the governance, policies and practices that we employ to proactively identify and manage the E&S risk exposure at levels acceptable within TD’s risk appetite across all areas of the Bank.
+
+
+UPDATE ON TCFD — RISK MANAGEMENT. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Managing Climate-Related Risks and Opportunities 17. 
+Risk Management (cont’d)
+IDENTIFYING, ASSESSING AND MANAGING CLIMATE-RELATED RISKS. 
+As a financial institution, we recognize that climate-related risks can have a wide range of impacts on our business activities and we take specific actions to manage and mitigate those risks.
+RISK CATEGORY CLIMATE-RELATED RISK ACTIONS TO MITIGATE. 
+Credit risk Exposure to customers/clients who face increased or poorly managed physical or transition climate-related risks can lead to decreasing credit ratings and increased risk of defaults.
+• The Bank applies its Environmental and Social Credit Risk Management procedures to credit and lending in the Wholesale and Commercial Banking businesses.
+• In addition, within Wholesale and Commercial Banking, sector-specific guidelines have been developed for environmentally sensitive sectors.
+• In collaboration with UNEP FI Banking Phase II pilot, a heat mapping framework has been developed to support physical and transition climate risk identification and assessment.
+• Enhanced tools and procedures for the credit business to identify E&S risks in lending transactions and prompt increased due diligence and escalation to the appropriate Risk Committee.
+Insurance risk Insurance products where claims liabilities are exposed to changing climate patterns.
+• Participation in industry association committees (IBC and Canadian Life and Health Insurance Association) to collectively develop approaches and initiatives to address climate change risk.
+• Member of a UN PSI working group on life and health insurance issues to develop an understanding of the opportunities to address ESG risks, including climate risks.
+• Leading a working group of Canadian UN PSI signatories in the development of an industry-wide roadmap to prioritize collective eforts, including a strong focus on developing better climate risk data across all insurance business lines.
+• The federal Task Force on High Risk Residential Flood Insurance and Strategic Relocation is examining the viability of a lowcost national flood insurance program and options for relocation for residents in the highest-flood-risk areas. For the past year, IBC’s Flood Working Group, with TDI participation, has been engaged in preparatory work for the task force and will serve on its newly created Industry Task Team.
+Market risk Impact of physical and transition risk on market factors such as equity prices, commodity prices and credit spreads.
+• TDAM continues to track various ESG indicators, including climate-related metrics, to help uncover ESG risks within portfolios and to help guide conversations about those risks.
+• The TD Greystone Real Estate Strategy is conducting a study to assess physical climate risks in its portfolio and resilience measures to address them. 18. 
+Strategic risk Risk of not being able to meet changing customer and consumer expectations for ESG products and services.
+• The creation of a new TD Sustainable Finance and Corporate Transitions Group within TD Securities to provide clients with advisory services and important transition- and sustainability-focused financing globally.
+• TD’s new Climate Action Plan, which includes the steps we are taking to support our clients to capture the opportunities of the transition to a low-carbon economy.
+• Target of $100 billion in low-carbon lending, financing, asset management and internal corporate programs by 2030.
+• Established the Sustainable Finance Executive Council which seeks to align products, services, and programs to support TD’s ESG strategy
+
+
+UPDATE ON TCFD — RISK MANAGEMENT. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 18. 
+Risk Management (cont’d)
+RISK CATEGORY CLIMATE-RELATED RISK ACTIONS TO MITIGATE. 
+Operational risk Impact of extreme weather events on physical operations.
+• Conducted a scenario analysis on a hypothetical Eastern Seaboard hurricane to help inform TD’s assessment of the physical risks and impacts from extreme weather events.
+• Integration of E&S risk, which includes climate risk, into the Bank’s existing enterprise risk management processes to help measure and assess E&S risks across the Bank.
+Reputational risk Stakeholder perceptions of TD’s action or inaction in relation to climate change.
+Increased pressure and focus from non- governmental organizations to apply sustainable investment and business practices.
+• TD’s long track record of environmental leadership has helped communicate our focus on being a purpose driven bank.
+• Developing sustainable products and services to help finance the transition to the low-carbon economy.
+• Regular engagement with stakeholder groups on environmental and climate change topics.
+• Emerging climate issues are managed through governance forums, including Reputational Risk Committees.
+Regulatory and legal risks. 
+Increased potential for climate-related litigation and/or legal or regulatory enforcement action.
+Introduction of new, and changes to, laws and regulations, novel application of current laws and regulations in the E&S domain, and issuance of judicial decisions that may result in unanticipated new regulations.
+Increased momentum and global policy initiatives focusing on ESG integration.
+• The Bank has procedures in place to monitor and evaluate the potential impact of laws and regulations that apply to it. 
+Efective management of E&S risk requires enterprise-wide collaboration to identify, assess, mitigate and monitor it. TD has implemented a suite of processes to help identify, assess, measure, monitor and report on E&S risk, including climate-related risks. They include: • Development of an E&S Dashboard to identify and monitor: − Overall enterprise risk level and key messages − E&S Risk Management program highlights − Regulatory and industry highlights − Non-retail credit E&S risk escalation highlights − Key E&S risk metrics • E&S risk assessment of non-retail credit transactions originating in TD Securities, TD Bank and TD Business Banking • Development of scenario analysis and stress-testing methodologies to assess potential impacts from climate-related risks • Application of the Equator Principles framework to help perform E&S risk due diligence for project-related finance transactions • Development of climate-related risk measures to monitor E&S risk trends
+
+
+UPDATE ON TCFD — RISK MANAGEMENT. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Managing Climate-Related Risks and Opportunities 
+
+ -
+ 
+
+ 19. 
+Risk Management (cont’d)
+SECTOR SENSITIVITY TO CLIMATE RISK. 
+We regularly perform portfolio reviews of lending and financing exposures to industries that we believe are vulnerable to the impacts of climate change, as well as industries that we believe will thrive in the transition to a low-carbon economy. We maintain a diverse lending portfolio to avoid overexposure to a particular region or sector that we believe may be more vulnerable to climate impacts or risks.
+In 2020, TD developed a high-level view of the credit exposure to sectors that we believe are more afected by transition and physical risks, based on TCFD recommendations. We recognize that sensitivity to climate risks can vary between clients within each sector and sub-sector, and the degree of impact will depend on factors such as the location of physical assets and management actions taken to mitigate the risks. This analysis will guide which sectors we will focus on within our Climate Scenario and Stress Testing Program. We intend to continue to refine this analysis to inform our risk management approach and guide our business strategy moving forward.
+SENSITIVITY TO CLIMATE RISKS OF TD’S GROSS CREDIT RISK EXPOSURES1 (AS AT OCTOBER 31, 2020) 1 See TD’s 2020-Q4 Supplemental Regulatory Disclosure , pg. 18. Excludes counterparty credit risk exposures to repo-style transactions and OTC derivatives.
+Mostly physical risks (34.5%) Personal residential secured lending 27.8%
+Commercial real estate 5.9%
+Food, beverage, and tobacco 0.7%
+Forestry 0.1%
+Mostly transition risks (2.3%) Pipelines oil and gas 1.7%
+Metals and mining 0.6%
+Both physical and transition risks (6.7%) Manufacturing and transport 4.8% Power and utilities 1.3% Agriculture 0.6%
+Other industry sectors less sensitive to climate risks (56.5%) Government, public sector entities and education 30.2%
+Consumer lending 16.5%
+Financial 4.1%
+Health and social services 2.0%
+Professional & other services 1.9%
+RetaiI sector 0.9%
+Telecommunications, cable and media 0.9% 34.5% 2.3% 6.7% $1,485 billion TOTAL 56.6%
+CHALLENGES. 
+The IPCC acknowledges that reducing the impacts of climate change requires a transition to a low-carbon economy.19 We believe that economic growth and environmental sustainability are intrinsically linked and that we have a responsibility to play a positive role in helping to foster both. We intend to work closely with our clients to help identify low-carbon opportunities, as well as support them in reducing GHG emissions in their business.
+CASE STUDY Sustainable Investing at TDAM “At TD Asset Management our core thesis is one in which we favour an integrated engagement approach to ESG factors. We believe that, as investors in a broad array of investment classes, we have a significant role to play in being a positive influence for continued improvement in ESG, and we will not abdicate that role. ESG improvement is fundamentally aligned with our overall philosophy of seeking investments in sustainable long-term assets through a risk-managed process. More specifically, we believe that considering ESG factors provides us with a more robust view of potential risks and opportunities.”
+TD Asset Management's Sustainable Investing Approach. 
+TDAM’s eforts to incorporate sustainability into its investment decisions is long standing, and we strive to have a fully integrated ESG engagement process as part of all our investment products. We continue to work with regulators, stock exchanges, global partnerships, ESG data providers and other asset managers to move the sustainable finance agenda forward.
+Upcoming Priorities. 
+In 2021, TD intends to continue enhancing our internal E&S risk management processes to further develop the Bank’s view of climate risk across our businesses. This will be accomplished by focusing on developing key risk indicators to support reporting of E&S risks to senior executive management committees for transparency and monitoring purposes.
+
+
+UPDATE ON TCFD — METRICS & TARGETS. 
+
+ 
+
+ 
+
+ 
+
+Managing Climate-Related Risks and Opportunities 20. 
+Metrics & Targets. 
+TD currently uses a variety of metrics and targets to monitor our exposure to climate-related risks, to discern if and how our activities are mitigating those risks and to develop insights into new business opportunities. In 2020, we have added new metrics to further assess climate-related risks and opportunities and announced an ambitious target to help transition to the low-carbon future.
+NET-ZERO BY 2050. 
+In November 2020, we announced our Climate Action Plan, which includes our target to achieve net-zero GHG emissions associated with our operations and financing activities by 2050, aligned with the associated principles of the Paris Agreement. This target builds on a long history of environmental leadership and positions the Bank, as the first Canadian bank to set a target to achieve net-zero GHG emissions, to be a central player in the work needed to enable sustainable growth for our customers. This is a clear and ambitious step we are taking to support our clients’ transition to the low-carbon economy, and, through the newly-established Sustainable Finance and Corporate Transitions Group, we will work closely with them to set interim GHG reduction goals to support their transition plans through ESG-related advice, financing and afiliated products.
+A key aspect of TD’s Climate Action Plan is a focus on data measurement and analytics that will drive our approach to measuring and managing our carbon-related activities. TD intends to use an industry-specific approach to prioritize and advance GHG reduction opportunities in each sector.
+In 2020, TD joined the PCAF to support the development of carbon accounting methodologies for financial institutions globally. As an initial step on our path to achieve our target of net-zero emissions associated with our operations and financing activities by 2050, TD is working to establish Scope 3 financed emission baselines, leveraging the PCAF methodology, to inform our interim GHG reduction goals. To begin this assessment, we are reviewing our lending and investment portfolios from a financed emissions perspective. These eforts have highlighted that further developing our climate data capabilities will continue to be a focus for TD.
+While the precise path to achieve the 2050 target remains unclear, we will continue to work with initiatives such as PCAF to assess diferent approaches to measuring our emissions and to set interim targets on the path to 2050. TD will continue to engage with governments, non-governmental organizations, businesses and other groups to develop and promote measurement and tracking methodologies for financed emissions, as well as GHG reductions strategies aligned to science-based transition pathways. As always, our clients remain our priority and we will continue to work with them as they pursue their own transitions to a low carbon economy, which will, in turn, improve our data availability for financed emissions.
+“PCAF is excited that TD has joined over 80 financial institutions globally that are committed to measuring and disclosing the emissions of their portfolios to support meeting the goals of the Paris Climate Agreement. As a large North American bank, TD continues to show environmental leadership through its collaboration with PCAF.” — Giel Linthorst, Executive Director, Partnership for Carbon Accounting. 
+Financials Secretariat
+
+
+UPDATE ON TCFD — METRICS & TARGETS. 
+
+
+Managing Climate-Related Risks and Opportunities 
+
+ 
+
+ 21. 
+Metrics & Targets (cont’d)
+CARBON-RELATED ASSETS RELATIVE TO TOTAL ASSETS. 
+Carbon-related Assets Relative to Total Assets is a climate-related risk metric that measures our exposure to carbon-related assets relative to our total gross credit risk exposure (excluding counterparty credit risk exposures to repo-style transactions and OTC derivatives).20 TD follows the TCFD’s’ suggested definition of carbon-related assets, being “those assets tied to the energy and utilities sectors under the Global Industry Classification Standard (GICS), excluding water utilities and independent power and renewable electricity producer industries.” The metric helps us monitor our concentration in and exposure to climate-sensitive industry sectors over time.
+Our exposure to carbon-related assets totalled $34.5 billion in fiscal year 2020, or approximately 2.3% of our total gross credit risk exposure, as of October 31, 2020.
+GROSS CREDIT RISK EXPOSURE TO POWER GENERATION. 
+Power generation is a subset of power and utilities and also includes customers from other industry sectors that generate power. It includes customers that generate power and excludes those that are purely involved in transmission and distribution or non-power generation. It is calculated on a customer-by-customer basis using the most recent publicly available information on generation capacity (in megawatts) of energy source.
+Our total gross credit risk exposure to power generation was $8 billion, as of October 31, 2020. 21. 
+Category22 54.4% Fossil-fuel-based energy generation 44.2% Low-carbon energy generation 1.4% Other. 
+Upcoming Priorities. 
+While the precise path to achieving the 2050 target remains unclear, we intend to establish GHG emissions baselines across our business and financing portfolio, and to work closely with clients as we set interim GHG reduction goals on the path toward 2050. We will continue to engage with government, non-governmental organizations, businesses and other groups to develop and promote measurement and tracking methodologies for financed emissions, as well as GHG reduction strategies aligned with science-based transition pathways. We will report on our progress starting with 2021.
+
+
+UPDATE ON TCFD — METRICS & TARGETS. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Managing Climate-Related Risks and Opportunities 22. 
+Metrics & Targets (cont’d)
+BUSINESS LINE METRIC 2020 2019. 
+Risks. 
+Credit/ Lending. 
+Carbon-related assets relative to total assets (%) 2.3%23 2.7%
+Gross credit risk exposure to power generation $8.0 billion $6.8 billion. 
+Lending and Investment. 
+Non-retail credit transactions reviewed according to TD’s E&S Credit Risk Management process, which includes the Equator Principles 100% 100%
+Meet our commitments as a signatory to the UN PRI Met24 Met. 
+Number of TDAM ESG-focused engagements related to climate risk management25 36 28. 
+Insurance Meet our commitments as a signatory to the UNEP FI PSI Met26 Met. 
+Opportunities. 
+Lending and Investment. 
+TD’s contribution to supporting the low-carbon economy Over $56 billion as at October 31, 2020 Over $43 billion as at October 31, 2019. 
+Green, social and sustainability bonds ($ issued)27 Issued a US$500 million sustainability bond in 2020 0. 
+Green, social and sustainability bonds ($ underwritten)28 $13.9 billion $11.7 billion. 
+Green, social and sustainability bonds ($ purchased)29 $500 million $340 million. 
+Insurance. 
+Operations. 
+Extended water damage coverage — penetration rate 70% Launched extended water damage coverage30. 
+Energy and GHG reduction initiatives (by 2020, zero increase in absolute energy use relative to 2015 baseline)
+See 2020 ESG Report’s Performance Data See 2019 ESG Report’s Performance Data. 
+Internal price on carbon ($/tCO2e) $6 $6. 
+Be carbon neutral (maintain carbon neutrality) Met Met. 
+Scope 1 and 2 GHG emissions (relative to 2015 baseline)31 32% 33 reduction in scope 1 and 2 relative to 2015 baseline 21% reduction in scope 1 and 2 relative to 2015 baseline. 
+Scope 3 GHG emissions32 See 2020 ESG Report’s Performance Data See 2019 ESG Report’s Performance Data
+
+
+Managing Climate-Related Risks and Opportunities 23. 
+UPDATE ON TCFD — ENDNOTES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+- 
+
+ 
+
+Endnotes 1 economics.td.com/ca-climate-friendly-financial-systems 2 Sustainability bonds are sustainable debt products with specific use-of-proceeds that support the financing or refinancing of projects that align with either Green or Social Eligible Categories, as listed in TD’s Sustainable Bonds Framework 3 IPCC (2018): Global Warming of 1.5 ºC; www.ipcc.ch/sr15/ 4 http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf 5 economics.td.com/ca-quarterly-economic-forecast#question8 6 www.nytimes.com/2019/12/04/climate/climate-change-acceleration.html 7 read.oecd-ilibrary.org/view/?ref=133_133639-s08q2ridhf&title=Building-back-better-A-sustainable-resilientrecovery-after-Covid-19 
+8 www.canada.ca/en/privy-council/campaigns/speech-throne/2020/speech-from-the-throne.html 9 https://joebiden.com/climate-plan/ 10 www.unenvironment.org/resources/emissions-gap-report-2019 11 IPCC (2018): Global Warming of 1.5 ºC; www.ipcc.ch/sr15/ 12 http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf 13 http://www.ibc.ca/on/resources/media-centre/media-releases/severe-weather-caused-1-3-billion-in-insureddamage-in-2019 14 www.oecd-ilibrary.org/docserver/9789264273528-en.pdf? 15 Institute for Sustainable finance (2020): Capital Mobilization Plan for a Canadian Low-Carbon Economy, https://smith.queensu.ca/centres/isf/pdfs/ISF-CapitalMobilizationPlan.pdf 16 As of October 2020, 1,512 organizations had expressed their support for the TCFD; www.fsb.org/wp-content/ uploads/P291020-1.pdf 17 See CDP Climate Change Questionnaire 2020 18 TD Greystone Real Estate Strategy includes the TDG Real Estate Fund Inc, the TDG Real Estate LP Fund, and segregated accounts 19 IPCC (2018): Global Warming of 1.5 ºC; www.ipcc.ch/sr15/ 20 As reported under Basel Pillar 3 CRB (e) columns A, B, and C; see TD’s 2020-Q4 Supplemental Regulatory Disclosure, p g. 18 
+21 Generation obtained through power purchase agreements are not considered. Also, fuel cell & other fuel storage projects are not included.
+22 Fossil-fuel based generation includes natural gas, oil and coal. Low-carbon includes nuclear, hydroelectric and renewables (wind, solar and biomass). Generation that cannot be allocated to any of the listed generation types is included in other.
+23 The year-over-year decrease can be largely attributed to an increase in TD’s exposure to the Government, Public Sector Entities, and Education sector in 2020.
+24 See page 47 of the 2020 ESG Report.
+25 An engagement may include more than one topic 26 See Principles of Sustainable Insurance — Annual Disclosure 2020 27 Cumulatively, TD has issued $1.7 billion in green, social and sustainability bonds since 2014. The figure is the total of the $500 million bond and the Canadian dollar value (at the trade date) of the US$1 billion bond.
+28 TD has underwritten $35 billion in green, social and sustainability bonds since 2010. Reflects the apportioned value of lead managed green, social and sustainable bond underwriting by TD.
+29 TD has purchased approximately $1.8 billion worth of green, social and sustainability bonds since 2014.
+30 Penetration rate is not available for 2019 because product was launched in April 2019.
+31 Scope 1 GHG emissions include direct emissions from heating and cooling, leased aircraft and corporate fleet. Scope 2 GHG emissions include indirect emissions from electricity, heating and cooling.
+32 Scope 3 GHG emissions include employee business travel, purchased goods and services, capital goods, fuel and energy- related activities, and downstream leased assets owned by TD.
+33 Corrected on July 28, 2021. We erroneously reported TD's scope 1 and 2 emissions reduction relative to our 2015 baseline as 41% on March 5, 2021. The actual reduction was 32%.
+
+
+Managing Climate-Related Risks and Opportunities 24. 
+UPDATE ON TCFD — CAUTION REGARDING FORWARD-LOOKING STATEMENTS. 
+
+ 
+Caution Regarding Forward-Looking Statements. 
+From time to time, The Toronto-Dominion Bank (the “bank”) makes written and/or oral forward-looking statements, including in this document, in other filings with Canadian regulators or the United States (U.S.) Securities and Exchange Commission (SEC), and in other communications. In addition, representatives of the bank may make forward-looking statements orally to analysts, investors, the media and others. All such statements are made pursuant to the “safe harbour” provisions of, and are intended to be forward-looking statements under, applicable Canadian and U.S. securities legislation, including the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to, statements made in this document, the Management’s Discussion and Analysis (“2020 MD&A”) in the bank’s 2020 Annual Report under the headings “Economic Summary and Outlook” and “The Bank’s Response to COVID-19”, for the Canadian Retail, U.S. Retail, and Wholesale Banking segments under headings “Key Priorities for 2021”, and for the Corporate segment, “Focus for 2021”, and in other statements regarding the bank’s objectives and priorities for 2021 and beyond and strategies to achieve them, the regulatory environment in which the bank operates, and the bank’s anticipated financial performance, and potential economic, financial and other impacts of the Coronavirus Disease 2019 (COVID-19). Forward-looking statements are typically identified by words such as “will”, “would”, “should”, “believe”, “expect”, “anticipate”, “intend”, “estimate”, “plan”, “goal”, “target”, “may”, and “could”. By their very nature, these forward-looking statements require the bank to make assumptions and are subject to inherent risks and uncertainties, general and specific. Especially in light of the uncertainty related to the physical, financial, economic, political, and regulatory environments, such risks and uncertainties — many of which are beyond the bank’s control and the efects of which can be dificult to predict — may cause actual results to difer materially from the expectations expressed in the forward-looking statements. Risk factors that could cause, individually or in the aggregate, such diferences include: strategic, credit, market (including equity, commodity, foreign exchange, interest rate, and credit spreads), operational (including technology, cyber security, and infrastructure), model, insurance, liquidity, capital adequacy, legal, regulatory, compliance and conduct, reputational, environmental and social, and other risks. Examples of such risk factors include the economic, financial, and other impacts of the COVID-19 pandemic; general business and economic conditions in the regions in which the bank operates; geopolitical risk; the ability of the bank to execute on long-term strategies and shorter-term key strategic priorities, including the successful completion of acquisitions and dispositions, business retention plans, and strategic plans; technology and cyber security risk (including cyber-attacks or data security breaches) on the bank’s information technology, internet, network access or other voice or data communications systems or services; model risk; fraud to which the bank is exposed; the failure of third parties to comply with their obligations to the bank or its afiliates, including relating to the care and control of information, and other risks arising from the bank’s use of third-party service providers; the impact of new and changes to, or application of, current laws and regulations, including without limitation tax laws, capital guidelines and liquidity regulatory guidance and the bank recapitalization “bail-in” regime; regulatory oversight and compliance risk; increased competition from incumbents new entrants, including Fintechs and big technology competitors); shifts in consumer attitudes and disruptive technology; environmental and social risk; exposure related to significant litigation and regulatory matters; ability of the bank to attract, develop and retain key talent; changes to the bank’s credit ratings; changes in currency and interest rates (including the possibility of negative interest rates); increased funding costs and market volatility due to market illiquidity and competition for funding; Interbank Ofered Rate (IBOR) transition risk; critical accounting estimates and changes to accounting standards, policies, and methods used by the bank; existing and potential international debt crises; environmental and social risk; and the occurrence of natural and unnatural catastrophic events and claims resulting from such events. The bank cautions that the preceding list is not exhaustive of all possible risk factors and other factors could also adversely afect the bank’s results. For more detailed information, please refer to the “Risk Factors and Management” section of the 2020 MD&A, as may be updated in subsequently filed quarterly reports to shareholders and news releases (as applicable) related to any events or transactions discussed under the headings “Significant Events” in the relevant MD&A, which applicable releases may be found on www.td.com. All such factors should be considered carefully, as well as other uncertainties and potential events, and the inherent uncertainty of forward-looking statements, when making decisions with respect to the bank and the bank cautions readers not to place undue reliance on the bank’s forward-looking statements. Material economic assumptions underlying the forward-looking statements contained in this document are set out in the 2020 MD&A under the headings “Economic Summary and Outlook” and “The Bank’s Response to COVID-19”, for the Canadian Retail, U. S. Retail, and Wholesale Banking segments, “Key Priorities for 2021”, and for the Corporate segment, “Focus for 2021”, each as may be updated in subsequently filed quarterly reports to shareholders. Any forward- looking statements contained in this document represent the views of management only as of the date hereof and are presented for the purpose of assisting the bank’s shareholders and analysts in understanding the bank’s financial position, objectives and priorities and anticipated financial performance as at and for the periods ended on the dates presented, and may not be appropriate for other purposes. The bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time by or on its behalf, except as required under applicable securities legislation.

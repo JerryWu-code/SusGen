@@ -1,0 +1,1102 @@
+BBVA Report on TCFD. 
+October 2020
+
+
+BBVA Report on TCFD 2020 / pag. 2. 
+LETTER FROM THE CHAIRMAN. 
+Climate change is one of the most severe disruptions ever seen in history: it is global in nature, and its economic and social impacts are far-reaching. Climate change demands a determined response from governments, regulators, businesses and society at large.
+At BBVA we have been among the first to take ownership of our responsibility. We made our 2025 Pledge to Sustainable Finance over two years ago, and have been working toward a sustainable transition aligned to our purpose: “To bring the age of opportunity to everyone”.
+The financial sector generates a limited level of direct carbon emissions, yet as banks we play a critical role in supporting our clients in the transition to a sustainable future by providing them with financing and advice. For BBVA, sustainability is a strategic priority. We are one of the most proactive banks in green and social bonds issuance and a leading provider of certified sustainable loans. But we want to go further, and support our clients with advice, helping them develop their own transition plans and boosting the development of innovative sustainable solutions for companies and individuals alike.
+For BBVA, sustainability is a strategic priority. 
+The next UN Climate Change Conference, COP26, to be held in Glasgow, will set the goal of ensuring that financial flows are consistent with a trend toward low carbon emissions, and will urge governments and companies to commit to carbon neutrality.
+At BBVA, we are carbon neutral in Scope 1 and 2 and travel emissions since 2020, we have set an internal carbon price, and we have undertaken to align our business and credit portfolio gradually to the objectives of the Paris Agreement. As early as December 2018, we were one of five banks to sign the Katowice Commitment, while in September 2019 we subscribed to the UNEP FI Collective Commitment to Climate Action.
+The launch of our first TCFD report is a new milestone in our pledge to sustainability. This further step toward transparency enables us to look back on our progress in terms of governance model, strategy, risk management and metrics relating to climate change.
+However, there is still a long way ahead. This report is just a starting point in our commitment to disclose – consistently, reliably, and in a standardized form – the climate-related risks and opportunities that arise in the course of our business. We shall continue to deliver on our commitment so as to meet the needs and requirements of investors, regulators, clients and other stakeholders.
+
+
+BBVA Report on TCFD 2020 / pag. 3. 
+CONTENTS What are the TCFD recommendations? 4. 
+Mission of Task Force on Climate-Related Financial Disclosures 4. 
+Demand for Climate-Related Financial Disclosure 4. 
+What type of information should the TCFD report include? 5. 
+Introduction 7. 
+The financial sector and climate change 7. 
+BBVA, a bank committed to sustainability 8. 
+Governance model 11. 
+BBVA’s corporate governance 11. 
+Transversal integration of sustainability at the executive level 15. 
+Remuneration system 16. 
+Strategy 17. 
+Defining climate change risks and opportunities for BBVA 17. 
+Implementing the strategy 22. 
+Strategic resilience to climate risks 27. 
+Risk Management 28. 
+Integrating climate change into risk planning 28. 
+Integrating climate change into risk decision-making 33. 
+ESG sector norms 38. 
+Equator Principles 39. 
+Metrics & targets 40. 
+Mobilization metric 40. 
+Measuring indirect impacts 50. 
+Portfolio alignment 51. 
+Direct impacts (scope 1 & 2) 52. 
+Conclusions 55. 
+Glossary 56
+
+
+BBVA Report on TCFD 2020 / pag. 4. 
+WHAT ARE THE TCFD RECOMMENDATIONS?
+Mission of Task Force on Climate-Related Financial Disclosures. 
+In April 2015, G20 Finance Ministers and Central Bank Governors asked the Financial Stability Board (here-in-after, the FSB) to review how the financial sector could take account of climate-related issues. The FSB established the Task Force on Climate-related Financial Disclosures (here-in-after, the Task Force1) to develop voluntary and consistent climate-related financial risk disclosures (here-in-after, the TCFD recommendations) for use by companies across industries in providing information to investors, lenders, insurers, and other stakeholders. The work and recommendations of the Task Force help companies understand what financial markets want from disclosure in order to measure and respond to climate change risks, and encourage firms to align their disclosures with investors’ needs.
+Demand for Climate-Related Financial Disclosure. 
+Demand for climate-related disclosure has increased significantly since the release of the TCFD recommendations in June 2017. Many private sector financial institutions, investors, and others continue to make progress on incorporating climate-related disclosure into their financial decision-making. Recognizing that climate-related financial reporting is still evolving, the Task Force’s recommendations provide a foundation to improve investors’ and others’ ability to appropriately assess and price climate-related risk and opportunities.
+Improving the quality of climate-related financial disclosures begins with organizations’ willingness to adopt the Task Force’s recommendations. Organizations already reporting climate-related information under other frameworks may be able to disclose under this framework immediately and are strongly encouraged to do so. The Task Force recognizes the challenges associated with measuring the impact of climate change, but believes that by moving climate-related issues into mainstream annual financial filings, practices and techniques will evolve more rapidly. Enhanced practices and techniques, including data analytics, should further improve the quality of climaterelated financial disclosures and, ultimately, support more appropriate pricing of risks and allocation of capital in the global economy.
+1. Source: https://www.fsb-tcfd.org/publications/final-recommendations-report/
+
+
+BBVA Report on TCFD 2020 / pag. 5. 
+What type of information should the TCFD report include?
+The Task Force structured its recommendations around four thematic areas that represent core elements of how organizations operate: governance, strategy, risk management and metrics and targets. The four overarching recommendations are supported by recommended disclosures that will help investors and others understand how reporting organizations assess climate-related risks and opportunities. In addition, there is guidance supporting all organizations in developing additional climate-related financial disclosures consistent with the recommendations and recommended disclosures. The guidance assists preparation by providing context and suggestions for implementing the recommended disclosures. For the financial sector and certain non-financial sectors, supplemental guidance was developed to highlight important sector-specific considerations and provide a fuller picture of potential climaterelated financial impacts in those sectors.
+BBVA’s TCFD Report fulfills the Task Force recommendations as follows:
+TCFD Recommendations BBVA’s TCFD Report October 2020 Pages. 
+Governance 1 Board of Directors’ oversight. 
+Section 02: • BBVA’s corporate governance • Transversal integration of sustainability at the executive level • Remuneration system 
+11 15 16 2 Management’s role. 
+Strategy 
+3 Description of risk and opportunities. 
+Section 03: Defining climate change risks and opportunities for BBVA 17 4 Impact of risk and opportunities. 
+Section 03:
+Implementing the strategy 22 5 Resilience Section 03: Strategic resilience to climate risks 27. 
+Risk Management 6. 
+Organization for identifying and assessing risks. 
+Section 04: • Integrating climate change into risk planning • Integrating climate change into risk decision-making • ESG sector norms • Equator Principles 
+28 33 38 39 7 Organization for managing risks 8 Integration into overall risk management. 
+Metrics & Targets 9 Disclose metrics & targets used Section 05: • Mobilization metric • Measuring indirect impacts • Portfolio alignment • Direct impacts (scope 1 & 2) 
+40 50 51 52 10. 
+Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 GHG 11. 
+Disclose targets and performance against targets
+
+
+BBVA Report on TCFD 2020 / pag. 6. 
+Finally, the following timeline is suggested for implementation of these recommendations, while providing for the possibility that the whole project may be difficult to address in its entirety from the outset:
+CHART 01. Implementation process. 
+Fuente: TCFD Final Report, June 2017. 
+
+Extensive understanding of the concentration of assets linked to fossil fuels and their exposure to climate risk 5 years period. 
+Degree of adoption. 
+More consistent, thorough and comparable information, with greater transparency and price calculation that are better adjusted to risks and opportunities for those intervening in markets. 
+Issues related to climate change are considered central to business and part of users´ and actors´Investment considerations. 
+Greater adoption and development of published information (metrics and scenario analysis) and enhanced use of the information. 
+Organizations start to disclose information in their financial statements. 
+Companies begin reporting under other standards implement the TCFD recommendations. Others consider climate change issues as part of their business. 
+TCFD final Report. 
+This report seeks to summarize BBVA’s strategy for combating climate change and the measures being taken to follow up on the TCFD recommendations.
+
+
+BBVA Report on TCFD 2020 / pag. 7. 
+INTRODUCTION. 
+Section 01. 
+The financial sector and climate change. 
+The fight against climate change is one of the greatest disruptions in history. It has very significant economic consequences to which we all (governments, regulators, businesses, consumers, the whole of society) have to adapt rapidly.
+In this context, the fight against climate change has gained great importance on the international agenda following the signing of the Paris Agreement which was adopted at the Paris Climate Change Conference (COP21) in December 2015, under the United Nations Framework Convention on Climate Change. Various governments and institutions committed to the Agreement. Since then, there has been a gradual and decisive increase in specific regulation that encourages companies to reduce their emissions to align with scenarios of temperature increase of 1.5ºC and 2ºC compared to pre-industrial levels, as set out in the Paris Agreement.
+According to the UN Environmental Programme’s (UNEP) Emissions Gap Report 2019, continuing current policies could lead to an average temperature increase of 3.5ºC by 2100 compared to pre-industrial levels, tripling the current warming level. On the other hand, the emissions reduction commitments made by countries under the Paris Agreement (National Determined Contributions) are insufficient, as they would lead to a warming of 3ºC by the end of the century.
+To stay on a path of 1.5ºC over the next decade, emissions would have to be reduced by 7.6% per year between 2020 and 2030. In practice, this implies that countries’ efforts to reduce emissions must be multiplied by a factor of between three and five times to align with 2ºC and 1.5ºC scenarios, respectively.
+Many sectors are affected by this trend which limits their access to the use of certain raw materials, taxes greenhouse gas emissions, and demands that an ad-hoc strategy be established and the information thereupon disclosed. However, this trend also presents an opportunity for new business generated around sustainable initiatives.
+Banks are of key importance as finance providers for all sectors involved in this change, and BBVA wants to play a forward-looking and leading role.
+A bank’s business may be impacted by its clients’ climate performance and ability to adapt to environmental challenges, increasing their default or solvency risks.
+In this context, the FSB sponsored the creation of the Task Force on Climate-Related Financial Disclosures to issue recommendations that could help the market assess the performance of companies with respect to climate change. The goal was to create a common reporting framework that would be consistent, comparable, reliable, clear and efficient and that could help the decisionmaking process of all stakeholders.
+
+
+BBVA Report on TCFD 2020 / pag. 8. 
+BBVA, a bank committed to sustainability. 
+A LONG HISTORY. 
+BBVA is guided by one purpose “to bring the age of opportunity to everyone”. A purpose with the aim of having a positive impact on the lives of people, companies and society as a whole. BBVA’s strong commitment to sustainability is arguably one of the most relevant ways to fulfill this purpose.
+This commitment is not new. BBVA adhered to the United Nations Global Compact in 2002, and adopted the Equator Principles in 2004.
+The focus on sustainable finance began in 2007 when BBVA participated in the first issuance of a green bond (by the European Investment Bank, EIB) and when, in 2008, the employee pension plan in Spain was the first to sign the Responsible. 
+Investment Principles. Since then the Bank has been promoting sustainable solutions, managing their direct impact and integrating environmental and social risk into their decision making.
+In 2018 BBVA presented its 2025 Pledge to contribute to the achievement of the United Nations Sustainable Development Goals (SDGs) and the challenges arising from the Paris Climate Agreement. A commitment based on three lines of action:
+FINANCE MANAGE INVOLVE. 
+Help create capital mobilization to curb climate change and achieve the SDGs by mobilizing EUR 100 billion between 2018 and 2025 to support green finance, sustainable infrastructure, agribusiness, entrepreneurship and financial inclusion.
+Integrate environmental and social risks associated with the Bank’s activity to minimize potential direct and indirect negative impacts, and to progressively align its activity with the Paris Agreement. The Bank also set as one of its goals to have 100% renewable energy under contract by the BBVA Group by 2030.
+Engage stakeholders to collectively boost the financial industry’s contribution to sustainable development.
+01 02 03
+
+
+BBVA Report on TCFD 2020 / pag. 9. 
+LEADERSHIP AND COMMITMENT. 
+Beyond its key role in fostering sustainable financing, BBVA encourages a new way of doing sustainable banking.
+The Bank has actively participated in important initiatives in close collaboration with all stakeholders including the industry itself, regulators and supervisors, investors and civil society organizations. These initiatives focus on the following six priority areas: a UNIVERSAL LEADING FRAMEWORKS. 
+BBVA was one of the 28 founding banks of the Principles for Responsible Banking promoted by the UNEP FI, the United Nations alliance with the financial sector. This is the framework of reference for corporate responsibility in the banking sector, which has already been adhered to by more than 190 entities worldwide, approximately 40% (by volume of assets) of the banking system.
+b ALIGNMENT WITH THE PARIS AGREEMENT:
+BBVA signed the Katowice Commitment in December 2018 together with BNP Paribas, ING, Société Générale and Standard Chartered. This initiative is aimed at developing a methodology to help align lending operations with the Paris Agreement, and has inspired the Collective Commitment to Climate Action launched by 31 international financial institutions as part of the United Nations climate summit in New York in September 2019. BBVA has also joined the ScienceBased Targets initiative and participates in the Alliance of CEO Climate Leaders of the World Economic Forum (WEF).
+ c MARKET STANDARDS:
+BBVA has actively promoted the Green Bond Principles, the Social Bonds Principles, the Green Loan Principles and other standards developed by the industry itself, having allowed the creation of an ordered and growing market of sustainable financial instruments.
+d TRANSPARENCY:
+In September 2017, BBVA committed itself to the Financial Stability Board’s TCFD recommendations and has been reporting on its objectives, plans and performance while observing its maximum commitment to transparency.
+e FINANCIAL REGULATION. 
+BBVA has been participating in consultation processes and in different activities with regulatory bodies and supervisors to promote regulations on sustainable finance. This includes participation in the UNEP FI and European Banking Federation working groups defining recommendations for bank use of european taxonomy.
+BBVA co-chairs the UNEP FI steering committee and represents European banking in that partnership. BBVA also holds the chair of the sustainable finance working group in the European Banking Federation and is a member of the Equator Principles steering committee.
+
+
+BBVA Report on TCFD 2020 / pag. 10. 
+These strategic priorities are of great relevance since the strategic plan sets out the Bank’s medium and long-term strategy as well as the guidelines and lines of action by which the Group intends to achieve its objectives.
+CHART 02. Strategic priorities. 
+Source: https://shareholdersandinvestors.bbva.com/bbva-group/strategy-bbvas-transformation/strategic-priorities/
+Improving client’s financial health. 
+Reaching more clients Driving operational Excellence. 
+The best and most engaged team Data and Technology. 
+OUR PURPOSE. 
+OUR STRATEGIC PRIORITIES. 
+OUR VALUES “To bring the age of opportunity to everyone”
+Customer comes first We think big We are one team. 
+Helping our clients transition towards a sustainable future. 
+These strategic priorities include helping our clients in the transition to a sustainable future.
+Section 3 of this report describes how BBVA will gradually align its activity with the Paris Agreement.
+SUSTAINABILITY IS AN IMPORTANT. 
+PART OF BBVA’S STRATEGY “We wish to help our clients transition towards a sustainable future”
+At BBVA, we are aware of the remarkable role of banks in the transition to a more sustainable world, through our financing operations and advisory services.
+The future of banking is financing the Future, with a capital F. 
+Following a strategic reflection in 2019, BBVA has defined six strategic priorities that seek to accelerate and deepen the Group’s transformation and the achievement of its purpose (to bring the age of opportunity to everyone).
+
+
+BBVA Report on TCFD 2020 / pag. 11. 
+GOVERNANCE MODEL BBVA’s corporate governance. 
+BBVA’s corporate governance bodies have devised and promoted a sustainability and climate change strategy for the Bank, approving its basic elements and regularly monitoring its implementation across the Group. This task is carried out by the Board of Directors, BBVA’s highest representation, administration, management and surveillance body, with the assistance of its specialized committees.
+Board of Directors. 
+Executive level. 
+Executive Committee Technology and Cybersecurity Committee. 
+Risk and Compliance Committee. 
+Remunerations Committee. 
+Appointments and Corporate Governance Committee. 
+Audit Committee. 
+The Executive Committee and the Risk and Compliance Committee specifically play the most active role in assisting the Board on sustainability and climate change issues, as detailed below.
+Section 02
+
+
+BBVA Report on TCFD 2020 / pag. 12. 
+BOARD OF DIRECTORS. 
+BBVA’s Board of Directors has long considered the progress and main impacts of sustainable development and the fight against climate change as important matters, and these have become even more important issues to monitor in recent years.
+The Board of Directors approved the Group’s Corporate Social Responsibility policy in 2008, subsequently amending it to adapt to any new developments over the years. This policy reflects the Group’s commitment to drawing up and implementing a climate change and sustainable development strategy for the achievement of the SDGs, in line with the Paris Climate Agreement, among other considerations.
+To this end, the Board fostered the Group’s commitment to sustainability with the “2025 Pledge” described in this report. Its progress and development have been regularly monitored by the Board of Directors, at least on an annual basis, and by its Executive Committee, at least on a biannual basis.
+In 2019, BBVA’s Board of Directors led the strategic reflection process carried out within the Group, which identified the need to make sustainability one of the pillars of its strategy for the coming years.
+This strategic reflection performed in 2019 had a special implication of the corporate governance bodies, in particular the Board and the Executive Committee who directly participated in the drafting and approval of the Group’s new strategic plan (in several meetings throughout the year). A process to monitor the plan’s implementation and execution was defined with measures including holding specific meetings focused on strategy or the establishment of KPIs to implement the strategic plan.
+As a result the Board approved at the end of 2019 such Group’s strategic plan, which defines as one of its priorities “to help our clients transition toward a sustainable future.”
+An essential element of this strategic approach determined by the Board is the integration of sustainability and the fight against climate change into the Group’s business. They are considered as medium and longterm development opportunities which will be managed by establishing objectives to facilitate their implementation, oversight and monitoring of progress.
+In addition, in 2020, the Board, with the prior analysis of the Executive Committee, approved the Group’s Sustainability Policy, which defines and sets out the general principles and the main management and control objectives and guidelines to be followed by the Group on sustainable development.
+The Board of Directors will oversee the policy’s implementation directly or through the Executive Committee, on the basis of periodic or ad-hoc reports received by the Global Sustainability Office (described in this report), the Head of Corporate & Investment Banking (who is responsible for this policy at the senior management level), the Bank’s areas that will incorporate sustainability into their day-to-day businesses and operations and, where appropriate, the Heads of BBVA’s control functions.
+
+
+BBVA Report on TCFD 2020 / pag. 13. 
+At a minimum once a year, or in the event of any event requiring changes to this Policy, the Global Sustainability Office will revise and submit to the Bank’s corporate governance bodies any updates and modifications deemed necessary or appropriate at any time.
+The above approach allows the corporate governance bodies to define the basic lines of action for the Group as regards the management of opportunities and risks arising from sustainability in their businesses. It also allows the execution to be overseen by the executive areas in all spheres of the entity’s operations.
+In addition to the above and in order to achieve the best performance of its duties in this matter, the Board considered it necessary to strengthen its own knowledge and experience in sustainability. This is being done by onboarding people with extensive knowledge and experience and by a continuous training program to include sustainability-related subjects (such as sustainable finance or main trends that are being developed in the market on this matter).
+EXECUTIVE COMMITTEE. 
+Consisting of a majority of non-executive directors, over the years the Executive Committee has assisted the Board in defining and monitoring the development and implementation of the Group’s sustainability policies and initiatives and in regularly reviewing compliance with the corporate social responsibility (CSR) policy. In this regard, the Executive Committee has reviewed such matters at least on a biannual basis, including: the evolution of the volume and type of sustainable finance mobilized by the Group, the environmental impacts of the Group and action plans performed by the Group’s business and support areas regarding sustainable finance, among others.
+Additionally, as regards its role in supporting the Board in strategic decision-making, in 2019 the Executive Committee had an active role (as described in the previous paragraphs) in monitoring and overseeing the strategic reflection process, later establishing the basis and finally drafting the new strategic plan. It is also worth noting the Executive Committee in 2020 reviewed the Group’s new sustainability policy prior to its approval by the Board.
+Finally, the Executive Committee tracks, on a regular basis, the integration of sustainability into the Group’s business processes, according to its role of monitoring and analyzing the progress of the Group’s strategic key performance indicators, operations and P&L.
+
+
+BBVA Report on TCFD 2020 / pag. 14. 
+RISK AND COMPLIANCE COMMITTEE. 
+Composed of a large majority of independent directors and including non-executive directors, the Risk and Compliance Committee’s duties include analyzing and escalating to the Board any proposals on Group strategy, control and risk management specified, in particular, in the Risk Appetite Framework. To this end, the Risk and Compliance Committee must work from the strategic foundations established by the Board of Directors or the Executive Committee.
+In addition, the Risk and Compliance Committee sets out the policies for monitoring and managing the Group’s various risks, oversees internal information and control systems and, as regards controlling the Group’s risk development, monitors its adjustment to the Risk Appetite Framework and defined policies. It performs its monitoring and control duties regularly enough and with sufficient granular information to ensure their correct fulfillment.
+As part of its duties, BBVA’s Risk and Compliance Committee is following the executive team’s progress toward integrating sustainability into the Group’s risk analysis and management, both from a risk planning and a risk management point of view. As regards the former, the Group’s risk appetite statement already includes a reference to the commitment to sustainable development (which will be developed in the future, as detailed in paragraph 4 of this report); as regards the latter, this risk has been added to the Sectoral Frameworks which the executives specifically report to the Committee.
+BBVA Report on TCFD 2020 / pag. 14
+
+
+BBVA Report on TCFD 2020 / pag. 15. 
+Transversal integration of sustainability at the executive level. 
+BBVA considers sustainability in all its day-to-day operations and everything else it does, both in relation to its clients and its internal processes.
+As such, devising and executing the sustainability strategy is an organization-wide effort, and all Group areas must include it progressively in their strategy agenda and work dynamics.
+Taking into account the two main sustainability focal points of action described in the previous section, the Group will have specific sustainability goals (the “Group’s Sustainability Goals”), which are the following at the date this Policy was drawn up:
+TO PROMOTE THE DEVELOPMENT OF SUSTAINABLE SOLUTIONS: Identify opportunities, develop sustainable products and offer advice to individual and business clients.
+TO INTEGRATE SUSTAINABILITY RISK INTO ITS PROCESSES: Integrate risks associated with climate change (physical or transition) into the Group’s risk management processes.
+TO ESTABLISH A SINGLE AGENDA WITH STAKEHOLDERS: Promote transparency about our commitments and performance, reduce our direct impact and foster the active involvement with all our stakeholders to promote sustainability in the financial sector.
+TO DEVELOP NEW SKILLS IN SUSTAINABILITY: Leverage the Group’s data and technology capacities to foster the development of the sustainability strategy within the organization, and to promote related training for employees.
+These goals materialize in various lines of work2, to be executed by the areas under the oversight of the appointed supervisor.
+Also, the Global Sustainability Office (GSO) has been created, a unit responsible for promoting and coordinating the Group’s sustainability initiatives, with the support of the senior managers in the Group’s global and local areas. The GSO has scheduled regular meetings with these managers to review the lines of work with a view to accelerating their execution and guaranteeing the alignment across Group units.
+Finally, a network of experts has been created with sustainability specialists from the Group areas (Client Solutions, Corporate & Investment Banking, Global Risk Management, Communications & Responsible Business, etc.) and under the GSO’s coordination. These experts must generate knowledge in the field of sustainability within the Group so as to offer advice to clients and support the areas in developing new sustainability value propositions, integrate climate risks into risk management, draw up a public sustainability agenda and set sustainability standards.
+2. For more details on the lines of work see Section 3 about “Strategy”.
+
+
+BBVA Report on TCFD 2020 / pag. 16. 
+Remuneration system. 
+As set out in the BBVA Directors’ Remuneration Policy, approved by the General Shareholders’ Meeting, the remuneration system of executive directors includes fixed remuneration, which will consider the level of responsibility and functions performed, and variable remuneration.
+
+Variable remuneration for each executive director is based on an annual incentive. This reflects the directors’ performance through the fulfilment of objectives set to assess each financial years’ earnings, based on the strategic priorities set by the Group and considering the risk incurred.
+Annual financial performance indicators are aligned with the Group’s most relevant management metrics. Non-financial indicators will be related to Group-level strategic objectives and, where applicable, to indicators specific to each executive director, which may include economic, social and environmental aspects, as well as other indicators relating to diversity and inclusion.
+
+With regard to the indicators of the. 
+Group’s Executive Chairman and the CEO, their different responsibilities have been taken into account. Thus, for the Chair, in 2019 the degree of achievement of various indicators was considered, including sustainability measured through the synthetic responsible banking index. This index is an objective metric calculated by an independent expert and based on the results of analyses by major international sustainability agencies.
+In turn, the remuneration model applicable to all BBVA Group employees consists of fixed remuneration and variable remuneration. The corporate variable remuneration model aligns variable remuneration with the Group’s strategic objectives.
+
+Variable remuneration is associated with the degree of achievement of preset financial and non-financial objectives, which takes consideration of present and future risks assumed and the Group’s long-term interests. There is the intention to include sustainability indicators in the near future, in light of the new strategic priority linked to sustainability.
+
+
+BBVA Report on TCFD 2020 / pag. 17. 
+STRATEGY As noted in the previous chapters, BBVA takes into account the major challenges derived from climate change and is, therefore, acting to address them.
+Climate change entails a number of risks and opportunities for the banking business which need to be identified and managed to minimize negative impacts on our environment, while talking advantage of all the associated positive aspects.
+Defining climate change risks and opportunities for BBVA. 
+CLIMATE CHANGE RISKS. 
+As a financial institution, BBVA has an impact on the environment and society directly through the consumption of natural resources and its relationship with stakeholders; and indirectly (and most importantly) through its credit activity and the projects it finances.
+There are two type of risks that impact the business:
+TRANSITION RISKS, which are those risks pertaining to the transition to a low-carbon economy, and which arise from changes in legislation, the market, consumers, etc., to mitigate and address the requirements of climate change.
+PHYSICAL RISKS, which arise from climate change and can originate from increased frequency and severity of extreme weather events or long-term weather changes, and which may imply physical damage to companies’ assets, disruptions in supply chains or increase in the expenses needed to face such risks.
+Section 03
+
+
+BBVA Report on TCFD 2020 / pag. 18. 
+TABLE 01. Transition Risks. 
+Risk subtype Risks associated with climate change Risk description. 
+Time horizon ST: <4 years MT: 4-10 years LT: >10 years. 
+Legal and regulatory. 
+Increase in the cost of CO2 emissions Financial risk to BBVA clients whose liquidity or earnings could be harmed from having to face higher costs or, alternatively, higher investments in emission neutralization, resulting from regulatory changes. 
+ST. 
+Increased cost of direct emissions from the Bank in its operations ST. 
+Increase in monitoring and tracking requirements. 
+Increased staffing and economic resources for the study and monitoring of the Group’s clients, and tracking of their compliance with environmental requirements. 
+ST. 
+Changes in the regulation of existing products and services. 
+Uncertainty for financial agents regarding changes and their implementation ST. 
+Impairment of client asset positions due to the generation of stranded assets (assets that prior to the end of their economic life are no longer able to earn an economic return)
+MT. 
+Sales drop due to adjustments to offerings, to align with new legal specifications for a product. 
+MT. 
+Increase in regulatory capital requirements due to risk associated with climate change. 
+Possibly different prudential treatment of financial assets in terms of riskweighted assets based on their exposure to physical and transition risks. 
+MT. 
+Adverse regulatory changes that may cause certain exposures on BBVA’s climate change balance sheet to have higher capital consumption. 
+ST. 
+Risks of environmental lawsuits Possible lawsuits against BBVA for not complying with environmental regulations in its business or supply chain. 
+ST. 
+Risk of lawsuits against third parties Potential lawsuits for environmental crimes against BBVA clients. BBVA could be impacted by its clients’ loss of solvency resulting from an increase in litigation costs. 
+ST. 
+Technological Replacement of existing products and services with lower-emission alternatives. 
+BBVA clients with a position in sectors that are outperformed by alternative technologies could suffer solvency problems and their ability to cope with their credit commitments could be diminished. 
+ST. 
+Failed investment in new technologies Clients that invest in failed technology may go through solvency difficulties and be unable to meet their credit commitments. 
+ST. 
+Cost of transitioning to low-emission technology. 
+The investments which BBVA clients need to make to change their production models can be an opportunity but they can also negatively impact the balance sheet structure or profitability of said clients if not done properly. On the other hand, the necessary R&D investments could undermine the clients’ ability to meet their commitments. 
+ST. 
+Costs of investing in remodeling and adapting BBVA-owned buildings ST
+
+
+BBVA Report on TCFD 2020 / pag. 19. 
+Market Changes in (market) trends, financial agent and consumer preferences. 
+Changes in demand caused by changes in consumer preferences can lead to falls in sales for BBVA clients and result in loss of profits and solvency. 
+ST. 
+Reduction in demand for certain products can cause price falls that affect the valuation of companies’ assets (crude oil reserves, fossil fuel cars, etc.)
+Increased demand for certain products or services may impact on the price of certain raw materials. While this may be reflected in prices, it may lead to lower profits or the loss of BBVA’s clients’ market share. 
+Risk of change in the Bank’s client preferences for not considering the Bank well positioned in the sustainable segment. 
+Uncertainty in market signals Difficulty or impediments to proper price formation or allocation of financing or investment sums. 
+ST. 
+Forecasts made by research agencies or services to dictate the strategy of entities may not be fulfilled due to abrupt changes in the market caused by changes in regulations or demand. 
+Increased cost of raw materials Sharp changes in the price of raw materials, resulting in changes in supply or energy cost, can lead to deteriorating liquidity and declining profits for clients. It can be mitigated with end-product price increases. 
+ST. 
+BBVA’s energy supply cost could also be affected. 
+Financial risks Risk of a significant increase in the cost of financing clients with higher exposure to climate risks, in a way that affects their solvency by making it more difficult for them to cope with their credit commitments. 
+ST. 
+Risk of worsening the credit rating of clients with exposure to climate change risks, with the associated adverse effects for BBVA. 
+Reputational Change in consumer preferences Direct risk of client loss for not meeting what various stakeholders expect from BBVA as regards the climate change challenge and fostering a more inclusive world. 
+ST. 
+Indirect risk of our clients losing business, which affects their solvency, because they engage in an activity that is not considered sustainable. 
+Demand from clients to limit our operations’ direct impacts. 
+Stigmatization of a sector Risk of assets stranded by a sharp change in the perception of a sector, with significant loss of sales. 
+ST. 
+Investment exclusions in certain sectors due to market pressures. 
+Withdrawal from profitable deals due to reputational risk or a sectoral ban ST
+
+
+BBVA Report on TCFD 2020 / pag. 20. 
+TABLE 02. Physical Risks. 
+Risk subtype Risks associated with climate change Risk description. 
+Time horizon ST: <4 years MT: 4-10 years LT: >10 years. 
+Acute risks Increased severity of extreme weather events, such as cyclones and flooding. 
+Reduced revenue from decreased production capacity (e.g. transport difficulties and supply chain disruptions)
+ST. 
+Direct losses from asset damage (BBVA and clients) ST. 
+Increased cost of insurance ST. 
+Business continuity problems Damage to BBVA facilities from environmental catastrophes that hinder normal service provision. 
+MT. 
+Chronic risks Changes in precipitation patterns and extreme variability in weather patterns. 
+Loss of value of clients’ assets (guarantees) because they are located in areas with water supply problems (desertification)
+MT. 
+Increases in clients’ operating costs (investments in agriculture) MT. 
+Lower renewables production (hydro and wind) MT. 
+Rising average temperatures Population movements that can lead to depression in certain areas, accompanied by loss of business. 
+LT. 
+Sea level rise Threats to client assets that can lead to loss of profits and their solvency LT
+
+
+BBVA Report on TCFD 2020 / pag. 21. 
+CLIMATE CHANGE OPPORTUNITIES FOR BBVA. 
+In addition to the existing risks described above, BBVA is also very aware of the number of climate change-associated opportunities and seeks to leverage them to position itself for the significant disruption caused by climate change and our response to it.
+TABLE 03. Opportunities. 
+Sector Opportunity Time horizon. 
+Oil & Gas Liquefied Natural Gas (LNG) as an alternative to other fossil fuels as it has a much lower level of emissions. 
+ST. 
+Possibility of reusing oil & gas transport assets for biofuels and hydrogen MT. 
+Chemicals Carbon capture and storage through chemical separation of carbon dioxide for later reuse ST. 
+Electricity Strong boost to renewable energy, electricity storage ST. 
+Energy efficiency services and hydrogen development MT. 
+Construction & infrastructures. 
+Renovation of buildings (headquarters, housing, premises, etc.) as well as industrial plants in need of energy-efficiency improvements because of the increased regulatory impact. 
+ST. 
+Infrastructures to improve climate change adaptation: changes in cities, development of a smart grid, charging infrastructure for electric vehicles. 
+ST. 
+Transportation Efficient low-emission and mobility services (electrical, LNG and hydrogen) ST. 
+Mining & metals Production of metals to manufacture electric vehicles (copper, lithium, cobalt and nickel among others)
+ST. 
+Agriculture Efficient irrigation systems, use of waste as a source of biogas ST. 
+Development of new anti-drought products MT. 
+Other sectors Circular economy, recycling, waste and water treatment, tree planting, food industry, tourism industry conversion to carbon neutrality (Fossil fuel change, etc.)
+ST
+
+
+BBVA Report on TCFD 2020 / pag. 22. 
+Implementing the strategy. 
+As mentioned in the introductory chapter, one of BBVA’s six strategic priorities is to assist our clients in their transition to a sustainable future, minimizing risks while maximizing any opportunities that may arise.
+To this end, BBVA initially focuses on those SDGs in which the Group can have a greater positive impact by harnessing the multiplier effect of banking.
+CLIMATE CHANGE INCLUSIVE DEVELOPMENT. 
+Mobilizing the investments needed to manage the challenge of climate change, in alignment with:
+Three categories of business initiatives:
+ENERGY EFFICIENCY (technologies that reduce energy use per product unit)
+CIRCULAR ECONOMY (recycling, new materials, responsible use of natural resources, etc.)
+CO2 REDUCTION (renewables and other clean energy sources, electric mobility)
+Mobilizing the investments needed to build inclusive infrastructures and support inclusive economic development, in alignment with:
+Three categories of business initiatives:
+DIGITAL SOLUTIONS Providing financial services to the population without banking services, primarily with digital solutions suited to their needs. 
+INCLUSIVE INFRASTRUCTURES with a focus on basic services and safe, affordable and sustainable transport systems. 
+Support for ENTREPRENEURS, and promotion of economic growth and full and productive employment
+
+
+BBVA Report on TCFD 2020 / pag. 23. 
+Considering the above areas of action, and to further develop this strategic priority, four major objectives are set, which are laid out in workstreams.
+OBJECTIVES WORKSTREAMS 01 Encourage sustainable business growth. 
+Currently, this objective consists of 5 workstreams: • Clients retail • Clients enterprise • Clients CIB (Corporate & Investment Banking) • Communications & marketing • Social 02 Integrate sustainability risk in the processes. 
+Currently, this objective is composed of 2 workstreams: • Risk management • ESG sector norms 03 Establish a unique sustainability agenda with stakeholders. 
+Currently, this objective consists of 3 workstreams: • Reporting & transparency • Direct impact • Public engagement 04 Develop the necessary sustainability capabilities. 
+Currently, this objective consists of 2 workstreams: • Data & technology • Talent. 
+Each of the four objectives are discussed in more detail below, except for Integrate sustainability risk in the processes, which is discussed in the next chapter.
+
+
+BBVA Report on TCFD 2020 / pag. 24. 
+ENCOURAGE SUSTAINABLE BUSINESS GROWTH. 
+Sustainable solutions for enterprise clients. 
+BBVA actively promotes sustainable financing for enterprises and the development of new standards, products, team specialization and the implementation of management models in all countries where it operates. Below are some of the advances in this line of business:
+DEVELOPER LOANS or loans to offset the carbon footprint. 
+RENTAL FINANCING SOLUTIONS such as leasing products for energy-efficiency or sustainable-mobility assets or rental services oriented to energy efficient assets. 
+FINANCING SOLUTIONS that promotes sustainable transition by establishing environmental or social impact metrics. 
+AGRICULTURAL FINANCING OFFER oriented to organic food production. 
+ONEVIEW: Digital tool launched in Spain that allows clients to calculate their carbon footprint of companies based on energy bills. The service is developing new features that will eventually allow BBVA to offer a proposal adjusted to the company’s profile to reduce its environmental impact. 
+Sustainable solutions for retail customers. 
+BBVA wants to be by our retail customers’ side while they adopt more sustainable habits that help reduce their emissions. We want to do this proactively, using data-driven tools and solutions to help them control their consumption and emissions. To this end, we are working on making available a wide range of investment and financing products that will help them in this transition, adapted to the situation of each of the geographies in which we operate. Among others, the following initiatives are worth mentioning:
+PROMOTE MOBILITY: Loans for electric cars and offering insurance associated with this type of vehicle. 
+LOANS targeting ENERGY EFFICIENCY (properties with A energy efficiency ratings, solar panels, insulation, etc.) “Range of investment FUNDS and PENSION PLANS managed with SUSTAINABLE INVESTMENT CRITERIA. This type of investment is being very well received for example, these are the Bank’s funds in Spain that have had the greatest uptake, going from 30 million Euros in 2018 to more than 1,000 million Euros in 2020. 
+CARDS made with RECYCLED PLASTIC. 
+Sustainable solutions for corporate and institutional clients. 
+In the sustainable bond market, BBVA has become an advisor with extensive experience (in 2007, it participated in the issuance of the first green bond by the European Investment Bank). BBVA’s leadership in this sector allows it to leverage the opportunity of opening new markets and promoting this product with issuers, investors and clients in other geographies.
+In 2020, BBVA has significantly promoted loans to corporate clients with a percentage of its activity in sectors considered to be green. Specifically, in the first half of 2020, more than 2,500 million euros have been provided.
+Also, BBVA has identified that many corporate clients require support to define their strategy toward a more sustainable business, in line with the Paris Agreement and the SDGs. BBVA wants to accompany them every step of the way by offering personalized advisory services. This advice should be based on value-added information, offering comparable options, best practices, challenges, opportunities and, above all, levers of action in each sector of activity.
+
+
+BBVA Report on TCFD 2020 / pag. 25. 
+Additionally, with Vigeo’s favorable opinion, BBVA aims to promote sustainable development with new sustainability-linked products with a view to extending the scope of our product offering to more clients, including deposit certification and supply chain finance. Thus, BBVA was a pioneer by launching the first sustainable structured product for retail customers in Spain and advising on the first sustainable supply chain deal. The latter allows BBVA to advise clients on how to integrate sustainability into their supply chains, classifying their suppliers in terms of ESG, which will allow us to impact their ecosystems and generate an appetite for sustainability in the commercial banking and SME segments.
+To boost sustainability in more incipient markets, we need to integrate the ESG angle into our clients’ day-to-day products. 
+Communications & marketing. 
+BBVA’s goal is to support the development of the Bank’s strategic priority of Sustainability, and specifically the workstreams described above, by increasing the presence of Sustainability in the Bank’s internal and external communication, and in specific marketing campaigns. To this end, a communication and marketing framework has been developed that defines the governance and editorial line for everything related to Sustainability.
+Other activities. 
+Additionally, it is worth noting the Group’s own green and social issuances. BBVA has become one of the most active banks in the issuance of green bonds since the publication of its Sustainable Development Goals Bonds framework in 2018. That same year the Bank issued its first green bond for EUR 1 billion, the largest up to that date by a eurozone bank. In 2019 the first structured green bond was issued using “blockchain” technology, a private placement in which MAPFRE invested EUR 35 million.
+In May 2020, BBVA was the first private financial institution in Europe to issue a COVID-19-related social bond and, two months later, the Bank was the first financial institution to issue contingent convertible perpetual bonds (CoCos) classified as green bonds, for EUR 1 billion. The funds will be used to finance eligible green assets in BBVA’s portfolio. The portfolio is diversified into assets from different green sectors: energy efficiency, renewable energy, sustainable transportation, waste management and water management.
+For more details on these issuances, see the section of metrics and objectives.
+
+
+BBVA Report on TCFD 2020 / pag. 26. 
+INTEGRATE. 
+SUSTAINABILITY RISK IN. 
+OUR PROCESSES. 
+Reporting & transparency. 
+BBVA seeks to publish environmental information on its strategy and impact management measures, so that external agents which interact with the Bank (analysts, investors, rating agencies, etc.) are able to internalize BBVA’s current approach to these matters and the path it will take in the coming years.
+Direct impact. 
+This line of work focuses on reducing direct emissions from the BBVA Group itself and setting ambitious medium-term targets for renewable energy use and direct emission reduction. All while addressing the SDGs within BBVA’s reach (sustainable and affordable energy, sustainable cities and communities, responsible consumption and production, and climate action).
+Public engagement. 
+BBVA is actively involved in various supranational environmental initiatives and aspires to hold a leadership position in the international climate change agenda. To this end, it is important to ensure the fulfillment of its commitments by monitoring their development on an ongoing basis.
+ESTABLISH A UNIQUE. 
+SUSTAINABILITY AGENDA WITH. 
+STAKEHOLDERS. 
+Data & technology. 
+Data is a key part of sustainability because (i) it is critical to identify, manage and track the risks associated with climate change, and (ii) it makes it possible to identify sustainability opportunities for our clients. For this reason, BBVA is conducting a comprehensive exercise to incorporate BBVA’s Sustainability Standards (aligned with the European Union Taxonomy) in its management policies.
+Furthermore, the Group has launched a project to gather environmental data from its clients in collaboration with external information providers and by creating industry-specific sustainability questionnaires. The aim is to increase our knowledge of the Group’s portfolio’s environmental performance and to be able to make better data-driven decisions.
+Talent. 
+In 2019, BBVA carried out a global project, People Planning, to identify the key capabilities, and their needed dimension, to meet the future challenges of our business and contribute to the new strategic priorities. Sustainability was considered a top priority among the new capabilities needed.
+In response to this challenge, BBVA is working on the launch of specific training itineraries in Sustainability, divided into three levels which have been selected with a focus on the two dimensions of the new sustainability strategy: climate action and inclusive growth.
+
+
+BBVA Report on TCFD 2020 / pag. 27. 
+Some progress worth noting in 2020:
+APRIL 2020 A specific Sustainability site was launched, accessible by all Group employees. As of July 2020, more than 2,500 employees have trained in sustainability-related aspects, at an average of almost two courses per employee, multiplying by 25 the number of training hours devoted to sustainability compared to the previous year.
+SEPTEMBER 2020 BBVA launched a basic course on sustainability addressed to the more than 125,000 employees of the Group around the world. This course focuses on environmental risks and includes specific content on the fight against climate change, on BBVA’s direct and indirect impacts.
+Also, throughout 2020, work has been done to identify specific training programs according to the role of the different business areas. As a result, the following training has been carried out:
+BBVA’S SUSTAINABILITY STANDARDS COURSE with corporate relationship managers. 
+AD-HOC TRAINING for employees of the business segments. 
+Sustainability training at BBVA is an ongoing effort. Consequently, in 2021, BBVA will focus on strengthening the existing training options and developing new content with a focus on the expert level.
+Strategic resilience to climate risks. 
+Climate resilience involves developing adaptive capacity to respond to climate change to better manage the associated risks and seize opportunities, including the ability to respond to transition risks and physical risks. TCFD recommends organizations to describe how resilient their strategies are to climate related risks and opportunities, taking into consideration a transition to a lower-carbon economy consistent with a 2°C or lower scenario and, where relevant to the organization, scenarios consistent with increased physical climate-related risks.
+As mentioned in the section “Defining climate change risks and opportunities for BBVA”, BBVA’s strategy may be affected by climate-related risks and opportunities. Therefore, BBVA is working on measuring the impact of the different climate scenarios on its strategy and business. While these analyses are not finalized, early assessments point to a resilient strategy, given the relatively low exposure to clients and sectors with higher climate-related risks.In fact, BBVA’s TransitionSensitive and Carbon-Related wholesale exposures represent below less than 20% of total wholesale EAD (exposure at default), or well below 10% of the Group’s EAD. The resilience of BBVA’s strategy in terms of the different climate related scenarios is reinforced by the establishment of sustainability as one of the Group’s six strategic priorities. This priority has a special focus on the fight against climate change where it has committed to aligning its financing portfolio with scenarios compatible with the Paris Agreement. More detail on the risk assessment and scenarios analysis can be found in the “Integrating climate change into risk planning” section.
+
+
+BBVA Report on TCFD 2020 / pag. 28. 
+RISK MANAGEMENT. 
+Climate-change related risks (transition and physical risks) are considered an additional factor impacting those risk categories already identified and defined in the BBVA Group. These are managed through the risk management frameworks of the Group (credit, market, liquidity and operational, and other non-financial risks).
+As a result, the integration of climate-change related risks into the risk management framework of the BBVA Group is based on their incorporation into the governance and processes currently in place, taking into account regulation and supervisory trends3.
+Risk management in the BBVA Group is based on two large blocks described below: risk planning and day-to-day risk management.
+CHART 03. Risk planning and risk management integration. 
+Source: BBVA, internal development.
+Risk Appetite. 
+Risk PLANNING. 
+Risk MANAGEMENT Admission Clients & Customers. 
+Pricing Portfolio Surveillance & Management. 
+Frameworks. 
+Integrating climate change into risk planning. 
+RISK ASSESSMENT. 
+This section provides, firstly, a self-assessment of how the different climate-change related risk factors impact on the main types of risk currently existing (credit, market, liquidity...), secondly, an analysis of the sectors that are most sensitive to this risk (under the so-called “internal risk taxonomy”) and, finally, the methodology used to assess the climate vulnerability of the different geographies where the BBVA Group operates. These last two aspects are integrated into the management through processes such as admission frameworks or the establishment of risk limits.
+Section 04 3. Particularly noteworthy is the European Central Bank’s public consultation on its guidance on climate and environmental risks published in May 2020. It explains how it expects credit institutions to safely and prudently manage climate-related and environmental risks and disclose such risks transparently under the current prudential framework.
+
+
+BBVA Report on TCFD 2020 / pag. 29. 
+As part of its General Risk Management and Control Model, the Group develops periodic risk identification and assessment processes to, among other things, identify material risks that could have a negative impact on its risk profile and to manage those risks actively and proactively. These processes cover all types of risks faced by the Group in its daily activity, including those risks that are more difficult to quantify.
+Through the Risk Assessment process, which is updated at least once a year, a global assessment by type of risk and business area is carried out to identify both the strengths and main vulnerabilities of the BBVA Group, with a forward-looking view. The matrix of events of the assessment carried out in 2020 is included below (see Chart 04). Risk Assessment exercises are used to set the risk appetite. The events are ordered according to their severity, which is estimated on the basis of the likelihood allocated to each event and their estimated impact on the BBVA Group.
+The 2020 Risk Assessment has deepened the analysis, incorporating a first qualitative assessment of the climate change factor materiality for those risks where it could be relevant.
+CHART 04. 2020 Identification of risk events. 
+Source: BBVA internal development. 
+Impact. 
+Probability. 
+CLIMATE RISK. 
+CATEGORIES. 
+Global Local High. 
+Medium High. 
+Medium Low. 
+Medium - Low Medium - High High. 
+Low. 
+Low. 
+Operational - Technological. 
+Macroeconomic. 
+Geopolitical - Political. 
+Emerging and long term. 
+Business - Strategy. 
+The analysis carried out distinguishes between the impacts that physical and transition risks have at different time horizons (short, medium and long term) on the main types of risks (financial and nonfinancial) (see Chart 05).
+The main risks are focused, first on credit portfolios, especially the wholesale portfolio and, secondly, the retail mortgage and auto portfolios. The most relevant risks, in a first phase, are transition risks, affecting fossil fuels from a triple point of view: regulation, technological change and market factors. Market portfolios are hardly affected given the low volume in relative terms of the trading portfolio, its daily management and the high diversification of the portfolios (see Chart 05).
+In terms of liquidity risk, the high quality of the liquidity buffer leads to an immaterial risk of a decline in the volume of liquid assets resulting from central bank restrictions on the eligibility of certain securities due to environmental reasons; the risk of loss of value of available collateral as a result of potential negative impacts on the market price of securities is also considered inmaterial. The risk of physical climate events is considered low in terms of outflows of client resources or instability of wholesale resources (companies).
+
+
+BBVA Report on TCFD 2020 / pag. 30. 
+CHART 05. Climate change risk assessment 2020. 
+Note: Definition of time horizons: ST: short term up to 4 years (planning horizon); MP: medium term from 4 to 10 years and LP: long term more than 10 years. 
+Source: BBVA, internal development. 
+Transition Risks Physical Risks. 
+ST MT LT ST MT LT. 
+Wholesale credit. 
+Retail credit. 
+Liquidity and funding. 
+Markets. 
+Operational. 
+Insurance. 
+Low risk Moderate-low risk Moderate-high risk High risk. 
+BBVA, within the scope of preparing and defining its industry frameworks governing the credit admission process, has developed an Internal taxonomy of transition risk in order to classify industries according to their sensitivity to transition risk. In addition, metrics are identified at the client level to assess their vulnerability and to integrate this aspect into risk and client support decisions.
+The estimation of the transition risk-sensitivity level is based on the qualitative analysis of the amount of exposure to regulatory, technological and market changes caused by decarbonization that may have a financial impact on the companies of the industry and on the estimation of the time horizon impact of these effects.
+Thus, industries are categorized according to their level of sensitivity to transition risk: high, moderate or low sensitivity. The industries identified as most sensitive to transition risk are energy or fossil fuel generation sectors (energy, utilities, coal mining), emission-intensive basic industries (steel, cement) and activities that are final users of energy through their products or services (autos manufacturers, air and sea transportation).
+Table 04 shows a streamlined version of the analysis carried out in the sectors most sensitive to this risk.
+TABLE 04. Risk transition assessment for carbon-related sectors. 
+Market Technological. 
+Risks. 
+Regulatory. 
+Steel. 
+LOW. 
+MODERATE MODERATE. 
+Cement. 
+LOW MODERATE HIGH. 
+Utilities. 
+MODERATE HIGH MODERATE. 
+HIGH. 
+Autos. 
+MODERATE MODERATE. 
+Transporation. 
+LOW. 
+LOW. 
+MODERATE MODERATE. 
+Energy. 
+HIGH MODERATE MODERATE. 
+Coal Mining. 
+HIGH HIGH HIGH. 
+A more detailed example of this analysis is provided in the table entitled “Analysis of potential transition risk paths in the automotive manufacturers sector” included below.
+As a result of this exercise, with data at 30 June 2020, 18.4% of the exposure measured by EAD (equivalent to 9.7% of the Group’s EAD) of the wholesale portfolio has been identified as corresponding to sectors defined as “transition risk sensitive”, with a very high, high or intermediate level of exposure to this risk. This calculation was made on a portfolio of EUR 237.4 billion, corresponding to the EAD of the wholesale lending portfolio (EUR 451.7 billion of the Group’s EAD).
+
+
+BBVA Report on TCFD 2020 / pag. 31. 
+CHART 06 . Transition risk sensitive sector. 
+Source: BBVA, internal development. It includes the percentage of exposure (exposure at default) of activities internally defined as “transition risk sensitive” over the EAD of the wholesale portfolio at 30 June 2020 (not included Paraguay, Uruguay and Venezuela; Turkey with data at 31 December 2019). The “transition risk sensitive” portfolio includes activities that generate energy or fossil fuels (energy, utilities - excluding renewable generation and water and waste treatment -, coal mining), basic industries with emission-intensive processes (steel, cement) and activities that generate emissions through their products or services (autos manufacturers, air and sea transportation), with a very high, high or intermediate level of sensitivity to this risk.
+Energy 5,8% 4,8% 4,5% 1,5% 1,0% 0,7% 0,1%
+Utilities. 
+Autos. 
+Steel. 
+Transportation. 
+Cement. 
+Coal Mining. 
+Analysis of potential transition risk paths in the automotive manufacturers sector. 
+One of the sectors with a relevant potential transition risk impact in the near future is automotive manufacturers, with risk transmission through regulation, technology and demand.
+REGULATORY RISK: the sector is in the spotlight of emission reduction policies. The main reduction lever is regulation governing consumption efficiency and the reduction of average emissions. 80% of current automobile sales are subject to these regulations. Regulatory targets have required significant investments in automotive manufacturers to meet standards and avoid penalties. Europe stands out as the geography with the most stringent targets and with penalties of EUR 95 for every g/km exceeded. Manufacturers must comply with an average emissions target of 95 gCO2/km by 2021, with further reductions in 2025 and 2030. The industry faces the risk of high fines for non-compliance with emission levels from 2021.
+TECHNOLOGICAL RISK: the difficulty in predicting the degree and speed of adoption of electric vehicles (EV) is a significant risk, since the manufacturing transition to EVs from current internal combustion engine (ICE) models requires not only a change in propulsion systems, but also the redesign of models and different auto parts. These factors in turn require a fundamental change in production platforms and greater active coordination with suppliers. On the other hand, automotive electrification presents different technological alternatives, from 100% battery electric vehicles (BEV), to different types of hybrids and fuel cell electric vehicles. It is likely that during the next few years these technologies will coexist alongside the gasoline engine. The investment effort and industrial complexity of maintaining such a varied technological offer is probably not within the reach of all manufacturers, driving sector consolidation.
+
+
+BBVA Report on TCFD 2020 / pag. 32. 
+DEMAND RISK: despite the global growth of electric vehicle sales of more than 50% in 2018, the market share of electric vehicles and plug-in hybrids is still only 2%. The development of EV must still overcome bottlenecks to achieve a widespread adoption: higher acquisition cost, limited range, development of recharging points and reduced charging times. The EV is growing faster in those countries such as China or Norway where there is a public policy of subsidies that reduce the price gap. Therefore, there is no solid demand at the moment to support a rapid adoption of the EV. On the other hand, given the consumer uncertainty about which technology to adopt, there is a high risk of delaying the decision to buy or to opt for the purchase of used cars. This would severely impact sales levels, already damaged by the macro environment. Similarly, the residual values of automobiles financed by branded finance companies could be affected.
+Climate-related driver Climate-related risk Financial impact. 
+Time frame Potential impact on risk procedure. 
+Policy-increasingly demanding GHG4 emissions standards. 
+Potential penalties Costs Short Medium. 
+Increasing compliance costs Costs Medium Medium. 
+Technology-shift to AFVs (Alternative Fuel Vehicles)
+Simultaneous investment in different alternatives. 
+Capex Short High. 
+Market- uncertainty about maturity of AFVs. 
+Consumers postpone car renewal. 
+Revenues Medium Medium. 
+Impact on residual value of financed autos. 
+Revenues Medium Medium. 
+In addition, climate and environmental risk impact has been incorporated into country risk analysis since 2019, as an additional input for establishing risk policies affecting exposures to private or sovereign administrations of all the countries with which the bank has some type of risk (+100 countries) .
+To this end, a Climate Vulnerability Index (hereinafter, the CVI) has been created for more than 190 countries, which captures the physical risk and, to a lesser extent, the transition risk of each country, based on international indicators (e.g., Global Adaptation Index of the University of Notre Dame, ND-GAIN, and the Energy Transition Index, ETI, produced by the World Economic Forum). Subsidiarily, vulnerability indices issued by other international organizations and by the three rating agencies are also taken into account.
+The methodology establishes 5 climate vulnerability levels, which are a comparative classification, as all countries have a certain level of vulnerability given the global nature of this phenomenon.
+The CVI has been integrated into risk management by including a specific section in country risk reports, so it is a factor that is taken into account when establishing risk limits (particularly in the most vulnerable countries). It is also taken into account in setting country ratings and outlooks.
+4. GHG: Green house gas.
+
+
+BBVA Report on TCFD 2020 / pag. 33. 
+In 2020 a methodology has also been launched to determine climate vulnerability at the sub-national level (regions, provinces, cities). To this end, indicators developed by internationally renowned institutions such as the Andean Development Corporation (CAF), the EU or BBVA Research.
+For the remainder of 2020, work is underway to further incorporate transition risk into the CVI.
+RISK APPETITE FRAMEWORK (RAF)
+The Risk Appetite Framework of the BBVA Group, approved by the corporate governance bodies, determines the risk levels that BBVA is willing to assume to achieve its targets, considering the business’ organic evolution. The Framework has a general statement that sets out the general principles of the risk strategy and the target risk profile. The current statement includes the commitment to sustainable development as one of the elements defining BBVA’s business model. This statement is complemented and detailed with an appetite quantification through metrics and thresholds that provide clear and concise guidance on the defined maximum risk profile. The 2021 Risk Appetite Framework is expected to provide deeper insight on climate change risk.
+SCENARIO ANALYSIS. 
+Scenario analysis enables the assessment of the risk factors’ impact on the metrics defined in the Risk Appetite Framework. In this regard, and within climate change and environmental risk management, alternative scenarios are being defined, based on those laid out by the Network of Central Banks and Supervisors for Greening the Financial System (NGFS). The objective is to try to capture the uncertainty around the different types of transition (ordered, disordered) towards a low carbon economy and/or the effects derived from the physical risk of potential climate events in certain geographies.
+BBVA uses the Sustainable Development Scenario (SDS) and the Stated Policies Scenario (SPS) of the International Energy Agency, to analyze how regulatory, technological or demand changes in those sectors particularly sensitive to transition risk, may affect the Bank’s portfolio. This analysis allows BBVA to include in the industry frameworks information on the possible behavior of the sector, and to determine which clients may be better prepared in environmental terms to face the coming years.
+Integrating climate change into risk decision-making. 
+Once climate risk is incorporated into the Risk Appetite Framework and the business strategy, it also must be included in the day-to-day risk management, which is a part of the risk decisionmaking that supports the Bank’s clients.
+For that purpose, the integration of this risk into existing management frameworks and processes is required, including the adaptation of policies, procedures, tools, risk limits and risk controls in a consistent manner. In a first phase, adaptation is focused on the integration of this risk in the Industry Frameworks, a basic tool in the definition of our risk appetite in wholesale credit portfolios, and in the Mortgage and Auto Operating Frameworks in retail credit.
+
+
+BBVA Report on TCFD 2020 / pag. 34. 
+WHOLESALE BANKING. 
+The need to decarbonize the economy, as a consequence of climate change, requires a reallocation of resources between more emissionintensive activities and those less affected. This dynamic between sectors can be further accelerated in those industries where transition risk brings the time horizon impact closer, or where regulatory measures or technological developments set the implementation schedule.
+In wholesale banking, the prevailing analysis dimension is the sectoral, detailing sub-sectors or specific activities, combined with the geographic consideration, especially in regulated sectors.
+The combination of these two factors results in the integration of climate factors into credit risk management processes through the wholesale credit industry frameworks of those sectors most strongly impacted.
+In 2020, sustainability factors have been incorporated as one of the dimensions of the analysis in the Operating Frameworks of Autos, Energy, Utilities, Steel and Cement. All these sectors are included in the taxonomy as transition risk-sensitive.
+In these frameworks, the impact of decarbonization on the sectors is analyzed based on long-term scenarios aligned with the objectives of the Paris Agreement. To this end, the sectoral impact of factors such as energy demand, investment or technological transformation (change of the generation mix in Energy / Utilities, or electrification in the case of Autos) is analyzed. The Industry Frameworks take into account the transition strategies developed by the Bank’s main client in each sector. Based on the analysis, individual risk policies have been reviewed with some of the main groups of these industries.
+The following chart shows an anonymized example of sustainability strategies analysis of the main clients in BBVA’s auto manufacturer portfolio.
+CHART 07. Autos Industry Framework: sustainability strategies analysis of companies in the sector. 
+Legend: Lighter green represents a better assessment of each sustainability factor.
+Client 1. 
+Client 2. 
+Client 3. 
+Client 4. 
+Client 5. 
+Client 6. 
+Client 7. 
+Client 8. 
+Client 9. 
+Client 10. 
+Client 11. 
+Client 12. 
+Client 13. 
+EU emissions compliance risk. 
+Current proportion of AFV production. 
+Medium-term proportion of AFV production. 
+R&D efforts. 
+Strategy in batteries and Autonomous Driving. 
+Sustainability / Transformation. 
+Together with the integration into the Industry Frameworks, the systematic integration of sustainability factors into the client analysis processes for credit origination purposes has begun in 2020, thus allowing their incorporation in credit decision making.
+
+
+BBVA Report on TCFD 2020 / pag. 35. 
+Portfolio alignment. Katowice commitment and the PACTA methodology. 
+As part of the climate change strategy, BBVA has committed to aligning its loan portfolio with scenarios compatible with the global warming targets set out in the Paris Agreement. This commitment was formalized by the signing of the Katowice agreement together with four other European banks (Standard Chartered, ING, BNP Paribas and Société Générale). Together with these four banks, and with the support of the think tank 2 Degree Investing Initiative (2DII), a methodology called PACTA (Paris Agreement Capital Transition Assessment) has been adapted to the banking sector.
+The alignment concept aims to transform those activities that are considered particularly CO2 intensive and therefore contrary to the Paris agreements. This alignment implies encouraging companies to change their production model towards greener activities.
+The methodology focuses on those sectors with the greatest climate impact and within them, on the production chain phase whose reduction can have the greatest impact on the overall reduction of emissions. The sectors under analysis are the following:
+The objectives of the Paris Agreement can be translated into specific indicators using climate scenarios. These scenarios show a technological transformation path at a sector level, representing a benchmark to measure the alignment level of a portfolio.
+The alignment degree of an asset or client is calculated using a specific indicator for each activity. In some sectors the indicator focuses on measuring technology substitution (for example, the generation mix in the power generation sector), while in other industries, without a mature technological alternative, the indicator focuses on capturing improvements in production processes (for example, the emissions intensity in the cement sector).
+The values calculated in the indicators at an individual level are allocated to a lending portfolio based on the weighting of each client’s exposure in the portfolio.
+Alignment can be used as a risk management tool in the sense that a portfolio aligned with a transition path would a priori be less impacted by transition risk than a misaligned portfolio, long as a reference scenarios are close to the real decarbonization path.
+Source: PACTA methodology paper by 2Dll.
+Oil & Gas Upstream Midstream Downstream. 
+Coal Mining Separation and Preparation Storage Trade. 
+Power Generation Transformation Transmission Distribution. 
+Automobile Suppliers, contractors Car manufacturers Parts distributors & dealerships Workshops. 
+Cement Limestone quarrying Manufacturing Concretes Construction industry. 
+Marine transportation. 
+Suppliers Ship manufacturers Ship owners & operators Traders. 
+Steel Iron one mining End products Manufacturing. 
+Stage of the value chain under study
+
+
+BBVA Report on TCFD 2020 / pag. 36. 
+RETAIL BANKING. 
+Climate change risk affects retail portfolios through two dimensions. The first is through its role as a financing facilitator to address the investments required for climate change mitigation and adaptation, generating business opportunities in the financial sector. Second, through the financial risks that climate change and its mitigation pose to their balance sheet.
+In retail banking the predominant focus of analysis is the type of risk and the affected portfolio, together with the geographical dimension.
+TRANSITION RISK mainly affects the auto portfolio due to the CO2 emissions of the vehicles, the mortgage portfolio due to the CO2 emissions of real estate/households that are pledged as collateral, and the SME portfolio depending on the concentration in activities more exposed to CO2 emissions.
+PHYSICAL RISK is that derived from climate events and changes in the balance of ecosystems. The location of the properties is the main key to address, measure and manage this risk. The location of the collateral in areas with a greater environmental impact relating to natural disasters such as hurricanes or floods make up the block called “location matters”.
+Transition risk treatment in the retail portfolio. 
+Within the financing activity, the main target is to identify and support customers who contribute to the decarbonization process. In BBVA’s retail portfolio, the most exposed portfolios to transition risk and therefore to CO2 emissions are Autos and Mortgages, which account for more than 60% of the total retail portfolio, which in terms of exposure corresponds to around EUR 121 billion according to data as of 30 June 2020. The main geographical areas impacted are Spain, USA and Mexico.
+CHART 08. Composition of BBVA’s retail portfolio by exposure at default. 
+June 2020. Source: BBVA, internal development.
+USA. 
+Other Retail 40% 69% 33% 9% 19% 29% 3% 2% 2% 12% 3% 1% 3% 3% 0% 14%
+ARG COL PER ESP MEX TUR. 
+USA ARG COL PER ESP MEX TUR Chile Forum. 
+Autos 6%
+Mortgages 55%
+As in the wholesale area, in the case of retail, risk appetite is developed through the annual development of Operating Frameworks, which explain and integrate the risk criteria under which the retail portfolios must be originated and managed in the BBVA Group. In 2020, climate change and environmental risk has been incorporated into the Operating Frameworks for the Autos and Mortgage portfolios.
+
+
+BBVA Report on TCFD 2020 / pag. 37. 
+AUTOS PORTFOLIO Incorporating the “fuel type” indicator as an analysis dimension allows a monthly monitoring of the origination, in the Group’s main autos portfolios.
+CHART 09. Auto loans origination by fuel type. 
+Jan-may 2020. Source: BBVA, internal development.
+ESP 48% 48% 3% 9% 1% 91% 97% 3% 8% 100%
+MEX USA Chile Forum. 
+Diesel Gasoline Electric + Hybrid Not reported. 
+MORTGAGES PORTFOLIO In this portfolio, a detailed analysis with regard to the energy efficiency of housing financed by BBVA is being carried out, with a focus on Spain in 2020, due to its relevance.
+The main purpose of the analysis is to verify the existing relationship between the energy efficiency of housing (buildings) financed by BBVA, and the clients’ behavior in terms of default (PD/probability of default). Thus, the aim is to identify whether, ceteris paribus, housing with greater energy efficiency has a lower probability of default than housing with less energy efficiency. In addition, the analysis includes a study of the relationship between the collateral value and the coverage variation in relation to the energy efficiency of housing, and consequently, how this affects the LGD (loss given default) / Severity of the mortgage loan.
+In addition, BBVA actively participates in the working group of the Energy Efficiency Financial Institution Group (EEFIG). This group consists of more than 40 institutions at a European level and one of its targets is to deepen risk assessment through the quantitative relationship between the energy efficiency ratings of properties and the associated probability of default and the valuation of the underlying assets. All this with the aim of issuing the relevant recommendations at European level that guarantee homogeneity in the analysis between participating countries and the former insitutions.
+At the management level, work is underway to refine the admission model with sustainability factors as a fundamental step to support green products. A commercial plan has been defined for the creation of green products for the main geographies and segments of both individual customers and SMEs, with the defined operational and advertising channels.
+Physical risk treatment in the retail portfolio. 
+Regarding physical risk, the risks derived from the location of properties in the zones of hurricanes, floods or eruptions is one of the risks that must be assessed and incorporated in credit processes, in particular during collateral valuation in transactions with collaterals.
+The Group’s portfolio with the greatest exposure to this type of risk is the mortgage portfolio, which accounts for 55% of the total retail portfolio, with a special focus on Spain, Mexico and USA.
+Using geolocation maps and analytical algorithms, work is being done to identify the location of the buildings financed by BBVA, in order to create a heat map, identifying the areas most exposed to adverse weather events (e.g. in Spain housing on coasts impacted by flooding or in Mexico the areas exposed to hurricanes). The analysis of the need to adjust the collateral value, and therefore the severity of the mortgage loans, in such areas, will allow us to give an adequate and prudent treatment in terms of credit risk management.
+
+
+BBVA Report on TCFD 2020 / pag. 38. 
+Example of severity impact calculation of the Hurricane Harvey/Irma in the USA. 
+The BBVA Group has historically had to carry out impact estimates due to adverse weather effects. As an example, during the third quarter of 2017, BBVA USA was affected by two major hurricanes, which caused catastrophic flooding and many deaths. As a result of the hurricanes, BBVA USA conducted a comprehensive assessment of its portfolio and customers located in the affected states.
+Data provided by the Federal Emergency Management Agency (FEMA), related to damage assessment, including flood locations and severity, was used to identify the specific loan portfolio that could be affected.
+Loss estimates were developed based on the level of damage, the estimated change in market value, LTV (loan to value), FEMA’s assistance grants, and the borrower’s estimated disposable liquid assets. Therefore, probabilities of default (PD) and loss given default (LGD) were adjusted and, as a result, BBVA USA’s provisions were adjusted.
+ESG sector norms. 
+In sectors that are particularly relevant from a social and/or environmental impact perspective, the group has specific operating guidelines, called ESG Sector Norms (hereinafter referred to as the “Sector Norms”), which complement the risk appetite perspective and restrict participation in certain activities.
+Approved in 2018, the Sector Norms are updated annually to ensure alignment with sustainability trends, international regulation, best practices and the demands of our stakeholders. For example, in 2019 a new exclusion was introduced for oil sands projects because of their contribution to climate change. Important players such as the World Resources Institute (WRI) (a company specialized in environmental and global development studies) and Banktrack (the international network of civil society organizations dedicated to monitoring banks and the activities they finance) have recognized BBVA being among the five leading European banks in sustainable financing and as one of the most advanced in fossil fuels financingrelated policies.
+The effective application of the Sector Norms is based on the integration of their analysis in the ordinary processes of customers’ onboarding, admission of transactions and approval of new products. The Group’s areas of control review the application of the Sector Norms in accordance with established procedures.
+The framework of standards recognized by the Sector Norms includes the SDGs, the Paris Agreement, the Commitment to Human Rights and the recommendations of the Task Force on Climate-Related Financial Disclosures.
+
+
+BBVA Report on TCFD 2020 / pag. 39. 
+Equator Principles. 
+Energy, transport and social service infrastructures, which drive economic development and create jobs, can have an impact on the environment and society. BBVA’s commitment is to manage the financing of these projects to reduce and avoid negative impacts and enhance their economic, social and environmental value.
+All decisions to finance projects are based on the criterion of principle-based profitability. This implies meeting stakeholders expectations and the social demand for adaptation to climate change and respect for human rights.
+In line with this commitment, since 2004 BBVA has adhered to the Equator Principles (EP), which include a series of standards for managing environmental and social risk in project financing. The EPs were developed on the basis of the International Finance Corporation’s (IFC) Policy and Performance Standards on Social and Environmental Sustainability and the World Bank’s General Guidelines on Environment, Health and Safety. These principles have set the benchmark for responsible finance.
+The analysis of the projects consists of subjecting each operation to an environmental and social due diligence process, starting with the allocation of a category (A, B or C), which reflects the project’s level of risk. Reviewing the documentation provided by the customer and independent advisers is a way to assess compliance with the requirements established in the EPs, according to the project category. Financing agreements include the customer’s environmental and social obligations. The application of the EPs at BBVA is integrated into the internal processes for structuring, acceptance and monitoring of operations, and is subject to regular checks.
+
+
+BBVA Report on TCFD 2020 / pag. 40. 
+METRICS & TARGETS Mobilization metric. 
+Banks play a crucial role in combating climate change and achieving the SDGs through their unique position to mobilize capital through investments, loans, issuances and advisory functions. The concept of mobilization is a more inclusive approach than pure financing, by including sustainable value propositions beyond bank financing activity.
+Since the launch of the 2025 Pledge, in which BBVA commited to a mobilization of EUR 100,000 million between 2018 and 2025 (70% of which will be for green financing), BBVA has mobilized a total of EUR 40,082 billion in sustainable activities, distributed as (as of the first half of 2020):
+Section 05. 
+TABLE 05. 2025 Pledge, Mobilization. 
+Target (Mll EUR) Accumulated 2018-2019-june 2020 (Mll EUR) Achieved (%)
+Green finance 24,901. 
+Corporate green finance 11,602. 
+Brokered green bonds 5,205. 
+Loans linked to green indicators (KPI-linked) 3,698. 
+Certified fixed-purpose green loans 2,291. 
+Green project finance 2,000. 
+Green retail finance 105. 
+Social infrastructure and agrobusiness 4,509. 
+Corporate social finance 3,312. 
+Brokered social bonds 616. 
+Social infrastructure project finance 443. 
+Loans linked to social indicators (KPI-linked) 97. 
+Certified fixed-purpose social loans 40. 
+Social retail finance 1. 
+Financial inclusion and entrepreneurship 5,189. 
+Loans to vulnerable entrepreneurs 3,070. 
+Financial inclusion 1,420. 
+Loans to vulnerable women entrepreneurs 456. 
+Impact investment 243. 
+Other sustainable mobilization 5,483. 
+ESG-linked loans 1,600. 
+Socially responsible investment 1,349. 
+Loans linked to sustainable indicators (KPI-linked) 1,264. 
+Brokered sustainable bonds 1,070. 
+Sustainable structured deposits 200. 
+Total mobilized 100.000 40,082 40%
+
+
+BBVA Report on TCFD 2020 / pag. 41. 
+GREEN AND SOCIAL. 
+CORPORATE FINANCE. 
+In 2019, BBVA granted a total of EUR 5,880 billion in green and social corporate finance. This financing is based on the client classification set out by the Green Bond Principles and Social Bond Principles. The percentage of corporate finance of each client is calculated according to the proportion of their operations in line with these standards.
+SUSTAINABLE LOANS. 
+In 2019, the Bank granted a total of EUR 4,296 billion in Sustainable Loans, to which another 3,011 billion have been added in the first half of 2020 totaling EUR 8,990 billion mobilized since 2018. These loans include certified fixed-purpose loans, loans linked to environmental and social indicators (KPI-linked) and loans linked to the clients’ ESG rating (ESG-linked).
+TABLE 06. Green and social corporate finance (Mll EUR)
+Accumulated 2018-2019-2020 First half 2020 2019 2018. 
+Corporate green finance Corporate finance to clients with a percentage of their activity in sectors classified as green, according to the Green Bond Principles 11,602 2,515 4,379 4,708. 
+Corporate social finance Corporate finance to clients with a percentage of their activity in sectors classified as social, according to the Social Bond Principles: health, education, social assistance and social housing 3,312 783 1,501 1,028. 
+Total green and social corporate finance 14,914 3,298 5,880 5,736. 
+TABLE 07. Sustainable Loans (Mll EUR)
+Accumulated 2018-2019-2020 First half 2020 2019 2018. 
+Certified fixed-purpose green loans Loans in which the purpose of financing has positive environmental impacts, and which are certified by an accredited independent expert 2,291 213 394 1,684. 
+Certified fixed-purpose social loans Fixed-purpose loans in which the purpose of financing has positive social impacts, and which are certified by an accredited independent expert 40 40 -
+Loans linked to green indicators (KPI-linked) Loans in which the price is linked to the improvement of certain preset indicators of environmental performance by the client 3,698 1,011 2,687 -
+Loans linked to social indicators (KPI-linked) Loans linked to social indicators in which the loan’s price is linked to the improvement of preset indicators of social performance by the client 97 20 78 -
+Loans linked to sustainable indicators (KPI-linked) Loans in which the price is linked to the improvement of certain preset indicators of environmental and social performance by the client 1,264 1,264 --
+ESG-linked loans Loans in which the price is linked to the client’s overall sustainability performance, taking as reference the rating granted by an independent sustainability analysis agency 1,600 463 1,137 -
+Total sustainable loans 8,990 3,011 4,296 1,684
+
+
+BBVA Report on TCFD 2020 / pag. 42. 
+BBVA’s deals in 2019 and the first half of 2020 include: 2019. 
+GBP 1,3 Bn. 
+Sustainable coordinator 2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2020 2019. 
+EUR 675 Mn. 
+Sustainable agent 2019. 
+Sustainable agent 2019. 
+EUR 300 Mn EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+SSE PLC. 
+The largest producer of renewable energy in the UK and Ireland assigned BBVA the role of sustainable coordinator, in a syndicated revolving credit facility (RCF). This deal, amounting to 1.3 billion pounds (around EUR 1.5 billion), was the first sustainable finance transaction led by BBVA in the United Kingdom and was the first deal carried out under the new LMA (Loan Market Association) standards on “Sustainability Linked Loan Principles” (SLLPs), whereby the economic conditions of this credit facility are linked to the company’s ESG rating as well as its credit ratings.
+2019. 
+GBP 1,3 Bn. 
+Sustainable coordinator 2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2020 2019. 
+EUR 675 Mn. 
+Sustainable agent 2019. 
+Sustainable agent 2019. 
+EUR 300 Mn EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+ACCIONA. 
+BBVA acted as a sustainable agent in the company’s first sustainable syndicated loan for a total amount of EUR 675 million. It was one of the first finance transactions also governed by the SLLPs, incorporating interest rate adjustments according to the company’s performance in sustainability parameters.
+2019. 
+GBP 1,3 Bn. 
+Sustainable coordinator 2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2019. 
+EUR 675 Mn. 
+Sustainable agent 2019. 
+Sustainable agent 2019. 
+EUR 300 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+FIBRA UNO (FUNO)
+BBVA acted as the single sustainable agent of the first credit facility in sustainable RCF format signed in Latin America, amounting to 21,350 billion Mexican pesos. This was the first sustainable transaction of a real estate company in the region and the first syndicated transaction made under the SLLPs in Latin America. Its margin is linked to the company’s credit rating and the performance of an environmental indicator: the intensity of power consumption of managed assets expressed in kWh per m2 occupied.
+
+
+BBVA Report on TCFD 2020 / pag. 43 2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2020 able t 2019. 
+EUR 300 Mn. 
+EUR 80 Mn 2020. 
+EUR 15,7 Mn ble ator ent Estructurador sostenible Sustainable structuring agent 2020. 
+EUR 40 Mn 5 Mn. 
+EDF. 
+BBVA and EDF signed a EUR 300 million revolving credit facility that incorporates a price adjustment based on the company’s performance in sustainability aspects. In particular, this credit facility links the margin to three sustainability KPIs for EDF: direct CO2 emissions; customer use of consumption control online tools; and electrification of the corporate fleet of vehicles.
+2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2020 2019. 
+EUR 675 Mn. 
+Sustainable agent 2019. 
+Sustainable agent 2019. 
+EUR 300 Mn EUR 80 Mn e
+2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+COFCO INTERNATIONAL. 
+BBVA had its first experience as a sustainable coordinator in Asia with COFCO International (agribusiness sector) in the first syndicated sustainable finance transaction of a Chinese corporate client amounting to USD 2.1 billion and in which conditions are subject to the company’s ESG rating and soybean traceability in Brazil.
+2019. 
+GBP 1,3 Bn. 
+Sustainable coordinator 2019. 
+USD 2.500 Mn. 
+Sustainable coordinator 2020 2019. 
+EUR 675 Mn. 
+Sustainable agent 2019. 
+Sustainable agent 2019. 
+EUR 300 Mn. 
+EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+ACERINOX5. 
+BBVA and Acerinox signed an agreement for the first sustainable loan in the steel sector in Spain, for EUR 80 million. The deal links financial costs to two KPIs: one environmental, where the main firm in the sector is committed to reducing its direct and indirect emissions; and another governance related, in which they commit to reduce their workplace accidents. A deal that demonstrates how the Bank follows clients in their transition to a more sustainable model.
+5. Not included in the above figures, which include deals from the first half of 2020.
+
+
+BBVA Report on TCFD 2020 / pag. 44. 
+GBP 1,3 Bn. 
+Sustainable coordinator. 
+USD 2.500 Mn. 
+Sustainable coordinator. 
+EUR 675 Mn. 
+Sustainable agent. 
+Sustainable agent. 
+EUR 300 Mn EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+ENBW. 
+Amounting to EUR 1.5 billion, this deal was the first sustainable finance transaction closed since the COVID-19 crisis began, where BBVA acts as the sole sustainable coordinator, and in which the economic conditions are linked to the performance of three sustainability indicators for the company (two environmental and one social), in addition to the company’s credit rating.
+GBP 1,3 Bn. 
+Sustainable coordinator. 
+USD 2.500 Mn. 
+Sustainable coordinator. 
+EUR 675 Mn. 
+Sustainable agent. 
+Sustainable agent. 
+EUR 300 Mn EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent. 
+Estructurador sostenible Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+GMP. 
+Fixed-purpose green loan amounting to EUR 525 million, linked to the GLPs (Green Loan Principles), where BBVA acted as coordinator and sustainable agent.
+GBP 1,3 Bn. 
+Sustainable coordinator. 
+USD 2.500 Mn. 
+Sustainable coordinator. 
+EUR 675 Mn. 
+Sustainable agent. 
+Sustainable agent. 
+EUR 300 Mn EUR 80 Mn 2020. 
+EUR 1,5 Bn Sole sustainable coordinator 2020. 
+EUR 15,7 Mn 2020. 
+MXN 2.200 Mn Sustainable coordinator and agent. 
+Sustainable coordinator and agent Estructurador sostenible. 
+Sustainable structuring agent 2020 2020. 
+EUR 40 Mn EUR 525 Mn. 
+BORGES. 
+This food company assigned BBVA the role of sustainable structuring agent in its bilateral loan amounting to EUR 15.7 million, which incorporates a price adjustment based on the reduction of hexane hydrocarbon consumption for the extraction of seed oil, and the reduction of diesel use for heating.
+
+
+BBVA Report on TCFD 2020 / pag. 45. 
+Other clients such as GESTAMP, REDEXIS, GRUPO PIÑERO or MELIÁ continued to rely on BBVA to incorporate sustainability criteria into their bank financing, where BBVA acted as a sustainable coordinator/structuring agent. All of them were characterized by the use of an ESG score as a sustainability mechanism, issued by an independent consultant such as Vigeo-Eiris for the first three and RobecoSAM for Meliá.
+BBVA participated in the first sustainable deals guaranteed by ICO in Spain, in particular those led by BBVA as sustainable coordinator/structuring agent, such as Intermás and Grupo Piñero. BBVA also participated in the ICO guaranteed sustainable syndicated loan in favour of El Corte Inglés.
+INTERMÁS. 
+ICO guaranteed syndicated financing deal, where BBVA acted as the sole coordinator and sustainable agent, and whose margin varies depending on the performance of the company’s ESG score issued by independent consultant.
+GRUPO PIÑERO. 
+Two first ICO guaranteed sustainable bilateral loans, with BBVA acting as a sustainable structuring agent.
+SUSTAINABLE PROJECTS. 
+In 2019, the Bank financed sustainable projects totaling EUR 1,142 billion, mainly in the renewable energy sector. During 2020, this figure increased by EUR 479 million, reaching EUR 2,443 billion since 2018.
+Deals in the year include the financing of three wind farms in Italy, eleven in Spain and France’s first offshore wind farm.
+During the first half of 2020, BBVA has continued to maintain its sustainable project finance operations, participating in a total of 11 new origination deals totaling EUR 5.4 billion. Our activity in the following sectors is particularly relevant:
+Green projects: BBVA is one of the world’s leading banks in sustainable finance for renewable projects6. In the first part of 2020, we continued our financing operations with a total of four closed deals, two of which are particularly remarkable:
+KINCARDINE: Financing for the construction and operation of a 50MW wind farm located in Scotland in which the sponsor is Cobra (ACS Group) and where BBVA has participated as one of the three leading banks. Kincardine is one of the world’s first offshore floating wind farms and is a sign of BBVA’s support for new sustainable technologies.
+TABLE 08. Sustainable projects (Mll EUR)
+Accumulated 2018-2019-2020 First half 2020 2019 2018. 
+Green project finance Project finance in renewable energy activities, waste and water management, sustainable transportation, and energy efficiency 2,000 235 1,120 645. 
+Social infrastructure project finance Financing of infrastructure projects with special social impact 443 244 22 177. 
+Total sustainable project finance 2,443 479 1,142 822 6. Best bank in Spain for sustainable finance by Capital Finance International. LATAM’s best bank in sustainable finance by Euromoney.
+
+
+BBVA Report on TCFD 2020 / pag. 46. 
+MONEGROS7: Financing of a portfolio of wind projects in Spain with 487MW of capacity, purchased by the Danish fund Copenhagen Infrastructure Partners. BBVA acts as the only structuring bank, holding all the leadership roles in the transaction, including that of Green Loan Coordinator. In addition, Monegros is one of the largest investments in renewable assets in Europe and is the largest renewable energy project arranged with a PPA in the Iberian Peninsula to date. When the project enters into operation, it is expected to generate more than 1.5 TWh of renewable energy per year, sufficient to meet the electricity demand of 430,000 households in Spain.
+Social projects: BBVA is particularly active in financing telecommunications projects; it acted as a leading bank in the financing of three deals in this sector in the last 6 months. BBVA is focusing on increasing its activity in telecommunications infrastructures, given the social importance they have as facilitators of access to new technologies (“narrowing the digital divide”), digitization and contribution to economic development:
+ADAMO: Acquisition by the Swedish fund EQT of the fastest growing independent fiber supplier in Spain, whose main focus is rural communities.
+SAINT MALO: Financing the Joint Venture composed of Cellnex and Bouygues for the construction of a fiber optic network in France.
+JOINDER: Acquisition of Portugal’s largest fiber network (which serves nearly 4 million households) by a subsidiary of Morgan Stanley Infrastructure.
+ASTERIX: Financing to the JV composed of Vauban and Bouygues dedicated to coinvesting in the fiber optic network in the moderately dense areas of France.
+7. Not included in the above figures, which include deals from the first half of 2020.
+
+
+BBVA Report on TCFD 2020 / pag. 47. 
+BROKERED GREEN, SOCIAL AND. 
+SUSTAINABLE BONDS. 
+In 2019, BBVA was the coordinator of 30 green, social and sustainable bond issuances, generating a total volume of EUR 3,383 million. In 2020 BBVA has added a further EUR 2,056 million to the portfolio bringing the total since 2018 to EUR 6,891 million.
+Some were pioneering transactions, such as the world’s first green bond by a telecom and the first structured green bond using blockchain technology. These deals have positioned BBVA as the ninth bank by volume placed of green bonds in euros8.
+TABLE 09. Brokered green, social and sustainable bonds (Mll EUR)
+Accumulated 2018-2019-2020 First half 2020 2019 2018. 
+Brokered green bonds Bonds issued by companies that channel funds to finance projects with positive environmental impact and in which the Bank plays a bookrunner role 5,205 1,264 2,886 1,055. 
+Brokered social bonds Issued by companies that channel funds to finance projects with positive social impact and in which the Bank plays a bookrunner role 616 219 -397. 
+Brokered sustainable bonds Issued by companies that channel funds to finance projects with positive social and environmental impact and in which the Bank plays a bookrunner role 1,070 573 497 -
+Total sustainable bonds 6,891 2,056 3,383 1,452. 
+The most prominent deals in the PRIVATE SECTOR were:
+The first issuance of EUR 1 billion by Telefónica, the first by a company in the telecommunications sector.
+ESB’s green bond of EUR 500 million, the first by a corporate issuer in Ireland.
+The first green issuance by a hotel group, Pestana Group, amounting to EUR 60 million.
+Two green bond issuances of EUR 1 and 1.5 billion by energy company Engie.
+The first issuance of a green bond by La Banque Postale for EUR 750 million.
+And in the PUBLIC SECTOR:
+The issuance of sustainable bonds by the regional government of Navarra amounting to EUR 50 million.
+The issuance of a sustainable bond by the Basque regional government amounting to EUR 600 million.
+The issuance of a sustainable bond by ADIF amounting to EUR 600 million.
+8. Source: Ranking of green bonds of corporate issuers in euro currency: Dealogic as of December 31, 2019.
+
+
+BBVA Report on TCFD 2020 / pag. 48. 
+BBVA’S ISSUANCES OF GREEN, SOCIAL. 
+AND SUSTAINABLE BONDS. 
+With regard to the bonds issued by the Group, the Bank published in 2019 the first follow-up report on its inaugural green bond, issued in 2018 for EUR 1 billion, which helped to reduce the carbon footprint by about 275,000 tons of CO2 and to generate 558 gigawatts/hour of renewable electricity, through the financing of renewable energy and sustainable transportation projects. The second report, published in 2020, referenced environmental impacts to projects financed by green bonds issued by BBVA in 2018 and 2019, which have prevented more than 724,000 tons of CO2 from being emitted into the atmosphere in 2019, almost three times that of the previous year.
+Additionally, the sectoral distribution of the funds raised by the Bank’s green issuances extended to new sectors, such as energy efficiency, water and waste management, in addition to renewable energy and sustainable transportation.
+These issuances have positioned BBVA as the fifth private bank in volume of issuances9.
+SOCIALLY RESPONSIBLE INVESTMENT. 
+As refers to socially responsible investment, in 2019, EUR 1.077 billion was raised through sustainable funds. As of June 2020, despite the COVID-19 pandemic, the fund-raising figure was an additional EUR 327 million.
+FINANCIAL INCLUSION AND. 
+ENTREPRENEURSHIP. 
+BBVA believes that greater financial inclusion has a favorable impact on the welfare and sustained economic growth of countries. The fight against financial exclusion is therefore consistent with BBVA’s ethical and social commitment, as well as its medium-term and long-term business objectives. At the end of 2019, BBVA had 10 million customers in this segment.
+SUSTAINABLE RETAIL FINANCE. 
+In Spain, business credit facilities are already being offered for the purchase of hybrid and electric vehicles, the installation of renewable energy and the improvement of energy efficiency in buildings. Since 2019, the catalog of available sustainable solutions has been expanded, both in mobility and energy efficiency. A specific credit facility was launched for SMEs to replace their fleet of vehicles with plug-in electric or hybrid models. As for housing, loans to real estate developers were launched specifically for developments with high energy certifications, with the new obligation that retail customers who purchase these properties will be able to benefit from a bonus in the mortgage’s interest rate.
+TABLE 10. Green and social retail finance (Mll EUR)
+Accumulated 2018-2019-2020 First half 2020 2019 2018. 
+Green retail finance Green finance for retail customers related to any of the categories mentioned above 105 25 45 34. 
+Social retail finance Social finance for retail customers related to any of the categories mentioned above 1 1 --
+Total sustainable retail finance 106 26 45 34 9. Source: Ranking of green bonds of corporate issuers in euro currency: Dealogic as of December 31, 2019.
+
+
+BBVA Report on TCFD 2020 / pag. 49. 
+In other geographies, Turkey is offering green mortgages, marketed under an agreement with the International Finance Corporation (IFC), and credit facilities for electric and hybrid vehicles.
+In México progress was made in sustainabilityrelated equipment leasing, with an agreement with the IFC to enhance this product in 2019. Individuals are also offered products for financing low-emission cars, insurance for these vehicles and mortgages for high energy-rated homes.
+Perú is also committed to increasing mortgage supply for high energy-rated properties. Currently, it offers “Mi vivienda verde,” a statesubsidized mortgage loan for the purchase of a property certified as a green project that includes sustainability criteria in its design and construction.
+In addition to consumer loans aimed at improving the energy efficiency of properties, Argentina is focusing on promoting electric mobility by offering different financing products for cars, bicycles and electric scooters.
+In the United States in 2019, the Bank invoiced 12 million for the sale of 526 hybrid/electric vehicles through dealer agreements.
+
+
+BBVA Report on TCFD 2020 / pag. 50. 
+Measuring indirect impacts. 
+For the purpose of comparability of portfolio exposures to carbon economy sectors, the TCFD proposes a definition of carbon-related activities as those linked to the energy and utilities sectors, excluding water distribution utilities and renewable generation. Following this criterion, BBVA’s carbon-related exposure accounts for 10.7% of the wholesale lending portfolio which as of June 2020 amounts to EUR 237.4 billion.
+CHART 10. Carbon-related activities 
+5,8% 4,8% 0,1%
+Energy Utilities Coal Mining. 
+Source: BBVA internal calculations. Includes the % of EAD of the “carbon related” activities as defined by TCFD for the wholesale portfolio as of 30 June 2020 (not included Paraguay, Uruguay and Venezuela; Turkey with data at 31 December 2019). The “carbon related” portfolio includes energy and fossil fuel generation (energy, utilities -excluding renewable generation and water and waste treatment- coal mining).
+The utility sector is especially relevant for BBVA. BBVA uses emission intensity per Kw/h produced to track the sector, as this indicator is key to improving efficiency and reduce emissions.
+CHART 11. Utilities clients and emissions Note: Data obtained from clients’ annual reports. The sample is a turnover-weighted average for 77% of BBVA’s exposure excluding Turkey.
+2019 334 g CO₂ / kWh. 
+BBVA World IEA Sustainable Development Scenario 291 g CO₂ / kWh 491 g CO₂ / kWh 340 g CO₂ / kWh 220 g CO₂ / kWh 80 g CO₂ / kWh 2019 2017 2017 2040 2030
+
+
+BBVA Report on TCFD 2020 / pag. 51. 
+Portfolio alignment. 
+BBVA’s commitment to alignment involves establishing a framework composed of objectives and commitments established over the next 20 years, for the different sectors within the methodology chosen.
+To set these objectives the methodology establishes sectoral indicators, identifies the scenarios of climate change against which to compare, makes an analysis of the portfolio of each financial institution, compares the portfolio with external databases and analyzes clients with the possibility of carrying out an active dialog process (“engagement’) with them.
+One of the methodology’s characteristics is that it provides for the creation of sector-specific indicators. Each bank is committed to setting its own objectives for these indicators and ensuring they are monitored.
+The following is the detail of the metrics chosen by BBVA to measure the alignment of these sectors within the framework of the Katowice group:
+TABLE 11. Portfolio alignment. 
+Sector Sector Scope Metric. 
+Emissions. 
+Scope. 
+Energy. 
+Fossil Fuels (FF)
+Upstream Emission intensity (KgCO2/BOE)10 1&2&3. 
+Upstream + Total power generation Energy financing mix -
+Utilities Power Generation. 
+Emission intensity (gCO2/kWh) 1&2. 
+Technology mix -
+Automotive Car manufacturers. 
+Emission intensity KgCO2/v-km 3. 
+Mix EV/PHEV/combustion. 
+Steel Steel manufacturers Emission intensity KgCO2/Tonne Steel 1&2. 
+Cement. 
+Cement manufacturers Emission intensity KgCO2/Tonne Cement 1&2. 
+Marine transportation Owners & Operators Emission intensity KgCO2/Nautical Mile 1&2 10. BOE: Barrel of Oil Equivalent.
+
+
+BBVA Report on TCFD 2020 / pag. 52. 
+Direct impacts (scope 1 & 2)
+BBVA has the commitment to reduce the direct environmental impacts of its operations. In 2019, BBVA continued to work to reduce its environmental footprint through the Global EcoEfficiency Plan (GEP). This Plan sets out the following global vectors and targets for 2016-2020:
+TABLE 12. Targets for reducing environmental footprint. 
+Vector Strategic line Target 2020 %
+Status 2019 %
+Environmental management and sustainable construction % people in certified buildings 46% 49%
+Energy and climate change. 
+Consumption per person (kWh/person) -5% -14% % renewable energy 48% 39%(1)
+CO2e emissions per person (tCO2 eq/person) -8% -22%
+Water. 
+Consumption per person (m3/person) -5% -27% % of people in properties with alternative water sources 9% 15%
+Paper and waste. 
+Consumption per person (kg/person) -5% -33% % of people in properties with sorted waste collection 30% 46%
+Extended commitment Awareness campaigns and suppliers (2) (1) As of June 2020 this indicator is 57% thus it has been accomplished (2) The initiatives carried out under this target among others will be: - Developing a training plan in Campus (internal training tool) - BBVA without plastics to generate awareness among employees and catering suppliers - Initiatives, such as, the sustainability week. 
+BBVA was also the first Spanish bank to join the Science-Based Targets initiative, which aims to ensure that participating companies set greenhouse gas emission reduction targets aligned with the level of decarbonization needed to keep the global temperature rise well below 2ºC above pre-industrial levels, as established by the Paris Agreement.
+Alongside these commitments, BBVA announced, within the framework of the UN Climate Change Conference (COP25) held in Madrid in December 2019, the incorporation of an internal CO2 emissions price with the aim of becoming carbon neutral from 2020, by offsetting its residual emissions with CO2 capture projects and generating a positive impact on the local communities.
+In 2019, the Group’s environmental footprint showed very positive progress compared to the previous year, with reductions of 8% in CO2 emissions (according to the market-based method), 5% in electricity use, 23% in water use and 19% in paper use (all per person). The percentage of renewable energy use has remained at 39%. People working in environmentally certified buildings reached 49% at the end of the year.
+
+
+BBVA Report on TCFD 2020 / pag. 53. 
+These targets are in line with those set out in the 2025 Pledge: 68% reduction in CO2 emissions of scope 1 and 2; and 70% of renewable energy contracted in 2025, and 100% by 2030. In line with the latter objective, BBVA adheres to the RE100 initiative, through which the world’s most influential companies commit to 100% renewable energy by 2050.
+CHART 12. Pledge 2025, status of direct impact goals. 
+The measures taken by BBVA to reduce its environmental footprint in 2019 were:
+Environmental management in buildings: 1,026 branches and 78 corporate buildings have certified Environmental Management Systems under ISO 14.001:2015 in Argentina, Colombia, Spain, Peru, Uruguay, Mexico and Turkey. In addition, 15 buildings in Spain and Peru have their Energy Management System certified under ISO 50.001:2018. 22 Group buildings and 9 branches have the prestigious LEED certification of sustainable construction, including the Bank’s main headquarters in Spain, Mexico, the United States, Argentina and Turkey. This year, 12 buildings and 2 branches have received Energy Star certification in the United States under a U.S. Environmental Protection Agency program created in 1992 to promote efficient electricity use, thereby reducing greenhouse gas emissions.
+Energy and climate change: 100% of the energy consumed in Spain and Portugal is of renewable origin and in Colombia, Mexico and the United States it already reaches 17%, 23% and 34%, respectively. Also, in 2019, construction began on a wind farm that since January 2020 has supplied 30% of the Bank’s energy used in Spain, under the long-term power purchase agreement (PPA) signed in 2018. In Mexico, this type of agreement was also signed for the supply of 65% of its energy use. And in Turkey, from 2020 on, all electricity will come from renewable sources, thus contributing to the established targets. Several countries such as Turkey, Uruguay and Spain also opted for the self-generation of renewable energy in their buildings, through the installation of photovoltaic and thermal solar panels. Finally, the Group maintains its ongoing effort to implement energy-saving measures (ESMs) in its buildings. It is also worth mentioning the time adjustments made with respect to the occupation or use of natural light in the facilities.
+
+
+BBVA Report on TCFD 2020 / pag. 54. 
+Water: Fresh water is one of the limited natural resources most compromised by climate change and, to reduce our impact, the Group has carried out initiatives in Spain and Mexico, such as modifying certain facilities in corporate headquarters, saving 25,000 m3 in water, or replacing the faucets with more efficient models that control and regulate flow.
+Paper and waste: the #BBVAsinplástico project (https://www.bbva.com/es/el-plasticouna-especie-en-extincion-en-bbva/) was launched with the aim of eliminating most single-use plastics in corporate headquarters, replaced by biodegradable materials. Plastic bottles from catering services were also replaced with purified water sources and digital soft drink stations in several buildings in Spain. These measures help reduce the use of more than 500,000 plastic bottles per year11.
+Awareness campaigns: As in previous years, BBVA joined the “Earth Hour” initiative, during which 114 buildings and 183 Bank branches in 113 cities in Spain, Portugal, Mexico, Colombia, Argentina, Turkey, Peru, Uruguay and the United States turned off their lights to support the fight against climate change. In addition, a large number of employee awareness-raising activities were carried out in several countries during World Environment Day.
+TABLE 13. Environmental footprint (BBVA group) 2019 2018 (6)
+Resource consumption. 
+Water (cubic meters) 2,061,431 2,696,274. 
+Paper (tons) 5,747 7,114. 
+Power (megawatt-hours)(1) 855,938 898,265. 
+CO2 emissions. 
+Scope 1 emissions (tons CO2e)(2) 16,899 17,781. 
+Scope 2 emissions (tons CO2e) método market-based(3) 195,590 209,362. 
+Scope 2 emissions (tons CO2e) método location-based(4) 297,920 307,827. 
+Scope 3 emissions (tons CO2e)(5) 56,699 65,289. 
+Waste. 
+Hazardous waste (tons) 168 99. 
+Non-hazardous waste (tons) 5,054 6,010 (1) Includes the use of electricity and fossil fuels (diesel, natural gas and LP gas), except fuels consumed in fleets, (2) Emissions from direct energy use (fossil fuels) and calculated based on 2006 IPCC Guidelines for National Greenhouse Gas Inventories emission factors. The IPCC Fifth Assessment Report and IEA have been used as a source for conversion to CO2. (3) Emissions derived from electricity use and calculated based on the latest available IEA emission factors for each country. (4) Emissions derived from electricity use and calculated on the basis of contractual data and, if not, the latest available IEA emission factors for each country. (5) Emissions from air travel and trips of central service employees to the workplace using DEFRA 2017 factors. Emissions from employee journeys to the workplace were first calculated in 2017 based on surveys conducted on a sample of employees and extrapolating the data to the total number of employees in central services. These emissions are not accounted for for the purposes of the Global Eco-Efficiency Plan.
+(6) The data has been updated with respect to the information in previous reports due to post-closing adjustments in 2018 and the removal of Paraguay and Venezuela from eco-efficiency data.
+11. According to study carried out by utilities company for BBVA headquarters in Madrid.
+
+
+BBVA Report on TCFD 2020 / pag. 55. 
+Banks are of key importance as finance providers for all sectors involved in this change and BBVA wants to play a forward-looking and leading role.
+For BBVA, sustainability is a strategic priority, helping clients in their transition to a sustainable future in environmental and social terms. The Bank is internalizing sustainability risks and opportunities, both in client transactions and in the direct impacts of its operations.
+“We wish to help our clients transition toward a sustainable future”
+BBVA’s commitment to sustainability has a long history, beginning with its adherence to the United Nations Global Compact in 2002. The Bank has played a differential and leading role in defining a new, more sustainable banking model. In line with this in 2020 BBVA has strengthened its sustainability strategy, by making it one of its strategic priorities. This entails minimizing risks while maximizing any opportunities thay may arise.
+By publishing this Report in line with TCFD recommendations, BBVA is taking an additional step and evidencing its commitment to transparency. Additionally, BBVA also commits to continue to publish the Group´s progress in sustainability.
+CONCLUSIONS. 
+Section 06
+
+
+BBVA Report on TCFD 2020 / pag. 56. 
+GLOSSARY. 
+BIST Istanbul Stock Exchange (Borsa Ístanbul)
+CIB Corporate Investment Banking. 
+EAD Exposure at Default. 
+EBA European Banking Authority. 
+EBF European Banking Federation. 
+ESG Environmental, Social & Governance. 
+FIRA Trusts established in relation to agriculture (Mexico)
+IEA International Energy Agency. 
+IFC or CFI International Finance Corporation. 
+IPCC Intergovernmental Panel on Climate Change. 
+SRI Socially Responsible Investment. 
+Forward-Looking Statements This report contains forward-looking statements that constitute forward-forward projections within the meaning of article 27A of the Securities Act 1933, as amended (the “Securities Act”), article 21E of the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the safeguard provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may include words such as “believe,” “expect,” “estimate,” “project,” “anticipate,” “duty,” “intend,” “likelihood,” “risk,” “VaR,” “purpose,” “goal,” “target,” and similar expressions or variations of those expressions, and include statements regarding future growth rates. Forward-looking statements are not guarantees of future results and involve risks and uncertainties, and actual results may differ materially from those of forward-looking statements due to various factors.
+Readers are cautioned not to place undue reliance on such statements, which speak only as of the date of this document. No obligation is assumed to make public the outcome of any revision of these forward-looking statements that may be made to reflect events or circumstances after the date of this document, including but not limited to changes in the business, procurement strategy, expected capital expenditures, or to reflect the occurrence of unforeseen events.
+LGD Loss given default. 
+LTV Loan to value. 
+ESMs Energy-saving measures. 
+SDGs Sustainable Development Goals. 
+PACTA Paris Agreement Capital Transition Assessment. 
+PD Probability of default. 
+GEP Global Eco-Efficiency Plan. 
+PPA Power Purchase Agreement. 
+SDS Sustainable development scenario. 
+TCFD Task force on climate-related Financial Disclosures. 
+UNEP FI United Nations Environment Program for Finance Institution

@@ -1,0 +1,397 @@
+Macquarie and climate change. 
+TCFD implementation progress and scenario analysis. 
+July 2021 macquarie.com/ESG
+
+
+Macquarie continues to support the important work of the Task Force on Climate-related Financial Disclosures (TCFD) and is actively implementing its recommendations.
+This report builds on previous disclosures and provides details on our approach to understanding and managing climate-related risks. This includes our strategy, risk management and governance practices, and the scenario analysis that we have completed over the years.
+Willis Towers Watson have supported Macquarie in the climate scenario analysis activities undertaken this year.
+We will continue to monitor developments, engage with stakeholders and evolve our approach to identifying and managing climate-related risks and opportunities.
+About this report
+
+
+C O N T E N T S 01 04 06. 
+Macquarie and climate change. 
+Climate change governance. 
+Climate strategy and risk management 10 12 24. 
+TCFD implementation summary. 
+Scenarios analysis. 
+Metrics and targets
+
+
+Driving practical solutions to climate challenges and the decarbonisation of the global economy. 
+The financial sector has a critical role to play, alongside government, businesses, investors and the community, to support the transition to global net zero emissions and climate-resilient economies and communities. As a global financial services provider, with the purpose of empowering people to innovate and invest for a better future, we are committed to using our expertise in infrastructure, transportation, agriculture, renewable energy, clean technology and environmental markets to connect global capital to opportunities that support this transition.
+In 2021 Macquarie Group made a commitment to net zero emissions. This means that we are now working across the Group to reach net zero emissions for our operations by 2025; Green Investment Group’s (GIG) renewables investments by 2030; our managed asset portfolio by 2040; and aligning other Group financing activity with the global goal of net zero by 2050.
+1
+
+
+For almost two decades we have worked with governments and clients to drive the energy transition and advance practical solutions to climate challenges.
+We have built market leading capabilities in investing directly into climate mitigation and adaptation infrastructure and in supporting our clients and portfolio companies to decarbonise their activities. We anticipate that our businesses will continue to adapt and adjust as we seek opportunities to work with clients and support the decarbonisation of the global economy.
+Macquarie continues to support the important work of the Task Force on Climate-related Financial Disclosures (TCFD) and is actively implementing its recommendations based on the four key pillars: governance; strategy; risk management; metrics and targets, as outlined in the TCFD Implementation Summary table on page 11.
+Building on the physical and transition risk heat mapping undertaken in FY2020 for our lending and equity portfolios under 1.5°C and 3–4°C scenarios, we continued to refine our understanding of the potential vulnerabilities to climate change risks for Macquarie. Our FY2021 activities focused on better understanding the physical climate risk impacts (chronic and acute) to our infrastructure equity investments in the utilities, oil and gas sectors. We also completed an assessment of the operational resilience of our business operations to physical climate risks. The analysis of our strategic business locations will support long-term business continuity and resilience planning.
+Each year we have expanded our understanding of climate scenario analysis, evolving our approach to support future integration into our existing stress testing activities.
+We anticipate that our businesses will continue to adapt and adjust as we seek opportunities to work with clients and support the decarbonisation of the global economy.” “
+Macquarie and climate change | 2
+
+
+Our climate journey. 
+Macquarie and climate change | 3 2005 First investments in onshore wind, hydro, biomass and biogas 2008 First investments in solar 2010 First investments in offshore wind 2015 MAM signed UNPRI. 
+Carbon neutral since 2010 2017 Green Investment Bank acquisition 2017 First investments in geothermal 2018 First investments in battery storage 2018 First green loan 2019 Backing new technologies (hydrogen, EV infrastructure, battery storage) 2021 Group net zero commitment 2018 Joined the Global Commission on Adaptation and the Climate Finance Leadership Initiative 2019 2°C transition risk scenario analysis 2020 First standalone TCFD report 2020 1.5°C and 3-4°C physical and transition risk heat mapping and scenario analysis 2020 MAM net zero commitment 2021. 
+GIG net zero commitment 2019 100% renewable energy commitment by 2025 2010 CDP signatory 2012 First investments in low emissions precision agriculture
+
+
+Climate change governance. 
+Macquarie’s Board is responsible for approving Macquarie’s risk management framework which includes the environmental, social and governance (ESG) framework and key ESG policies.
+4
+
+
+The Board Governance and Compliance Committee (BGCC), through its Charter, assists the Board by overseeing and monitoring the effectiveness of the ESG framework including the approach to and management of climate-related risks.
+Climate change governance | 5. 
+Macquarie’s Chief Risk Officer (CRO) is responsible for embedding climate change risks into the risk management framework. Macquarie’s Environmental and Social Risk (ESR) team, which reports to the CRO, facilitates the assessment of climate-related risks. In doing so, the ESR team works with specialist teams within Macquarie’s broader Risk Management Group and businesses. Senior Management (through our Management Committees) and the BGCC receive reports, at least on a six-monthly basis, on a range of ESG-related matters including climate-related risks and opportunities. A climate risk steering committee, that is led by the Regulatory Affairs & Aggregate Risk (RAAR) team and reports to the CRO, oversees our approach to climate scenario analysis and comprises representatives from our businesses, risk management and corporate operations groups.
+Macquarie’s internal Global Green Committee, reporting to Senior Management, with representatives from across our businesses, promotes and coordinates business development opportunities related to the low carbon economy. Macquarie's four operating groups are engaged in activities to support clients and customers in managing the energy transition and adapting to climate change. This includes Macquarie’s Green Investment Group (GIG), which specialises in green infrastructure development and financing across the capital structure and is dedicated to accelerating the green transition.
+
+
+Climate strategy and risk management. 
+Macquarie is committed to playing a leading role in driving the global transition to net zero. We are using our deep expertise in energy, infrastructure, transportation, agriculture, technology and commodities and working with clients to create practical solutions to decarbonisation challenges.
+6
+
+
+Climate strategy. 
+Macquarie is committed to reaching net zero operational emissions1 by 2025 and aligning our financing activity with the global goal of net zero emissions by 2050. Additionally, GIG also committed to achieving net zero emissions from financing activities associated with renewable energy generation projects by 2030. Macquarie Asset Management (MAM) has committed to invest and manage its portfolio in line with global net zero by 2040. This is consistent with our purpose of ‘Empowering people to innovate and invest for a better future’. We are strengthening our commitment on climate in four key areas: • strengthening our support for clients and portfolio companies to manage the transition to net zero and achieve their decarbonisation ambitions • increasing our investment in climate mitigation and adaptation solutions • aligning the emissions of our financing activities with the objective of enabling and accelerating the world’s pathway to net zero by 2050. As part of this commitment, we will measure and set interim and long-term science-based emissions targets for our financing activities, prioritising our efforts on clients and partners in high emission sectors and the role that Macquarie will play in accelerating their pathways to net zero • continuing to reduce the emissions of our own business operations to reach net zero operational emissions by 2025, including targets to reduce energy use and meet all of our operational needs from renewable sources.
+We will outline more detail in each of these four areas by publishing a Macquarie Net Zero Plan by the end of 2022, and annual progress reports thereafter.
+1 Operational emissions include scope 1 and scope 2 emissions, and emissions from business travel as defined in the FY21 Independent Limited Assurance Report.
+Macquarie is committed to reaching net zero operational emissions by 2025 and aligning our financing activity with the global goal of net zero emissions by 2050.” “
+Climate strategy and risk management | 7. 
+Our capabilities. 
+Macquarie believes that private capital is critical to delivering the scale of response necessary to counter the challenges of climate change and continues to apply its resources and expertise to support the mobilisation of capital to meet this need.
+We're driving the green transition through practical climate solutions.
+1. Developing and investing in green energy 2. Creating climate resilient infrastructure 3. Enabling the decarbonisation of clients and portfolio companies. 
+Driving the transition to net zero. 
+Our capabilities. 
+June 2021. 
+Ecoppia’s robotic waterless cleaning technology at UK Climate Investments’ Bhadla Solar Park, India. 
+READ MORE
+
+
+Risk management. 
+Consistent with its strong risk management focus, Macquarie considers climate change and future carbon constraints within the existing risk management framework. The group-wide Environmental and Social Risk policy provides a robust process for embedding environmental and social risk management into investment decision making.
+Climate-related risks are considered through the assessment of changes to laws and regulations; technology developments and disruptions; physical and reputational risks; and the evaluation of adaptation and mitigation measures for transactions and counterparties in exposed industry sectors. Matters with material environmental and social risks, including climate change risks, may be escalated to the Chief Risk Officer, Executive Committee or Macquarie Board.
+Macquarie regularly conducts sector-specific credit portfolio analysis, monitoring credit concentration by counterparty, country, risk type, industry and credit quality. Building on this credit portfolio analysis, Macquarie has evolved methodologies to incorporate the assessment of climate-related risks for carbon intensive sectors using climate vulnerability indices to assist in identifying potential risk concentrations across regions. We will continue to refine this analysis and seek to extend it to other industry sectors, where relevant.
+The diversity of our operations combined with a strong capital position and robust risk management framework are important factors in our ability to adapt to changing conditions.” “
+Climate strategy and risk management | 8
+
+
+Advocacy and engagement. 
+Macquarie continues to support global efforts to better understand the impact of climate change on society, our clients, our business and the environment. This involves a diverse range of activity including engaging clients and assets; research projects into areas such as reducing agricultural emissions with the Commonwealth Scientific and Industrial Research Organisation (CSIRO); active engagement in initiatives like the Task Force on Climate-related Financial Disclosures (TCFD); and collaborating with other financial institutions through the Climate Finance Leadership Initiative (CFLI), Sustainable Markets Initiative (SMI) and the Global Commission on Adaptation (GCA).
+Throughout FY2021 Macquarie took part in a range of global and national initiatives including: the Global Adaptation Summit, the Australian Government’s Technology Investment Roadmap, and the launch of the UK Government’s ten-point plan for a green industrial revolution.
+Through these and other engagements, Macquarie is working to pursue opportunities to advance mitigation and adaptation solutions and improve our understanding of the risks associated with climate change.
+More broadly, our industry experts continue to work with governments, nongovernment organisations and industry groups to build international capacity in the green finance sector and promote confidence among investors to finance green assets. Globally, last year, we took an active role in over 120 industry initiatives and conferences, and advisory groups establishing common international standards for Sustainable Finance.
+Macquarie is working to pursue opportunities to advance mitigation and adaptation solutions and improve our understanding of the risks associated with climate change” “ 9
+
+
+TCFD implementation summary. 
+The TCFD implementation summary table sets out Macquarie's progress on implementing the four pillars of the TCFD recommendations: governance, strategy, risk management, metrics and targets.
+10
+
+
+Climate change governance Strategy Risk management Metrics and targets. 
+Progress to end of FY2020 • Board responsibility for approving ESG framework and key ESG policies.
+• BGCC oversight and monitoring of effectiveness of ESG framework, including approach to climate change risk management.
+• Internal Global Green Committee, established in 2017 and led by Senior Management, promotes and coordinates climate change mitigation and adaptation opportunities.
+• Climate Risk Steering Committee reporting to CRO, oversees approach to climate scenario analysis.
+• Engaged in activities related to climate change and the low carbon transition for over a decade.
+• Pursued a sustainability strategy in direct operations, including a commitment to operate on a carbon neutral basis since 2010 and a commitment to source 100% renewable energy for our offices by 2025.
+• Supported a range of global and national strategies on climate, led by third parties, including the Climate Finance Leadership Initiative and the Global Commission on Adaptation.
+• Incorporated climate-related risks into environmental and social risk and credit analysis for carbon intensive sectors.
+• Established approaches to transition risk analysis in the oil, gas, coal and power generation sectors of our lending and equity portfolios.
+• Included climate change risk within Macquarie’s Risk Appetite Statement and Risk Management Strategy.
+• Generated physical and transition climate risk vulnerability heat maps for lending and equity portfolios across sectors and geographies.
+• Conducted scenario risk analysis of lending and equity portfolios for the oil, gas, coal and power generation sectors, representing transition pathways to 1.5°C, 2°C and 4°C warming by 2100.
+• Analysed physical risk of Macquarie’s mortgage portfolio, representing pathways to 1.5°C and 4°C warming by 2100.
+• Consistently invested and arranged capital into renewable energy and energy efficiency: $A9.0b in FY2020, $A7.9b in FY2019, $A9.5b in FY2018.
+• Carbon neutral since 20102.
+Progress during FY2021 • Evolved governance structures to support relevant regulatory guidelines on climate-related risks.
+• Enhancing and embedding climate considerations within existing risk management framework.
+• Made a series of new investments in climate mitigation and adaptation spanning established and new technologies including: onshore and offshore wind, solar, waste-to-energy, battery storage, hydrogen, carbon capture and storage, combined heat and power, smart meters and ultra-low emission transport.
+• Macquarie Asset Management (MAM) announced a plan to manage its portfolio in line with net zero emissions by 2040.
+• Green Investment Group (GIG) published its third Progress Report announcing that it had arranged or invested over £6.9 billion in green projects since the business was acquired by Macquarie in 2017 and is developing a 30 GW portfolio of new projects.
+• Commodity and Global Markets (CGM) further extended its leadership in environmental markets by arranging and executing the world’s first major petroleum shipment for which the scope 3 emissions were offset.
+• Hosted annual Green Energy Conference attended by 1,000 stakeholders and clients.
+• Analysed physical risk of Macquarie’s equity portfolio for the utilities, oil and gas sectors, representing pathways to 1.5°C and 4°C warming by 2100.
+• Assessed vulnerability and resilience of our business premises to physical climate risks.
+• $A3.1 billion invested or arranged in green energy projects in FY20213.
+• 30 GW of green energy assets in development as at 31 March 20214.
+• 14 GW of green energy assets in operation or under management as at 31 March 20214.
+• FY2021 emissions per capita reduced by 84% from FY2010 baseline (71% reduction from FY2020).
+• FY2021 absolute emissions reduced by 82% from FY2010 baseline (69% reduction from FY2020).
+Focus beyond FY2021 • Continue to enhance and embed climate considerations within existing risk management framework.
+• Continue to enrich Board and executive insight into and visibility of climaterelated risks and opportunities.
+• Align our business operations and financing activities with the global goal of net zero emissions by 2050.
+• Deploy balance sheet and funds under management to develop and invest in projects that support the energy transition.
+• Provide a range of products and services to support our clients to make progress towards their decarbonisation goals.
+• Support our clients and portfolio companies to strengthen the climate resilience of infrastructure assets.
+• Engage in a range of cross industry initiatives leading up to the UN COP26 summit.
+• Continue to build internal expertise and capacity to support the global energy transition into new markets and across new technologies.
+• Evolve approaches for integration into business strategy planning.
+• Source 100% renewable energy for Macquarie premises by 2025 in line with our RE100 commitment.
+• Establish a new Climate Intelligence Unit to support and inform Macquarie’s engagement and growth in issues related to climate change and the energy transition.
+• Continue integration of climate-related risks through our risk management framework.
+• Refine climate scenario analysis and evolve approaches to integrate into broader stress testing.
+• Evolve strategic response to vulnerability and resilience of our business premises to physical climate risks.
+• A further 20% reduction in electricity use by 2023 (from 2014 baseline).
+• Source 100% renewable energy for Macquarie premises by 2025 in line with our RE100 commitment.
+• 80% of employees in sustainably rated premises by 20255.
+• Ongoing enhancement of TCFD disclosures to be consistent with all relevant Task Force recommendations.
+2 Covers scope 1 and scope 2 emissions, and business travel as defined in the FY21 Independent Limited Assurance Report.
+3 The reduction in investment in FY21 is a reflection of fewer large projects reaching final investment decision (FID) during the year. This is in part a timing issue and also reflects GIG’s growing focus on earlier stage investment during the development phase.
+4 GW of green energy assets reflect 100% generating capacity of each asset, not the proportion owned/managed by Macquarie.
+5 LEED Gold, BREEAM Good, 5 Star Green Star or equivalent.
+TCFD implementation summary | 11
+
+
+Scenario analysis. 
+Since 2019, Macquarie has evolved its approach to scenario analysis to enable and support integration into our existing stress testing activities. Each year, we have built on the prior analysis, refining our understanding of the potential vulnerabilities to climate change risks for Macquarie.
+12
+
+
+Last year, we used scenario analysis in the form of physical and transition risk heat mapping across our lending and equity portfolios under 1.5°C and 3–4°C scenarios. We conducted transition risk scenario analysis of carbon intensive sectors (including oil, gas, coal, power generation and metals and mining) using a combination of portfolio level analysis and company level analysis, and physical risk scenario analysis to assess the potential implications of climate-related risks to our retail mortgage portfolio.
+This year, we have continued to evolve our approach to scenario analysis, conducting physical risk analysis for selected parts of Macquarie’s equity portfolio of infrastructure assets (including oil and gas, and power generation) and an assessment of the operational resilience of our business operations to physical climate risks. This analysis of our strategic business locations will support long-term business continuity and resilience planning.
+Scenario analysis | 13. 
+Analysis conducted 2019 2020 2021 2°C / 3-4°C 1.5°C / 3-4°C 1.5°C / 3-4°C. 
+Transition risk analysis ● Oil ● Gas ● Coal ● Power generation ● Oil ● Gas ● Coal ● Power generation ● Metals & mining. 
+Physical risk analysis ● Retail mortgage portfolio ● Macquarie business operations ● Oil (extraction and storage) ● Gas ● Power generation. 
+Heatmapping ● Global equity and debt portfolios (all sectors)
+
+
+Physical risk – Scenario analysis for equity portfolio of infrastructure assets. 
+We selected two contrasting warming scenarios for the physical risk analysis corresponding to global average temperature increases of approximately 1.5°C warming by 2100 and 4°C warming by 2100 relative to preindustrial levels. These are derived from the output of climate models driven by the warming scenarios of Representative Concentration Pathways (RCP) 2.6 and RCP 8.5. The RCP scenarios are the greenhouse gas concentration trajectories adopted by the Intergovernmental Panel on Climate Change (IPCC) in their Fifth Assessment Report.
+Three time horizons were selected: including one to capture the present day (2020), one for the medium term (2030s), and one for the longer term (2050s).
+The physical risk scenarios and time horizons used in the analysis are shown in the table below.
+1.5°C 4°C. 
+Time horizons 2020, 2030s, 2050s. 
+IPCC Representative Concentration Pathway (RCP)
+RCP 2.6 RCP 8.5. 
+Mean warming by 2100 relative to pre-industrial levels 1.6°C 4.3°C. 
+Scenario analysis | 14. 
+Using these scenarios, climate datasets were defined that aligned with the modelling time horizons. The datasets included chronic climate changes, extreme weather events and climate-related hazards that could impact model valuation drivers in the construction and operational phases of an asset.
+For acute hazards, natural catastrophe models, together with global and regional climate models and curated research publications, were used to estimate the potential costs and lost production arising from physical asset damage and business interruption such as storms (e.g. severe convective storms in the US, tropical cyclones in Asia and windstorms in Europe and southern Australia), floods and wildfire. The results from the modelling provided estimates of the average annual impact. This is a statistical metric representing the average impact from 10,000 model simulations.
+For chronic hazards, projections from more than 15 Coupled Model Intercomparison Project Phase 5 (CMIP5) climate models were considered for each hazard variable with statistical downscaling used to infer higher resolution data. This process uses statistical relationships between local observed climate variables and larger scale climate patterns to infer local-scale projections such as wind speed, temperature and precipitation.
+
+
+There is uncertainty in the projections of future changes in climate hazards derived from these models due to the significant complexity of earth systems, knowledge gaps and computational limitations, with some hazard variables such as increasing temperature and rising sea levels projected with higher confidence than changes in acute events such as floods or windstorms.
+Our analysis used a prototypical asset approach, meaning that we selected representative asset - geography combinations from our portfolio to provide insights and support physical scenario analysis for our current infrastructure equity exposures, whilst allowing the analysis to support future investment decision making. The analysis considered potential transmission channels to identify relevant climate-related hazards, the mechanisms through which these could impact the assets both during construction and operations, and the associated relevant valuation drivers for our financial models.
+We observed limitations in our ability to quantify the impact of some transmission channels. In part this was a result of using the prototypical asset approach where detailed asset specific analysis was not undertaken, however it was also a reflection of insufficient scientific data or research available to allow quantification of material uncertainty in relation to some impacts. Where quantification of impacts was unavailable, qualitative analysis was considered.
+TRANSMISSION CHANNELS LINKING CLIMATE HAZARDS TO FINANCIAL VALUATION DRIVERS (WIND ENERGY EXAMPLE)
+Hazards Transmission channels. 
+Impacts to valuation drivers. 
+Changes to windstorms. 
+Wind turbine damage/ failure. 
+Outage to repair ● Plant yield. 
+Physical damage ● O&M cost. 
+Changes in rain / ice conditions. 
+Erosion of turbine blades ● Plant yield ● O&M cost. 
+Ice accumulation on blades ● Plant yield. 
+Changes in average wind speed. 
+Reduced power output ● Plant yield. 
+Impact on contracts ● O&M cost. 
+Increased power output ● Plant yield. 
+Greater wear and tear ● O&M cost. 
+Sea level rise / increased windstorms Impact on foundations ● Plant life ● Quantified impacts ● Qualitative / narrative. 
+Source: Extract of transmission channels diagram for wind energy produced by Willis Towers Watson. 
+Scenario analysis | 15
+
+
+The models use standard vulnerability curves to estimate the relationship between acute events and physical damage and downtime, and the associated impacts on operation and maintenance costs and loss of yield. For chronic impacts it is important to acknowledge the levels of confidence on projected changes in different climate variables. For instance, there are high uncertainties in future trends in average wind speeds determined by climate models.
+Physical risk scenario analysis for equity exposure to onshore and offshore wind farms. 
+Scope The analysis focused on prototypical windfarm assets in Australia, Japan, Taiwan and Norway.
+Impacts Japanese assets (on and offshore) • Under present day climatic conditions, tropical cyclones were identified as the key acute climate hazard for the prototypical assets, while sea level rise and changes to average wind speed were identified as the key chronic climate hazards.
+• By the 2050s under the RCP 8.5 pathway, model simulations projected: – Increases in the frequency of tropical cyclones6 including Category 4 and 5 typhoons.
+– No change or a small reduction in annual mean wind speeds7 and sea level rise of approximately 40cm compared to the IPCC baseline.
+Australian assets (onshore) • Under present day climatic conditions, the prototypical assets were not exposed to material acute hazards such as windstorms or tropical cyclones, however if located in a flood zone the assets could experience a current day flooding impact. Changes to average wind speed were identified as the key chronic climate hazards for these assets.
+• By the 2050s under the RCP 8,5 pathway, model simulations projected: – No material change to the acute climate hazards compared to present day.
+– A potential reduction in average wind speeds, however under the RCP 2.6 pathway a potential increase in average wind speed was projected.
+Taiwanese assets (offshore) • Under present day climatic conditions, tropical cyclones were identified as the key acute climate hazard for the prototypical assets, while sea level rise and changes to average wind speed were identified as the key chronic climate hazards.
+• By the 2050s under the RCP 8.5 pathway, model simulations projected: – Increases in the frequency of tropical cyclones6 including Category 4 and 5 typhoons.
+– No change or a small reduction in annual mean wind speeds7 and sea level risk of approximately 40cm compared to the IPCC baseline.
+Norwegian assets (onshore) • Under present day climatic conditions, windstorms were identified as key acute climate hazards for the prototypical assets, and if located in a flood zone the assets could experience a current day flooding impact. Changes to average wind speed were identified as the key chronic climate hazard.
+• Under the RCP 8.5 pathway, model simulations indicated: – Little evidence of changes in acute European windstorm activity for the prototypical assets over the modelled time horizons.
+– Potential decrease in frequency of river flood events by 2050s.
+– Slight reduction in average wind speeds by 2050s.
+Outcomes For the onshore and offshore windfarms prototypical assets, analysis was conducted to understand potential valuation impacts resulting from changes to yield and operation and maintenance costs (defined to include opex and maintenance capex) as a result of the chronic and acute climate hazards described above. Not all transmission channels could be quantified due to the nature and scope of this study, but consideration was given to these when interpreting the analysis.
+The modelling demonstrated the site-specific nature of the impacts, with any potential changes to net asset values dominated by chronic changes in average wind speeds.
+By 2050, under both the RCP 2.6 and 8.5 scenario, the modelling suggested very limited impact to net asset values for the Taiwanese, Norwegian and Australian prototypical assets. The Japanese assets were more exposed to the quantified chronic hazards with potential reductions in yield projections that implied a small decrease in net asset values by 2050 under both scenarios.
+Broadly, the book values of the assets remained robust to the quantified impacts of physical climate risk. This assumes adequate insurance coverage for acute events throughout asset life.
+6 Note the uncertainty ranges in the projection of frequency and severity of tropical cyclones are large but these provide an indication of possible future changes.
+7 Although climate model projections have evidenced long-term changes in large-scale high-altitude winds, uncertainty remains on the more localized understanding of wind speed projections.
+Scenario analysis | 16. 
+Prototypical offshore windfarm. 
+Construction year: 2020 Design life: 30 years Production capacity per turbine: 8 MW. 
+Prototypical onshore windfarm. 
+Construction year: 2020 Design life: 30 years Production capacity per turbine: 4 MW
+
+
+Scenario analysis | 17. 
+Physical risk scenario analysis for equity exposure to oil and gas assets (extraction and storage)
+Scope The analysis focused on prototypical oil and gas extraction assets in Australia and the US; and oil and gas storage assets in Singapore.
+Impacts Australian assets • Under present day climatic conditions, river flooding and wildfire were identified as the key acute climate hazards for the prototypical assets, while changes in high temperature events and heatwaves were identified as the chronic climate hazards. The assets were identified as located in an arid region in relation to water availability.
+• Under the RCP 8.5 pathway, model simulations indicated: – A high degree of uncertainty in relation to flood activity and wildfire risk (with the Fire Weather Index indicating a high score for development of wildfires in the 2050s), although broadly no material change expected over the modelled time horizons.
+– Increase in extremely hot days (exceeding 35°C) by the 2030s, with a significant increase by the 2050s (reaching approximately 123 days per year). Significant increases in hot days were also observed under RCP 2.6 over the modelled time horizons.
+US Assets • Under present day climatic conditions, tornado, hail and lightning (convective storms) and flooding were identified as the key acute climate hazards for the prototypical assets, while changes in high temperature events and heatwaves were identified as the chronic climate hazards.
+• Under the RCP 8.5 pathway, model simulations indicated: – Inconclusive analysis in relation to changes to severe convective storms, noting that this risk is already considered material during present day conditions.
+– A high degree of uncertainty in relation to flood risk across the prototypical asset area, which ranged from no change to a potential reduction in river flood frequency by 2050s.
+– Increase in extremely hot days by the 2030s, with a further increase by the 2050s (reaching approximately 62 days per year).
+Singaporean Assets • Under present day climatic conditions, lightning and flooding were identified as the key acute climate hazards for the prototypical assets, while changes in high temperature events, heatwaves and sea level rise were identified as the key chronic climate hazards.
+• Under the RCP 8.5 pathway, model simulations indicated: – No projected changes in tropical and extratropical cyclone activity that could affect the region. However, evidence for changes to convective storms including lightning was inconclusive, noting that this risk is already considered material under present day conditions.
+– Increase in the frequency of river flood events in the 2050s, with flash flooding exacerbated by heavy precipitation, although impact to coastal oil and gas facilities within the study area was considered limited.
+– Increase in coastal flooding risk resulting from sea level rise of approximately 29cm by the 2050s compared to the IPCC baseline.
+Outcomes For the oil and gas extraction and storage prototypical assets, analysis was conducted to understand potential valuation impacts resulting from loss of production and changes to operations and maintenance costs resulting from acute impacts of windstorms and floods and chronic impacts of changes in extreme temperatures. Not all transmission channels could be quantified due to the nature and scope of this study, consideration was given to these when interpreting the analysis.
+The modelling indicated potential production and cost impacts caused by outages for repair and replacement, damage to pipelines or other equipment for all assets associated with severe storms but acknowledged that these costs would likely be managed through insurance and at some of the prototypical asset locations these hazards are already experienced today.
+Whilst physical damage to assets from acute climate events could require additional repair and maintenance, modelling indicated no material impact across the modelled time horizons. Factors that were not quantified but that could increase operational costs and present potential legal risks included impacts of lower water availability and production stoppages or product releases resulting from wildfires, coastal inundation or other events.
+Projected future changes in extreme temperatures were not anticipated to have a material impact on production. For the US prototypical assets, extreme cold conditions are expected to become less likely.
+Overall, the quantified impacts from both acute and chronic climate change were projected to be minimal for the prototypical assets. The analysis assumes adequate insurance coverage for acute events throughout asset life.
+Prototypical oil and gas extraction. 
+Design life: 30 years Extraction: Oil, condensate, gas. 
+Prototypical oil and gas storage. 
+Design life: 50 years Capacity: 500,000 m3
+
+
+Physical risk scenario analysis for equity exposure to energy generation assets (CCGT and thermal waste)
+Scope The analysis focused on prototypical Combined Cycle Gas Turbine (CCGT) assets in Mexico and thermal waste asset in Australia.
+Impacts Mexican assets • Under present day climatic conditions, river flooding, wildfire and lightning were identified as the key acute climate hazards for the prototypical assets, while changes in high temperature events and heatwaves were identified as the key chronic climate hazards.
+• Under the RCP 8.5 pathway, model simulations indicated: – A high degree of uncertainty in relation to flood activity, varying from no change to a potential reduction in river flood frequency by up to 30% by the 2050s.
+– A high degree of uncertainty in relation to wildfire risk, with the Fire Weather Index indicating a high score for development of wildfires in the 2050s, noting that in the current climate the Fire Weather Index is already high.
+– Increase in extremely hot days by the 2030s, with a significant increase by the 2050s (reaching approximately 82 days per year). Significant increases in extremely hot days were also observed under RCP 2.6 over the modelled time horizons.
+Australian assets • Under present day climatic conditions, river flooding, wildfire and windstorm were identified as the key acute climate hazards for the prototypical assets, while changes in high temperature events, heatwaves and sea level rise were identified as the chronic climate hazards.
+• Under the RCP 8.5 pathway, model simulations indicated: – A high degree of uncertainty in relation to flood activity, varying from no change to a potential reduction in river flood frequency by up to 30% by the 2050s.
+– Likely increase in the Fire Weather Index by the 2050s, with extreme wildfire days becoming more common and widespread.
+– Possible slight increase in tropical cyclone and increase in frequency of Category 4 and 5 cyclones by the 2050s, although the degree of certainty is low.
+– Increase in extremely hot days (exceeding 35°C) by the 2030s, with moderate increase by the 2050s (reaching approximately 23 days per year) and sea level rise of approximately 32cm by 2050s compared to the IPCC baseline.
+Outcomes For the energy generation assets, analysis was conducted to understand potential valuation impacts resulting from loss of yield and changes to operations and maintenance costs resulting from acute impacts of windstorms and floods and chronic impacts of increases in temperature. Not all transmission channels could be quantified due to the nature and scope of this study but consideration was given to these when interpreting the analysis.
+For the Mexican prototypical CCGT assets, by 2050, under both the RCP 2.6 and 8.5 scenario the modelling indicated no material impact on energy yield compared to present day from flooding (the key acute climate hazard). However, projected future changes in chronic hazards, in particular increases in temperature under both scenarios have the potential to reduce the efficiency of gas turbines and impact yield, implying a small reduction in net asset values by 2050.
+For the Australian prototypical thermal waste assets, whilst physical damage to assets from tropical cyclones and flood events could require additional repair and maintenance, modelling indicated no material impact across the modelled time horizons for cyclones and a potential small reduction in flood impact. Projected future changes in chronic hazards such as increases in temperature have the potential to marginally reduce yield, while also beneficially impacting plant operation and maintenance costs by increasing boiler efficiency. Overall, the quantified impacts from both acute and chronic climate change analysis implied a slight increase in net asset values by 2050 under both scenarios. This assumes adequate insurance coverage for acute events throughout asset life.
+Scenario analysis | 18 Prototypical power and gas - thermal waste. 
+Design life: 30 years Capacity: 40 MW Waste incineration capacity: 400,000 Tn/yr Generator: Condensing steam turbine Cooling system: Air-cooled. 
+Prototypical power and gas - CCGT. 
+Design life: 30 years Capacity: 900 MW Cooling system: Dry cooling
+
+
+Learnings and next steps. 
+Macquarie acknowledges the potential for physical climate risks to impact infrastructure asset investments. This risk is not uniform and varies substantially by geographic location and asset type. The analysis has highlighted the advantages of asset specific analysis in investment decision making and should inform future approaches to pre-construction technical and risk allocation framework design.
+We also acknowledge that through the studies we conducted in 2021, not all potential physical risks and transmission channels were able to be quantified. A number of additional factors will need to be further considered in future decision making. For example, potential changes to yield and operation and maintenance costs caused by extreme rainfall events and high wind conditions contributing to leading edge erosion of wind turbine blades, changes to soil moisture and impact on foundations and impact of increased tropical cyclone activity on sub-sea foundations for offshore wind turbines.
+Furthermore, it is acknowledged that it is not possible to determine insurance pricing and availability changes over the time horizons considered and this will require ongoing consideration.
+Climate strategy and risk management | 19
+
+
+Physical risk – Operational resilience of our business operations to physical climate risks. 
+Macquarie has undertaken physical risk scenario analysis to understand the risks to priority facilities and operations resulting from climate change in order to identify any material risks that could affect the operational resilience of our business operations. This analysis is intended to inform our business continuity planning and resilience measures.
+To assess these risks, we sought to understand the present day and future exposure of our operations to a range of extreme (acute) weather-related events as well as chronic climate related hazards.
+CLIMATE-RELATED HAZARDS. 
+Chronic. 
+Average precipitation Average temperature Sea level rise Water stress. 
+Acute. 
+Heatwave Heavy precipitation Drought Windstorm, hailstorm and tornado Storm surge Riverine flooding Surface water flooding Wildfire. 
+Scenario analysis | 20. 
+The modelling used high-resolution natural catastrophe models combined with Willis Towers Watson’s hazard analytical tools to estimate the change in exposure to both acute and chronic climate hazards at each of our facilities. The models provided estimates of the probable change to these hazards in the 2030s compared to present day with consideration given not only to direct impacts on our facilities but also to the transportation routes that allow our employees to commute to work. The climate scenario used was the RCP 8.5 which presented a worst-case physical climate risk pathway.
+Across the climate-related hazards, the models integrated projections of climate variables worldwide from sources including the CORDEX project and research publications to inform the quantification of hazard frequency and severity in the catastrophe loss models. Generally, research suggests that acute perils will likely become more frequent and/or more severe in most regions of the world, especially under RCP 8.5. However, considerable scientific uncertainty exists around the prediction of future climatic impacts for all acute risks, and in particular in relation to infrequent weather events such as tropical cyclones, extratropical cyclones, floods or those events that are more localised such as hailstorms.
+
+
+The physical risk scenario analysis was conducted at 24 facilities, comprising 19 offices and 5 data centres – representing all regions in which Macquarie operates. There is considerable variation across geographic locations, our findings from the scenario analysis are presented below:
+Physical risk scenario analysis for Macquarie operations. 
+Impacts Australia. 
+Our analysis focussed on our employee operations in major urban centres including Sydney, Melbourne. Adelaide, Brisbane and Perth and our data centres.
+For Sydney, Brisbane and Perth heavy precipitation and associated flooding were identified as current hazards, with these expected to slightly worsen over the modelling horizon although business interruption was considered unlikely. Increasing frequency of high heat days and heatwaves was identified for all locations increasing discomfort and commuter delays.
+Europe. 
+Our analysis focussed on our operations and data centres in London and Edinburgh.
+For London and Edinburgh, windstorms were identified as current hazards, but no material changes were indicated over the modelled horizon. For London, a slight increase in high heat days was identified as a factor in increasing commuter discomfort.
+Asia. 
+Our analysis focussed on our employee operations in major urban centres including Gurugram, Hong Kong, Manila, Mumbai, Seoul, Singapore, Tokyo and Taipei.
+Of these locations, Gurugram, Hong Kong, Mumbai and Singapore were identified as having high current exposure to climate-related hazards including heavy precipitation, flash flooding and heatwaves. Business interruption resulting from windstorms, floods or storm surges at these locations is currently unlikely. Whilst these hazards are predicted to increase over the next decade, the modelling did not indicate a material change in business interruption. Increased frequency of high heat days and heatwaves is anticipated to expose commuters to further heat stress.
+Further detail on Manila is presented in the case study on pages 22-23.
+US. 
+Our analysis focussed on our employee operations in major urban centres including Houston, Jacksonville, New York City, and Philadelphia and our data centres.
+For Houston, New York City and Philadelphia, heavy precipitation, associated flash floods and heatwaves were identified as current hazards that are likely to slightly worsen over the modelling horizon although business interruption was considered unlikely from these hazards. High heat days were projected to potentially double in Houston but not materially change in New York City. Potential increases in frequency and severity of tropical cyclones were identified for Houston.
+For Jacksonville, high current exposure to heatwaves, tornadoes and lightning were identified. While these hazards were not predicted to materially increase over the modelling horizon, exposure to windstorms is expected to increase over the time horizon, presenting a potential minor increase in business interruption risk8.
+Outcomes A number of our facilities were identified as having a heightened exposure today to climate-related hazards including precipitation, flooding and heatwaves. However business interruption risk from these hazards was considered unlikely or not material at the majority of facilities8. Macquarie’s resilience program is predicated on the assumption that outages will happen, so we ensure that we plan and have strategies in place to recover from incidents like the loss of an office regardless of the probability that such an incident might occur.
+In the next decade, under the 4.3°C model scenario, climate-related hazards are anticipated to worsen at some locations with potential increase in business interruption risk at some facilities that experience a present-day risk. There are actions we can take today to further mitigate this risk (see ‘Learnings and next steps’), however we have not identified a material impact to our operational resiliency.
+Learnings and next steps Macquarie is agile in adapting its approach to a rapidly changing environment. We have demonstrated this in February 2021 with our rapid response to the winter storm in Houston, where our resilience planning, support for staff and clear communications, ability to transfer critical functions and contingency planning avoided significant impact to business operations while maintaining COVID protocols. Across the globe, the majority of staff worked remotely in FY2021 and in response we have adopted hybrid working as part of the evolving culture of work, and subject to local regulations, we anticipate that, going forward, the majority of Macquarie’s employees will seek to work more flexibly than they did before COVID-19.
+The scenario analysis indicates that in most locations we can expect a slight increase in severity of climate-related hazards over the next 10-20 years. This has reinforced our belief in ensuring our staff continue to have the opportunity to work flexibly to deliver for our clients, customers, shareholders and communities as well as demonstrating the importance of being able to transfer critical functions from affected sites to other locations where necessary.
+In addition, the analysis will be used to: • Guide our Real Estate team in conducting a deeper evaluation of the sites with potential for significant business interruption, to understand the details of the sites’ current protection measures and vulnerabilities. This could include, for example, a review of water ingress routes into the buildings, reliability on critical utilities located on flood prone basement levels and other components vulnerable to flood that could disrupt operations and access to the building.
+• Develop stress test scenarios using the most severe forecast threats for a selection of our locations to determine the impact on our people, buildings, community infrastructure, suppliers, and overall operational resilience. We will then use these scenarios to run table-top scenarios with respective crisis/incident management teams.
+• Guide future site selection by integrating climate risk into the due diligence process for site selection to minimise the risk of occupying offices that may become impacted in the future.
+The analysis also highlighted the importance of advance warning and communication to staff to allow them to prepare for weather events that may make it harder for them to commute to the office. This is something we already do well in our offices that face extreme weather events, however it is something we will consider standardising for all locations by leveraging the Global Security Operations Centre (GSOC).
+8 The business interruption risk reflects a number of complex factors including: the damage that an asset suffers and the time for repair/replacement of critical elements for resuming operation; disruptions due to utility outages at the site; denial of access to the site if unsafe; and the ability to return to full operation. Business disruption estimations do not capture impact from wider community infrastructure issues that could occur.
+Scenario analysis | 21
+
+
+Case study: Manila office. 
+The scenario analysis identified our office in Manila, Philippines, as one of five sites with a high exposure to climate-related risks and the potential to suffer increased downtimes caused by windstorms, floods, or storm surges.
+The Manila office under current day conditions is highly exposed to typhoons, floods, heatwaves and water stress, which are likely to worsen in the next decade. In addition, transportation networks in the city are frequently affected by extreme precipitation and temperature related events which are likely to worsen, leading to increased commuter disruption.
+Extreme heat exposure is currently high with more than 180 days every year estimated to experience sustained temperatures over 30°C, with this number projected to increase slightly by 2030.
+The business interruption assessment has highlighted that windstorm is the most relevant peril that could cause damage to the office infrastructure, electricity and water supply, leading to downtime. Business interruption caused by windstorm was projected to double for a 1 in 100 year event, although this amounts to less than 5 days downtime in a year.
+Scenario analysis | 22. 
+At a glance. 
+Country: Philippines. 
+Address: The Enterprise Center, 6766 Ayala Avenue corner Paseo de Roxas, Makati. 
+Activities: 1000+ staff offering a variety of products and services across CGM, Macquarie Capital and MAM, and supporting Macquarie globally across operations, finance, human resources, technology and risk
+
+
+CLIMATE-RELATED HAZARDS – RELATIVE SCALE: Case study: Manila office | 23. 
+Local resilience and adaptation policies. 
+We recognise that the resilience of our facilities is partially dependent on local and national resilience planning. There are a number of proposed initiatives by both the city and national government on improving Manila’s climate and disaster risk management linked to floods, rainfall, typhoons and earthquakes. At a city level, regular emergency drills are conducted and its disaster response capabilities have been enhanced through early warning response mechanisms and interventions during emergencies.
+Macquarie’s resilience planning. 
+Our teams actively monitor for extreme weather events to provide advance notifications of possible weather-related disruption to ensure that our staff remain safe and interruptions to our businesses are minimised.
+All activities performed in our Manila office also undergo an annual business resilience plan review which includes an impact assessment to determine the criticality of the activities being performed, the resources required to support the activity, how quickly it must be recovered, and strategies to resume the activity following a business disruption.
+It is a Macquarie requirement that all critical activities performed by Macquarie teams in Manila can be transferred to staff in other Macquarie offices. This is tested annually to provide ongoing assurance. In addition, all Macquarie staff in our Manila office have the capability to work remotely, which has been extensively proven during the extended COVID-19 movement restrictions in Manila.
+Acute climate peril Present day (2020) Future (2030s, RCP 8.5)
+Heatwave 5 5. 
+Heavy precipitation 5 5. 
+Drought 1 3. 
+Hailstorm 2 not available. 
+Tornado 1 not available. 
+Windstorm 4 5. 
+Storm Surge 0 0. 
+Lightning 3 not available. 
+River flood 5 5. 
+Surface water (flash) flood 5 5. 
+Wildfire 0 not available. 
+Fire weather index 3 3. 
+Precipitation-induced landslide 2 2. 
+Chronic climate hazard Present day (2020) Future (2030s, RCP 8.5)
+Average seasonal temperature 3 4. 
+Average annual temperature 4 4. 
+Average seasonal precipitation 4 4. 
+Average annual precipitation 2 3. 
+Sea level rise 0 0. 
+Water stress 4 5 0 1 2 3 4 5. 
+Low High
+
+
+Metrics and targets 24
+
+
+FY2021 energy sector exposures. 
+In supporting clients and economies through a managed transition, we also note the role of gas as an enabler of emissions reduction over the last decade and its continuing role supported by climate mitigation strategies and the incremental blending of low carbon fuels, such as hydrogen, in gas networks.
+Macquarie has played a leading role in increased deployment of renewables and the wider decarbonisation of the global economy. Particular focus was placed on investing in established technologies like wind and solar at scale, and working towards addressing the various challenges that remain to full transition including energy storage, land use, the need for a greater number of investible projects and greater levels of investment in adaptation and resilience projects. In FY2021 these efforts continued globally, see pages 60–63 of Macquarie Group’s FY21 Annual Report.
+Metrics and targets | 25. 
+The table below provides Macquarie’s equity and loan portfolio exposures to the coal, oil, gas and renewables sectors as at 31 March 2021.
+EQUITY AND LOAN PORTFOLIO EXPOSURES TO THE OIL, GAS, COAL AND RENEWABLES SECTORS:
+FY20 FY21. 
+Loan assets9 $Ab. 
+Equity investments10 $Ab. 
+Loan assets9 $Ab. 
+Equity investments10 $Ab. 
+Oil 0.5 0.1 0.3 0.1. 
+Gas 0.4 – 0.2 –
+Coal 0.2 – 0.1 –
+Renewables – 1.0 – 0.6 9 Includes drawn loan assets held at amortised cost adjusted to exclude certain items such as assets that are funded by third parties with no recourse to Macquarie, operating leases, asset finance and short-term financing such as inventory financing.
+10 Includes (i) banking book equity investments fair valued through profit or loss; and (ii) investments in which Macquarie has significant influence or joint control (investments in associates and joint ventures). Excludes investments held through consolidated subsidiaries and off balance sheet equity commitments.
+
+
+Additional climate-related disclosures. 
+Within Macquarie’s ESG Report, we provide more detailed metrics about opportunity-related metrics, such as renewable energy lending and assets under management, and our operational metrics including the Scope 1, Scope 2 and Scope 3 emissions of our global operations.
+Macquarie is a signatory to the Carbon Disclosure Project (CDP) and has responded annually since 2010. Macquarie’s annual responses are available on the CDP website.
+We continue to report our emissions for our Australian operations to the Clean Energy Regulator in accordance with the National Greenhouse and Energy Reporting Act.
+More information on our ESG approach and our operational emissions is available in Macquarie’s FY21 ESG Report and at macquarie.com/ESG.
+
+
+More information is available in Macquarie’s FY21 ESG Report and at macquarie.com/ESG.

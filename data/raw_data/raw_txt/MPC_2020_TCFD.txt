@@ -1,0 +1,670 @@
+PERSPECTIVES ON CLIMATE-RELATED SCENARIOS. 
+Risks and Opportunities. 
+October 2020
+
+
+GLOSSARY OF TERMS barrel: 42 U.S. gallons — a common volume measure for crude oil and petroleum products barrel of oil equivalent or boe: A unit of energy based on the energy released by burning one barrel of crude oil or 5.8 million British thermal units bcm: Billion cubic meters (a measure of natural gas volume) bpcd: Barrels per calendar day — the average of how much crude oil or other feedstock a refinery processes over a period of time, divided by the number of days in that period, typically 365 days (a common rate measure for petroleum refineries) bpd: Barrels per day — a common rate measure for crude oil and petroleum products. 
+CO2e: Carbon dioxide equivalent — a common unit of measurement converting all greenhouse gases to carbon dioxide. MPC calculates CO2e emissions using the EPA factors identified in Table A-1 at 40 CFR Part 98.
+EII®: Energy Intensity Index, a measure proprietary to energy consulting firm HSB Solomon Associates LLC. 
+ENERGY STAR®: A program of the U.S. Environmental Protection Agency recognizing energy efficiency. To achieve this status, applicants must perform in the top quartile for energy efficiency and have no unresolved environmental compliance actions from state or federal regulators.
+EPA: The U.S. Environmental Protection Agency. 
+ERM: Enterprise Risk Management. 
+ESG: Environmental, social, and governance. 
+GHGs: Greenhouse gases, such as carbon dioxide and methane. 
+IEA: International Energy Agency. 
+IEA’s CPS: Current Policies Scenario. 
+IEA’s SDS: Sustainable Development Scenario. 
+LNG: Liquefied natural gas. 
+LPG: Liquefied petroleum gases. 
+Tonne or metric ton: 2,205 pounds. 
+MPC: Marathon Petroleum Corporation. 
+NGL: Natural gas liquid — a light hydrocarbon liquid often produced with natural gas. 
+Scope 1 Emissions: All direct GHG emissions by a company, including fuel combustion, company vehicles and fugitive emissions. 
+Scope 2 Emissions: Indirect GHG emissions from consumption of purchased electricity, heat or steam. 
+Scope 3 Emissions: Other indirect GHG emissions that occur in a company's value chain that are not captured by Scope 2. 
+TCFD: Task Force on Climate-related Financial Disclosures, formed by the Financial Stability Board (an international body that monitors and makes recommendations about the global financial system)
+CONTENTS 3 Letter from the President and CEO 4 Operations 6 Introduction 7 Governance 8 Risk Management 11 Climate Scenario Planning 14 Climate Scenario Analysis of Refining and Marketing 20 Climate Scenario Analysis of MPC's Renewable Fuels Program 25 Climate Scenario Analysis of Midstream Operations 30 Managing Physical Risks to Our Facilities 32 MPC's Sustainable Energy Strategy, Metrics and Targets 37 Conclusions 2. 
+On the cover: MPC’s refinery in Dickinson, North Dakota, which we are converting into a renewable diesel facility
+
+
+At MPC and MPLX, our commitment to sustainability means taking actions that create shared value with our many stakeholders. It also means we challenge ourselves to be a leader in sustainable energy. I’m pleased to share with you this year’s edition of MPC’s Perspectives on Climate-related Scenarios. This report is an important part of our commitment to continually enhance our transparency and engage with stakeholders on important topics related to climate change.
+The report has evolved since we began publishing it in 2017 in alignment with guidelines from the Task Force on Climate-related Financial Disclosures. We continue to provide details of our strategy for addressing physical and transitional climate-related risks. We have sharpened our focus on meeting the world’s energy needs while reducing carbon emissions. From lowering the carbon intensity of our operations and improving our energy efficiency, to increasing the volume of renewable fuels we produce and deploying advanced technologies that reduce environmental impact, we’re focused on capturing opportunities that benefit shareholders and our many other stakeholders.
+As we continually evolve our sustainability strategy, we’re prioritizing efforts that are concrete and quantifiable. We are investing hundreds of millions of dollars to convert our Dickinson, North Dakota, petroleum refinery to a renewable diesel facility and evaluating a similar conversion of our Martinez, California, refinery. We are investing over $10 million per year to commercialize our innovative BioForming® process that converts sugars into advanced biofuels. And in 2019, we produced more than 70 million gallons of biodiesel at our facility in Cincinnati, Ohio, as well as more than 460 million gallons of ethanol through a Midwest joint venture.
+Operationally, we continue to make strides. Unique among U.S. refiners, our facilities have earned approximately two-thirds of the U.S. Environmental Protection Agency’s ENERGY STAR® awards for energy efficiency and environmental compliance that have been awarded to the U.S. refining industry. We were the first independent U.S. refining company to establish a companywide greenhouse gas emissions intensity reduction target and link it to our executive and employee compensation programs. And we established a goal of reducing our methane emissions intensity to 50% below 2016 levels by 2025.
+Thank you for your interest in Marathon Petroleum. I encourage you to read on to learn more about how we identify and manage climate-related challenges and opportunities, as well as how we see our sustainability investments as strategically significant to our ongoing success.
+Sincerely,
+Michael J. Hennigan President and Chief Executive Officer. 
+FROM THE PRESIDENT AND CHIEF EXECUTIVE OFFICER. 
+Perspectives on Climate-related Scenarios 2020 | 3
+
+
+OPERATIONS. 
+Our operations are diverse in both geographic location and scope. We operate in 41 states and the District of Columbia; the Mexican states of Baja California, Sonora and Sinaloa; and have trading operations in the U.S., Canada and Singapore. Our nearly 12,000 retail and marketing locations include approximately 7,000 branded outlets across the U.S. and in Mexico, and approximately 5,000 Speedway and ARCO retail convenience stores nationwide.1. 
+We have a growing renewable energy portfolio, including our biodiesel facility in Cincinnati, Ohio; joint venture ownership of four Midwest ethanol plants; conversion of our Dickinson, North Dakota, refinery to produce renewable diesel; evaluating conversion of our Martinez, California, refinery to produce renewable diesel; and our wholly owned subsidiary, Virent, which is working to commercialize a process to produce advanced biofuels from plant sugars and lignocellulosic materials.
+Note: Illustrative representation of asset map (a) Includes MPC/MPLX owned and operated lines, MPC/MPLX interest lines operated by others and MPC/MPLX operated lines owned by others.
+(b) Includes MPLX owned and operated natural gas processing complexes.
+(c) We are converting our Dickinson, North Dakota, refinery into a renewable diesel production facility. The Dickinson facility is scheduled to reach full production capacity in 2021.
+(d) Wholly owned subsidiary of MPC working to commercialize the conversion of biobased feedstocks into renewable fuels and chemicals.
+Renewable Fuels. 
+Ethanol Facility. 
+Biodiesel Facility. 
+Renewable Diesel Facility(c)
+Virent(d)
+MPC Owned and Part-Owned Light Product Terminals. 
+MPC Owned Asphalt/Heavy Oil Terminals. 
+MPC Refineries. 
+Domestic Marketing Area International Marketing Area. 
+MPC/MPLX Pipelines(a)
+MPC Owned and Part-Owned Marine Facility. 
+MPLX Owned Marine Facility Natural Gas Processing Complex(b)
+MPLX Refining Logistics Assets. 
+Cavern. 
+MPLX Owned and Part-Owned Refined Product Terminals. 
+MPLX Owned Asphalt/Heavy Oil Terminals. 
+MPLX Gathering System ®
+®
+As of September 2020 2.9 million bpcd of refining capacity across 12 states. 
+Largest independent petroleum product refining, marketing, retail and midstream business in the U.S.
+Ownership interest or lessor in 17,200 miles of crude and refined product pipeline. 
+Natural gas processing capacity of over 12 billion standard cubic feet per day. 
+Own and operate 116 refined product and asphalt terminals with 38.3 million barrels of capacity 4 Perspectives on Climate-related Scenarios 2020 | 5
+
+
+INTRODUCTION. 
+Our annual Perspectives on Climate-related Scenarios report follows the reporting guidelines established by the Task Force on Climaterelated Financial Disclosures (TCFD) formed by the Financial Stability Board, an international body of financial policymakers representing the world’s largest economies. This report provides our stakeholders with details on how we identify and manage climate-related challenges and opportunities, including an overview of our governance and risk management structure and our strategy for addressing physical and transitional climate-related risks.
+There are significant challenges to meeting the world’s growing energy needs while reducing carbon emissions. We continue to identify and pursue concrete actions we can take to overcome these global challenges. In March 2020, we became the first independent U.S. refiner to establish a companywide GHG emissions intensity reduction target. Achieving this ambitious target would result in a 30% reduction in Scope 1 and 2 GHG intensity below 2014 levels by 2030. We have linked achievement of the goal to our executive and employee compensation programs. We view this as a positive step for our company and our industry, and expect others will follow. We also established a 2025 goal to reduce methane emissions intensity from our natural gas business to 50% below 2016 levels. This is an important initiative to ensure that natural gas provides the most climate benefits as it displaces coal for electricity generation.
+We also continue to provide the results of a review of our business against a “less than 2-degree” or “low-carbon” scenario using scenarios developed by the International Energy Agency (IEA). The IEA's scenarios indicate that efficient use of oil and natural gas, biofuels, nuclear and renewables will be needed to meet the climate goals being modeled while providing enough energy to fuel modern life with expected global population growth.
+We believe our investors and other interested stakeholders will find that the extensive disclosures in this report, our Annual Report on Form 10-K, Sustainability Report and website align with the TCFD’s principles and demonstrate MPC’s financial strength, adaptiveness and resilience to climate-related risks.
+MPLX gas processing plant in Jewett, Ohio 6
+
+
+At MPC, we identify and manage climate-related risks and opportunities at all levels of our organization under the leadership and guidance of our Board of Directors. The Board’s committees, including the Sustainability Committee, are responsible for specific areas of oversight and policy decision-making. Specific responsibilities are set forth in our Corporate Governance Principles and each committee’s charter.
+Our executive leadership team has primary responsibility for establishing and managing our sustainability strategies. The executive leadership team has established several cross-functional executive committees, which help ensure that our objectives are incorporated into our corporate standards and are cascaded throughout the organization. These standards are developed by committees of the executive leadership team and integrated with related procedures at the operational level. Communication and collaboration among the Board, its committees and management are critical to maintaining our aligned direction on sustainability matters. More information on our Board of Directors, including the Board committee charters, is available at https://www.marathonpetroleum.com/About/Board-of-Directors/.
+GOVERNANCE. 
+Molly Benson, MPC's Corporate Secretary and Chief Compliance Officer, addresses shareholders during an annual meeting. 
+STANDARDS REVIEW AND OVERSIGHT. 
+MPC Executive Leadership Team Committees. 
+Board of Directors Committees. 
+Sustainability Committee • Reviews the company’s strategy on climate change and other ESG-related issues.
+• Oversees our Perspectives on Climate-related Scenarios report and our annual Sustainability Report.
+• Reviews and assesses effectiveness of health, environment, safety and security programs, performance metrics and audits.
+Compensation and Organization Development Committee • Reviews our compensation programs to ensure they do not encourage excessive risk-taking.
+• Reviews our compensation programs and succession plans to confirm our practices are appropriate to support the retention and development of the employees necessary to achieve our business goals and objectives.
+Audit Committee • Regularly reviews risks associated with financial and accounting matters, including those related to financial reporting.
+• Monitors compliance with regulatory requirements and internal control systems.
+• Oversees our enterprise risk management (ERM) process.
+Corporate Governance and Nominating Committee • Develops and oversees our Corporate Governance Principles.
+• Reviews shareholder communications and other initiatives, including those related to ESG issues.
+• Reviews the qualifications and makeup of the Board and candidates for the Board.
+Senior Leadership Team Committees. 
+Climate Policy Committee | HES&S Planning Committee. 
+POLICY REVIEW AND OVERSIGHT. 
+External Policy Committee Health, Environment, Safety and Security (HES&S) Management Committee Enterprise Risk Management Committee Strategic Steering Committee. 
+STANDARDS DEVELOPMENT AND IMPLEMENTATION. 
+Perspectives on Climate-related Scenarios 2020 | 7
+
+
+Our strong Enterprise Risk Management (ERM) program is how we identify, assess and manage enterprise-level risks, and review the effectiveness and performance of risk mitigation strategies. Some of the climate-related risks and opportunities we manage through our ERM program are outlined on Page 13.
+Roles and Responsibilities. 
+Risk oversight is one of our Board’s critical functions. While the Board has ultimate responsibility for overseeing risk management, it delegates certain risk oversight responsibilities to its four standing committees, which regularly report back to the full Board. Climate-related risks are primarily overseen by the Sustainability Committee.
+Our executive management has primary responsibility for managing risks and implementing risk management strategies. The ERM process is sponsored by our president and chief executive officer and our executive vice president and chief financial officer, led by an enterprise risk manager, and supported by senior leadership responsible for working across the business to manage enterprise-level risks and identify emerging risks.
+Our ERM Process. 
+Our ERM process is continuous and dynamic. It involves a cross-functional review of potential risks, including sustainability risks. Our enterprise risk manager leads the process for identifying and assessing enterprise-level risks, such as those that may impact our ability to operate, and other significant risks to our business, through quarterly leadership workshops. Our risk analyses include an examination of the causes and consequences of each enterprise-level risk, as well as the development of prevention and mitigation strategies. Climate change and ESG expectations are two of the ERM risk areas that we review regularly. Our process allows us to identify emerging risks and to efficiently allocate resources. Our Board and executive leadership routinely review and discuss enterprise-level risks and strategies. Our Board further reviews our process and performance trends and oversees internal processes to evaluate effectiveness.
+Material Risks. 
+Material risks to our company are disclosed in the Risk Factors section of our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q that are filed with the Securities and Exchange Commission.
+CLIMATE-RELATED RISK. 
+We carefully evaluate and manage climaterelated risks and opportunities to ensure our ability to adapt and strengthen our resiliency. These include both transitional and physical risks. These risks are routinely discussed with the Board’s Sustainability Committee and the executive and senior leadership committees identified on Page 7.
+COMPLIANCE-RELATED RISK. 
+As part of our ERM process, our Board oversees risks related to the regulatory landscape, including emerging and proposed regulations for topics such as greenhouse gas and other air emissions, water withdrawals and effluents, hazardous materials management, product specifications and employee health and safety.
+RISK MANAGEMENT. 
+A laboratory technician at our Virent, Inc. research and development facility in Madison, Wisconsin 8
+
+
+Investing in a Sustainable Future. 
+We recognize the importance of a collective effort to develop a comprehensive sustainable energy strategy to provide all people on the planet a chance at prosperity while continuing to reduce greenhouse gas emissions. We also believe there should not be a “one-size-fits-all” business strategy that every company must adopt. An effective solution will take into account the enormous complexity of the global energy system, the varying needs from region to region, and companies' differing operational footprints.
+The IEA acknowledges this concept throughout its Sustainable Development Scenario (SDS). It models a realistic world where all forms of energy, including oil and natural gas, are needed to meet a common set of goals: 1) universal access to affordable, reliable, sustainable and modern energy services by 2030, 2) substantial reductions in air pollution, and 3) limiting worldwide temperature increases to well below 2 degrees Celsius.
+This means that some energy companies may implement strategies that transition away from fossil fuels toward renewables, some may focus on producing fossil fuel products more efficiently, and some may do both. All three strategies are consistent with a lower-carbon future, even though each strategy would result in different individual carbon footprints.
+We are developing and implementing investment strategies designed to achieve real and quantifiable emissions reductions over time that will continue to transform our company. The core principles of our strategy are shown below, with additional examples throughout this report.
+Lower Carbon Intensity – lower the carbon intensity of our operations and the products we process.
+Increase Renewable Fuels Production and Energy Use – increase the volume of renewable fuels we produce and market, and seek ways to expand the use of renewable energy.
+Improve Energy Efficiency – improve the energy efficiency of our operations and work with others to improve energy efficiency within the manufacturing, consumer and transportation sectors.
+Conserve Natural Resources and Reduce Waste – advance practices and investments that conserve natural resources and reduce waste generated by our operations.
+Embrace Innovation and Deploy Advanced Technologies – embrace innovation to advance technologies that reduce environmental impact while enhancing business performance.
+CO2e. 
+Leading in Sustainable Energy. 
+Perspectives on Climate-related Scenarios 2020 | 9
+
+
+Business Planning and Capital Allocation. 
+Our business plan and capital allocation strategy are aligned with our sustainable energy strategy outlined on Page 9. We employ a risk-based capital allocation process that generally uses higher return-on-investment (ROI) thresholds for business segments with greater financial and regulatory uncertainty than business segments with more stable cash flow and less regulatory risk. In practice, this process acts like a de facto internal price on carbon because ROI thresholds are highest for projects that would be most affected by high carbon pricing, like those at our refineries, and lower for projects that are less carbon intensive and have lower regulatory risk. This approach is successfully driving an investment strategy consistent with the lowercarbon future modeled in the IEA’s SDS.
+Since 2014, we have invested over $20 billion on projects that promote a lower-carbon future while producing good returns on this invested capital. For instance, we acquired and organically grew our MPLX natural gas assets, acquired and expanded our Cincinnati Renewable Fuels biodiesel facility, began converting our Dickinson, North Dakota, refinery into a renewable diesel facility, expanded our joint venture with The Andersons to produce ethanol biofuel, made energy-efficiency investments in our assets, and funded the research and development of advanced biofuels through Virent, Inc.
+In March 2020, we became the first independent U.S. refiner to establish a companywide GHG emissions intensity reduction target. Achieving this ambitious target would result in a 30% reduction in Scope 1 and 2 GHG emissions intensity below 2014 levels by 2030. We have linked achievement of the goal to our executive and employee compensation programs. Future projects now have additional guardrails: the corresponding ROI threshold and effect on our companywide GHG intensity reduction target. We expect this will continue to drive a business plan consistent with the principles identified on Page 9 while providing good returns on invested capital.
+A prime example is our decisions to indefinitely idle our Gallup, New Mexico, and Martinez, California, refineries and our ongoing evaluation to convert Martinez into a renewable diesel facility. These decisions are expected to have a positive financial and environmental impact.
+By idling these facilities and converting Martinez, we would decrease our crude throughput capacity by 188,000 barrels, an overall 6% reduction, and also expect to decrease our refining Scope 1 and 2 emissions by 8%. By indefinitely idling two of our highest cost, least efficient facilities, we are becoming more cost efficient and lowering the carbon intensity of our operations.
+In addition, over the next three years we expect more than 20% of our growth capital to be directed toward projects that progress our sustainable energy vision while producing good returns on invested capital.
+MPC’s refinery in Martinez, California. We are evaluating a conversion of the refinery into a renewable diesel facility 10
+
+
+CLIMATE SCENARIO PLANNING. 
+As part of our ERM process, we conduct a review of our business portfolio against several future scenarios using projections from the IEA. We also rely on data from HSB Solomon Associates LLC (Solomon)2 to determine whether any of our refining assets are at risk under the various scenarios. The results of this review are reported to the Board’s Sustainability Committee and presented in this report.
+The IEA's scenarios forecast possible future energy landscapes, with the aim of providing governments, companies and other stakeholders with a range of potential outcomes to consider.
+These scenarios provide our company with several versions of the future to consider so we can plan ahead and adjust appropriately as the future unfolds. In this year’s report, we apply the following three hypothetical scenarios:3 � Current Policies Scenario (CPS) — considers only those climate policies that have been formally adopted by governments. This scenario provides a comparison point against which new policies can be assessed.
+� Stated Policies Scenario — previously known as the New Policies Scenario, the central scenario from IEA provides a detailed look at where today’s policy ambitions would take the energy sector. It incorporates policies and measures that governments around the world have already put in place, as well as the effects of announced policies, most notably those in climate pledges submitted for the Paris Climate Agreement (COP21).
+� Sustainable Development Scenario (SDS) — a hypothetical construct that starts with the outcomes to be achieved and then assesses a pathway of actions that could achieve them. The specific outcomes are modeled after the United Nations Sustainable Development Goals: 1) ensuring universal access to affordable, reliable, sustainable and modern energy services by 2030 (SDG 7.1); 2) substantially reducing air pollution (SDG 3.9); and 3) limiting worldwide temperature increases to well below 2 degrees Celsius (SDG 13).
+Results of Our Climate-Related Scenario Analyses. 
+We have conducted scenario analyses of climate risks and opportunities across our company as a whole and our principal business segments individually.4 A summary of risks and opportunities that we have evaluated is provided on Page 13. The detailed analyses indicate our overall business strategy is consistent with the IEA’s projections, and we are continually evaluating risks to our business and implementing strategies to effectively manage these risks.
+With much of the world adopting policies to reduce carbon emissions, we expect there will be excess petroleum refining capacity that needs to be rationalized. Where and when this occurs will depend on how governments and companies position themselves to provide the products most in demand worldwide. On the following pages, we provide an overview of IEA's projections and our strategy to succeed as rationalization occurs.
+MPC’s refinery in Dickinson, North Dakota, which we are converting into a renewable diesel facility. 
+Perspectives on Climate-related Scenarios 2020 | 11
+
+
+Outlook for Energy Through 2040. 
+WORLD ENERGY DEMAND. 
+Energy systems continue to evolve as more people gain access to modern energy and governments work to reduce carbon emissions. Access to affordable and clean energy is essential to lifting people out of poverty and providing for a sustained healthy economy. This reality has been put to the test during the 2020 COVID-19 pandemic. Access to affordable, reliable energy is a key factor enabling the world to fight through the pandemic. Energy is powering health care facilities and supplying clean water for essential hygiene, providing fuel for first responders and health care workers to go to work, keeping people safe within their homes and enabling communications services to connect people so that the economy can continue to function while maintaining social distancing. While the IEA’s projections do not consider a COVID-19 type pandemic, the reality that energy is essential to our global society underpins its three principal scenarios. The overall takeaway is that a diversified energy portfolio, along with continued advancements in energy efficiency, will be required to meet future energy needs and the climate goals being modeled. While oil and gas are expected to remain the dominant sources of energy for the foreseeable future, scenario projections indicate that oil markets are likely to continue to become more competitive, favoring the most efficient facilities. The temporary demand destruction from COVID-19 has accelerated this process.
+Gas 24%
+Other Renewables 17%
+Coal 11%
+Bioenergy 12%
+Nuclear 9%
+Crude Oil 23%
+Hydro 4%
+IEA Energy Projections for 2040 at a Glance. 
+The IEA projects a shift away from coal in favor of renewables and nuclear with oil and gas providing approximately 50% of total energy demand under all three scenarios.
+2018* Actuals Current Policies Scenario Stated Policies Scenario Sustainable Development Scenario. 
+Gas 25%
+Other Renewables 7%
+Coal 21%
+Bioenergy 10%
+Nuclear 5%
+Gas 25%
+Other Renewables 5%
+Coal 23%
+Bioenergy 9%
+Nuclear 5%
+Gas 23%
+Hydro 3%
+Coal 27%
+Bioenergy 9%
+Nuclear 5%
+Crude Oil 28%
+Crude Oil 29%
+Crude Oil 31%
+Hydro 3%
+Hydro 3%
+Other Renewables 2% * Latest year available ** In million boe per day Source: IEA, World Energy Outlook 2019. 
+Total Energy Demand** 285. 
+Total Energy Demand 382. 
+Total Energy Demand 353. 
+Total Energy Demand 265 12
+
+
+POTENTIAL TRANSITIONAL RISKS. 
+Policy and Legal Risks � Additional regulations could be enacted to reduce greenhouse gases (e.g. carbon tax, electrification mandates, fuel economy) that increase the cost of our products or reduce demand.
+� We could face increased climate-related litigation with respect to our operations or products.
+� While we do not conduct upstream oil and gas activities, any prohibitions on hydraulic fracturing or increased regulation of the upstream oil and gas industry could affect our ability to procure feedstocks for our assets.
+� Increased climate-related regulations and litigation surrounding pipeline construction, siting and operation could have a negative impact on our ability to transport our feedstock and products.
+Technology Risks � Advances in battery technology and electric vehicle market penetration could reduce demand for traditional transportation fuels.
+� Technological breakthroughs relating to renewable fuels or other fuel alternatives (e.g., hydrogen or ammonia), or efficiency improvements for internal combustion engines, could reduce demand for traditional transportation fuels.
+Market Risks � Consumer preference could shift away from fossil fuels, reducing demand.
+� Potential reduced demand for transportation fuels due to changes to work, school and travel habits resulting from the COVID-19 pandemic.
+Reputational � Controversies associated with carbon emissions could impact investor sentiment, affecting access to capital.
+POTENTIAL PHYSICAL RISKS. 
+Acute Physical Risks � The intensity of weather events, such as hurricanes, flooding, wildfires, snowstorms, drought or temperature extremes, could impact our operations.
+Chronic Physical Risks � Sea-level rise or availability of fresh water could impact our operations.
+POTENTIAL OPPORTUNITIES. 
+Resource Efficiency � We consider energy efficiency to be a core business function and opportunity because it reduces costs, GHG emissions and enhances long-term cost competitiveness.
+� Reduced freshwater use intensity increases resiliency and reduces long-term operating costs.
+Energy Source � The availability and procurement of lower-carbon or renewable energy to power our operations could further reduce the life-cycle carbon intensity of the fuels and products we manufacture.
+Products and Services, Markets and Resilience � Continued research on and development of advanced renewable fuels, such as Virent’s BioForming® technology, could provide new products and markets, increasing revenues.
+� An immediate transition from coal to natural gas to produce electricity would expand the market for the natural gas we process and significantly reduce worldwide GHG and criteria pollutant emissions.
+� The market for clean cooking fuels in parts of Southeast Asia and Africa could expand the export market for the NGLs and LPGs we produce, displacing the coal and biomass that are currently used by many households in these regions.
+� Worldwide demand for petrochemical feedstocks is expected to increase through 2040 because there are few substitutes for oil- and gas-based feedstocks for the petrochemical industry.
+� Gasoline and diesel demand is expected to increase in many developing countries. Our assets are favorably located for export to these countries.
+� Worldwide and domestic demand for renewable fuels in the transportation fleet is expected to increase through 2040, and governments are adopting programs that provide economic incentives to increase renewable fuel production.
+Evaluation of Climate-Related Risks and Opportunities. 
+Perspectives on Climate-related Scenarios 2020 | 13
+
+
+Worldwide Refined Petroleum-Based Liquids Demand 0 25 50 75 100 125. 
+Road transport Aviation and shipping Industry and petrochemicals Other sectors 2000 2018. 
+Actuals 2030E 2040E. 
+Current Policies Scenario 2030E 2040E. 
+Stated Policies Scenario 2030E 2040E. 
+Sustainable Development Scenario (SDS) million bpd. 
+Source: IEA, World Energy Outlook 2019. 
+Scenario Projections for Petroleum-Based Liquids. 
+The IEA projects worldwide demand for petroleum-based liquids will remain strong through 2040, indicating a 10% increase under its Stated Policies Scenario. On the other hand, to meet the carbon-constrained SDS, demand would need to decline by 10% through 2030 followed by another 23% decline by 2040. Some key themes from IEA's 2019 report include: � Road Transport: With nearly 1 billion more passenger vehicles on the road in 2040 than today, energy demand for petroleum-based transportation fuel will grow unless there are significant advances in fuel efficiency, renewable fuel production and electrification of the mobile fleet.
+� Aviation and Shipping: There are few viable options currently available to replace petroleumbased fuels in shipping. As a result, improvements must be made through engine and vehicle design, logistics optimization and research and development of alternative fuels (e.g., ammonia, biofuels and renewable hydrogen).
+� Industry and Petrochemicals: Light-weighting of the transport sector to increase fuel efficiency will be accomplished in part by increasing the use of petroleum-based plastics and composite materials in vehicles, planes and ships.
+� Other: Other areas for demand reduction include making buildings more efficient and replacing oil-fired boilers and heaters with natural gas, electric or renewable sources.
+CLIMATE SCENARIO ANALYSIS OF REFINING AND MARKETING. 
+Marathon Petroleum's refinery in Detroit, Michigan 14
+
+
+North American Refining Projections � North American refining is projected to experience modest capacity reductions through 2040 under the Stated Policies Scenario. During 2019 and 2020 there have been at least seven announced refinery closures or renewable conversions, shown below. This is approximately 4% of U.S. refining capacity.
+� The IEA notes despite the projected decline in domestic U.S. gasoline demand over the long term, U.S. refiners benefit from a high level of complexity, giving them greater capability to meet global demand. U.S. refineries also have an ample supply of domestic feedstock, lower energy costs and are favorably situated such that they can readily export to regions with higher demand for imported transportation fuels and other refined products (Africa, Asia, Europe and Latin America).
+� The IEA also notes an increasing gasoline surplus over the long term could cause highercost refiners, particularly those along the East Coast of the United States, to face challenges in sustaining their utilization rates.
+Plant Capacity (bpd) Note. 
+PES Philadelphia, Pennsylvania 335,000 Permanent shutdown. 
+MPC Martinez, California 161,000. 
+Indefinitely idled. Evaluating conversion to renewable diesel production. 
+P66 San Francisco, California 120,000. 
+Announced conversion to renewable diesel production. 
+GCEH Bakersfield, California 70,000. 
+Announced conversion to renewable diesel production. 
+Holly Frontier Cheyenne, Wyoming 52,000. 
+Announced conversion to renewable diesel production. 
+MPC Gallup, New Mexico 27,000 Indefinitely idled. 
+MPC Dickinson, North Dakota 19,000 Conversion to renewable diesel production. 
+Total Capacity Reductions 784,000. 
+REFINING AND MARKETING SCENARIO ANALYSIS. 
+Worldwide Refining Projections � The IEA indicates net refining capacity could increase by another 10.3 million bpd through 2040 under its Stated Policies Scenario. The new capacity would be larger and more complex, displacing old, higher cost and simpler refineries. Capacity increases are expected primarily in the Middle East, China, India and Southeast Asia. The regions with the most capacity at risk are Europe, Japan and Korea, Russia and China. Capacity in the United States, the world’s largest refining center, is expected to remain relatively flat through 2040.
+� Under the SDS, approximately one-third of the refining capacity worldwide could be impacted, leading to intense competition among refineries.
+0 2 4 6 million bpd * The IEA does not project refinery closures in India, Middle East, Brazil and other areas in the Asia Pacific region under the Stated Policies Scenario.
+Europe. 
+China. 
+Japan & Korea. 
+North America. 
+Russia. 
+Rest of World*
+Refinery Capacity at Risk by Region in 2040. 
+Stated Policies Scenario. 
+Capacity at Risk in Each Region. 
+Perspectives on Climate-related Scenarios 2020 | 15
+
+
+United States Refining Cost Advantage. 
+Cumulative Crude Oil Distillation Capacity (million BPD)
+Proprietary and Confidential © HSB Solomon Associates LLC. 
+Relative Cost to Produce Transportation Fuels (USD/bbl) 0 2 4 6 8 10 12 14 16 18 20 22 65 75 85 95 105 115 125 Latin America. 
+Middle East. 
+Other Asia. 
+Europe. 
+India/China. 
+U.S./Canada. 
+REFINING — POTENTIAL RISKS AND OPPORTUNITIES � A key climate-related risk to our Refining and Marketing segment is decreased consumer demand for traditional transportation fuels in many developed countries, including the United States, due to higher fuel efficiency, an increasing market share of electric vehicles, substitution to renewable fuels and increased product costs.
+� Opportunities include increased exports from the U.S. to regions projected for growth, the ability to transition existing assets to renewable fuel production and increased efficiency of existing assets.
+FACTORS CONTRIBUTING TO RESILIENCY OF U.S. REFINING � Lower energy costs due to robust domestic natural gas production.
+� Competitive feedstock costs compared to global competitors due to robust domestic crude production.
+� Integrated logistics networks to cost-effectively transport crude to refineries.
+� Highly skilled and trained workforce.
+� Favorable macroeconomic differentials are greater than the regional transportation costs, enabling the U.S. refining sector to export products to other countries and regions, including Asia, Latin America, Africa and Europe.
+Consistent with our internal forecasts, the IEA projects the United States will continue to maintain lower energy prices through 2040 compared to other global regions, even in the SDS. As a result, we believe the U.S. refining sector, including MPC, is well positioned to maintain a cost advantage over other regions of the world.
+The U.S. refining sector has the further advantage of a higher level of technological complexity compared to other regions of the world. This provides a greater capability to adjust output to the products most in demand worldwide. Further, complex U.S. refineries are generally located near petrochemical facilities, providing synergies for easy delivery of petrochemical feedstocks, reducing transportation costs and emissions. As a result, we expect U.S. refining capacity utilization to remain relatively high compared to other regions as the global refining sector adjusts output to match the reductions in transportation fuels projected by the Stated Policies Scenario and SDS.
+U.S. Exports of Transportation Fuels 2017 2015 2013 0 500 1,000 1,500 2,000 2,500 thousand barrels per day. 
+Gasoline Diesel. 
+Kerosene - Jet Fuel. 
+Renewable Fuels (Ethanol and Biodiesel) 2019 2011. 
+Source: U.S. Energy Information Administration 16
+
+
+RESILIENCY OF MPC REFINING. 
+We have retained HSB Solomon Associates LLC (Solomon) to evaluate the resiliency of our refineries against the projections in the IEA’s Stated Policies Scenario and SDS, as they were presented in the World Energy Outlook 2018.5 Solomon considered the following key assumptions in its analysis: � Refineries with high operating costs, low utilization and low net cash margins would cease operation in lieu of the entire refining sector operating at lower utilization rates.
+� Regional trade flows of transportation fuels would favor certain regions over others. Other factors, such as refineries serving niche markets, were also considered.
+� Refinery-specific production costs and other performance data were utilized from Solomon's 2018 worldwide Fuels Study.
+� The transportation fuel demands projected in the Stated Policies Scenario and SDS from the World Energy Outlook 2018 were used.6 � Consideration was also given to refineries in countries that may receive government subsidies to stay running regardless of economic pressures.
+Solomon’s analysis indicates the majority of MPC’s refining and marketing portfolio would remain cost competitive, even in the carbonconstrained SDS. This is due to the U.S. cost advantages discussed in the previous section, the location of our assets and the markets they serve, as well as the benefits of our integrated business model relative to other global refiners. As shown on the graph on Page 16, there is a wide variation in refinery costs within North America and worldwide.
+Solomon’s analysis identified that our Martinez, California, and Gallup, New Mexico, refineries could face economic and competitive challenges as demand for traditional transportation fuels declines. The short-term demand interruptions from COVID-19 confirmed this analysis. As a result, we have indefinitely idled our Gallup refinery and are evaluating the conversion of the Martinez refinery from a 161,000 bpd petroleum refinery into a state-of-the-art 48,000 bpd renewable diesel facility. These renewable fuels are in high demand and expected to generate valuable credits to comply with the California Low Carbon Fuel Standard (LCFS). By taking these steps, we plan to be among the first to market to take advantage of these new business opportunities created through low-carbon regulations.
+Marathon Petroleum's refinery in Kenai, Alaska. 
+Perspectives on Climate-related Scenarios 2020 | 17
+
+
+Extensive Refined Product Export Capabilities. 
+Expanding markets to maintain high refinery utilization rates. 
+We will continue to analyze each of our refining assets to ensure that they remain competitive and contribute to long-term shareholder returns as the world transitions toward a lowercarbon future. Some examples of strategies we are implementing based on future demand projections include: � We are leveraging our nationwide interconnected footprint to procure advantageous feedstocks and place product both domestically and internationally, resulting in maximum refinery utilization. Our refining utilization rates have historically been higher than the United States and world averages. We expect this trend will continue as other regions, such as Latin America and Europe, may face additional challenges in a shifting demand environment, thereby expanding our export opportunities.
+� We have invested hundreds of millions of dollars to expand our capabilities to export from our U.S. Gulf Coast and West Coast refineries and terminals. In the near term, with completion of ongoing expansion projects, we would be able to export approximately 660,000 bpd of transportation fuels, which is more than one-quarter of our light-product production. This capability provides us with added flexibility to market more of our gasoline and distillate in other regions such as Mexico, Asia, Central and South America, Europe and Africa.
+� With the highest resid upgrading and distillate hydrotreating capacity of all U.S. refiners, we are well positioned to continue producing lower-sulfur, lower-carbon intensity fuels to meet International Maritime Organization (IMO) standards.
+� Our overall weighted Nelson Complexity Index7 score is much higher than the world average. By operating our refineries as an integrated system, we are able to optimize this complexity to target output toward higher-demand products where they are most cost effective to produce within our system.
+Our analysis shows that our remaining refining operations are in a superior position compared to other regions of the world, which we believe will provide further export opportunities as the global refining sector adjusts output to match the demand for transportation fuels projected by the Stated Policies Scenario and SDS. We have demonstrated that we will react appropriately to market signals, as we did in our decisions to indefinitely idle our Gallup, New Mexico, and Martinez, California, refineries and conversion of our Dickinson, North Dakota, refinery to produce renewable diesel. Given the projected viability of our refining operations in a lower-carbon economy, other facets of our operations, such as our crude and product pipelines, transport and terminal operations, stand to similarly benefit.
+18. 
+Anacortes. 
+Los Angeles. 
+El Paso. 
+Garyville Galveston Bay. 
+Other International Markets Mexico. 
+Mexico. 
+International Markets. 
+International Markets. 
+Refined Product Export Capability by Location Export Volume (thousand bpd)
+Anacortes 20. 
+Los Angeles 60. 
+El Paso 20. 
+Garyville 405. 
+Galveston Bay 155. 
+Total 660
+
+
+Driving Life-Cycle Emission Reductions. 
+Our decisions to indefinitely idle our Gallup, New Mexico, and Martinez, California, refineries, conversion of our Dickinson, North Dakota, refinery to a renewable diesel facility, and evaluation of a similar conversion of our Martinez refinery are projected to reduce the life-cycle GHG emissions for these three facilities by approximately 30 million tonnes per year of CO2e. The decision to begin producing renewable diesel fuel is also expected to result in strong capital returns driven by credits generated through the California Low Carbon Fuel Standard (LCFS) and federal Renewable Fuel Standard (RFS).
+After the conversions, MPC estimates a reduction in life-cycle GHG emissions from these three facilities of approximately 30 million tonnes of CO2e per year. 
+ESTIMATED 2019 LIFE-CYCLE GHG EMISSIONS. 
+Dickinson, Gallup and Martinez Refineries (Pre-Conversion) 35 million tonnes. 
+ESTIMATED FUTURE ANNUAL LIFE-CYCLE GHG EMISSIONS. 
+Dickinson, Gallup and Martinez Plants (Post-Conversion) 5 million tonnes. 
+Oil Production 4 million tonnes. 
+SCOPE 3. 
+Refining 3 million tonnes. 
+SCOPE 1 AND 2. 
+End Use 28 million tonnes. 
+SCOPE 3. 
+Feedstock Production 3 million tonnes. 
+SCOPE 3. 
+Biorefining 2 million tonnes. 
+SCOPE 1 AND 2. 
+End Use 90,000 tonnes. 
+SCOPE 3. 
+Perspectives on Climate-related Scenarios 2020 | 19
+
+
+Scenario Projections for Renewable Fuels. 
+The advancement of renewable fuels is a key component of the IEA’s climate scenarios. Renewable fuels are derived from biomass or waste feedstocks and include ethanol, biogasoline, biodiesel and renewable diesel. The IEA projects that demand for renewable fuels will continue to grow through 2040 under all three of its scenarios.
+Because renewable fuels are sourced from biomass materials (e.g., corn, soybeans, animal fat), the CO2 released from combusting these fuels is offset by the CO2 that was removed from the atmosphere by the biomass feedstock. Renewable fuels, however, are not zero-emission fuels because it takes energy to turn biomass material into fuel. For instance, producing corn ethanol requires energy to plant and harvest corn, transport the kernels to the ethanol plant, refine the material into ethanol, and transport and deliver the final product to consumers. The carbon emissions associated with each point in the value chain are added together to determine the carbon intensity (CI) of the fuel. Renewable fuels have a lower CI value than petroleum-based fuels, but the CIs of fuels can vary widely because of different levels of carbon intensity in land use practices and manufacturing processes.8 An example of this is provided on Page 22. Carbon reductions anywhere along the value chain, such as more efficient refining, will result in a lower CI value.
+Renewable Fuels Demand Through 2040. 
+Actuals 2018 2000. 
+Current Policies Scenario 2040E 2030E. 
+Stated Policies Scenario 2040E 2030E. 
+Sustainable Development Scenario (SDS) 2040E 2030E 0 2 4 6 8 million barrels of oil equivalent per day. 
+Source: IEA, World Energy Outlook 2019. 
+CLIMATE SCENARIO ANALYSIS OF MPC’S RENEWABLE FUELS PROGRAM. 
+Marathon Petroleum's biodiesel plant in Cincinnati, Ohio 20
+
+
+RENEWABLE FUELS PROGRAM SCENARIO ANALYSIS. 
+Because renewable fuels have a lower life-cycle carbon intensity (CI) than traditional petroleumbased fuels, increased use of renewable fuels is a key strategy in our greenhouse gas reduction efforts. See the diagram on Page 22. Energy produced from renewable fuels results in emitting less carbon to the atmosphere than the same amount of energy from fossil fuels when the full life cycle of the fuels is considered. As a result, the IEA projects that demand for renewable fuels could increase by more than 400% through 2040.
+MPC DELIVERED APPROXIMATELY 2.4 BILLION GALLONS. 
+OF RENEWABLE FUELS TO CONSUMERS IN 2019. 
+ADVANCED BIOFUELS. 
+Through our subsidiary, Virent, Inc., we are working to commercialize our novel BioForming® process that converts sugars into biogasoline, biojet fuel, and renewable feedstocks that can be made into synthetic fibers and plastics.
+MPC is a market leader in the production and delivery of renewable fuels. In 2019, we delivered approximately 2.4 billion gallons to consumers. We are investing approximately $500 million to substantially increase our renewable fuels production through the conversion of our Dickinson, North Dakota, petroleum refinery to produce renewable diesel, and we are evaluating a further investment to convert our Martinez, California, refinery. We also plan to invest more than $100 million over the next 10 years to commercialize our Virent BioForming® process that converts sugars into biogasoline, biojet fuel and renewable feedstocks that can be made into synthetic fibers and plastics.
+We are also working with Fulcrum BioEnergy to process roughly 800 bpd of biocrude derived from municipal solid waste through one of our refineries. The project, if completed, would avoid 69,000 tonnes of CO2e per year.
+RENEWABLE DIESEL. 
+We are converting our Dickinson, North Dakota, refinery to a renewable diesel facility and evaluating the conversion of our Martinez, California, refinery that would collectively be capable of producing approximately 60,000 bpd of renewable diesel.
+ETHANOL. 
+Through our joint venture with The Andersons, Inc., we produced more than 460 million9 gallons of ethanol in 2019, and we blended more than 2 billion gallons into the fuel we marketed and sold.
+BIODIESEL. 
+We produced more than 70 million gallons of biodiesel at our Cincinnati plant in 2019, and we blended almost 100 million gallons of biodiesel into fuel that we marketed and sold.
+®
+Perspectives on Climate-related Scenarios 2020 | 21
+
+
+Comparing the Carbon Intensity (CI) of Different Fuels gCO2e/MJ = grams of carbon dioxide equivalent per megajoule of energy. 
+Source: California Air Resources Board, Approved Pathways as of July 27, 2020.
+Diesel 100 gCO2e/MJ. 
+Oil Extraction Transportation Transportation Combustion Refining. 
+Crude Oil. 
+Renewable Diesel (soy-based) 53-58 gCO2e/MJ. 
+Land use change and farming soy. 
+Soy oil collection and transport Biorefining Transportation/ Blending. 
+Transport of oil to refinery Combustion. 
+CO2 emissions are considered offset by the carbon previously removed from atmosphere by the plant material.
+Soybeans. 
+Renewable Diesel (corn-based) 27-37 gCO2e/MJ. 
+Land use change and farming corn. 
+Corn oil collection and transport Biorefining Transportation/ Blending. 
+Transport of oil to refinery Combustion. 
+CO2 emissions are considered offset by the carbon previously removed from atmosphere by the plant material.
+Corn. 
+Renewable Diesel (tallow-based) 24-52 gCO2e/MJ. 
+Tallow production Transportation Transportation/ Blending Combustion Biorefining. 
+CO2 emissions are considered offset by the carbon previously removed from atmosphere by the renewable feedstock.
+Animal Fat (tallow) 22
+
+
+INCREASE RENEWABLE FUELS PRODUCTION AND ENERGY USE. 
+Renewable Fuels Production. 
+MPC is working to reduce the carbon intensity of the fuels we produce and sell. One of our strategies is to increase the production of renewable fuels, which have a lower life-cycle carbon intensity than traditional petroleum-based fuels because the CO2 released from burning renewable fuels is offset by the carbon that was removed from the atmosphere by the biomass used to produce the fuel.
+MPC is significantly increasing the volume of renewable fuels that we manufacture through conversion of our Dickinson, North Dakota, refinery and evaluation to convert our Martinez, California, refinery to produce renewable diesel. The Dickinson plant is scheduled to reach full production capacity in 2021, and the evaluation of converting our Martinez, California, refinery is ongoing. Once complete, these projects would more than triple our renewable fuel production from around 300 million gallons per year to more than 1 billion gallons per year.
+Estimated MPC Renewable Fuels Production Increases 2019-2025. 
+Renewable Energy Use. 
+We continually evaluate and implement strategies to reduce the carbon intensity of all of the fuels we produce. One potential strategy is to invest in the production and procurement of renewable electricity to reduce our Scope 2 emissions. To date, wind power is being used to power our Harpster, Ohio, pipeline pump station. In 2019, the turbine generated 31.3% of the electricity for the station, which is equivalent to offsetting the power demand of approximately 300 homes per year. We also use solar power at our Brecksville, Ohio, terminal to aerate our stormwater ponds to keep them healthy and compliant with the Clean Water Act requirements. We are also evaluating wind energy to power our Dickinson renewable diesel facility, which would further reduce the carbon intensity of the fuel.
+0 200. 
+Million gallons per year 400 600 800 1,000 1,200 2019 2022E 2021E 2023E 2024E 2025E. 
+Martinez Renewable Diesel (Under Evaluation)
+Dickinson Renewable Diesel. 
+Anderson/Marathon JV Ethanol (Equity Share)
+Cincinnati Biodiesel. 
+Perspectives on Climate-related Scenarios 2020 | 23
+
+
+EMBRACE INNOVATION AND DEPLOY ADVANCED TECHNOLOGIES. 
+Research and Development of Advanced Biofuels. 
+We are encouraged by the progress on advanced biofuels research and development being made by our wholly-owned subsidiary, Virent, Inc. Virent is working to commercialize a novel process — the BioForming® process — for converting biobased feedstocks into renewable fuels and chemicals.
+The company was founded in 2002 and acquired in 2016. Since its inception, Virent has invested over $200 million in research and development of advanced biofuels, and we continue to invest over $10 million per year on further development of the technology. One of its products, BioFormate®, is similar to petroleum reformate, albeit derived from biomass. It can be processed into biorenewable products, including gasoline and jet fuel blending components, bioparaxylene (a key raw material for the production of polyester fibers and packaging), and biobenzene for use in renewable plastics.
+We continue to make progress on our demonstration unit to further develop the Virent technology toward full-scale application. Fuels and feedstocks produced through Virent’s process can have carbon intensities less than half the levels of traditional petroleumbased fuels and chemicals. Virent’s fuels are also unique in the biofuels industry because Virent’s hydrocarbon molecules are the same as those found in today’s petroleum products, but originate from renewable feedstocks. These materials can be dropped into existing infrastructure or blended in high concentrations to make premium quality biobased gasoline, diesel or jet fuel.
+Carbon Capture, Use and Sequestration (CCUS)
+MPC supports the continued development and use of carbon capture, use and sequestration (CCUS) technology as a strategy to reduce emissions of CO2. In 2019, MPC had six CCUS plants in operation that collectively captured over a half million tonnes of CO2. CCUS installations are currently suitable for highvolume concentrated CO2 streams that are relatively easy to capture, such as from a vent or stack. Captured carbon dioxide is currently being sold for industrial applications and to the food and beverage industry. We continue to evaluate opportunities to expand our CCUS footprint in areas where there are subsidies, tax credits or carbon credits that can make projects cost effective.
+®
+CCUS Site Tonnes CO2 captured per year. 
+Los Angeles, California, refinery 157,000. 
+Martinez, California, refinery 41,000. 
+Albion, Michigan, ethanol plant10 86,000. 
+Greenville, Ohio, ethanol plant10 92,000. 
+Denison, Iowa, ethanol plant10 90,000. 
+Catcher Ranch, Oklahoma, gas plant 56,000. 
+Total CO2 Captured 522,000. 
+Biopolyester shirt made from 100% renewable resources 24
+
+
+Scenario Projections for Natural Gas. 
+Demand for natural gas is expected to increase through 2030 under all three IEA scenarios, including the SDS. After 2030, the SDS models natural gas demand returning to current levels, whereas the Stated Policies Scenario projects large increases through 2040.
+Increased demand comes primarily from higher demand in the power, industrial and transportation sectors. The IEA notes that nearterm coal-to-gas switching can provide a “quick win” by reducing GHG emissions by nearly 1.2 billion tonnes per year along with enormous reductions in criteria air pollution.
+Demand for nonmethane fractions of natural gas, such as ethane, propane, butane, pentane, natural gasoline and condensates, is also expected to increase. These NGLs are important feedstocks for the petrochemical industry (e.g., ethane cracking), while condensate is easily and efficiently processed at refineries.
+Increased fractionation of liquefied petroleum gases (LPGs), such as propane and butane, is also needed for clean cooking fuel. This is a key United Nations Sustainable Development Goal.11 Developing economies in Asia and Africa represent the bulk of the growth in residential LPG demand, but these regions do not have sufficient refining capacity or local NGL production to meet their needs. Thus, a large share of demand must be met by imports from the United States.
+billion cubic meters. 
+Actuals 2018 2000. 
+Current Policies Scenario 2040E 2030E. 
+Stated Policies Scenario 2040E 2030E. 
+Sustainable Development Scenario (SDS) 2040E 2030E 0 1,000 2,000 3,000 4,000 5,000 6,000. 
+Natural Gas Demand Projections Through 2040. 
+Source: IEA, World Energy Outlook 2019. 
+CLIMATE SCENARIO ANALYSIS OF MIDSTREAM OPERATIONS. 
+MPLX gas processing plant in Evans City, Pennsylvania. 
+Perspectives on Climate-related Scenarios 2020 | 25
+
+
+Midstream Scenario Analysis. 
+IEA MIDSTREAM PROJECTIONS. 
+Natural gas emits about half the amount of carbon dioxide as coal when used to generate electricity. Given this significant advantage, the IEA continues to project strong demand for natural gas and NGLs through 2040.
+� Natural Gas: The IEA projects worldwide natural gas demand will increase by 37% under its Stated Policies Scenario. Under the SDS, demand increases initially, then returns to current levels. The Stated Policies Scenario also projects that U.S. natural gas production will increase by approximately 30% through 2040 and is expected to be concentrated in the Utica, Marcellus and Permian basins.
+� Nonmethane Fractions of Natural Gas: Demand remains strong through 2040 for the nonmethane fractions of natural gas called natural gas liquids (NGLs) and condensates. NGLs are becoming important feedstocks for the petrochemical industry (e.g., ethane cracking). The IEA projects petrochemical feedstock demand could increase by as much as 50% through 2040. The IEA and United Nations also project a significant market increase is needed for clean cooking fuel worldwide. Additionally, condensates generated from the raw natural gas take minimal energy to process at refineries, providing a lower carbon-intensity feedstock than crude.
+� Product Exports: The strong growth in U.S. crude, natural gas and NGL production will require additional infrastructure to link supply to global demand markets. Pipelines and processing, fractionation and export facilities will be needed to allow U.S. producers to realize full product value.
+� Transportation: The use of natural gas in international shipping is projected to reach 50 bcm by 2040 from less than 1 bcm today and would account for 13% of the shipping fuel mix. The International Maritime Organization has adopted an initial strategy to cut GHG emissions by 50% through 2050. Natural gas fuel is considered to be a viable option to help meet this goal.
+MIDSTREAM — POTENTIAL RISKS AND OPPORTUNITIES. 
+Our Midstream segment, which includes MPLX, faces the following key climate-related risks: � Reduced demand for traditional transportation fuels that are transported and stored by our logistics assets, including pipelines, terminals and marine fleet.
+� Potential regulations and policies that reduce demand for natural gas in electricity generation and heating.
+� While we do not conduct hydraulic fracturing operations, we do provide gathering, processing and fractionation services with respect to natural gas, oil and NGLs produced by our customers. As a result, any prohibitions on hydraulic fracturing or increased regulation of the upstream oil and gas industry could affect our Midstream business.
+� Increased climate-related regulations and litigation surrounding pipeline construction, siting and operation could have a negative impact on our ability to transport our feedstock and products.
+Key opportunities include: � Coal-to-gas switching would increase demand for natural gas and provide a “quick win” by reducing near-term GHG emissions along with reductions in air pollution.
+� Increased petrochemical feedstock demand and demand for clean cooking fuel would further strengthen demand for NGLs from our deethanization and fractionation facilities located in the Marcellus, Utica and Permian basins.
+� The integration of our transportation and storage assets with our refining, gas processing and branded retail locations provides opportunities to quickly and cost-effectively take advantage of market opportunities, such as being located in areas accessible to existing and planned gas and petroleum product export facilities.
+� Existing logistics infrastructure could potentially be converted to transport renewable fuels and green or blue hydrogen as emerging markets mature.
+26
+
+
+OUR MIDSTREAM RESILIENCY. 
+Natural Gas Gathering and Processing. 
+The IEA projects the natural gas sector could experience worldwide investments from $6 trillion to $8 trillion through 2040. Our strategic goals align with this investment trend. Since 2015, we have invested about $19 billion in our Midstream segment to acquire, steadily grow, and optimize our integrated natural gas gathering and processing network. This investment trend has lowered our overall carbon intensity substantially since 2014. It has also benefited the environment, to the extent that natural gas is displacing coal for electricity generation. As shown in the graph below, the volume of natural gas we have processed since 2014 avoids over 230 million tonnes of GHGs when compared with coal use.
+The IEA projects the United States will continue to be the largest producer of natural gas in the world through 2040, spawning significant exports of natural gas through pipelines to Canada and Mexico and LNG to other regions of the world. MPC and MPLX are strategically located to take advantage of this opportunity.
+GHG Avoided Since 2014 from Coal Displacement (assuming incremental natural gas displacing coal for electricity generation) 2014 2015 2016 2017 2018. 
+Using delta between coal and natural gas emission factors from eGRID 2016 2019. 
+Approximately 10% of the natural gas produced in the United States passes through our integrated gas gathering and processing networks, which are strategically located within the most prolific natural gas basins in the U.S. — the Marcellus, Utica and Permian.
+The location of our assets allows us to tie into other existing and planned infrastructure, such as long-haul pipelines, to deliver feedstock and product to refineries, petrochemical facilities and export terminals on the East Coast and the Gulf Coast.
+Logistics and Storage Infrastructure. 
+Given the projected viability of our natural gas processing plants, and our previously discussed refining operations, our logistics assets, including storage terminals, pipelines, marine fleet and trucking fleet, will continue to transport feedstocks and products to and from our production facilities. We also project our nationwide logistics network provides us with a greater ability to procure and deliver advantaged feedstocks to our production facilities and transport finished products from our facilities to demand centers. Our existing logistics infrastructure could also potentially be converted to transport renewable fuels and green or blue hydrogen as those emerging markets mature.
+Perspectives on Climate-related Scenarios 2020 | 27. 
+Cumulative GHG Avoided Natural Gas Throughput Annual GHG Avoided. 
+Natural Gas Processing Throughput (million cubic feet per day)
+GHG Avoided (million tonnes CO2e) 0
+3,000 6,000 9,000 0
+120 240 60 180
+
+
+LOWER CARBON ENERGY INTENSITY “Focus on Methane” Program. 
+Natural gas, which consists primarily of methane, emits half the amount of carbon dioxide as coal when used to generate electricity. Given this significant advantage, coal-to-gas switching for power generation is one of the best “quick win” strategies that can be employed to reduce nearterm GHG emissions. The U.S. EPA notes that because methane is also a potent GHG, achieving significant reductions in methane emissions could also have a rapid and significant effect on atmospheric warming potential.
+The oil and gas industry has five primary segments with unique sources and challenges to controlling methane emissions: oil and gas production (45% of methane emissions), gathering and boosting (19%), transmission and storage (18.5%), processing (6.7%) and distribution (6.5%). We operate within the gathering and boosting and processing segments, which entail potential methane emissions sources such as pipeline launchers/receivers, fugitive components, compressor stations and processing plants.
+We have established MPLX’s “Focus on Methane” program as a holistic approach to voluntarily reduce methane emissions along all aspects of MPLX's gathering and processing operations. The program builds on the significant intensity reductions we have achieved over the past five years, partly from innovative settlement agreements with the EPA, through which we developed proprietary technology to redesign pipeline launchers and receiver stations to minimize emissions. MPLX has shared its emission-reduction solutions with nearly a thousand people via in-person trainings and our royalty-free patents that are available on the MPLX website. We also implemented an enhanced leak detection and repair (LDAR) program at many of our gas processing and fractionation plants and began installing valves with low-emission technology. Through these programs, along with other measures, we have reduced methane emissions intensity by approximately 30%.
+We are not done yet. We have established a goal to reduce methane emissions intensity further, to 50% below 2016 levels by 2025. We plan to accomplish this in the following three main areas:
+Source Control Strategy. 
+High-bleed pneumatic controllers Phase out “high” bleed controllers on existing facilities and replace with lower-emitting devices.
+Intermittent-bleed pneumatic controllers Implement LDAR monitoring on prioritized intermittent bleed controllers at gas plants and compressor stations.
+Enhanced Leak Detection and Repair Program. 
+Implement optical gas imaging (OGI) monitoring program at prioritized compressor stations where LDAR is not currently required.
+In addition to these areas identified above, MPLX is evaluating additional programs and projects to provide further methane reductions.
+CO2e. 
+Reduce methane emission intensity of MPLX gathering and processing operations to 50% below 2016 levels by 2025.
+TARGET. 
+MPLX Methane Emission Intensity (MMcf CH4 / MMcf natural gas throughput) 2016 2017 2018 2019 2025 Goal 0.00% 0.02% 0.03% 0.04% 0.01% 28
+
+
+IMPROVE ENERGY EFFICIENCY. 
+MPLX Logistics and Storage Energy Improvements. 
+Our MPLX logistics and storage organizations, which include our pipelines, terminal and transportation assets, continue to implement a formalized energy-efficiency program to drive improvements. As part of the program, in 2019 we baselined energy use at nine of our fuel terminals and entered these facilities into U.S. EPA’s ENERGY STAR® Challenge for Industry, which sets a voluntary goal to reduce energy usage for an industrial facility by 10% within five years. As part of the challenge, we will report on the reductions we are achieving and use this information to look for energy savings at other MPC sites. Two of these terminals, NashvilleBordeaux, Tennessee, and Champaign, Illinois, achieved the challenge in 2020 by reducing energy intensity by 30% and 48%, respectively.
+Some examples of energy saving measures being implemented include:
+Smart-start Vapor Recovery: Vapor recovery units (VRUs) recover vapors from trucks as they are loaded with fuel at terminals. By utilizing continuous emission monitors equipped with smart-start processing equipment, the VRUs operate only while loading, saving power and decreasing emissions. Across 45 MPLX terminals in 2019, we avoided 16,380 tonnes of CO2 emissions.
+EPA’s SmartWay® Program: A partner company in EPA’s SmartWay Transport program, we improved transportation efficiency in 2019, resulting in a 10.9% increase in miles per gallon and a 9.8% reduction in CO2 grams per mile.
+Marine Fuel Optimization: Our Marine organization continues to implement its fuels optimization program in our inland and oceangoing marine fleets. The program has been a huge success, reducing fuel usage up to 2 million gallons per year and avoiding more than 20,000 tonnes per year in GHG emissions. The program requires captains to continuously monitor speed and acceleration, resulting in an average speed reduction of about 2 mph. This small moderation can reduce fuel usage by as much as 20%.
+We have implemented similar measures with our marine fleet partners to reduce emissions.
+Perspectives on Climate-related Scenarios 2020 | 29
+
+
+MANAGING PHYSICAL RISKS TO OUR FACILITIES 30. 
+Throughout our more than 130 years of successful operation, we have developed mature systems to effectively manage the potential for acute physical risks, such as floods, wildfires and hurricanes, and chronic physical risks, such as sea-level rise or water shortages. Information relating to our water management programs is available on Page 35.
+We ensure that our facilities are designed, constructed and operated to withstand a variety of extreme weather and environmental conditions. Based on our experience, we continuously assess whether additional measures are necessary. We have spent hundreds of millions of dollars hardening our assets where appropriate. For instance, when we constructed the wharf at our Martinez, California, facility, we factored a potential sea-level rise into the design of the facility. We have also upgraded control rooms at our Garyville refinery in Louisiana and our Galveston Bay refinery in Texas City, Texas, to withstand wind and storm surges characteristic of the most extreme weather in their locations. These improvements to harden our assets on the Gulf Coast have been tested during several large storms, including Hurricanes Katrina, Ike and Harvey. These same two locations are also protected by extensive levee systems maintained by levee districts regulated by the federal government.
+After construction of a facility or asset, we monitor and manage its integrity and adjust as necessary based on changing conditions. An example is the integrity management of our pipeline system. We monitor stream crossings throughout our pipeline network using a powerful combination of physical inspections and predictive modeling. By doing so, we have identified pipeline segments that we plan to proactively relocate deeper below waterway beds to reduce the risk of future scouring if flow conditions change.
+We also prepare for emergencies to ensure we can respond effectively. We have a dedicated Emergency Management Group (EMG) that assures our ongoing ability to respond rapidly and appropriately to emergency incidents anywhere we operate. The EMG staff coordinates with all business components to implement best practices. Each of our operating locations maintains site-specific emergency preparedness and response plans tailored to the risks they may encounter. These location-specific plans are subject to regular drills and exercises to ensure proper implementation in the event of a real incident.
+
+
+CERT members communicating during our annual simulation training exercise. 
+Perspectives on Climate-related Scenarios 2020 | 31. 
+For incidents with a potential for major disruption beyond the facility level, we have a Corporate Emergency Response Team (CERT). The CERT is comprised of about 250 professionals throughout the company with response expertise and training in the Incident Command System, a globally recognized organizational structure designed to integrate resources across multiple agencies and organizations when an emergency event occurs. To maintain readiness, our CERT members participate in at least one very large training exercise annually and multiple other exercises in support of operating components. As in a real incident, CERT drills involve federal organizations, such as the U.S. EPA or the U.S. Coast Guard, state environmental protection or wildlife agencies and local emergency responders.
+Our robust programs and procedures allow us to safely maintain our operations throughout severe weather incidents and to quickly recover. We have standing agreements in place for alternate workspaces, necessary office equipment and multiple means to maintain internet and telephone connectivity, even during prolonged power outages. We also have agreements for supplies such as generators, repair materials, water and more. We maintain an emergency mass notification system to communicate with personnel before, during and after an emergency. This information is vital to providing humanitarian aid to our personnel, contractors and local communities.
+We also have a Business Recovery Team (BRT) that responds during emergency situations to maintain transportation fuel supplies to affected areas. The BRT coordinates supply and transportation methods throughout our operational areas. The team’s efforts help ensure fuel supplies reach affected areas, facilitating recovery efforts and enabling daily life and normal operations to resume as quickly as possible.
+
+
+MPC’S SUSTAINABLE ENERGY STRATEGY, METRICS AND TARGETS. 
+CO2e. 
+Conserve Natural Resources and Reduce Waste. 
+Lower Carbon Intensity. 
+Increase Renewable Fuels Production and Energy Use. 
+Improve Energy Efficiency. 
+Embrace Innovation and Deploy Advanced Technologies. 
+As discussed throughout this report, we are implementing a sustainable energy strategy that is reducing the carbon intensity of our operations and the products we sell. Our strategy includes the five primary principles below. On the following pages, we provide some additional highlights of our program, including targets where appropriate, to help us implement each principle.
+Marathon Petroleum's refinery in Canton, Ohio, which has received a U.S. EPA ENERGY STAR® plant certification for 15 consecutive years 32
+
+
+CO2e. 
+Reduce Scope 1 and 2 greenhouse gas (GHG) emissions per barrel of oil equivalent (BOE) processed to 30% below 2014 levels by 2030.
+TARGET LOWER CARBON INTENSITY. 
+Reducing Greenhouse Gas Emissions Intensity. 
+MPC is committed to lowering the carbon intensity of our operations and the products we process. This is an overarching principle that has already begun to transform company culture. For example, in March 2020, we became the first independent U.S. refiner to establish a companywide greenhouse gas emissions intensity reduction target. Additionally, we linked achievement of the goal to our executive and employee compensation programs.
+MPC’s GHG emissions intensity reduction encompasses both Scope 1 emissions – direct emissions from our operations – and Scope 2 emissions – indirect emissions from the electricity and steam we purchase to support our business activities. This target measures how efficiently we operate our facilities and implement a business plan that promotes a lower carbonintensive future. Our GHG intensity goal is in line with the 2.5% annual linear reduction rate the international Science-Based Targets initiative has recommended to enable companies to support the “well below 2-degrees Celsius” scenarios of the Paris Climate Agreement.12 Reducing Scope 1 and 2 emissions also reduces the overall carbon intensity of the fuels that we sell.
+This ambitious target gives us the opportunity to rethink how we allocate capital and is prompting us to direct significant engineering resources toward becoming much more carbon efficient. It has also highlighted areas for further evaluation, such as increasing our renewable footprint and reducing methane emissions.
+MPC Companywide GHG Intensity Target (tonnes CO2e/thousand BOE processed) * 2020-2030 GHG emissions intensity is estimated and subject to change.
+20 2014 2015 2016 2017 2018 2019 28 26 24 22 29.9 28.3 28.0 26.1 25.3 23.8 30 2030 TARGET* 20.9. 
+Perspectives on Climate-related Scenarios 2020 | 33
+
+
+IMPROVE ENERGY EFFICIENCY. 
+ENERGY STAR® Partnership. 
+MPC has been an ENERGY STAR Partner for more than a decade. The partnership has provided an opportunity to learn best practices from other industrial partners and provides a forum for MPC to help other companies reduce energy consumption and greenhouse gases.
+In 2020, MPC received the ENERGY STAR Partner of the Year—Sustained Excellence Award, the highest honor among ENERGY STAR awards. MPC is the only fuels manufacturing company to earn the award, which recognizes the company for sustained, top-tier energy efficiency and excellent environmental compliance. Only those organizations that have consistently earned Partner of the Year for several years in a row may be awarded further recognition under the Sustained Excellence program. Sustained Excellence is presented at the EPA’s discretion and recognizes that our annual programmatic achievements continue to surpass those in previous years.
+MPC’s Focus on Energy Program. 
+Our Focus on Energy program was established in 2010 within our refining organization and has since spread throughout our company. The program has avoided the equivalent of 1.8 billion btu/hr of energy use and millions of tonnes of GHGs each year along with approximately $500 million in cost savings. This is about the same amount of energy used by about 100,000 homes. Each of our business components has developed energy reduction strategies specific to its energy portfolios based on five basic principles: 1. Identify, establish, track and communicate performance of individual parameters that influence energy use or emissions.
+2. Benchmark energy performance. Our refineries use Solomon’s Energy Intensity Index (EII®). Other operations establish site-specific energy baselines. Using data, we identify efficiency opportunities and develop “energy road maps” for each facility that provide a pathway to achieve the identified efficiencies.
+3. Ensure proposed capital and expense projects are designed for energy efficiency.
+4. Implement programmatic energy-efficiency improvements, such as programs to enhance insulation, steam system performance and heat integration.
+5. Engage our workforce on the importance of energy efficiency so it remains part of our culture.
+ENERGY STAR Refinery Certifications and Challenge for Industry Awards. 
+MPC has received roughly two-thirds of refinery certifications awarded by the EPA despite controlling just over 15% of the total U.S. refinery capacity.
+Five MPC refineries were certified in 2020, the most in any year since the inception of the program.
+MPC has achieved four Challenge for Industry Awards from the EPA since 2017.
+34
+
+
+CONSERVE NATURAL RESOURCES AND REDUCE WASTE. 
+Focus on Water Program. 
+Clean freshwater is essential to sustaining life. Our society relies on water for food, health, livelihoods, and for fun and leisure. Water is also vital to our operations. Water is used to add heat to our refining process (as steam), remove heat from the process (as cooling water), remove salts and impurities from crude oil, protect equipment from corrosion, generate hydrogen and clean equipment during maintenance activities.
+Population increases coupled with a changing climate are projected to increase the number and extent of areas considered water stressed. Currently, four of MPC’s refineries are located in water-stressed regions as defined by the Global Reporting Initiative (GRI) and World Resources Institute assessment tools. Through our commitment to environmental stewardship, we continually evaluate opportunities to conserve water and manage our use of this shared resource in the communities where we operate.
+We have also implemented projects to reduce our use of freshwater. Examples include the installation of a reverse osmosis system at our Detroit refinery that recycles a portion of the plant’s wastewater effluent back into the process; using recycled municipal wastewater effluent instead of groundwater and surface water at our Los Angeles refinery and Dickinson, North Dakota, plant; conversion of once-through cooling water systems to closed-loop systems at our Salt Lake City refinery; optimizing refinery steam systems; and reusing hydrotest water, where feasible, instead of discharging water after each use.
+Through these efforts, we have reduced our freshwater withdrawal intensity by over 10% since 2015, and we have plans for additional reductions. In 2020, we adopted a formal “Focus on Water” program for our refineries to optimize our existing operations to further reduce water usage over time. In 2020, each refinery began development of a site-specific water balance, which accounts for a facility’s water intakes, distribution, use, discharge and consumption. Finalizing these balances will allow standardized water monitoring and reporting to begin at all sites. Through the implementation of this program, we expect to reduce our freshwater withdrawal intensity by an additional 10% by 2030.
+Freshwater Withdrawal Intensity. 
+FACILITY DESIGN Our MPLX gas processing plants are designed to use little to no water in their routine operations. Instead of using steam for heating and water for cooling, nearly all our plants have hot oil heaters that transfer heat to the process and air-cooling units that circulate hot product through air-cooled radiators. These measures eliminate the need for cooling towers and steam boilers that rely on freshwater.
+Megaliters / million BOE 2015 2017 2016 2018 2019 2030 PROJECTION 80 85 90 95 100 70 75 65. 
+Perspectives on Climate-related Scenarios 2020 | 35
+
+
+METRICS AND PERFORMANCE DATA. 
+Each year we measure our performance on a variety of environmental, social and governance (ESG) metrics and report them in our annual Sustainability Report available on our website at www.marathonpetroleum.com/sustainability. The graphs to the right and the table on Page 38 include select metrics from our Sustainability Report relevant to climate-related risks. These metrics are an important tool we use to establish goals and measure our performance.
+The two climate-related goals we established in 2020 identified to the right reflect our commitment to transparency and accountability. We have enhanced our accountability by tying our GHG intensity goal to executive and nonexecutive compensation.
+We have a strong track record of reducing our environmental impact. Since 2014 we have reduced our GHG intensity by approximately 20%. This was accomplished through the diversification of our portfolio to include lower carbon-intensive operations such as renewable fuels production and natural gas gathering and processing. We have also continued to lower the carbon intensity of our assets themselves through the energyefficiency and emission-reduction programs we outlined in the previous sections of this report. By focusing on the intensity of our operations, we have avoided emitting millions of tonnes of greenhouse gases each year. Over the same period, we have made substantial reductions in methane intensity and freshwater withdrawal intensity that have benefited the environment.
+10 15 20 25 30 35. 
+Company GHG Intensity (Scope 1 and Scope 2 Emissions) (tonnes CO2e/mboe manufacturing input) 2014 2015 2016 2017 29.9 2018 2019 28.3 28.0 26.1 25.3 23.8. 
+GHG Intensity Target* 30% below 2014 levels by 2030 * Tied to executive and nonexecutive compensation 0.0 0.01 0.02 0.03 0.04 0.05. 
+MPLX Gathering & Processing Methane Emissions Intensity (MMcf CH4/MMcf natural gas throughput) 2016 2017 2018 2019 0.026. 
+Methane Intensity Target 50% below 2016 levels by 2025 0.026 0.032 0.037 20 40 60 80 100 120. 
+Freshwater Withdrawal Intensity (Megaliters / million boe manufacturing input) 2015 2016 2017 2018 2019 98.8 97.8 92.4 92.1 88.5 36
+
+
+Conclusions. 
+We continue to strengthen our commitment to leading in sustainable energy. This means we strive to lower carbon intensity, increase renewable fuels production and energy use, improve energy efficiency, conserve natural resources and reduce waste, embrace innovation and deploy advanced technologies. With the projected continuing global demand for oil and gas, we believe MPC is well-positioned to remain a successful company even under the IEA’s carbon-constrained Sustainable Development Scenario (SDS). Our Board of Directors, through its Sustainability Committee, and executive leadership team will continue to enhance our climate-related strategies using the framework of the Task Force on Climate-related Financial Disclosure’s recommendations, including the use of scenario planning. We believe our mature governance and risk management processes enable the company to effectively monitor and adjust to the physical risks and transitional risks associated with climate change. The following strategies highlight areas in which we can continue to effectively mitigate potential climate-related risks and take advantage of the potential climate-related opportunities that may present themselves: � Continue to evaluate each of our assets to strengthen their competitive position by ensuring that they achieve best-in-class cost, operating and financial performance so that they each contribute to shareholder return. Prime examples are our decision to indefinitely idle our Gallup, New Mexico, refinery and our evaluation of converting our Martinez, California, refinery to a renewable diesel facility. These actions are expected to have a positive financial and environmental impact. As the world recovers from COVID-19 and continues toward a lower-carbon energy mix, we expect there may be additional worldwide rationalization within the refining industry to match reduced demand.
+� Implement the five principles outlined in our Sustainable Energy Strategy on Page 9, including achievement of our GHG intensity and methane intensity targets.
+� Continue to implement our industry-leading “Focus on Energy” program and participate in U.S. EPA’s ENERGY STAR partnership. The emissions targets modeled in the SDS cannot be met without significant efficiency improvements to all energy sectors, including electricity generation, buildings, industrial and transportation.
+� Continue to increase the production and sales of renewable fuels and advance research and development of renewable fuels technology through our wholly owned subsidiary Virent, Inc.
+� Continue to optimize distillate production at our refineries. Even in the carbon-constrained SDS, the IEA notes alternatives to hydrocarbons are scarce in the freight and aviation sectors.
+� Continue to conserve freshwater resources and reduce water consumption with a focus on regions where there is a potential for water scarcity that could affect our operations.
+The prospective costs of climate regulations to our business are considered as part of our strategic planning process and our approval of capital project allocations. By ensuring our refineries, Midstream assets, marketing systems and retail stores are competitive and efficient, we expect to be in a superior position to meet demand, even in a carbon-constrained future, while reaching our sustainable energy goals.
+MPC’s refinery in St. Paul Park, Minnesota. 
+Perspectives on Climate-related Scenarios 2020 | 37
+
+
+Metric Unit of Measure 2014 2015 2016 2017 2018 2019. 
+OPERATIONAL PERFORMANCE1. 
+MPC manufacturing inputs million boe 1,358 1,522 1,588 1,669 1,717 1,817. 
+Refining manufacturing inputs million boe 1,026 1,055 1,075 1,107 1,111 1,142. 
+Midstream gas plant manufacturing inputs million boe 332 466 513 562 605 675. 
+GREENHOUSE GAS EMISSIONS1,2. 
+Total scope 1 (direct) and scope 2 (energy indirect) GHG emissions million tonnes CO2e 42.2 44.8 46.2 45.3 45.2 45.0. 
+Total scope 1 GHG emissions3,4 million tonnes CO2e 35.0 36.8 37.7 37.5 37.0 36.8. 
+Refining scope 1 GHG emissions million tonnes CO2e 31.4 32.0 32.4 32.3 31.6 31.0. 
+Midstream scope 1 GHG emissions million tonnes CO2e 3.6 4.7 5.2 5.2 5.4 5.7. 
+Retail and other scope 1 GHG emissions5 million tonnes CO2e 0.04 0.04 0.03 0.04 0.04 0.06. 
+Total scope 2 GHG emissions6 million tonnes CO2e 7.1 8.1 8.5 7.8 8.2 8.2. 
+Refining scope 2 GHG emissions million tonnes CO2e 4.3 4.4 4.4 3.9 3.9 4.0. 
+Midstream scope 2 GHG emissions million tonnes CO2e 2.5 3.3 3.6 3.4 3.8 3.8. 
+Retail and other scope 2 GHG emissions5 million tonnes CO2e 0.39 0.44 0.49 0.45 0.48 0.43. 
+Scope 1 and 2 GHG Intensity7 (excludes Retail and GHG associated with exported power from cogen) tonnes CO2e / mboe input 29.9 28.3 28.0 26.1 25.3 23.8. 
+Refining scope 1 and 2 GHG intensity (excludes GHG associated with exported power from cogen) tonnes CO2e / mboe input 33.7 33.2 33.1 31.6 30.8 29.5. 
+Midstream G&P scope 1 and 2 GHG intensity tonnes CO2e / mboe input 15.6 15.1 15.0 13.8 13.6 12.7. 
+Midstream G&P scope 1 methane intensity MMcf CH4 / MMcf natural gas throughput 0.037% 0.032% 0.026% 0.026%
+WATER. 
+Freshwater withdrawal thousand Megaliters 148.7 150.3 155.3 154.2 158.0 160.7. 
+Freshwater recycled thousand Megaliters 8.0 6.6 8.2 7.7 7.3 8.7. 
+Water discharge thousand Megaliters 85.2 80.5 82.8 82.4 85.7 84.1. 
+Freshwater withdrawal in stressed areas thousand Megaliters 46.5 43.0 43.4 43.6 44.4 43.9. 
+Freshwater recycled in stressed areas thousand Megaliters 7.0 5.5 7.0 6.5 5.8 5.3. 
+Water discharge in stressed areas thousand Megaliters 22.0 20.8 20.8 20.3 19.7 21.3. 
+Freshwater withdrawal intensity Megaliters / million BOE 110 99 98 92 92 88. 
+Notes (1) Data before 2019 inclusive of facilities that MPC did not yet own so that performance can be compared across the same asset base over time. Assets included are those which MPC owned/operated as of Dec. 31, 2019, unless otherwise noted.
+(2) Environmental performance reported for facilities of which MPC has operational control.
+(3) Scope 1 direct GHG emissions include those from Refining, Midstream and Retail/other and are typically calculated per the EPA’s Mandatory Greenhouse Gas Reporting Program or the 2009 API Compendium of Greenhouse Gas Emissions Methodologies for the Oil and Natural Gas Industry. Global Warming Potentials used are from Table A-1 to Subpart A of 40 CFR Part 98 as of the year they were reported. It includes emissions from fuel combustion, company vehicles and fugitive emissions.
+(4) Inclusive of carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). Nitrogen trifluoride (NF3), hydrofluorocarbons (HFC), and perfluorocarbons (PFC) emissions are considered to not be material to our operations and are therefore excluded.
+(5) “Other” includes the administrative office complex in Findlay, Ohio.
+(6) Scope 2 emissions include indirect GHG emissions from consumption of purchased electricity, heat or steam.
+(7) This is the metric used to measure our 2030 GHG intensity goal.
+38
+
+
+ENDNOTES 1 In August 2020, Marathon Petroleum announced an agreement with 7-Eleven for the sale of Speedway, with the transaction expected to close in the first quarter of 2021. The arrangement includes a 15-year fuel supply agreement for approximately 7.7 billion gallons per year associated with the Speedway business.
+2 We retained HSB Solomon Associates to evaluate the resiliency of our refineries against the projections in the IEA’s NPS and SDS, as they were presented in the World Energy Outlook 2018. HSB Solomon Associates is uniquely qualified to perform this analysis because it has cost and production data for approximately 85% of worldwide refineries through its biennial fuels studies. https://www.solomononline.com/benchmarking/refining/fuels-study. The biennial HSB Solomon Associates Fuels Studies are a key resource we use to benchmark our operations and conduct scenario analyses.
+3 Scenarios are not intended to represent a full description of the future, but rather to highlight central elements of a possible future and to draw attention to the key factors that will drive future developments. It is important to remember that scenarios are hypothetical constructs; they are not forecasts or predictions, nor are they sensitivity analyses. The three scenarios — the IEA’s Current Policy, Stated Policies and Sustainable Development — are widely used around the world and recommended by the TCFD for scenario analyses. [Task Force on Climate-related Financial Disclosures, The Use of Scenario Analysis in Disclosure of Climate-related Risks and Opportunities (June 2017); International Energy Agency, World Energy Outlook 2016 (2016).] 4 We are not providing details of a scenario analysis for our Speedway retail segment. In August 2020, Marathon Petroleum announced an agreement with 7-Eleven for the sale of Speedway, with the transaction expected to close in the first quarter of 2021. The arrangement includes a 15-year fuel supply agreement for approximately 7.7 billion gallons per year associated with the Speedway business.
+5 https://www.solomononline.com/benchmarking/refining/fuels-study. The biennial HSB Solomon Associates Fuels Studies are a key resource we use to benchmark our operations and conduct scenario analyses.
+6 The projections in the World Energy Outlook 2019 are not materially different. Solomon is uniquely qualified to perform this analysis because it has cost and production data for approximately 85% of worldwide refineries through its biennial Fuels Studies.
+7 The Nelson complexity index (NCI) is a measure to compare the secondary conversion capacity of a petroleum refinery with the primary distillation capacity. The index provides an easy metric for quantifying and ranking the complexity of various refineries and units. The NCI assigns a complexity factor to each major piece of refinery equipment based on its complexity and cost in comparison to crude distillation, which is assigned a complexity factor of 1.0. The complexity of each piece of refinery equipment is then calculated by multiplying its complexity factor by its throughput ratio as a percentage of crude distillation capacity. Adding up the complexity values assigned to each piece of equipment, including crude distillation, determines a refinery’s complexity on the NCI.
+8 Nearly all the combustion emissions from renewable fuels are offset by the carbon previously removed from the atmosphere by the renewable feedstocks.
+9 The Andersons Marathon Holdings LLC of which MPC owns a 49.9% equity share.
+10 Includes entire volume capture by The Andersons Marathon Holdings LLC of which MPC owns a 49.9% equity share.
+11 https://www.iea.org/reports/sdg7-data-and-projections/access-to-clean-cooking 12 Science Based Targets, Science Based Target Setting Manual, p. 21-27 (Version 4.0 April 2019) (" . . . targets in line with well-below 2°C scenarios is 2.5% in annual linear terms.")
+FORWARD-LOOKING STATEMENTS. 
+This publication contains forward-looking statements within the meaning of federal securities laws regarding Marathon Petroleum Corporation (MPC). All statements, other than statements of historical fact, are forward-looking statements, including without limitation statements concerning: MPC’s climaterelated challenges and opportunities, scenario projections and energy outlook, and MPC’s sustainable energy strategy and the expected benefits thereof. In accordance with "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995, these statements are accompanied by cautionary language identifying important factors, though not necessarily all such factors, that could cause future outcomes to differ materially from those set forth in the forwardlooking statements. You can identify our forward-looking statements by words such as "anticipate," "believe," "budget," "commitment," "design," "estimate," "expect," "focus," "forecast," "forward," "goal," "guidance," "imply," "intend," "look," "objective," "opportunity," "outlook," "plan," "policy," "position," "potential," "predict," "priority," "project," "projection," "proposition," "prospective," "pursue," "schedule," "seek," "strategy," "target," "could," "may," "should," "would," "will" or other similar expressions that convey the uncertainty of future events or outcomes. Such forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and other factors, some of which are beyond the company's control and are difficult to predict. Factors that could cause our actual results to differ materially from those implied in the forward-looking statements include without limitation: the effects of any divestitures on the business or our financial condition, results of operations and cash flows; future levels of revenues, refining and marketing margins, operating costs, retail gasoline and distillate margins, merchandise margins, income from operations, net income or earnings per share; the regional, national and worldwide availability and pricing of refined products, crude oil, natural gas, NGLs, renewable feedstocks and other feedstocks; consumer demand for refined products and renewable fuels; future levels of capital, environmental or maintenance expenditures, general and administrative and other expenses; the success or timing of completion of ongoing or anticipated capital or maintenance projects; the reliability of processing units and other equipment; business strategies, growth opportunities and expected investment; our ability to successfully implement our sustainable energy strategy and principles, including our GHG intensity and methane intensity targets, and realize the expected benefits thereof; the effect of restructuring or reorganization of business components; the potential effects of judicial or other proceedings on our business, financial condition, results of operations and cash flows; continued or further volatility in and/or degradation of general economic, market, industry or business conditions; compliance with federal and state environmental, economic, health and safety, energy and other policies and regulations, including the cost of compliance with the Renewable Fuel Standard, and/or enforcement actions initiated thereunder; the effects of actions of third parties such as competitors, activist investors or federal, foreign, state or local regulatory authorities or plaintiffs in litigation; the impact of adverse market conditions or other similar risks to those identified herein affecting MPLX; and the factors set forth under the heading "Risk Factors" in MPC's Annual Report on Form 10-K for the year ended Dec. 31, 2019, and in Quarterly Reports on Form 10-Q, filed with Securities and Exchange Commission (SEC).
+We have based our forward-looking statements on our current expectations, estimates and projections about our industry. We caution that these statements are not guarantees of future performance and you should not rely unduly on them, as they involve risks, uncertainties and assumptions that we cannot predict. In addition, we have based many of these forward-looking statements on assumptions about future events that may prove to be inaccurate. While our management considers these assumptions to be reasonable, they are inherently subject to significant business, economic, competitive, regulatory and other risks, contingencies and uncertainties, most of which are difficult to predict and many of which are beyond our control. Accordingly, our actual results may differ materially from the future performance that we have expressed or forecast in our forward-looking statements. We undertake no obligation to update any forward-looking statements except to the extent required by applicable law. Copies of MPC's Forms 10-K and 10-Q are available on the SEC's website, MPC's website at https://www.marathonpetroleum.com/Investors/ or by contacting MPC's Investor Relations office.
+Perspectives on Climate-related Scenarios 2020 | 39

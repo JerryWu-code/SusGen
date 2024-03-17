@@ -1,0 +1,532 @@
+Task Force on Climate-related Financial Disclosures 2020 Report
+
+
+2 TCFD – 2020 Report. 
+Table of contents. 
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3. 
+TCFD support and alignment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 1 . Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 1.1 Board oversight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6 1.2 Management’s role . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6 2 . Strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 2.1 Description of climate risks and opportunities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 2.2 Impact of climate risks and opportunities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 2.3 Resilience to climate risks and opportunities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 3 . Risk Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 3.1 Identification and assessment of climate risks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 3.2 Management of climate risks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20 3.3 Integration of climate risks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22 4 . Metrics and Targets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 4.1 Climate-related metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23 4.2 Operational GHG emissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 4.3 Climate-related targets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24. 
+Moving forward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+
+TCFD – 2020 Report 3. 
+Introduction. 
+RBC Global Asset Management (RBC GAM) is the asset management division of Royal Bank of Canada (RBC)1 . RBC GAM manages more than US$429 billion2 in assets under management (AUM) and has approximately 1,300 employees located across Canada, the United States, Europe and Asia .
+We are a provider of global investment management services and solutions to institutional, high-net-worth, and individual investors through separate accounts, pooled funds, mutual funds, hedge funds, exchange-traded funds, and specialty investment strategies. Our 23 experienced investment teams are active across capital markets and asset classes, deploying traditional and innovative strategies.
+As an asset manager and fiduciary of our clients’ assets, we have an important responsibility to consider all material factors that may impact the risk-adjusted returns of our investments. We believe that integrating material environmental, social, and governance (ESG) factors into our investment process can enhance long-term risk-adjusted returns. Climate change is one such factor.
+RBC GAM supports the principles of the Paris Agreement and the international goal to hold global warming to “well below 2oC”.3 Scientists agree that in order to meet this goal, greenhouse gas emissions must decline by at least 7.6% annually between 2020 and 2050, and achieve net-zero by mid-century.4 RBC GAM recognizes the need to achieve a just transition to a low-carbon economy.
+1 In this document, references to RBC GAM (we, our or us) include the following affiliates: BlueBay Asset Management LLP (BlueBay), RBC Global Asset Management Inc. (including Phillips, Hager & North Investment Management), RBC Global Asset Management (U.S.) Inc., RBC Global Asset Management (UK) Limited, and RBC Global Asset Management (Asia) Limited, which are separate, but affiliated subsidiaries of RBC. Unless otherwise stated, BlueBay Asset Management LLP (BlueBay) is included in this document. “RBC” refers to Royal Bank of Canada and its subsidiaries in this Report.
+2 Inclusive of BlueBay Asset Management LLP (US$76 billion AUM. Data as at December 31 2020.) 3 The Paris Agreement, United Nations Climate Change.
+4 The Emissions Gap Report, United Nations Environment Programme, November 26, 2019.
+HIGHLIGHTS *RBC 2020 ESG Performance Report. 
+US$429+ billion. 
+Assets under management (AUM) 23. 
+Global investment teams. 
+Climate Dashboards for distributed quarterly to investment teams 70+CORE. 
+FUNDS fully integrate material environmental, social and governance (ESG) factors. 
+ALL INVESTMENT TEAMS engagements with significant focus on ESG topics in 2020 1,200+ operations for 3rd year in a row.* CARBON NEUTRAL
+
+
+TCFD – 2020 Report 4. 
+We support this belief by integrating material climate change considerations in our investment decision-making process. We also use our influence as active investors to make sure that companies we invest in have in place robust governance oversight of climate change and report transparently on the actions they are taking to integrate climate change into their strategic, financial, and risk management processes. We make investment decisions on a case-by-case basis and use stewardship activities to motivate companies to implement strategies and take actions that enable climate mitigation and adaptation.
+At RBC GAM we have long had a focus on responsible investment – this includes climate change. In 2020 we took the additional steps of formalizing our strategic approach. Our approach to climate change is built upon the three pillars established in Our approach to responsible investment, and sets the foundation for our commitments and actions to address climate-related risks and opportunities.
+Our approach to climate change supports and aligns with the RBC Climate Blueprint, which is the RBC strategy to accelerate clean economic growth and support clients in the low-carbon transition. Both RBC and RBC GAM have a long history of action on climate change, as highlighted below.
+Our history of climate change action. 
+Fully integrated ESG. 
+We integrate climate-related risks and opportunities in our investment process to help enhance long-term, risk-adjusted returns.
+Active stewardship. 
+We encourage issuers and regulators to consider climate mitigation and adaptation in their activities, using proxy voting, direct engagement, and collaboration with like-minded investors.
+Client-driven solutions and reporting. 
+We develop solutions, drive insights and provide transparent reporting related to climate change.
+Fully integrated ESG. 
+All investment teams integrate relevant ESG factors into their investment processes.
+Client-driven solutions and reporting. 
+We align our solutions with client demand and provide transparent and meaningful reporting.
+Active stewardship. 
+We convey our views through thoughtful proxy voting, engagement with issuers and regulatory bodies, and collaboration with other like-minded investors.
+
+
+TCFD – 2020 Report 5. 
+TCFD support and alignment. 
+The recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), mandated by the Financial Stability Board, are a set of voluntary guidelines for disclosure of material climate-related risks and opportunities. Since 2017, the TCFD has catalyzed a growth in climate-related disclosure with more than 1,500 organizations expressing support for the recommendations.5. 
+Enhancing the comprehensiveness, consistency and comparability of climate-related metrics and disclosures is a critical imperative for financial institutions, corporate issuers, regulators, and governments. RBC GAM has supported and encouraged TCFD disclosures through active stewardship since 2018 and became a signatory to the TCFD in 2020, as described in Our approach to climate change. RBC has been a supporter of the TCFD since 2017 and provides annual TCFD disclosures in the RBC Annual Report and in a stand-alone RBC TCFD Report 2020.
+This report is RBC GAM’s first disclosure aligned to the TCFD recommendations and covers calendar year 2020. As recommended by the TCFD and as described below, RBC GAM is taking a phased approach to implementing the TCFD recommendations, and we have structured this report according to the TCFD disclosure framework (Figure 1).6 We are committed to continuous improvement and expect that our TCFD disclosures and the actions we take to address climate change will advance over time.
+5 TCFD Status Report 2020, Task Force on Climate-related Financial Disclosures, October 2020 6 Adapted from TCFD Final recommendations, June 2017.
+Figure 1: RBC GAM progress against TCFD disclosure framework and requirements 1 Governance Disclose the organization’s governance around climate-related risks and opportunities.
+1 .1 Board oversight Describe the Board’s oversight of climate-related risks and opportunities.
+1 .2 Management’s role Describe management’s role in assessing and managing climate-related risks and opportunities.
+2 Strategy Disclose actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning, where the information is material.
+2 .1 Description of climate risks and opportunities. 
+Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+2 .2 Impact of climate risks and opportunities. 
+Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+2 .3 Resilience to climate risks and opportunities. 
+Describe the potential impact of different scenarios, including a 2 degree scenario, on the organization’s businesses, strategy, and financial planning.
+3 Risk management Disclose how the organization identifies, assesses, and manages climate-related risks.
+3 .1 Identification and assessment of climate risks Describe the organization’s processes for identifying and assessing climate-related risks.
+3 .2 Management of climate risks Describe the organization’s processes for managing climate-related risks.
+3 .3 Integration of climate risks. 
+Describe how processes for identifying, assessing and managing climate-related risks are integrated into the organization’s overall risk management.
+4 Metrics and targets Describe the metrics and targets used to assess and manage relevant climate-related risks and opportunities, where the information is material.
+4 .1 Climate-related metrics Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+4 .2 Operational emissions Disclose Scope 1, Scope 2, and if appropriate Scope 3 greenhouse gas emissions, and the related risks.
+4 .3 Climate-related targets Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+complete in progress
+
+
+TCFD – 2020 Report 6 1. Governance. 
+Disclose the organization’s governance around climate-related risks and opportunities .
+1.1 Board oversight The various Boards of Directors (Boards) of RBC GAM oversee the overall performance of their firms, which includes strategic priorities related to responsible investment. The Boards delegate responsibility for implementation of strategic priorities to the Chief Executive Officer (CEO), Chief Investment Officer (CIO) and senior leadership team of RBC GAM, collectively called the RBC GAM Leadership Committee (Leadership Committee).
+The Leadership Committee is responsible for reviewing and monitoring progress against strategic objectives on a semi-annual basis, and reports regularly to the Boards. The Leadership Committee is comprised of the CEO, CIO, and leaders across the Corporate Governance & Responsible Investment (CGRI) team and the fixed income and equities investment teams, among others. The Leadership Committee has identified the advancement of responsible investment, inclusive of climate change, as a strategic objective for the organization. The CEO reviews and reports to the Boards on all strategic priorities on an annual basis. The direct annual compensation of management includes an assessment of performance in achieving these strategic priorities. In addition, performance on strategic initiatives can also contribute to the overall firm-level performance factor that is applied to employees’ annual variable compensation amount.
+1.2 Management’s role Our approach to responsible investment and Our approach to climate change set out the organization’s strategic priorities and commitments, which are reviewed by the Leadership Committee. The Leadership Committee meets once per month, and reviews and updates strategic priorities on an annual basis. The Head of CGRI reports quarterly to the Leadership Committee on strategic priorities for responsible investment, including climate change. In 2020, the Leadership Committee was invited to participate in the RBC GAM Climate Education Series, which focused on building climate-related knowledge and understanding by bringing in external expertise.
+Management oversight of climate-related risks and responsibilities includes the following: § The CEO oversees and manages the firm’s activities and strategies and is responsible for approving RBC GAM’s investment priorities, including our approach to climate change.
+§ The CIO is responsible for overseeing and managing all investment activities and is the ultimate investment risk owner responsible for climate change.
+§ The CGRI and investment teams are responsible for the implementation of our responsible investment (RI) activities and strategic priorities, and the Head of CGRI is a permanent member of the Leadership Committee. All investment teams and the CGRI team report directly to the CIO.
+§ Heads of institutional and retail businesses oversee product development with input from the CGRI team and oversight by the CIO and CEO.
+
+
+TCFD – 2020 Report 7. 
+Chief Investment Officer (CIO) § Oversees performance of investment strategies § Oversees and approves RI and ESG initiatives. 
+CGRI Team § Leads RI strategies and initiatives across firm § Executes proxy voting activities § Liaises with industry affiliations § Maintains subject matter expertise § Supports ESG integration and active stewardship activities. 
+Investment Teams § Execute ESG integration activities § Engage with investees on material ESG issues § Participate in education sessions, monthly calls and ongoing development activities on material ESG trends and topics. 
+Leadership Committee § Comprised of CEO, CIO, and leaders across RBC GAM business (including CGRI and investment teams) § Provides direction for RI strategies § Receives updates on execution of RI strategies. 
+Feedback & expertise. 
+Chief Executive Officer (CEO) § Sets strategic direction of RBC GAM § Oversees performance of all RBC GAM strategic initiatives. 
+Approval & oversight. 
+Relevant Boards of Directors § Oversee strategy and direction. 
+Oversight. 
+Implementation. 
+Liaise with product development teams, clients, industry associations, and other RI stakeholders as needed.
+Responsible for implementation of climate change strategy and priorities. 
+The following chart describes RBC GAM’s governance oversight of climate change.
+
+
+TCFD – 2020 Report 8 2. Strategy. 
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning .
+2.1 Description of climate risks and opportunities Climate change will impact economies, markets, and societies, posing both financial risks and opportunities for issuers and investors. The impacts of climate change are systemic and unprecedented. They are also already apparent.
+§ Climate risks include transition risks from the shift to a low-carbon economy, and physical risks from more extreme weather events and changing climate patterns.
+§ Climate opportunities arise from investment in resource efficiency, low-carbon energy sourcing, the development of new products and services, access to new markets and customers, and enabling business resilience.
+Rising global temperatures cause the physical impacts of climate change, which are driven by an increase in frequency and intensity of extreme weather events, and longer-term shifts in climate patterns. Efforts to reduce greenhouse gas (GHG) emissions cause the transition impacts of climate change, and are driven by: government policies and regulations, increasing legal action and litigation claims, technology disruption and transformation, shifts in supply and demand, and changing consumer and employee expectations related to climate change.
+Corporate and sovereign issuers may be directly and indirectly affected by both the physical and transition impacts of climate change (Figure 2). Depending on the issuer, this may impact profitability, the value of their financial assets, and productivity. Climate change may also impact economic growth, prices and inflation, employment and labour productivity, trade flows, debt, and financial stability within the economies and societies within which issuers and investors operate.
+Investors are indirectly affected by climate change – through their investments and exposure to economies and markets more broadly. Portfolio exposure to issuers across global markets and asset classes may result in the mispricing of assets, asset stranding, and credit default risks. This in turn can lead to an increase in volatility and uncertainty in markets, which may positively or negatively impact longterm risk-adjusted returns.
+
+
+TCFD – 2020 Report 9. 
+Figure 2: Description of climate risks and opportunities. 
+Climate impact drivers. 
+Transition risks. 
+Policy Due to government policies and regulations aimed at constraining activities that contribute to climate change. Includes policies that promote low-carbon substitutes.
+Legal Due to litigation claims related to failure to mitigate climate change, insufficient disclosure, or material misstatements.
+Technology Due to new, low-carbon technologies disrupting traditional systems.
+Markets Due to shifts in supply and demand for certain commodities, products, and services.
+Reputation Due to changing customer or community expectations of a company, based on the impact of their activities and their contribution to climate change.
+Physical risks. 
+Acute events Extreme weather events that include increased frequency and intensity of storms. This may cause increased coastal and inland flooding, disruptions to critical infrastructure, and mass migration.
+Chronic impacts Longer-term shifts in climate patterns, which may cause water stress and prolonged droughts, larger and more intense wildfires, heat waves, mass migration, and the spread of pests and infectious disease.
+Impact on issuers Impact on economy & society. 
+Impact on profits. 
+Lower asset values. 
+Price volatility. 
+Sector re-allocation. 
+Labour & income. 
+Changes in valuations. 
+Lower productivity Financial stability Livability & equality Immigration. 
+Impact on investors. 
+Mispricing (+/-) Financial asset stranding Credit default risk Volatility Uncertainty Long-term risk-adjusted returns (+/-)
+
+
+TCFD – 2020 Report 10. 
+Asset classes and time horizon The most significant and material risks of climate change are expected to appear at the end of the decade and beyond. These include the policy, technology, and market impacts that drive the transition to a low-carbon economy, and the acute and chronic physical impacts that drive the need to adapt and build resilience to a changing climate. As investors and fiduciaries of our clients’ assets, we actively consider how climate-related risks and opportunities impact equity, fixed income, and real assets in our portfolios.
+Our principal duty is to maximize investment returns for our clients without undue risk of loss. We do this within the investment limits described in each investment mandate. The majority of our mandates follow a medium to long-term time horizon. As such, this is the investment time horizon we generally consider in our investment activities and processes. However, we recognize that the physical impacts of climate change are currently being felt in some geographies, resulting in more short-term impacts. In addition, governments are implementing more stringent regulatory requirements (e.g., carbon pricing, pollution reduction), that may result in policy and market impacts for some sectors and geographies in the short term (see Figure 3).
+Equities: As equity investors, we are concerned about the value of businesses in which we invest and therefore consider relevant climate-related risks and opportunities to determine if they have been priced into an issuer’s valuation. Corporate issuers in all sectors and geographies may be impacted by climate change, although in different ways. Within sectors, it is a company’s business model, strategy, the geographic location of its assets, and the quality of its corporate governance that will ultimately determine the size and impact of climate change on its profits and valuation.
+Fixed income: Debt issuers’ credit risk ratings and ability to pay their debts may also be affected by climate change. The impact of climate change on fixed income securities depends on the nature of the issuer (corporate versus sovereign), the nature of the security, and the time horizon of the investment. While in the short to medium term, climate change is unlikely to impact most fixed income securities, in the long term it will likely affect all issuers to some degree.
+Real assets: The effects of climate change on real assets is primarily due to physical impacts and therefore depends in large part on the geographic location of these assets. Acute and chronic physical risks, like flooding, hurricanes, and rising sea levels, are typically the biggest climate risks for real assets, with both the damage to physical assets and loss of income generated from these assets posing risks to real estate and mortgage investors. A longer term concern includes potential cost increases due to higher energy and water costs and related upgrades that may be required to adapt to new policy requirements and physical climate conditions.
+Figure 3: Time horizon of potential climate impact by asset class. 
+Material climate impact drivers Equities Fixed income Real assets. 
+Transition impacts (+/-)
+Policy ST-MT MT-LT MT-LT. 
+Technology MT-LT MT-LT MT-LT. 
+Markets ST-MT ST-MT MT-LT. 
+Physical impacts (+/-)
+Acute events ST-MT MT-LT ST-MT. 
+Chronic impacts MT-LT MT-LT ST-MT. 
+ST = 0-1 year; MT = 1-5 years; LT = 5-15 years
+
+
+TCFD – 2020 Report 11. 
+Assessment process While all climate impact drivers may be material to certain sectors or asset classes, our approach to assessing climaterelated risks and opportunities focuses specifically on key transition impact drivers (policy, technology, markets) and physical impact drivers (acute events, chronic impacts). We assess both the impact of, and resilience to material climate risk drivers at a sector, portfolio, issuer, and security level. This methodology combines both a top-down and bottomup approach to climate analysis that aims to provide a comprehensive view of the impact of climate-related risks and opportunities on investments today and under future climate scenarios. The following sections describe this approach and key outputs of our assessment.
+The portfolio assessment included in this report represents 48% (US$206.4 billion)7 of RBC GAM total AUM. This includes the following portfolios: Canadian equities, U.S. equities, Emerging Market equities, International equities, Canadian corporate bonds, and U.S. corporate bonds. Portfolios represent an aggregation of assets under management, by asset type and issuer country of domicile. Each portfolio is compared to a representative benchmark.8 Assets that are not included in the portfolio analysis, in order of contribution, are: government bonds, cash and equivalents, other bonds, ETFs or mutual funds, mortgages, asset-backed securities, other equities (mainly real estate and money market assets), private placements, and derivatives. These assets are primarily excluded from this analysis due to limitations in data availability, applicability of methodologies, and/or small financial materiality to the overall AUM. Moving forward we will seek to expand the scope of our analysis to cover a greater percentage of overall AUM where possible. All metrics included in this report are as of December 31st, 2020.
+2.2 Impact of climate risks and opportunities RBC GAM measures climate impact drivers at a sector, portfolio, and issuer and security level in order to evaluate the contribution, exposure, and sensitivity to material climate-related risks and opportunities at each scope of analysis. In 2020, RBC GAM calculated the metrics described in the table below to assess climate impacts. Key climate metrics referenced in Figure 5 are disclosed in Section 4.1 (Climate-related metrics).
+7 Portfolio analysis excludes BlueBay Asset Management LLP 8 Benchmarks used throughout the report: Canadian equities (S&P/TSX Capped Composite Index), U.S. equities (S&P 500 Index), Emerging Market equities (MSCI Emerging Markets (EM) Index), and International equities (MSCI Europe, Australasia, Far East (EAFE) Index), Canadian Corporate Bonds (FTSE Canada Universe Bond Index, corporates only), U.S. Corporate Bonds (ICE BofA U.S. Corporate Master Index).
+Figure 4: Overview of assessment process. 
+Material climate impact drivers. 
+Policy Technology Markets Acute events Chronic impacts. 
+Impact measurement. 
+Exposure and sensitivity to climate impact drivers. 
+Resilience measurement. 
+Alignment and valuation under climate scenarios due to climate impact drivers. 
+Sector analysis. 
+Portfolio analysis. 
+Issuer and security analysis. 
+Figure 5: Key climate metrics used to measure climate impact:
+Metric Key question What is measured Scope of analysis. 
+MEASURE IMPACT: Exposure and sensitivity to climate impact drivers Sector Portfolio Issuer & Security. 
+Carbon footprint. 
+How efficient is the sector, portfolio or issuer & security at managing its contribution to carbon emissions?
+Carbon emissions per millions of dollars invested √ √ √
+Weighted average carbon intensity by sales √ √ √
+Weighted average carbon intensity by enterprise value including cash √ √ √
+Transition risk. 
+How exposed is the sector, portfolio or issuer & security to low-carbon transition risk?
+Low-carbon transition risk (score, category) √ √ √
+Transition opportunity. 
+How exposed is the sector, portfolio or issuer & security to low-carbon transition opportunity?
+Low-carbon patents (number and score) √ √ √ √ Internal √ Climate metric provided in external disclosure (RBC GAM TCFD Report 2020)
+
+
+TCFD – 2020 Report 12. 
+Portfolio assessment Our investment teams integrate material climate-related risks and opportunities in their investment processes. This includes access to reports on the carbon footprint of our core equity and fixed income portfolios, and representative benchmarks.
+A carbon footprint is measured by the weighted average carbon intensity in tonnes of CO2 equivalent per million dollars in sales (tCO2eq./$M Sales). Data quality is of utmost importance and our preference is to use reported emissions data, calculated in line with the GHG Protocol, and collected from a verified third-party data provider. Where reported data is not available, we use estimated data, calculated using physical activity-based emissions (e.g. megawatt hours by fuel type) and economic activity-based emissions (e.g. sector average tCO2eq./revenue).9 See Figure 610 for the weighted average carbon intensity of our portfolios versus benchmarks, and Figure 711 for the breakdown of reported versus estimated emissions, by portfolio and benchmark.
+Our carbon footprint analysis consists of Scope 1 and 2 emissions. Since Scope 1 emissions come from the operations of a company, these are in large part determined by the activities or sector of companies. Scope 1 emissions are therefore largely driven by the sector weight of the portfolio. Since Scope 2 emissions come from the purchase of electricity by companies, this will in large part be determined by the carbon intensity of the electricity grid of the company’s operating region. For example, 81% of electricity in Canada comes from low-carbon sources, as compared to 37% in the United States, 32% in China, and 23% in India.12 When evaluating a portfolio carbon footprint that is inclusive of Scope 1 and 2 emissions, both the sector weight and geographic location of company operations are important factors driving the weighted average carbon intensity (See Figure 813).
+Carbon footprint metrics provide a view on the GHG emissions of a portfolio, and may be an indicator of potential policy and technology risk. While this is a useful metric, it is also limited as it is both static and backwards-looking. It is for this reason that our investment teams make decisions on a case-by-case basis and where material may take into consideration other climate-related factors. This may include a company’s investments in low-carbon technology, green revenue contribution, climate targets, executive oversight and governance, and forward-looking metrics such as climate value at risk and temperature alignment. Our investment teams also use stewardship activities, such as engagement and proxy voting, to motivate companies to implement strategies and take actions that enable climate mitigation and adaptation.
+9 MSCI ESG Climate Change Metrics, December 2019, MSCI® 10 The portfolio assessment and disclosure does not include BlueBay Asset Management LLP. All carbon emissions data, including reported versus estimated data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission.
+11 Ibid.
+12 Electricity mix, data as at 2019, Our World in Data. Low-carbon electricity is the sum of electricity from nuclear and renewable sources (including solar, wind, hydropower, biomass and waste, geothermal and wave and tidal).
+13 The portfolio-level analysis and disclosure does not include BlueBay Asset Management LLP. All carbon emissions data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission.
+Figure 6: Weighted average carbon intensity. 
+Canadian equities. 
+Benchmark. 
+U.S. equities. 
+Benchmark. 
+Emerging Market equities. 
+Benchmark. 
+International equities. 
+Benchmark. 
+Canadian corporate bonds. 
+Benchmark. 
+U.S. corporate bonds. 
+Benchmark tCO2 equivalent/$M sales 400 325 305 96 139 64 207 96 130 301 257 265 260 300 200 100 0
+
+
+TCFD – 2020 Report 13. 
+Figure 7: Reported vs. estimated emissions (includes Scope 1 and 2 emissions)
+Canadian equities. 
+Benchmark. 
+Reported emissions. 
+Estimated emissions. 
+Carbon emissions data coverage. 
+U.S. equities. 
+Benchmark. 
+Emerging Market equities. 
+Benchmark. 
+International equities. 
+Benchmark. 
+Canadian corporate bonds. 
+Benchmark. 
+U.S. corporate bonds. 
+Benchmark. 
+Carbon emissions data coverage (%) 100 90 21 69 29 68 25 62 17 81 33 45 29 52 15 83 14 84 15 58 13 66 29 61 17 73 97 87 98 78 81 98 98 73 79 90 90 80 60 40 20 0. 
+Figure 8: Sector contribution to portfolio carbon emissions. 
+Portfolio: Canadian equities 23% of portfolio contributes 92% of emissions* 100 % of portfolio weight % of carbon emissions 80 60 40 20 0. 
+Portfolio: U.S. equities 7% of portfolio contributes 92% of emissions* 100 % of portfolio weight % of carbon emissions 80 60 40 20 0 Energy, 11.5 Utilities, 3.8. 
+Materials, 8.1. 
+Energy, 14.9. 
+Utilities, 71.1. 
+Materials, 5.7. 
+Energy, 1.2. 
+Utilities, 2.4. 
+Materials, 3.2. 
+Energy, 27.5. 
+Utilities, 53.6. 
+Materials, 10.7. 
+Portfolio: Emerging Market equities 2% of portfolio contributes 75% of emissions* 100 % of portfolio weight % of carbon emissions 80 60 40 20 0. 
+Portfolio: International equities 17% of portfolio contributes 81% of emissions* 100 % of portfolio weight % of carbon emissions 80 60 40 20 0. 
+Energy, 0.2 Utilities, 0.1. 
+Materials, 1.4. 
+Energy, 20.6. 
+Utilities, 41.1. 
+Materials, 13.1. 
+Energy, 3.4 Utilities, 3.9. 
+Materials, 9.9. 
+Energy, 27.0. 
+Utilities, 34.0. 
+Materials, 20.0 % of portfolio weight % of carbon emissions. 
+Portfolio: Canadian corporate bonds 15% of portfolio contributes 85% of emissions* 100 % of portfolio weight % of carbon emissions 80 60 40 20 0. 
+Portfolio: U.S. corporate bonds 15% of portfolio contributes 80% of emissions* 100 80 60 40 20 0. 
+Consumer discretionary, 3.1. 
+Utilities, 11.7 Materials, 0.3. 
+Consumer discretionary, 7.2. 
+Utilities, 17.3. 
+Materials, 60.9. 
+Energy, 5.3. 
+Utilities, 6.2 Materials, 3.7. 
+Energy, 15.1. 
+Utilities, 34.5. 
+Materials, 30.3 * Values are based on top three sectors contributing to the percentage of carbon emissions (includes Scope 1 and 2)
+
+
+TCFD – 2020 Report 14 2.3 Resilience to climate risks and opportunities The factors that drive the transition to a low-carbon economy and the physical impacts of climate change are fairly well understood. However, the way these factors will play out over time, at what speed and scale, and society’s response are less certain. Climate scenario analysis enables the assessment of how a company or portfolio will perform under a range of possible future scenarios. Climate models enable the assessment of the manner with which different systems (e.g. economy, energy, land use, climate) interact, and allows investors to explore cascading effects.
+RBC GAM is committed to conducting climate scenario analysis to evaluate the resilience of our investments, and where material, to integrate insights into our investment processes. In 2020, this analysis included the calculation of climate value at risk (Climate VaR) and temperature alignment (Warming Potential) at a sector, portfolio, and issuer and security level.14 Both of these metrics are being considered by the TCFD as recommended disclosures for financial institutions.15 Key climate metrics referenced in Figure 9 are disclosed in Section 4.1 (Climate-related metrics).
+14 Detailed methodologies for the calculation of Climate VaR and Warming Potential are available from MSCI®.
+15 TCFD Forward-looking financial sector metrics – Consultation, October 2020 16 Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission. 
+Description of Climate VaR Climate VaR16 is a proprietary metric developed by MSCI® that computes scenario-, company-, and security-level estimates of future costs and revenues due to key climate impact drivers (policy risk, technology opportunities, physical risks and opportunities) under transition and physical climate scenarios (Figure 10). Financial modelling is then used to derive valuation impacts, expressed as a percentage change in valuation due to climate change.
+The aggregated Climate VaR consists of three component parts, as described below: § Policy risk Climate VaR quantifies, at a security level, the potential cost of complying with government climate policies in order to achieve the GHG emission reductions required, for each climate scenario.
+§ Technology opportunity Climate VaR quantifies, at a security level, the potential profit derived from low-carbon revenues and low-carbon technologies, for each climate scenario.
+§ Physical risk and opportunity Climate VaR quantifies the impact, at a security level, of chronic and acute risks, for each scenario. These risks manifest in an increase (risk) or decrease (opportunity) in business interruptions or asset damages.
+Figure 9: Key climate metrics for measuring climate resilience. 
+Metric Key question What is measured Scope of analysis. 
+MEASURE RESILIENCE: Alignment and valuation under climate scenarios, due to climate impact drivers Sector Portfolio Issuer & Security. 
+Climate Value at Risk (Climate VaR)
+How might market value change under different climate scenarios? What factors drive that change?
+Aggregate Climate VaR (%) by scenario √ √ √
+Climate VaR contribution from policy risk, technology opportunity, physical risk and opportunity √ √ √
+Temperature alignment. 
+What temperature increase does the sector, portfolio or issuer & security align to?
+Warming Potential (°C) √ √ √ √ Internal √ Metric provided in external disclosure (RBC GAM TCFD Report 2020)
+Figure 10: Description of Climate VaR methodology. 
+Aggregated Climate VaR = Transition risks and opportunities + Physical risks and opportunities. 
+Climate metric Policy risk Climate VaR. 
+Technology opportunity. 
+Climate VaR. 
+Physical risk and opportunity. 
+Climate VaR. 
+Climate impact driver Policy Technology Acute events | Chronic impacts. 
+Modeled inputs § GHG emissions reduction requirements § Costs of reduction requirements (based on carbon price) § Advances in low-carbon technology (based on patents) § Low-carbon revenue § Business interruption and asset damage due to chronic and acute physical risks. 
+Climate scenarios √ 1˚5C scenario √ 2˚C scenario √ 3˚C scenario √ 1˚5C scenario √ 2˚C scenario √ 3˚C scenario √ Business-as-usual (average) √ Business-as-usual (aggressive)
+Time horizon To 2080 To 2080 To 2080
+
+
+TCFD – 2020 Report 15. 
+Description of climate scenarios and assumptions Climate scenarios differ based on sector and geographic coverage, temperature target, time horizon, and output variables. The following scenarios and models are used to calculate the Climate VaR: § Transition impact scenarios:17 Our analysis uses data from three Integrated Assessment Models (IAMs) – AIM/CGE, IMAGE, and GCAM18 – as well as Nationally Determined Contributions (NDCs) established under the Paris Agreement. Baseline narratives regarding population, technology, and economic growth are based on the five Shared Socioeconomic Pathways (SSPs).19 The impact of policy and technology impacts are modeled for three temperature pathways, 1.5oC, 2oC, and 3oC.
+§ Physical impact scenarios: Our analysis uses data from the Intergovernmental Panel on Climate Change (IPCC) Representative Concentration Pathways (RCP). RCP 8.5 is used to assess physical risks and opportunities as it is the highest emissions pathway and represents a business-asusual (BAU) scenario: high population, relatively slow income growth, modest rates of technological change and energy intensity improvements, and no climate policies. The impact of five chronic risks (extreme heat, extreme cold, extreme precipitation, wind, snowfall) and two acute risks (coastal flooding and tropical cyclones) on business interruptions and asset damages are modeled for an average (~4.3oC) and 95th percentile RCP 8.5 (or BAU) scenario.
+17 Huppmann et al., 2018. IAMC 1.5°C Scenario Explorer and Data hosted by IIASA. Integrated Assessment Modeling Consortium & International Institute for Applied Systems Analysis. Doi: https://doi.org/10.22022/SR15/08-2018.15429 18 AIM/CGE (Asia-Pacific Integrated Assessment/Computable General Equilibrium), IMAGE (Integrated Model to Assess the Global Environment), GCAM (Global Change Assessment Model). IAMC wiki. June 2018. IAMC Documentation. https://www.iamcdocumentation.eu/index.php?title=IAMC_wiki&oldid=7840 19 Riahi et al., The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview, Global Environmental Change, Volume 42, 2017, Pages 153-168, ISSN 0959-3780, https://doi.org/10.1016/j.gloenvcha.2016.05.009 20 Based on AIM/CGE model.
+Figure 11: Summary of variables used for transition impact scenarios:20 1.5oC scenario 2.0oC scenario 3.0oC scenario. 
+Population. 
+World population peak 2070 2070 2070. 
+World population in 2100 (‘000) 8,990 8,990 8,890. 
+GDP. 
+Real GDP growth 2010-2100 (CAGR) 2.3% 2.3% 2.3%
+Electricity generation by fuel source 2030 Fuel mix % renewables 55% 50% 30% % nuclear 17% 18% 18% % natural gas 18% 20% 21% % coal 9% 12% 31% 2050 fuel mix % renewables 85% 73% 50% % nuclear 9% 8% 15% % natural gas 5% 12% 15% % coal 1% 7% 20%
+Low-carbon fuel sources in transport. 
+Low-carbon fuel sources (%) in 2050 20.90% 7.60% 4.40%
+Carbon sequestration (Mt CO2/yr)
+Uptake (surpasses 5,000 Mt/yr) 2040 2040 2055. 
+Carbon sequestration peak (Mt/yr) 19,234 22,515 12,311. 
+Carbon price. 
+USD per tons of CO2 eq. (2033) 700 500 100. 
+GHG emissions. 
+Peak year 2020 2020 2020 90% reduction achieved by 2045 2090 N/A. 
+Zero emissions achieved by 2055 N/A N/A. 
+Annual change (2020-2030) (CAGR) -7.1% -5.9% -0.4%
+Annual change (2020-2050) (CAGR) -9.7% -4.8% -0.8%
+Global warming temperature. 
+Temperature in 2100 1.30oC 1.62oC 2.78oC
+
+
+TCFD – 2020 Report 16. 
+Portfolio assessment Climate VaR is a downside risk indicator that determines the potential maximum drawdown that an asset could experience under a specific climate change scenario. RBC GAM portfolios have a lower aggregate Climate VaR than benchmarks for the majority of RBC GAM equity and fixed income portfolios (Figure 12).21 As expected, the Climate VaR for all RBC GAM portfolios is greatest under scenarios requiring more significant GHG reductions, such as a 1.5oC scenario. Canadian equities in the 2oC scenario is the only equity portfolio that does not outperform the benchmark. Deeper analysis shows that this is due to a slightly lower contribution of the Technology opportunity Climate VaR as compared to the benchmark (0.58% for the portfolio versus 0.70% for the benchmark). A similar analysis for U.S. corporate bonds shows that a higher contribution of Policy risk Climate VaR is driving the differential between the portfolio and benchmark for this asset class. For example, in the 2oC scenario, the U.S. corporate bonds Policy Climate VaR is -8.53% vs. -8.49% for the benchmark.
+Sector sensitivity analysis is an important element of the assessment process, since the type, nature and materiality of climate impacts vary by sector and geography. Sector materiality is determined based on quantitative assessment of key impact drivers, and informed by third-party standards and frameworks such as the Sustainability Accounting Standards Board (SASB) Materiality Map® and the TCFD guidance on sectors most affected by climate change.22 Sector sensitivity and materiality is considered by investment teams as part of their investment decision-making process and in direct engagements with companies.
+Assessment of the sector contribution to portfolio Climate VaR (Figure 13)23 demonstrates the relative impact of each sector to this value. While carbon-intensive sectors such as Energy, Materials, Utilities, and Industrials are the main contributors to Climate VaR across portfolios, it is also evident that a broader set of sectors are important contributors to the overall Climate VaR. This demonstrates the importance of actions by companies across all sectors, not just those in carbon-intensive sectors, to effectively manage policy risks, technology opportunities and the physical risks and opportunities of climate change. This also emphasizes the importance of looking at a suite of climate metrics and the underlying factors in order to identify areas of potential risk and opportunity. It is for this reason that our investment teams assess a range of climate-related metrics and factors as part of their decision-making process.
+21 The portfolio assessment and disclosure does not include BlueBay Asset Management LLP. All Climate VaR data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission.
+22 Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), June 2017 23 The portfolio assessment and disclosure does not include BlueBay Asset Management LLP. All Climate VaR data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission.
+
+
+TCFD – 2020 Report 17. 
+Figure 12: Aggregate Climate VaR, by scenario. 
+Climate VaR (%) 0
+-12.9 -10.1 -11.6 -10.3 -12.9 -12.9 -6.7 -5.9 -6.7 -7.3-7.2 -4.4 -5.6 -5.0 -9.7 -6.5 -7.4 -3.8-3.9 -7.7 -6.8 -2.3 -2.3 -2.9-3.5 -3.8 -6.5 -5.2-5.7 -1.5 -1.7 -4.1-4.0 -7.3 -8.0 -8.5 -4 -8 -12 -16. 
+Canadian equities Benchmark. 
+International equities Benchmark. 
+U.S. equities Benchmark. 
+Emerging Market equities Benchmark. 
+Canadian corporate bonds Benchmark. 
+U.S. corporate bonds. 
+Benchmark. 
+Canadian equities Benchmark. 
+International equities Benchmark. 
+U.S. equities Benchmark. 
+Emerging Market equities Benchmark. 
+Canadian corporate bonds Benchmark. 
+U.S. corporate bonds. 
+Benchmark. 
+Canadian equities Benchmark. 
+International equities Benchmark. 
+U.S. equities Benchmark. 
+Emerging Market equities Benchmark. 
+Canadian corporate bonds Benchmark. 
+U.S. corporate bonds. 
+Benchmark 1.5oC scenario 2.0oC scenario 3.0oC scenario. 
+Figure 13: Sector contribution to Aggregate Climate VaR, 2oC scenario. 
+Climate VaR (%) 1
+0 -1 -2 -3 -4 -5 -6 -7 -8 Canadian equities International equities U.S. equities Emerging Market equities U.S. corporate bonds Canadian corporate bonds. 
+Energy. 
+Financials. 
+Utilities. 
+Industrials. 
+Materials. 
+Information Technology. 
+Consumer Discretionary. 
+Communication Services. 
+Health Care. 
+Consumer Staples. 
+Real Estate
+
+
+TCFD – 2020 Report 18. 
+Description of temperature alignment Temperature alignment is measured using the MSCI® Warming Potential metric.24 This metric provides an indication of how a company’s business activities align to global temperature pathways. The Warming Potential allows investors to compare sectors, portfolios and issuers or securities against specific temperature goals, such as the Paris Agreement’s objectives of limiting global warming to well-below 2oC. At a company level, the Warming Potential is calculated by considering the temperature alignment of Scope 1 (direct emissions), and Scope 2 (indirect emissions from the generation of purchased energy) emissions. Company-specific reduction targets for each scope of emissions are included in the calculation of this metric.
+For all portfolios assessed, the Warming Potential is well below a business-as-usual temperature alignment (~4.3oC as per RCP 8.5), and in most cases represents a lower temperature alignment than the representative benchmark (Figure 14).25. 
+The calculation of this metric is complex however, and challenged by limitations in data availability, dependence on model assumptions for forward-looking modeling, and the scope of climate factors considered. For example, a company’s indirect emissions from its value chain and product use, business model, governance oversight and other factors are not currently captured. As such, the Warming Potential metric should be considered as a directional indicator, which investment teams use to inform additional analysis and decision-making. Methodologies for calculating temperature alignment are still in development, and will continue to evolve over the coming years.
+Figure 14: Warming Potential (oC) (includes Scope 1 and 2 emissions)
+Canadian equities. 
+Benchmark. 
+U.S. equities. 
+Benchmark. 
+Emerging Market equities. 
+Benchmark. 
+International equities. 
+Benchmark. 
+Canadian corporate bonds. 
+Benchmark. 
+U.S. corporate bonds. 
+Benchmark. 
+Warming Potential (oC) 2.9 3.7 2.5 2.6 2.8 2.6 3.8 3.4 3.0 2.7 3.1 3.1 0
+1 2
+3 4
+24 Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission 25 The portfolio assessment and disclosure does not include BlueBay Asset Management LLP. All Warming Potential data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission.
+
+
+TCFD – 2020 Report 19 3. Risk Management. 
+Disclose how the organization identifies, assesses, and manages climate-related risks .
+3.1 Identification and assessment of climate risks Climate change is a systemic risk that has the potential to affect the global economy. It is also a cross-cutting risk that may both impact and amplify other principal risk types, such as investment risk and operational risk. The impact of climate change on specific markets, regions, and investments are complex, varied, and uncertain. Risks are deemed material if they have the potential to impact the risk-adjusted returns of our investments.
+RBC GAM is primarily exposed to climate risk through emerging regulatory and legal requirements, impacts on long-term risk-adjusted returns, the products and services we deliver to our clients, and disruptions to our operations. These are described in more detail below, along with the actions we take to mitigate those risks: 26 RBC GAM 2020 Responsible Investment Survey. 
+Risk type Description of risk Time horizon* Actions to mitigate risk. 
+Regulatory compliance risks. 
+Emerging regulatory and legal requirements Climate change regulations, frameworks, and guidance that apply to asset managers and issuers are rapidly evolving across multiple jurisdictions.
+MT We monitor and evaluate regulations and formal requirements as they evolve, and update our processes and disclosures as necessary.
+Investment risk. 
+Long-term risk-adjusted returns Climate change may impact the balance sheets, valuation, and credit rating of corporate and sovereign issuers. This may result in a potential mispricing of assets, asset stranding, credit default risks, and increase volatility and uncertainty in markets over time, with (positive or negative) effects on longterm risk-adjusted returns.
+MT-LT We integrate material climate change considerations into our investment processes. This includes conducting in-depth climate analytics and scenario analysis at a firm level and for our core funds. We actively engage with investee companies and sovereigns on climate change and convey our views through thoughtful proxy voting.
+Strategic and reputation risk. 
+Products and services Client interest in responsible investment and climate change continue to grow.26 There is continuing demand for a variety of products and services to meet client needs, and potential reputation risk associated with not meeting client expectations.
+MT All investment teams consider climate risks and opportunities in their portfolios, where material. In addition, we provide fossil-fuel free and impact strategies in some geographies to meet the investment needs of clients.
+We work with clients to conceive, innovate, and implement climate-based solutions that consider a range of strategic objectives.
+
+
+TCFD – 2020 Report 20 3.2 Management of climate risks We manage climate-related investment risk by: integrating material ESG factors into our investment processes, taking an active stewardship approach, and providing client-driven solutions and reporting.
+Fully integrated ESG We believe that issuers that manage their material ESG risks and opportunities effectively are more likely to outperform on a risk-adjusted basis, over the long term. Our investment teams prioritize ESG factors that are considered to be most material to each investment decision. The extent to which an ESG factor is considered material depends on the issuer, the industries and geographies in which it operates, and the nature of the investment vehicle for which it is purchased. Each investment team has its own process for integrating ESG factors and for determining materiality, drawing from tools like the SASB materiality matrix and both internal and external research and expertise. Investment teams receive input from the Corporate Governance and Responsible Investment team on their process, and the quality of their process is rated and audited on an annual basis. The CIO reviews the quality of each investment team’s ESG integration process on an annual basis.
+All investment teams consider climate change in their investment decision-making processes (Figure 15). In order to build climate expertise across and within investment teams, dedicated training and knowledge sessions on climate change are provided to all investment teams. These include a regular Climate Education Series that focuses on current and emerging best practices on climate-related topics. All global investment teams also have access to robust and comprehensive climate data at an issuer and portfolio level. Climate data covers: carbon emissions (Scope 1, 2, and 3), low-carbon transition risk exposure and management, lowcarbon patents, carbon reduction targets, executive oversight of environmental strategy, and revenue breakdowns from sustainable and carbon-related sources, among other factors. Investment teams assess and monitor climate-related risks and opportunities on an ongoing basis, and receive a quarterly climate risk monitoring report that provides in-depth climate analysis and scenario analysis for their core strategies.
+Risk type Description of risk Time horizon* Actions to mitigate risk. 
+Operational risk. 
+Disruptions to our operations and services Increasing frequency and intensity of extreme weather events may disrupt operations and services at a regional level.
+ST-MT We have a robust business continuity management plan to respond to disruptions when they arise. Continuity plans for critical business processes and supporting systems are tested annually. The properties we lease or own are managed by RBC Corporate Real Estate, the function responsible for identifying properties that require enhanced facility infrastructure to mitigate site disruptions, such as those caused by extreme weather events. In addition, steps are taken to mitigate and adapt to climate change through building design.27 *ST = 0-1 years, MT= 1-3 years, LT = 5-15 years 27 Royal Bank of Canada Annual Report 2020, page 96. 
+Figure 15: ESG integration in our investment process This diagram illustrates how material ESG factors and responsible investment activities contribute to our overall decisionmaking in our investment process, complementing our investment teams’ fundamental and systematic investment approaches.
+INVESTMENT MANAGEMENT. 
+ESG INPUTS. 
+Investment selection Portfolio management Investment universe. 
+Investment research & analysis. 
+Security selection Portfolio construction. 
+Portfolio monitoring. 
+Active stewardship. 
+Third-party ESG & climate data. 
+ESG materiality analysis. 
+ESG risk monitoring. 
+Climate metrics & scenario analysis Climate risk monitoring. 
+ESG engagement. 
+Thoughtful proxy voting. 
+Third-party proxy voting research. 
+Investment policy & strategy: Explicit ESG factors may be included in specific investment mandates.
+Investment risk: ESG risks, including climate risk, are monitored at the firm level.
+
+
+TCFD – 2020 Report 21. 
+Active stewardship Active stewardship is a core pillar of our approach to responsible investment and a means of requesting better disclosure on how corporate and sovereign issuers are addressing climate mitigation and adaptation. We convey our views on climate change through proxy voting, engagement and collaboration with other like-minded investors.
+Proxy voting. 
+We conduct thoughtful proxy voting on climate-related shareholder proposals, in line with our Proxy Voting Guidelines. We generally support proposals requesting that companies adopt or implement initiatives to reduce GHG emissions, and proposals requesting enhanced climate-related disclosures such as those aligned with the TCFD. For a review of our proxy voting activities in 2020, please see our Semi-Annual Corporate Governance and Responsible Investment Report.
+Engagement. 
+We actively engage with companies and regulators, where appropriate, to encourage climate mitigation and adaptation, and report on our activities and outcomes. In 2020, our investment teams completed 1,200+ engagements that included a significant focus on ESG factors, including climate change.30 We also work collaboratively with other investors through initiatives such as Climate Action 100+, to share our views and discuss the risks and opportunities of climate change with the boards and management of the companies in which we invest on behalf of our clients.
+Collaboration and advocacy31. 
+UN Principles for Responsible Investment (PRI)
+RBC GAM is a signatory to the PRI since 2015. BlueBay Asset Management has been a signature to the PRI since 2013. The PRI is a United Nations-supported network of investors, works to promote sustainable investment through the incorporation of environmental, social, and governance factors.
+Climate Action 100+
+RBC GAM is a signatory to the Climate Action 100+ since 2020. Climate Action 100+ is an investor-led initiative that engages with the largest global GHG emitters (167 focus companies in total) with the objective of seeking action on climate change. As a signatory to Climate Action 100+, in 2020 RBC GAM participated in four engagements. The purpose of these engagements is to encourage companies to take actions to reduce GHG emissions, improve governance oversight of climate change, and enhance climate-related disclosures.
+Please see the RBC GAM Proxy Season Overview 2020 for examples of Climate Action 100+ shareholder proposals.
+Task Force on Climate-Related Financial Disclosures (TCFD)
+RBC GAM is a formal supporter of the TCFD since 2020. The TCFD recommendations are a reporting framework that seeks to improve disclosure of climate-related risks and opportunities. We support and encourage TCFD disclosures from issuers and produce our own annual TCFD disclosure, as of 2020.
+Responsible Investment Association (RIA)
+RBC GAM is a sustaining member of the Responsible Investment Association (RIA) since 2003 and participates on the Board of Directors, and is the Chair of the Governance Policy Committee. The RIA is Canada’s industry association for responsible investment.
+Canadian Coalition for Good Governance (CCGG)
+RBC GAM is a member of Canadian Coalition for Good Governance (CCGG) since 2003. CCGG represents institutional investors and promotes good governance practices in Canadian public companies. In 2020, the Head of CGRI served as a member of the Policy Committee, and another member of the CGRI team joined the Environmental and Social Committee.
+International Corporate Governance Network (ICGN)
+RBC GAM is a member of the International Corporate Governance Network (ICGN) and participates on the Disclosure and Transparency Committee. The ICGN aims to promote effective standards of corporate governance and investor stewardship to advance efficient markets and sustainable economies worldwide.
+Investor Stewardship Group (ISG)
+RBC GAM is a founding member of the ISG and sits on the Board. ISG works to establish a framework of basic standards of investment stewardship for institutional investors and corporate governance principles for U.S. listed companies.
+30 The reported figures may not fully capture all ESG engagements as some may not be included in our tracking systems. Engagements purely on non-ESG factors are excluded.
+31 RBC GAM is a signatory or member of these climate-related initiatives. For a full list of our collaborative initiatives, refer to our website: www.rbcgam.com/cgri
+
+
+22 TCFD – 2020 Report. 
+Client-driven solutions and reporting The transition to a low-carbon economy offers opportunities as well as risks, and we are committed to delivering products and solutions that meet the investment needs of our clients, and to providing transparent and meaningful reporting. Consideration of material climate change factors is integrated by investment teams into all funds. We also provide fossil-fuel free and impact strategies in some geographies, and continue to drive sustainable product development in an agile manner. This includes exploration of products that focus on climate mitigation, climate transition, climate adaptation, and resilience. The drivers and impacts of climate change are multi-faceted and varied; the solutions required to respond to the risks and opportunities it poses must be as well. We continue to share our views on climate-related topics with clients, including publications in 2020 on Our perspective on stranded assets and Climate change: active stewardship vs. divestment.
+3.3 Integration of climate risks The impact of material climate-related risks on principal risk types is considered as part of our investment risk process, as discussed above, and is integrated into our overall risk management process. The Investment Risk team, which reports into the Chief Investment Officer (CIO), is responsible for measuring risks at both a firm and portfolio level. The GAM Investment Risk Committee (GIRC), chaired by the CIO, is responsible for monitoring the firm’s risk profile, including ESG and climate risks when material. Risk appetite is established by the CIO.
+The RBC Investment Strategy Committee (RISC) is also chaired by the CIO and reviews assessments of global fiscal and monetary conditions, projected economic growth and inflation, as well as the expected course of interest rates, major currencies, corporate profits, and stock prices. From this global forecast, the Committee develops specific guidelines that can be used to manage portfolios. Where material, this may include ESG risks, including climate change. Results of the Committee’s deliberations are published quarterly in The Global Investment Outlook.
+
+
+TCFD – 2020 Report 23 4. Metrics and Targets. 
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities .
+4.1 Climate-related metrics We recognize that there are multiple disclosure frameworks and that the metrics used to measure climate-related risks and opportunities are still developing, as discussed in the 2020 TCFD consultation on forward-looking financial sector metrics.32 It is for this reason that we use a suite of current and forward-looking metrics to assess the impact of climate change on portfolios (Figure 20).33. 
+We fully support efforts to advance and standardize credible, comprehensive, and comparable approaches to quantifying the impact of climate change. As a member or signatory to the PRI, TCFD, and SASB we continue to work with experts and investors to advance these efforts and move towards a more standardized approach. This will require action to improve data quality, coverage and comparability; agreement on methodologies and metrics for measuring financial impact of climate change; and the ability to model the complex direct and indirect impacts of climate change on corporate and sovereign issuers, and the economies and markets within which they operate.
+Figure 20: Climate-related metrics. 
+Canadian equities. 
+U.S.
+equites. 
+Emerging. 
+Market equities. 
+International equities. 
+Canadian corporate bonds. 
+U.S.
+corporate bonds. 
+Portfolio Benchmark Portfolio Benchmark Portfolio Benchmark Portfolio Benchmark Portfolio Benchmark Portfolio Benchmark. 
+Data coverage 90% 97% 87% 98% 78% 81% 98% 98% 73% 79% 90% 90%
+Carbon footprint. 
+Weighted average carbon intensity by sales (tCO2eq./$M sales) 325.00 305.31 95.89 139.21 63.91 207.20 95.65 129.64 300.85 257.38 265.43 259.95. 
+Weighted average carbon intensity by Enterprise Value Including Cash (tCO2eq./EVIC) 85.13 77.69 27.07 37.61 21.68 105.79 41.55 74.18 72.17 56.94 62.29 51.18. 
+Climate value at risk. 
+Aggregated Climate VaR, 1.5oC scenario (%) -12.88 -12.94 -6.68 -8.45 -7.34 -12.89 -8.03 -10.13 -5.94 -6.74 -11.55 -10.34. 
+Aggregated Climate VaR, 2oC scenario (%) -7.28 -7.16 -4.42 -5.63 -5.03 -9.74 -6.52 -7.36 -3.82 -3.92 -7.69 -6.84. 
+Aggregated Climate VaR, 3oC scenario (%) -2.29 -2.27 -2.92 -3.53 -3.84 -6.45 -5.19 -5.72 -1.45 -1.65 -4.06 -4.02. 
+Temperature alignment Warming Potential (°C) 3.07 3.14 2.67 3.02 3.44 3.79 2.59 2.83 2.58 2.49 3.69 2.86 32 TCFD Forward-looking financial sector metrics – Consultation, October 2020 33 The climate-related metrics and disclosure does not include BlueBay Asset Management LLP. All data is as at December 31, 2020 and sourced from MSCI®. Certain information © 2021 MSCI ESG Research LLC. Reproduced by permission
+
+
+TCFD – 2020 Report 24 4.2 Operational GHG emissions The performance, targets and reporting of operational GHG emissions is established as part of the robust climate change program of RBC.34 In 2017, RBC became carbon neutral and committed to achieving net-zero carbon emissions in its global operations annually, which includes RBC GAM. This is accomplished through energy and emissions reduction programs in the RBC property network, Information Technology infrastructure, and by sourcing renewable energy credits and high quality carbon offsets to account for emissions that RBC cannot eliminate. The priority is focused on operational efficiency and increasing the amount of renewable energy sourced and produced. RBC aims to be less reliant on carbon offsets over time but understands there is a need for carbon offsets in the short-term for activities such as heating fuel and business travel. As per the RBC Climate Blueprint, this includes two targets: a reduction in absolute GHG emissions by 70% with a baseline year of 2018, and an increase in sourcing of electricity from renewable and non-emitting sources to 100%, both by 2025.
+As a signatory to the CDP, RBC has publicly reported climate-related data since 2003, including multi-year data in accordance with the GHG Protocol. RBC receives third-party limited assurance on energy and emissions metrics. RBC GAM’s operational GHG emissions are included within RBC disclosure. See the RBC response to the 2020 CDP Questionnaire and RBC Environment, Social and Governance (ESG) Performance Report 2020.
+4.3 Climate-related targets Our approach to climate change, launched in 2020, describes the commitments and actions we are taking to address climaterelated risks and opportunities. We do not set climate-related targets that apply across all of our portfolios, as we track and manage investments in line with investment mandates. Specific investment mandates may include ESG or climaterelated factors. In addition, all of our global investment teams integrate material climate-related factors into their investment decision making process. We will continue to assess, monitor, and disclose our approach to climate change, and seek to continuously improve and advance this approach.
+34 See RBC Climate Blueprint
+
+
+TCFD – 2020 Report 25. 
+Build climate expertise:
+Continue to build climate expertise and knowledge across investment teams and the Leadership Committee by hosting climate education sessions and sharing case studies and insights.
+Climate analytics and research insights:
+Enhance the depth and scope of climate research and analysis on material climate factors and impacts within and across portfolios.
+Standardization of metrics and methodologies:
+Improve the standardization of methodologies of relevant climate metrics through collaborative initiatives.
+Disclosure and transparency:
+Continue to provide enhanced disclosure of ESG and climate metrics to clients, as requested.
+Active stewardship:
+Continue to focus on actively engaging with investee companies on material ESG and climate factors, and collaborate and advocate on climate-related issues through industry and investor-led initiatives.
+Moving forward. 
+RBC GAM believes that considering the financial impacts of climate change in our investment approach can enhance long-term, risk-adjusted returns. We support the principles of the Paris Agreement and recognize the need to achieve a just transition to a low-carbon economy and will continue to advance our capabilities and commitments in line with this need.
+As we continue to implement Our approach to climate change, through the course of the coming year we will focus on the following areas:
+
+
+021GAM011_(03-2021)_CGRI_TCFD_RepoRT_eN_v1_9 04/01/2021 (03/2021)
+This document is provided by RBC Global Asset Management (RBC GAM) for informational purposes only and may not be reproduced, distributed or published without the written consent of RBC GAM or its affiliated entities listed herein. This document does not constitute an offer or a solicitation to buy or to sell any security, product or service in any jurisdiction; nor is it intended to provide investment, financial, legal, accounting, tax, or other advice and such information should not be relied or acted upon for providing such advice. This document is not available for distribution to investors in jurisdictions where such distribution would be prohibited.
+RBC GAM is the asset management division of Royal Bank of Canada (RBC) which includes RBC Global Asset Management Inc., RBC Global Asset Management (U.S.) Inc., RBC Global Asset Management (UK) Limited, RBC Global Asset Management (Asia) Limited, and BlueBay Asset Management LLP, which are separate, but affiliated subsidiaries of RBC.
+In Canada, this document is provided by RBC Global Asset Management Inc. (including PH&N Institutional) which is regulated by each provincial and territorial securities commission with which it is registered. In the United States, this document is provided by RBC Global Asset Management (U.S.) Inc., a federally registered investment adviser. In Europe this document is provided by RBC Global Asset Management (UK) Limited, which is authorised and regulated by the UK Financial Conduct Authority. In Asia, this document is provided by RBC Global Asset Management (Asia) Limited, which is registered with the Securities and Futures Commission (SFC) in Hong Kong.
+Additional information about RBC GAM may be found at www.rbcgam.com.
+This document has not been reviewed by, and is not registered with any securities or other regulatory authority, and may, where appropriate and permissible, be distributed by the above-listed entities in their respective jurisdictions.
+Any investment and economic outlook information contained in this document has been compiled by RBC GAM from various sources. Information obtained from third parties is believed to be reliable, but no representation or warranty, express or implied, is made by RBC GAM, its affiliates or any other person as to its accuracy, completeness or correctness. RBC GAM and its affiliates assume no responsibility for any errors or omissions.
+Opinions contained herein reflect the judgment and thought leadership of RBC GAM and are subject to change at any time. Such opinions are for informational purposes only and are not intended to be investment or financial advice and should not be relied or acted upon for providing such advice. RBC GAM does not undertake any obligation or responsibility to update such opinions.
+RBC GAM reserves the right at any time and without notice to change, amend or cease publication of this information.
+Past performance is not indicative of future results. With all investments there is a risk of loss of all or a portion of the amount invested. Where return estimates are shown, these are provided for illustrative purposes only and should not be construed as a prediction of returns; actual returns may be higher or lower than those shown and may vary substantially, especially over shorter time periods. It is not possible to invest directly in an index.
+Some of the statements contained in this document may be considered forward-looking statements which provide current expectations or forecasts of future results or events. Forward-looking statements are not guarantees of future performance or events and involve risks and uncertainties. Do not place undue reliance on these statements because actual results or events may differ materially from those described in such forward-looking statements as a result of various factors. Before making any investment decisions, we encourage you to consider all relevant factors carefully.
+Although RBC Global Asset Management information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the “ESG Parties”), obtain information (the “Information”) from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redisseminated in any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to determine which securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any liability for any direct, indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages.
+® / TM Trademark(s) of Royal Bank of Canada. Used under licence. © RBC Global Asset Management Inc. 2021

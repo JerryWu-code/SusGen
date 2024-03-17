@@ -1,0 +1,713 @@
+PhosAgro’s Climate-Related Disclosures 2020 TCFD REPORT
+
+
+/1 PHOSAGRO 2020 TCFD REPORT. 
+CEO’S STATEMENT. 
+CONTENTS. 
+Dear colleagues,
+Now more than ever before the world’s companies are being called upon to show leadership in the fight against climate change and managing the related risks. In our corporate Strategy to 2025, we have set our sights on sustainable development and growth which always satisfies and realizes the expectations and interests of all stakeholders whilst taking special care of our impact on society and the environment.
+In 2019, we formed a Board of Directors committee devoted solely to sustainable development where we manage the issues related to climate change. In 2020, a comprehensive Climate Strategy was developed on the committee’s instruction which incorporates an in-depth analysis of risks, opportunities and scenarios as well as setting concrete science-based targets and a plan for low-carbon transition. The Climate Strategy has since been approved by the Board of Directors.
+A fundamental part of the strategy is science-based GHG emissions reduction targets. This includes a 14% reduction in emissions by 2028 compared to the 2018 baseline across all scopes. Our low-carbon transition plan reflects initiatives developed within the Company to help fulfil our GHG emissions reduction targets. This refers to organisational and technical measures to reduce direct (Scope 1) emissions and measures developed as part of our Energy Efficiency Programme that extend to energy suppliers and help improve the climate profile of energy supplies (Scope 2). Furthermore, the plan covers measures to cut GHG emissions that have already been actioned in partnership with suppliers and consumers across the value chain (Scope 3).
+We take special care to stay up-to-date with any changes to international regulatory frameworks on climate change, such as the European Green Deal which could impact on the Company. Meticulously analysing these frameworks is part of the Company’s risk management approach. We take any necessary corrective action, for example, implementing an internal carbon price.
+For many years, climate change has been a priority for the Company. In 2019, we signed up to CDP (formerly the Carbon Disclosure Project) and have been disclosing Company GHG emission data across all three scopes ever since. I’d like to note that in 2020, the Company also saw its CDP rating raised from C to B-, which testifies to PhosAgro’s success in combating climate change even more efficiently.
+Managing climate-related risks requires concerted effort from all companies to assess, manage and disclose relevant information for the benefit of all stakeholders. This report is the first comprehensive, TCFD-compliant summary of the extensive work carried out by PhosAgro’s team in analysing, reporting and managing our impact on the climate. This complements the information published in the integrated report and CDP reports.
+Andrey Guryev. 
+CEO of PhosAgro. 
+CEO’S STATEMENT. 
+CLIMATE AGENDA IN THE GLOBAL. 
+AND INDUSTRY CONTEXTS. 
+IMPLEMENTATION OF TCFD. 
+RECOMMENDATION. 
+ABOUT THE COMPANY. 
+CORPORATE GOVERNANCE. 
+Role of the Board of Directors. 
+STRATEGY. 
+Climate Strategy: key elements. 
+Resilience of climate strategy. 
+Actions to deliver the Climate Strategy. 
+CLIMATE RISK MANAGEMENT. 
+Climate risk identification and assessment. 
+Climate risk management. 
+Climate risk integration into the Company’s risk management framework. 
+METRICS AND TARGETS. 
+Existing metrics: description and statistics 01 02 04 05 10 12 15 15 18 27 33 33 36 36 37 42
+
+
+/3 2. 
+CLIMATE AGENDA. 
+IN THE GLOBAL AND INDUSTRY CONTEXTS. 
+Climate change stands in the way of food security, sustainable development, and poverty reduction.
+The diagram shows the dependence between the projected annual GHG emissions average and annual temperature average under different climate commitments and goals.
+As of today, the goal to achieve carbon neutrality has been adopted by countries that together account for 70% of the global GDP and more than 60% of GHG emissions1. In particular, the European Commission’s Green Deal2 aimed at reducing climate risks envisages: 1. Sources: Carbon Action Tracker / Net Zero Tracker 2. The European Green Deal is a climate strategy of the EU member states that aims to achieve netzero carbon emissions by 2050. It was presented in December 2019 by the head of the European Commission and adopted in March 2020 by the European Council.
+In order to supply a growing population with food and support economic growth, it is imperative to introduce science-based, eco-friendly industrial technologies and agricultural practices.
+According to some estimates, no meaningful action may result in losing up to 30% of the global GDP by 2100 with 2–3 bln people left in dire living conditions.
+Company. 
+Climate. 
+Fertilizer production The Company has a significant impact on climate, primarily through the production of ammonia and nitric acid as well as resource consumption.
+Fertilizer application By using mineral fertilizers, our customers also exert an impact on climate.
+Our impact on climate >> << Climate’s impact on us. 
+Climate risks. 
+Our production and logistic infrastructure is exposed to physical climate risks, primarily in the Far North.
+Climate change The materialised effects of climate change and their consequences, coupled with significant changes in agricultural production, create new challenges for the mineral fertilizer industry in terms of the product mix and application methods.
+The significance of the climate agenda for PhosAgro as a producer of complex fertilizers: Global GHG emissions (bln t of CO2 per year) • investment in eco-friendly technologies • support of industry-specific innovations, including agriculture • introduction of clean and inexpensive means of private and public transport • decarbonisation of the energy sector • better energy efficiency in construction • cooperation with global partners to improve environmental standards. 
+The European Union has spearheaded the shift towards a new hydrogen-based technological platform. In 2020, the EU adopted several climate strategies, including the EU methane strategy that sets out measures to cut methane emissions by 2030. As compared to 1990, the volume of methane emissions generated by agriculture, currently the world’s biggest methane emitter, increased by more than a third.
+Given the importance of the climate agenda for PhosAgro, in 2020 the Company’s Board of Directors added SDG 13: Climate Action to the list of PhosAgro’s priority goals. The Environmental, Health and Safety Committee of the Board of Directors saw its functions expanded to include GHG emissions target-setting and development of actions to combat climate change and monitor their implementation.
+1990 2020 2040 2060 2080 2100. 
+The 1.5°C goal of the Paris Agreement The 2°C goal of the Paris Agreement Commitments and goals 2.6°C Current policies 2.7–3.1°C 0
+10 20 30 40 50 60 –10
+
+
+4 /5 PHOSAGRO 2020 TCFD REPORT. 
+IMPLEMENTATION OF TCFD RECOMMENDATIONS. 
+TCFD recommendations Reported. 
+Corporate governance. 
+The Board of Director’s role in monitoring climate-related risks and opportunities. p. 12. 
+The management’s role in assessing and managing climate-related risks and opportunities. p. 11. 
+Strategy. 
+Description of the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.
+p. 20. 
+Description of the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+p. 26. 
+Assessment of the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a 4°C and 2°C scenario. .
+p. 18. 
+Climate risk management. 
+Description of the organisation’s processes for identifying and assessing climate-related risks.
+p. 33. 
+Description of the organisation’s processes for managing climate-related risks. p. 28, p. 30, p. 36. 
+Description of processes for identifying, assessing and managing climate-related risks. p. 36. 
+Metrics and targets. 
+Description of the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management processes.
+p. 37. 
+Disclosure of Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions, and the related risks.
+p. 39. 
+Description of the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.
+p. 42. 
+ABOUT THE COMPANY. 
+The Company has its own resource base and carries out a full cycle of mineral fertilizer production – from extraction and processing of apatite-nepheline ore to the production of mineral fertilizers. The Group includes its own research and development department, which ensures the best possible quality control of products, and is the largest European producer of phosphate fertilizers, the largest global producer of high-grade phosphate rock, and the world’s second (excluding China) manufacturer of ammophos and diammonium phosphate. The Company is one of Europe’s leading producers of complex mineral fertilizers (NPK). It employs over 17 thousand people.
+PhosAgro’s shares are traded on the Moscow Exchange. The Global Depository Receipts for its shares are traded on the London Stock Exchange (ticker: PHOR), and since 1 June 2016 they have been included in the MSCI Russia and MSCI Emerging Markets indices.
+PhosAgro is a vertically integrated mineral fertilizer producer. All mining and production activities are conducted in the Russian Federation.
+PhosAgro has LEAD status under the UN Global Compact and is a participant of its Climate Ambition initiative. The Company’s representatives are members of climate change and sustainable development task and expert groups, and are actively engaged in discussions on current global challenges.
+PhosAgro’s environmental activities, including actions to combat climate change, are conceived to be allround and long-term. In particular, the Company continuously invests in equipment that allows it to generate electricity utilising production waste heat in a process known as cogeneration.
+For a detailed description of the Company, see
+
+
+6 /7 PHOSAGRO 2020 TCFD REPORT. 
+One example is a large-scale upgrade of the sulphuric acid production facility at the Cherepovets site implemented in 2002–2009, owing to which: • electrical energy consumption was reduced from 134 to 51.8 kWh per tonne of sulphuric acid (monohydrate) output, and generation of steam was increased from 0.48 to 0.97 Gcal per tonne of sulphuric acid (monohydrate) output to maximise the share of own electrical energy in the total electrical energy consumption; • formation of hazard class 4 largetonnage waste (pyrite cinder) of 1 mtpa was avoided; • specific sulphur dioxide and trioxide emission standards were decreased.
+The new ammonia production plant boasts the following environmentally-friendly features: • no effluent discharge resulting from ammonia production; • air cooling technology for process environment was introduced to reduce water consumption; • recuperative technology of air pre-heating before primary reforming was introduced to reduce natural gas consumption and air emissions.
+INVESTING IN UPGRADES electrical energy consumption was reduced from 134 to 51.8 kWh/t generation of steam was increased from 0.48 to 0.97 Gcal/t. 
+Between 2018 and 2020, the Company further upgraded its sulphuric acid production facilities in Cherepovets and Balakovo, having increased the volume of electrical energy generated by utilising the production waste heat. The waste heat generated in the process of sulphuric acid production covers a significant share of the energy the facilities require for production purposes.
+Increase in the production of powergenerating steam allows for saving electrical energy and thus reduces Scope 2 GHG emissions.
+The green features of the new granulated urea unit include: • lowest rates of ammonia and urea dust emissions thanks to state-of-the-art technical solutions; • carbon dioxide processing, which has a double effect: increased use of natural gas (as a complex hydrocarbon material) along with the respective reduction of the emissions of carbon dioxide (Scope 1 GHG).
+In 2015–2017, a major investment project was implemented in Cherepovets to put into operation an ammonia production plant with a capacity of 760 ktpa and a new granulated urea unit.
+As early as 2002, PhosAgro began investing heavily in facility upgrades and introduction of the new technologies meeting the highest environmental requirements of the day.
+1 2
+
+
+8 /9 PHOSAGRO 2020 TCFD REPORT. 
+In 2019, PhosAgro embarked on a new approach to the climate action agenda:
+January The Company launched an international project to promote sustainable soil management among farmers and create the Regional Soil Laboratory Network (RESOLAN) in Africa, Latin America, and the Middle East. The project seeks to improve the soil quality and encourage more frequent soil analysis, which is particularly important for implementation of the climate action agenda as soils are the largest carbon deposit.
+March Development Strategy to 2025 incorporating sustainable development goals was adopted. 
+May The Board of Directors’ Sustainable Development Committee was established to organise risk management activities, including those relating to climate change. 
+August The Sustainable Development Committee set targets for reducing specific GHG emissions (Scope 1) to 2025 (among other targets)
+PhosAgro’s first CDP reporting for 2018 was rated C – Awareness. 
+January The Company joined the UN Global Compact’s Action Platform on Business Ambition for Climate and Health. 
+August The Company’s 2019 CDP reporting was rated B – Management. 
+The Sustainable Development Committee approved the Energy Efficiency Programme encompassing the Company’s current and future actions intended to reduce energy consumption and Scope 2 GHG emissions. 
+November The Company analysed climate scenarios following up on TCFD recommendations.
+The Sustainable Development Committee considered draft Climate and Water Strategies. The lowcarbon transition plan was adopted as a basis for strategic planning.
+Sustainalytics improved the Company’s GHG emissions rating from 12.5 in 2019 to 49.9 in 2020.
+December Development of a plan for engagement with the value chain participants and the engagement assessment framework. Development of climate-related risk management mechanisms within PhosAgro’s overall risk management system.
+The Board of Directors approved the draft Climate Strategy and adopted a low-carbon transition plan; Scope 1, 2 and 3 emission targets were approved for the period to 2028.
+The first renewables facility, a solar power plant in Balakovo, was commissioned, providing substitution for purchased electrical energy and thus reducing Scope 2 GHG emissions 2019 2020 2021. 
+January The Company joined the UN Global Compact’s Action Platform on Climate Ambition. 
+The Company signed its first agreement for supplying HPPgenerated electrical energy in order to reduce Scope 2 GHG emissions. 
+CDP (Carbon Disclosure Project) rating was upgraded to В−
+This progress was driven by the development and the start of systematic implementation of a climate strategy that provides for determining and analysing climate scenarios, assessing climate-related risks, setting emission reduction goals, and establishing a low-carbon transition plan. Improvements in non-financial disclosure also had a positive effect on the ratings.
+one of the highest ESG ratings awarded to a fertilizer producer. 
+MSCI ESG Research rating was raised to BBB BBB. 
+PhosAgro’s 2020 ESG activities were rated highly by specialised rating agencies:
+Sustainalytics ESG score was increased by 18.6 points to 26.91 1. where 100 is the worst possible score and 1 is the best
+
+
+/11 10. 
+Environmental Policy. 
+CORPORATE. 
+GOVERNANCE. 
+The key corporate documents governing environmental and climate change actions:
+Regulations on the Environmental, Health and Safety Committee of the Board of Directors. 
+Regulations on the Sustainable Development Committee of the Board of Directors. 
+Corporate governance system for climate change agenda. 
+BOARD OF DIRECTORS. 
+IMPLEMENTING BODIES (FUNCTIONAL DEPARTMENTS)
+Strategy Committee • Develops a strategy accounting for sustainable development goals and monitors it semi-annually.
+Risk Management Committee • Assesses climate risks and updates the risk map, subject to climate strategy approval and implementation; carries out quarterly monitoring.
+Remuneration and Human Resources Committee • The current management incentive system, which relies on key performance indicators (KPIs) linked to strategic targets, made another step forward in 2020, covering as many as 277 people from N to N-3 levels, up 2.6 times y-o-y. A notable part of this growth came from the extended scope of KPIs linked to the Company’s sustainability targets.
+• In 2020, the Company decided to include climate change KPIs in KPI scorecards for managers in charge of implementing the low-carbon transition plan starting from 2022.
+Department of Ecology and Environmental Management (JSC Apatit) • Organises the development of the climate strategy; arranges for the implementation of actions adopted within the low-carbon transition plan. 
+Marketing and Development Department, Innovations Centre, NIUIF • Studies and reviews actions adopted as part of the low-carbon transition plan specifically pertaining to the development of technology for releasing and promoting new products; • The development and promotion of sustainable farming practices that mitigate negative environmental effects or respond to materialised climate risks. 
+Procurement Department (JSC Apatit) • Develops ESG rating procedures for suppliers and contractors, including climate-related criteria, and integrates the same into the contractor selection system; • Adds ESG criteria to the supplier audit checklist. 
+Project Implementation and Management Department (JSC Apatit) • Works on matters pertaining to the establishment of a task group on reduction of GHG emissions and of negative climate change effects on the efficiency of management and production processes. 
+Risk Management and Internal Control Department • Arranges for identification, assessment, management and monitoring of climate risks, subject to the approval and implementation of the climate strategy. 
+Economics Department (JSC Apatit) • Works out a mechanism for incorporation of the carbon price into the system created to evaluate the efficiency of investment projects. 
+Human Resources and Social Policy Department • Works out a staff competencies development plan tied to the climate change agenda; • Develops climate-related KPIs and adds them to the employee incentive system. 
+Technical Development, Capital Construction and Repair Department (JSC Apatit), NIUIF (Samoilov Research Institute for Fertilizers and Insectofungicides) • Studies and reviews technical and organisational actions adopted as part of the low-carbon transition plan and intended to reduce emissions and energy consumption. 
+Environmental, Health and Safety Committee • Monitors the development, adoption and implementation of actions approved for the low-carbon transition plan; • Supervises and monitors the established GHG emission targets • Approves the strategy • Approves the lowcarbon transition plan Sustainable Development Committee • Carries out context analysis of the climate strategy; • Analyses the requirements of regulatory authorities, the ratings assigned by ESG rating agencies, and the expectations of investors and other stakeholders; • Analyses the best practices in regard to climate change actions and climaterelated disclosures; • Develops the action plan and disclosure recommendations.
+COMMITTEES OF THE BOARD OF DIRECTORS
+
+
+12 /13 PHOSAGRO 2020 TCFD REPORT. 
+Plan, PhosAgro plans to update its strategic (Development Strategy to 2025), financial planning and other documents.
+As instructed by the Board of Directors, the Company’s management is working on the internal carbon price issue, including on what to choose (internal emission fee, shadow carbon price, implicit costs) and how to use it when making investment decisions. We expect that as early as 2021, the projects that may have a significant impact on the greenhouse gas emissions will be evaluated subject to the cost of such emissions.
+The investment program was developed taking account of environmental and climate change factors, which would enable the Company to reduce the greenhouse gas emissions. PhosAgro’s plans include development of the emissions reduction programme and improvement of the “green procurement” system in collaboration with its suppliers. The Company is working out solutions for the entire plant-to-farm and farm-to-plate supply chain, allowing it to enhance the sustainability of the whole production and consumption system.
+ROLE OF THE BOARD OF DIRECTORS. 
+Since its establishment, the Board of Directors has been paying considerable attention to environmental issues. Two to four times a year, the Environmental, Health and Safety Committee of the Board of Directors meets to determine the Company’s key priorities in the sphere of environmental protection, to monitor and analyse negative effects on the environment, to consider draft laws and regulations and assess their potential impact on the Company’s business, to analyse the best practices and the best available techniques in the context of PhosAgro’s compliance with the same, and to analyse the size and evolution of environmental protection spending. If violations of environmental laws occur, the Committee analyses the factors and reasons that led to them and the respective conditions, as well as the action taken to avoid such situations in the future. In his turn, the Chairman of the Committee reports the work done by the Committee to the Board of Directors on a quarterly basis.
+Furthermore, at least once a year, the Board of Directors separately considers the environmental activities report prepared by the Company’s executive team. In addition, the Board of Directors determines and approves the environmental policy.
+CLIMATE CHANGE COMMITMENTS 2020 was the first year when climate change issues became a prominent and permanent component in the agenda of Board of Directors meetings. They were addressed in the reports prepared by chairmen of the committees on a quarterly basis: • Strategy Committee – regarding the deviation of the approved Strategy to 2025 parameters from the actually expected figures, including for Scope 1 GHG emissions reduction, the targets for which were first adopted by the Company in 2019; • Risk Management Committee – regarding the integration of climate risks into PhosAgro’s risk management system; • Sustainable Development Committee – regarding compliance of the Company’s climate control activities with the best practices and regarding external evaluation of such activities by the key stakeholders.
+We expect that in 2021, owing to the adoption of our low-carbon transition plan, other committees of the Board of Directors will become involved in climate control processes: • Audit Committee – as regards incorporation of climate indicators into the financial statements; • Remuneration and Human Resources Committee – in relation to determining our new climate-related KPIs for managers; • Environmental, Health and Safety Committee – in terms of supervision and monitoring of technical and organisational actions adopted as part of the low-carbon transition plan.
+In December 2020, PhosAgro’s Board of Directors approved the results of sustainability goals prioritisation initiative, having added UN Sustainable Development Goal 13 “Climate Action” as a key goal for the Company and adopted an approach for managing activities in this field, as well as key metrics and actions.
+In late 2020, the Board of Directors approved the Climate Strategy developed on the recommendation and under the supervision of the Sustainable Development Committee. The Climate Strategy suggests focusing on five goals: • reducing (stabilising) the greenhouse gas emissions while increasing output; • improving energy efficiency and environmental performance of the key production processes; • reducing energy and carbon intensity per unit of output; entering the new emerging markets of “green” products; • retaining and expanding our existing market niches by ensuring the competitive edge of PhosAgro’s products in terms of energy and carbon intensity.
+To implement the strategy, a LowCarbon Transition Plan and a Plan for Cooperation with Value Chain Participants were developed and adopted. In compliance with the Climate Strategy and the Low-Carbon Transition. 
+In 2019, the Board of Directors resolved to systematise all of the Company’s projects in the sphere of ecology, climate and social investment, so a new Board of Directors committee was established to tackle this as part of its remit.
+The establishment of the Sustainable Development Committee under PhosAgro’s Board of Directors testifies to the Company’s commitment to the achievement of UN Sustainable Development Goals, which is a core priority in the corporate Development Strategy to 2025. While implementing the Strategy, the Company began drafting a comprehensive environmental policy and building an integrated system for managing climate risks. It also launched a programme for regular climate reporting.
+The Sustainable Development Committee’s remit includes:
+SUSTAINABLE DEVELOPMENT COMMITTEE. 
+The Sustainable Development Committee members are:
+Irina Bokova, Chair of the Committee, Independent director. 
+Andrey Sharonov Member of the Committee, Independent director. 
+Mikhail Rybnikov Member of the Committee, Executive director • establishing and analysing, from time to time, the framework of the Company’s sustainable development bylaws; monitoring the preparation of such bylaws, their relevance, effectiveness and quality; • ensuring continuous display and promotion of ethical, transparent and responsible behaviour; • involving key stakeholders, contributing to fostering healthy and sustainable communities across all regions of operation; • monitoring compliance with legal requirements and corporate sustainable development goals, as well as the commitments under the UN Global Compact; • arranging for staff training on best practices in sustainable development; • drafting recommendations to the Board of Directors on strategic sustainability goals; • considering reports on sustainable development; • monitoring corporate disclosures on sustainable development activities.
+The Committee’s operating procedures are determined by the Regulations on the Sustainable Development Committee approved by the Board of Directors.
+
+
+14/15 PHOSAGRO 2020 TCFD REPORT. 
+Starting 2021, as resolved by the Board of Directors and in line with the newest revision of the Regulations on the Environmental, Health and Safety Committee, monitoring of development, adoption and implementation of actions approved as part of the low-carbon transition plan, as well as supervision and monitoring of the established GHG emission targets are vested in the Environmental, Health and Safety Committee.
+Pursuant to the Regulations on the Environmental, Health and Safety Committee, the Committee is responsible for: • developing the core documents for the integrated management system in the sphere of health, safety and environment (HSE) and negative climate impact mitigation; • monitoring compliance with HSE and negative climate impact legislation applicable to the Holding companies’ production activities; • assessing environmental, social, technological, climate and industrial risks associated with production activities of the entities within the Holding; • reviewing investigation records on industrial accidents and incidents, environmental laws violation, and breach of climate impact regulations; • considering proposals on working conditions improvement, safety regulations compliance and injury frequency rate reduction, as well as on the reduction of greenhouse gas emissions and pollutant discharges, waste generation and disposal, and increase in energy efficiency; • analysing the progress on programmes and initiatives intended to introduce resource and energy efficiency solutions and climate protection technologies; • assessing the efficiency of activities aimed at implementing the HSE and energy efficiency integrated management system compliant with ISO 14001 and ISO 45001; • assessing the results of the information policy regarding HSE and negative climate impact mitigation.
+The Committee is well placed to arrange for the approval and implementation of the relevant decisions across all levels of corporate management.
+Pursuant to the amended Regulations on the Environmental, Health and Safety Committee, the Chairman of the Committee will quarterly inform the Board of Directors about the material aspects of PhosAgro’s climate change activities and about the Committee’s work in that field.
+STRATEGY. 
+Climate matters feature prominently in PhosAgro’s strategic and investment decisions, as well as in its day-to-day business management. The Company has identified, assessed, and prioritised climate risks, establishing their short, medium and long term consequences for its production and business processes. We make our strategic plans and day-to-day management decisions with full awareness of the nature and extent of climate impact (both environmental and political) on the Company’s business, strategy, and financial planning. The Company closely interacts with partners across its value chain (suppliers and consumers) and other stakeholders in Russia and worldwide.
+ENVIRONMENTAL, HEALTH AND SAFETY COMMITTEE. 
+Mikhail Rybnikov, Chairman of the Committee, Executive director. 
+Andrey Guryev, Member of the Committee, CEO Natalia Pashkevich, Member of the Committee, Independent director. 
+Committee members. 
+At PhosAgro, we pay great attention to climate issues, identifying and evaluating the Company’s climate impact across its value chain – from mining to end product consumption. We analyse how climate change affects our operations and which climate-related issues have the most significant repercussions for our business, strategy and financial planning. The Company develops and and implements systemic measures to reduce its carbon footprint.
+CLIMATE STRATEGY: KEY ELEMENTS. 
+PhosAgro’s Climate Strategy was developed in 2020. It is a comprehensive document setting out the Company’s climate policy in the face of growing climate change and uncertainties. In December 2020, the Board of Directors approved the Climate Strategy and endorsed a lowcarbon transition plan.
+PhosAgro’s Cimate Strategy is based on five main principles.
+Main principles of the Climate Strategy. 
+Setting up targets to reduce GHG emissions in line with the ScienceBased Targets initiative; using climate scenario analysis. Scientifically verified targets. 
+Risk-oriented approach. 
+Leveraging climate opportunities. 
+Engaging stakeholders. 
+Integration of climate matters into PhosAgro’s business strategy. 
+Integrating climate risks into the comprehensive risk management framework for investment and day-to-day business activities.
+Identifying not only risks, but also attractive climate-related investment opportunities and making long-tern plans for them.
+Promoting awareness of the Company’s climate initiatives and plans, as well as cooperation in specific areas.
+Apart from technology-related measures, reducing GHG emissions involves proper organisation and management, as well as sound social and personnel policy.
+1 2 4 5 3
+
+
+16 /17 PHOSAGRO 2020 TCFD REPORT. 
+The Strategy has set the following goals: • reduce (maintain) GHG emissions while increasing output; • improve energy efficiency and environmental performance of the key production processes; • reduce energy and carbon intensity per unit of output; • enter into new emerging markets for green products; • retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity.
+Strategy priorities: • monitoring GHG gas emissions, setting up and achieving GHG emission targets at all stages of production; • reducing climate risks related to the Company’s operations, production, strategy, regulatory compliance, finances and reputation and pursuing climate opportunities; • expanding the geography of the Company’s climateresponsible businesses in Russia and globally by responsible supplier selection, and customer and stakeholder engagement; • increasing the Company’s openness and transparency, in particular by expanding cooperation with stakeholders and international platforms with a view to advancing the climate agenda; • including climate matters in the Company’s management and decision-making processes, with an emphasis on investment planning and financial management.
+Implementation. 
+The Climate Strategy is designed and approved to cover all processes related to the Company’s operations, production, strategy, regulatory compliance, finances and reputation. Strategic decisions (1) are implemented in accordance with the LowCarbon Transition Plan (Priority Areas), the interaction plan with value chain participants, and other Climate Strategy documents, and (2) are integrated into the Company’s process management projects and, more broadly, into the Group’s strategic planning and financial management documents of the highest level.
+Special metrics (indicators) are used to assess the Strategy’ effectiveness, including total and by-sector GHG emissions; GHG emissions per tonne of output; as well as indicators measuring the economic growth, amount and efficiency of power production, energy efficiency, etc. (for more details, see Section 4 Metrics and Targets).
+The list and values of metrics (indicators) can be updated based on the Strategy’s assessment, new and revised corporate and industry strategic planning documents, and evolution of climate regulations in Russia and abroad.
+The Company is currently focused on creating metrics reflecting the impact of climate action in production and management processes on financial indicators. We are working on including these metrics in financial documents that present: operating expenses and income, capital expenditures and capital allocations, acquisitions or divestments, and access to capital. We have already provisionally developed a number of such metrics.
+We realise that in this context the CBAM is expected to play the role of a non-tariff regulatorbalancer between the EU regulatory requirements to reduce the carbon footprint and pay for GHG emissions and imports from countries outside the EU, where regulations are not as stringent. The CBAM will also apply to Russian industrial products, including, presumably, mineral fertilizers. The carbon footprint of mineral fertilizers includes direct emissions from processing, mainly of natural gas as technological feedstock, and energy emissions from the production of own heat. 
+Estimates of the CBAM’s effect on PhosAgro’s expenses under some potential scenarios, mln Euro. 
+Example No. 1. The Company has analysed the impact of the carbon border adjustment mechanism (CBAM) on PhosAgro’s operating expenses. The new mechanism will cover Russian industrial products, including, most likely, mineral fertilizers. Given the uncertainties as to the emission scopes the CBAM will apply to, the ability to account for the Company’s individual emission levels, and the changing carbon dioxide prices, we have determined the potential ceiling and floor of the mechanism’s impact on the Company’s financial performance in 2023–2030.
+The Company is fully aware that the CBAM is an integral part of the European Green Deal. It provides for a fundamental modernisation of the European Union’s economy facilitating transition to new carbon-free technological platforms – renewable energy (solar, wind, hydropower) in power generation, hydrogen fuel in manufacturing, renewables in metals and mining, chemical and petrochemical industries; and in agriculture – the Farm to Fork strategy that also has a significant environmental component. The European Green Deal seeks to achieve carbon neutrality for the EU by 2050. Naturally, the transition to carbon neutrality will require enormous spending, with EUR 800bn to be allocated for the modernisation of the European economy in the wake of the COVID-19 pandemic, of which 50% will be spent on climate initiatives.
+The cost of 1 tonne of CO2 emissions under the European Union Emissions Trading System in 2020A and through 2030F, € and power, as well as indirect emissions from the purchase of third party heat and power. To date there are a number of uncertainties related to the CBAM: • emission scopes covered by the CBAM (only Scope 1, or other); • benchmark selection for similar facilities; • potential accountng for individual company emissions; • changing prices for a tonne of CO2 equivalent; • possible recognition of the potential Russian national accounting and verification system for exports to Europe.
+Example No. 2. On instructions from the Board of Directors, we have prepared an estimate of capital expenditures for technical upgrade and modernisation projects included in the low-carbon transition plan and aimed at reducing direct GHG emissions (Scope 1). The estimate has been submitted for review by the Board. The projects are ranked by the cost of reducing a tonne of direct CO2-equivalent emissions.
+Example No. 3. We have estimated the costs of covering around 20% of the mining and processing plant’s output by green electricity as part of the contract signed by Apatit’s Kirov branch to purchase electricity generated by Kola Peninsula’s hydro plants.
+2023 2024 2025 2026 2027 2028 2029 2030 0
+10 20 30 40 50 60 €
+0 20 40 60 80 100 24 25 22 18 20 21 23 24 25 24 23 24 01-20 02-20 03-20 04-20 05-20 06-20 07-20 08-20 09-20 10-20 11-20 12-20 43 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 50 57 65 76 79 82 84 87 90
+
+
+18/19 PHOSAGRO 2020 TCFD REPORT. 
+Example No 4. We are planning to assess the costs and revenues of the Company’s project to produce and export to the European market the urea with urease inhibitors, a modern low-carbon fertilizer that helps reduce nitrogen losses in the N2O form, whose contribution to global warming is nearly 300 times higher than that of CO2. The project has been in progress since 2020. We will also be looking at the planned development of specialised impregnating additives and marketing of low-carbon NPK/ NP/NS fertilizers.
+Example No 5. We have prepared for review a concept of accounting for the internal carbon price when assessing the effectiveness of investment projects. We expect that as early as 2021, the projects that may have a significant impact on the GHG emissions will be evaluated subject to the cost of such emissions.
+The time horizons for strategic climate planning are in line with the current recommendations, as well as the established Company practice. We factored in the asset useful life, both tangible and intangible, primarily industrial and infrastructural. We also considered the fact that climate risks and opportunities manifest themselves in different ways over time, with many accumulating in the mid- and longer term.
+To implement the Climate Strategy, the Company has developed a lowcarbon transition plan (priority areas) to support economic development of PJSC PhosAgro with a focus on keeping GHG emissions to a minimum. The target model provides for expansion of the existing market niches by ensuring the competitive edge of the Company’s products, as well as synergy by implementing the activities aimed at achieving the sustainable development goals, in particular, climate action. The Company set science-based targets for GHG emissions.
+Forecasting and planning timeframe. 
+Short-term Medium-term Long-term 0 years 3 years 10 years 30 years. 
+RESILIENCE OF CLIMATE STRATEGY. 
+The resilience of the Company’s climate strategy is determined by the extent to which the priorities, strategic actions and initiatives it includes are relevant and viable in the short, medium and long term and take into account the external factors as regards climate change.
+This requirement was fulfilled both in terms of methodology and practice. The climate scenario analysis, which was carried out in line with the 2017 Technical Supplement. The Use of Scenario Analysis in Disclosure of ClimateRelated Risks and Opportunities recommendations by the Task Force on Climate-related Financial Disclosures and invited contributions from practitioners and experts, included: • identification and analysis of climate risks and opportunities related to the Company’s operations, production, strategy, regulatory compliance, finances and reputation as a result of climate change; • assessment of the impact of climate risks and opportunities on the Company’s business, strategy and financial planning under different scenarios of climate change in the short, medium and long term.
+The Company • has identified and assessed the impact of climate risks and opportunities on the areas of its activities most sensitive to climate: products, supply chains, climate change adaptation, R&D investments, key operations • has planned and is taking necessary steps to reduce climate risks and take climate opportunities in order to improve the efficiency of its climate initiatives and its business in general • is working to better integrate climate-related issues into operational decisionmaking, financial accounting and planning, and investment process. 
+CLIMATE RISKS AND OPPORTUNITIES • Disruptions in production processes and logistics operations due to increasing acute climatic effects and other climate-related factors; • Flaws in supply chains, construction design, health and safety; negative environmental footprint and reduced flows of ecosystem services; lower resilience of infrastructure and communications due to increasing climatic effects; • Company’s failure to comply with regulations reducing its negative environmental footprint (following the adoption. 
+Climate risks and opportunities arise from climate changes and as a result of impact by various groups of factors: • physical factors refer to changes in natural processes or phenomena (higher air temperature, longer hot periods, amplitude and frequency of sharp temperature fluctuations, increases in precipitation and humidity, thicker snow cover and more intense floods, rising sea levels, change in water content of rivers, more frequent hurricanes, storms and other climate extremes); • transition factors refer to political and regulatory changes aimed at fostering low-carbon transition (significant reduction in GHG emissions to curb climate change), including government measures to stimulate the transition to clean energy, restrict the imports of goods with poor climate footprint, encourage consumers to opt for low-carbon goods and services, and motivate investors to consider climaterelated factors.
+Such environmental and political factors affect the Company’s operations in different ways. Physical climate factors primarily threaten production and operations, while transition pose a threat management processes (strategic, regulatory, financial, reputational).
+Based on the patterns identified, TCFD recommendations and internal approaches to risk management (for more details, see Section 3 Climate Risk Management), the Company determined its climate risks and opportunities.
+Risks: of the carbon border adjustment mechanism); • Deterioration of the Company’s sustainability reputation; • Increased costs and losses (as a result of customers’ failure to meet their obligations, rising prices for feedstock, materials and services, higher borrowing rates) and shrinking revenues (as a result of a decline in sales, customers, countries and regions of operation).
+• Booting the Company’s appeal as an environmentally friendly and climatically responsible supplier of products with a positive climate profile.
+• Improved logistics driven by the new export opportunities amid shortened seasonal freeze-up of rivers and lakes due to climate change.
+• New financial products that open up new sources of cheaper funding (such as green bonds) for companies that embraced environmental and climate sustainability.
+Simultaneous analysis of climate risk probability and potential opportunities for various processes revealed that most of the climate risks would affect the Company’s finances – they are exposed to new regulations, higher costs and losses, lower revenue as a result of transition and physical climate factors, and can suffer from deterioration of the Company’s reputation. These factors also provide most of the opportunities to strengthen the Company’s position as an environment- and climate- responsible supplier of low-carbon products and to gain access to new cheaper financial products.
+On the other hand, the risk of non-compliance with climate regulations affects the largest number of the Company’s processes in the regulatory, financial and reputational categories. The same categories are expected to demonstrate climate opportunities associated, first of all, with the strengthening of the Company’s position as a supplier of low-carbon goods.
+Opportunities:
+
+
+20/21 PHOSAGRO 2020 TCFD REPORT. 
+Classification Acute physical risk: Reduced revenue from decreased production capacity (e.g., transport difficulties, supply chain interruptions).
+Chronic physical risk: Changes in precipitation patterns and extreme variability in weather patterns, rising mean temperatures.
+Description Disruptions in production processes and logistics operations due to increasing acute climatic effects and other climate-related factors.
+Impact on business: Acute environmental changes driven by climate shifts have a significant negative impact on the Company’s production and infrastructure facilities. They are manifested primarily as disruptions of the earth’s surface, communication lines, sea transport navigation aids and other facilities in permafrost areas; higher probability of catastrophic floods caused by rainfalls and periods of lack of water of various degrees; higher number of icebergs in the Arctic seas, etc.
+Management approach The Company places a strong emphasis on the resilience of its production and infrastructure facilities both during their operation and at the design stage. Close and all-round attention is paid to the resilience of (sea and river) port infrastructure, safe operation of high-rise structures, underground and above-ground communications, etc. The risks of foundation failures and structural instabilities due to permafrost thawing are being considered.
+Insurance mechanisms are used.
+The decisions made are reflected in technical regulations, guidelines and other internal documents of the Company.
+Classification Transition risk, policy and legal: increase in GHG emission charges, more detailed emission disclosure obligations, powers, and regulation of existing products and services, exposure to litigation.
+Description Company’s failure to comply with regulations reducing its negative environmental footprint (following the adoption of the carbon border adjustment mechanism)
+Impact on business More rigid climate requirements from foreign states and interstate structures (for example, the European Union), as well as the Russian Federation, including political impact, customs regulation, accounting for and regulation of emissions, etc. pose, as soon as in the short term, tangible risks for the Company as regards non-compliance with regulatory requirements with consequent (and quite significant) financial costs up to a potential ban on certain types of activities, which may ultimately result in loss / forced liquidation of fixed assets or halt of operations imposed by the regulators.
+Management approach The Company monitors changes in the Russian and foreign legislation and analyses the trends to make informed decisions. Estimated financial implications of the carbon border adjustment mechanism are included in the financial analysis and planning.
+In order to improve data collection for efficient reporting, the Company intends to launch an automated system to collect and process primary climate data (2022), and a system to monitor and timely respond to changes in climate regulations, financial and other requirements (2022). The Company intends to improve its regular climate reporting under Russian and international standards (2020–2022).
+It recognises that compliance with regulatory requirements depends on a professional team of responsible employees and leverages its excellent reputation to attract a pool of talented specialists. The Company is working on integrating climate agenda into HR policies related to recruitment, training, etc., as well as educational programmes. PhosAgro conducts climate trainings for employees and promotes the importance of climate matters in production. In 2021–2022, the Human Resources and Social Policy Department intends to include climate criteria in the employee remuneration system.
+The Company contributes to the discussions held by government and public organisations and professional communities in Russia and abroad to facilitate informed decision-making in climate regulation.
+The Company’s overall efforts in this area combine strict compliance with mandatory requirements and voluntary initiatives.
+Classification Chronic physical risk: Changes in precipitation patterns and extreme variability in weather patterns, rising mean temperatures.
+Description Flaws in supply chains, construction design, health and safety; negative environmental footprint and reduced flows of ecosystem services; lower resilience of infrastructure and communications due to increasing climatic effects. 
+Impact on business The Company’s infrastructure is exposed to a variety of physical climate factors. Increased solar radiation, a rise in mean temperatures of ground air, higher maximum temperatures and prolonged hot periods in the warm season, higher amplitude and frequency of sharp temperature fluctuations (including zero crossing), rise in average annual precipitation and air humidity, an increase in precipitation in autumn and winter, thicker snow cover and more intense floods, rising sea levels and change in watern content of rivers can damage the Company’s physical infrastructure and reduce its production and operational efficiency. Chronic physical risk: Changes in precipitation patterns and extreme variability in weather patterns, rising mean temperatures. The number of accidents causing environmental pollution goes up. Personnel efficiency decreases, injury and accident rates increase.
+The climate risks expose the Company to financial losses as a result of long downtime periods, the need to replace and restore equipment and machinery, environmental fines, etc.
+Management approach Management approach: The Company closely monitors the climate aspects of production (equipment, technology and energy supply) and operational (design, business, environmental protection, health and safety) processes throughout the entire life cycle.
+Climatic aspects are taken into account at the design stage, from pre-design development and drafting of the terms of reference. These aspects are reflected in the operational documents; and the system of technological measures to mitigate the negative impact of climate change on production processes. A working group on the Company’s climate adaptation is being created to address these and other issues.
+RISK 1 (R1) RISK 3 (R3)
+RISK 2 (R2)
+
+
+22/23 PHOSAGRO 2020 TCFD REPORT. 
+Classification Transitional risk, reputation: Changing consumer preferences, increased concerns or negative feedback from stakeholders.
+Description Deterioration of the Company’s sustainability reputation.
+Impact on business Given the sensitive nature of its business and products, as well as their potential uses, the Company remains under the scrutiny of investors, consumers and other stakeholders, driven by public concerns about the climate agenda. Weaker reputation may result in customer attrition and a decline in its appeal as an employer.
+Management approach The Company has a long-standing track record in R&D aimed at improving product efficiency and environmental performance and reducing its climate footprint. PhosAgro seeks to streamline its climate-oriented research, including regular financial planning and reporting. R&D planning is in line with the Company’s investment programmes and projects.
+The Company continues to actively communicate with vendors to select the most market-resilient suppliers with a positive climate profile, a meaningful climate policy and a commitment to sustainable development. PhosAgro has developed and introduced its climate-related criteria for vendor selection and assessment, which will be part of its standard procurement process.
+The Company constantly works to improve the supply chain reliability and enhance its capabilities to operate in a variety of climatic and institutional environments.
+Since 2020, PhosAgro has updated its vendor selection and procurement procedures.
+In late 2020, Apatit’s Kirov branch signed a contract with TGC-1 to purchase electricity generated by hydroelectric power plants, which will amount to 323 mln kWh in 2021, with nearly 20% of the mining and processing plant’s output covered by green electricity. This will have a positive effect on our progress towards the greenhouse gas reduction targets set for our supply chain (Scope 2).
+Currently, the Company is developing a number of prospective initiatives: • Technological measures aimed at reducing greenhouse gas and nitrous oxide emissions, as well as reducing natural gas flared at the fertilizer drying stage; • Establishing a task force on reduction of GHG emissions and negative effect of climate change on the efficiency of management and production processes; • Feasibility studies (business projects) for the production of new climate-resistant products based on carbon monoxide utilisation. Production development in high-potential areas; • R&D related to the use of low-carbon energy and production; • A strategy and action plan aimed at enhancing PhosAgro’s reputation as an environmentally and climatically responsible and sustainable business; • Collaboration with international institutions and climate initiatives.
+Classification Transitional risk, market: Changing customer behaviours, uncertainty about market signals, increased cost of raw materials.
+Description Increased costs and losses (as a result of customers’ failure to meet their obligations, rising prices for feedstock, materials and services, higher borrowing rates) and shrinking revenues (as a result of a decline in sales, customers, countries and regions of operation).
+Impact on business Loss of markets for finished products, lower profits and weaker competitive capacity of the Company.
+Management approach. 
+The Company continuously monitors and analyses the climate-oriented agenda of existing and potential investors and lending institutions, looks out for available eco-friendly innovations and market offers, and monitors and forecasts the status and geographic breakdown of crop production and other activities driven by climate change to the extent related to the consumption of its products. We do our best to forecast and adapt to market changes. To manage supplier risks, the Company develops strategies and tactics to deal with counterparties whose financial obligations are exposed to high climate risks (including development of criteria, adjustments to payment terms, provision of bank guarantees, use of letters of credit and factoring, etc.), keeps a tab on receivables resulting from climatic factors, as well as monitors and scrutinises changes in prices and suppliers in markets for energy, equipment, raw materials, commodities and services.
+These tasks are tackled by qualified experts and analysts advised by relevant consultants.
+Classification Products and services: Development and/or distribution of low-carbon products and services, development of new products or services through R&D and innovations, changing consumer preferences.
+Description Boosting the Company’s appeal as an environmentally and climatically responsible supplier of products with a positive climate profile.
+Impact on business The Company recognizes that the development of low-carbon products and services is a business opportunity and expects the market for such products and services to grow significantly in the medium term.
+Management approach. 
+The Company continuously monitors potential changes in demand for fertilizers driven by both physical and transitional climatic factors that may bring about additional opportunities for its sales.
+PhosAgro updates its strategic (Development Strategy to 2025), financial planning and other documents in line with the Low-Carbon Transition Strategy and Plan.
+The Company implements a number of initiatives to reduce the climate footprint of its products both when produced and consumed. PhosAgro relies on clearly defined GHG measurement procedures.
+The Company focuses on expanding the output of low-carbon products, such as urea with urease inhibitor, specialised impregnating additives, and low-carbon NPK/NP/NS fertilizers.
+PhosAgro develops feasibility studies and business plans to launch products featuring low carbon dioxide emissions (as a result of carbonisation processes) and a good marketability (such as urea).
+All activities are integrated into the Company’s ongoing planning paperwork (projects).
+RISK 4 (R4) RISK 5 (R5)
+OPPORTUNITY 1 (O1)
+
+
+24/25 PHOSAGRO 2020 TCFD REPORT. 
+Classification Efficient use of resources: Reliance on more efficient production and distribution processes.
+Description Improved logistics driven by the new export opportunities amid shortened seasonal freeze-up of rivers and lakes due to climate change.
+Impact on business Climate change offers new opportunities in terms of transport corridors and improved logistics, which can translate into lower transport costs.
+Management approach The Company monitors climate, institutional and geopolitical developments to capture opportunities for expanding transport corridors. The Company consistently works to improve the infrastructure and means of maritime transportation. PhosAgro continuously monitors transport logistics to identify and capture transport opportunities. For example, Russia is working to resume large-scale navigation along the Volga-Baltic Route, which will connect all of the Company’s fertilizer producers: Volkhov branch in the Leningrad Region, Cherepovets production site in the Vologda Region, and Balakovo branch in the Saratov Region. Cherepovets is now constructing a plant to manufacture large-capacity vessels, while PhosAgro is upgrading its river port there.
+Classification Markets: Access to new assets and locations that require insurance coverage.
+Description New financial products that open up new sources of cheaper funding (such as green bonds) for companies that embraced environmental and climate sustainability.
+Impact on business Reliance on new financial products driven by the low-carbon transition offers a variety of opportunities for the Company to reduce its costs while boosting its climate-related reputation.
+Management approach PhosAgro continuously monitors new opportunities for green financial products with a view to promptly adding them to its climate strategy.
+On top of that, the Company regularly analyses the applicable Russian and national laws in the countries where its suppliers and consumers (including prospective ones) operate in terms of opportunities and prospects for the use of financial green products in the respective supply chains.
+OPPORTUNITY 2 (O2)
+OPPORTUNITY 3 (O3)
+CLIMATE SCENARIO ANALYSIS. 
+The Company views climate scenario analysis as a tool to make its climate strategy resilient to uncertainties and risks related to climate change. In line with that, the Company adopted climate scenarios and determined respective scenario parameters that are most probable and significant for the Company in the short, medium and long term.
+Climate scenario analysis relies on benchmarking PhosAgro’s as-is performance and its performance under each of the selected scenarios. Projected performance of the Company’s managerial and operating processes within each specific time frame was measured using the expected level and focus of climate risks and opportunities inherent in the Company’s processes.
+As a result, the climate scenario analysis helped the Company define viable target priorities, strategic actions and climate action plans relevant in the medium and long term, contributing to resilience of the Company’s climate strategy in general.
+The phases of climate scenario analysis and their sequence are based on recommendations by the Task Force on Climaterelated Financial Disclosures (TCFD)1.
+The Company assessed the impact of climate-related risks and opportunities on its operations under two climate change scenarios: global warming of 2°С and global warming of 4°С2. The key features of the scenarios are: • 2°С scenario is expected to result in stringent climate policy measures that will increase market volatility (goods, services, finances, etc.) This is projected to bring about low-carbon transition, putting in place mechanisms of a low-carbon economy that will slow down physical climaterelated impacts going forward; • 4°С scenario is expected to result in less stringent climate policy measures as compared to the 2°С scenario, triggering faster physical climate-related changes.
+In its analysis, the Company chose these two climate scenarios as they: • comply with international recommendations (CDP and TFCD), including recommendations for organisations to use, at a minimum, the 2°С scenario; • are aligned with the business and activities of PhosAgro as a company that owns fixed assets with a long useful life, has well-developed distribution and supply networks, is critically dependent on natural resources, and needs long-term investments; • are adequate in terms of the tools they involve (i.e. are capable of simultaneously analysing both physical and transition climate-related factors, which contributes to considerably wider coverage of climate risks and opportunities across the Company’s processes and supply chain at large); • ensures maximum coverage of data, including metrics of widely recognised international scenarios and expert climate-related data (physical and transition) relevant for the Company.
+By relying on data of the IEA and IPCC; Technical Supplement. The Use of Scenario Analysis in Disclosure of ClimateRelated Risks and Opportunities by the Task Force on Climaterelated Financial Disclosures, 2017; Practical guide for Scenario Analysis in line with TCFD recommendations by the Ministry of the Environment, Government of Japan, Climate Change Policy Division, March 2019, and other materials, PhosAgro defined the key features of the climate scenarios relevant for its operations (Table 2).
+1. Using Technical Supplement. The Use of Scenario Analysis in Disclosure of Climate-Related Risks and Opportunities, Task Force on Climate-related Financial Disclosures, 2017. 2. Scenario parameters relating to PhosAgro’s operations are adopted based on the key groups of recognised international scenarios: • scenarios that set out ranges of GHG concentrations and articulate potential resulting ranges of temperatures and other climate parameters (physical scenarios). These scenarios were developed by the Intergovernmental Panel on Climate Change (IPCC); • scenarios that articulate different outcomes in policies (i.e. temperature rise levels) and different pathways in the energy and economic system (transition scenarios). These scenarios were developed by the International Energy Agency (IEA).
+
+
+26/27 PHOSAGRO 2020 TCFD REPORT. 
+The Company identified projected changes in climate risks and opportunities under the adopted climate scenarios based on risks, opportunities, scenario parameters, and time frames. In doing so, the Company focused on its operations, strategy, and financial planning.
+Operations. 
+Under the 4°С scenario: • we expect significantly higher risks associated with increased air temperatures, greater heat and precipitation, higher humidity, wider temperature ranges, more frequent crossing of the freezing point, more frequent and strong hurricanes, due to more volatile weather events, permafrost thawing in the Arctic zone, rising sea levels, more frequent and intense gales; • disruptions to processes related to making finished products or producing or transporting rock, power supply disruptions; • a lower quality of design and planning solutions, stronger negative impact on ecosystems (as a result of dusting or other adverse processes) and increased environmental costs, a higher risk of injuries and accidents at production facilities.
+Expected climate opportunities are minimal, which is mainly due to a growing capacity of transportation corridors. This trend will likely become stronger in the medium term and hold in the long term.
+Tougher climate policy measures (the 2°С scenario) would limit the risk increases, especially in the long term, and create real opportunities, mostly in the medium term.
+Strategy we believe this to be the key contributor to the stability and quality of the Company’s human resources. In this case, risks and opportunities do not generally depend on the climate scenario. Negative trends, however, are on the rise as the public becomes less tolerant to corporate climate “irresponsibility” amid increasingly alarming climate issues.
+Significant regulatory and compliance risks have emerged already and are expected to grow the most under the 2°С scenario, which implies more stringent national and international climate policies (including fiscal ones). New opportunities are likely to emerge following the Company’s efforts to embrace greener production and reduce the climate footprint of its products. Under the 4°С scenario, risks and opportunities would grow slower.
+Key features of the climate scenarios most significant for PhosAgro. 
+Parameters 2°С scenario 4°С scenario. 
+Government actions Considerable political efforts towards a low-carbon society. 
+Carbon tax implemented by an increasing number of nations and regions. 
+Considerable restrictions on GHG emissions. 
+Extended rules on fuel use efficiency. 
+Increasing number of nations and regions contributing to the development and use of alternative energy. 
+Political efforts towards a low-carbon society. 
+Carbon tax adopted by a number of nations and regions. 
+Restrictions on GHG emissions. 
+Extended rules on fuel use efficiency. 
+Investments Strong increase in borrowing rates Increase in borrowing rates. 
+Suppliers At least two-fold increase in fossil fuel prices. 
+Strong rise in electricity prices. 
+Stronger demand for natural gas. 
+More than two-fold increase in fossil fuel prices. 
+Marginal rise in electricity prices. 
+Consumers Stronger demand for high-performance mineral fertilizers among with a rise in demand for innovative fertilizers (bioenzymes, etc.)
+Stronger demand for environmentally friendly products. 
+Considerably stronger demand for mineral fertilizers as a result of population growth, increased need for food, local drops in crop yields, etc.
+Technology transformations Strong demand for technology transformations as a result of the pressing need to cut down on GHG emissions in production and also to reduce climate risks for production processes. 
+Demand for technology transformations as a result of the need to reduce climate risks in raw materials, production, transportation, logistics, etc., and also as a result of the need to reduce GHG emissions. 
+Production Considerable reduction in energy intensity of production processes Reduction in energy intensity of production processes. 
+Business reputation and human resources. 
+Risks and opportunities are not closely related to the scenario and remain in place in the long term. 
+LOW-CARBON TRANSITION PLAN. 
+The low-carbon transition plan (priority areas) is based on the specialised research data and aims to support economic development of PhosAgro that builds on the priority of keeping GHG emissions to a minimum. The target model suggests that the Company will be able to expand its current market niches thanks to the competitive edge of its products and achieve a synergy resulting from its efforts to contribute to the sustainable development of the Russian economy, specifically by meeting UN SDG 13 (take urgent action to combat climate change and its impacts). To this end, the Company set science-based targets for GHG emissions. The low-carbon transition plan is implemented to ensure that the GHG emission reduction targets are delivered across all scopes.
+The low-carbon transition plan is a set of actions to address particular climate risks and opportunities the Company may face. The plan outlines the timeframes in which the action should be carried out, the expected outcomes and the responsible parties. The actions are grouped into the following categories: • organisational and HR actions; • legal support; • technological actions; • information and research.
+Reputational risks and opportunities are most obvious under the 4°С scenario, with more pressure from investors, customers and the general public. That the Company has yet to engage in a constructive dialogue with stakeholders and local communities to discuss environmental issues across its footprint (dust emissions generated by industrial waste, products, etc.) is already giving rise to significant, highly tangible risks to its business reputation. At the same time, the Company’s prudent climate policy and success in addressing climate issues have been cementing its status as a maker of eco-friendly products that cares about the environment and takes climate issues seriously. These trends are not likely to change materially over time.
+Financial planning under the 2°С scenario, risks associated with more stringent political and economic regulation should rise the most. These include: (1) higher interest rates; (2) disruptions in energy, feedstock or other supplies due to climaterelated policy and pricing shifts; (3) customers, commercial contractors or other financial counterparties breaching their financial obligations to the Company; (4) weaker sales, especially in markets with tough climate policies. New opportunities would likely deal with green financial products, expanding the sales geography (promoting crop production in colder climates), and production and technological innovations requiring the Company’s products (alcohol fuels, growing new tree varieties, etc.). All these trends will be significant in the short term already and are expected to become even stronger in the medium term.
+Under the 4°С scenario, the big picture would not be any different, except that the trends are likely to be delayed until the medium term.
+This cross-spectral analysis provides a clear view (adjusted for approximation) of what the Company should expect when it comes to business development and strategic and financial planning. Measures developed on this basis to mitigate the negative trends and stimulate the positive ones have been integrated into a framework of initiatives, focus areas and priorities, which is a further testament to the Climate Strategy’s long-term resilience.
+ACTIONS TO DELIVER THE CLIMATE STRATEGY. 
+The actions to deliver the Climate Strategy have been developed as part of the lowcarbon transition plan and the plan of interaction with value chain participants.
+
+
+28/29 PHOSAGRO 2020 TCFD REPORT. 
+Action. 
+Climaterelated risk and opportunities Timeframe Expected outcome Responsible parties. 
+Organisational and HR actions. 
+Include climate metrics in incentive schemes of employees. 
+R2, O1 2021–2022 Raised motivation among employees and increased effectiveness of their efforts in climate change. 
+Human Resources and Social Policy Department. 
+Introduce HR actions to support the implementation of the PhosAgro’s Climate Strategy, including additional training to improve staff competence and raise staff awareness in climate change. 
+R1, R2, O1 2021–2022 Conditions created to ensure that qualifications and responsibilities of PhosAgro employees are aligned with current sustainability agenda and the corporate climate responsibility.
+Human Resources and Social Policy Department. 
+Integrate climate change factors (depending on the risks and opportunities they present) into the existing regulations and provisions. 
+R1, R2, O1 2020–2021 Climate change agenda and climate-related risks and opportunities embedded in the Company's culture (management and production processes)
+Board of Directors. 
+Strategy Committee. 
+Establish a task group on reduction of GHG emissions and negative effect of climate change on the efficiency of management and production processes. 
+R1, R2, R3, O1 2021 Thoroughly researched and technically feasible proposals taken forward to reduce the Company's climate footprint, minimise risks and maximise opportunities related to growing climate change impacts (technology, equipment, energy generation, operations, etc.)
+Project Execution and Management Department of JSC Apatit. 
+The low-carbon transition priority areas (plan) in 2020–2023. 
+Climate-related risks:
+R1 — Disruptions in production processes and logistics operations due to increasing acute climatic effects and other climatic factors;
+R2 — Flaws in supply chains, construction design, health and safety; negative environmental footprint and reduced flows of ecosystem services; lower resilience of infrastructure and communications due to increasing climatic effects;
+R3 — Company’s failure to comply with regulations reducing its negative environmental footprint (following the adoption of the carbon border adjustment mechanism);
+R4 — Deterioration of the Company’s sustainability reputation;
+R5 — – Increased costs and losses (as a result of customers’ failure to meet their obligations, rising prices for feedstock, materials and services, higher borrowing rates) and shrinking revenues (as a result of a decline in sales, customers, countries and regions of operation)
+Climate-related opportunities:
+O1 — Boosting the Company’s appeal as an environmentally and climatically responsible supplier of products with a positive climate profile;
+O2 — Improved logistics driven by the new export opportunities amid shortened seasonal freeze-up of rivers and lakes due to climate change;
+O3 — New financial products that open up new sources of cheaper funding (such as green bonds) for companies that embraced environmental and climate sustainability.
+Action. 
+Climaterelated risk and opportunities Timeframe Expected outcome Responsible parties. 
+Legal support. 
+Include the sciencebased targets for GHG emissions in the Company’s Development Strategy to 2025 and the low-carbon transition plan. 
+Approve a comprehensive plan of interaction with value chain participants. 
+R1, R2, R3, R4, R5, O1, O2, O3 2021 Documents in place to ensure strategic planning and management in climate change. 
+Board of Directors. 
+Harmonise strategic documents (the Company's Development Strategy to 2025), financial planning and other policies and procedures with the lowcarbon transition strategy and plan. 
+R1, R2, R3, R4, R5, O1, O2, O3 2021 Climate change agenda and climate-related risks and opportunities embedded in the Company's culture. 
+Board of Directors. 
+Strategy Committee. 
+Arrange for identification, assessment, management and monitoring of climaterelated risks. 
+R1, R2, R3, R4, R5, O1, O2, O3 2020–2021 Climate change risks integrated into the risk management framework of PhosAgro. 
+Risk Management Committee. 
+Technological actions. 
+Factor in climate change impacts in industrial engineering projects to build new facilities and upgrade transport infrastructure. 
+R1, R2 2021 Improved resilience of buildings and structures, more effective production processes and infrastructure as a result of the growing climate change impacts being taken into account (to a suitable and sufficient extent)
+JSC NIUIF (Research Institute of Fertilizers and Insectofungicides)
+Technical Development, Capital Construction and Repair Department of JSC Apatit. 
+Develop a set of technological measures to mitigate the negative impact of climate change on production processes. 
+R1, R2 2021–2022 Climate change risks for the Company's production processes mitigated. 
+Technical Development, Capital Construction and Repair Department of JSC Apatit Сhief Power Engineer Service, JSC NIUIF. 
+Prepare feasibility studies (business projects) for innovative climateresilient products based on carbon dioxide utilisation. 
+Develop production in highpotential areas. 
+R3, R4, R5, O1 from 2022 Diversified production facilitating expansion into new markets and improving the climaterelated performance on the back of new products better meeting consumer needs and having a positive climate profile. 
+Technical Development, Capital Construction and Repair Department; Innovations Centre. 
+Reduce the negative impacts of climate change on the operational processes such as disruptions in transportation of products and raw materials, increased consumption of production water and wastewater, product dusting, failures to use equipment in accordance with operating instructions and failures to create proper workplace conditions.
+R1, R2, O2 2022 Climate change risks for the Company’s operating processes mitigated. 
+Logistics Department of JSC Apatit,
+Department of Ecology and Environmental Management of JSC Apatit. 
+OHS Department of JSC Apatit
+
+
+30/31 PHOSAGRO 2020 TCFD REPORT. 
+Action. 
+Climaterelated risk and opportunities Timeframe Expected outcome Responsible parties. 
+Roll out upgrades and improve energy efficiency across production processes. 
+R1, R2, R3, O1 2023 Technological measures rolled out to cut GHG emissions and volumes of natural gas flared at the fertilizer drying stage.
+Technical Development, Capital Construction and Repair Department of JSC Apatit;
+JSC NIUIF (Research Institute of Fertilizers and Insectofungicides)
+Information and research. 
+Support R&D developments related to the use of lowcarbon energy and lowcarbon production. 
+R3, R4, R5, O1 2021 High-potential innovative solutions created, which helps the Company diversify its production capabilities as well as its product offering and services to enter the markets that are more advanced in terms of climate change adaptation or contribute to the emergence of new markets.
+Technical Development, Capital Construction and Repair Department of JSC Apatit Innovations Centre of JSC NIUIF. 
+Department of Ecology and Environmental Management of JSC Apatit. 
+Introduce an automated system to collect and process primary climate data. 
+R3, R4, O1 2022 An effective system in place to collect, analyse and present climate data. 
+Department of Ecology and Environmental Management of JSC Apatit. 
+Introduce regular climaterelated reporting in accordance with Russian and international standards. 
+R3, R4, O1 2020–2022 A stronger investment case and better market position of PJSC PhosAgro. 
+Department of Ecology and Environmental Management of JSC Apatit. 
+Introduce a system to monitor and timely respond to changes in climate regulations, financial and other requirements.
+R3, R4, R5, O1, O3 2022 Timely response to threats related to the transition climaterelated factors (legal, financial and other regulations)
+Government Relations and Interdepartmental Interaction Department,
+Economic Department,
+Department of Ecology and Environmental Management of JSC Apatit,
+Information Policy Department. 
+Develop a strategy and an action plan aimed at enhancing PhosAgro’s reputation as an environmentally and climatically responsible and sustainable business.
+R4, O1 2022 A contribution to the Company’s reputation as an environmentally and climatically responsible and sustainable business.
+Information Policy Department. 
+Department of Ecology and Environmental Management of JSC Apatit. 
+Collaborate with international organisations and join climate initiatives. 
+R4, O1 On an ongoing basis The Company is able to stay up to speed and take action to promote its interests relating to climate change.
+Board of Directors’ Sustainable Development Committee. 
+INTEGRATE CLIMATE ASPECTS INTO THE SUPPLIER SELECTION PROCESS (2020–2022)
+IMPLEMENT THE SUPPLIER INCENTIVISATION SYSTEM (from 2023 and beyond)
+Supplier engagement (in accordance with the CDP Climate Change 2020 Reporting Guidance) 1 2 3 4. 
+COLLECT GHG EMISSION DATA (2021–2023)
+ENCOURAGE INNOVATION IN TECHNOLOGY AND PRODUCTS (from 2025 and beyond)
+PLAN OF INTERACTION WITH VALUE CHAIN PARTICIPANTS. 
+The plan of interaction with value chain participants is a framework that covers interactions with all stakeholders in the course of business operations — from supplies of feedstock and materials and production to sales and aftersales support. The main objective of the plan is to manage GHG emissions along the value chain. When reporting the Scope 3 emissions, the Company follows the global practice of assuming responsibility for the emissions of its counterparties to cause them to reduce their carbon footprint (reduce their Scopes 1 and 2 emissions).
+The plan sets out the actions addressing the supplier, customer and stakeholder engagement. These are integrated into PJSC PhosAgro’s procurement policy; its environmental policy; its Development Strategy to 2025.
+The supplier engagement includes actions aimed at regulating the Company’s interactions with the suppliers, including the collection of suppliers’ data on GHG emissions and influencing their behaviour in order to reduce their carbon footprint and broader climate impacts in the market. The key areas are to integrate climate aspects into the supplier selection process (regulate their activities); collect GHG emission data (understand the behaviour of suppliers); implement the supplier incentivisation system (to cause them to change their behaviour); encourage innovation (influence the market).
+
+
+32/33 PHOSAGRO 2020 TCFD REPORT. 
+Rating system to evaluate ESGaspects of supplier activities PhosAgro’s Code of Conduct for Counterparties. 
+As part of implementing the supplier engagement plan, in 2020, the Company started to collect the suppliers’ GHG emission data (in order to calculate other indirect emissions — Scope 3). Even though it turned out at first that most suppliers failed to disclose their direct and indirect energy-related GHG emissions, the Company decided to reinforce its efforts in this direction to encourage the suppliers to analyse the climate-related aspects of their activities and take action to reduce their carbon footprint. In 2020, the Company introduced the rating system to evaluate ESG-aspects of supplier activities, including 4 criteria relating to climate change. The climate-related criteria include: • publicly available GHG emission reports; • strategic and target setting documents in climate change, including those outlining GHG emission targets, actions aimed at cutting GHG emissions, etc.; • disclosures of Scopes 1 and 2 emissions per unit of products to be supplied (services to be rendered • traceability of products to be supplied (services to be rendered).
+Potential suppliers are tested for compliance with social and environmental requirements set out in the Code of Conduct for Counterparties of2 the Company.
+The customer engagement areas are: • inform customers of the climatic aspects of the Company’s products and its initiatives in tackling climate change; • develop and make low-carbon products; • promote collaboration and innovation in climate change.
+For example, in 2020, relying on the research carried out by PJSC PhosAgro’s Innovation Centre, the Company started production and exported to the European market 20 kt of urea with urease inhibitors, a modern low-carbon fertilizer that helps reduce nitrogen losses in the N2O form (a gas that may significantly contribute to global warming)1. On top of that, in 2022, the Company is planning to complete the development of specialised impregnating additives and market low-carbon NPK/NP/NS fertilizers.
+The stakeholder engagement includes the participation of the Company in the international initiatives aimed at mitigating negative climate-related impacts and enhancing adaptation to climate change. The examples are the Soil Laboratory Network (RESOLAN) project implemented jointly with the FAO (Food and Agriculture Organization of the United Nations) and the participation in the UN Global Compact’s Action Platform on Climate Ambition. PhosAgro is a member of the RSPP Climate Policy and Carbon Regulation Committee. Through the stakeholder engagement, the Company actively takes part in domestic (Russian) and international programmes aimed at mitigating climate change impacts.
+CLIMATE RISK IDENTIFICATION AND ASSESSMENT. 
+Processes to identify and assess climate change risks are being integrated throughout the value chain – from design, procurement and apatite-nepheline ore mining to finished product delivery.
+At the initial stage, the Company determined the list of processes which were most sensitive to climate changes, whether natural or political. Risk owners identified risks as process deviations from the required parameters.
+Long before the Company embarked on the climate change agenda, it has been monitoring weatherrelated incidents at its production facilities and assessing their severity, including incidents compromising the safety of operating staff and equipment, leading to disruptions in production and shipments and resulting in financial losses. In 2020, capitalising on the database accumulated so far, PhosAgro proceeded to a systematic approach to managing climate risks, which covers the processes of identification, assessment and management of climate risks and their integration into the Company’s comprehensive risk management framework.
+The Company’s climate risk management relies on its Risk Management and Internal Control Policy, ISO and COSO standards, and TCFD Guidance on Risk Management Integration and Disclosure.
+PhosAgro employs a stepwise process to identify, assess, manage and monitor climate risks and opportunities: • The Risk Management and Internal Control Department is charged with the general supervision of climate change risk management, including related activities and consolidated reporting to the Board of Directors and executive bodies.
+• Risk owners are responsible for identifying risks and opportunities that have a material impact on the Company’s strategy or financial performance. In case of climate change risks, their respective owners are charged with regular monitoring and reporting.
+CLIMATE RISK MANAGEMENT. 
+PhosAgro’s Risk Management and Internal Control Policy 1. For more deteails, please see the Strategy section of the 2020 Annual Report
+
+
+34/35 PHOSAGRO 2020 TCFD REPORT. 
+Climate risk assessment and priority. 
+No 1 2 3 4 5. 
+Climate risk Disruptions in production processes and logistics operations due to increasing acute climatic effects and other climatic factors. 
+Flaws in supply chains, construction design, health and safety; negative environmental footprint and reduced flows of ecosystem services; lower resilience of infrastructure and communications due to increasing climatic effects. 
+Company’s failure to comply with regulations reducing its negative environmental footprint (following the adoption of the carbon border adjustment mechanism)
+Deterioration of the Company’s sustainability reputation Increased costs and losses (as a result of customers’ failure to meet their obligations, rising prices for feedstock, materials and services, higher borrowing rates) and shrinking revenues (as a result of a decline in sales, customers, countries and regions of operation)
+Risk type Production Operational Regulatory Reputational Financial. 
+Term Long-term Long-term Medium-term Long-term Medium-term. 
+Certainty Confidence level Medium Medium Medium Medium Medium. 
+Scenario sensitivity High Medium High Medium Medium. 
+Probability Medium Medium Low Low High. 
+Grade Qualitative High Medium Medium Medium High. 
+Materiality Time horizon High High Medium High Medium. 
+Financial Medium Medium High High High. 
+Reputation Medium Medium High High Medium. 
+Grade Qualitative High High High High High. 
+Risk map quadrant 9 8 8 8 9. 
+Climate risk assessment criteria and approach. 
+Criterion Assessment approach. 
+Confidence level Assessment was based on the most credible international sources (International Energy Agency, Intergovernmental Panel on Climate Change), taking into account uncertainties associated with subjective judgments regarding the Company.
+Scenario sensitivity Assessment of risk sensitivity to climate change scenarios (2°C or 4°C).
+Probability Assessment of risk probability. 
+Time horizon Assessment covered 2025–2030–2050.
+Financial Assessment depending on the impact on the Company’s financial performance.
+Reputation Assessment depending on reputational implications: local, nationwide, and global.
+Following the assessment, the Company identified 5 material risks (see the Strategy section) rated as manageable and relevant. These risks were described in its 2019. 
+CDP report. By now, the Company has updated its risk identification and assessment framework as follows.
+Most of climate risks were identified in production processes (ore mining and processing, fertilizer production, storage and transportation of finished products), which is in line with the Company’s business as it owns and operates a variety of diverse material assets (production and infrastructure facilities, etc.) that are subject to the physical effects of weather activities in different climatic zones.
+The management assessed climate risks using the established risk materiality and probability criteria in line with TCFD recommendations. The resulting score was a sum of criteria assessed taking into account their weight. Each criterion was assessed using the applicable approach.
+Materiality. 
+Probability. 
+Immaterial Immaterial. 
+Manageable Manageable. 
+Manageable. 
+Amenable. 
+Immaterial. 
+Emerging Relevant. 
+R1 R5 R2 R4 R3. 
+Climate risk priority map
+
+
+36/37 PHOSAGRO 2020 TCFD REPORT. 
+CLIMATE RISK INTEGRATION INTO THE COMPANY’S RISK MANAGEMENT FRAMEWORK. 
+This Section describes how we identify, assess and manage climate risks within our comprehensive risk management framework.
+Covered value chain stages – direct operations up and down the value chain.
+Climate risk management process is baked in the company-wide risk management processes.
+Assessment frequency - several times a year (quarterly).
+Covered time horizon(s) - short-term, medium-term, long-term.
+Process description - the Company’s climate risk management forms an integral part of its comprehensive risk management system (RMS), with all its elements embedded in the Company’s existing structure. The RMS relies on the Company’s Risk Management and Internal Control Policy and other internal policies and procedures, as well as the applicable Russian and international standards. The duties and responsibilities of functions and officers in charge of climate risk management within the comprehensive RMS are set forth in the respective mandates and instructions of the Company. The Company has a documented process to identify, assess, monitor and manage climate risks and opportunities as part of its wider risk and opportunity management process.
+Risk owners are responsible for identifying risks and opportunities that have a material impact on the Company’s strategy or financial performance. These risks consist in disruptions in the Company’s production and management processes, thus affecting its operating efficiency and sustainability going forward. In case of climate change risks, their respective owners are charged with quarterly monitoring and reporting. The Risk Management and Internal Control Department is charged with the general supervision of climate risk management, including related activities and consolidated reporting to the Board of Directors and executive bodies.
+PhosAgro maintains a climate risk register, with risk management and response initiatives developed by climate risk owners in consultation with experts based on questionnaires, extended interviews, structured surveys, Delphi method, causeeffect analysis, etc. The Climate Risk Management Strategy seeks to integrate risks and opportunities generated by climate change factors (whether physical or transitional) into the comprehensive RMS. The Strategy includes policies and procedures, mandates and instructions, and the list of climate risk management activities at the Company.
+PhosAgro’s Climate Strategy (1) defines projections for the Company’s expected climate risk trends under the chosen climate scenarios (expected warming by 2°С and 4°С) in the short, medium and long-term; (2) provides for strategic initiatives to mitigate climate risks (human resources, technologies, business processes, financial performance, reputation).
+To further integrate climate risks into the comprehensive risk management framework, the Company procures to accordingly amend its internal regulations covering the appropriate levels and stages of management processes.
+CLIMATE RISK MANAGEMENT. 
+Climate change risk management relies on the Company’s management and production processes. To determine how we manage risks, PhosAgro uses its risk manageability scale which rates risk manageability as high, medium or low. Based on the resulting score, we determine how to take, transfer, control and mitigate risks.
+The highest-priority risks require a proactive response, while lowerpriority risks are managed depending on their inherent probability and materiality. Our climate risk management activities are described in the low-carbon transition plan (see the Strategy section).
+In broad terms, the Company manages climate risks associated with natural hazards as follows: • chronic climate change processes, such as foundation failures and structural instabilities due to permafrost thawing, the need to reconstruct port facilities amid rising sea levels, etc.; • acute climatic effects, such as port infrastructure failures and increased risks of maritime traffic due to gathering storms, lower resilience of high-rise structures due to hurricanes, etc.
+PhosAgro’s climate metrics are aligned with the goals of the Climate Strategy approved by its Board of Directors: • reducing (maintaining) GHG emissions while increasing output; • improving energy efficiency and environmental performance of the key production processes; • reducing energy and carbon intensity per unit of output; • entering into new emerging markets for green products; • retaining and expanding the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity.
+METRICS AND TARGETS. 
+DESCRIPTION OF METRICS AND TARGETS. 
+The Company is working to expand and enhance the quality of climaterelated measurements, including both existing and prospective metrics. Most metrics are locked on targets which are aligned with the goals of the Climate. 
+Strategy and other commitments of the Company.
+The metrics are monitored and reported annually to stakeholders.
+The Company’s primary focus is on GHG emissions in all three Scopes (1, 2, and 3). PhosAgro relies on clearly defined GHG measurement procedures that meet the highest international standards. The Company also pays due attention to energy efficiency. This includes end-to-end monitoring of raw data and analysis of supply chain participants’ data (Scopes 2 and 3). Every year, the Company prepares and discloses the metrics in its integrated annual report based on the GRI Standards, consolidated CDP report, etc. In accordance with TCFD recommendations, PhosAgro will soon be disclosing its internal carbon price and the metrics describing (1) customer engagement and (2) climate risks and opportunities materialising in the Company’s business processes. PhosAgro also plans to develop and introduce specific climate-based financial metrics.
+
+
+38/39 PHOSAGRO 2020 TCFD REPORT. 
+The list of existing metrics and their description. 
+No p/p Metric Unit Description Compliance with Climate Strategy goals 1 Total GHG emissions 1.1 Direct emissions (Scope 1) metric tonne of CO2 eq. Baseline is 2018.
+Target is to cut emissions by 14% by 2028.
+Calculation methodology is in line with the guidelines.
+Annual monitoring in place since 2015.
+Regular CDP reporting since 2018.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 1. To reduce (maintain) GHG emissions while increasing output 1.2 Indirect energyrelated emissions (Scope 2) metric tonne of CO2 eq. Baseline is 2018.
+Target is to cut emissions by 14% by 2028.
+Calculation methodology is in line with the guidelines.
+Annual monitoring in place since 2015.
+Regular CDP reporting since 2018.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 1. To reduce (maintain) GHG emissions while increasing output 1.3 Other indirect emissions (Scope 3) metric tonne of CO2 eq. Baseline is 2018.
+Target is to cut emissions by 14% by 2028.
+Calculation methodology is in line with the Greenhouse Gas Protocol guidelines.
+Annual monitoring in place since 2018.
+Regular CDP reporting since 2018.
+Goal 1. To reduce (maintain) GHG emissions while increasing output 2 Specific GHG emissions 2.1 GHG emissions (Scope 1) per tonne of finished and semifinished products kg of СО2 eq. per tonne Baseline is 2018.
+Target is equal to cutting total emissions by 14%.
+Calculation methodology is in line with the guidelines.
+Annual monitoring in place since 2015.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 1. To reduce (maintain) GHG emissions while increasing output. 
+Goal 3. To reduce energy and carbon intensity per unit of output. 
+No p/p Metric Unit Description Compliance with Climate Strategy goals 3 Energy efficiency 3.1 Total electricity consumed MWh Baseline is 2019.
+Ongoing annual monitoring in place.
+Regular CDP reporting since 2018.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 2. To improve energy efficiency and environmental performance of the key production processes 3.2 Self-sufficiency in electricity % Baseline is 2019.
+Ongoing annual monitoring in place.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 2. To improve energy efficiency and environmental performance of the key production processes 3.3 Electricity generated per unit of finished and semi-finished products ths kWh/t Baseline is 2019.
+Ongoing annual monitoring in place.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 3. To reduce energy and carbon intensity per unit of output 3.4 Electricity consumed per unit of finished and semi-finished products ths kWh/t Baseline is 2019.
+Ongoing annual monitoring in place.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+Goal 2. To improve energy efficiency and environmental performance of the key production processes. 
+Goal 3. To reduce energy and carbon intensity per unit of output 3.5 Total heat consumed ths Gcal Baseline is 2019.
+Ongoing annual monitoring in place.
+Regular CDP reporting since 2018.
+Goal 2. To improve energy efficiency and environmental performance of the key production processes 3.6 Heat consumed per unit of finished and semi-finished products ths Gcal/t Baseline is 2019.
+Ongoing annual monitoring in place.
+Goal 2. To improve energy efficiency and environmental performance of the key production processes. 
+Goal 3. To reduce energy and carbon intensity per unit of output
+
+
+40 /41 PHOSAGRO 2020 TCFD REPORT. 
+No p/p Metric Unit Description Compliance with Climate Strategy goals 1 Gross global emissions (Scopes 1 and 2) per currency unit of total revenue metric tonne of CO2 eq. per currency unit of total revenue. 
+Baseline is 2018.
+Calculation methodology is in line with the guidelines.
+Annual monitoring in place since 2018.
+Regular CDP reporting since 2018.
+To be tentatively introduced in 2021 report and beyond.
+Goal 1. To reduce (maintain) GHG emissions while increasing output. 
+Goal 3. To reduce energy and carbon intensity per unit of output 2 Gross global emissions (Scopes 1 and 2) per FTE metric tonne of CO2 eq. per FTE Baseline is 2018.
+Calculation methodology is in line with the guidelines.
+Annual monitoring in place since 2018.
+Regular CDP reporting since 2018.
+To be tentatively introduced in 2021 report and beyond.
+Goal 1. To reduce (maintain) GHG emissions while increasing output. 
+Goal 3. To reduce energy and carbon intensity per unit of output 3 Electricity purchased per unit of finished and semi-finished products ths kWh/t Baseline is 2019.
+Ongoing annual monitoring in place.
+Data aggregation across production facilities (Cherepovets, Balakovo, Volkhov, and Kirovsk).
+To be tentatively introduced in 2021 report and beyond.
+Goal 3. To reduce energy and carbon intensity per unit of output 4 Energy efficiency improvement costs RUB bln Baseline is 2019.
+Ongoing annual monitoring in place.
+To be tentatively introduced in 2021 report and beyond.
+Goal 2. To improve energy efficiency and environmental performance of the key production processes. 
+Goal 5. To retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity 5 Share of feedstock suppliers providing necessary input data on GHG emissions (Scope 3) % Annual monitoring in place since 2019.
+To be tentatively introduced in 2021 report and beyond.
+Goal 1. To reduce (maintain) GHG emissions while increasing output. 
+Goal 5. To retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity 6 Internal carbon price RUB/t The Company is considering establishing its internal carbon price, including what to choose (internal emission fee, shadow carbon price, implicit costs) and how to use it when making investment decisions.
+To be tentatively introduced in 2021 report and beyond.
+Goal 3. To reduce energy and carbon intensity per unit of output. 
+Goal 4. To enter into new emerging markets for green products. 
+Goal 5. To retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity. 
+The list of prospective metrics and their description. 
+No p/p Metric Unit Description Compliance with Climate Strategy goals 7 Carbon footprint during the product life cycle (by product type) kg of СО2 eq. per tonne of products Currently, specific emissions (Scope 1) are calculated only. The Company needs to see into this metric for each product type to enhance its carbon footprint mitigation efforts.
+To be gradually introduced for specific product types in 2023 report and beyond.
+Goal 1. To reduce (maintain) GHG emissions while increasing output. 
+Goal 3. To reduce energy and carbon intensity per unit of output. 
+Goal 4. To enter into new emerging markets for green products. 
+Goal 5. To retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity 8 Investments (CAPEX) in low-carbon alternatives (e.g. core equipment or assets)
+RUB '000 This metrics shows what investments are required to manage transitional risks and to what extent the core business profitability is likely to be affected going forward.
+The Company finances the development of eco-friendly, resource-saving technologies and equipment for producing mineral fertilizers, etc.
+Planned to be introduced in 2021 report and beyond.
+Goal 1. To reduce (maintain) GHG emissions while increasing output Goal Goal 2. To improve energy efficiency and environmental performance of the key production processes. 
+Goal 3. To reduce energy and carbon intensity per unit of output 9 Metrics describing customer engagement – This metrics shows how the Company transfers its knowledge and expertise to customers regarding products with improved climatic and environmental characteristics. RESOLAN project is ongoing in Africa, Latin America and the Middle East.
+Planned to be introduced in 2022 report and beyond.
+Goal 4. To enter into new emerging markets for green products. 
+Goal 5. To retain and expand the existing market niches by ensuring PhosAgro’s competitive edge in terms of energy and carbon intensity
+
+
+42/43 PHOSAGRO 2020 TCFD REPORT. 
+EXISTING METRICS: DESCRIPTION AND STATISTICS. 
+TOTAL GHG EMISSIONS. 
+Calculation methodologies. 
+The Company calculates greenhouse gas emissions in accordance with the international guidelines: • 2006 IPCC Guidelines for National Greenhouse Gas Inventories; • the Greenhouse Gas Protocol: Scope 2 Guidance; • the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition); • ISO 14064–1 – Specification with Guidance at the Organisation Level for Quantification and Reporting of Greenhouse Gas Emissions and Removals.
+Direct emissions (Scope 1) are calculated in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (the “2006 Guidelines”) which provide internationally agreed methodologies intended for use by countries to estimate greenhouse gas inventories to report to the UN FCCC.
+Indirect energy-related emissions (Scope 2) are calculated in accordance with the GHG Protocol Scope 2 Guidance.
+Other indirect emissions (Scope 3)4 are calculated in accordance with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition); ISO 14064–1 – Specification with Guidance at the Organisation Level for Quantification and Reporting of Greenhouse Gas Emissions and Removals; and the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.1. 
+Greenhouse gas emissions are given in СО2 equivalent. The calculation includes the following list of gases: СО2, СН4, NO2.
+Targets and actual performance. 
+PhosAgro has set a 14% reduction target for total GHG emissions by 2028, which applies to Scopes 1, 2, and 3.
+The Company has set its target horizon to achieve a reduction in GHG emissions in accordance with the applicable requirements and criteria, which covers 10 years from the date of its public announcement (2018– 2028)2 . Emissions are calculated with reference to the baseline in accordance with the applicable requirements and criteria and represent statutory (quantitative) emissions metrics in the target year, which are used to calculate the required GHG reduction targets.
+For Scope 1 and 2 emissions, sciencebased targets are set in accordance with the international requirements. The science-based targets (SBTs) for Scope 1 and 2 GHG emissions will total 5,134,898 metric tonnes of CO2 equivalent in 2028, down by 14% (or 835,914 metric tonnes of CO2 equivalent) compared to the 2018 baseline.
+1. Calculations are made using Quantis online evaluator (https://quantis-suite.com/Scope-3-Evaluator/), as well as suppliers’ data on greenhouse gas emissions per unit of products supplied and publicly available data on greenhouse gas emissions per unit of products supplied. 2. Science-Based Target Setting Manual. Version 4.1, April 2020 (p. 6). 3. Climate Change 2014 Synthesis Report. Annex II: Climate System Scenario Tables (P. 1410, Table AII. 2.1a | Anthropogenic CO2 emissions from fossil fuels and other industrial sources (FF) (PgC yr-1), Table AII. 2.1b). 4. Not disclosed in this report, but will be in the CDP report for 2020. 
+SPECIFIC GHG EMISSIONS. 
+Calculation methodologies. 
+Specific GHG emissions are calculated by dividing total Scope 1 emissions by the metrics for finished and semifinished products.
+Targets and actual performance. 
+The target for Scope 1 GHG emissions per unit of output is set at 109.1 kg of СО2 equivalent per tonne of finished and semi-finished products, down by 30.9% compared to the 2018 baseline.
+PhosAgro’s GHG emissions per unit of output3. 
+Metric. 
+GHG emissions. 
+Actual 2028 target 2018 baseline 2019 2020. 
+Scope 1 GHG emissions, kg of СО2 equivalent per tonne of finished and semi-finished products 157.97 143.27 140.09 109.10. 
+Scope 1 GHG emissions per tonne of output have been decreasing.
+The SBTs are set in line with minimum qualitative and quantitative criteria1 based on RCP 2.6, a representative concentration pathway for reduction of global anthropogenic emissions, in order to keep global temperature rise below 2°C by 21001.
+Thus, total Scope 1 and 2 GHG emissions have been rising due to production growth.
+To achieve its reduction target, the Company annually monitors and discloses GHG emissions in its voluntary CDP report.
+1. Calculations are based on Target Validation Protocol. TWG-PRO-002 (Version 1.0. April 2019) and Science-Based Target Setting Manual. Version 4.1. April 2020). The preferred option would be to use an industry-based approach for that purpose. However, science-based targets for chemicals companies are still being developed (https://sciencebasedtargets.org/chemicals-and-petrochemicals/). Going forward, our GHG emission targets may be updated. 2. Climate Change 2014 Synthesis Report. Annex II: Climate System Scenario Tables (P. 1410, Table AII. 2.1a | Anthropogenic CO2 emissions from fossil fuels and other industrial sources (FF) (PgC yr-1), Table AII. 2.1b). 3. Discloses data on Apatit, including its branches and standalone business units, only.
+PhosAgro’s total Scope 1, 2 emissions, metric tonnes of CO2 equivalent3. 
+Metric. 
+GHG emissions. 
+Actual 2028 target 2018 baseline 2019 2020. 
+Direct emissions (Scope 1) 4,855,256 4,656,329 4,739,368 4,175,520. 
+Indirect energy-related emissions (Scope 2) 1,115,556 1,191,411 1,221,310 959,378
+
+
+PHOSAGRO 2020 TCFD REPORT. 
+ENERGY EFFICIENCY. 
+The energy efficiency metrics are used to monitor the Company’s progress towards its energy efficiency improvement target and set forth in PhosAgro’s Energy Efficiency Programme and Action Plan, which helps keep track of electricity generation and consumption, energy intensity, etc.
+Calculation methodologies. 
+The energy efficiency metrics are based on PhosAgro’s raw data and calculated in accordance with the approved statistical methodologies. The Company prepares its energy efficiency reports in accordance with GRI 103 Material Topics, GRI 302–1 Energy. 
+Consumption within the Organisation, GRI 302–3 Energy Intensity, GRI 302–4 Reduction of Energy Consumption, and GRI 306–1 Water Discharge by Quality and Destination.
+Targets and actual performance3. 
+Total electricity generated and consumed by PhosAgro. 
+Metric 2018 2019 2020. 
+Total electricity consumed, MWh, including: 3,650.57 3,734.68 3,819.77 self-generated 1,485.00 1,500.11 1,519.00 purchased 2,165.56 2,234.57 2,300.77. 
+Electricity generated per unit of output, ths kWh/t 40.0 40.0 39.8. 
+Electricity consumed per unit of output, ths kWh/t 0.048 0.046 0.045. 
+Electricity consumed per unit of output, ths kWh/t 0.119 0.115 0.113. 
+Total heat consumed by PhosAgro. 
+Metric 2018 2019 2020. 
+Total heat consumed, ths Gcal, including: 10,967.71 11,330.87 11,730.70 self-generated 10,579.64 10,924.27 11,356.13 purchased 388.07 406.60 374.54. 
+Heat consumed per unit of output, ths Gcal/t 0.357 0.349 0.347 1. Discloses data on Apatit, including its branches and standalone business units, only.

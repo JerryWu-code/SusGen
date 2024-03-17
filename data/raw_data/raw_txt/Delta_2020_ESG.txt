@@ -1,0 +1,1225 @@
+2020 ESG REPORT
+
+
+TABLE OF CONTENTS. 
+OVERVIEW. 
+ABOUT THIS REPORT 3. 
+CEO MESSAGE 4. 
+ESG PROGRESS 5. 
+ESG OVERSIGHT. 
+OUR COMMITMENT TO LEADING GOVERNANCE 7. 
+HEALTH AND SAFETY ABOVE ALL ELSE. 
+SAFETY GOVERNANCE 10. 
+SAFETY IS OUR #1 PRIORITY 12. 
+EMPLOYEE HEALTH: PROTECTING OUR EMPLOYEES THROUGH COVID-19 13. 
+EMPLOYEE SAFETY 14. 
+RAISING THE BAR ON CUSTOMER SAFETY 15. 
+PROTECTING THE ENVIRONMENT. 
+OUR JOURNEY TO CARBON NEUTRALITY 17. 
+ENVIRONMENTAL SUSTAINABILITY GOVERNANCE 19. 
+CLIMATE CHANGE GOALS 20. 
+ACHIEVING CARBON NEUTRALITY 20. 
+CARBON REDUCTIONS (WITHIN DELTA) 2 1. 
+CARBON OFFSETS 22. 
+SUSTAINABLE AVIATION FUEL 23. 
+TECHNOLOGY ADVANCEMENT, STAKEHOLDER. 
+ENGAGEMENT AND COALITION BUILDING 25. 
+IMPROVING FUEL EFFICIENCY 26. 
+CARBON-NEUTRAL GROWTH 28. 
+REDUCING OUR EMISSIONS 28. 
+CLIMATE RISK AND OPPORTUNITIES 30. 
+ENVIRONMENTAL COMPLIANCE 32. 
+ADVANCING A VISION OF ZERO-IMPACT AVIATION 36. 
+SOCIAL - EMPATHY, RESPECT AND CARE FOR ALL. 
+HUMAN CAPITAL MANAGEMENT 39. 
+EMPLOYEE HEALTH AND SAFETY 40. 
+DIVERSITY, EQUITY AND INCLUSION 40. 
+CULTURE OF LISTENING AND RESPONDING 44. 
+TRAINING AND DEVELOPMENT 45. 
+COMPENSATION AND BENEFITS 46. 
+WELL-BEING 47. 
+FREEDOM OF ASSOCIATION 47. 
+SUPPLY CHAIN 48. 
+COMMUNITY ENGAGEMENT 51. 
+CUSTOMER DATA PROTECTION 53. 
+SERVING CUSTOMERS WITH DISABILITIES 54. 
+APPENDIX. 
+SASB INDEX 56. 
+TCFD INDEX 57. 
+ADDITIONAL GHG EMISSIONS DATA 58. 
+EMISSIONS VERIFICATION 58. 
+HISTORICAL EMISSIONS DATA 59. 
+FUEL EFFICIENCY 60. 
+SUSTAINABILITY GLOSSARY 61. 
+LEGAL DISCLAIMER 63
+
+
+ABOUT THIS REPORT The 2020 ESG Report is a snapshot of our environmental, social and governance efforts that covers the period from January 1, 2020, to December 31, 2020. The report was informed by the reporting standards of the Sustainability Accounting Standards Board (SASB) and the Task Force on Climate-Related Financial Disclosures (TCFD). We expect to build on ESG content and analysis in future iterations of this report.
+TOPICS COVERED BY THIS REPORT At Delta, we intend to use our annual ESG report to transparently communicate how we view, prioritize and approach the ESG topics most relevant to our business, which we determine based on an assessment process involving input from seven stakeholder groups: • Investors • Customers • Employees • Suppliers • Communities • Governments & Nongovernmental Organizations • Partner Airlines/Industry Peers. 
+We use this input to identify the most relevant, or material, issues from an ESG perspective, which is a broader standard than that used in our financial disclosures. Issues deemed material for purposes of this report and for purposes of determining our ESG strategies may not be considered material for Securities and Exchange Commission (SEC) reporting purposes.
+We conduct these relevance assessments on a biennial basis through a questionnaire process with our stakeholders designed to allow us to better understand the topics that are important to our stakeholders. Our 2019 assessment, which is described in detail in our 2019 corporate responsibility report, initially evaluated and examined more than 37 different topics, which were then narrowed down to 10 priority reporting topic areas, including employee safety, customer health and safety, corporate culture and climate change management. We revisited this analysis in 2020. Through ongoing dialogue with our stakeholders during the COVID-19 pandemic and the global reckoning over racial injustice and inequality, we narrowed our focus on a subset of topics from the 2019 assessment. Those core areas included: health and safety of our employees and customers; climate change management and environmental sustainability; human capital management; and diversity, equity and inclusion. Accordingly, beginning with this report, we are transitioning from a corporate responsibility report that reviews these and numerous other topics at only a high level to an ESG report that concentrates on these core topics and details our work during the most recently ended fiscal year. For additional information regarding our business, including financial performance in 2020, please refer to our Annual Report on Form 10-K for the year ended December 31, 2020 and our 2021 Proxy Statement, each as filed with the SEC.
+EXTERNAL ASSURANCE We obtain third party verification of our greenhouse gas emissions on an annual basis. An external assurance statement for emissions can be found on page 58. Ruby Canyon Environmental, Inc., conducts our emissions verification and provides a reasonable level of assurance on our Environmental Statement of Greenhouse Gas (GHG) Emissions for reporting. Verified emissions data beginning with 2005 is publicly available on The Climate Registry website at www.cris4.org. Delta’s annual ESG reporting timeline and annual emissions verification and reporting timelines do not coincide. For this reason, our annual verification of emissions data trails our ESG report by one year. As a result, annual emissions for the 2020 reporting year will be verified after this ESG Report has been published.
+3. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+
+
+4. 
+DELTA AIR LINES, INC | 2020 ESG REPORT | 2020 was the most challenging year in our history. It began with Delta unveiling the future of air travel at the opening CES keynote, celebrating $1.6 billion in profit sharing for our people and announcing our $1 billion commitment over 10 years toward becoming a carbon-neutral airline. Just weeks later, COVID-19 decimated travel worldwide and led to a level of uncertainty unlike any other.
+In the initial days of the pandemic, my mentor and friend Frank Blake, who is also Delta’s non-executive Chairman, reminded me that “crises don’t build character, they reveal character.” I am proud that throughout the most difficult year in our history, Delta remained grounded in our shared values. The health and safety of our people, our customers and our communities was our overriding priority as we navigated the pandemic’s fast-changing landscape. We remain committed to:
+HEALTH AND SAFETY ABOVE ALL ELSE COVID-19 permanently altered the travel landscape, leading to an elevated focus on cleanliness, health and well-being. Delta swiftly implemented mask requirements on our aircraft, at the airport and in all of our workspaces; rolled out more than 100 new measures throughout travel; blocked middle seats through the end of April 2021 to boost customer comfort and confidence; and established our Global Cleanliness division and the Delta CareStandardSM. We also welcomed renowned cardiologist and public health authority Dr. Henry Ting as Delta’s first Chief Health Officer. Dr. Ting is building upon his work at the Mayo Clinic and serves as a trusted guide as we roll out new layers of protection and think about the future of wellness for our employees and customers.
+We continue to care for our people with regular COVID-19 testing and partnered with the State of Georgia to host one of the state’s largest public vaccination centers at the Delta Flight Museum in February 2021 in furtherance of our commitment to keeping our communities as well as our customers and employees safe.
+PROTECTING THE ENVIRONMENT Travelers should not have to choose between seeing the world and saving the world. Despite the COVID-19 pandemic, our commitment to becoming a carbonneutral airline from March 2020 onward is as strong as ever. It includes a focus on carbon reduction and removal through investments in sustainable aviation fuel, emerging technologies and high-quality offsets; engaging investors, customers and employees; and building coalitions with suppliers and other industry partners to invest in developing new technologies. Delta has committed more than $30 million to offset 13 million tons of our airline’s carbon emissions from March through December 2020.
+Delta’s fuel efficiency per available seat mile was almost 6% more efficient in 2020 versus 2019, as a result of our accelerated retirement of older, less efficient aircraft, introduction of new, more fuel-efficient jets, and reduced passenger loads from COVID-19. That fuel savings—and the corresponding reduction in emissions—is equal to the amount of electricity it takes to serve all households in our hometown city of Atlanta in a year.
+EMPATHY, RESPECT AND CARE FOR ALL As the world witnessed a global reckoning over racial inequality and injustice, Delta took a close look at its own history and strengthened our commitment to be a more diverse, equitable and anti-racist organization. To connect the world, Delta must reflect the world. We’re making progress by creating a more equitable talent experience, closing diversity gaps in representation and launching enhanced inclusion training. We’re also partnering with organizations like OneTen and Operation Hope while bolstering diverse business owners through new initiatives. Delta lobbied for Georgia’s Hate Crime Bill and Minnesota police reform legislation in 2020 and held virtual employee Town Halls with influential leaders to continue to build understanding about racial justice. While we are proud of the work we have done thus far, there is a long road ahead to achieve our goals.
+Our employees have continued to give back to the communities where we live, work and serve, finding new ways to help amid the challenges of the pandemic. Despite a challenging financial outlook, Delta and The Delta Air Lines Foundation contributed approximately $32 million to our communities in 2020. As we move through recovery, we look forward to continuing our commitment to invest 1% of our previous year’s net income in our communities.
+Many challenges remain ahead of us. Nonetheless, I am incredibly hopeful for the future. 2021 will be a year of reconnection with the people and places we love as vaccinations accelerate and our world continues to reopen. Thank you for being part of our journey as we keep climbing toward the blue skies ahead.
+Ed Bastian. 
+A MESSAGE FROM ED BASTIAN CHIEF EXECUTIVE OFFICER
+
+
+5. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ESG PROGRESS. 
+SAFETY. 
+GOALS. 
+Achieve world-class personal safety performance with the goal of sending all Delta employees and business partners home safely each day. 
+PROGRESS 3.95 3.90 2.36 2018 2019 2020. 
+Below we describe our progress in 2020 with respect to key ESG goals. For additional information about these and other ESG goals, see the discussion in the remainder of this report.
+GOVERNANCE. 
+GOAL. 
+Maintain a corporate governance program aligned with evolving best practices. 
+PROGRESS • Revised Safety & Security Committee charter to acknowledge the committee’s role in overseeing public health matters • Revised Personnel & Compensation Committee charter to memorialize the committee’s role in oversight of policies and strategies relating to human capital management • Made significant enhancements to our 2020 political contributions report. 
+Reduce the risk of transmission of COVID-19 in our operation • Established Global Cleanliness Division, which implemented more than 100 measures as part of the Delta CareStandardSM • Began offering on-site rapid COVID-19 testing in most locations and making at-home testing available for all U.S.-based employees and rapid testing available in most U.S. hubs for active flight crews • Implemented pay protection program for employees who test positive for COVID-19, who must quarantine due to COVID-19 exposure or who are at high-risk of illness from COVID-19. 
+GLOBAL INJURY RATE*
+Proactively reduce risks by identifying, assessing, mitigating and/or eliminating hazards that may cause incidents/accidents or injuries to customers. 
+Zero serious customer injuries in 2020 *Total number of OSHA recordable injuries per 200,000 hours worked.
+
+
+• 58% reduction in CO2e emissions in 2020 compared to 2005 levels due to impacts of COVID-19 • 9% reduction in CO2e emissions through 2019 • Airlines for America (A4A) announced a goal of net zero carbon by 2050, in March 2021 6. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Goal introduced. 
+SOCIAL. 
+GOALS PROGRESS 20,000 employees trained. 
+Double the percentage of Black officers and director-level employees by 2025. 
+Enhance Delta’s inclusion training on unconscious bias. 
+Achieve a positive score of at least 85 on employee engagement surveys. 
+Average score of 85 in 2020. 
+Preserve and build on current Customer Satisfaction Net Promoter Score (NPS) 66.7 points—an increase of nearly 20 points from 2019**
+ENVIRONMENT. 
+GOALS. 
+Achieve carbon neutrality across our global airline operations from March 1, 2020 forward. 
+PROGRESS • Improved fuel efficiency and accelerated fleet retirements resulted in 1.1M metric tons of CO2 avoided • Sustainable Aviation Fuel from Airbus and AirBP partnership on delivery flights reduced our CO2 by 33 metric tons • Remaining 13M metric tons of CO2 are being addressed through the purchase and retirement of carbon offsets. 
+Improve fuel efficiency 1.5% per year from 2009-2020. 
+Fuel efficiency improved on a gal/1,000 ASM* basis, but worsened on a gal/100 RTM* due to COVID-19. 
+Achieve carbon-neutral growth by capping international emissions at 2019 levels from 2021 through 2035. 
+Monitoring, reporting and verification of baseline emissions in advance of industry’s goal of achieving carbon-neutral growth on international emissions 50% emissions reduction by 2050 compared to 2005 levels *RTM refers to Revenue Ton Miles. ASM refers to Available Seat Miles. Refer to page 27 for more information on fuel efficiency. **In 2020, Delta transitioned to a new NPS platform. This 20-point increase from 2019 is relative to scoring within the new platform and is not reflective of reporting in previous annual reports.
+DELTA. 
+INDUSTRY. 
+INDUSTRY. 
+INDUSTRY
+
+
+The expectations of our stakeholders to produce sustainable, responsible financial results while investing in healthy communities, maintaining a robust workforce and protecting natural environments drive our overall approach to sustainability. Because of the importance of the key ESG issues identified in this report to the long-term success of our business and strategy, they are overseen by our Board of Directors and its committees.
+The Board is committed to sound corporate governance in line with evolving best practices. Delta has a history of a strong, independent Board, composed of seasoned members who are diverse with respect to background, skills, experiences, gender, race and ethnicity.
+The Board has established five standing committees to assist in discharging its responsibilities, including those related to the topics covered in this report. The committees’ primary responsibilities are described further in our 2021 Proxy Statement and can also be found in the committee charters, available in the corporate governance section of our website at ir.delta.com/governance.
+The Board of Directors has been extremely engaged throughout the COVID-19 pandemic, discussing strategy with management as frequently as twice a week in the early days of the pandemic in 2020 and continuing with bi-weekly updates through the first half of 2021. The Board of Directors formally met 13 times in 2020, monitoring the impact of the pandemic and Delta’s focus on taking care of its employees and customers, protecting its liquidity and preparing for recovery. The committees of the Board held numerous special meetings and received updates in addition to regular meetings.
+RISK MANAGEMENT. 
+BOARD OVERSIGHT The Board of Directors has ultimate responsibility to oversee Delta’s enterprise risk management program (ERM). Coordinated by the head of Delta’s Corporate Audit & Enterprise Risk Management department, the ERM program instills a heightened awareness of risk management throughout Delta, identifies and categorizes risks and monitors the progress of enterprise risk mitigation plans. The role of ERM is to provide a risk management framework with cross-functional alignment to enable risk informed decision-making through identification and categorization of risks and monitoring the progress of enterprise risk mitigation plans.
+The Board discusses risk throughout the year, particularly when reviewing operating and strategic plans and when considering specific actions for approval. Depending on the nature of the risk, the responsibility for oversight of selected risks may be delegated to appropriate committees of the Board, with material findings reported to and discussed with the full Board. The Board’s oversight of risk management is managed through delegation to each of the Board’s committees.
+7. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Our Commitment to Leading Governance. 
+ESG OVERSIGHT. 
+BOARD OF DIRECTORS. 
+AUDIT COMMITTEE CORPORATE GOVERNANCE COMMITTEE. 
+FINANCE. 
+COMMITTEE. 
+PERSONNEL & COMPENSATION. 
+COMMITTEE. 
+SAFETY & SECURITY. 
+COMMITTEE
+
+
+MANAGEMENT’S ROLE Delta’s ERM process is a journey of continuous improvement and iteration to meet the evolving needs of our business. Leaders of the business divisions, working closely with the ERM leader, have responsibility for risk identification, development of business risk mitigation plans, and monitoring and reporting progress of their implementation. Delta’s leadership structure, combined with the roles of the Board, its committees, and the Delta Risk Council (DRC), provide appropriate leadership for effective risk oversight.
+The senior management level, cross-divisional DRC meets quarterly and includes the Chief Financial Officer, Chief Information Officer, Chief Legal Officer, Senior Vice President - Corporate Safety and Security, Controller, Senior Vice President - Revenue Management and Pricing, Chief Information Security Officer, Chief Compliance Officer and the head of the Corporate Audit & Enterprise Risk Management department, among others. As appropriate, various officers and employees attend meetings of the DRC and follow up on issues addressed within the DRC.
+The DRC oversees all areas of the company’s business risk, including the following: monitoring risk tolerance levels; defining organizational responsibilities for risk management; identifying significant risks to Delta; and risk mitigation and management strategies based on Delta’s risk tolerance levels as well as monitoring the business to determine that risk mitigation activities are in place and operating.
+Additional information regarding board and management oversight of the key topics addressed in this report can be found within the sections of the report that follow. For further information regarding our corporate governance practices, including recent enhancements to our political contributions report, see our 2021 Proxy Statement and our 2020 Political Contributions Report.
+8. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+BOARD OF DIRECTORS. 
+OVERSEES DELTA’S ERM. 
+AUDIT COMMITTEE • Reviews the ERM framework at the enterprise level; reviews management’s process for identifying, managing and assessing risk; oversees the management of risks related to the integrity of the consolidated financial statements, internal control over financial reporting, the internal audit function, and legal and regulatory matters; oversees risks related to cybersecurity and the security and operations of the information technology systems.
+• Members of the Audit Committee are financially literate as defined by the NYSE, three of whom are designated as audit committee financial experts. Members receive internal and external training on cybersecurity risks, and an experienced cybersecurity professional, David DeWalt, is a member of the Audit Committee and has been a Delta director since 2011.
+FINANCE COMMITTEE. 
+PERSONNEL & COMPENSATION. 
+COMMITTEE. 
+CORPORATE GOVERNANCE COMMITTEE. 
+SAFETY & SECURITY. 
+COMMITTEE. 
+Oversees the management of risks related to aircraft fuel and fuel hedging; foreign currency and interest rate hedging; Delta’s financial condition and capital structure; its financing, acquisition, divestiture and investment transactions and related matters.
+Reviews risks related to management succession and development, Delta’s executive compensation program, company leadership development and talent development planning process, human capital management and related matters.
+Reviews risks related to Board of Director’s succession plans, Delta’s corporate governance, environmental sustainability and related matters.
+Oversees the management of risks related to customer, employee, aircraft and airport operating safety and security, public health and related matters.
+
+
+HEALTH AND SAFETY. 
+SAFETY GOVERNANCE 10. 
+SAFETY IS OUR #1 PRIORITY 12. 
+EMPLOYEE HEALTH: PROTECTING OUR EMPLOYEES THROUGH COVID-19 13. 
+EMPLOYEE SAFETY 14. 
+RAISING THE BAR ON CUSTOMER SAFETY 15. 
+Above All Else
+
+
+SAFETY GOVERNANCE • Oversees and consults with management on our customer, employee and aircraft operating safety, security and customer and employee health • R eviews current and proposed safety and security-related programs, policies and compliance matters • Reviews issues that may have a material effect on our flight safety operations, security and public health matters; establishes and approves annual safety and security goals.
+Provides oversight for Delta’s personal safety strategy, plans and performance to ensure a safe work environment for our employees and manage risks associated with employee and customer illnesses/injuries across the network.
+Provides oversight for Delta’s operational safety strategy, plans and performance to ensure safe flying and ground operations associated with operational risks across the network, in partnership with the FAA.
+BOARD OF DIRECTORS. 
+OCCUPATIONAL SAFETY COMMITTEE,
+LED BY THE SVP OF CORPORATE. 
+SAFETY & SECURITY. 
+OPERATIONAL SAFETY COMMITTEE,
+LED BY THE SVP OF CORPORATE. 
+SAFETY & SECURITY. 
+SAFETY AND SECURITY COMMITTEE 10. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SAFETY GOVERNANCE. 
+The health, safety and security of Delta people, customers and partners have never been more front and center. The COVID-19 pandemic has brought a new appreciation for safety as a core value in our daily lives and has underlined the importance of our systematic, risk-based approach to health and safety throughout our business.
+
+
+11. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Delta’s safety culture starts with a dedicated executive leadership team and collaborative oversight from the Board’s Safety and Security Committee, which oversees our policies, practices and performance related to safety, security and public health. This collective effort puts the safety of our people and customers at the forefront of all business decisions and is embodied in Delta’s CARE Model (as explained below), which highlights four critical safety leadership behaviors:
+SAFETY GOVERNANCE: LEADERSHIP & CULTURE. 
+At the heart of all our safety programs is Delta’s Safety Management System (SMS). SMS is a comprehensive, process-oriented approach to managing safety through a framework for employees to monitor, identify and address health and safety issues through daily operational data. SMS includes an organization-wide safety policy; formal methods for proactively identifying, assessing and controlling risks; systems for monitoring safety performance; and promotion of a safety culture. SMS allows for adjustments to be made to processes and procedures as necessary in an effort to address concerns before failures occur and to keep our people, customers and assets safe. Delta’s SMS played a key role in ensuring integrity of operations, promoting a culture of safety and providing a safe work environment for our employees and a safe travel experience for our customers as we navigated the pandemic in 2020.
+COMMUNICATE EXPECTATIONS. 
+Clearly and compellingly share safety expectations internally and externally, including “safety above all” and the belief that all incidents are preventable.
+ASSESS RISK. 
+Identify health and safety risks across a wide range of planning and operational activities while also seeking to understand and quantify risks.
+REINFORCE SAFETY BEHAVIORS. 
+Foster a “Do the right thing even when no one is watching” culture while highlighting positive safety results, activities and behaviors.
+ENGAGE EMPLOYEES. 
+Monitor and review safety performance and share results across the organization while maintaining trust and accessibility with colleagues.
+SAFETY
+
+
+12. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SAFETY. 
+Our greatest responsibility every day is ensuring the safety of our employees and customers. Operating a safe and reliable airline is critical to our success, and we are proud to have safely transported approximately 70 million customers in 2020.
+LEADING THE WAY IN A CHANGED TRAVEL WORLD As the COVID-19 pandemic took hold and began dramatically changing the global travel landscape, Delta quickly responded through bold policy changes. Early in the pandemic, Delta became the first airline to block middle seats and limit capacity on flights, a policy that continued for nearly a year—longer than any other U.S. airline—prioritizing customer preference and comfort in order to give customers confidence to travel. In May 2020, Delta required masks for employees and customers traveling on flights to prevent the spread of the virus.
+SAFETY THROUGH GLOBAL CLEANLINESS In response to the pandemic, Delta established the airline’s first Global Cleanliness Division, charged with innovating and evolving our high cleanliness standards. This group helped put more than 100 measures in place as part of the Delta CareStandardSM, which helped instill confidence in customers.
+Delta developed a new standard of care in the travel industry through partnerships with industry-leading sanitation experts, including PURELL® and RB, the makers of Lysol®, to create a safer and cleaner travel experience for our customers and employees, including sanitized touchpoints in the airport.
+All mainline fleet types—with the exception of our B717s, which use 100% fresh outside air—use. 
+HEPA filters to extract more than 99% of fine particles that carry airborne viruses, including COVID-19, and have proven performance similar to that of hospital room filtration. The air is recirculated in the cabin every 2-6 minutes and is mixed with fresh outside air. The filters were changed twice as often as normal since the pandemic took hold.
+Nearly 100 cleaning coordinators are stationed throughout 30 airports to serve as Delta’s eyes and ears for an extra layer of protection. They use two key tools within Delta’s Quality Management System to facilitate this process, including an onboard observation audit, where cleaned planes are checked for trash, debris, stains and more, as well as ATP testing—a technology we’ve borrowed from the medical industry—to objectively measure the amount of organisms and bacteria on surfaces across the travel ribbon. The metrics are used for continual improvement with our cleaning vendors, and the program will eventually evolve to include airport audits and more specialized aircraft audits.
+Throughout the year, Delta consulted closely with trusted experts in the medical field, including The. 
+Mayo Clinic, which conducted an audit of Delta’s in-flight service and provided health and safety input. Additionally, as vaccine development ramped up in the latter half of 2020, Delta began working with the State of Georgia to become one of the largest vaccination sites in Georgia beginning in February 2021, building upon a long-standing commitment to protect the health of our customers and employees.
+A NOD TO UNWAVERING SAFETY AND SERVICE These efforts resonated with industry leaders and customers: Delta earned a hospital-grade “Diamond” rating from Airline Passenger Experience Association (APEX) and SimpliFlying, the highest of the threetiered certification for the airline cleanliness award; received top NPS marks around customer service and cleanliness satisfaction thanks to our relentless focus on health and safety practices; and was named the No. 1 airline by corporate travel professionals in the annual Business Travel News Airline Survey for the 10th year in a row, citing the airline’s pandemic response as one of the award-winning factors.
+SAFETY IS OUR #1 PRIORITY
+
+
+13. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Since the onset of the COVID-19 pandemic, protecting our employees from transmission of the virus has been a continual priority. Delta quickly put numerous measures in place to help slow the spread and keep employees safe, from an extensive testing program and social distancing and signage at campus facilities to facility cleaning and visitor restrictions. We set up contacttracing teams for all employee COVID-19 cases and shared workplace transmission data with the Occupational Safety & Health Administration (OSHA) in accordance with state-specific reporting requirements. We established a task force in August 2020 that investigated each case and possible work exposure to help mitigate spread of the virus. Employees who receive a positive diagnostic COVID-19 test result have been, and are still, required to isolate at home in accordance with Centers for Disease Control and Prevention (CDC) guidelines and recommendations from our partners at The Mayo Clinic to prevent transmission. In addition, we have offered pay protection to employees who test positive for COVID-19, who must quarantine due to exposure to COVID-19, or are considered at high-risk for illness from COVID-19 according to the CDC guidelines and do not have the ability to work remotely.
+Delta’s testing program, developed in conjunction with The Mayo Clinic, has focused on testing full-time employees through large testing sites at all major stations and at-home testing kits. The Mayo Clinic team also has used results from the testing program to build a risk model based on role and location to help proactively identify areas where Delta should focus on asymptomatic employee testing.
+To help employees monitor their own health and keep fellow employees and customers safe, we launched the Delta Care App, a simple self-assessment for employees to check for symptoms each day before work. In early 2021, we opened a vaccination site at our Atlanta headquarters, which has become one of the largest sites in the State of Georgia. To further build upon these measures, we developed a Delta Champions program focused on addressing safety issues like correct mask wearing. Additionally, employees can report COVIDrelated concerns using QR codes posted throughout airport breakrooms, restrooms and offices.
+EMPLOYEE HEALTH: PROTECTING OUR EMPLOYEES THROUGHOUT COVID-19. 
+SAFETY. 
+In an unprecedented year for air travel, Delta proved its customers are always top of mind by achieving record-breaking Net Promoter Scores (NPS) throughout the year across all regions, including a record NPS of 66.7 on domestic flights—an increase of nearly 20 points from 2019*. Our continued commitment to service and cleanliness, including blocking middle seats into 2021, introducing the Delta CareStandardSM and waiving change fees, drove this record-breaking number.
+BREAKING CUSTOMER SATISFACTION RECORDS AMID YEAR OF CHALLENGES *In 2020, Delta transitioned to a new NPS platform. This 20-point increase from 2019 is relative to scoring within the new platform and is not reflective of reporting in previous annual reports.
++20 POINT. 
+INCREASE IN DOMESTIC NPS. 
+FROM 2019
+
+
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SAFETY. 
+EMPLOYEE SAFETY. 
+With the decrease in operations following the onset of the COVID-19 pandemic, our frequency of employee injuries and on- the-ground aircraft damages* also decreased, both averaging a 49% decrease from 2019.
+JUST CULTURE Just Culture is a mindset in which employees are not punished for errors or violations associated with actions or inactions taken in good faith, but where reckless behavior, willful violations and destructive acts are not tolerated. In a Just Culture, learning takes precedence over blaming.
+THE INITIATIVES DESCRIBED BELOW HELP FRAME DELTA’S OVERARCHING CULTURE OF SAFETY:
+AVIATION SAFETY ACTION PROGRAM (ASAP) ASAP is a safety reporting program for all frontline operational employees that encourages proactive, confidential hazard and near-miss reporting. Together, Delta leaders, the Federal Aviation Administration (FAA) and employee/labor representatives analyze the reported hazards and deliver recommendations to mitigate risks in the operation.
+The Voluntary Protection Program (VPP) is an Occupational Safety and Health Administration (OSHA)-sponsored process that leads to enhanced employee safety and health. The purpose of the VPP is to emphasize the importance of, encourage the improvement of, and recognize excellence in employer-provided, site-specific occupational safety and health programs. Delta is proud to have 16 VPP Star locations in the U.S. and remains the only major airline with OSHA Corporate VPP status.
+GLOBAL INJURY RATE 3.95 3.90 2.36 2018 2019 2020. 
+DAYS AWAY, RESTRICTED OR TRANSFER RATE (DART) 3.09 3.21 1.68 2018 2019 2020. 
+Our employees are central to maintaining a safe and healthy environment at Delta, and our safety culture connects us as a company globally. The pandemic, coupled with employees taking voluntary leaves of absence and participating in voluntary separation programs, and other employees taking on new job functions as a result, required us to be more vigilant than ever in our mission to keep safety and readiness at the forefront.
+THE LIFESAVERS We continue to promote and reinforce “The Lifesavers” across all divisions — divisional rules to prevent serious injury or fatality. We seek to reinforce these rules through testimonial training videos, featuring employees impacted by injury. 14. 
+DELTA TECHNICAL OPERATIONS (TECHOPS) - S.E.A.T. The TechOps team, the largest airline maintenance, repair and overhaul (MRO) provider in North America, embraces the SEAT approach for proactive safety observations and open dialogue across the operation. STOP unsafe behavior / ENGAGE in a friendly way / AGREE on a safer way to proceed / THANK them. 
+DELTA IN-FLIGHT SERVICE (IFS) - I’VE GOT YOUR BACK For our IFS team, safety is woven into our daily culture through CARE conversations, which is complemented by the “I’ve Got Your Back” (#IGYB) movement. This is an employee-led safety program that promotes peer-to-peer safety within the IFS team, with #IGYB champions spanning 19 bases. These champions engage their fellow IFS colleagues in lounges, concourses and at gates to spread a message of safety.
+DELTA CORPORATE QUALITY ASSURANCE (QA) AUDITS The QA team conducts airport audits and interviews employees to evaluate the success of our safety measures. In 2020, this team completed hundreds of detailed safety audits across our domestic and international airports, focusing on Ground Operations, Cargo, De-Icing and Fueling. Findings are flagged for leaders as part of local audits and used when investigating incidents to identify topics that warrant system-wide attention.
+* Refers to damage to an aircraft caused by an external source including, but not limited to equipment, wildlife and facility items.
+
+
+RAISING THE BAR ON CUSTOMER SAFETY 15. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+A LEADER IN FLIGHT SAFETY STANDARDS Delta participates in and leads an array of industry-wide safety initiatives like the FAA’s Aviation Safety Information Analysis and Sharing (ASIAS) system, which promotes the exchange of de-identified safety information to raise awareness and standards in the industry. We also serve as an active participant, leader and member of the Flight Safety Foundation; Commercial Aviation Safety Team (CAST); International Air Transport Association (IATA); National Safety Council (NSC); and International Society of Air Safety Investigators (ISASI).
+Delta’s Flight Operational Quality Assurance (FOQA) program is in place to ensure the safety and efficiency of flights, with onboard recorders monitoring data to help identify vulnerabilities and areas for improvement. Delta’s Flight Safety group includes a data modeling and analysis team, which gathers data for predictive maintenance, propulsion engineering and fuel conservation.
+CUSTOMER SAFETY IN THE AIR Our in-flight medical resources offer best-in-class safety that exceeds FAA regulatory guidance for onboard medical equipment, supplies and medication.
+To help us respond quickly to an emergency in the air, U.S. Department of Transportation (USDOT)-approved medical devices, including portable oxygen concentrators, are included on many Delta flights.
+SAFETY. 
+Delta also taps STAT-MD, a University of Pittsburgh Medical Center service that provides 24/7 ground-based medical support for all domestic and international in-flight medical events, in addition to pre-flight medical fitness-to-fly consultative support.
+
+
+Protecting The ENVIRONMENT. 
+OUR JOURNEY TO CARBON NEUTRALITY 17. 
+ENVIRONMENTAL SUSTAINABILITY GOVERNANCE 19 CLIMATE CHANGE GOALS 20. 
+ACHIEVING CARBON NEUTRALITY 20. 
+CARBON REDUCTIONS (WITHIN DELTA) 21. 
+CARBON OFFSETS 22. 
+SUSTAINABLE AVIATION FUEL 23. 
+TECHNOLOGY ADVANCEMENT, STAKEHOLDER. 
+ENGAGEMENT AND COALITION BUILDING 25. 
+IMPROVING FUEL EFFICIENCY 26. 
+CARBON-NEUTRAL GROWTH 28. 
+REDUCING OUR EMISSIONS 28. 
+CLIMATE RISK AND OPPORTUNITIES 30. 
+ENVIRONMENTAL COMPLIANCE 32. 
+ADVANCING A VISION OF ZERO-IMPACT AVIATION 36
+
+
+17. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+STAKEHOLDER ENGAGEMENT Delta is engaging investors, customers and employees and emphasizing transparent reporting efforts and collaboration across industries and fund management. We are collaborating with corporate customers, like Deloitte, to participate in making their organizational travel carbon-neutral through the purchase of SAF in an effort to support a future of more sustainable business travel.
+ENVIRONMENT. 
+In February 2020, Delta announced its ambitious $1 billion commitment toward carbon-neutrality over the next 10 years. Less than a month later, COVID-19’s devastating impact on the world and travel industry began to take shape. Yet, despite a historic period of financial hardship for the airline, the commitment continues stronger than ever, as demonstrated by our immediate action to address our carbon emissions paired with our focus on long-term investments to address climate change.
+As an industry that is innately difficult to decarbonize, we view carbon neutrality as tackling our airline’s carbon emissions through a multi-pronged approach: carbon reductions and removals, stakeholder engagement and coalition building.
+CARBON REDUCTION AND REMOVALS, including • Carbon reductions within Delta • Scaling up the use of. 
+Sustainable Aviation Fuel (SAF) • Expanding our Offset Portfolio • Advancing New Technology • Innovating in Propulsion,
+Post-Combustion Emissions Controls, Electric Power Delivery and Fuel Cells. 
+COALITION BUILDING Delta plans to pursue coalitions with suppliers and other industry participants to drive down the cost and increase consumption and production of alternative fuels and carbon capture technologies, both of which we believe are key to transforming the industry.
+AN AMBITIOUS PATH FORWARD Delta has a vision of zero-impact aviation: air travel that does not damage the environment directly or indirectly via greenhouse gas emissions, noise, waste generation or other environmental impacts. This ambitious goal will require significant capital investment, support from government partners, research and development from manufacturers and evolution of some of the world’s largest industries.
+OUR JOURNEY TO CARBON NEUTRALITY A $1B Commitment Driven By Immediate Action & Long-Term Investments. 
+In the short-term, Delta is already making strides through fleet and operational efficiency improvements, while addressing the remaining emissions through carbon offsets such as those that maintain and protect forests. Delta has committed more than $30M for a portfolio of verified offsets to address 13M metric tons of the airline’s carbon emissions during the period from March to December 2020.
+
+
+ENVIRONMENT “ Connecting the world and protecting our environment for future generations cannot be mutually exclusive. Travelers should not have to choose between seeing the world and saving the world. We must continue to take immediate actions today and can’t wait for future solutions to become a reality.” - DELTA CEO ED BASTIAN 18. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ACHIEVING CARBON NEUTRALITY FLEET ADVANCEMENTS. 
+AN AMBITIOUS PATH FORWARD 13M. 
+Metric tons of emissions from 2020 being offset, making the airline carbon-neutral from. 
+March to December 2020. 
+That is equal to carbon sequestered in one year by 17M acres of U.S. forests, which would cover the state of West Virginia* 5.7%
+More fuel-efficient per seat mile in 2020 than in 2019, saving 117M gallons of fuel due to fleet retirements, reduced passenger loads and other factors 200+ Delta aircraft retired early in 2020 25%
+More fuel-efficient per seat mile than the aircraft they replaced. 
+NEW AIRCRAFT. 
+However, Delta is already investing in SAF with a goal to replace 10% of its jet fuel refined from fossil fuel with. 
+SAF by the end of 2030. 
+The market is so underdeveloped that all SAF produced in 2020 would only be enough fuel to power Delta’s fleet for 1 day of flying pre-COVID. 
+SAF and carbon sequestration are not available on a large enough scale to meet the industry’s demands 24HR. 
+That is equal to emissions from annual electricity consumption of almost 200,000 households or roughly all households in the city of Atlanta** *EPA’s Greenhouse Gas Equivalencies Calculator **Based on 2019 Census
+
+
+SUSTAINABILITY GOVERNANCE. 
+We must remain mindful of our global decisions, especially as we manage our environmental impact and reduce greenhouse gas emissions. The oversight of our environmental sustainability program is guided by the following:
+ENVIRONMENTAL SUSTAINABILITY GOVERNANCE. 
+Regular board-level oversight, through the Corporate Governance Committee, of environmental sustainability opportunities and risks, and efforts and progress with respect to these matters.
+• The committee is updated at least annually on Delta’s progress on short-, medium- and long-term climate change and environmental sustainability goals and strategy. This includes discussion on the risks and impact they have on Delta.
+• The committee is engaged on oversight of climate change issues, our sustainability strategy (including the plan for carbon neutrality) and transparent reporting on our progress.
+Ongoing, cross-divisional management and executive oversight of environmental sustainability initiatives and guidance on priorities, based on climate-related issues deemed material to our business. The Managing Director of Sustainability leads a team dedicated to environmental sustainability and reports to the Corporate Governance Committee through executive leadership.
+Engagement with a cross-divisional group that develops risk mitigation strategies, including those related to climate change issues, and updates its assessment of such risks as operational conditions change.
+BOARD-LEVEL OVERSIGHT. 
+GLOBAL SUSTAINABILITY. 
+MANAGEMENT. 
+DELTA. 
+RISK COUNCIL 19. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+MANAGEMENT-LEVEL. 
+OVERSIGHT AND IMPLEMENTATION
+
+
+20. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Despite the unprecedented financial impacts of COVID-19, we recognize the urgency of taking action in the near-term and have committed more than $30 million for carbon offsets to address the 13 million metric tons of carbon dioxide (CO2) emissions from our airline business from March 1 – December 31, 2020. For additional information regarding the scope of emissions included above, see page 29.
+ACHIEVING CARBON NEUTRALITY FROM MARCH 2020. 
+ENVIRONMENT. 
+Carbon Reductions (within Delta) 1,149,498 metric tons. 
+HOW WE ADDRESS OUR EMISSIONS 5.7% improved fuel efficiency in 2020 compared to 2019, which resulted in nearly 1.15 million fewer metric tons of CO2 emitted.
+Carbon Offsets – Delta-Purchased Portfolio 12,960,000 metric tons. 
+Reduction, avoidance and removal offsets to address remaining carbon emissions.
+CO2 KEY DRIVERS. 
+Sustainable Aviation Fuel (SAF) 33 metric tons. 
+In 2019, Delta, Airbus and AirBP partnered to use SAF on 20 A321 delivery flights, and 7 of these aircraft were delivered in 2020.
+Carbon Offsets - Purchased by customers on delta.com/co2 3,500 metric tons. 
+These offsets are purchased by customers wanting to offset their travel on delta.com/co2. They are currently not incorporated in Delta’s goal, but are being evaluated for future co-investment opportunities.
+CUSTOMER INVOLVEMENT. 
+CO2 KEY DRIVERS 2020 Emissions 19,454,628 metric tons. 
+OUR EMISSIONS. 
+Our full greenhouse gas emissions (CO2, CH4, N2O, HFCs, PFCs and SF6) footprint for 2020, expressed in CO2e.* More detailed information on page 29.
+Carbon Dioxide (CO2) Emissions from March 1 - December 31 12,954,874 metric tons. 
+Our carbon neutrality goal in 2020 became effective on March 1, 2020. This goal includes carbon dioxide emissions, rather than all greenhouse gas emissions.
+* CO2e, or carbon dioxide equivalent, is the number of metric tons of CO2 emissions that have the same global warming potential as one metric ton of another greenhouse gas, and is calculated using the IPCC Second Assessment Report (SAR) in order to maintain consistency with factors used for our 2005 baseline calculation.
+Carbon-neutrality across our global airline operations from March 1, 2020 forward. 
+CLIMATE CHANGE GOALS:
+Fuel Efficiency Improvement: 1.5% per year from 2009-2020. 
+Carbon-Neutral Growth: Capping international emissions at 2019 levels. 
+Reducing Emissions: IATA Goal of 50% reduction in carbon dioxide emissions by 2050 compared to 2005 levels. 
+AIRLINE INDUSTRY GOALS. 
+DELTA GOAL
+
+
+21. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT. 
+ACCELERATED FLEET RETIREMENTS In 2020, the company retired more than 200 older aircraft. The new aircraft replacing those planes are 25% more fuel efficient per seat mile than the aircraft they replaced. Due to those fleet decisions and reduced passenger loads amid COVID-19, Delta’s fleet was nearly 6% more fuel efficient per available seat mile in 2020 than in 2019. This improved efficiency from fleet and other factors avoided the use of 117 million gallons of jet fuel and reduced our carbon emissions by 1,149,498 metric tons, calculated through 2019 ASM efficiency metrics.
+FUEL-SAVING INITIATIVES Due to COVID-19, we do not have a comprehensive overview of fuel saved through various operational initiatives in 2020. However, ongoing initiatives such as utilizing a turbulence-tracking app for pilots and decreasing auxiliary power unit use continue to contribute to fuel savings.
+CARBON REDUCTIONS (WITHIN DELTA) Key to mitigating our climate impact and meeting our climate change goals is reducing the amount of jet fuel we burn, thereby reducing our emissions.
+>200. 
+EARLY AIRCRAFT RETIREMENTS. 
+IN 2020
+
+
+CARBON AVOIDANCE This includes projects that work to avoid the release of emissions. For example, the impacts from deforestation around the world are estimated to contribute to 10-15% of total carbon dioxide emissions. Carbon avoidance offsets, such as REDD+ (Reducing Emissions, Deforestation and Degradation) provide an opportunity to protect forest areas that are at-risk of being cut down for economic reasons.
+22. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+In the near term, we believe carbon offsets remain an important way to address climate change with the tools we have available now while we continue to seek solutions that will decarbonize aviation. Our current portfolio is majority reduction and avoidance offsets, but we intend to work towards increased investment in removals in future years.
+All of Delta’s offsets are verified against leading, third-party standards and retired in the appropriate registries.
+CARBON OFFSETS. 
+ENVIRONMENT. 
+OFFSETS AT WORK IN COMMUNITIES ACROSS THE GLOBE. 
+Delta’s carbon reduction offset project in the Greater Dhaka region of Bangladesh is working to improve daily cooking functions and ultimately protect human lives by reducing gas leaks. Through inspections and leak measurements, the project has improved line pressure for more than 38,000 households, reducing the average time to cook and fuel collection. Sustainable development benefits include improving pressure and availability of gas—a clean source of energy for cooking and a common substitute for biomass. Additionally, upgraded pipeline infrastructure has reduced the likelihood of accidents and protected human lives and property in the process.
+Two community-driven conservation projects—Rimba Raya and Keo Seima—are protecting forests across Indonesia and Cambodia. Delta’s carbon avoidance offset investments support program operations, which work to conserve more than half a million acres of forests while avoiding the release of an average of 5 million metric tons of carbon dioxide into the atmosphere per year. The projects’ efforts promote sustainable livelihoods, conserve critically endangered species, support the preservation of indigenous communities’ culture and traditions and maintain the natural resources vital to forest communities.
+CARBON REDUCTION This includes technology or projects that result in a reduction in emissions, like solar and windgenerated power installations (i.e., renewable energy projects). Renewable energy is especially important for solutions that decarbonize aviation. As examples, electric aircraft propulsion and hydrogen-based fuels both require much cheaper and more abundant renewable energy capacity than is available today.
+CARBON REMOVALS This includes removing carbon dioxide from the atmosphere and storing it. Current examples include planting new forests (afforestation/ reforestation) and increasing the amount of carbon stored in soils (soil carbon sequestration). Future carbon removal technology and offsets include building machines that suck carbon dioxide directly out of the atmosphere and bury it (direct air capture).
+CARBON OFFSET TYPES:
+CARBON REDUCTION 3,751,161 offsets purchased 29% of portfolio. 
+CARBON REMOVALS 10,000 offsets purchased <1% of portfolio. 
+CARBON AVOIDANCE 9,198,839 offsets purchased 71% of portfolio
+
+
+23. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Sustainable Aviation Fuel is an alternative to fossil fuels and can substantially reduce fuel life-cycle emissions. While often referred to as biofuels, SAF is a broader term as technology has evolved to allow for additional feedstocks such as municipal solid waste.
+UP TO 80% LIFE-CYCLE EMISSIONS REDUCTION Compared to conventional jet fuel from extraction to flight, the life-cycle emissions reduction of neat (unblended) SAF from feedstock to flight can be up to 80%, depending on the exact feedstock, technology and transport. There are many feedstock options available for SAF, and currently there are eight approved technology pathways to turn the feedstock into SAF.
+SUSTAINABLE AVIATION FUEL (SAF) CARBON REDUCTIONS WITHIN DELTA AND OUR INDUSTRY. 
+ENVIRONMENT. 
+FOSSIL FUELS: LINEAR CARBON LIFE-CYCLE SAF: CIRCULAR CARBON LIFE-CYCLE. 
+EXTRACTION. 
+TRANSPORT. 
+REFINING. 
+FLIGHT. 
+TRANSPORT. 
+DISTRIBUTION. 
+REFINING. 
+FLIGHT TRANSPORT. 
+DISTRIBUTION. 
+PROCESSING. 
+FOODSTOCK. 
+GROWTH & C02 SEQUESTRATION. 
+BLENDING TANK. 
+SAF. 
+Fossil Fuel. 
+RE-CERTIFIED. 
+Working closely with international fuel specification bodies like ASTM International, the aviation industry is developing SAF standards and certificates. Once requirements are met, SAF (no more than 50% by volume) is blended with conventional jet fuel and re-tested to show compliance to ensure compatibility with aircraft fueling systems.
+Image source info from: https://aviationbenefits.org/media/166152/beginners-guide-to-saf_web.pdf. 
+COMMITTING TO 10% SAF BY 2030 In the short and medium term, the most viable solution for reducing emissions within our industry is investing in and scaling up SAF, because it is an underdeveloped market. Delta aims to replace 10% of its jet fuel with SAF by the end of 2030.
+
+
+24. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+FEEDSTOCK SUSTAINABILITY In order to ensure sustainability of the feedstock being used to produce SAF, and to better understand the actual life-cycle emissions reductions, our internal principles outline that the fuel must have lower environmental impacts (climate, water, air and biodiversity) in addition to a preference that biofuels feedstocks will not displace or compete with food crops.
+As we continue to work with producers toward our goal of 10% SAF by 2030, we intend to ensure the SAF we purchase does not have palm oil or PFAD as a feedstock, in addition to requesting that our production partners verify the sustainability of their product to ISCC—a globally applicable sustainability certification system that covers all sustainable feedstocks—or RSB (Roundtable on Sustainable Biomaterials) standards.
+OUR EXPECTED SAF JOURNEY THROUGH 2030. 
+ENVIRONMENT. 
+Operated our first SAF flights: delivery of four A330-900neos from Toulouse to Atlanta, in addition to committing to 20 carbon-neutral A321 deliveries through the use of SAF and offsets in partnership with Airbus and AirBP.
+Invested $2M to partner with Northwest Advanced Bio-Fuels (NWABF) to determine the feasibility of producing fuel using wood residue and wood slash. The project is expected to be located in Washington State.
+Launched RFI to identify and potentially support new production over the next decade.
+Launched corporate partnership programs that give customers a mechanism to take action on their Scope 3 air travel emissions while helping to stimulate future growth of SAF production.
+Deliveries expected to begin under offtake agreement with Gevo—expected to be 10M gallons of SAF/year. The fuel will be powered by inedible, industrial corn products, and Gevo’s patented process will separate the sugars from the proteins. The sugars are the feedstock for the fuel, while the proteins are fed to livestock.
+Deliveries expected to begin under offtake agreement with NWABF— expected to be 60M gallons of SAF/year.
+We aim for 10% of our jet fuel consumption to be SAF by the end of 2030.
+2019 2020 2021 2024 2025 2030
+
+
+25. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+TECHNOLOGY ADVANCEMENT, STAKEHOLDER ENGAGEMENT AND COALITION BUILDING Beyond carbon offsets and SAF, we are looking holistically throughout our airline business for ways to enhance our operation, improve our fleet performance and avoid the production of waste. This expands efforts already in motion at Delta for a number of years. In the near term, we intend to look for weight savings on our aircraft, continue retrofitting for efficiency (e.g., winglets) and use the latest technology to more efficiently route flights. Over the long-term, we expect our suppliers to continue advancements in airframe and propulsion technology.
+LOOKING BEYOND TODAY’S OFFSETS As demand for today’s offsets increases, our world will need to identify new solutions for removing and storing carbon from the atmosphere. Over the long term, Delta plans to evaluate carbon sequestration technologies like Direct Air Capture, where machines draw carbon dioxide out of the air and permanently store it in deep geological formations or use it to create products containing carbon dioxide. Accelerating the development of such breakthroughs is critical, yet today such projects are very limited and expensive.
+STAKEHOLDER ENGAGEMENT In addition to our collaboration with corporate customers for SAF, we are actively collaborating with the FAA and the airline industry to modernize the air traffic control (ATC) system through forums such as the NextGen Advisory Committee in an effort to reduce delays, decrease fuel consumption and cut carbon emissions by shortening flights and providing more direct routes. We are also engaging with industry, government and ICAO on CORSIA and other climate and environmental policy to advance environmental sustainability of the aviation industry.
+BUILDING COALITIONS Another central component in our path toward carbon-neutral aviation is coalition building. The challenge our world faces from climate change and other environmental impacts will not be solved by a single company, making collaboration key to success. One example of this is our membership in MIT’s Industry Liaison Program that allows us to better understand and quantify the environmental impacts of aviation. We believe coalitions with investors, suppliers, competitors and industry champions across the aviation and energy ecosystem will drive down costs and increase the production and consumption of transformative technologies for fuel, propulsion and carbon sequestration.
+With these partnerships, we plan to pursue incentives for SAF use and carbon-focused, early technology investment so we can lead the industry’s push toward transformative, sustainable efforts.
+ENVIRONMENT
+
+
+Gal/1,000 ASM: Improved by 5.7% in 2020 compared to 2019.
+Higher-than-average improvements in fuel efficiency on an ASM basis were due to early fleet retirements, reduced passenger loads and other factors. This improved efficiency avoided the use of 117 million gallons of jet fuel (1.15M metric tons of CO2), as calculated by using 2019 ASM efficiency metrics.
+26. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+Gal/100 RTM: Worsened by 41% in 2020 compared to 2019.
+While our total jet fuel consumption decreased 54% compared to 2019, our revenue ton miles (RTM for passengers and cargo) decreased by 67% year over year due to fewer passengers flying as a result of COVID-19, in addition to the effect of seat blocks. As a result, our efficiency worsened 41% YOY.
+IMPROVING FUEL EFFICIENCY. 
+AVIATION INDUSTRY’S SHORT-TERM GOAL The International Air Transport Association’s (IATA) short-term goal was to improve fuel efficiency by an average of 1.5% each year, from 2009 to 2020. This is measured by gallons per 100 revenue ton miles (RTM), or the amount of fuel needed to carry 100 revenue tons a distance of one mile. RTM is measured by multiplying the estimated weight of passengers and their bags (100kg) and actual weight of cargo by the distance it was flown. This efficiency goal accommodates business growth. We also track fuel efficiency on an available seat miles (ASM) basis, which focuses on capacity instead of actual customers and cargo transported.
+ENVIRONMENT. 
+Source data: page 60 in Appendix. 
+FUEL EFFICIENCY (RTM) 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 21.5 21.0 20.5 20.0 19.5 19.0 18.5 18.0 17.5 17.0 16.5 16.0 15.5 15.0 14.5. 
+FUEL EFFICIENCY (ASM) 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 21.5 21.0 20.5 20.0 19.5 19.0 18.5 18.0 17.5 17.0 16.5 16.0 15.5 15.0 14.5. 
+SCOPE: Delta Mainline and Connection Carrier jet fuel CO2 emissions. 
+STATUS:
+Source data: page 60 in Appendix. 
+GALLONS/1,000 ASM. 
+GALLONS/100 RTM
+
+
+2018 2019 2020 4,103 4,207 1,934 225,243 237,680 73,412 24,829 
+26,200 
+8,092 2,170 
+1,995 1,082 26,998 28,195 9,175 15.20 14.92 21.08 263,365 275,379 134,339 15.58 15.28 14.40 27. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT. 
+METRIC DEFINITION. 
+FUEL EFFICIENCY 2009-2020 data can be found on page 60 of the Appendix. 
+JET FUEL (GALLONS IN MILLIONS)
+REVENUE PASSENGER. 
+MILES (RPM IN. 
+MILLIONS)
+PASSENGER REVENUE TON MILES (RTM IN. 
+MILLIONS)
+CARGO. 
+TON MILES (RTM. 
+IN MILLIONS)
+TOTAL RTM (RTM IN MILLIONS)
+FUEL EFFICIENCY: GALLONS/100 REVENUE TON. 
+MILES. 
+AVAILABLE SEAT MILES (ASM IN. 
+MILLIONS)
+FUEL EFFICIENCY: GALLONS/1000. 
+ASM. 
+Jet fuel from mainline + Connection Carrier operations (differs from 10-K due to exclusion of Delta Private Jet’s fuel use)
+Number of paying passengers multiplied by the distance they travelled in miles (as reported in annual 10-K)
+Weight, in tons, of revenue generating cargo multiplied by distance travelled. 
+Weight, in tons, of paying passengers (estimated 100kg per passenger, including luggage) multiplied by distance travelled. 
+Number of seats available to sell multiplied by the distance they travelled (as reported in annual 10-K)
+Sum of Passenger and Cargo Revenue Ton Miles
+
+
+28. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+CARBON-NEUTRAL GROWTH CORSIA: AVIATION INDUSTRY’S MEDIUM-TERM GOAL. 
+In 2009, IATA and its airline members agreed to three climate change goals, with the medium-term targeting carbon-neutral growth from 2021 forward, capping international aviation emissions at 2019 levels.
+On the broader climate stage, aviation (and maritime) activities were excluded from the United Nations Framework Convention on Climate Change (UNFCCC) Paris Agreement as emissions from international air travel do not fall under any country’s national jurisdiction. As a result, ICAO, the UN agency for aviation, formally adopted the industry’s medium-term goal through CORSIA, the Carbon Offsetting and Reduction Scheme for International Aviation. A pilot phase of the offset program will begin in 2021, followed by a first phase of the program beginning in 2024 and a second phase beginning in 2027. Countries can voluntarily participate in the pilot and first phase, and the United States has agreed to participate in these voluntary phases. Participation in the second phase is mandatory for certain countries, including the United States. Any emissions that exceed the industry’s baseline emissions are subject to an obligation under CORSIA. Airlines can meet CORSIA obligations through the use of sustainable aviation fuel or the purchase of offsets approved by ICAO’s Technical Advisory Board.
+Delta is currently participating in CORSIA through the monitoring, reporting and verification of baseline emissions data.
+ENVIRONMENT. 
+REDUCING OUR EMISSIONS AVIATION INDUSTRY’S LONG-TERM CLIMATE CHANGE GOAL. 
+METRIC IATA has set a long-term goal to reduce net absolute aviation emissions 50% by 2050 relative to 2005 levels. In March 2021, A4A announced its own long-term goal of net zero by 2050. To track our progress we have calculated and verified our full emissions inventory from our aviation operations since 2005 that includes all greenhouse gases (CO2, CH4, N2O, HFCs, PFCs and SF6) in accordance with The Climate Registry’s General Reporting Protocol. Our verified reports are publicly available at www.cris4.org.
+SCOPE We calculate Scope 1, 2 and 3 emissions, as described below. The retirement (in a registry) of any carbon offsets against our emissions is also verified as part of this process.
+SCOPE 1 Includes all emissions generated as part of the operation of Delta’s air transportation business: jet fuel from Delta mainline, Endeavor Air (our wholly-owned subsidiary) plus emissions from ground support equipment and other group operations and chemical use.
+This does not include the Monroe Refinery.
+SCOPE 2 Includes emissions that result from the generation of electricity, heat or steam purchased by. 
+Delta in both owned and leased facilities, such as airport spaces.
+SCOPE 3 Includes all jet fuel from Delta Connection carriers that we do not wholly own (SkyWest and. 
+Republic). It does not include airlines in which we participate in a joint venture. It also does not include our supply chain emissions (emissions generated by our vendors). We are in the process of understanding the impact of our supply chain and its associated emissions.
+STATUS Due to the impacts of COVID-19 and the sharp decline in air travel resulting from the pandemic, our 2020 emissions were 58% less than our 2005 baseline. Between 2005 and 2019, we reduced our absolute emissions by 9%.
+
+
+29. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT 2020 – MARCH 1. 
+FORWARD (CO2 ONLY, PER OUR. 
+COMMITMENT)
+SCOPE 1. 
+JET FUEL - MAINLINE DELTA 38,158,943 34,699,897 35,759,375 16,031,893 10,546,981. 
+JET FUEL - ENDEAVOR AIR 3,582,676 2,121,572 2,230,657 1,372,534 1,007,961. 
+FUEL - GROUND SUPPORT EQUIPMENT 133,194 99,951 97,992 79,746 52,951. 
+ALL OTHER SCOPE 1 70,409 72,981 73,757 64,928 40,726. 
+TOTAL SCOPE 1 41,945,222 36,994,401 38,161,781 17,549,100 11,648,618. 
+SCOPE 2. 
+ELECTRICITY – DIRECT-BILLED FACILITIES 227,169 165,872 152,849 128,493 104,219. 
+ELECTRICITY - LEASED FACILITIES 193,249 107,588 104,407 104,207 69,805. 
+NATURAL GAS – LEASED FACILITIES — 33,267 33,583 33,846 22,536. 
+TOTAL SCOPE 2 420,418 306,727 290,839 266,545 196,561. 
+SCOPE 3. 
+JET FUEL – REGIONAL PARTNER AIRLINES 3,808,637 3,677,438 3,516,714 1,638,983 1,109,695. 
+TOTAL GROSS CO2 EMISSIONS 46,174,277 40,978,566 41,969,334 19,454,628 12,954,874. 
+OFFSETS — 3,293,160 1,707,302 12,960,000 12,960,000. 
+NET EMISSIONS 46,174,277 37,685,406 40,262,032 6,494,628 CARBON NEUTRAL *2020 emissions are undergoing third-party verification. Final offsets towards carbon neutrality from March 2020 forward will align with 2020 verified emissions. Please see the Appendix for more information on our verification process.
+NET EMISSIONS 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 50M 45M 40M 35M 30M 25M 20M 15M 10M 5M 0. 
+AVOIDED EMISSIONS. 
+GHG EMISSIONS (METRIC TONS CO2e)
+OFFSETS 2020 net emissions cover January and February flying.
+The avoided emissions are from fuel efficiency improvements.
+Additional, historical emissions data can be found on page 59 in the Appendix.
+GHG EMISSIONS INVENTORY 2005 (BASELINE) IN METRIC TONS CO2e 2018 IN METRIC TONS CO2e 2019 IN METRIC TONS CO2e 2020* IN METRIC TONS CO2e
+
+
+30. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+CLIMATE RISK AND OPPORTUNITIES. 
+As we build out our strategy for achieving carbon neutrality from March 1, 2020 forward, we have continued to refine climate risks and opportunities that will impact our business and the broader aviation industry.
+Short-Term: 2020-2024 Medium-Term: 2025-2035 Long-Term: 2036 and beyond. 
+Select transition and physical risk that are likely to impact our business are described below. We will continue to build on our climate disclosure through our annual CDP disclosure and will consider climate scenario analysis and expanding on resilience of our strategy in future reporting.
+ENVIRONMENT. 
+CATEGORY. 
+REGULATORY & POLICY. 
+Increased Regulations and Policies: Regulatory action concerning climate change and aircraft emissions could have a significant effect on the airline industry. • Currently, Delta is subject to EUETS (European. 
+Union Emissions Trading Scheme) for intra-EU flights. In addition, ICAO, the UN agency for aviation, formally adopted a global, market-based emission offset program known as CORSIA that aligns with IATA’s medium-term climate change goal of achieving carbon-neutral growth on international emissions from 2021 forward. CORSIA will require airlines to address industry growth in emissions through the use of sustainable aviation fuel or purchase and retirement of eligible offsets.
+• In addition, because our business crosses state and international borders, we may face a patchwork of regulation for aircraft emissions. For example, if emissions for the entire flight were subject to regulation at the origin and destination airports in separate jurisdictions, this would result in duplicative payments for the same fuel and emissions.
+DETAILS TIME HORIZON. 
+POTENTIAL FINANCIAL IMPACT. 
+Short Term. 
+While the specific nature of future actions is hard to predict, new laws or regulations related to environmental matters adopted in the U.S. or other countries could impose significant additional costs. The financial impact depends on the price of carbon and the parameters of the specific regulation. For CORSIA, certain program details remain to be developed and could potentially be affected by political developments in participating countries or the results of the pilot phase of the program, and thus the impact of CORSIA cannot be fully predicted at this time. However, CORSIA is expected to increase operating costs for airlines that operate internationally.
+TECHNOLOGY Transitioning to Lower-Carbon Technologies: These technologies are currently not available at scale, and it may be at least 10-30 years before they are. The aviation industry is a hard to decarbonize sector, and the cost to transition to lower-emissions technologies such as sustainable aviation fuels, novel airframes, hydrogen-based fuels and direct air capture, is still extremely high. Standards or regulations related to new aircraft technology, such as the ICAO CO2 standard, may impact how airline operators can transition to a low-carbon economy.
+Long Term. 
+The potential cost of transitioning to low-carbon technologies for aviation is currently high. The base case cost of abatement for sustainable aviation fuel, the most viable near-term solution that can scale for aviation, is estimated to be more than $600 per metric ton of carbon equivalent abated according to Carbonomics: The Future of Energy in the Age of Climate Change, published by Goldman Sachs in 2019. Current estimates for metric tons of carbon abated using direct air capture are in similar ranges.
+MARKET Flight Shaming and Changing Consumer Behavior: While the “flight-shaming” movement started and has thus far largely remained in Europe, flight-shaming and public perception of air travel may continue to have an impact on future customer demand and behavior. We evaluate market risks, such as a possible shift from in-person business meetings to virtual meetings, as we have experienced due to the pandemic.
+Medium Term. 
+The potential financial impact of market risk is reduced revenue as a result of reduced demand for air travel.
+MANAGEMENT. 
+CLIMATE TRANSITION RISK. 
+REPUTATION Increased Stakeholder Concern: Our reputation and brand could be adversely impacted by failure to make progress toward and achieve our climate change goals, as well as public pressure from investors or policy groups or customers to change our policies.
+Medium Term. 
+Significant damage to our reputation and brand could have a material adverse effect on our business and financial results, potentially due to reduced demand for air travel.
+Members of our Environment/ Sustainability, Legal/Government Affairs, Operations Data Analysis, Fuel & Tax teams work together to stay apprised of possible regulations. This includes working with IATA and regulators/ policymakers in the relevant countries. In addition, this group is responsible for managing regulatory compliance through reporting, monitoring/verification and purchasing credits for compliance.
+In 2020, we launched a SAF RFI to identify and potentially support new production over the next decade. We plan to evaluate multiple feedstock types, technology types, and locations to help understand the life-cycle emissions reduction. We also intend to evaluate incentives against the current premium of SAF, to determine where offtakes and investments may play a role in helping to reduce our life-cycle emissions while also bringing SAF to scale for the industry.
+We engage with the corporate travel managers and sustainability teams to educate them on efficiency improvements and the impact of their travel, and we have also proposed ways to address shared Scope 1 and Scope 3 emissions between Delta and our customers.
+We remain committed to being transparent about our climate change impact and progress against Delta’s and the industry’s goals.
+
+
+31. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT. 
+CATEGORY. 
+ACUTE Impact of Climate and Weather on our Operations: Severe weather conditions and natural disasters (or other environmental events) can significantly disrupt service and create air traffic control problems. Increases in the frequency, severity or duration of thunderstorms, hurricanes, typhoons or other severe weather events, including from changes in the global climate, could result in increases in delays and cancellations, turbulence-related injuries and fuel consumption to avoid such weather, any of which could result in loss of revenue and higher costs.
+DETAILS TIME HORIZON. 
+POTENTIAL FINANCIAL IMPACT. 
+Short and Medium Term. 
+These events decrease revenue and can also increase costs such as rebooking, accommodations, additional wages for crew, etc. Recent examples include • $300M revenue impact in 2017 from Hurricane. 
+Irma, Winter Storm Benji and multiple other winter storms on the East Coast.
+• $44M negative impact from severe winter storms in Q1 of 2018.
+CHRONIC Changes in Weather Patterns: One of the major constraints on an aircraft’s revenue-generating ability is the amount of payload it can carry at takeoff. This is influenced by air density. Long-term increased mean temperatures and changes in climate can result in lower air density and consequently a lower takeoff performance, reducing the payload capability of an aircraft while increasing fuel costs. This effect is pronounced at high-altitude airports, which have lower air density due to their elevation, such as Delta’s hub in Salt Lake City. Chronic physical risks also impact the airports we serve that are coastal, at sea level and more prone to flooding.
+Long Term. 
+The impact of changes in climate and weather patterns could result in increased irregular operations (IROPs), which could result in decreased revenue and increased costs.
+MANAGEMENT. 
+CLIMATE PHYSICAL RISK. 
+The impact of this risk is regularly assessed by our Operations Customer Center in order to prepare for disruptions from weather events.
+The impact of this risk is regularly assessed by our Operations Customer Center in order to prepare for disruptions from weather events.
+CATEGORY. 
+RESOURCE EFFICIENCY. 
+Increases in fuel- and CO2-related costs as a result of international agreements, carbon taxes, cap and trade schemes, fuel taxes and regulations, and voluntary agreements provide Delta with additional incentives to implement other fuel conservation initiatives, thereby lowering Delta’s fuel expense and mitigating Delta’s environmental impact.
+More Fuel-Efficient Aircraft: Currently, more efficient aircraft has the biggest impact on our efficiency and our ability to reduce absolute greenhouse gas emissions. Prior to the pandemic, we began refreshing our fleet, acquiring new, more fuel-efficient aircraft with increased premium seating, to replace older aircraft and had begun to reduce our fleet complexity with fewer fleet types. We accelerated this fleet simplification strategy by retiring 227 aircraft in 2020, with plans to retire an additional 128 aircraft by 2025.
+DETAILS TIME HORIZON. 
+POTENTIAL FINANCIAL IMPACT. 
+Medium Term. 
+As reported in our 2020 10-K, capital expenditures are primarily related to the purchase of aircraft, fleet modifications and technology enhancements. Our capital expenditures were $1.9B in 2020, of which the largest portion was incurred before the onset of the COVID-19 pandemic, and $4.9B in 2019.
+ENERGY SOURCE. 
+Sustainable Aviation Fuel (SAF) is a proven alternative fuel that exists today to help decarbonize aviation. However, it’s not available at scale or at a cost-competitive price. Delta has a goal of having 10% of our fuel at the end of 2030 come from SAF.
+To achieve that, we will be evaluating multiple feedstock and technology types as well as working to understand the life cycle of emissions reduction and sustainability of the feedstock. Currently, sustainable aviation fuel is limited to a 50% blend with conventional jet fuel.
+Medium Term. 
+Our annual jet fuel consumption pre-COVID was approximately 4B gallons. To achieve our goal of 10% SAF by 2030, we would require 400M gallons in 2030. While the cost of SAF at the time is unknown and would depend on how far technology has progressed in addition to incentives available, a $1 premium per gallon of SAF would result in additional costs of $400M per year.
+PRODUCTS AND SERVICES. 
+Partnering With our Customers: As customers (corporate and retail) are increasingly looking for ways to address their Scope 3 air travel footprint (and Delta’s Scope 1 emissions), there are opportunities to partner and co-invest in order to more quickly scale up low carbon technologies such as SAF. These partnerships allow the airline and its customers to address their Scope 1 and Scope 3 emissions, respectively, by investing in alternative fuels.
+Short Term. 
+The premium for SAF at the moment varies depending on the fuel and the incentives that are available currently. However, co-investing with corporate customers allows us to work toward scaling up the use of SAF at a costcompetitive price.
+MANAGEMENT. 
+CLIMATE OPPORTUNITIES. 
+Our fleet strategy and retirement of less efficient aircraft will continue to avoid emissions and drive fuel efficiency.
+In 2020, we launched a SAF RFI to identify and potentially support new production over the next decade. We will also evaluate incentives against the current premium of sustainable aviation fuel (SAF), to determine where offtakes and investments may play a role in helping to reduce our footprint while also bringing SAF to scale for the industry.
+We engage with our customers to provide emissions data and share what Delta and the industry are doing around climate change. In addition, we are working with our corporate customers to address our shared Scope 1/Scope 3 emissions in an effort to decarbonize aviation.
+MARKET Offsets: Because aviation is one of the most difficult to decarbonize sectors, taking climate action immediately will require the use of offsets. While we expect the price of offsets to increase in future years, this also presents an opportunity to invest in offsets and offset projects in a different way than we currently do, such as forward agreements or investments into select projects. 
+Short Term. 
+Because our carbon-neutral goal covers our airline carbon emissions from March 2020 going forward, increases in the price of offsets, whether voluntary or mandatory, could have an impact on the cost of achieving carbon neutrality. We expect the majority of our $1 billion 10-year commitment to be spent on offsets and sustainable aviation fuel.
+A cross divisional internal group is currently evaluating our long-term approach to offset purchasing and the types of offsets that will make up our portfolio over time.
+
+
+32. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENTAL COMPLIANCE. 
+Delta’s compliance with international, federal, state and local environmental laws and regulations is the foundation for protecting the environment. We seek to ensure that our operations comply with all applicable requirements, and where regulations do not exist, we seek to operate responsibly by following best practices. In the event of an environmental incident, we respond promptly and coordinate with regulatory authorities as required to address and mitigate any impact and to prevent a recurrence. We use our own operational knowledge and experience, as well as leveraging our business partners, to innovate and improve responsible environmental practices.
+Our approach to environmental compliance includes our Environmental Management System (EMS), Environmental Programs Manual (EPM), Environmental Management Information Systems (EMIS) and our overarching, publicly available Environmental Policy that outlines our commitment to conduct operations in an environmentally compliant and sustainable manner. • The EMS works alongside the EPM to manage and track roles, responsibilities, records and documents for compliance with regulations on an airport-specific basis.
+• The EPM is our internal policy and compliance management protocol that explains how we abide by federal, state and local environmental regulations. It also includes best practices for our domestic operations.
+• The EMIS is a web-based tool that tracks timely compliance of scheduled environmental tasks required by our environmental compliance lead employees at our domestic stations. The EMIS works in conjunction with a station’s EMS program.
+56 recordable Class I and Class II spills in 2020, which constitutes a 40% decrease from 2019.
+MANAGING & MITIGATING SPILLS In an effort to prevent the release of hazardous substances from our operations, we have developed a set of handling and storage procedures for a wide range of substances and materials—from jet and diesel fuel to hydraulic fluid and more.
+Our employees and business partners are trained to respond and clean up in the event of a spill in accordance with internally approved procedures that comply with applicable regulations: 1. ENSURING the safety of all employees, passengers and the public.
+2. STOPPING the spill at its source and containing it once safe.
+3. NOTIFYING our airport and division leadership about the incident and reporting to government agencies as required.
+4. INVESTIGATING spills equal to or greater than five gallons to determine contributing factors.
+5. PERFORMING any necessary corrective actions in order to prevent future spills.
+This number includes a total of 16 regulatory reportable spills, which represents a 36% decrease from 2019. Significant reduction in scheduling during COVID-19 and expedited older aircraft retirement contributed to fewer spills in 2020.
+None of these NOVs had associated penalties, and two of the NOVs were related to the same event, a fuel release in conjunction with an emergency landing in Los Angeles. The FAA subsequently concluded that the fuel release executed by the Delta crew complied with that agency’s regulations governing flight operation and safety. The other NOVs related to a stormwater permit exceedance in Cincinnati and stormwater record keeping in Fairbanks.
+ENVIRONMENT. 
+RECORDED SPILLS AND SPILL GOALS. 
+Class I Recorded Spills 39 44 26. 
+Class II Recorded Spills 47 49 30. 
+Total Recorded Spills (Class I + II) 86 93 56. 
+Regulatory Reportable Spills 20 25 16. 
+Annual Spill Goal <90 <90 <90 2018 2019 2020 4 Notices of Violation (NOVs) were received from environmental regulatory agencies in 2020. NOTICE OF VIOLATION/NONCOMPLIANCE. 
+Notices of Violations 4 2 4. 
+Goal: Not to Exceed 3 3 3. 
+Fines ($) 0 0 0 2018 2019 2020. 
+NOTICES OF VIOLATION
+
+
+33. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT. 
+PROTECTING AIR QUALITY Delta is committed to reducing air emissions, including: carbon monoxide (CO), nitrogen oxides (NOx), particulate matter (PM), sulfur oxides (SOx), volatile organic compounds (VOCs), and hazardous air pollutants (HAPs). Third-party environmental professionals review and audit our air-quality programs for compliance as needed and include a multifaceted inspection of agency reporting, emissions records and work practices.
+GROUND SUPPORT EQUIPMENT (GSE)
+GSE services planes between flights and can contribute to air emissions and affect local air quality through fuel use. During 2020, we increased deployment of electric GSE (eGSE) and plan to continue our strategic transition to eGSE. Currently, 12% of our domestic GSE is electric, and we aim to achieve 25% in 2022. Expansion of eGSE depends, in part, on adequate supply of electric alternatives and airports investing in charging infrastructure. Delta works closely with our business partners to test, develop and encourage more eGSE options. Future investment efforts will center around airports that are investing in facilities that have adequate charging capacity and/or are eGSE-ready.
+
+
+WASTE MANAGEMENT Generating hazardous and nonhazardous waste is closely correlated with the operation of aircraft. Delta maintains a full-service aircraft maintenance organization known as Delta TechOps, whose fleet service efforts account for the vast majority of Delta’s hazardous and nonhazardous waste. Additionally, Delta offers a strong MRO business where we maintain aircraft owned by other airlines or entities. Reducing hazardous and nonhazardous waste throughout the operation is important to meeting our environmental compliance commitments and lowering our overall environmental impact.
+HAZARDOUS WASTE: The generation of hazardous waste is a function of operating a safe and compliant commercial airline. We understand the negative societal and environmental impact of improper handling and disposal of hazardous waste, including the potential harm to the health of our employees and local communities. We proactively track and monitor our hazardous waste generation throughout the system. Delta has waste minimization plans in place at all largequantity generator locations.
+NONHAZARDOUS WASTE: Delta-generated nonhazardous waste includes waste from operations, maintenance and construction activities at airports and other locations where partners separate our materials and send us waste stream volumes. We strive to minimize waste sent to a landfill through waste reduction and recycling. For example, Sky Magazine was removed from seat-back pockets in 2020, which we expect will save more than 4 million pounds of printed paper annually, based on 2019 fleet numbers, and will reduce Delta’s carbon emissions, due to fuel savings from reduced weight onboard.
+34. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+GOALS AND PROGRESS:
+HAZARDOUS WASTE GOAL Our goal is to achieve absolute year-over-year reduction in hazardous waste generation, with the aim to increase transparency and regularly identify ways to reduce our environmental impact.
+In 2020, we generated a total of 338.2 tons of hazardous waste, compared with 670 tons in 2019. This represents a 50% decrease year-over-year, a reduction largely influenced by our 2020 decrease in operations.
+IMPACT OF COVID-19 ON WASTE GOALS. 
+COVID-19 had a significant impact on hazardous and nonhazardous waste generation for the organization with travel substantially reduced for many customers across the globe. With decreased maintenance needs in 2020, hazardous and nonhazardous waste generation also dropped. Additionally, as a result of reduced flying, we accelerated an array of airport construction projects, which increased nonhazardous waste generation.
+NONHAZARDOUS WASTE GOAL We seek to identify materials and opportunities to maximize our landfill diversion, and we target year-over-year reductions.
+In 2020, we produced 1,417 total tons of nonhazardous landfill waste from Delta operations alone, a number largely influenced by decreased operations and remediation/construction projects. This marks a 71% decrease from 4,806 tons in 2019.
+ENVIRONMENT. 
+HAZARDOUS WASTE 2018 444 tons 1,105 tons 2019* 670 tons 4,806 tons 2020 338 tons 1,417 tons. 
+NONHAZARDOUS WASTE * 2019 numbers are due to reclassification of some waste streams and a new reporting platform, allowing for a broader capture of waste volumes and improved accuracy.
+
+
+RECYCLING. 
+Delta was one of the first airlines to recycle passenger aluminum cans, plastic cups and bottles, and newspapers and magazines onboard domestic aircraft. Since 2007, we’ve recycled more than 3 million pounds of aluminum onboard and, with the rebates, have fully funded 12 Habitat for Humanity homes around the United States.
+As a result of our temporary suspension of food and beverage service on domestic flights to protect public health and safety, we temporarily halted recycling onboard. Onboard recycling volumes decreased by 91% in 2020 due to the impact of the pandemic on our business, as well as on the recycling industry as a whole. We resumed onboard recycling in limited locations in the spring of 2021.
+ENVIRONMENT. 
+ON-THE-GROUND DONATIONS. 
+Partnerships and engagement models drive community impact and avoid additional landfill waste. Our warehouses stored a significant amount of inventory that could not be used due to the reduction in passenger travel loads from COVID-19. In turn, we donated many of these items to communities and nonprofit organizations. Highlights of our 2020 donations include:
+Anti-human trafficking & domestic violence organizations received $1.3M (314K lbs.) of food, blankets and amenity kits.
+Emergency response/disaster relief organizations received $920K (242K lbs.) of blankets and amenity kits.
+Nationwide partner organizations received $6.2M (2M lbs.) of perishable food, amenity kits and provisioning items.
+Joint Venture (JV) partnership program with Air France received $194K (28K lbs.) of amenity kits for displaced citizens during the Beirut explosion.
+RECOGNITION. 
+Delta has a longstanding commitment to sustainable air travel. Delta was the No. 1 airline named among America’s Most Sustainable Companies by Barron’s in 2020, the only U.S. airline included in the 2021 S&P Global Sustainability Yearbook and has received the Vision for America Award by Keep America Beautiful and Captain Planet Foundation’s Superhero Corporate Award. Delta has also earned a spot on the FTSE4Good Index for six consecutive years and the Dow Jones Sustainability North America Index for ten consecutive years.
+35. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+
+
+ADVANCING A VISION OF ZERO-IMPACT AVIATION. 
+A long-term vision of zero-impact aviation will guide the actions of Delta through this growing and shifting landscape for environmental sustainability. This means considering all the environmental impacts of aviation—all GHG emissions, waste and noise—and directing our actions toward solutions that minimize or avoid those impacts entirely. Novel airframes, post-combustion emissions control, battery-driven propulsion, hydrogen-based fuels and other aviation innovations could hold incredible promise but are far from a commercial application. However, Delta plans to identify ways to invest in advancing solutions beyond today’s nature-based offsets and bio-based sustainable aviation fuels.
+36. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+ENVIRONMENT
+
+
+Empathy, Respect and Care for All. 
+SOCIAL. 
+HUMAN CAPITAL MANAGEMENT 39. 
+EMPLOYEE HEALTH AND SAFETY 40. 
+DIVERSITY, EQUITY AND INCLUSION 40. 
+CULTURE OF LISTENING AND RESPONDING 44. 
+TRAINING AND DEVELOPMENT 45. 
+COMPENSATION AND BENEFITS 46. 
+WELL-BEING 47. 
+FREEDOM OF ASSOCIATION 47. 
+SUPPLY CHAIN 48. 
+COMMUNITY ENGAGEMENT 51. 
+CUSTOMER DATA PROTECTION 53. 
+SERVING CUSTOMERS WITH DISABILITIES 54
+
+
+38. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+A Moment Unlike Any Other. 
+In 2020, the airline industry faced unprecedented business and economic challenges unlike any other seen in our nearly 100-year history. As the world navigated a global pandemic and resulting financial uncertainty, and confronted a history of racial inequity, Delta continued to put its people first. And so, as we have done in many other difficult moments in our past, we linked arms and took care of one another as colleagues and neighbors.
+We believe Delta people are our strongest competitive advantage, and the high- quality service that they provide sets us apart from other airlines.
+
+
+39. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+HUMAN CAPITAL MANAGEMENT. 
+It is a priority of Delta and its Board of Directors to attract, retain and develop people who understand and are committed to delivering the “Delta Difference” which is core to our brand. In 2020, the dedication and determination of Delta people in response to the unprecedented challenges we faced with the COVID-19 pandemic enabled us to avoid involuntary furloughs of U.S. employees as a result of the following: • Over 50,000 employees volunteering to take unpaid leaves of absence • Approximately 18,000 employees participating in early retirement and voluntary separation programs • Most employees working reduced hours from April 1 through December 31, 2020. 
+Oversight of human capital management matters is exercised through a combination of board committee oversight and senior management involvement.
+• Oversight of all matters related to human capital management, including diversity, equity and inclusion (DEI), talent attraction, development and retention and succession planning • Consultation with independent consultant and management in the development and review of the company’s executive compensation program • Active engagement with management in regular review of the topics above. 
+PERSONNEL &
+COMPENSATION COMMITTEE. 
+EXECUTIVE LEADERSHIP TEAM,
+INCLUDING CHIEF PEOPLE OFFICER. 
+AUDIT. 
+COMMITTEE. 
+Under the guidance of the Chief People Officer, the Human Resources team is responsible for day-to-day development and implementation of all human capital management programs that support our company culture.
+DIVERSITY, EQUITY AND INCLUSION COUNCIL • Senior cross-divisional group that represents the operation, corporate and commercial organizations of our business and is charged with ensuring our diversity, equity and inclusion priorities are relevant and embedded throughout the company, in partnership with The Global Office of Diversity, Equity and Inclusion.
+• Meets regularly to evaluate corporate and divisional metrics, programs and proposals that align with our diversity, equity and inclusion strategy.
+BOARD OF DIRECTORS • Oversight of processes and procedures related to Delta’s Code of Ethics and Business Conduct • Regular review of reports from. 
+Delta’s Ethics and Compliance team on adherence to these policies, including policies that relate to human capital matters • Regular receipt of reports from. 
+Delta’s Corporate Audit team on complaints, allegations and incidents related to sexual and other forms of harassment and workplace discrimination
+
+
+SOCIAL. 
+OUR OBJECTIVES Our people programs seek to support the principal objectives of attraction, retention and development by: • Preparing our employees for key roles and future leadership positions through a variety of training and development programs.
+• Enhancing our culture through efforts aimed at making our workplace more engaging, equitable and inclusive.
+• Rewarding our people through highly competitive total compensation and benefit programs designed to share our success, promote teamwork and support our people’s total wellbeing.
+• Driving employees’ professional and community engagement.
+EMPLOYEE HEALTH AND SAFETY. 
+The health and safety of our employees is foundational to achieving the human capital objectives above. We have long led the airline industry in employee safety and seek to achieve world-class personal safety performance.
+As described in the Safety section of this report, in 2020 we developed a comprehensive COVID-19 employee testing program in conjunction with CVS and The Mayo Clinic at our larger airports and facilities, as well as provided at-home testing kits, in an effort to stop the spread of the virus.
+Due to the pandemic, we created pay protection programs for employees who had symptoms of, were diagnosed with or were exposed to COVID-19, in addition to employees at high risk for severe illness from COVID-19. We also established a notification process for potential COVID-19 exposure. 40. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+WHAT WE SEEK. 
+We intend to make progress on our DEI initiatives through: • Actively seeking diversity, internally and externally, to achieve stronger representation at every level of the organization. We will work to close existing representation gaps so that the diversity in our frontline employees is reflected in their leadership.
+• Boldly pursuing equity through our actions and our influence.
+• Consciously promoting inclusion, understanding that especially in times of uncertainty, the intangibles, like a sense of belonging, become even more important.
+DIVERSITY, EQUITY AND INCLUSION. 
+Our commitment to Diversity, Equity & Inclusion is also critical to effective human capital management. Our goal is to connect and reflect the world—bringing people together and representing the communities that Delta serves. It is why we have committed to building a better future, rooted in DEI. This goes beyond doing the right thing. It is imperative to our success.
+
+
+STRENGTHENED COMMITMENTS In the midst of a global reckoning over racial inequity and injustice that began in 2020, we began an honest, open conversation about where we are as a company and where we need to be to fulfill our commitment to be an anti-racist, anti-discrimination organization. Key elements of our strategy to realize this goal include the following: 41. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+REIMAGINING OUR TALENT STRATEGY • Requiring all hiring slates and interview panels to reflect diversity.
+• Removing qualification barriers for roles that do not require college degrees, allowing equal consideration for experience or certifications, which are more equitably accessible.
+• Expanding our recruiting efforts to include more Historically Black Colleges and Universities, while requiring all schools where we recruit to have strong DEI plans.
+• Becoming a founding member of OneTen, a coalition to create 1 million jobs for Black Americans over the next 10 years, working alongside 30 companies to recruit, hire, train and advance Black talent.
+• Strengthening our corporate internship, MBA and pipeline development programs to increase opportunities for future Black professionals.
+REBUILDING DELTA TO BETTER REFLECT OUR WORLD • Increasing the percentage of Black leaders to better reflect the total population of our employee base.
+• Increasing representation of minority and female officers, including doubling the percentage of Black Officers and Director-level employees by 2025.
+• Building stronger team diversity, representation and inclusion metrics into leadership performance reviews and targets.
+ADDRESSING INEQUITY • Reevaluating our Ready Reserve program by providing the opportunity for that part of our workforce to enter into full-time or seasonal roles. In our case, 79% of this population is an ethnic minority, and we understand that access to healthcare is a significant equity lever for underrepresented communities. Ready Reserves who opt into full-time roles would have access to all Delta benefits, including healthcare.
+CREATING MORE OPPORTUNITIES FOR UNDERREPRESENTED GROUPS • Ongoing advocacy for education, including: enhancing our partnership with Atlanta Public Schools to focus on leadership, innovation and technology, spearheaded by Delta’s Black Business Resource Group (BOLD).
+STEPPING UP INCLUSION TRAINING AT EVERY LEVEL • Introducing an enhancement to Delta’s inclusion training to help leaders and employees understand unconscious bias, training over 20,000 employees in 2020 and aiming to reach all employees by 2021.
+
+
+2% 42. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+WORKFORCE DIVERSITY At the end of 2020, our workforce demographics were as follows:
+ETHNICITY. 
+GENERATION. 
+WWII (DOB < 1946) <1%
+Gen X (DOB 1964-1979) 42%
+Baby Boomer (DOB 1946-1963) 21% Millennial (DOB 1980-1995) 35% Generation Z (DOB >= 1996) 2%
+GENDER. 
+Male 58%
+Female 42%
+VETERANS. 
+Delta has a long-standing commitment to hiring veterans and reservists and approximately 10% of our workforce is made up of veterans.
+10% 22%
+Black 10%
+Hispanic 7% Asian. 
+Two or more 57%
+White 2% Native American, Alaska Native,
+Native Hawaiian and Pacific Islander
+
+
+43. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+FEMALE BLACK. 
+SCALE* 42% 22% 20%
+OTHER MERIT/MANAGER 39% 17% 19%
+GENERAL MANAGER, DIRECTOR, MANAGING DIRECTOR 32% 7% 15%
+VICE PRESIDENT & ABOVE 27% 8% 12%
+OTHER ETHNIC MINORITIES. 
+Let’s Talk ABOUT IT. 
+We often say you can’t solve what you don’t understand, so Delta has continued to place an emphasis on building understanding within our workforce and our world through our “Let’s Talk About It” series—creating an open forum for employees, leaders and external guests alike to have candid conversations around topics like race, gender, justice or inequity. In 2020, we moved these discussions to a virtual format, hosting corporate town halls for our employees to ask questions and have two-way dialogue. We hosted guests like Bryan Stevenson, Atlanta Mayor Keisha Lance Bottoms, Dr. Bernice A. King, John Hope Bryant and Delta Board Members Kathy Waller and Bill Easter. Many of these talks are also made available on Delta’s external platforms, like our In-Flight Entertainment seatback screens, to invite our customers into Delta’s family-style conversations.
+CLOSING THE GAP The social justice movement and pandemic caused Delta to undertake an in-depth evaluation of every area of our organization, including DEI. When our high-level diversity metrics at the end of 2020 are disaggregated, a significant gap between the diversity reflected in our frontline talent and the diversity of their leaders emerges. Our goal is to change that.
+Our focus is on the three areas where the gaps are the largest: women, Black talent and other ethnic minority groups as a whole. We intend to direct our efforts in other diversity areas as well, though we have found that these three are the most underrepresented and contain the largest gaps between frontline employees and our leadership.
+*Scale employees are paid an hourly wage and include pilots, flight attendants, maintenance technicians, customer service and reservation agents, baggage handlers and more.
+
+
+44. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+ADVOCACY FOR EQUALITY Delta recognizes we still have work to do on the road to equality. We are committed to moving the world toward a better, more just tomorrow. Our CEO leads these efforts at Delta. During 2020, he and more than 50 other Georgia CEOs signed a letter initiated by the Metro Atlanta Chamber, urging the Georgia General Assembly to approve and sign into law a comprehensive bill against hate crimes. The bill became law in July and included protections for victims who are targeted based on their race, color, religion, national origin, gender, sexual orientation or disability. Thanks to the advocacy of Delta’s BOLD organization, Delta’s Black employee Business Resource Group, Delta was able to participate early on in this important call-to-action. Delta continues to encourage all employees to promote inclusion, respect for differences, equal opportunity and diversity in the workplace.
+EMPLOYEES SUPPORTING EACH OTHER Delta’s employee-led groups contribute to a more inclusive and engaged climate across the organization’s global footprint. Our Business Resource Groups (BRGs) and four Employee Involvement Groups (EIGs) provide professional development opportunities, drive employee and community engagement and serve as a source for new and innovative business solutions. We believe the growth and influence of our BRGs have been impactful in creating a more inclusive and engaged culture. In 2020, more than 20,000 employees were members of BRGs. These groups ensure that a diverse and inclusive voice remains an intrinsic component of the decision-making process. They also demonstrate Delta’s shared values of treating one another with dignity and respect.
+BRGS. 
+ABLE (Persons with Disabilities) FUSION (Asian/Pacific Islander)
+SHE (Women)
+WORKING FAMILIES BOLD (Black community)
+GENGAGE (Multigenerational)
+VETERANS. 
+EQUAL (LGBTQ+)
+GREEN UP (Sustainability) ADELANTE (Hispanic, Latin)
+EIGS. 
+AIRPORT CUSTOMER SERVICE/CARGO. 
+IN-FLIGHT SERVICE. 
+RESERVATION SALES AND CUSTOMER CARE. 
+TECHNICAL OPERATIONS CENTER. 
+EMPLOYEE SUPPORT GROUPS. 
+WRENCHED HEARTS (Grieving parents)
+HOPE THRIVES (Cancer support)
+CULTURE OF LISTENING AND RESPONDING. 
+We believe that listening, engaging and connecting with employees furthers our human capital management objectives. We have historically done so primarily through our open-door policy, digital communication across all levels of the company, in-person events with senior management and company-wide and division-specific surveys to evaluate employee satisfaction. Beginning in March 2020, senior management has participated in weekly company-wide town hall discussions with our employees. Our CEO has shared weekly memos with all employees regarding our response to the pandemic and our plan to take action to promote racial justice and diversity. We also conducted two company-wide employee surveys during the year to seek feedback on well-being, communication and our COVID-19 response. The average response rate was 31%, with 56% of respondents male and 44% female. The average employee engagement score was 85.
+
+
+AIRPORT. 
+CUSTOMER. 
+SERVICE. 
+FLIGHT. 
+OPERATIONS RESERVATIONS CORPORATE. 
+CARGO IN-FLIGHT SERVICE TECHOPS. 
+SOCIAL. 
+TRAINING AND DEVELOPMENT. 
+An important way we seek to retain the brightest talent is by providing opportunities to grow within Delta. It became even more important in 2020 as we prepared team members who moved into new roles or who came back from leaves of absence and rolled out enhanced DEI training. We continue to modernize our human resources tools and technology in order to streamline and enhance platforms that improve the employee experience. We offer career and skills training to our employees, with employees across the company participating in these programs, as shown below.
+45. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+We provide a range of talent development opportunities, including modern development experiences, new leader training, mandatory compliance training, new hire cultural onboarding and general professional development. These development experiences are created for and by our own employees. We also have a formal mentoring program for employees at all levels and informal coaching, mentoring and performance support as needed. Our online learning database allows employees to view all resources that Delta offers in one place, from webinars to in-person workshops.
+AVERAGE TRAINING HOURS PER EMPLOYEE IN 2020 8 7 6 3 71 22 4 MERIT HOURS 3 15 16 5 51 27 4 SCALE HOURS
+
+
+46. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+COMPENSATION AND BENEFITS. 
+Delta people are categorized as either merit or scale employees, which impacts their compensation and benefit offerings. Benefits are competitive and flexible and include paid time off, retirement savings, comprehensive health care coverage and an array of well-being programs.
+• Merit contributors are paid a salary based on benchmark data from their peers at Delta and across multiple industries, and are evaluated on categories spanning skill and experience to innovation and leadership.
+• Scale employees are paid an hourly wage while also receiving competitive pay offerings and flexible benefits driven by performance, and include pilots, flight attendants, maintenance technicians, customer service and reservation agents, baggage handlers and more.
+PROFIT SHARING For all employees, competitive base pay is one piece of a larger compensation pie. Our Profit-Sharing Program is world leading and recognizes our employees’ contributions in meeting Delta’s financial targets by sharing in Delta’s success. However, given the financial losses resulting from the impact of the pandemic in 2020, February 2021 marked the first time since 2009 that Delta did not make a profit sharing payment.
+SHARED REWARDS The Shared Rewards program helps incentivize employees to deliver safe, on-time, best-in-class travel to our customers. Eligible employees can earn a varying monthly cash bonus based on achieving operational goals across the categories of baggage handling, completion factor, on-time arrivals and domestic Net Promoter Score. Shared Rewards continued to be paid in 2020.
+RETIREMENT Delta sponsors 401(k) plans for all employees. For example, in the plan for flight attendants and ground employees, Delta makes an automatic contribution equal to 3% of eligible earnings while also matching 100% of the first 6% of eligible earnings contributed to the plan.
+EXECUTIVE COMPENSATION Executive compensation is aligned with our compensation standards for all Delta employees but is also tied to the airline’s performance and can be limited if our employees do not receive a payout under our Profit-Sharing Program. The Personnel & Compensation Committee of the Board of Directors sets evaluation criteria and compensation for the CEO and reviews and approves compensation for other officers. Due to the impact of the pandemic on our business and our focus on compensation that is both performance-based and employee-aligned, the salaries of our executive officers were reduced in 2020 following the onset of the pandemic and annual incentive plan payouts were eliminated because no payouts were made to frontline employees under the Profit-Sharing Program. For additional information regarding our executive compensation program in 2020, please refer to our 2021 Proxy Statement.
+
+
+47. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+FREEDOM OF ASSOCIATION. 
+Delta respects all employees’ legal rights, including the rights to free association and collective bargaining. This includes the right to decide whether to be represented by a union or to choose to remain union-free. Our U.S.-based employees are covered by the Railway Labor Act (RLA), the federal law governing labor relations between air carriers and their employees. Under the RLA, employees have the right to decide whether they wish to be represented by a union or to reject union representation. As of December 31, 2020, 23% of our approximately 74,000 full-time equivalent employees were represented by unions. This includes approximately 12,940 Delta pilots and 350 dispatchers, as well as approximately 1,900 pilots and 1,480 flight attendants at Endeavor Air, our wholly owned subsidiary. Certain of our employees outside the U.S. are also represented by unions, work councils or other local representative groups.
+A GREAT PLACE TO WORK We have consistently ranked on national lists for both employee engagement and customer loyalty. For the fourth straight year, Delta landed on Fortune’s 100 Best Companies to Work For list, the only airline to do so. Additionally, Delta was recognized by Glassdoor as one of the Best Places to Work for the fifth consecutive year—ranking 7th on the list of 100 companies.
+WELL-BEING. 
+As we work together to rebuild the health of our business in the wake of the COVID-19 crisis, ensuring our employees’ personal health and well-being is also critically important. As such, we used employee feedback and accelerated investments in employee well-being with a complete reset of the Delta well-being portfolio in 2021. These investments aim to improve the overall experience in making living well a priority for our employees.
+The new well-being program allows employees to access, manage and take full advantage of Delta’s expanded mental health and well-being programs. Use of the many tools and programs also allows employees to earn Delta Health Rewards and Well-Being Rewards. These programs include an employee assistance program for mental health issues, on-demand virtual support from real-time coaches and numerous physical health and fitness tools.
+
+
+WE SEEK SUPPLY CHAIN PARTNERS WHO SHARE OUR VALUES: • Integrity and Ethical Behavior • Fact-Based Decision-Making • Challenging the Status Quo • Enhancing Shareholder Value • Diversity, Equity and Inclusion • Teamwork • Continuous Improvement • Innovation • Excellence in Performance • Respect for People and the Value They Bring. 
+SOCIAL. 
+SUPPLY CHAIN: A FOCUS ON SHARED VALUES. 
+Delta’s Supply Chain Management (SCM) organization has multiple units that partner with other divisions to formulate business and sourcing strategies to deliver sustainable results to the company. This program aims to ensure a continuous supply of cost-competitive, quality goods and services that meet our requirements.
+SUPPLIER DIVERSITY For over 20 years, Delta has extended its values of diversity, equity and inclusion to our supply chain. We seek to drive accountability to this mission through a diversity clause in our supplier code, requiring contractors to share Delta’s commitment to enhancing business opportunities for small-, minority-, women-, veteran- and LGBTQ+-owned businesses and those owned by people with disabilities as first- and second-tier suppliers, in order to further close equity gaps. To accomplish this, we are committed to investing in suppliers with the potential to develop both the scale and the necessary capabilities to compete for contracts at Delta and elsewhere. We have made a commitment to become a member of the Billion Dollar Roundtable, a group of corporate brands that spend a minimum of $1 billion annually with certified, diverse-owned businesses. While we achieved this target in 2018 and 2019, our total eligible supplier spend in 2020 fell by 39% year-over-year due to the impacts of COVID-19, and we spent 48% less than 2019 with small- and certified minority-, veteran-, LGBTQ+- and women- owned businesses. We’re focused on achieving our diversity goals by identifying viable, diverse companies and coaching them on how to successfully compete for Delta business and, in turn, encourage our top suppliers to build similar relationships with diverse businesses.
+48. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+
+
+49. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+During 2020, we strengthened our commitment to supplier DEI. We are committed to supporting our minority-owned business partners through: • Diversifying our supply chain and doubling our spending with Black-owned businesses by 2025, while seeking diverse business partners for Delta’s COVID-19 recovery strategy.
+• Requiring each bidding and request-for-proposal process for new partnerships to include participation from minority-owned businesses, while introducing microdevelopment programs to identify and grow diverse businesses in underrepresented areas of our supply chain.
+• Donating 50 million SkyBonus points to diverse organizations focused on women- and minority-owned businesses.
+• Partnering with the National Minority Supplier Development Council to identify and source diverse suppliers in areas critical to COVID-19 recovery.
+• Evaluating Delta contracts to ensure suppliers are held accountable for adopting or implementing anti-racist policies within their organizations.
+THE SUPPLIER DEVELOPMENT ACADEMY CONSISTS OF THE FOLLOWING COMPONENTS:
+ASSESSMENTS Business assessments to identify specific gaps in capacity and development of a strategic plan.
+EDUCATION A robust business curriculum focused on key areas of business scalability and growth.
+COACHING Monthly strategic coaching and quarterly business intensives intended to accelerate business performance.
+ACCESS Access to key Delta executives, business unit leaders and prime suppliers.
+EXPOSURE Exposure to financial acumen from traditional and nontraditional funding sources.
+Delta recently launched The Supplier Development Academy, a 12- to 18-month program designed to develop diverse supplier candidates into corporate-ready suppliers that are fully equipped to do business with Delta and other global supply chains. The goal of the academy is to equip participating suppliers for success by providing a base of resources, including educational components, access to Delta decision-makers and mentoring support.
+
+
+50. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+ESG INTEGRATION INTO SUPPLY CHAIN MANAGEMENT. 
+IDENTIFYING ESG RISK We believe taking ESG factors into account when we select suppliers adds shareholder value by reducing risks, while also addressing customer desires to do business with a company that values ethical business practices. We established a dedicated team to focus on supplier risk management, from how risk is assessed to how we monitor for remediation. The main pillars of focus encompass operations stability, governance, physical infrastructure, network vulnerability and credit worthiness; however, we also prioritize safety, environmental, human rights and diversity. Additionally, a cross-divisional effort between our Supply Chain, Enterprise Risk Management (ERM) & Corporate Audit teams has resulted in a risk framework that can be applied throughout the enterprise to provide enhanced visibility, tracking and auditing of risk mitigation efforts across business units for review and discussion by leadership. We actively engage with industry peers and other stakeholders to develop our strategic sourcing process to screen all key suppliers for potential ESG risk factors. As part of our procurement policy, we evaluate and seek to mitigate supplier risk when making sourcing decisions.
+ENGAGING SUPPLIERS ON ESG A Supplier Code of Conduct is distributed to all vendors, who are required to read and agree to comply with all requirements. We also offer a Supplier Performance Management program, which regularly evaluates business performance with the goal of maintaining sustainable business processes. While progress of certain efforts was impacted by COVID-19, we’ve been working diligently to procure additional materials with a more sustainable footprint. Building upon best practices from our joint venture partners and corporate customers, we are working to set up our sustainable procurement model, which will guide our vendor selection process and collaboration with key suppliers on sustainable business practices.
+
+
+51. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+COMMUNITY ENGAGEMENT. 
+Delta’s mission to connect the world starts with its commitment to being a strong partner in our communities. Giving back is core to Delta and its culture, demonstrated by our commitment to invest millions of dollars in charitable organizations annually. Delta and The Delta Air Lines Foundation contributed approximately $32 million to support communities in 2020. In a year of uncertainties, our dedication to the communities where we live, work and serve remained intact. In the face of tremendous impact from the COVID-19 pandemic in 2020, Delta people quickly adapted, shifting activations to virtual platforms, volunteering at socially distanced events as much as possible and finding new ways to give back. As we move forward, we continue to dedicate our collective efforts toward building a better world through a focus on our pillars of support: Environment, Equity and Education.
+ENVIRONMENT EQUITY EDUCATION. 
+Delta has been named an honoree of The Civic 50 by Points of Light, the world’s largest organization dedicated to volunteer service, for the past three years in a row.
+Our focus on advancing diversity, equity and inclusion extends into the communities around us. During 2020, we announced our efforts to create more opportunities for underrepresented groups and to support Black business partners in the following ways: • Establishing new partnerships with organizations driving systemic change, primarily in the areas of social injustice, economic empowerment and wealth development.
+• Continuing our partnership with Operation HOPE by supporting business literacy and coaching those in underrepresented communities to equip them with the financial knowledge and tools to create a secure future. Specifically, we are focusing efforts on a partnership to create 1 million Black new business owners by 2030.
+
+
+52. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+DELTA GIVES BACK 2020 YEAR-IN-REVIEW COMMUNITY ENGAGEMENT 350+ free medical flights for healthcare professionals 70,000 face shields manufactured. 
+HELPING HEALTHCARE HEROES 1,000,000 pounds of food 800,000 pounds of snacks & drinks 7,300,000 pounds of assets like amenity kits, blankets and tableware 750 bikes built + 1,300 toys to Toys for Tots $725,000 to Toys for Tots. 
+CONTRIBUTIONS 13. 
+USOs supported $600,000 to nonprofit organizations fighting human trafficking, such as Polaris and Freedom United 75,000 amenity kits to support hospitals 1,000,000 blankets to U.S. shelters and to support disaster relief globally $1,000,000 to the American Red Cross as a member of the Annual Disaster Giving Program (ADGP)
+HUMANITARIAN 7. 
+Pride events supported, including the 50th Atlanta Pride in 2020 $400,000 to the National Park Service for the MLK Jr. National Historical Park. 
+COMMUNITY ENGAGEMENT 5. 
+KABOOM! playgrounds built in 2020, bringing the total built to 35 since 2013 23 schools with 3DE programming 32. 
+Junior Achievement Chapters across four continents. 
+Delta people served their communities by volunteering at food banks, schools, shelters and other community organizations. 
+THE DELTA SPIRIT. 
+Employees gave 10,338 pints of blood, making Delta the #1 corporate donor of blood to the American Red Cross for the 3rd year in a row. 
+AWARDS
+
+
+53. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+CUSTOMER DATA PROTECTION. 
+The goal of our data protection and privacy practices is to collect and process only the personal data that is necessary. Delta has established physical, electronic and managerial safeguards to protect this information. These measures are regularly reviewed to protect against unauthorized access, disclosure and improper use of customer information and to maintain the accuracy and integrity of that data. In the event of policy changes or a data breach, we aim to communicate with customers in a timely manner and assist those who may have been impacted by an incident. All U.S. carriers are subject to laws regarding the protection privacy of customer and employee data that vary between the countries in which we operate. We continue to update our processes to adhere to domestic and international privacy and data protection laws and regulations.
+INTERNAL SAFEGUARDS AND RISK In an effort to ensure data security, Delta follows the National Institute of Technology (NIST) Cybersecurity Framework, which emphasizes identification, protection, detection, response and recovery. All Delta employees are expected to adhere to information security and privacy policies as they handle corporate and customer information in their daily jobs. Delta regularly assesses its information security program capabilities and tools to improve reliability, enhance capabilities and to scan our environment for vulnerabilities and weaknesses. Our information technology owners remediate vulnerabilities identified within established timeframes and report to management on a weekly basis regarding the security risk posture of our information technology assets. Enterprise-wide training is paramount to reducing risk and promoting a secure brand that is serious about protecting customers, employees and company information. All employees and contractors with access to Delta’s information are required to complete annual training, which is updated as new technology, security and privacy issues emerge. Our Information Security Awareness program includes an expert speaker series along with awareness and engagement events that tie to larger Delta initiatives like Relay for Life and LEAD, our annual leadership meeting. The team also participates in National Cybersecurity Awareness Month in October and Data Privacy Day in January. Awareness campaigns throughout the year focus on hot topics such as phishing, anti-tampering, data classification, password protection and ensuring a secure workspace. Training and awareness activities serve not only to educate employees about how to protect Delta’s information assets, but also to give employees the tools they need to protect themselves in the evolving digital world.
+We have established a dedicated Information Technology (IT) Risk team tasked with the goal of ensuring that risk remediation activities are carried out consistently, and that risk remediation controls are operating as intended and within established thresholds.
+
+
+54. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+SOCIAL. 
+SERVING CUSTOMERS WITH DISABILITIES. 
+At Delta, we understand being inclusive and equitable means ensuring an accessible travel experience for all. Delta’s Disability Program office is responsible for maintaining compliance with the legal requirements associated with accessible travel in the various jurisdictions we serve. The office also works across Delta to develop and implement policies and best practices to create a positive travel experience for customers with disabilities.
+A key resource supporting accessible travel is our Advisory Board on Disability (ABD), a volunteer organization comprised of 14 customer-members with a variety of disability-related expertise. For over 10 years, this board has provided guidance on defining policies and procedures that best accommodate the needs of customers with disabilities, including service animal policies. The ABD works across the organization to provide expertise and help ensure inclusive standards throughout our operations. Their involvement on our assistive device working group has been crucial in the development of customer and agent tools and other initiatives to improve the handling and transport of assistive devices, and their partnership with Marketing has been instrumental in the development of internal captioning standards for Delta-created video content.
+Delta also partners with ABLE, our Business Resource Group for employees with disabilities, to ensure their voices and perspectives are included as we shape experiences for customers with disabilities.
+
+
+APPENDIX. 
+SASB INDEX 56. 
+TCFD INDEX 57. 
+ADDITIONAL GHG EMISSIONS DATA 58. 
+EMISSIONS VERIFICATION 58. 
+HISTORICAL EMISSIONS DATA 59. 
+FUEL EFFICIENCY 60. 
+SUSTAINABILITY GLOSSARY 61. 
+LEGAL DISCLAIMER 63
+
+
+56. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX. 
+DELTA 2020 SUSTAINABILITY ACCOUNTING STANDARDS BOARD (SASB) INDEX. 
+TOPIC. 
+ACTIVITY METRICS Available seat kilometers (ASK)
+Passenger load factor. 
+Revenue passenger kilometers (RPK)
+Revenue ton kilometers (RTK)
+Number of departures. 
+Average age of fleet. 
+METRIC CODE. 
+TR-AL-000.A. 
+TR-AL-000.B. 
+TR-AL-000.C. 
+TR-AL-000.D. 
+TR-AL-000.E. 
+TR-AL-000.F. 
+RESPONSE 134,339 million (Available Seat Miles) 55% 73,412 million (Revenue Passenger Miles) 9,175 million (Revenue Ton Miles, includes Cargo) 2,880 average daily departures; 1,051,194 total flights 12.5 years (mainline); 13.4 (mainline + regional carriers)
+TOPIC. 
+GREENHOUSE GAS EMISSIONS. 
+Gross global Scope 1 emissions. 
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets (1) Total fuel consumed (2) Percentage alternate fuel (3) Percentage sustainable fuel. 
+METRIC CODE. 
+TR-AL-110a.1. 
+TR-AL-110a.2. 
+TR-AL-110a.3. 
+TR-AL-110a.3. 
+TR-AL-110a.3. 
+RESPONSE 17,549,100 metric tons CO2e. 
+See section on Protecting the Environment 16,031,893 metric tons CO2e (mainline) <1% <1%
+LABOR PRACTICES Percentage of active workforce covered under collective bargaining agreements (1) Number of work stoppages (2) Total days idle. 
+TR-AL-310a.1. 
+TR-AL-310a.2. 
+TR-AL-310a.2 23% 0
+0. 
+COMPETITIVE BEHAVIOR. 
+Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations. 
+TR-AL-520a.1 N/A. 
+ACCIDENT AND SAFETY MANAGEMENT. 
+Description of implementation and outcomes of a Safety Management System. 
+Number of aviation accidents*
+Number of governmental enforcement actions of aviation safety regulations**
+TR-AL-540a.1. 
+TR-AL-540a.2. 
+TR-AL-540a.3. 
+See section on Health and Safety Above All Else 4 out of 1,051,194 flights in 2020 1*** *Defined according to the International Civil Aviation Organization (Annex 13) and the National Transportation Safety Board (Part 830). Of the four accidents in 2020, three were classified as incidents and one was classified as an accident. The incidents were related to loss of thrust, loss of pressurization and a tailpipe fire/uncommanded evacuation. The one accident involved a crew member injury due to turbulence. No customer was injured in these events.
+** Defined as the number of enforcement actions from the European Aviation Safety Agency (EASA), the U.S. Federal Aviation Administration (FAA), or the equivalent national authorities that are related to aviation safety regulations.
+*** This matter primarily relates to FAA inspection findings regarding our pre-hire drug and alcohol history check process and related record keeping and was fully resolved during 2020.
+
+
+57. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX. 
+DELTA 2020 TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES (TCFD) INDEX. 
+Disclose the organization’s governance around climaterelated risks and opportunities.
+DISCLOSURE FOCUS AREA RECOMMENDED DISCLOSURE a) Describe the board’s oversight of climate-related risks and opportunities.
+b) Describe management’s role in assessing and managing climate-related risks.
+SOURCE. 
+Protecting the Environment - Environmental Sustainability Governance Protecting the Environment - Environmental Sustainability Governance. 
+GOVERNANCE. 
+Disclose the actual and potential impacts of climaterelated risks and opportunities on the organization’s businesses, strategy and financial planning.
+a) Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+b) Describe the climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+c) Describe the potential impact of different scenarios, including a 2°C scenario, on the organization’s businesses, strategy, and financial planning.
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+STRATEGY. 
+Disclose how the organization identifies, assesses and manages climate-related risks.
+a) Describe the organization’s processes for identifying and assessing climaterelated risks.
+b) Describe the organization’s processess for managing climate-related risks.
+c) Describe how processes for identifying, assessing, and managing climaterelated risks are integrated into the organization’s overall risk management.
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+ESG Oversight Protecting the Environment - Climate Risk and Opportunities. 
+RISK MANAGEMENT. 
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities.
+a) Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+b) Disclose Scope 1, Scope 2, and if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.* c) Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+Protecting the Environment - Improving Fuel Efficiency, Carbon Neutral Growth, Reducing Our Emissions. 
+Protecting the Environment - Reducing Our Emissions. 
+Protecting the Environment - Climate Change Goals, Achieving Carbon Neutrality, Improving Fuel Efficiency, Carbon Neutral Growth, Reducing Our Emissions. 
+METRICS AND TARGETS *Due to current reporting year (2020) verification of emissions data trailing the publication of Delta’s annual report, verified emissions data is for 2019. 2020 emissions data will be verified by the end of 2021 and publicly available at cris4.org.
+Delta responds annually to the CDP Climate Change questionnaire. Responses to TCFD disclosure framework are also available in our CDP response, available on cdp.net and delta.com/sustainability.
+
+
+58. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX. 
+ADDITIONAL GHG EMISSIONS DATA. 
+EMISSIONS VERIFICATION. 
+We obtain third party verification of our greenhouse gas emissions on an annual basis. An external assurance statement for emissions can be found below. Ruby Canyon Environmental, Inc., conducts our emissions verification and provides a reasonable level of assurance on our Environmental Statement of Greenhouse Gas (GHG) Emissions for reporting. Verified emissions data beginning with 2005 is publicly available on The Climate Registry website at www.cris4.org. Delta’s annual ESG reporting timeline and annual emissions verification and reporting timelines do not coincide. For this reason, our annual verification of emissions data trails our ESG report by one year. As a result, annual emissions for the 2020 reporting year will be verified after this ESG Report has been published.
+TCR GVP v. 2.1 – Verification Statement Form Page 1 of 3 Last modified: March 2020. 
+Verification Statement. 
+
+This verification statement documents that Ruby Canyon Environmental, Inc (RCE). has conducted verification activities in conformance with ISO 14064-3 and The Climate Registry’s (TCR) General Verification Protocol for the emissions report described below. Member Name: Delta Air Lines (Delta)
+Reporting Year: January 1, 2019 through December 31, 2019. 
+Reporting Boundary: Complete Self-Defined. 
+If self-defined specify boundary:
+Consolidation Methodology:
+Equity Share and Control ( Financial and/or Operational)
+Control Only: ( Financial and/or Operational)
+Equity Share Only. 
+Verification Opinion:
+Conformance. 
+Unable to verify conformance; summarize reason (e.g., “due to data errors” or “due to insufficient supporting evidence”): RCE has conducted a full verification of Delta's emission report to a reasonable level of assurance. Based on RCE's verification activities and findings, Delta's emissions report is prepared in all material respects in accordance with the reporting criteria identified below. GHG reporting criteria against which verification was conducted:
+The Climate Registry’s General Reporting Protocol Version 3.0, dated May 2019. 
+The Climate Registry’s GRP Updates and Clarifications document dated [Month Day, Year]
+Others (specify):
+GHG verification protocols used to conduct the verification:
+The Climate Registry’s General Verification Protocol Version 2.1, dated June 2014. 
+The Climate Registry’s GVP Updates and Clarifications document dated October 2019. 
+Others (specify): 
+Total Entity-Wide Emissions Verified (Control Criteria):
+TCR GVP v. 2.1 – Verification Statement Form Page 2 of 3 Last modified: March 2020 - Total Scope 1 Emissions: 38,161,782.15 metric tons CO2e, consisting of metric tons of each GHG as follows: 37,784,333.73 CO2 6.68 CH4 1,199.95 N2O 5,317.97 HFCs (CO2e) 5.55 PFCs (CO2e) 0 NF3 0 SF6 
+- Biogenic Direct CO2 Emissions (stationary and mobile combustion only): 0 metric tons CO2 - Total Location-Based Scope 2 Emissions: 290,838.85 metric tons CO2e, consisting of metric tons of each GHG as follows: 290,609.83 CO2 0.86 CH4 0.68 N2O 
+- Biogenic Indirect Location-Based CO2 Emissions: 0 metric tons CO2 - Total Market-Based Scope 2 Emissions: 290,838.85 metric tons CO2e, consisting of metric tons of each GHG as follows: 290,609.83 CO2 0.86 CH4 0.68 N2O 
+- Biogenic Indirect Market-Based CO2 Emissions: 0 metric tons CO2. 
+Total Entity-Wide Emissions Verified (Equity-Share Criteria): - Total Scope 1 Emissions: metric tons CO2e, consisting of metric tons of each GHG as follows:
+CO2 CH4 N2O HFCs (CO2e) PFCs (CO2e) NF3 SF6 
+- Biogenic Direct CO2 Emissions (stationary and mobile combustion only): metric tons CO2 - Total Location-Based Scope 2 Emissions: metric tons CO2e, consisting of metric tons of each GHG as follows:
+CO2 CH4 N2O 
+- Biogenic Indirect Location-based CO2 Emissions: metric tons CO2 
+- Total Market-Based Scope 2 Emissions: metric tons CO2e, consisting of metric tons of each GHG as follows:
+CO2 CH4 N2O 
+- Biogenic Indirect Market-Based CO2 Emissions: metric tons CO2. 
+Comments: RCE verified Delta's 1,707,302 retired offsets applied to its Scope 1 emissions total resulting in a net total of 36,454,480.15 tCO2e for Scope 1 emissions.
+TCR GVP v. 2.1 – Verification Statement Form Page 3 of 3 Last modified: March 2020. 
+Attestation: 9/16/2020. 
+Jessica Stavole-Carter, Lead Verifier Date Digital Signature Acknowledgement* 9/16/2020. 
+Nina Pinette, Independent Peer Reviewer Date Digital Signature Acknowledgement*
+Authorization:
+I Stephanie Zhu accept the findings in this Verification Statement and authorize the submission of this verification statement to The Climate Registry on behalf of Delta.
+9/16/2020. 
+Member Representative Signature Date Digital Signature Acknowledgement* *For digital signature: By checking the “Digital Signature Acknowledgement” box, I agree that this verification statement shall be deemed to be “in writing” and to have been “signed” for all purposes and that any electronic record will be deemed to be in “writing.” I will not contest the legally binding nature, validity, or enforceability of this verification statement and any corresponding documents based on the fact that they were entered and executed electronically, and expressly waive any and all rights I may have to assert any such claim.
+
+
+HISTORICAL EMISSIONS DATA. 
+Annual CO2e emissions as verified under The Climate Registry.
+59. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX. 
+SCOPE 1 JET FUEL - MAINLINE. 
+JET FUEL - WHOLLY OWNED CONNECTION CARRIERS. 
+FUEL - GROUND SUPPORT EQUIPMENT. 
+STAT COMBUST FACILITIES. 
+CHEMICALS. 
+REFRIGERANTS. 
+EMERGENCY GENERATORS/FIRE PUMPS. 
+TOTAL SCOPE 1 38,158,943 3,582,676 133,194 55,593 3,469 10,513 834 41,945,222 34,752,728 1,746,486 121,475 49,240 3,409 9,489 862 36,683,689 34,587,237 1,735,385 127,061 42,886 3,349 9,445 864 36,506,227 33,410,292 2,386,000 123,850 46,063 3,289 9,503 880 35,979,877 30,856,830 2,502,162 113,924 78,625 3,229 10,786 881 33,566,436 30,478,076 1,612,966 108,569 79,419 2,202 4,434 887 32,286,554 30,867,314 872,763 107,784 76,404 2,974 4,629 208 31,932,076 30,359,915 465,057 94,706 67,675 2,127 4,820 234 30,994,535 31,159,188 796,754 103,534 78,180 1,751 4,316 220 32,143,943 32,136,374 1,791,597 101,026 77,061 2,678 3,847 191 34,112,774 33,307,679 1,580,388 98,579 68,809 1,190 3,304 168 35,060,116 33,531,795 1,725,731 98,505 75,505 1,386 3,800 135 35,436,857 33,779,560 1,811,492 106,294 78,632 1,304 4,343 217 35,781,844 34,699,897 2,121,572 99,951 68,306 1,192 3,244 239 36,994,401 35,759,375 2,230,657 97,992 68,039 1,959 3,542 218 38,161,781 16,031,893 1,372,534 79,746 60,859 295 3,443 331 17,549,100 10,546,981 1,007,961 52,951 40,508 -
+- 218 11,648,618 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020*
+MAR-DEC 2020, CARBON ONLY. 
+SCOPE 2 DIRECTLY BILLED ELECTRICITY AND NATURAL GAS. 
+LEASED FACILITIES - ELECTRICITY. 
+LEASED FACILITIES - NATURAL GAS. 
+TOTAL SCOPE 2 227,169 193,249 420,418 198,797 176,364 375,161 173,146 155,620 328,765 169,237 155,572 324,809 288,870 138,204 427,074 291,788 117,478 409,266 299,107 117,478 416,585 251,397 117,433 368,831 226,029 115,094 341,123 221,055 115,733 336,787 186,383 106,071 292,454 175,024 111,824 31,778 318,627 156,553 107,057 32,664 296,274 165,872 107,588 33,267 306,727 152,849 104,407 33,583 290,839 128,493 104,207 33,846 266,545 104,219 69,805 22,536 196,561. 
+SCOPE 3 JET FUEL - CONNECTION CARRIERS (NOT WHOLLY-OWNED)
+TOTAL GROSS CO2E. 
+OFFSETS RETIRED. 
+NET EMISSIONS 3,808,637 46,174,277 46,174,277 5,314,419 42,373,268 42,373,268 5,752,552 42,587,544 42,587,544 5,180,279 41,484,965 41,484,965 4,827,151 38,820,661 38,820,661 5,585,016 38,280,835 38,280,835 6,265,095 38,613,757 38,613,757 6,322,131 37,685,497 37,685,497 5,770,732 38,255,798 570,305 37,685,493 4,445,233 38,894,795 1,210,064 37,684,731 4,392,668 39,745,238 2,059,745 37,685,493 4,291,817 40,047,301 2,361,921 37,685,380 4,129,530 40,207,647 2,524,277 37,683,370 3,677,438 40,978,566 3,293,160 37,685,406 3,516,714 41,969,334 1,707,302 40,262,032 1,638,983 19,454,628 12,960,000 6,494,628 1,109,695 12,954,874 12,960,000. 
+Carbon neutrality for emissions from March 2020 forward *2020 emissions are undergoing third-party verification. Final offsets towards carbon neutrality from March 2020 forward will align with 2020 verified emissions.
+
+
+60. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+JET FUEL (GALLONS IN MILLIONS)
+REVENUE PASSENGER. 
+MILES (RPM IN. 
+MILLIONS)
+PASSENGER REVENUE TON MILES (RTM IN. 
+MILLIONS)
+CARGO. 
+TON MILES (RTM IN MILLIONS)
+TOTAL RTM (RTM IN MILLIONS)
+FUEL EFFICIENCY: GALLONS/100 REVENUE TON. 
+MILES. 
+AVAILABLE SEAT MILES (ASM IN. 
+MILLIONS)
+FUEL EFFICIENCY: GALLONS/1000. 
+ASM. 
+Jet fuel from mainline + Connection Carrier operations (differs from 10-K due to exclusion of Delta Private Jet’s fuel use)
+Number of paying passengers multiplied by the distance they travelled in miles (as reported in annual 10-K)
+Weight, in tons, of revenue generating cargo multiplied by distance travelled. 
+Weight, in tons, of paying passengers (estimated 100kg per passenger, including luggage) multiplied by distance travelled. 
+METRIC DEFINED. 
+FUEL EFFICIENCY. 
+Number of seats available to sell multiplied by the distance they travelled (as reported in annual 10-K) 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 3,872 
+3,821 3,853 
+3,765 
+3,825 
+3,889 
+3,982 
+4,009 4,025 4,103 4,207 1,934 188,943 
+193,469 192,767 
+192,974 194,988 
+202,925 209,625 213,098 
+217,712 
+225,243 
+237,680 73,412 2,256 2,272 2,370 2,385 2,350 2,357 
+2,193 1,980 2,148 2,170 
+1,995 1,082 20,827 
+21,326 
+21,249 
+21,272 
+21,494 22,369 23,107 23,490 23,999 24,829 26,200 8,092 23,083 
+23,598 23,619 23,657 23,843 
+24,726 25,300 25,470 
+26,147 26,998 28,195 
+9,175 16.77 16.19 16.31 15.92 
+16.04 
+15.73 15.74 15.74 15.39 15.20 14.92 21.08 230,331 
+232,684 234,656 
+230,415 232,740 239,676 246,764 251,867 254,325 263,365 275,379 
+134,339 16.81 16.42 
+16.42 16.34 16.43 16.23 16.14 
+15.92 
+15.83 15.58 15.28 
+14.40. 
+APPENDIX. 
+Sum of Passenger and Cargo Revenue Ton Miles
+
+
+SUSTAINABILITY GLOSSARY. 
+CARBON AVOIDANCE (external to Delta, an offset type) Offsets that result in avoidance of additional emissions, such as preventing deforestation and protecting forests to ensure they continue to absorb carbon dioxide.
+CARBON DIOXIDE Carbon dioxide is a naturally occurring gas. It is also a by-product of burning fossil fuels (such as oil, gas and coal) and industrial processes (such as cement production).
+CARBON NEUTRAL Carbon neutrality means for each ton of carbon dioxide we emit, we are securing a verified, certified ton of carbon dioxide reduction. In the short term, Delta intends to achieve its carbon-neutral goal by reducing emissions through direct reductions from fleet and operational efficiencies, as well as investments in all types of verified carbon offsets: reductions, avoidance and removals. This includes the airline’s jet fuel consumption emissions as well as indirect emissions from power generated elsewhere, also known as Scope 1 and 2 emissions. Delta’s carbon-neutral efforts also cover emissions generated by fuel consumption from Delta Connection carriers, which are Scope 3 emissions. See Scope 1, 2 and 3.
+CARBON OFFSET A carbon offset is a certificate generated for the reduction of one metric ton of carbon dioxide emissions from an offset project.
+CARBON REDUCTION (within Delta) Carbon reduction in aviation is achieved by reducing fuel burn. This can be done in our operation by flying more efficiently due to routing, engine performance management, or reducing weight, as examples. Reductions can also occur by using a more fuel-efficient fleet and new fuel technologies, like sustainable aviation fuel.
+CARBON REDUCTION OFFSETS (external to Delta, an offset type) Offsets that invest in technology or projects that result in a reduction in emissions. Examples are conversions to lower-carbon energy sources such as wind and solar.
+CARBON REMOVAL (external to Delta, can be an offset type) Carbon removal is the process of removing carbon dioxide from the atmosphere and storing it. Examples include planting new forests (afforestation/reforestation), increasing the amount of carbon stored in soils (soil carbon sequestration) and building machines that suck carbon dioxide directly out of the atmosphere and bury it (direct air capture).
+CARBON SEQUESTRATION Carbon sequestration is the process of capturing and storing atmospheric carbon dioxide. It is one method of reducing the amount of carbon dioxide in the atmosphere with the goal of reducing global climate change.
+GREENHOUSE GASES Gases that contribute to the atmosphere’s greenhouse effect by absorbing infrared radiation. These include carbon dioxide, methane, nitrous oxide and fluorinated gases. The net effect of greenhouse gases is a warming effect on the earth’s climate.
+61. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX
+
+
+SCOPE 1 EMISSIONS Scope 1 includes all emissions generated as part of the operation of Delta’s air transportation business: jet fuel from Delta mainline, Endeavor Air, a wholly-owned subsidiary of Delta Air Lines, plus emissions from ground support equipment and other group operations, chemical use, etc. This does not include the Monroe Refinery.
+SCOPE 2 EMISSIONS: Scope 2 includes emissions that result from the generation of electricity, heat or steam purchased by Delta in both owned and leased facilities, such as airport spaces.
+SCOPE 3 EMISSIONS Scope 3 includes all jet fuel from Delta Connection carriers that we do not wholly own (SkyWest and Republic). It does not include airlines in which we participate in a joint venture. It also does not include our supply chain emissions (emissions generated by our vendors). We are in the process of understanding the impact of our supply chain and its associated emissions.
+SUSTAINABLE AVIATION FUEL An alternative to fossil fuel, sustainable aviation fuel can reduce emissions by up to 80% during its full life-cycle. Examples include biofuels and synthetic fuels. Some definitions of sustainable aviation fuel do not include synthetic fuels.
+62. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX
+
+
+63. 
+DELTA AIR LINES, INC | 2020 ESG REPORT |
+APPENDIX. 
+LEGAL DISCLAIMER. 
+The statements in this report that are not historical facts, including statements regarding our estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments or strategies for the future, should be considered “forward-looking statements” under the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Such statements are not guarantees or promised outcomes and should not be construed as such. All forward-looking statements involve a number of risks and uncertainties that could cause actual results to differ materially from the estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments and strategies reflected in or suggested by the forward-looking statements. These risks and uncertainties include, but are not limited to, the material adverse effect that the COVID-19 pandemic is having on our business; the impact of incurring significant debt in response to the pandemic; failure to comply with the financial and other covenants in our financing agreements; the possible effects of accidents involving our aircraft; breaches or security lapses in our information technology systems; breaches or lapses in the security of technology systems on which we rely; disruptions in our information technology infrastructure; our dependence on technology in our operations; our commercial relationships with airlines in other parts of the world and the investments we have in certain of those airlines; the effects of a significant disruption in the operations or performance of third parties on which we rely; failure to realize the full value of intangible or long-lived assets; labor issues; the effects of weather, natural disasters and seasonality on our business; the cost of aircraft fuel; the availability of aircraft fuel; failure or inability of insurance to cover a significant liability at Monroe’s Trainer refinery; the impact of environmental regulation on the Trainer refinery, including costs related to renewable fuel standard regulations; our ability to retain senior management, key employees and our culture; significant damage to our reputation and brand, including from exposure to significant adverse publicity; the effects of terrorist attacks or geopolitical conflict; competitive conditions in the airline industry; interruptions or disruptions in service at major airports at which we operate or significant problems associated with types of aircraft or engines we operate; the effects of extensive government regulation on our business; the impact of environmental regulation and climate change risks on our business; and unfavorable economic or political conditions in the markets in which we operate.
+Additional information concerning risks and uncertainties that could cause differences between actual results and forward-looking statements is contained in our Securities and Exchange Commission filings, including our Annual Report on Form 10-K for the fiscal year ended December 31, 2020. Caution should be taken not to place undue reliance on our forward-looking statements, which represent our views only as of May 6, 2021, and which we have no intention to update except to the extent required by law.

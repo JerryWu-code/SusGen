@@ -1,0 +1,375 @@
+CLIMATE REPORT 2020. 
+Sept. 29, 2020
+
+
+EXECUTIVE SUMMARY .................................................................................................3. 
+INTRODUCTION ...............................................................................................................4. 
+GOVERNANCE ..................................................................................................................5. 
+Board Oversight .......................................................................................................5. 
+Senior Management ................................................................................................6. 
+STRATEGY ..........................................................................................................................9. 
+Portfolio Transformation .....................................................................................10. 
+Solar and Batteries ................................................................................................. 11. 
+Nuclear ....................................................................................................................... 13. 
+Natural Gas ............................................................................................................... 13. 
+Wind ............................................................................................................................ 14. 
+Coal ............................................................................................................................. 15. 
+Emerging Technologies ....................................................................................... 16. 
+Retail ........................................................................................................................... 16. 
+Climate Advocacy .................................................................................................. 17. 
+RISK MANAGEMENT..................................................................................................... 19. 
+Climate Scenario Analysis .................................................................................. 19. 
+Identified Climate Risks ...................................................................................... 22. 
+Opportunities ......................................................................................................... 23. 
+METRICS AND TARGETS ........................................................................................... 25. 
+CONTENTS
+
+
+VISTRA 2020 CLIMATE REPORT 3. 
+CLIMATE CHANGE IS A DEFINING ISSUE OF OUR TIME, IMPACTING ALL GLOBAL citizens, industries, and nations. It is a collective issue that must be addressed collec- tively, with all participants doing their part to reduce their environmental footprint. As an integrated retail electricity provider and producer of electric power, Vistra is com- mitted to combating climate change through, most importantly, the reduction of greenhouse gas (GHG) emissions from our business activities. As we adapt our business operations to compete in an economy with drastically lower emissions, Vistra perceives the anticipated impacts of climate change and the related potential global mitigations will be not threats to the business, but rather opportunities for growth and develop- ment. In the pages that follow we outline the details behind this belief, as informed by our climate scenario analysis and corresponding risk assessment.
+To provide further transparency into Vistra’s risk assessment and long-term business strategy, we are publishing this Climate Report according to the guidance set forth by the Task Force on Climate-related Financial Disclosures (TCFD). Key takeaways from the report include: 9 An update to our GHG emissions reduction targets: • Goal to achieve a 60% reduction in CO2 equivalent emissions by 2030, as compared to a 2010 baseline, an increase of nearly 20% from Vistra’s prior 2030 emissions reduction target • Long-term objective to achieve net-zero carbon emissions by 2050 9 Sustainability and Risk Committee of Vistra’s board of directors oversees climate-related risks and opportunities (including those related to GHG reductions), as well as monitors environmental performance 9 Vistra’s strategy to achieve emissions reduction targets and ensure the long-term sustainability of our business includes a transformation of our portfolio, with approximately 6,000 megawatts (MW) of renewable investments along with approximately 7,000 MW of coal retirements expected over the next 10 years • Current development includes nearly 1,000 MW of solar and energy storage capacity in Texas and nearly 450 MW/1,800 megawatt hours (MWh) of energy storage capacity in California 9 Most climate scenarios forecast the utilization of natural gas resources will increase for reliability purposes in the U.S. as renewable penetration increases; Vistra’s fleet of low-cost, efficient, and relatively lower-emitting natural gas generating assets will be critical resources to maintain the reliability and affordability of electricity in the U.S. for the next several decades; in addition, as hydrogen technology advances Vistra’s gas fleet may be able to be retrofitted to use hydrogen as a fuel 9 Vistra’s established risk management process evaluates climate-related risks for their potential severity and likelihood of occurrence over different time horizons 9 In management’s view, our climate scenario analysis found that climate change opportunities outweigh climate-related risks, with electricity demand expected to increase in the next 10 to 30 years as a result of the electrification of the economy 9 Vistra’s strategy is expected to be resilient under various climate scenarios. 
+EXECUTIVE SUMMARY
+
+
+VISTRA 2020 CLIMATE REPORT 4. 
+ABOUT VISTRA CORP.
+Vistra (NYSE: VST) is a leading, Fortune 275 integrated retail electricity and power generation company based in Irving, Texas, providing essential resources for customers, commerce, and com- munities. Vistra combines an innovative, customer-centric approach to retail with safe, reliable, diverse, and efficient power generation. The company brings our products and services to market in 20 states and the District of Columbia, including six of the seven competitive wholesale markets in the U.S. and markets in Canada and Japan, as well. Serving nearly 5 million residential, commercial, and industrial retail customers with electricity and natural gas, Vistra is the largest competitive resi- dential electricity provider in the country and offers over 50 renewable energy plans. The company is also the largest competitive power generator in the U.S. with a capacity of approximately 39,000 megawatts powered by a diverse portfolio, including natural gas, nuclear, solar, and battery energy storage facilities. In addition, Vistra is a large purchaser of wind and solar power. The company is currently constructing a 400-MW/1,600-MWh battery energy storage system in Moss Landing,
+California, which will be the largest of its kind in the world when it comes online. Vistra is guided by four core principles: (1) we do business the right way, (2) we work as a team, (3) we compete to win, and (4) we care about our stakeholders, including our customers, our communities where we work and live, our employees, our suppliers, and our investors.
+ABOUT THIS REPORT. 
+As part of our commitment to transparency, Vistra is releasing our first Climate Report that fol- lows the recom mendations of the TCFD. This document discusses our approach to evaluating and managing climate-related risks and opportunities and is guided by the TCFD’s four pillars: (1) gover- nance, (2) strategy, (3) risk management, and (4) metrics and targets.
+INTRODUCTION. 
+For additional information about our environmental, social, and governance (ESG) efforts, see our 2019 Sustainability Report and accompanying 2019 Sustainability Acc ounting Standards Board (SASB) Standards Table and 2019 Global Reporting Initiative (GRI) Index.
+GOVERNANCE. 
+Vistra’s Sustainability and Risk Committee of the Board of Directors has oversight over climate-related risk and opportunities. Executive management and the chief sustainability officer (CSO) provide day-to-day management of our climate-related activities.
+STRATEGY Vistra utilizes climate scenario analyses to incorporate climate change issues into our short-, medium-, and long-term strategies.
+RISK MANAGEMENT Vistra includes climate-related risks and opportunities in our existing risk management process.
+METRICS AND TARGETS Vistra measures and discloses GHG emissions and other environmental performance indicators and has adopted long-term climate targets.
+
+
+VISTRA 2020 CLIMATE REPORT 5. 
+VISTRA HAS A SOUND GOVERNANCE STRUCTURE IN PLACE TO GUIDE THE COMPANY through the various risks it faces, including climate change, while leveraging changing market conditions, policies, and consumer needs to transform our generation portfolio and provide “green” offerings for our customers. Vistra’s board of directors and man- agement team are focused on positioning Vistra as a good steward of the environment and a sustainable leader among power generators. The board of directors supports the strategic goals of Vistra’s management team to preserve the company’s long-term value and transform our generation portfolio to cleaner sources. Our board and man- agement teams are comprised of industry veterans with expertise across both power generation and retail, encompassing a diverse set of experiences to provide necessary oversight and governance.
+BOARD OVERSIGHT. 
+In July 2019, Vistra determined to enhance the governance over our sustainability pol- icies and practices by expanding the responsibility of the former Risk Committee of the board to include sustainability oversight. The Risk Committee was renamed the. 
+Sustainability and Risk Committee, which now oversees Vistra’s assessment of GHG- related risks, including risks related to climate change, in addition to its prior oversight of. 
+GOVERNANCE. 
+BOARD OF DIRECTORS OVERSIGHT OF CLIMATE-RELATED RISKS. 
+BOARD OF DIRECTORS. 
+EXECUTIVE MANAGEMENT. 
+MANAGEMENT COMMITTEE. 
+COMMITMENTS COMMITTEE. 
+RISK MANAGEMENT COMMITTEE. 
+SUSTAINABILITY AND RISK COMMITTEE. 
+CSO-LED SUSTAINABILITY COMMITTEES 
+
+
+
+VISTRA 2020 CLIMATE REPORT 6. 
+Vistra’s risk management process for the identification, evaluation, and mitigation of enterprise risks. In addition, as denoted in its charter, the Sustainability and Risk. 
+Committee serves in an advisory role to management in the development and implemen- tation of Vistra’s sustainability policies and practices and in our approach to external sustainability reporting. The Sustainability and Risk Committee also reviews strategy related to sustainability and oversees and monitors Vistra’s compliance with our GHG emissions reduction targets and progress toward achieving those commitments.
+Sustainability and climate-related issues are discussed at each scheduled quarterly. 
+Sustainability and Risk Committee meeting and on a more frequent basis as necessary.
+For example, in October 2019 Vistra’s CSO reviewed Vistra’s recently announced GHG emissions reduction goals and the correspond- ing strategy to achieve to those goals with the. 
+Sustainability and Risk Committee.
+In addition, the full board annually reviews Vistra’s business plans, budget, major capital expen- ditures, and performance objectives. Climate change initiatives, including generation portfolio transition plans in the form of both solar and bat- tery development and coal plant retirements, are included in the strategy and budgets presented to the board.
+SENIOR MANAGEMENT. 
+Climate-related risks and opportunities are monitored by a variety of individuals within the. 
+Vistra organization, with Curt Morgan, Vistra’s chief executive officer (CEO), having direct oversight. Morgan has over 37 years of expe- rience in the energy industry, providing him with extensive knowledge of the electric grid, competitive markets, regulatory oversight, and applicable technologies. Morgan’s experience has been invaluable to Vistra as the company has embarked on a strategic transformation, including the retirement of a significant number of coal assets while adding incremental renewable generation to our portfo- lio. Morgan’s past experience leading organizations that have retired coal assets, such as Energy Capital Partners’ Brayton Point in Massachusetts, and recent actions at Vistra,
+GOVERNANCE. 
+Sustainability and Risk Committee. 
+The Sustainability and Risk Committee is comprised of three independent directors who have experience in analyzing climate risks across the enterprise, advocat- ing for appropriate climate-related policies, and creating long-term sustainable strategy.
+Hilary Ackermann, chair of the Sustainability and Risk. 
+Committee, previously served as the chief risk officer at. 
+Goldman Sachs, responsible for all enterprise-wide risk assessment.
+Lisa Crutchfield has led various legislative advocacy groups for the implementation of renewable standards in certain states, created a carbon reduction strat- egy for an electric utility, negotiated renewable offtake agreements, launched renewable energy product offer- ings, developed portfolio strategies for the purchase of renewable energy credits, and designed and imple- mented energy efficiency programs for various utilities, among other sustainability-related experience through- out her career.
+Jeff Hunter has served as the senior managing direc- tor for an investment company focused exclusively on lower carbon and renewable energy infrastructure investments.
+
+
+VISTRA 2020 CLIMATE REPORT 7 retiring nearly 7,500 MW of coal plants, have informed Vistra’s strategy as it seeks to both assist local communities plan for the future reduction in tax base that follows an asset retire- ment and work with displaced employees to transition them to new roles, either inside or outside of the company through outplacement assistance. In addition, Morgan has led. 
+Vistra’s transformation from a company that produced nearly 70% of its output from coal in the year prior to his appointment as CEO to one that contributes approximately 20% of its earnings from coal today, with a plan to reduce coal exposure to less than 10% of its earn- ings by 2030 — all while investing in renewables and battery energy storage.
+Reporting to the CEO through the chief financial officer (CFO), the CSO role was for- malized in July 2019 and is responsible for the development, implementation, and management of Vistra’s sustainability strategy and related ESG initiatives. The CSO has a dual role as vice president of investor relations, providing the benefit of hearing from and communicating directly with stakeholders, including investors, regarding Vistra’s sustain- ability initiatives. The CSO presents to the Sustainability and Risk Committee of the board at least quarterly, at each regularly scheduled committee meeting. Within the Vistra man- agement team, the CSO is a member of Vistra’s Management Committee, which consists of the CEO, his direct reports, and other leaders who represent key business areas and support functions. The Management Committee meeting forum includes discussion and decision-making related to general strategy, policy items, and operational updates. The. 
+CSO presents to the Management Committee as well as to the management-level Risk. 
+Management Committee on a routine basis. The Risk Management Committee, chaired by the CFO, provides risk management oversight, monitoring, control, and guidance for all risk management activities at Vistra, and it approves risk management activities within limits delegated by the board of directors. These two committees provide a forum for discussion and monitoring of climate-related issues with leaders from the risk, planning, strategy, reg- ulatory affairs, government affairs, legal, retail, and operations teams.
+The CSO also leads two working committees: (1) the Sustainability Reporting. 
+Committee, whose membership includes internal stakeholders providing the met- rics and content for the annual sustainability report and various ESG surveys, and (2) the Sustainability Advocacy Committee, whose members include internal stakehold- ers involved in climate policy development and advocacy. The objectives and progress of the initiatives managed by these committees are reported to the Management. 
+Committee by the CSO as important matters arise.
+Vistra’s vice president of environmental health and safety (VP-EHS), reporting to the chief operating officer (COO), is responsible for the day-to-day management and over- sight of environmental reporting, performance, and compliance, as well as employee safety programs. The COO and/or the VP-EHS reports quarterly to the board of direc- tors on these topics. The CSO and VP-EHS coordinate efforts regarding Vistra’s emissions reduction targets and reporting of performance. Additionally, the VP-EHS reports environmental compliance metrics on a monthly basis to Vistra’s Compliance. 
+GOVERNANCE
+
+
+VISTRA 2020 CLIMATE REPORT 8. 
+Leadership Team which is responsible for facilitating reporting on all compliance areas throughout the business to the Management Committee and the Audit. 
+Committee of the board of directors via Vistra’s chief compliance officer (CCO).
+Vistra’s chief risk officer (CRO) leads our enterprise risk assessment and management process, which includes climate-related risks. The CRO meets periodically with every functional group in Vistra to review the risk universe for any relevant updates, includ- ing performing an in depth annual review. During the annual review process new risks are added, outdated risks are removed, and the likelihood and severity of all risks are evaluated. The output of this process is then reviewed by Vistra’s Risk Management. 
+Committee and reported to the Sustainability and Risk Committee of the board. Vistra’s management utilizes the output from the risk framework to anticipate emerging risks, integrate risk identification into business planning, and take steps to assess and miti- gate the potential impact of any identified risks on the operations and performance of the business.
+In addition, Vistra’s management works with outside consultants and experts who inform and train the management team on climate issues and sustainability trends.
+For example, in 2019 Vistra management engaged Boston Consulting Group for a series of workshops on climate change, which included guest speakers such as Joseph. 
+Majkut, PhD and Director of Climate Policy at Niskanen Center. In 2020, Vistra has con- sulted with McKinsey on climate issues and sustainability trends and engaged Rivel to support Vistra’s sustainability initiatives and reporting. With collective oversight of cli- mate-related activities by many individuals, Vistra ensures that climate strategy, risk management, and opportunity identification are integrated throughout all of Vistra’s businesses and departments. All employees must adhere to Vistra’s Environmental. 
+Principles Policy, which formalizes the commitment we have made to improving the environment. Nine environmental principles are described in this policy, and all Vistra employees conduct business and make decisions with these environmental principles in mind. In fact, Vistra’s corporate objectives for 2020 include the evaluation of various climate change initiatives, as listed below. The success of these corporate objectives impact Vistra’s Annual Incentive Plan award for all employees.
+• Participating in legislative and regulatory efforts including support of market-based greenhouse gas abatement solutions • Lobbying federal and state officials on key items, including support of carbon abatement programs • Leading on important issues including GHG abatement • Enhancing ESG disclosures • Evaluating and pursuing investments in retail, renewables, batteries, and other relevant technologies. 
+GOVERNANCE
+
+
+VISTRA 2020 CLIMATE REPORT 9. 
+ELECTRICITY IS AN ESSENTIAL PRODUCT — AND ITS IMPORTANCE HAS NEVER BEEN more clear than in the midst of the COVID-19 pandemic in 2020, as reliable power has allowed people to shelter in place and has kept lifesaving medical equipment running.
+Vistra is committed to providing reliable and cost-effective electricity for our cus- tomers, commerce, and communities. Vistra’s business model — one that prioritizes a strong balance sheet and low-cost, integrated operations — combines an innova- tive, customer-centric approach to retail with safe and efficient power generation. We believe our integrated operations provide resiliency and a unique competitive advan- tage in the markets where we operate. In devising our long-term strategy, Vistra has taken a balanced approach as we evolve our generation fleet while continuing to pro- vide cost-effective and reliable power to our customers. We are committed to leading in the climate change effort as we invest in zero-carbon resources, retire coal assets, and support and invest in environmentally-sound solutions that also help reliably and affordably meet the growing demand for power. While the transition cannot hap- pen overnight, our team is taking strategic actions today that we expect will have a meaningful impact on our carbon footprint tomorrow. Our climate change initiatives are governed by our four core principles, primary among them is: we do business the right way. This means that our strategic decisions are informed by all of our stake- holders — customers, suppliers, local communities, employees, contractors, regulators, politicians, investors, and the environment.
+In 2019, Vistra committed to long-term emissions reduction targets, announcing a goal to achieve a greater than 50% reduction in CO2 equivalent emissions by 2030 with a long-term objective to achieve a greater than 80% reduction in CO2 equivalent emissions by 2050, each as com- pared to a 2010 baseline.
+On the morning of Sept.
+29, 2020, we announced that our strategic plans support accelerating our emissions reduction targets with an updated expectation to achieve a 60% reduction in CO2 equivalent emissions by 2030 with a long-term objective to achieve net-zero carbon emissions by 2050, assuming necessary advancements in technology and sup- portive market constructs and public policy. This commitment builds on the billions of dollars we have already invested to control emissions, to make our existing power plant fleet more efficient, and to advance our generation fleet into newer, more efficient, and 2030: GOAL TO ACHIEVE A 60% REDUCTION IN CO2 EQUIVALENT EMISSIONS BY 2030 AS COMPARED TO A 2010 BASELINE 2050: LONG-TERM OBJECTIVE TO ACHIEVE NET-ZERO CARBON EMISSIONS BY 2050. 
+STRATEGY
+
+
+VISTRA 2020 CLIMATE REPORT 10 lower-emitting resources, including renewables, batteries, and state-of-the-art, highly efficient, natural gas-fueled assets.
+The achievement of these emissions reduction targets and our response to climate- related risks inform our sustainable business strategy. In the last five years, Vistra has transitioned our generation portfolio from one that was largely coal to one that is predominately natural gas-fueled. In addition, we invested in our first solar plant in. 
+Texas, and we are currently developing the largest battery energy storage facility of its kind in the world in California. Over the next 10 years, we expect to continue this tran- sition of our generation portfolio with additional expected coal retirements combined with meaningful incremental investments in renewables and batteries. Looking for- ward, with a robust renewable portfolio and a low-emitting, and efficient natural gas fleet available to serve as a critical low-cost, flexible, dispatchable resource and reli- ability backstop to the growing number of intermittent renewable resources on the grid, we expect Vistra will be in an industry-leading position. With climate change as a core priority among politicians, investors, and customers, Vistra believes the next sev- eral decades will reflect meaningful advancements in technology and regulatory policy for renewables and carbon abatement that will further propel Vistra to achieve net-zero carbon emissions.
+2020E 0.3% 0.7% 0.5% 27% 28% 9% 10% 20% 29% 44% 64% 38% 65% 9% 6% 18% 6% 7%
+Retail. 
+Gas. 
+Nuclear. 
+Renewables. 
+Oil. 
+Capacity by Fuel Type. 
+Ongoing Ops Adj. EBITDA by Source1 2030E ILLUSTRATIVE 10-YEAR OUTLOOK. 
+Coal 18%
+STRATEGY 1. As of Sept. 2020. Realized hedges allocated by generation volumes within segments. Support costs and Corporate segment expenses allocated based on plant capacity.
+
+
+VISTRA 2020 CLIMATE REPORT 11. 
+As renewable investments are continuing to play a greater role in. 
+Vistra’s strategy, we have introduced a new brand, Vistra Zero, to identify our zero-carbon generating assets. All of Vistra’s renew- able resources, including the Upton 2 Solar and Energy Storage. 
+Facility and the Moss Landing and Oakland battery energy stor- age projects, as well as our nuclear facility, will be under the Vistra Zero brand. Vistra. 
+Zero will power our company and the country into a clean energy future.
+PORTFOLIO TRANSFORMATION. 
+We believe it is imperative that we transform our wholesale company over the next several years to support our long-term sustainability. Vistra recently shared with our stakeholders our 10-year outlook, shown above, which provides a glimpse into the potential transformation of our business, forecasting an asset mix that we believe will support electric system reliability while providing customers with cost-effective energy that meets their sustainable preferences and significantly reduces our carbon footprint. Notably, this 10-year view assumes Vistra will retire approximately 7,000 MW of additional coal generation and invest in approximately 6,000 MW of renewables and battery energy storage between now and 2030. Vistra is focused on becoming a clean energy company with expectations that nearly 20% of our EBITDA and gen- eration capacity will be derived from renewable assets by 2030. We expect we will achieve this transformation of the supply side of our business through approxi- mately 5 billion dollars of investments over the next decade. This transforma- tion of our generation portfolio, combined with our existing low-emitting natural gas fleet and leading retail business with sig- nificant and growing “green” offerings for our customers, is the Vistra of the future.
+In the paragraphs that follow, we will dis- cuss this strategy in more detail.
+SOLAR AND BATTERIES. 
+Vistra’s current renewable operations, the 180-MW Upton 2 solar facility and 10-MW/42-
+MWh lithium-ion battery energy storage system, represent only 0.5% of Vistra’s total generation capacity today. Vistra’s 10-year view assumes the addition of approximately 6,000 MW of renewables and battery energy storage between now and 2030, which, when combined with anticipated coal plant retirements, would expand Vistra’s capacity from renewable generation to nearly 20%.
+STRATEGY. 
+Vistra’s Upton 2 Solar and Energy Storage Facility is a proven model for the company’s future renewable investments.
+
+
+VISTRA 2020 CLIMATE REPORT 12. 
+CALIFORNIA BATTERY PROJECTS. 
+In June 2018, Vistra announced that the company entered into a 20-year resource adequacy contract with Pacific Gas and Electric Company (PG&E) for the Phase 1 development and construction of a 300-MW/1,200-MWh battery energy stor- age project at our Moss Landing Power Plant site in Moss Landing, California. In. 
+April 2020, Vistra announced the Phase 2 development and construction of an addi- tional 100-MW/400-MWh battery energy storage project at our Moss Landing Power. 
+Plant site, bringing the site development to a total of 400-MW/1,600-MWh of battery energy storage. When the first of the Moss Landing battery projects comes online in. 
+December 2020, it will be the largest of its kind in the world and will position Vistra as a market leader in utility-scale battery development.
+Continuing battery development in California, in 2019 Vistra entered into a 10-year resource adequacy contract with East Bay Community Energy (EBCE) for the devel- opment and construction of a 20-MW/80-MWh battery energy storage project at our. 
+Oakland Power Plant site in Oakland, California. In April 2020, the project size was increased to 36.25-MW/145-MWh. The Moss Landing and the Oakland battery proj- ects will help increase local electric reliability by turning on quickly when incremental power supply is needed (particularly when California’s large solar generation fleet powers down in the evening), and they will assist in curtailing fossil-fueled peaking power plants, lessening California’s reliance on fossil-fueled electric generation and associated water requirements.
+ERCOT SOLAR AND ENERGY STORAGE DEVELOPMENTS. 
+Vistra expects to invest, on average, $500 million of equity per year on renewable generating assets (including solar and battery energy storage) and retail businesses as our portfolio continues to transition away from carbon-heavy generating resources.
+Vistra has been actively evaluating the development of over 2,000 MW of renewal projects in our key market, ERCOT, and in. 
+Sept. 2020 we announced that our board approved proceeding with the first phase of our ERCOT renewable developments.
+Starting in 2020, Vistra will spend approxi- mately $850 million on six solar projects and one battery energy storage project in Texas.
+The seven sites are located in diverse geog- raphies throughout the state on land that. 
+Vistra already owns or leases.
+With our market-leading commercial team, development project management skills,
+STRATEGY. 
+NET CAPACITY (MW)
+ANDREWS. 
+OAK HILL UPTON 2 PHASE III. 
+EMERALD GROVE
+
+
+VISTRA 2020 CLIMATE REPORT 13 technical expertise, operational and maintenance capabilities, and attractive sites,
+Vistra is a natural owner of these assets. Vistra knows how to manage the volatility and risk associated with renewables and serves nearly five million retail customers who are increasingly seeking to procure “green” electricity products. Upon completion of the first phase of our ERCOT development plan, a total of nearly 1,000 MW of zero- carbon generation will be added to Vistra’s total generation capacity in the next couple of years — a strong start toward our 2030 vision.
+NUCLEAR. 
+Vistra operates one nuclear-fueled power plant, Comanche Peak Nuclear Power Plant (Comanche Peak), in Glen Rose, Texas. With all-in operating costs as low as $21-22 per MWh, Comanche Peak is one of the lowest-cost nuclear facilities in the nation.
+Comanche Peak was the first power plant in Texas to be recognized by the Texas. 
+Commission on Environmental Quality (TCEQ) and the Environmental Protection. 
+Agency (EPA) as a “National Leader” in environmental quality and was the first nuclear plant in the U.S. to be recognized for excellence in “lean” operations with a Bronze- level Shingo award. As a baseload, carbon-free source of generation, Vistra expects. 
+Comanche Peak will remain operating over the next several decades, contributing approximately 7% of our generation capacity.
+NATURAL GAS. 
+Vistra’s highly efficient, flexible, and low-emitting natural gas fleet is well-positioned to meet the electricity demands of U.S. consumers as the country continues to tran- sition to lower-carbon technologies while increasing its demand for electricity. In the last five years, Vistra has transitioned from a coal-heavy company to one that is pre- dominantly natural gas. Vistra believes that natural gas-fueled generation will be a necessary transition resource for many years to come, initially as a baseload and reliability resource and over time as a transition resource complementing renew- ables. The U.S. Energy Information. 
+Administration Electricity Outlook states that “natural gas-fueled gen- eration is the marginal fuel source to fulfill incremental demand increases, averaging 0.8% growth per year through 2050.” Similarly, in both the International Energy. 
+Agency’s (IEA) Stated Policies “WE DON’T TALK ENOUGH ABOUT HOW. 
+NATURAL GAS HAS BEEN AN ENABLER FOR. 
+THE INTRODUCTION OF WIND AND SOLAR.
+AND WE’RE GOING TO HAVE TO FIGURE. 
+OUT HOW THAT FUNCTION CONTINUES. 
+WITH GAS, WITH GAS AND CARBON. 
+CAPTURE AND STORAGE, WITH HYDROGEN,
+WHATEVER IT IS, BECAUSE THAT’S NOT. 
+GOING AWAY.” — ENERGY FUTURES INITIATIVE PRESIDENT. 
+ERNEST MONIZ, EEI 2020 VIRTUAL. 
+LEADERSHIP SUMMIT. 
+STRATEGY
+
+
+VISTRA 2020 CLIMATE REPORT 14. 
+Scenario and Sustainable Development Scenario as presented in the 2019. 
+World Energy Outlook (WEO), natural gas demand is expected to outperform all other fuels through 2040. Specifically, in the Stated Policies Scenario, nat- ural gas demand in the U.S. is estimated to increase over 10% between 2018 and 2040, and in the Sustainable Development Scenario, which is aligned with the Paris Agreement holding temperatures below 1.8 degrees Celsius, natural gas demand is expected to grow modestly through 2030 before reverting to present levels by 2040. The Sustainable Development Scenario further high- lights that the need for flexibility in power systems is expected to grow even faster than electricity demand, due to the rising share of variable renewable resources. This reinforces the opportunity for flexible gas-fueled power genera- tion and the need for incremental battery energy storage capacity.
+Natural gas-fueled generation provides cost-effective, flexible, and reliable dispatch of electricity, and will also pro- vide a critical backstop to intermittent renewables. In fact, we have already seen evidence of the critical reliability need for dispatchable resources in the heavy renewable markets of California, Texas, and Germany, with the August 2020 rolling blackouts in California as the lat- est example. We believe Vistra’s natural gas generation will remain necessary for power system reliability over the next sev- eral decades, and as such we expect it will continue to be an important component of our generation portfolio. In addition, as hydrogen technology advances, our gas fleet may be able to utilize hydrogen as a fuel, resulting in further carbon reductions and potentially extending the economic life of our natural gas fleet.
+WIND. 
+While Vistra’s primary renewable development focus is on solar generation and battery energy storage, Vistra is a large purchaser of wind-generated electricity to support our retail products. In 2019, Vistra had over 784 MW of wind-gener- ated power under power purchase agreements (PPAs) and purchased 6,516,000 wind and solar renewable energy credits (RECs) to meet our retail customer demand. The purchases of wind power and RECs support the continued devel- opment of renewable projects and complement Vistra’s net-zero emissions goal through avoided emissions. Vistra will also continue to evaluate potential invest- ments in wind development in the future.
+STRATEGY. 
+Vistra’s Moss Landing Power Plant will become the site of two of the world’s largest battery projects.
+
+
+VISTRA 2020 CLIMATE REPORT 15. 
+COAL. 
+For Employees 9 Severance packages 9 Outplacement services 9 Job skills training. 
+For Local Communities 9 Proposed property tax plans cushion near-term impact of shutdowns 9 Support for legislation to redevelop these sites into renewable and energy storage facilities. 
+STRATEGY. 
+Since 2010, Vistra has retired approximately 13,000 MW of coal and gas plants. Over the course of the next decade, Vistra expects it will retire an additional approximately 7,000. 
+MW of coal-fueled generation. Retirement decisions are made by considering both the carbon footprint of specific resources as well as the underlying economics of each plant, which can be influenced by regulatory policy. For example, Vistra recently announced future retirement dates for six of our coal plants in Illinois and Ohio in response to the. 
+EPA’s recently finalized coal combustion residual (CCR) rule and its Effluent Limitation. 
+Guidelines (ELG). These planned retirements include: • Baldwin, by 20251 • Joppa, by 20251 • Kincaid, by 20271 • Miami Fort, by 20271 • Newton, by 20271 • Zimmer, by 20271. 
+In order to ensure that all of the plants and mines we retire are transitioned cost-effec- tively and in a manner that is in compliance with all laws and regulations, while taking into account the impacts on the local communities, Vistra has a team led by our vice president of asset closure that is solely dedicated to the decommissioning and reclamation of these retired plants and mines. This separation of duties is designed to ensure the work required to wind down these assets is done properly with focused management attention. Vistra manages these activities under a separate GAAP reporting segment, ensuring the team remains accountable to the operational and financial plan that has been put in place.
+Though retirement decisions are never easy, Vistra takes a just transition approach and works to mitigate the social impacts of closures.
+2010. 
+Retired 16 Coal and Gas Plants Retirement of 1 Coal Plant. 
+Edwards. 
+Expected Retirement of 2 Coal Plants1. 
+Baldwin, Joppa. 
+Expected Retirement of 4 Coal Plants1. 
+Kincaid, Miami Fort,
+Newton, Zimmer, 2019 2022 2025 2027 2030 1 May retire earlier than expected dates shown above if economic or other conditions dictate.
+
+
+VISTRA 2020 CLIMATE REPORT 16. 
+EMERGING TECHNOLOGIES. 
+As a core part of our strategy, Vistra actively monitors technological advancements, policy developments, and supporting infrastructure additions for potential zero-emis- sion technology investment opportunities. Examples of such early-stage technologies include hydrogen electrolyzers, fuel cells, batteries, and carbon capture and storage.
+Vistra is also investing in a venture fund that focuses on technological innovation and sustainability to help accelerate the viability of carbon free and carbon reducing tech nologies.
+RETAIL. 
+As an integrated power company, a significant portion of Vistra’s generation is sold via our retail subsidiaries. Vistra Retail currently offers more than 50 electricity plans that incorporate renewable energy into the product offering. These products are offered to customers through Vistra’s 12 retail brands, leveraging various marketing channels across the U.S. These brands offer renewable energy, carbon offset, and energy management products that help consumers reduce their carbon footprint. A few examples are: • TXU Energy Free Nights & Solar DaysSM. A first-of-its kind plan, Free Nights & Solar Days offers residential customers 100% renewable energy (100% wind power at night and 100% solar during the day). This offer capitalizes on low-cost wind-generated energy in Texas. As of June 2020, twice as many Texans are enrolled on TXU Energy solar plans than own rooftop solar panels in the competitive Texas market.
+• TXU Solar Club. This first of-its-kind, membership-style plan provides residential customers clean energy purchased from Texas solar farms. The shared solar offer gives customers benefits similar to a rooftop solar array without the cost of installing a system.
+• TXU Solar from Sunrun. TXU Energy has partnered with Sunrun to offer the market’s highest- efficiency rooftop solar panels. Residential customers can take advantage of incentives like federal tax credits or rebates through transmission and distribution utilities (TDUs) for installing Sunrun’s high-performance solar arrays, and they can earn bill credits when their system produces more energy than their home uses.
+• TXU Energy Pure SolarSM. New in 2020, our residential customers can support clean solar energy with Pure Solar without installing solar panels. We purchase all the power from Texas solar farms equal to the customer’s total electricity usage.
+• Brighten Energy. A new Vistra retail brand that offers only renewable energy plans to consumers in Illinois, Ohio, and Pennsylvania.
+• Greenbacks. Vistra Retail offers our large business customers the Greenback program, a self-funded rebate program that helps customers fund their energy efficiency projects. We have awarded approximately $2 million in Greenbacks each year to our customers to help them install LED lights, convert to solar energy, upgrade their HVAC or make other improvements.
+• Custom Solutions. Vistra Retail develops customized solutions for our large business customers, who have their own sustainability goals, that utilize wind PPAs, utility-scale solar generation, energy efficiency programs, and other innovative structures.
+STRATEGY
+
+
+VISTRA 2020 CLIMATE REPORT 17. 
+As our generation portfolio transitions, Vistra Retail will continue to create innovative, industry-leading retail products that complement Vistra’s growing renewable portfolio and meet customer demand and changing preferences.
+CLIMATE ADVOCACY. 
+Regulatory policy and legislation that is implemented at the national and regional lev- els can directly impact Vistra’s long-term strategy. As such, Vistra takes an active role in the development of potential or proposed legislation and regulation, advocating for appropriate action in response to climate change. Vistra believes an economy-wide, adequately priced carbon fee and dividend plan with a border carbon adjustment is the ideal public policy solution to advance emissions reduction goals through appropriately incentivized investments in carbon-free and carbon-reducing technologies, while miti- gating the financial impacts on the economically disadvantaged. This kind of structure can leverage the attributes of U.S. competitive markets that have resulted in unparal- leled prosperity and capital efficiency while preserving the sanctity and equity of the free market system.
+In 2019, we joined the Climate Leadership Council (CLC) as a founding member. The. 
+CLC’s four pillars are directly in line with our preferred public policy framework, advo- cating for (i) an escalating carbon fee, (ii) a return of all net proceeds from the carbon fee to the American people, (iii) a streamlining of existing regulations supplanted by the carbon fee, and (iv) a border carbon adjustment providing rebates for carbon fees paid for carbon-intensive exports to countries without comparable carbon-pricing sys- tems and carbon fees for carbon-intensive imports from such countries.
+The CLC has estimated that if its plan were to be implemented in 2021 it would cut U.S.
+CO2 emissions in half by 2035 (as compared to 2005) and far exceed the U.S. Paris commitment. The late CEO of the CLC, Ted Halstead, recently co-authored, with James. 
+Baker, III and George Schultz, an article in Foreign Affairs that explains how a well-de- signed climate policy can transform perceived vulnerabilities into major strategic opportunities — a concept that closely aligns with how Vistra views climate risks and opportunities.
+Along with joining the CLC, Vistra further committed to contribute $1 million to. 
+Americans for Carbon Dividends (AFCD), the advocacy arm promoting the CLC’s bipartisan climate solution. Additional information about the CLC and the AFCD can be found at clcouncil.org and at afcd.org, respectively.
+Vistra is similarly supporting the Coal to Solar and Energy Storage Act, legislation in. 
+Illinois that would transition coal plants in Illinois to renewable sources, advancing the state’s clean climate goals. If passed, this legislation could incentivize up to 300 MW of utility-scale solar projects and up to 150 MW of energy storage facilities in the state.
+STRATEGY
+
+
+VISTRA 2020 CLIMATE REPORT 18. 
+This type of investment could support up to 2,000 union construction jobs while pro- viding a new or enhanced tax base for local plant communities for decades to come.
+Joining trade groups and participating in advocacy efforts extends beyond Vistra’s own utility sector. In September 2020, Vistra joined the Zero Emissions Transportation. 
+Association (ZETA), a federal organization advocating for policies that will enable meeting a goal of 100% electric vehicle sales by 2030. As member of this non-partisan group, Vistra supports the improvement of public health and the significant reduc- tion of carbon pollution through the advancement of electric vehicles and their related infrastructure investments.
+Vistra believes that through supportive public policies across all industries, all stake- holders can win in the race to combat climate change. As such, even though Vistra has preferences dealing with global climate change, we take an open-minded approach to working with policy makers and other key climate constituents.
+LONG-TERM RESILIENCY. 
+Vistra is leading in the effort to reduce global greenhouse gas emissions, implementing current strategies and taking the necessary actions now to ensure our long-term sus- tainability. As discussed in the next section, under various future scenarios of climate change, Vistra is already positioned to withstand a variety of transition and physical risks. Under our current long-term strategy, we expect we will do our part to combat climate change through emissions reductions while providing reliable and affordable power to our customers, propelling our generation fleet into the green future, and posi- tioning ourselves as an industry leader.
+STRATEGY
+
+
+VISTRA 2020 CLIMATE REPORT 19. 
+THE RISK MANAGEMENT COMMITTEE PROVIDES RISK MANAGEMENT OVERSIGHT, monitoring, control, and guidance for all risk management activities at Vistra, and it approves risk management activities within limits delegated by the board of direc- tors through the Risk Management Policy and Commitments Committee delegation of authority. Vistra’s governance framework includes a robust enterprise risk analysis, through which all functional groups in the company provide input on key business, reg- ulatory, market, legal, and climate risks, among other potential areas of threat.
+The risk management process is owned by the CRO, who meets periodically with every functional group in Vistra to review the risk universe for any relevant updates with a detailed analysis performed on an annual basis. During the annual process, risks are evaluated across a matrix based on the likelihood of occurrence and severity, or financial impact to the business. New risks will be added, outdated risks are removed, and current risks can be recategorized during the process. All risks defined are then provided two ratings, a residual rating, reflecting the potential impacts of the risks assuming that existing mitigating processes and controls remain in place, and an inher- ent rating, which is the rating of the risk without any existing mitigants. The output of this process is then reviewed by Vistra’s Risk Management Committee and reported to the Sustainability and Risk Committee of the board.
+In addition to this comprehensive annual process, the CRO reviews the risk universe with functional leads on a quarterly basis and on an interim basis as needed to address emerg- ing risks to ensure the risk matrix is current throughout the year. These quarterly and interim updates are also reported to the Sustainability and Risk Committee of the board.
+Management utilizes the output from the risk framework to anticipate emerging risks, integrate risks into business planning, and take steps to mitigate the potential impact of any identified risks on the operations and performance of the business. Vistra applies this established risk management process to our evaluation of current and emerging cli- mate change trends and their associated physical, regulatory, and market risks. Not only does this process identify risks that management actively evaluates and manages, it can also lead to the discovery of growth opportunities for the organization.
+CLIMATE SCENARIO ANALYSIS. 
+In 2020, Vistra engaged a third-party agency to conduct a climate scenario analysis, evaluating both physical and transition risks to the business over the next 10 to 30 years.
+This climate scenario analysis was one input Vistra utilized to help inform the assess- ment of physical risks and transition risks Vistra could be challenged with between now and 2030 and now and 2050 as a result of climate change and the decarbonization of. 
+RISK MANAGEMENT
+
+
+VISTRA 2020 CLIMATE REPORT 20 the economy. The third-party agency specifically utilized climate projections adopted by the Intergovernmental Panel on Climate Change (IPCC) for three scenarios: Sustainable. 
+Future Scenario (RCP 2.6, global average temperature rise stays below 2 degrees), 2-Degree Scenario (RCP 4.5, global average temperature rise limited to 2 degrees), and Current Policies Scenario (RCP 8.5, business as usual) to analyze possible weather impacts to Vistra’s physical operations under each scenario. In addition, Vistra man- agement reviewed the three scenarios as prepared by the IEA in its 2019 WEO — the. 
+Current Policy Scenario, the Stated Policy Scenario, and the Sustainable Development. 
+Scenario — to evaluate the potential business implications that could result from various policy and market changes under those climate scenarios.
+While Vistra has operations in 20 states and the District of Columbia, the third-party scenario analysis focused on specific regions where Vistra has the most exposure to physical climate risks. These regions included Texas, where almost 50% of Vistra’s generation capacity is located and where Vistra has a deep pipeline of renewable devel- opment opportunities, as well as the Bay Area of California, where Vistra is currently developing battery energy storage assets with significant capacity for growth, in addi- tion to two locations in the Midwest and Northeast that are representative of Vistra’s generation fleet in those regions.
+Under all scenarios, even the most extreme business as usual case, Vistra’s generation facilities are well-positioned to withstand a variety of weather events including: rising sea and river levels, droughts, and increas- ing temperatures. While we cannot control weather events, Vistra does make informed decisions on capital spend at our facilities to help position our assets to withstand the potential long-term impacts of cli- mate change. For example, rising mean temperatures can increase river and lake water temperatures that our ther- mal facilities use for cooling during the electricity generation process. Recent capital expenses at some of these facili- ties included spend on maintenance and improvements to our cooling towers that recycle and cool the water thus mitigating the potential risk of rising water tempera- tures to such a de minimus amount that we do not deem this physical risk material to our operations. Additional improvements include inlet chillers and coolers of the air com- busted in our gas turbines which lower the temperature from ambient conditions. The potential future physical risks of climate change will continue to inform Vistra’s allocation of maintenance capital at our generation facilities, so we can ensure our assets will be able to run safely and reliably in the years ahead.
+RISK MANAGEMENT
+
+
+VISTRA 2020 CLIMATE REPORT 21. 
+Transition risks include regulatory and policy changes, technology advancements, and changing consumer preferences and industry norms, among others. With so much uncertainty regarding how any of these transition risks could develop over the next 10 to 30 years, Vistra has always managed these risks by attempting to understand, ana- lyze, and weigh the probability of multiple potential scenarios in our risk management analysis. In this case, in addition to reviewing the IEA’s scenarios published in its 2019. 
+WEO, Vistra also analyzed proprietary assessments of future transition risks in response to climate change.
+While these scenar- ios do not predict the future, the anal- ysis of multiple scenarios provided. 
+Vistra with a range of outcomes and a diverse set of data to make an informed analysis of how policies, mar- kets, and industry norms could evolve over time, as well as the risks such outcomes could present in the future. By understanding and analyzing the potential impacts and likelihoods of various transitional risks, Vistra is best posi- tioned to make informed decisions regarding how our current strategy could lead to success in an uncertain future.
+Through our analysis, Vistra believes that certain regulatory and legislative policies could present the biggest risk to our current portfolio transformation strategy. Future policies could impact the value of Vistra’s fossil fueled assets by, for example, caus- ing the potential for early retirements, incentivizing the advancement of renewables at such an aggressive pace that development scales to levels Vistra did not anticipate, or putting stricter limits or restrictions on emissions thereby increasing the cost of compli- ance to Vistra, just to name a few. As a sizable organization with significant knowledge of the markets where we operate, Vistra actively participates in policy development at the national, state, and regional levels, advocating for public policies that support the integrity of competitive markets while appropriately incentivizing market partici- pants to decarbonize of the economy. With a supportive policy backdrop, we believe. 
+Vistra can achieve our long-term emissions reduction targets while continuing to pro- vide reliable and affordable power to our customers, addressing the needs of all of our stakeholders throughout this critical transition.
+RISK MANAGEMENT. 
+All of Vistra’s carbon-free resources, including the Upton 2 Solar and Energy Storage Facility (pic tured) will be under the Vistra Zero brand.
+
+
+VISTRA 2020 CLIMATE REPORT 22. 
+IDENTIFIED CLIMATE RISKS. 
+Vistra’s review and evaluation of various climate scenario analyses has resulted in the identification of certain physical and transition risks that could impact the business over the short-, medium-, and long-term time horizons. The graphic below outlines the climate-related risks Vistra has identified as the most relevant to inform our long- term strategy. These risks are discussed in further detail in Vistra’s 2020 CDP response.
+While management identified these climate-related risks to its business as being the most relevant to inform business strategy, the severity and likelihood of occurrence of most of these risks, after appropriate risk mitigation, as categorized in Vistra’s risk matrix, are relatively low. Vistra regularly undertakes mitigating efforts in order to mod- erate the potential magnitude and likelihood of occurrence of these risks, thereby reinforcing the resiliency of the business in a variety of scenarios. Perhaps most import- ant, Vistra management believes that the opportunities emerging from climate change far outweigh any associated risks, and Vistra’s long-term strategy has been designed to capitalize on these opportunities as our business — and the world around us — evolves.
+RISK MANAGEMENT. 
+SHORT-TERM 0-2 years. 
+YEARS 2
+0 5
+30. 
+MEDIUM-TERM 2-5 years. 
+LONG-TERM 5-30 years. 
+Extreme weather events such as tornadoes or floods, causing damage to facilities (physical risk)
+Adapting to customer preferences (opportunity)
+Growth in renewables (opportunity)
+Regulatory or legislative policies that accelerate the retirement of fossil fueled assets (transition risk)
+Negative market perception of the business (transition risk)
+Supportive policy incentives, including a carbon pricing regime and tax incentives for renewable development (opportunity)
+Technologies advancing at a faster pace than expected (transition risk)
+Increased electricity demand due to electrification of the economy (opportunity)
+Impact of rising temperatures on the efficiency of thermal power generation (physical risk)
+
+
+VISTRA 2020 CLIMATE REPORT 23. 
+OPPORTUNITIES. 
+As the economy and Vistra adapt to climate change and implement mitigation efforts, opportunities emerge. The most significant area of financial opportunity for Vistra as an integrated power generator and retail electricity provider is from the anticipated increase in electricity demand resulting from the expected electrification of the econ- omy. As industries, especially the transportation industry, continue to transition away from fossil fuels toward electricity as their primary source of fuel, most climate change scenarios predict there will be an increase in electricity demand over the next several decades. In order to satisfy this increased demand while also reducing total emissions, the power industry will need to see a significant expansion of renewable generat- ing assets over the same timeframe. Vistra, with our market-leading commercial team, development project management skills, technical expertise, operational and mainte- nance capabilities, and attractive sites, is a natural owner of these assets. Our 10-year plan assumes we will invest approximately $500 million of equity per year, on average, on renewable and retail investments, which represents a significant growth opportunity for Vistra.
+While Vistra believes there will be a significant buildout of renewables and battery energy storage in the U.S., we also believe it will take several years for these renewable resources to become a meaningful portion of the country’s generation fleet. The cur- rent generation fleet in the markets where Vistra competes took more than 50 years to build out and were supported by access to the necessary fuels and transmission infrastructure. The effectiveness of renew- ables and batteries are impacted by the intensity of wind and sun, and techno- logical limitations. In many markets, the nature-based factors have various levels of effectiveness requiring greater sub- sidies paid by taxpayers to support the economics of investing in these resources.
+Therefore, we see a renewables and bat- tery energy storage build out following renewable portfolio standards, especially in PJM and ISO-NE, and limited by the affordability of this expansion by voters’ appetite to fund. In addition, the subsidization of these resources in competitive elec- tric markets must work within the Federal Energy Regulatory Commission’s primary mandate of just and reasonable rates.
+Therefore, we see natural gas as a critical fuel during the buildout of renewables and battery energy storage. The growing reliance on intermittent renewable resources will. 
+RISK MANAGEMENT
+
+
+VISTRA 2020 CLIMATE REPORT 24 need to be supported by both a readily dispatchable resource, such as natural gas, and utility-scale batteries. Renewable resources only generate power when applica- ble weather conditions (sun or wind) are present. Because electricity is instantaneous in nature and has limited ability to be stored today, relatively quick-starting and low- er-emitting natural gas resources will be critical to support the reliability of the U.S.
+electricity grid. We believe our highly efficient, flexible, and low-emitting natural gas fleet is well-positioned to meet this demand.
+Over time, significant investments will need to be made in utility-scale batteries to sup- port intermittent renewable resources, as well. Vistra is currently developing the largest utility-scale battery project of its kind in California, and we expect we will have numer- ous opportunities to expand this development in the future.
+As an innovative, market-leading, integrated power company, Vistra believes climate change mitigation brings tremendous opportunity for the company to grow as we reduce total emissions, thereby satisfying the priorities of a wide-range of stakehold- ers. Electricity is an essential good — one we expect the country will demand more, not less, of as climate change initiatives are implemented across the economy. While the method with which we serve our customers this critical product might evolve over time, our role in the process — to generate safe, reliable, and affordable power for our customers all while lowering emissions — will not. We believe Vistra is well-positioned to not only display resiliency during this important transition, but to lead.
+RISK MANAGEMENT
+
+
+VISTRA 2020 CLIMATE REPORT 25. 
+METRICS AND TARGETS 2030: GOAL TO ACHIEVE A 60% REDUCTION IN CO2 EQUIVALENT EMISSIONS BY 2030 AS COMPARED TO A 2010 BASELINE 2050: LONG-TERM OBJECTIVE TO ACHIEVE NET-ZERO CARBON EMISSIONS BY 2050. 
+VISTRA TRACKS AND REPORTS VARIOUS ENVIRONMENTAL PERFORMANCE AND financial metrics to not only show progress of the climate strategy initiatives we have implemented but to hold ourselves accountable to all stakeholders. Vistra discloses these metrics in various reports including: SEC disclosures, quarterly investor presen- tations, annual sustainability reports, SASB table, GRI Index, and CDP response, which can all be found on Vistra’s website.
+As a power producer, Vistra is focused on reducing Scope 1 emissions that are a by-product of our fossil fuel-fired electricity generation. In 2019, Vistra announced. 
+Scope 1 CO2 equivalent (CO2e) emissions reduction targets of 50% by 2030 and 80% by 2050, each as compared to a 2010 baseline, with aspirations to achieve net-zero by 2050 assuming advances in technology and supportive public policy. These targets have since been accelerated, as Vistra now seeks to achieve more ambitious goals of a 60% reduction in Scope 1 CO2e emissions by 2030, as compared to 2010, and net-zero carbon emissions by 2050.
+From our 2010 baseline, Vistra has already achieved a 39% reduction in CO2e emissions through year-end 2019, putting Vistra at a 65% achievement level of our updated 2030 goal. Importantly, in the fourth quarter of 2019, Vistra retired four coal plants in Illinois, which represented 7.8 million metric tons of CO2e emissions in 2019, or an additional 4.5% reduction in CO2e emissions as compared to our 2010 baseline.
+Vistra’s Scope 2 emissions come from two sources — electricity consumption at Vistra’s power plants and use of electricity at Vistra’s corporate offices across the nation.
+
+
+VISTRA 2020 CLIMATE REPORT 26 2017 2018 2019. 
+Scope 1 emissions (metric tons CO2e) 143,799,952 118,650,466 105,523,364. 
+Scope 21, location-based emissions (metric tons CO2e) -249,068. 
+Total Generation2 (MWh) 86,877,993 166,988,411 186,428,605. 
+Emissions Intensity (Scope 1 CO2e/MWh) 1.655 0.711 0.566. 
+METRICS AND TARGETS. 
+Vistra’s power plants directly generate most of the power they consume, though they do consume some auxiliary power from the grid. Together with the power consumed at. 
+Vistra’s corporate offices, Vistra’s Scope 2 emissions totalled approximately 0.249 mil- lion metric tons1 of CO2e in 2019.
+2019 Total Electricity Generated. 
+Fuel MWh % of Total. 
+Coal 66,466,972 36%
+Gas 100,215,277 54%
+Nuclear 19,304,817 10%
+Oil 2,755 0%
+Solar 438,784 0.2%
+Total 186,428,605 1 Not calculated for 2017 and 2018. Scope 2 emissions represent the electricity purchased from the grid and consumed at Vistra’s 54 operational power plants and our four corporate locations in the Dallas, TX area. Reported Scope 2 emissions are location-based and were calculated using the U.S. EPA’s eGRID2018 emissions factors.
+2 Generation includes Dynegy plants as of April 9, 2018.
+Generating electricity from fossil fuels is the primary source of Vistra’s air emissions.
+For 2019, Vistra generated 186,428,605 MWh of power from the generation over which we have operational control, with nearly 65% of the output generated from low- to no-CO2-emitting natural gas, nuclear, and renewable assets (see table below). Our efforts in reducing GHG emissions have also resulted in the reduction of other air emissions.
+Since 2010, Vistra has decreased carbon dioxide (CO2) emissions by more than 38%, nitrogen oxide (NOX) emissions by 49%, and sulfur dioxide (SO2) emissions by 74%. As we transition our fleet away from coal generation, invest in additional renewable assets, and work toward achieving our emissions reduction targets, we expect these other emissions to continue to decrease between now and 2030 and 2050.
+
+
+VISTRA 2020 CLIMATE REPORT 27. 
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS. 
+The information presented herein includes forward-looking statements within the meaning of the Private. 
+Securities Litigation Reform Act of 1995. These forward-looking statements, which are based on current expectations, estimates and projections about the industry and markets in which Vistra Corp. (“Vistra”) operates and beliefs of and assumptions made by Vistra’s management, involve risks and uncertainties, which are difficult to predict and are not guarantees of future performance, that could significantly affect the financial results of Vistra. All statements, other than statements of historical facts, that are presented herein, or in response to questions or otherwise, that address activities, events or developments that may occur in the future, including such matters as activities related to our financial or operational projections, the potential impacts of the COVID-19 pandemic on our results of operations, financial condition and cash flows, capital allocation, dividend policy, business and sustainability strategy, competitive strengths, goals, future acquisitions or dispositions, development or operation of power generation assets, market and indus- try developments and the growth of our businesses and operations (often, but not always, through the use of words or phrases, or the negative variations of those words or other comparable words of a future or forward-looking nature, including, but not limited to: “intends,” “plans,” “will likely,” “unlikely,” “believe,” “con- fident”, “expect,” “seek,” “anticipate,” “estimate,” “continue,” “will,” “shall,” “should,” “could,” “may,” “might,” “predict,” “project,” “forecast,” “target,” “potential,” “goal,” “objective,” “guidance” and “outlook”), are for- ward-looking statements. Readers are cautioned not to place undue reliance on forward-looking statements.
+Although Vistra believes that in making any such forward-looking statement, Vistra’s expectations are based on reasonable assumptions, any such forward-looking statement involves uncertainties and risks that could cause results to differ materially from those projected in or implied by any such forward-looking state- ment, including, but not limited to: (i) adverse changes in general economic or market conditions (including changes in interest rates) or changes in political conditions or federal or state laws and regulations; (ii) the ability of Vistra to execute upon the contemplated strategic and performance initiatives and to successfully integrate acquired businesses; (iii) actions by credit ratings agencies; (iv) the severity, magnitude and dura- tion of pandemics, including the COVID-19 pandemic, and the resulting effects on our results of operations, financial condition and cash flows; and (v) those additional risks and factors discussed in reports filed with the Securities and Exchange Commission by Vistra from time to time, including the uncertainties and risks discussed in the sections entitled “Risk Factors” and “Forward-Looking Statements” in Vistra’s annual report on Form 10-K for the year ended December 31, 2019 and any subsequently filed quarterly reports on Form 10-Q. Any forward-looking statement speaks only at the date on which it is made, and except as may be required by law, Vistra will not undertake any obligation to update any forward-looking statement to reflect events or circumstances after the date on which it is made or to reflect the occurrence of unanticipated events. New factors emerge from time to time, and it is not possible to predict all of them; nor can Vistra assess the impact of each such factor or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statement.

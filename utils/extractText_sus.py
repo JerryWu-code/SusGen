@@ -3,15 +3,14 @@
 
 import os
 import sys
+import re
+import fitz  # PyMuPDF
 
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
 from os import makedirs, path
-import re
-import fitz  # PyMuPDF
 from pandas import DataFrame
-# from ftlangdetect import detect
 from langdetect import detect
 from collections import defaultdict
 from os import path, scandir, listdir
@@ -49,10 +48,8 @@ def extract_text(doc) -> str:
         # c) Remove duplicated white spaces --> e.g., improved  readability
         pageText = re.sub(pattern=r' +', repl=' ', string=pageText)
 
-        # Save the page text in the document text --> pages separted by two new lines
         documentText += pageText + '\n\n'
 
-    # d) Remove duplicated page separators
     documentText = re.sub(pattern=r'\n{3,}', repl=r'\n\n\n', string=documentText)
 
     return documentText.strip()
@@ -65,7 +62,6 @@ def text_loader(report_data, analyze_language=True):
             # Read the PDF file
             try:
                 with fitz.open(url_report['path']) as doc:  # type: ignore
-
                     document_text = extract_text(doc)
 
                     # Ensure a good utf-8 encoding
@@ -80,8 +76,6 @@ def text_loader(report_data, analyze_language=True):
 
                     # Save the number of pages
                     report_data[companyName][idk]['numPages'] = doc.page_count
-
-                    # Extract the text from the document
                     report_data[companyName][idk]['text'] = document_text
 
                     # Extract the language
@@ -98,6 +92,7 @@ def text_loader(report_data, analyze_language=True):
                 report_data[companyName][idk]['text'] = None
 
     return report_data
+
 
 def save_textualData(report_data, saving_folder):
     for companyName, reports in report_data.items():
@@ -121,15 +116,6 @@ def save_textualData(report_data, saving_folder):
                     report['text'] = report['text'].encode('utf-8', errors='replace').decode('utf-8')
                     txt_file.write(report['text'])
 
-
-def numPages_stats(saving_folder, report_data):
-    df = DataFrame([report['numPages'] for reports in report_data.values() for report in reports
-                    if 'numPages' in report.keys()], columns=['numPages'])
-
-    df = df.describe()
-    df.to_excel(path.join(saving_folder, 'numPages.xlsx'))
-
-    return df
 
 def documentMetadata_loader(folderPath):
     if not os.path.exists(folderPath):
@@ -174,29 +160,22 @@ def documentMetadata_loader(folderPath):
                 'path': path.join(root, fileName)})
 
     reports = dict(sorted(reports.items(), key=lambda dict_item: dict_item[0]))
-
     return reports
 
 
 if __name__ == '__main__':
-    # Folder paths for the reports
-    # data_path = "./data/raw_data/"
-    data_path = "../data/examples/extractText_sus/2020/"
-
-    rawData_path = os.path.join(data_path, "pdf")
+    # data_path = "../data/examples/extractText_sus/2020"
+    data_path = "../data/raw_data"
+    rawData_path = os.path.join(data_path, "raw_pdf")
 
     # Load the paths of the reports
     report_data = documentMetadata_loader(rawData_path)
 
     # Load the textual data
     report_data = text_loader(report_data)
-    print(report_data)
 
     # Save the textual data (i.e., extracted texts)
-    saving_folder = path.join(data_path, 'txt')
+    saving_folder = path.join(data_path, 'raw_txt')
     if not os.path.exists(saving_folder):
         os.makedirs(saving_folder)
     save_textualData(report_data, saving_folder)
-
-    # Saving the stats
-    save_numPages = numPages_stats(saving_folder, report_data)

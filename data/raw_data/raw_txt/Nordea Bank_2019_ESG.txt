@@ -1,0 +1,972 @@
+Sustainability Report 2019
+
+
+Nordea Sustainability Report 2019. 
+
+
+The report in brief Nordea´s Sustainability Report 2019 has been prepared in accordance with the GRI Standards: Core option. The report is divided into two sections. In the front section, pages 4–29, we tell our sustainability story focusing on how Nordea enables the transition to a sustainable future by working with material topics and providing sustainable solutions, products and services to our customers. In the back section, pages 30–49, we provide supplementary information to disclosures in the front section as well as information about our materiality analysis, stakeholder engagement and participation in commitments and initiatives. The back section also includes a fact book with sustainability data, our report on limitations in scope and omission statements according to GRI (where relevant), our presentation of the GRI Content Index with application level according to the GRI Standards as well as a Principles for Responsible Banking Reporting Index and a TCFD Disclosure Index. An independent third party, PricewaterhouseCoopers Oy, has provided assurance on the sustainability information provided in this report. The scope of the assured information is indicated in the Independent Practitioner’s Assurance Report on page 50. More details about the report itself are presented in sustainability note S1. on page 31.
+The report is available for downloading at nordea.com/sustainability.
+If you have any questions about the Sustainability Report, you are welcome to address them to sustainability@nordea.com
+
+
+Contents. 
+Contents 4 CEO statement 6 This is Nordea 14 Taking climate action 18 Embedding human rights 20 Responsible supply chain 22 People performance 24 Diversity and inclusion 26 Embracing new technology 30 Sustainability notes 41 Principles for Responsible. 
+Banking Reporting Index 43 TCFD Disclosure Index 44 GRI Content Index 49 Glossary 50 Assurance Report. 
+Nordea Sustainability Report 2019 
+
+3
+
+
+Nordea Sustainability Report 2019 
+4 CEO statement. 
+Intensifying Nordea´s sustainability eforts as well as participation in and exit from commitments to sustainability, and approves external position statements and sector guidelines. We published several new sector guidelines in 2019, including for instance guidelines for the fossil fuels industry, setting forth our expectations of customers and investee companies. We are taking actions to embrace our employees’ capabilities to grow and develop. We are also fostering an inclusive culture and are committed to making sure everyone can bring their whole self to work. To ensure great customer experiences and sustainable growth, we are constantly monitoring and identifying the range of barriers to diversity and inclusion. We are delighted to see balanced gender representation across Nordea, with a breakdown in 2019 of 51% women and 49% men. It also clear that we still have work to do; the gender balance currently varies in the organisation, and our target is to reach the same result in all levels across all business areas and group functions. We have also decided to measure concrete numbers and steps in our own actions. To give just a couple of exam- “We commit to using our expertise, products, services and relationships to support and accelerate the fundamental changes in our economies and lifestyles necessary to achieve shared prosperity for both today’s and tomorrow’s generations.” ples, we reduced travel for internal meetings by more than 7% in 2019, contributing to lower carbon emissions from our business travel activities with 11%. We run our internal operations on 100% renewable electricity. We are also reducing water consumption and aiming to completely phase out single-use plastics, plates and cutlery at our ofces.
+To take the next steps in sustainability, stronger eforts are needed from individuals, banks and the fnancial industry as a whole. We need a clear framework and measurable and tangible actions.
+Nordea´s ambition is to be a leader in many dimensions, including in sustainable banking. We have taken a strong position in this area and we will intensify our eforts even further.
+I am truly passionate about banking and the important role of banks in society. At Nordea, we are led by our purpose – together, we lead the way, enabling dreams and everyday aspirations for a greater good. We want to make a real diference for our customers and the communities in which we operate. Nordea is fully committed to making the fnancial sector more sustainable and actively contributes to a sustainable society. We became a signatory to the UN Global Compact at Group level already in 2004 and will continue to support the principles. We take actions for a greater good by embedding sustainability throughout the bank. Our business areas are continuously developing our services and oferings to enable our customers to make conscious sustainable choices. In our business, this means a broad sustainable products ofering and also integrating sustainability into our advisory sessions. I would like give a few examples of tangible results from 2019. We extended green corporate loans to now be available to customers in all our four Nordic home markets. Our green mortgages are now also available to our household customers in Finland and Norway besides Sweden, where the product was launched already in 2018. We launched 11 new sustainability funds within our Sustainable Selection, and were delighted to see an increase of almost 87% in Assets under Management (AuM) in Sustainable Selection during the year. Since December, we have also been helping our customers to keep track of their individual carbon footprint with the launch of a CO2 tracker embedded in our digital banking services. This is a good example of how we, alongside our 9 million or so personal customers, can make a diference in combating global warming and climate change together.
+Sustainability is not only about new products and services; it goes beyond that, into the fundamentals of how Nordea is run. It is an integral part of our governance and way of working. We evaluate our business decisions from an ethical and sustainable angle. Our Code of Conduct defnes the high-level principles that guide our business, how we treat our customers and the conduct expected from our employees. All our employees are required to complete annual training in the Code of Conduct as part of their Licence to Work to ensure proper awareness and knowledge of our ethical principles. Nordea´s Business Ethics & Values Committee goes through our internal policies and decisions granularly and reviews relevant Group Internal Rules
+
+
+Sustainability on the Board’s Agenda. 
+Nordea has entered a new phase with three key priorities focusing on operational efciency, income growth and customer experiences. Our four business areas will raise their already high ambitions to provide our customers with the best personal and digital services and solutions. The Board acknowledges that. 
+Nordea, as a leading fnancial institution in the Nordics, needs to develop its business and services responsibly and sustainably. This is in the interest of all shareholders. The Board supported management in the initiative to be one of the founding signatories to the PRB. To stay relevant to our customers, we must meet their expectations in terms of our responsibility in today's constantly changing world where social and environmental issues are becoming increasingly relevant for both Nordea as a fnancial institution and for our customers. Already in 2017, the Board Operations Committee was established with a remit to oversee the Group’s sustainability strategy. In 2020 the committee’s name was changed to the Board Operations and Sustainability Committee to better reflect its charter. The Board has encouraged the numerous initiatives in 2019 to develop and improve oferings to customers in the area of sustainable fnance. Another highly signifcant area for fnancial institutions today is climate change, as it can pose fnancial risk and needs to be properly managed. In 2018, the Board approved an updated Group Board Directive on Risk in which ESG (environmental, social and governance) was included as a risk in its own right. In 2019, climate risk was included in the risk taxonomy. Climate change is thus now embedded in our formal risk management process, and we will continue to develop governance and risk management of climate-related fnancial risks in 2020, in line with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD).
+Torbjörn Magnusson Chairman of the Board of Directors. 
+
+ 
+CEO statement. 
+That way, we take the next steps in implementing guidelines and principles to achieve even stronger commitments and tangible results.
+Nordea, as the only Nordic bank, is one of 30 founding banks of the Principles for Responsible Banking (PRB) developed together with the United Nations Environment Programme Finance Initiative (UNEP FI). The Principles were ofcially launched and signed at the Climate Week in New York in September 2019. By creating them, Nordea and the other founding banks have accomplished the comprehensive framework needed by banks to collectively address the global sustainability challenges and work towards the objectives of the Paris Agreement and the Sustainable Development Goals (SDGs). I am proud that Nordea has been able to play such an active part in creating the Principles and opportunities for a better and sustainable society. Our work does not stop with signing the PRBs, though – this actually only marked the start of the real journey. We commit to using our expertise, products, services and relationships to support and accelerate the fundamental changes in our economies and lifestyles necessary to achieve shared prosperity for both today’s and tomorrow’s generations. Taking aim at our clear targets for the strengthening our internal risk manage ment governance and processes. For us, sustainability is a way of working, and we want our actions to beneft both our customers and our communities. We create a positive impact and engage with our communities through our core competencies in fnancial skills and entrepreneurship. We help young people across the Nordics to improve their knowledge in fnancial skills, and assist senior citizen with learning how to use mobile banking services. I am truly proud of our skilled and enthusiastic employees wh have spent their time on teaching fnan cial skills, use of mobile banking services and accelerating entrepreneurship.
+To me, the only way of staying relevan to our customers is by creating great customer experiences. In today’s world that means doing things sustainably, serving as a safe and trusted fnancial partner, and doing things right. It mea not merely doing the bare minimum, but going above and beyond to meet the expectations of customers, employ ees and society. That way, our actions are good for customers, good for Nordea and good for society at large.
+- s
+o - t
+, ns -
+Frank Vang-Jensen President and Group CEO “The fnancial industry as a collective, and Nordea as a company, need to be better at determining fnancial risks associated with fnancing and investing in carbonintensive industries, and work together with customers and investee companies to assist them in their transition to a lowcarbon economy.” future, our next step is to perform an impact analysis, taking various dimensions into account in our actions. With the escalating climate crisis, we need to ramp up our eforts in reducing the impacts of climate change. The fnancial industry as a collective, and Nordea as a company, need to be better at determining fnancial risks associated with fnancing and investing in carbon-intensive industries, and work together with customers and investee companies to assist them in their transition to a low-carbon economy. We will therefore intensify our eforts in 2020, both in terms of performing a climate-related scenario analysis of our fnancing and investment portfolios, and. 
+Nordea Sustainability Report 2019 5
+
+
+This is Nordea. 
+Nordea Bank Abp is a full-service universal bank domiciled in Finland. We serve approximately 9.8 million personal and corporate customers through four business areas and our presence in 20 countries, including our four home markets – Denmark, Finland, Norway and Sweden – together representing the world’s tenth largest economy. Nordea shares are traded on the Helsin ki, Stockholm and Copenhagen stock exchanges.
+Enhancing the customer experience In the relationship with customers, our approach is to listen, learn and act. We learn from surveys and customer complaints, and through our structured setup we defne improvements to ensure a smoother experience. This approach has resulted in a 17% reduction in customer complaints, from over 113,000 complaints in 2018 to around 94,000 in 2019.
+Despite a challenging environment for the banking sector, we see positive developments in customer satisfaction in both internal and external surveys. We have improved our availability with extended opening hours at branches and signifcant reduced average waiting time in our contact centres. For our small and medium-sized corporate customers, it is important that we are proactive, available and provide relevant and competent advice in the customer dialogue. For our private banking customers, we aim to increase customer satisfaction further by meeting needs and expectations, providing afluent customers with even more value for their money and continuously spending more time with them. In Large Corporates & Institutions, we retain our lead ing position as the core bank for large corporate customers across the Nordics and customer segments. For details about our engagement with customers and other stakeholders, -see sustainability note S2. on page 32.
+Knowing our customers Know Your Customer (KYC) is Nordea´s practice to identify and know the customer, the nature of the customer’s business and use of services or products, volumes and origins of funds, wealth and transactions. The KYC process is used to provide a proper customer advisory service and minimise the risk of terrorist fnancing and money laundering. Ideally, ESG issues should be integrated into the KYC process to ensure that customers are evaluated from a holistic perspective. We initiated a project to investigate how this could be done for our corporate customers a couple of years ago, and are continuing to explore appropriate solutions.
+Meeting expectations on tax transparency Nordea´s Tax Policy is the Group CEO Instruction on Tax that ensures we manage tax efciently and compliantly, thereby protecting Nordea´s shareholder value. Nordea´s policy is to pay taxes in accordance with local regulations in all countries in which we operate and, in so doing, to make an appropriate contribution to each society. We manage tax costs and risks prudently and, by paying taxes and reporting them in a timely manner, we aim to maintain a good local tax reputation. For details on our tax payments by country, see page 36 in sustainability note S6. The ethical standards outlined in Nordea´s Code of Conduct, Tax Policy on Customer Advice and Sustainability Policy guide us when advising customers about the tax implications of diferent products. We also take care to comply with external regulations regarding the provision of proper information, and to not mislead customers in their decisions.
+Doing the right thing Trust in the fnancial sector and in the fnancial system is crucial to fnancial stability. Our success relies on the confdence that our stakeholders have in us – trust that is ultimately safeguarded by laws and regulations. Ensuring fnancial stability is part of Nordea´s social responsibility. Our Code of Conduct defnes the high-level principles that guide our business, how we treat our customers and the conduct expected from our employees. Doing the right thing is the essence of our Code of Conduct and we provide the Board with an annual report on how well we live according to our ethical principles. All our employees are required to complete annual training in the Code of Conduct as part of their Licence to Work to ensure proper awareness and knowledge of the ethical principles. Besides. 
+As a bank, Nordea has three main tasks – to convert savings into fnancing, to manage credit and other fnancial risks, and to enable payments and other fnancial transactions efciently and securely.
+6. 
+Nordea Sustainability Report 2019. 
+This is Nordea
+
+
+This is Nor This is Nordea dea. 
+Total carbon emissions from our in 39, ternal oper 406 ations: 
+tonnes CO2e. 
+Market presence. 
+Financials. 
+Sustainability action. 
+Our People. 
+Key data 2019. 
+Number o 31,64 f empl 8 oyees:
+Four business areas designed to support the relationship strategy for each specifc customer segment:
+Personal Banking, Business Banking, Large Corporates & Institutions and. 
+Asset & Wealth Management.
+Our values: Collaboration, Ownership. 
+Passion, Courage. 
+EUR 523bn Total liabilities. 
+EUR 32bn Total equity. 
+EUR 8.635bn Total operating income. 
+EUR 555bn Total assets ~9.8m customers of which 9.3 million are household customers, 530,000 small and medium sized companies and 2,650 are large corporates and institutions.
+Included in Bloomberg’s Gender-Equal th consecuti4 ity Index for the 
+ve year. 
+Repr20 esentation in 
+countries. 
+Women Men 51% 49%
+EUR 4.6bn. 
+Net inflow of to Sustainable Selection. 
+Nordea Sustainability Report 2019 
+
+ 7
+
+
+Stronger Sustainable Selection ofering with balanced funds In November, Nordea launched balanced funds, mixing sustainable equities and fxedincome investments. The Sustainable Balanced Funds are one-fund solutions ofering easy access with just one investment to a ready-made, well-diversifed sustainable portfolio. The weight between equities and fxed-income instruments varies between the three risk/return profles available for the funds.
+8 This is Nordea the Code of Conduct, in 2019 Licence to Work also included training on handling conflicts of interest, phishing, incident handling and fnancial crime. 98.5% of all employees (excluding those on longterm leave) completed their Licence to Work during the year.
+Encouraging people to speak up Nordea´s whistleblowing function Raise Your Concern (RYC) ensures that all of Nordea´s stakeholders, including customers, partners, afected communities as well as our own employees have the right to speak up and always feel safe in doing so if they have concerns about suspected misconduct such as breaches of human rights, or irregularities such as fraudulent, inappropriate, dishonest, illegal or negligent activity or behaviour in our operations, products or services. This includes any action that constitutes a violation of laws or regulations, or of Nordea´s internal policies, instructions or guidelines. In 2017, RYC was strengthened by implementing an electronic reporting channel called WhistleB that enables anonymous two-way communication.
+Focusing on material sustainability issues In 2018, we conducted a materiality analysis to identify the sustainability areas that are material to Nordea. The analysis was revisited in 2019 and was decided to still be valid.
+In the materiality analysis, we identi- fed climate as the lead area for our eforts. A testimony to our strong commitment to climate action is that Nordea and 33 other signatories to the PRB announced a Collective Commitment to Climate Action during Climate Week in New York in September 2019. The Collective Commitment to Climate Action sets out concrete and timebound actions the banks will take for scaling up their contribution to, and aligning their lending with, the objectives of the Paris Agreement to limit global warming to well below 2ºC, striving for 1.5ºC. Through this commitment, we will collaborate with other banks on methodology and scenario development, stakeholder engagement and other relevant actions that can ease the transition to a green economy.
+The materiality analysis also identi- fed four focus areas: human rights, a responsible supply chain, being an inclusive employer with satisfed employees and community engagement. Areas that are essential to trust in the banking industry that must be managed well to ensure going concern – business ethics, governance, digitalisation and living our purpose and values – constitute our foundation.
+For detailed information about our materiality analysis process, see sustainability note S3. on page 33–34.
+Working in a strategic direction and setting targets Based on our materiality analysis, we set targets for 2019. Almost all targets were fulflled during the year, see opposite page for details.
+We have experienced some chal- lenges in developing a strategy for how to work towards the Paris Agreement in terms of both investments and lending, partly because the frameworks, models and methodologies to support a transition strategy are still in their infancy in the fnancial industry. Our targets for 2020 are therefore a continuation of the targets for 2019, focusing on aligning both investments and fnancing with the Paris Agreement in 2020 but with an even clearer focus on granularity and measurability. The targets for 2020 were approved by the Group Leadership Team (GLT) in February 2020.
+As a member of the core group of founding banks and a signatory to the PRB, Nordea is committed to the objectives of the Paris Agreement and the SDGs. We play an active part in the banking industry’s role and responsibility in shaping a sustainable future. We see Nordea being a positive contributor in society in the future, enabling cus- tomers to make sustainable choices through our ofering.
+In 2020, we will ramp up our sustain- ability eforts and conduct not a new materiality analysis but rather an impact analysis as part of our commitment to the PRB. We know that our positive and negative impact mainly derives from fnancing and investments, but our internal operations also have an impact that cannot be overlooked. We will therefore take both an indirect and direct perspective when conducting the impact analysis identifying our negative and positive impact taking both the SDGs and the Paris Agreement into account. Although being directed at governments, both the SDGs and the Paris Agreement are underpinned by a series of specifc targets and programme areas where Nordea can make substantial contributions as a bank, and we have the ambition to identify these as part or our impact analysis.
+Elements of SDG impact analysis are already in place at Nordea. For instance, we have mapped asset categories in our green bond asset portfolio to the SDGs using the high-level guideline provided by the International Capital Markets Association (ICMA). The mapping shows that, through our green bond asset portfolio, we have a positive impact on and address some SDGs more directly than others, as disclosed in our Green Bond Report 2019. We also address two of the SDGs through our ambition to create equal opportunities for our employees: SDG 5 Gender Equality and SDG 10 Reduced Inequalities.
+Integrating sustainability throughout the bank Nordea´s Code of Conduct includes aspects such as care for the environment, labour rights, how we treat our customers, human rights, the right to privacy, fair competition, anti-bribery and anti-corruption. It is a central steering document, together with our principles on ESG issues in fnancing, investing and advice in Nordea´s Sustainability Policy.
+Integrating sustainability throughout the bank requires an understanding of what sustainability is and Nordea´s role in the transition to a sustainable future in our capacity of a major bank and through the choices we make. In 2019, we therefore launched a Group-wide e-learning module on sustainability that takes a broad view on global sustainability challenges and how Nordea can contribute. In addition to this general training on sustainability, we provide specifc training when launching new sustainable products to ensure all advisors are sufciently trained and equipped to provide advice to our customers.
+Nordea Sustainability Report 2019
+
+
+Sustainability targets. 
+As part of our future direction, the Principles for Responsible Banking will be our main guiding framework. Sustainable fnance will enable Nordea to be a strong bank and a positive contributor in society. A selection of our targets for 2020 and follow-up on our targets for 2019 are presented below.
+This is Nordea. 
+Target Comment Status. 
+Develop and launch green corporate loans in all our four Nordic countries. Green corporate loans were launched in all our four Nordic countries during the year.
+Complete sustainable savings ofering which will be part of model portfolios. The Sustainable Selection ofering has been launched in all our four Nordic countries.
+Increase assets under management in our sustainable savings ofering. Our sustainable savings ofering is the Sustainable Selection, for which AuM increased by 87% in 2019.
+Evaluate to expand green mortgages in the Nordics. The green mortgages that were made available to our Swedish household customers in 2018 were extended to Finland and Norway in 2019.
+Develop scenario analysis for climate risk for our large corporate lending portfolio. Nordea piloted a climate scenario analysis methodology and studied the climate profle of our high climate risk lending portfolio in 2019.
+Integrate sustainability into our savings advisory process. Integration into the central savings advisory tool was completed in 2019. In 2020 we will further develop the integration of sustainability in the advisory process.
+Measure investment portfolio alignment and set a strategy to work towards the Paris Agreement.
+Nordea piloted climate scenario analysis methodology and studied the climate profle of investment portfolios in 2019.
+7% reduction in air travel for internal meetings. Air travel for internal meetings decreased by 7.15% in 2019.
+New vendor agreements aligned with the Supplier Code of Conduct. 77.5% of all supplier agreements in 2019 were aligned with the Supplier Code of Conduct. For remaining agreements, the procurement process was not followed.
+Launch Position Statement on Human Rights and Sector Guidelines on Gambling, Oil & Gas, Real Estate and Forestry.
+We launched Sector Guidelines for Gambling, Fossil Fuels Industry (i.e. Oil & Gas), Real Estate and Forestry in 2019. The Position Statement on Human Rights has been postponed.
+80% completion rate Group-wide of Sustainable Finance e-learning for all staf. We did not reach an 80% completion rate in 2019 due to some technical difculties. The e-learning will be assigned to relevant employees in 2020.
+Follow-up on targets for 2019 Fulflled Partly fulflled. 
+Perform an impact analysis in accordance with the Principles for. 
+Responsible Banking.
+Develop ESG risk data in the Group, taking account of industry data availability and the materiality of lending portfolios.
+For each recruitment to leadership positions, there should be at least one female and one male candidate shortlisted.
+Signifcantly increase AuM in Sustainable. 
+Selection.
+Analyse climate risk in the large corporate lending portfolio as part of the UNEP FUC TCFD Phase 2 Banking Pilot.
+Introduce diversity and inclusion unconscious bias trainings for people leaders.
+Decide on a climate strategy for the fund ofering.
+Identify and assess climate risk exposure in th mortgage portfolio.
+e. 
+Decrease air travel for internal meetings with 30% compared to 2019.
+Develop and launch targeted sustainability training to establish stronger local expertise amongst advisors.
+Launch a Position. 
+Statement on Tax and sector guidelines for the Extractive Industries and for Agriculture.
+Revise the company car policy to reduce our carbon footprint.
+Targets 2020. 
+Nordea Sustainability Report 2019 
+9
+
+
+Bringing climate into our customers' wallets In December, Nordea launched a CO2 tracker, embedded in our digital banking service Nordea Wallet. The CO2 tracker, which is developed in collaboration with Åland Index Solutions, enables our customers to see the approximate CO2 impact from their daily purchases and consumption behaviour when using payment cards. The calculation is based on card usage divided into a number of merchant categories such as: car/transport, holiday/travel, restaurants, shopping and groceries.
+1) AuM for Asset Management in Asset & Wealth Management.
+Nordea Sustainability Report 2019 10 This is Nordea. 
+Being a responsible investor As a major investor, it is important that Nordea is also a responsible one. We have developed policies, procedures and investment products to ensure that all the companies in which we invest fulfl various criteria. We have signed the UN Principles for Responsible Investment (UNPRI) and are thus committed to integrating ESG factors into our investment analysis, decision-making processes and active ownership practices.
+In accordance with our Responsible Investment Policy, all Nordea funds are subject to annual norm-based screening which identifes companies that are allegedly involved in breaches of international law and norms on environmental protection, human rights, labour standards and anti-corruption. The screening also identifes companies that are subject to exclusion based on our exclusion criteria. This means that 100% of AuM1 is subject to negative ESG screening. Our exclusion list is updated on a regular basis and can be found at nordea.com.
+Active ownership is our main way of communicating with the companies we invest in. We exercise our right to influence companies through attending or voting at shareholders' general meet- ings. We might even put forward shareholder resolutions at the meetings. In 2019, we voted at around 515 general meetings of companies in which Nordea´s funds are among the largest owners or have invested substantial capital. We strive for transparency and show how we have voted in our voting portal at nordea.com.
+When we want to improve a compa- ny’s management of its ESG risks, we start an engagement process with the company. The timeframe of the engagement process can vary depending on the complexity of the engagement goal. In 2019, we engaged in almost 600 dialogues with companies in the investment portfolio to ensure that material ESG risks were being adequately managed, or ESG opportunities were being fully harnessed. These companies include some of our largest holdings as well as companies identifed for our sustainability-enhanced funds.
+Managing ESG risks in relation to our customers Nordea regularly performs ESG risk analysis on large corporate customers to manage ESG-related risks and opportunities. For these customers we have a dedicated team of ESG analysts who use a specifc ESG tool and methodology to analyse the corporations. Large customers with high ESG risk are escalated to our Executive Credit Committee, which is chaired by the Head of Group Credit Risk Management. Decisions taken in the Executive Credit Committee are reported to the Board.
+We are currently looking into how we can enhance the integration of ESG in relation to our small and medium-sized corporate customers. For these clients, environmental and in some cases also social and political aspects are currently considered in credit decisions, where relevant. ESG questions are integrated into the standard escalation process, as set forth in our credit risk framework. Credit decisions are handled on a case by case basis by local management but can, according to our escalation process, be elevated to the Business Banking Business Risk Forum, Business Banking Business Ethics and Values Committee and fnally also to the Business Ethics and Values Committee at Group level for a recommendation on how to handle a potential ESG risk.
+Sustainable products and ofering As a leading bank, we want to direct capital at companies with a sustainable business model and the ability to conduct their business responsibly.
+On the investment side, we ofer our Sustainable Selection including, for instance, our Stars Funds, our Global Climate and Environment Fund and the Sustainable Balanced Funds. We have seen an 87% increase in AuM to Sustainable Selection in 2019, which is a result of the launch of 11 new sustainability funds included in Sustainable Selection and also the integration of sustainability into our savings advisory tool. Furthermore, we have seen that our customers are becoming increasingly interested in making sustainable choices and, at the end of the year, 29% of our Nordic household and private banking customers said they were willing to do so, compared to 22% at the beginning of the year. On the fnancing side, sustainability is becoming an increasing part of discussions about future fnancing opportunities with both corporate and institutional customers as well as with our household customers. In 2019, we have been working to expand our diferent ofers. We now ofer both green bonds and sustainability bonds. We issued our own second green bond in 2019 and we also serve as an intermediary between our customers (the issuers) and investors, by helping them to issue, or invest in, green or sustainability bonds through the capital markets. We have extended the availability of green loans to corporate customers in all our four Nordic countries and we now also ofer sustainability-linked loans. The green mortgages that were made available to our Swedish household customers in 2018 were extended to Finland and Norway in 2019. To satisfy growing demand for sustainable car fnancing options, Nordea launched green car loans and green car leasing on the Swedish and Danish markets in 2019. The green option is ofered to both private and corporate customers. Data regarding our sustainable products is presented in detail on page 37 in sustainability note S6.
+Sustainability governance facilitating decision-making At Board level, the Board Operations and Sustainability Committee assist the Board in fulflling its oversight responsibilities concerning sustainability, operations/systems and operational resilience including cyber resilience, as well as related frameworks and processes. Our governance structure encompasses a monitoring function chaired by the CEO – the Business Ethics and Values Committee – that reviews relevant Group Internal Rules as well as participation in and exit from commitments to sustainability and/or approves external position statements and sector guidelines. This governance structure allows the
+
+
+Sustainable products. 
+Sustainable Selection. 
+Sustainable Selection is a label for Nordea´s most sustainable investment products, for example the Stars Funds and the Global Climate and Environment Fund in which customers obtain welldiversifed portfolios with an extra layer of sustainability on top of the sustainability threshold applied to all our funds.
+Our Stars Funds are a set of funds with proactively selected companies with well-managed ESG profles. The selection is made through a combination of ESG analysis, company dialogues, thematic research, engagement and feld trips.
+The Global Climate and Environment Fund invests in companies which, through their climate solutions, are changing the world for the better. It focuses on businesses operating in resource efciency, environmental protection and alternative energy.
+Loans and mortgages. 
+Green corporate loans are used to fnance specifc investments with environmental benefts and give our corporate customers the opportunity to address climate change in their fnancing.
+In our green loans the entire chain of the fnancing is green, i.e. Nordea uses sustainable market funding, where proceeds are earmarked for green lending.
+Sustainability-linked loans can be any type of loan instrument and the main characteristic is that sustainability performance is included in the loan documentation with clear annual targets that the borrower must meet.
+Green car loans for household customers and green car leasing for corporate customers are ofered for fnancing cars that run 100% on electricity.
+Green mortgages is a product for customers who reside in climate-smart homes that fulfl criteria relating to energy classifcation of buildings in the countries n which these mortgages are available. The green mortgages are aligned with the European initiative’s defnition for Energy Efcient Mortgages (EEM).
+Sustainable bonds. 
+Sustainability bonds combine both green and social commitments to society. Net proceeds are used for both environmental and social projects and considerations in accordance with the Social Bond Principles and Green Bond Principles as issued by ICMA.
+In a green bond, the money is earmarked i for green purposes such as renewable energy, green buildings and clean transportation.
+This is Nordea. 
+In 2019, the number of green mortgages 3 incr 28% eased by. 
+AuM for Sustainable Selection +87% 
+in 2019. 
+USD 3 in 2019 in apportioned deal v .9bn alue for green bonds. 
+Nordea Sustainability Report 2019 11
+
+
+Web links. 
+Tax Policy. 
+Code of Conduct. 
+Voting Portal. 
+Sustainability Policy. 
+Tax Policy on Customer Advice. 
+Responsible Investment Policy. 
+Green Bond Report 2019. 
+Exclusion List. 
+Nordea Sustainability Report 2019 12 This is Nordea. 
+Board, relevant management committees and senior management to integrate climate-related risks and opportunities and other sustainability issues into decision-making and business processes. Each business area and group function is represented in the Sustainability Committee. The committee prepares sustainability issues related to policies, guidelines and strategy, which the business areas and group functions are then responsible for implementing in the business.
+Managing risks to keep Nordea and our customers safe Nordea´s risk management framework focuses on managing risks in line with our risk appetite and has defned clear risk, liquidity and capital management frameworks. In the current dynamic environment with increasing regulatory requirements, changing customer behaviour, new competitors and new technologies, Nordea continuously develops its risk management framework, ensuring that material risks are captured.
+In 2019, we continued our eforts initi- ated in 2018 to embed sustainability risk assessment into Nordea´s regular risk management. This includes refning the defnitions of ESG risk within Nordea´s Risk Taxonomy which forms the basis of risk management activities as well as defning clear ESG risk-controlling activities. Several Industry Credit Policies were developed in 2019 with dedicated sections on ESG risks and mitigation, as part of the credit risk framework. The Board also approved an ESG Risk Appetite Statement during the year.
+In 2020, we will continue to enhance our risk assessment principles and monitoring activities for sustainability risk in line with developments in the regulatory landscape.
+Integrating compliance into our business activities We strive to ensure that Nordea is seen as a safe and trusted bank that operates with the highest ethical standards. Group Compliance is a guardian of Nordea´s licence, reputation and trust and helps Nordea to be a good citizen by making sure compliance risks are addressed as a natural element of our business.
+Being compliant means conducting business in accordance with applicable laws, regulations, standards, supervisory requirements and related internal rules and respecting the principles of integrity and fair dealing at all times. Compliance starts at the top and must be embedded in the culture of an organisation.
+Group Compliance is the indepen- dent function at Nordea that is respon- sible for creating a common internal control framework that ensures compliance with applicable laws, regulations, standards, supervisory requirements and related internal rules, as well as providing training, advice, monitoring and ensuring compliance matters are adequately communicated and adhered to by management. In addition, Group Compliance is responsible for promoting a solid risk and compliance culture. We believe that compliance concerns everyone at Nordea and it is viewed as an integral part of Nordea´s business activities.
+Preventing fnancial crime to protect society Nordea is committed to complying with applicable laws and regulations concerning anti-money laundering, counter terrorist fnancing, sanctions and bribery and corruption in the jurisdictions in which we operate, and to prevent Nordea from being used for any illegal activity. Financial authorities across our jurisdictions are naturally interested in Nordea´s eforts to combat fnancial crime and Nordea has an open and active dialogue with its regulators.
+Each year, approximately two billion transactions pass through Nordea. To handle this volume, we have strengthened our transaction monitoring capabilities over the last few years through investment in technology, more sophisticated assessment techniques and additional employees. In total, we now have more than 1,500 employees working with fnancial crime prevention, and 12,000 employees in direct contact with our customers are trained to identify signs of fnancial crime. Our established policies are updated each year, and all our employees must undergo mandatory fnancial crime risk training on a regular basis. The latest training was assigned to all employees in December 2019, with the completion date in March 2020.
+Money laundering is a serious issue for society, and increased cooperation between banks and authorities is needed to combat it. In 2019, Nordea was one of the founding banks of an autonomous joint venture company, KYC Utility, that will initially ofer KYC services to the market concerning large and medium-sized companies based in the Nordic region. The commercial launch of the company is expected to take place in 2020.
+Strengthening frameworks to ensure data privacy Data Privacy remains a natural part of Nordea´s business and operations and an important part of Nordea´s digital strategy. Following the 2017 establishment of Nordea´s Group Data Protec- tion Ofce (GDPO), a new department, the Data Privacy Centre of Excellence, was established in early 2019 with the purpose of providing operational frstline support in all matters related to the General Data Protection Regulation (GDPR). This has enabled the GDPO to increase focus on a number of strategic and policy-related issues and to work continuously on strengthening the framework that ensures data privacy besides the existing mandatory tasks.
+Incidents that may include a personal data breach are reported to the GDPO for individual assessment. If a personal data breach is identifed and considered likely to cause a risk to the afected individual, the breach will be reported to Nordea´s supervisory authority, the ofce of the Finnish Data Protection Ombudsman as well as to the local data protection authority in order to ensure transparency, and to the data subjects in accordance with GDPR.
+Responding to an evolving landscape of cyber threats Nordea, like any other bank, is introducing new technologies and exploring new ways of doing business and connecting with customers. This enlarges the bank’s attack surface. At the same time, entities that pose cyber threats are becoming better organised, resourced and experienced. Adding to this is the asymmetry of banks having to protect all assets appropriately, while entities engaged in cyber threats merely need to fnd one weak spot. This poses an unprecedented risk to the banking industry.
+Nordea is not just focusing on the adequacy of the basics of information security controls, but also enhancing cyber capabilities with security detection and response defences. We are investing in our cyber defence with new tools and functions, and we continue to focus on ensuring that our basic controls are operating efectively. Innovative security practices are developed to encompass new business demands such as robust mobile banking applications and proactive customer support for fraud detection and prevention.
+
+
+Board of Directors Decides on Code of Conduct and Sustainability Policy and approves Non-Financial Statement. 
+Nordea´s Sustainability Governance. 
+This is Nordea. 
+Nordea Sustainability Report 2019 
+
+13. 
+Group Leadership Team (GLT)
+CEO decides on strategic sustainability direction and focus areas including plans, targets and performance indicators. 
+Business Ethics and Values Committee (BEVC)
+Monitoring function that reviews relevant Group Internal Rules and participation in/exit from external sustainability commitments and/or approves external position statements and sector guidelines. 
+Sustainability Committee Operational sub -committee to the BEVC which prepares sustainability issues related to policies and strategy. 
+Business Areas and Group Functions Responsible for implementing sustainability policies, products and related risk management processes. 
+Group Sustainable Finance. 
+Sets strategic sustainability direction and focus areas and supports business areas and group functions in implementation. 
+Board Operations and Sustainability Committee Assists the Board in its oversight concerning sustainability
+
+
+Quarantining Brazilian government bonds in response to Amazon fres In August, Nordea Asset Management's Emerging Market Debt (EMD) team put Brazilian government bonds in quarantine in response to the Amazon fre crisis. All investments of Nordea´s EMD team undergo both a quantitative and qualitative ESG assessment which, even before the fre crisis, identifed several environmental risks, flagging drivers of signifcant deforestation and expected weakening of environmental protection. As a result, no purchases have been made since August. Since progress has only been very limited, the quarantine decision still stands.
+Nordea Sustainability Report 2019 
+
+ 14 Taking climate action. 
+Taking climate action. 
+Nordea recognises that the climate emergency will pose risks as well as present opportunities for our customers and our business – both indirectly through our stakeholders’ activities, and directly through our operations.
+In order to align our business with the Paris Agreement and fnance a low-carbon, climate-resilient economy, we must implement climate action in our business and consider the risks associated with climate change. Nordea´s Position Statement on Climate Change sets out the scope and principles of Nordea´s work on climate change.
+Climate matters to Nordea As a large fnancial institution, Nordea is expected by stakeholders to act on our exposure to companies and sectors being afected by physical risks and/or transition risks from existing and upcoming regulations.
+Lending to more carbon-intensive industries’ such as Paper, forest and mining, Oil, gas and ofshore and Maritime (shipping) account for 9% of Nordea´s total corporate loans1. Furthermore, approximately half of our lending portfolio is in real estate assets, an industry associated with high energy consumption and physical risks such as flooding and rising sea levels. For the investment portfolio, we have calculated our exposure to three carbon-intensive industries – Utilities, Energy and Materials – for equities and corporate bonds. The exposure for our equities ranges from 2.7% to 3.3%, which is lower than the benchmark2 for all three sectors and especially for Energy, where our exposure is 2.8% compared to 5.3% for the benchmark. The exposure for corporate bonds is 3.1% for Utilities, 2.2% for Energy and 1.8% for Materials.
+Our strategic response to climate risks At Nordea, we take several measures to identify, manage and mitigate climate risks. We support the recommendations from the TCFD, which gives us a framework to use when implementing climate risk in governance, strategy and risk management and when developing relevant targets and metrics.
+In 2019, climate risk was added to Nordea´s Risk Taxonomy as a sub-risk category to ESG risk. Climate risk is mainly managed through policies/strategies, frameworks, processes and through focus area deep-dives and scenario analysis as well as through engagement and shifting assets to greener products. We are currently focusing our climate-related work on carbon-intensive industries as well as on energy-consuming sectors.
+In 2019, we published sector guide- lines for the fossil fuels industry, setting out that we expect customers and investee companies in the fossil fuels industry to commit to fulflling the objectives in the Paris Agreement and invest in, as well as work towards, the necessary energy transition. We also published sector guidelines for the real estate and forestry industries. Our ambition is to develop sector guidelines for other relevant industries in 2020. Furthermore, we have started working on how to measure physical risks in relation to our real estate portfolio in Norway, looking into data providers and methodologies to assess climate risks and their impact. This work was initiated in 2019 and will continue in 2020. In the coming years, we will continue to enhance our climate risk management eforts, such as further embedding climate considerations into credit processes, developing further scenarios to assess the vulnerability of Nordea´s loan portfolio to both transition and physical risk and assessing how investments and products can be developed to align with the Paris Agreement.
+Committed to addressing climate risk In addition to joining the Collective Commitment to Climate Action in 2019, we also became a signatory to the Poseidon Principles with the purpose of playing an active role in promoting a responsible and cleaner shipping industry and raising awareness. In 2019, Nordea Life & Pension (NLP) became a founding member of the UN-convened Net-Zero Asset Owner Alliance, committing to transitioning their investment portfolios to net-zero emissions by 2050 at the latest. Focus will be on continuing with the work already initiated to develop tools and a framework for measuring 1.5°C alignment, developing investment strategies to meet the commitment and driving joint engagement eforts at company, sector and policy level. Joint engagement eforts are also a priority for Nordea Asset Management (NAM) and conducted through for instance Climate Action 100+. The investor engagement initiative has led to a range of breakthrough net zero emission commitments now in place and 1) With reference to total corporate loans in note G2. Risk and Liquidity management on page 104 in Nordea Annual Report 2019..
+2) MSCI All Country World Index.
+
+
+Climate impact. 
+Taking climate action. 
+In 2019 Nordea Global Climate and Environment Fund was awarded as one of the year’s best funds by the Swedish magazine Privata Afärer. 
+Less air travel by Nordea employees to internal meetings in 2019 helped reduce CO2e emissions from air tr 11% avel by. 
+In 2019, NLP reallocated SEK 25bn to more sustainable investments, reducing carbon emissions from those investments by 46% 1,273,795 tonnes CO2e in annual emissions avoided through our green lending portfolio. 
+The transition from paper to digital in our client communication saved 4,028 trees and 1,000 t reduced CO2e emissions b onnes y
+ in 2019. 
+Nordea Sustainability Report 2019 15
+
+
+Generating our own solar energy We are continuously on the lookout for alternative and more environmentally friendly ways to cover our energy need. Nordea´s headofce in Copenhagen was therefore, from the beginning, designed to have the roof and several skylight windows ftted with solar panels. Furthermore, this year we have ftted 368 solar panels on the roof of one of our buildings at our Finnish headquarter in Helsinki. This particular section of the premises was chosen due to its optimal exposure to the sun.
+Nordea Sustainability Report 2019 
+
+ 
+
+ 
+16 Taking climate action signifcant progress across a range of industries, many of which are among the most challenging to decarbonise.
+For more information about our par- ticipation in commitments and initiatives, see sustainability note S4. on page 35–36.
+Participating in pilots with peers Together with 2° Investing Initiative, Nordea piloted climate scenario analysis methodology, focusing on the upstream oil and gas, power generation and shipping sectors in 2019. The pilot allowed us to study the climate profle of our lending portfolio and compare that to 2°C benchmarks as set by the International Energy Agency’s Sustainable Development Scenario. These eforts are continuing in 2020 in the UNEP FI TCFD Phase 2 Banking Pilot.
+Already in 2018, NAM joined the UNEP FI pilot to address the need for analytical tools and indicators to better understand climate risks and opportunities in investments. In 2019, NAM developed a Climate Change Strategy for the investment portfolio. Implementation of the strategy has led to a reduced coal threshold and exclusion of oil sand and the initiation of several engagements to call for climate ambition and reporting in accordance with the TCFD recommendations.
+As a fnancial institution, Nordea has not yet been able to set sciencebased targets to lower our emissions due to absence of established market norms on how to include investments and fnancing in such targets. In 2019 therefore, through NLP, Nordea has been a part of a pilot to develop tools and frameworks for fnancial institutions to set science-based targets aligned with the 1.5°C target. A model for NLP’s real estate portfolio was fnalised with support from the International Energy Agency’s data, and similar models for other asset classes and sectors will be developed in 2020.
+Climate impact from our internal operations Even though our materiality analysis shows that our greatest sustainability impact is indirect, we also have to work with reducing the impact from our internal operations in which we apply the precautionary principle. A shortterm sustainability goal for 2018 was to identify a baseline for climate change and a carbon footprint for our internal operations was fnalised in early 2019. It will be regularly reviewed with regards to scope to ensure that we account for the material carbon emissions we cause in our internal operations. Because we are a Nordic bank with colleagues spread out across diferent locations, business travel is our greatest direct climate impact, with a share of 63% of our total carbon emissions in 2019. We had the ambition in 2019 to investigate the possibility of introducing an internal carbon fee on business travel as a means to reduce corresponding emissions, but will take other measures to reduce business travel going forward. In 2019 we set a target to reduce air travel for internal meetings with 7%. We managed to achieve a 7.15% reduction during the year. In 2020 we will continue to reduce air travel for internal meetings and aim for a 30% reduction compared to 2019. Another contributor to our carbon emissions is our energy consumption. The majority of our large Nordic ofces are LEED or BREAM certifed and in 2019 we closed down a few more that are not "state of the art" which led to a decrease in our total energy consumption with 13% compared to 2018. However, due to our strategy to become more digital, we see energy consumption increasing in the data centres. We are therefore taking various energy efciency measures such as ensuring our servers are up to date and energy-efcient to manage this. To reduce carbon emissions generated by our internal operations, we purchase 100% renewable electricity through Guarantees of Origin equal to our electricity consumption in Denmark, Finland, Norway, Sweden, Poland and Estonia. For the remaining unavoidable emissions, we buy carbon ofsets. Water is another aspect of climate change that we address with various measures. Although Nordea is not a large water user, we nevertheless measure our water consumption and take actions to avoid overuse, such as collecting rainwater for flushing our toilets at our Copenhagen headofce. In 2019, our total water consumption was 155,150 cubic metres.
+For details about our carbon emis- sions and a description of the boundary, scope and calculation methods, see page 38 in sustainability note S6.
+A more sustainable workplace with #thinkgreen We aim to increase awareness among our employees on how to tackle climate change. We hope and believe that, by taking visible measures internally at Nordea, we can inspire our employees to reduce their own carbon footprint and pass on their knowledge to customers, family and friends – creating a chain of change for a sustainable future.
+We focus on attainable steps towards a more sustainable workplace using #thinkgreen as an umbrella. #thinkgreen brings together sustainability initiatives linked to the workplace that employees can do in their daily working life. To turn focus towards carbon emissions from diferent types of food, we have introduced a couple of diferent meat-free initiatives in the canteens at our headofces. Other initiatives in 2019 include reducing use of single-use plastic, plates and cutlery, aimed at completely phasing it out, and we replaced bottled water dispensers with tapped water flters and also campaigned for re-using cofee cups. In 2015 we started The Paperless Banking Programme with the aim of replacing physical communication with digital solutions to electronically sign and archive documents. Fewer trees are needed for producing paper and envelopes, and transporting letters by road and air is signifcantly reduced. In 2019, the transition from paper to digital saved 4,028 trees, reduced carbon emissions by 1,000 tonnes and saved 176 million litres of water.
+Web links. 
+Position Statement on Climate Change. 
+Sector guideline for the Fossil Fuels Industry. 
+Sector guideline for the Real Estate Industry. 
+Sector guideline for the Forestry Industry
+
+
+39,
+Tota406 l CO2e emissions: tonnes 4. 
+CO .56 2e emission intensity: tonnes/EURm of total operating income. 
+Scope 1 (Direct)
+Emissions from diesel generators and leasing cars: 1,638 tonnes CO2e. 
+Scope 2 (Indirect)
+Scope 3 (Other indirect)
+Emissions from electricity, district heating and district cooling: 5,394 tonnes CO2e. 
+Emissions from business travel, fuel-and energy-related activities, postal s 3 ervic 2,37 es, paper and w 4 ater: tonnes CO2e. 
+Carbon emissions from our internal operations 17. 
+Nordea Sustainability Report 2019. 
+Taking climate action
+
+
+Embedding human rights. 
+At Nordea, we work systematically to embed human rights throughout our value chain, covering suppliers, our internal operations, customers and investee companies, and to strengthen our due diligence processes.
+Human rights are included in our Code of Conduct, Sustainability Policy, Responsible Investment Policy, Supplier Code of Conduct and in our Sector Guidelines as relevant for specifc industries.
+Human rights due diligence in investments and fnancing Our investment and fnancing decision-making processes include assessing companies’ risk exposure, risk management and performance related to environmental, social and governance issues, including human and labour rights. We also investigate whether companies have been involved in controversies, and the actions they have taken to mitigate and rectify the potential impacts of such controversies. Human rights form a focus area for our active ownership and engagement activities, and we have a number of engagements that address human rights issues. All Nordea funds are subject to norm-based screening, which identifes companies that are allegedly involved in breaches of international law and norms on environmental protection, human rights, labour standards and anti-corruption. The screening also identifes companies that are subject to exclusion based on our exclusion criteria. As per September 2019, we have 11 companies on our exclusion list due to violation of human rights-related norms including norms violation of the rights of indigenous people. The complete exclusion list can be found at nordea.com. ESG is one parameter in our risk evaluation in the credit decision-making process for a customer. As part of these evaluations, we analyse and assess companies’ risk exposure, risk management and performance related to human and labour rights. If we have identifed adverse human rights violations, it might afect a company's risk score in credit memorandums.
+Assessing our internal operations In 2019, we conducted an independent human rights assessment, based on the Corporate Human Rights Benchmark (CHRB) methodology. The assessment covered our internal operations and value chain and included our governance and policy commitments, human rights risk and impact management, and remedies and grievance mechanisms. The assessment also included country risk profles of all the countries in which Nordea is established. For details about our human rights assessment, see page 39 in sustainability note S6. The assessment identifed the need to further develop our due diligence processes for all parts of our value chain and also the need for alignment of our policies and statements covering human rights. We already work to embed human rights into the organisation and to strengthen our due diligence processes, and the assessment hence confrms that we are focusing on the right things.
+Addressing human rights in our supply chain Nordea´s Supplier Code of Conduct outlines the expectations we have on our suppliers and is aligned with the Nordea Code of Conduct and the UN Global Compact (UNGC). To be able to take proper action, we plan to conduct a targeted human rights risk assessment of our supply chain in 2020 drawing on conclusions from the overall human rights assessment of the Nordea Group conducted in 2019 (for more details, see page 20).
+Children’s rights Addressing children’s rights is part of our focus on human rights. To fortify our human rights approach, in 2019 we asked Save the Children to perform an assessment on how Nordea could address the Children’s Rights Business Principles in our operations. The assessment result will be looked into in 2020 to identify any actions needed. In 2019, Nordea was also involved in the Financial Coalition against Commercial Sexual Exploitation of Children – a collaboration between Swedish banks, other fnancial companies in Sweden, the Swedish Bankers’ Association, ECPAT Sweden and other relevant participants.
+Raising internal and external awareness about human rights To ensure adequate awareness and knowledge of our ethical principles including human rights, all Nordea employees are required to complete annual Code of Conduct training as part of their Licence to Work. For both internal and external stakeholders, Nordea´s whistleblowing function RYC can be used to report suspected breaches of human rights in our operations, products or services. In 2019, no cases concerning human rights issues were reported through WhistleB.
+Web links. 
+Code of Conduct. 
+Sustainability Policy. 
+Responsible Investment Policy. 
+Supplier Code of Conduct. 
+Exclusion List. 
+Embedding human rights. 
+Nordea Sustainability Report 2019 18
+
+
+Embedding human rights. 
+Investors coming together to improve human rights. 
+Since 2016, Nordea has helped fund the CHRB and has a seat on the Advisory Council which governs the organisation. In the last four years, the CHRB has established itself as an internationally recognised standard on business and human rights by companies, investors, governments and other stakeholders. In 2019, the benchmark measured 200 of the world’s largest listed companies from the Agricultural Products, Apparel, Extractives industries and Information Communication and Technology (ICT) manufacturing sectors. Investors are increasingly demanding a greater focus on human rights. At Nordea, we work with peers to drive change based on the CHRB assessment results. An investor coalition with CHRB investors Nordea, APG Asset Management and Aviva, together with 85 other asset managers with more than USD 5.3tn in AuM, communicated their expectations on human rights to all assessed compa- nies after the frst benchmark in 2017. The coalition is now following up on the 2018 and 2019 assessment results. The CHRB results are integrated into Nordea´s ESG analysis and ownership activities where relevant, and annual CHRB assessments enable tracking progress on investee companies’ performance in terms of human rights.
+During the proxy season 2019, a number of shareholder resolutions on human rights issues referred to CHRB’s scoring. In 2020, the Automobile manufacturing sector will be added to the benchmark and in the same year CHRB will work with the World Benchmarking Alliance (WBA) to scope an approach to assessing the fnance sector.
+“In the last two years, a majority of companies have engaged with CHRB and its investor coalition, including Nordea.
+In 2018 and 2019, CHRB has observed steady improvements in scores. This is a positive movement and should flter down into improved company actions in operations and supply chains. We also see that CHRB’s fndings are supported by third parties, which are using CHRB methodologies to conduct national-level company human rights assessments that feed into the narrative of improving national action plans in EU countries.”
+Dan Neale, Pr ogramme Director, CHRB. 
+Nordea Sustainability Report 2019 19
+
+
+Responsible supply chain. 
+It is becoming increasingly important to manage sustainability risks, harness opportunities and mutually engage with stakeholders across the business to strengthen a company’s position on sustainability.
+In 2019, Nordea spent EUR 2.529bn on external suppliers. We have 1,535 contracted suppliers, primarily in the areas of IT, HR, Premises and Real Estate, Cards, Market Data, Travel, Marketing and Representation, Printing, ATM and Cash Handling, Telecom, and Debt collection. Details about our supply chain and supplier-related data are provided on page 39 in sustainability note S6.
+Supplier engagement is essential to advancing sustainability performance We apply a risk-based approach to our supply chain. We focus our eforts where they have the greatest impact, recognising that supplier segmentation is an ongoing process and continuing the work we initiated in 2018. All potential suppliers are pre-screened before contracting on a number of parameters such as country risk, sector risk, reputational risk as well as for compliance with sanctions. Based on the pre-screening, all high-risk suppliers are assessed using a sustainability questionnaire, which then determines whether additional engagement is required. This engagement can result in mitigating actions, on which follow-up is performed, or even disqualifcation. In 2019, we matured our approach to engaging with suppliers when we have identifed potential risks, or when a supplier objects to signing the Nordea Supplier Code of Conduct. In addition to the engagements, we conducted three in-depth sustainability reviews in 2019,
+Web links. 
+Supplier Code of Conduct. 
+Responsible supply chain focusing on our merchandise supplier as well as on our IT service suppliers in India. The outcome of the reviews were that none of the suppliers were in breach of our Supplier Code of Conduct. However, all suppliers were given recommended actions for improvements.
+Integrating sustainability into the tendering process In 2019 we worked on how to formalise the integration of sustainability into the tendering process, seeking to reward sustainable suppliers, and enabling informed decision-making. This work will continue in 2020. Examples on the practical implementation of this was the TCO-certifed1 requirement, which was included in a laptop tender in 2019. In an IT accessory tender, suppliers were evaluated on the extent to which circular economy principles (durability, repairability and reusability) had been considered in the design and production of the products supplied, as well as the suppliers’ recycling capability. In many cases, these questions are new to the suppliers, so we recognise that this is a journey that requires eforts on both sides. Most procurement categories now also have a sustainability assessment of the area concerned, addressing opportunities and risks for the industry in question.
+Strategic sustainability focus areas Procurement is about balancing sometimes contradictory objectives within topical areas like quality, risk, price and sustainability. In 2019, climate action together with human and labour rights, were selected as two strategic focus areas for sustainable procurement. In both areas, we have introduced explicit commitments and we will focus our eforts where they have the greatest impact. We acknowledge that modern slavery and conflict minerals may pose the largest risks in our supply chain. These are risks we intend to dig deeper into in 2020. Nordea will under no circumstances accept such violations in any tiers of our business, and we continuously work to improve our processes for investigating potential violations. Drawing on conclusions from the overall human rights assessment of Nordea Group that was performed in 2019, in 2020 we will conduct a human rights impact assessment of high-risk areas, understanding them from the angle of impacted rights-holders such as workers in the supply chain. We want to determine measures to address any adverse human rights impacts identifed, and facilitate dialogue between relevant parties. Finally, we also intend to establish partnerships between Nordea and other stakeholders to address human rights impacts.
+1) TCO is the world’s most comprehensive sustainability certifcation for IT products.
+Nordea Sustainability Report 2019 20
+
+
+Responsible supply chain. 
+Multi-stakeholder engagement to drive change. 
+IT is one of the core areas of Nordea´s supply chain, with a 32% share of total spend. It represents both signifcant opportunities, but also poses great challenges in areas like potential human rights and labour rights violations, as well as prevalent environmental issues throughout the product lifecycle, from extraction of fnite resources to waste handling. These are challenges faced by Nordea, and we have a responsibility in terms of helping to address them. There are however limits to how much a single company can influence an industry. Nordea believes that, through collective engagement with other visionary companies, we can establish a shared understanding of the magnitude of the challenges and thus help attain systemic change. It is a case of transitioning from a linear to a circular business model, which is essential for future-proofng the IT industry. Atea Sustainability Focus (ASF) is an initiative with the purpose of providing a multi-stakeholder platform for Nordic procurement organisations and the global IT industry to engage on how to achieve more sustainable operations. Through Nordea´s representation on the Advisory Board of the ASF initiative, we seek to accelerate sustainability eforts in the IT industry. On an annual basis, the ASF Advisory Board provides recommendations to the Responsible Business Alliance (RBA), the world’s largest industry coalition dedicated to supply chain sustainability. The coalition consists of more than 145 member companies related to the IT and electronics industry with collective annual revenue of around USD 5.5tn, and representing over six million workers in the supply chain. In 2019, the ASF Advisory Board recommendation to the RBA was to develop and implement a 2050 climate-neutral and competitive business roadmap for the transition to a circular economy. To support this transition, the recommendation also calls for actions from the industry to standardise components and materials, increase transparency through product labelling on climate footprint, level of repairability, lifetime expectancy and fnally for RBA to lobby for political action supporting the transition to a circular economy. From Nordea´s perspective, the engagement in the initiative has led to many discussions of principle internally as well as externally. It is evident that the IT industry needs to transition to a circular model to achieve climate neutrality by 2050. As a responsible buyer, however, the next task for us is to formalise how we can support this transition and drive real impact already in the tendering process and through our continuing engagement in the ASF initiative.
+“The really interesting aspect in European sustainability eforts is that it’s customers who are behind this – progressive banks, committed retailers and public buyers. They are positioned in a way that enables them to drive immediate change – especially buyers from the Nordic market, as they are willing to push the envelope much further. As they take the lead, it’s easier for others to follow.”
+Deborah Albers, Vice President, RBA. 
+Nordea Sustainability Report 2019 21
+
+
+Nordea Sustainability Report 2019 
+
+ 
+
+ 
+
+ 
+
+22 People performance. 
+People performance. 
+Our business is a people business and, in our changing industry, we encourage our people to take ownership, grow and develop.
+Nordea has built a cultural foundation with defned purposes and values, and the organisation has been delayered and integrated agile ways of working. This has led to faster communication and decision-making, more collaboration and common solutions. However, to take Nordea to the next level, we need to make changes with a focus on performance, execution and accountability providing additional opportunities for employees to take ownership, grow and develop.
+Engaged employees lead to satisfed customers In 2019, we focused on reinforcing the relationship between engaged people and satisfed customers. We recognise that engagement enables performance and drives the business momentum needed to achieve our strategic vision. We want to build winning and high-competence teams, who are passionate about customer experiences and aware of and understand local needs, but also fully beneft from our cross-border knowledge.
+We encourage both personal and team dialogues to help us improve the engagement and well-being of our people. In the performance and learning dialogue that all employees have with their leader, our purpose and values – collaboration, ownership, passion and courage – form the starting point for discussions on how our employees can contribute, grow and enjoy. The employee survey, People Pulse, helps us to measure engagement and well-being systematically, while at the same time providing insights into pain points in need of address.
+Measuring our people’s engagement and well-being The response rate to the People Pulse survey increased to 78% in 2019 com- pared to 68% in 2018. We experienced improved satisfaction in many areas and 82% of our people feel valued as employees. One of the main shared pain points identifed is processes and tools to support daily work. We continue to take concrete actions to improve these conditions by for instance improving the stability of our IT systems and lowering IT service desk waiting time.
+Working actively to facilitate a positive work environment, we encourage our people to be physically active and take care of their health. Absence due to illness is monitored quarterly at group level. The sick leave ratio (3.49%) shows an overall decreasing trend during the past three years. The People Pulse survey shows that 91% of our people feel they are always or often in good shape to carry out their work.
+We recognise that leaders have the largest impact on employees’ performance, well-being and day-to-day engagement. Therefore, we encourage leaders to be accessible and visible to their employees and to engage in dialogues within and across teams. Leaders manage their employees in a diferentiated way to ensure everyone has the opportunity to perform and grow.
+We continuously monitor the People Pulse survey for signs of changing trends to be able to take swift action.
+Developing competencies We are committed to ensuring longterm and sustainable employability of our people. We give our employees the opportunity to grow and become great at what they do. To achieve this, Nordea has partnered with Udemy for Business, a world-renowned education provider, to ensure our people can acquire the skills and capabilities they need to be successful today and in the future. We have access to more than 3,000 top-rated online courses ranging from training customer-facing skills, agile project management, design thinking, marketing, leadership, fnance and accounting, to artifcial intelligence (AI), data modelling and sales.
+Resource planning to meet future needs To meet future needs we need to plan our resources carefully. We will become more efcient, adapting to the current and future environment to continue to ofer exceptional customer experiences. This includes developing simpler and faster digital channels, prioritising activities to meet our business requirements or transferring certain activities to Poland or Estonia. This could lead to certain jobs changing, relocating or becoming redundant.
+Through constructive discussions and collaboration with our unions, we will play a key role in securing the right strategic approach for engaging our people during times of change while respecting labour market conditions. We are committed to treating our people with respect and care and we aim to help them develop skills to fnd new job opportunities inside and outside Nordea.
+In 2019, we started to build upon existing initiatives aimed at the people whose jobs might be afected by change in the years to come. We are for instance improving internal job matching processes with a clear focus on rehiring internally and expanding learning oferings to support competence development.
+For data on employee turnover, col- lective bargaining agreements, employment contracts and total workforce, see page 40 in sustainability note S6.
+
+
+Nordea Sustainability Report 2019 
+23 People performance 86% 82% 82% feel we often or always act according to our values.
+feel valued as an employee.
+had a performance and learning dialogue during Q31.
+1) Included as a question only in the People Pulse survey in Q3 2019, compared to in both Q3 and Q4 2018.
+
+
+Diversity and inclusion. 
+We recognise the ever-growing importance of diversity of backgrounds, experiences and personal qualities. By fostering an inclusive culture, we are committed to ensuring that everyone can bring their whole self to work.
+We aspire to mirror our diverse customer base to deliver the best services and innovative solutions. To ensure great customer experiences and sustainable growth, we are constantly monitoring and identifying the range of barriers to diversity and inclusion.
+Accommodating a genderbalanced workforce We are proud to have a balanced gender representation across Nordea, consisting in 2019 of 51% women and 49% men. Regrettably, we have not been able to achieve the same result across all levels and business functions. Therefore, in 2020 we are developing gender equality targets and will create measurement processes that will allow us to track progress in achieving a balanced gender distribution per level and function. The gender composition of management did not change markedly in 2019; 40% of all our leaders were women and 60% were men. To strive for greater gender balance and to show our commitment, in 2019 we participated in the SHE Conference and partnered up with the external network Female Invest, to emphasise the importance of closing the gender gap by promoting fnancial gender equality. For details on gender balance at different levels in the organisation, page 40 in sustainability note S6.
+Diversity beyond gender Our ability to grow sustainably depends on the people we employ, and we aim to attract talent regardless of gender, age, ethnicity, sexual orientation, religion or any other aspects that are irrelevant to the job description. Therefore, in 2020, we will have recruitment policies and training programmes in place that raise awareness and counter potential biases that might undermine a fair and equal hiring process. In 2019, we took part in Pride celebration seminars, events and parades across the Nordics and Poland. Our Employee Resource Group (ERG) in Poland created a “buddy programme” to support new employees with international backgrounds, and the Swedish ERG partnered with Gör plats.se, to support internships and employment for people with various ability variations. All these activities show Nordea´s commitment to equality, human rights and inclusion, and are a result of cross-functional collaboration.
+Diversity and inclusion at the heart of our daily operations Nordea´s Diversity & Inclusion Committee aligns and defnes the overall strategic direction and key deliverables for diversity and inclusion. In 2019, the Diversity & Inclusion Committee started to build an even stronger executive commitment to the diversity and inclusion agenda, supported by internal activities within local ERGs. Furthermore, a new chairperson was introduced. In 2020, the Diversity & Inclusion Committee will focus on creating a business case which will be the foundation of our overall diversity and inclusion strategy. This will ensure that we translate our priorities into practice and embed diversity and inclusion into Nordea´s culture.
+Treating each other with dignity and respect At Nordea we wish to provide a workplace that is free from discrimination, and we have zero tolerance of any form of harassment, victimisation or similar violations in the workplace. By introducing guidelines and policies, we expect our employees to be responsible for treating others with dignity and respect and to report all incidents of harassment immediately so that they can be quickly and fairly resolved. Throughout 2019, we continued working with team dialogues, which encourage all employees to have resolute conversations about how we treat each other at work. In 2019, 2% of the respondents to our People Pulse survey stated that they have been subjected to some sort of harassment or other maltreatment. In 2019, we handled 28 harassment cases reported through RYC. This is a 15% decrease in the number of reported harassment cases compared to last year.
+Equal pay Nordea is committed to ensuring that all employees are treated equally, including fair and un-biased remuneration decisions. In 2019, we worked closely with people leaders who oversee delivering fair and equal pay, for example by introducing clear guidelines for people leaders focused on fair and equal pay and on related legal requirements. This communication to people leaders serves not only to create awareness of fair and equal pay, but also of the risks of biased pay decisions. An annual analysis is performed of all countries to facilitate discussions with people leaders and our unions on potential equal pay gaps. Furthermore, we are continuing the work initiated in 2018 to develop a job framework to support both the identifcation of comparable roles and our ongoing work on market-informed fair and equal pay.
+24. 
+Nordea Sustainability Report 2019. 
+Diversity and inclusion
+
+
+Gender balance. 
+Diversity. 
+ERG´s focus areas. 
+People highlights. 
+Cross cultural LGBT+ Ability variation Gender equality ˜°% ˜˝% ˙˜%
+Total workforce below 30 years old. 
+Total workforce 30–50 years old. 
+Total workforce above 50 years old 50% 50%
+Board of Directors (excl. employee representatives) 22% 78%
+GLT 51% 49%
+Total workforce 40% 60%
+People leaders. 
+Together, our employees speak 49 diferent languages 25. 
+Nordea Sustainability Report 2019. 
+Diversity and inclusion
+
+
+Community engagement. 
+In the age of digitalisation, fnancial exclusion is an increasing problem for many people. Building fnancial skills and understanding available digital tools increase fnancial literacy and inclusion and contribute to fnancial well-being in life and business. Improving fnancial skills in society is one of the pillars of our community engagement strategy. Supporting entrepreneurship is the second pillar, as entrepreneurs play an important role in society in terms of creating growth, innovation and jobs. The community engagement strategy has a specifc focus on social entrepreneurs whose primary purpose is to have an impact on society.
+Volunteering is a cornerstone in our community engagement strategy Our community engagement strategy is built on volunteering, with all employees being encouraged to spend two work days per year doing voluntary work. Focusing our eforts in areas where our employees have unique expertise allows us to have greater impact. In 2019, we increased our community engagement eforts further. In Finland, an ambitious target of a 50% participation rate was set which we managed to exceed. In the frst two weeks of October we arranged V olunteer Super Weeks during which 1,000 employees did volunteering work. We also ran our frst ever community engagement marketing campaign with the theme “Don’t let money break you”. In Sweden, a long-term ambition of delivering 10,000 hours of volunteering per year was formulated to increase internal awareness and engagement. We also launched a digital coaching programme for seniors in cooperation with the Stockholm libr aries, inspired by a programme we already run in Finland (see case on opposite page).
+In Denmark several community engagement activities were piloted in 2019. From small-scale initiatives helping the most vulnerable groups in society like partnering with the organisation Stop Youth Unemployment, Now to large scale initiatives such as Money Week targeting public schools all over the country. In Norway focus has been on fnancial education in schools in cooperation with Young Entrepreneurship. More than 100 employees volunteered in the activity Nordea i skolen. All in all, more than 5,400 Nordea employees spent almost 22,000 hours on volunteering in 2019, compared to 3,000 employees spending 18,900 hours in 2018.
+Financial skills In all our four Nordic countries, we act in co-operation with partners and through our own programmes to help young people build a successful fnancial life for themselves. The most established programme is in Finland, where we are a partner to the education initiative Me & MyCity. Aimed at sixth-graders, it is a learning package consisting of ten teacher-led lessons and a visit to a learning facility. Me & MyCity is a miniature society of children and youths, in which Nordea is the banking partner at three diferent locations and volunteers act as assistant instructors to promote learning fnancial skills among children and youths. Me & MyCity for ninth-graders is a world with young people in charge. The skills learnt in the sixth grade are put into an environment in which the students are engaged in a two-hour game simulating the global economy. In Denmark, Nordea partners with Finance Denmark to advice heavily indebted citizens on structuring their debts through instalment plans and other measures. The initiative is supported by the Danish ministry of social afairs and the Interior. In Poland, Nordea has a long-term partnership with the Specialist Support Centre for Victims of Domestic Violence (SOWOP) in Lodz. Nordea employees volunteer to teach fnancial skills and banking knowledge with SOWOP’s residents. In the spring and autumn, special events were organised for the youngest residents of the centre, including lectures on how to save money. The centre is fnancially supported by Nordea Branch Poland and the project unites all Nordea employees, regardless of age, gender or position.
+Entrepreneurship We encourage entrepreneurship and support start-ups, growth companies, scale-ups and organisations with a focus on young entrepreneurs and social innovation companies. In Norway, Nordea is main partner to the TheFactory, which is a leading Nordic Accelerator & Incubator for fntech start-ups. Nordea employees can volunteer for mentoring the startups associated with TheFactory, and in 2019 we co-hosted an Oslo Innovation Week event “Exploring the Digital Future” with the participation of political leaders, some of Norway’s foremost entrepreneurs and world-class corporate leaders. In Sweden, Nordea is partner to Norrsken Foundation, an organisation with the purpose of fnding and investing in “impact companies” and, in the long run, creating impact unicorns. To reach its goal, Norrsken launched Impact Week during 16–19 September 2019, a week focusing on start-ups doing something good for the world. Nordea was one of the main partners for Demo Day during Impact Week and announced two winners of the Nordea Ideas Award.
+Community engagement at Nordea is about creating positive change through employee volunteering. In around 20 volunteering programmes and partnerships, we focus on building fnancial skills and fostering entrepreneurship. This enables us to have a tangible impact in society through our core expertise.
+Community engagement. 
+Nordea Sustainability Report 2019 26
+
+
+Community engagement. 
+Digital guidance improves social inclusion. 
+Services provided in society are becoming increasingly digitalised and the banking business is at the centre of this process. At Nordea, we want to do our share to ensure that as many citizens as possible possess the skills to be digitally active. In 2019, Nordea provided over 10,000 customers who are senior citizens with guidance in the use of digital services. The number remained at the same level as in 2018. Guidance in digital services was focused on authentication for banking services and other public services. Digital guidance was provided at more than 500 diferent locations, such as libraries, sheltered accommodation, local schools, as well as municipal and city service points. In addition to the digital guidance events organised by Nordea, the bank trains peer instructors of pensioners’ associations across Finland. These instructors are senior citizens who advice other seniors in the use of digital services. This year, in Fin- land over half of the volunteering days were spent on digital guidance. It is noteworthy that the participating volunteers came from nearly 40 different business units, and many of the volunteers were not directly involved in customer contacts. Each digital advisor underwent training before the digital guidance event. The training content was compiled by Nordea´s digital experts together with several diferent senior citizens’ organisations. Jaakko Ojala is one of our customers who has received digital guidance from Nordea. On this occasion, we activated the mobile bank and code app for the customer, who was also interested in learning how to scan bar codes to avoid keying in digits. He felt he had received the help he needed, and that the guidance went well. Afterwards, Jaakko thought that he had coped well with mobile services, although the most convenient way for him to pay bills will still be on his PC, with authentication using the code app. The customer commented that “the code app was very handy,” and that he had recommended the app to his friends as well.
+“This year, thousands of Nordea employees, myself included, have participated in events where digital guidance was provided. It’s great to see that a person who you have guided easily learned how to use our services and realised that the new solutions will make their life much easier. This is what Nordea´s digital guidance is all about.”
+Ari Kaperi, Country Senior Executive for Nordea in Finland. 
+Nordea Sustainability Report 2019 27
+
+
+Nordea Sustainability Report 2019 28 Embracing new technology. 
+Embracing new technology. 
+Nordea has been a pioneer in exploring the use of new technology such as chatbots and software robotics, embracing new ways of thinking and applying technology to resolve business issues and reduce sustainability impact. Although still in the early stages, we are seeing results in terms of faster customer response times, reduced manual work and improved cost efciency.
+With the emergence of new technologies like AI, machine learning, chatbots, software robotics and other cognitive tools, we can solve problems in new ways and address sustainability issues such as fnancial crime. These digital and data-driven tools have a positive impact on customer experience and oferings, as well as on internal cost efciency. Also, at Nordea, we believe that, in the current technology-focused era, it has never been more about the people – who can solve problems and use the tools where they add most value, and who can envisage anew how a bank can operate, and design accordingly.
+Applying new technologies at scale does not happen overnight Tremendous hype surrounds new technology in general, including in the banking sector. Expectations regarding major transformative changes in the short term are probably overestimated. For example, uncertainties regarding how AI and machine learning will be viewed in the light of GDPR and other emerging regulations such as data privacy and protection laws, as well as access to talent and cultural transformation, all come into play when building an AI-powered bank.
+Also, although building data-driven solutions will clearly bring signifcant value, it needs to be done in a highly responsible and trustworthy manner. In some areas, change will happen faster because the risk is lower. In other areas, however, important considerations come into play when data and algorithms are used to make predictions and decisions, for example. These considerations need to be managed carefully and transformation will therefore take some time before having any major impact.
+Increasing usage of AI and software robotics In 2019, Nordea continued to explore new ways of solving problems and developing solutions to add value. One area where we have seen results is the introduction of new powerful tools for our employees. Examples of greater productivity for employees include customer feedback analysis and the investigation of potential fnancial crime. We are also witnessing greater productivity in the area of underwriting or claims handling, where we are about to improve on certain industry standards and shorten the lead time. We believe that, by empowering our employees and assisting them with the right technology, they can spend more time on quality, high-value activities, like talking to customers. In total, our robotic solutions handled 4.9 million cases in 2019, which is equal to work of 357 full-time employees.
+Continuing to build solutions that strengthen our business In the long run, it is possible that AI (in combination with cloud services, block- chains, virtual reality, quantum computing, etc.) will have unforeseeable implications for most industries, including fnancial institutions.
+For now, however, Nordea will con- tinue on the road to becoming a more data-driven and AI-powered bank in order to add more value for our customers. We will continue to build solutions to strengthen areas such as customer engagement, pricing, credit management, fnancial crime detection and automation, and to lay the foundation for technology infrastructure and tools as well as execute on our data strategy. We will also continue to ensure that we have strong governance and robust processes for data management as well as for sourcing, developing and maintaining new applications.
+The most important factor is that we invest in our people by building awareness and knowledge in the new technology and understanding its implications. Our employees will continue make the change happen by working together internally and with the external ecosystem.
+As the largest fnancial institution in the Nordics, it is important that we, as a changemaker, collaborate with the regulators in matters related to ethics, compliance, interpretability, explainability, transparency and data integrity. Unlocking the value of new technology requires trust.
+
+
+New technological solutions. 
+Embracing new technology. 
+Chatbot Nova gives quick answers to quick questions. In 2019, Nova held more than 1.8 million conversations with customers and resolved 650,000 of these without having to escalate to human agents. This gave shorter waiting times for customers and freed up time for our agents at customer contact centres.
+Our fully digital trade fnance solution, We Trade, was launched in mid-2019 and is available to all our small and medium-sized corporate customers, ofering a secure venue for companies in Europe to trade with other European companies.
+At Nordea, digital payment solutions – Apple Pay, Google Pay and Samsung Pay – support whichever choices customers make.
+In 2019, our savings robot Nora helped almost 225,000 customers to start savings plans quickly and easily.
+
+Nordea Sustainability Report 2019 
+29
+
+
+Sustainability notes 31 S1. About this report 32 S2. Stakeholder engagements 33 S3. Materiality analysis 35 S4. Participation in commitments and initiatives 36 S5. Association memberships 36 S6. Fact book 41 Principles for Responsible Banking Reporting Index 43 TCFD Disclosure Index 44 GRI Content Index 49 Glossary 50 Assurance Report. 
+Sus Sustainabil ainability no ity notes es. 
+Nordea Sustainability Report 2019 30
+
+
+GRI Standard Reason for omission Explanation 102–8 Not applicable We do not report total number of employees by employment contract (permanent or temporary) by region as we do not collect that information for any purpose. We do not therefore expect to align our reporting by contract by region in the future.
+205–2 Not applicable Data regarding the mandatory training Licence to Work, provided on page 6, is our disclosure for GRI 205-2 regarding training about anti-corruption. Anti-corruption policies and procedures are included in our Code of Conduct which is part of the Licence to Work training. The Licence to Work training is mandatory for all employees and consultants working for Nordea. Our suppliers are covered by the Nordea Supplier Code of Conduct in which adherence to anti-corruption as stated in the UN Global Compact is a requirement. We report only the number of employees who have completed their Licence to Work training as a percentage of the total workforce, which includes all employees (excluding those on long-term leave) regardless of region and employee category. The completion rate is excluding consultants. The Code of Conduct is published on Nordea´s Intra and at nordea.com, i.e. communicated to all, both employees and external parties.
+302–1 Not applicable Fuel consumption and total energy consumption is not reported in joules as we receive it in liters respectively MWh from our suppliers of data.
+303–5 Not applicable We don't have any water consumption in water stress areas or any own water storage. We only use water in our kitchens and for sanitary purposes, hence the only relevant measure for us is our water consumption in cubic meters and not megaliters. We therefore only report on GRI 303-5 a).
+401–1 Information We do not report new employee hires but only employee turnover rate. Employee turnover rate is reported accord- unavailable ing to the following defnition: Number of permanent FTEs who have left Nordea at their own request divided by average number of FTEs within a chosen period. We can only obtain data on Group level, which is sufcient for our purpose of tracking this measure and we do not plan to report it by age group, gender or region.
+404–1 Not applicable Reporting training hours as a total and per employee is sufcient for our purposes of tracking this measure and we do not plan to report this indicator by gender or employee category in the future.
+404–3 Not applicable Reporting employees receiving regular performance and career development reviews is sufcient for our purposes of tracking this measure and we do not plan to report this indicator by gender or employee category in the future.
+406–1 Confdentiality conWe report general actions taken as a result of reported cases, however in order to protect the integrity of the straints reporters we don't disclose status of specifc incidents or actions taken.
+418–1 Confdentiality conWe describe our process for ensuring compliance with GDPR but cannot disclose number of complaints concernstraints ing breaches of customer privacy due to confdentiality constraints.
+Reasons for omissions from the GRI Standards We claim to report in accordance with GRI Standards: Core option but have a few omissions as specifed in the table below.
+S1. About this report. 
+Nordea reports on sustainability performance on an annual basis. Nordea´s Sustainability Report 2019 refers to the period 1 January to 31 December 2019, i.e. Nordea´s fnancial year. The previous report covered our 2018 fnancial year and was published in February 2019. An independent third party, PricewaterhouseCoopers Oy, has provided assurance on the sustainability information provided in this report. The scope of the assured information is indicated in the Independent Practitioner´s Assurance Report on page 50.
+Scope of the report Similar to the fnancial statements, this report covers Nordea Bank Abp. Data in the report has been gathered from all business areas and group functions in our four Nordic countries, Poland and Estonia, unless otherwise stated. This is indicated in conjunction with presented data where we also present restatements. In July 2018, Nordea entered into an agreement to acquire all shares in Gjensidige Bank. The acquisition was completed on 1 March 2019. Integration of Gjensidige Bank and Nordea is still ongoing. In September 2018, Nordea, together with DNB, entered into an agreement to jointly sell 60% of Luminor to a consortium led by private equity funds managed by Blackstone. The transaction was completed on 30 September 2019. In December 2019, Nordea entered into an agreement with Société Générale to aquire all shares in SG Finans AS, a Norweigan domiciled subsidiary of Société Générale that provides equipment fnance and factoring solutions. SG Finans AS has 360 employees and operates in Norway, Denmark and Swe- den. The acquisition is subject to customary regulatory approvals and is expected to close during the second half of 2020. Neither of these three transactions will influence data presented in this sustainability report as Gjensidige Bank, Luminor or SG Finans AS will not be included in the 2019 report.
+Disclosure in relation to commitments and initiatives This sustainability report is our disclosure in relation to several of the commitments and initiatives we participate in. • It is our Communication on Progress (COP) submission to the UNGC. See references to the UNGC Principles in the GRI Content Index on page 44–48 for references. • The report partly covers the disclosures recommended by TCFD. See the TCFD Disclosure Index on page 43 for references. • This report is where we report on the implementation of the Principles for Responsible Banking. See the Principles for Responsible Banking Reporting Index on page 41–42 for references. • The report serves as a description of our actions to mitigate climate change in accordance with the commitment made by Finance Finland to promote actions aimed at limiting global warming to below 2ºC in our work. For a list of our association memberships, see sustainability note S5. on page 36. • It partly fulfls the reporting requirements of the Equator Principles (EP). For full EP reporting, see Nordea Equator Principles Reporting at nordea. com.
+Nordea Sustainability Report 2019 31 Sustainability notes
+
+
+Summary of outcome from stakeholder dialogues. 
+Stakeholder Type of dialogue/channel Main aspects. 
+Employees People Pulse Team dialogues Cofee corners. 
+Well-being Gender equality Harassment. 
+Management GLT Business Area Management Business Ethics and Values Committee Sustainability Committee. 
+TCFD Sector guidelines for the fossil fuels, forestry and real estate industries Modern Slavery and Human Trafcking Statement Sustainability Report Gender equality Principles for Responsible Banking Collective Commitment on Climate Action. 
+Board of Directors Meetings Non-Financial Statement Sustainability updates Modern Slavery and Human Trafcking Statement ESG Risk Appetite Statement. 
+Customers Customer satisfaction surveys Individual customer meetings Customer contact center. 
+Customer satisfaction Sustainability agenda Climate-related risks Sustainable business solutions, expansion of e.g. development of Sustainability-linked loans. 
+EU Action Plan on Sustainable Finance Gender equality. 
+Owners Annual General Meeting Individual investor meetings Investor questionnaire. 
+Climate-related risks Sustainability performance. 
+Suppliers Qualifying questionnaires In-depth reviews Individual meetings. 
+Human rights Labour rights Climate impact Adherence to Nordea Supplier Code of Conduct. 
+Regulators European Central Bank EU Commission Financial Supervisor Authority. 
+Climate-risk management TCFD EU Action Plan on Sustainable Finance. 
+NGOs Fair Finance Guide Save the Children ShareAction BankTrack. 
+Sustainable Finance Children’s rights Climate change Human rights. 
+Media Interviews Press releases. 
+AML Gender equality Sustainable Finance Community engagement Diversity and inclusion Climate action. 
+Nordea Sustainability Report 2019 32 Sustainability notes. 
+S2. Stakeholder engagements. 
+We performed a thorough stakeholder analysis in 2016 that was revised in 2018, and validated in 2019. It identifes nine key stakeholder groups – employees, management, Board of Directors, customers, owners, suppliers, regulators, NGOs and media. We believe stakeholder dialogues are a good way of collecting valuable input for our sustainability agenda. In 2019, we engaged in dialogues in diferent ways with all our key stakeholders. Issues raised in the diferent dialogues, as shown in the table below, have been taken into consideration when preparing this report.
+
+
+Results from materiality analysis. 
+Areas that are fundamental to trust in the banking industry and must be managed well to ensure going concern.
+Areas important for us and/or our stakeholders in order to enable the transition to a sustainable future and that have a potential material impact on our business or brand perception.
+Prioritised area that will have a long-term fnancial impact on our business and that forms part of society’s goals as described in the SDGs and the Paris Agreement.
+Lead Climate action. 
+Focus Human rights Responsible supply chain Well-being at work Diversity and inclusion Community engagement. 
+Foundation Business ethics Governance Digitalisation Purpose and values. 
+S3. Materiality analysis. 
+To efectively identify and prioritise key sustainability topics, we regularly conduct a materiality analysis based on internal and external dialogues. In 2018, we conducted our latest materiality analysis, replacing the analysis conducted in 2016. The purpose of the materiality analysis was to identify the sustainability topics that are material to Nordea. Not only did it provide a basis for the 2018 Sustainability Report, but also for our sustainability targets in 2019.
+In 2019, we revisited the materiality analysis to ensure the topics we identifed as most relevant in the previous year are still valid. We concluded that they are and have therefore based also our sustainability targets for 2020 on its results.
+Our materiality pyramid In our materiality pyramid we have clustered topics into areas. The materiality pyramid stands on a foundation consisting of the sustainability areas that are fundamental to trust in the banking industry, and that must be managed well to ensure going concern. Our focus areas in the middle are those that are important to us and/or our stakeholders in enabling the transition to a sustainable future, and which potentially have a material impact on our business and/or brand perception. The top of the pyramid is our lead area – climate action. It is a prioritised area that will have a longterm fnancial impact on our business, and that forms part of society’s goals as described in the SDGs and the Paris Agreement. Society’s focus on climate change has not declined in 2019 – rather the opposite, and the fnancial sector’s importance to the transition to a low-carbon economy is more obvious than ever. Therefore, climate action remains our lead area. The materiality analysis was conducted as a combination of a desktop study to identify potentially relevant sustainability areas, and workshops and interviews with internal and external stakeholders to prioritise the areas and validate the fndings. All business areas and relevant group functions participated, as well as board members, owners, investors, customers and suppliers. Our stakeholders shared their views on the sustainability areas they consider important for Nordea to work with and report on, and what they expect of Nordea.
+Sustainability notes. 
+Nordea Sustainability Report 2019 33
+
+
+Impact in the value chain. 
+Suppliers Internal operations. 
+Customers Investee companies. 
+Climate action ● ● ● ●
+Energy ● ● ● ●
+Water ● ● ● ●
+Emissions ● ● ● ●
+Waste ● ● ● ●
+Human rights ● ● ● ●
+Responsible supply chain ●
+Well-being at work ● ●
+Health and safety ● ●
+Non-discrimination ● ●
+Employee turnover ● ●
+Qualifed and competent workforce ● ●
+Diversity and inclusion ● ●
+Equal opportunities ● ●
+Community engagement ● ●
+Business ethics ● ● ● ●
+Anti-corruption and bribery ● ● ● ●
+Anti-competitive behaviour ● ● ● ●
+Data privacy ● ● ● ●
+Financial crime ● ● ●
+Tax ● ● ● ●
+Compliance ● ●
+Financial inclusion ●
+Treating customers fairly ●
+Governance ● ●
+Governance structure ●
+Active ownership ● ●
+Digitalisation ● ●
+Purpose and values ●
+Sustainability impact in the value chain In the materiality analysis we also determined whether an impact occurs inside the organisation (i.e. relevant for our internal operations) or outside the organisation (i.e. relevant for suppliers, customers and/or investee companies). The results are shown in the table below. Most of the relevant sustainability topics impact Nordea directly. However, the 
+magnitude of the impact is greater outside of Nordea given that we are a large fnancial institution investing in companies, granting credits and providing advice to our customers. Like last year, this year we report on all the areas below apart from data for waste, for which we still lack consistent data between the countries (we are actively working on a way to establish credible reporting on it).
+Nordea Sustainability Report 2019 34 Sustainability notes. 
+S3. Materiality analysis, cont.
+
+
+Sustainability notes. 
+S4. Participation in commitments and initiatives. 
+As the largest fnancial services group in the Nordic region, we seek to encourage best practice through active participation in commitments and initiatives. Below are some examples.
+The Access to Medicine Index analyses the top 20 researchbased pharmaceutical companies on how they make medicines, vaccines and diagnostics more accessible in low- and middle-income countries. It highlights best and innovative practices, and areas where progress has been made and where action is still required.
+The Antimicrobial Resistance (AMR) Benchmark: The AMR Benchmark tracks how pharmaceutical companies are responding to heightened drug resistance. Nordea is a member of the Expert Committee.
+CDP: Nordea is a signatory to the CDP, a project that aims to collect and share information on greenhouse gas emissions and climate change strategies. The CDP is a cooperation arrangement between more than 525 investors with USD 96tn in assets. Nordea responds to CDP as a company but we also use the database information in our ESG analysis. We are also represented on the CDP Water Advisory Council.
+Climate Action 100+: Nordea Asset Management has joined Climate Action 100+, a collaborative fve-year global initiative led by investors to engage with the world’s largest corporate greenhouse gas emitters to improve governance on climate change, curb emissions and strengthen climate-related fnancial disclosures.
+Collective Commitment to Climate Action: Nordea has, together with the 30 other signatories with over USD 13tn in assets, announced a Collective Commitment to Climate Action. The commitment sets out concrete and time-bound actions the banks will take to scale up their contribution to and align their lending with the objectives of the Paris Agreement on Climate.
+The Corporate Human Rights Benchmark (CHRB) is the frst ever ranking of the world’s largest publicly listed companies on their human rights performance. The Corporate Human Rights Benchmark ranks the top 200 globally listed companies on their human rights policy, process and performance, harnessing the competitive nature of the markets to drive better human rights performance. Nordea has been a founding member since 2016 and on the CHRB Advisory Board.
+The Equator Principles: Nordea was the frst Nordic bank to adopt the Equator Principles, endorsing them in 2007. It is a set of guidelines on how to prevent, manage and mitigate environmental and social risks in project fnancing. The Equator Principles apply globally to projects across all sectors that have total project capital costs in excess of USD 10m and when the project is assessed to have a potential adverse social or environmental impact.
+Institutional Investors Group on Climate Change (IIGCC) provides investors with a collaborative platform to encourage public policies, investment practices and corporate conduct that address long-term risks and opportunities associated with climate change.
+The Montreal Carbon Pledge: Nordea signed the Montreal Pledge in 2014 as one of the frst signatories. By signing this pledge, we commit to measuring and publicly disclosing the carbon footprint of our investment portfolios on an annual basis.
+Net-Zero Asset Owner Alliance: Nordea Life & Pensions has joined the UN-convened initiative Net-Zero Asset Owner Alliance, committing to transitioning the investment portfolio to net-zero emissions by 2050. The alliance develops models and frameworks to use as industry standards for measuring alignment with the target of keeping global warming below the maximum 1.5°C increase.
+The Poseidon Principles provide a framework for integrating climate considerations into lending decisions to promote international shipping’s decarbonisation. Nordea, together with 11 other leading banks, jointly representing approximately USD 100bn in shipping fnance, have come together to commit to the Poseidon Principles.
+The Principles for Responsible Banking (PRB) have been designed by a core group of 30 founding banks, of which Nordea is one, together with the UN Environment Programme’s Finance Initiative. The principles create a better and easier way for banks and fnancial institutions to align with society’s goals. This, in turn, helps the industry to demonstrate how it can be a change-maker that can be counted on in society.
+The Responsible Ship Recycling Standards (RSRS): Nordea joined the RSRS initiative in 2017. The RSRS are voluntary principles for fnancial institutions active in ship fnancing. The RSRS aim to promote responsible ship recycling and to minimise the dangers associated with hazardous materials on board. The standards form guiding principles in the dialogue about responsible ship recycling between the fnancial sector and stakeholders in the shipping industry.
+Task Force on Climate-related Financial Disclosures (TCFD): Both Nordea Bank Abp and Nordea Asset Management support TCFD. The recommendations provide a foundation for climate-related fnancial disclosures for all companies, aimed at encouraging companies to report on the climate-related risks and opportunities that are most relevant to their business activities.
+UN Environmental Programme Finance Initiative (UNEP FI): Nordea signed the UNEP FI in 1994. It is a partnership between UNEP and the global fnancial sector to mobilise private sector fnance for sustainable development. UNEP FI works with more than 300 members – banks, insurers, and investors – and over 100 supporting institutions to help create a fnancial sector that serves people and planet while delivering positive impacts. Since 2017, Nordea is a member of the UNEP FI Banking Committee.
+UN Global Compact (UNGC) was initiated by the UN to encourage businesses to align their strategies and operations with ten universal principles building on UN conventions in the felds of human rights, labour standards, environment and anti-corruption. Nordea became a signatory to the UN Global Compact in 2002, frst through Nordea Bank Finland. From December 2004 the coverage was extended to the whole Group.
+UN Guiding Principles on Business and Human Rights (UNGP) from 2011 is the frst global standard for preventing and addressing the risk of adverse impacts on human rights linked to business activity. The standard continues to provide the internationally accepted framework for enhancing standards and practice in terms of business and human rights.
+Nordea Sustainability Report 2019 35
+
+
+S5. Association memberships. 
+Nordea is a member of a number of associations, see examples in the table below. Besides holding a position on the board, we also often participate in working groups and committees.
+S6. Fact book. 
+Tax We are a substantial corporate income tax payer in our main countries of operation – Denmark, Finland, Norway and Sweden – and we also pay social security contributions and bank levies in our countries of operation. Statutory tax rates, contri- butions and levies vary in our countries of operation, as does the size of Nordea´s business operations in each country. The total amount of tax paid in each country is determined by a combination of these variables.
+Sustainability notes. 
+S4. Participation in commitments and initiatives, cont.
+UN Principles for Responsible Investment (UNPRI): As one of the frst major banks in the Nordic countries, Nordea Asset Management signed the PRI in 2007. The PRI is the world’s leading proponent of responsible investment. It works to understand the investment implications of ESG factors and to support its international network of investor signatories in incorporating these factors into their investment and ownership decisions.
+The World Benchmarking Alliance (WBA): Nordea is an ally to the WBA which seeks to generate a movement around increasing the private sector’s impact towards a sustainable future for all. The WBA brings together a broad, balanced group of stakeholders with SDG 17 (Partnership for the Goals) at its core. Allies represent a large mix of voices aligned with the universality of the SDGs. These span everything from civil society and business networks to fnancial institutions and multilateral organisations.
+Tax payments (EURm) 2019 2018. 
+Total 1,226 1,481. 
+By country. 
+Denmark 205 333. 
+Finland 283 137. 
+Norway 260 290. 
+Sweden 359 600. 
+Others 119 121. 
+By tax type. 
+Corporate income tax1 571 890. 
+Social security fees 443 424. 
+Bank levy 211 167 1) Incl udes all expensed taxes during the year, both current and deferred tax.
+Association/Forum Type of engagement. 
+Swedish Bankers’ Association Board member. 
+Finance Denmark Board member. 
+Finance Finland Board member. 
+Finance Norway Board member. 
+European Banking Federation Nordea is represented via the local bankers’ associations which are members. 
+GFMA – Global Financial Markets Association Board member. 
+AFME – Association for Financial Markets in Europe Member. 
+Swedish Securities Dealers Association Board member. 
+FEAM – Forum of European Asset Managers Member. 
+EFAMA – European Fund and Asset Management Association Board member. 
+ICMA – International Capital Markets Association Member. 
+ISDA – International Swaps and Derivatives Association Member. 
+Nordea Sustainability Report 2019 36
+
+
+Sustainable products We have a variety of sustainable products to ofer our cusShare of assets that have been subject to positive ESG tomers and the range is growing to meet increasing demand. screening equals the Stars Funds and the Global Climate and Some of the products are targeted at our household customEnvironment Fund, i.e. 4.3%. ers and others at our corporate and institutional customers.
+Sustainable products 1 2019 2018. 
+Sustainable Selection. 
+Total AuM in EURm 9,945 5,332. 
+Share of AuM in relation to total portfolio (%) 2 4.9 3.1. 
+Stars Funds. 
+AuM in EURm 6,051 4,0803. 
+Share of AuM in relation to total portfolio (%) 2 3.0 2.43. 
+The Global Climate and Environment Fund. 
+AuM in EURm 2,567 1,0123. 
+Share of AuM in relation to total portfolio (%) 2 1.3 0.63. 
+Sustainable bonds. 
+Green bonds. 
+Number of green bonds we arranged 66 23 4. 
+Total apportioned deal value green bonds (USDbn) 3.945 1.399 4. 
+Share in relation to total market value (%) 1.97 1.03 4. 
+Sustainability bonds. 
+Number of sustainability bonds we arranged 3 5. 
+Total apportioned deal value sustainability bonds (USDbn) 0.25 5. 
+Share in relation to total market value (%) 0.43 5. 
+Loans and mortgages. 
+Sustainability-linked loans. 
+Number of sustainability-linked loans 10 6. 
+Total amount of debt raised in EURm 6,467 6. 
+Share in relation to total corporate loans (%) 4.9 6. 
+Green loans. 
+Number of customers granted green loans 178 15. 
+Volume of green loans in EURm 1,083 7. 
+Green car loans. 
+Number of green car loan transactions 20 6. 
+Volume of green car loans in EURm 0.85 6. 
+Green car fnancing. 
+Number of green car leasing agreements 8 36 6. 
+Volume of green car leasing agreements 8 in EURm 1.44 6. 
+Green mortgages. 
+Number of green mortgages 1,455 340. 
+Volume of green mortgages in EURm 142 7. 
+Other. 
+Share of AuM in sustainability-enhanced funds9 in relation to total portfolio (%)2 18.1 14.9. 
+Share of equity funds with carbon footprint (%) 100 100. 
+Number of companies we have engaged with on environmental and social issues 387 126. 
+Share of companies in the investment portfolio with which we have engaged on environmental and social issues (%) 6.3 5. 
+Sustainability notes 1) Excluding NLP.
+2) Total AuM for Asset Management in Asset & Wealth Management is EUR 201.7bn for 2019 and EUR 170.7bn for 2018. AuM for 2018 has been restated to exclude AuM for NLP.
+3) Data for 2018 has been restated due to minor calculation error.
+4) Data for 2018 has been restated to include a deal that was closed late in 2018.
+5) Not reported for 2018.
+6) Product launched in 2019.
+7) Product only available in Sweden 2018. Volume of green loans was SEKm 1,505 and volume of green mortgages was SEKm 304.
+8) Includes single contracts, frame agreements, etc.
+9) Includes Sustainable Selection and institutional mandates with additional sustainability criteria.
+Nordea Sustainability Report 2019 37
+
+
+Sustainability notes. 
+Climate impact 2019 2018. 
+Fuel and energy consumption , -fuel consumption for diesel generators (litres)1 2 25,855 24,835 -fuel consumption for leased cars (litres)3 653,103 662,469 -electricity (MWh)2 68,658 71,716 -district heating (MWh)2 32,362 42,256 -district cooling (MWh)2 6,269 9,750. 
+Energy intensity (MWh/EURm of total operating income)4 12.42 13.74. 
+CO2e emissions from fuel and energy consumption (tonnes) , -diesel generators (scope 1) 2 5 66 67 , , -leased cars (scope 1)3 6 7 1,572 1,724 , -electricity (scope 2)2 8 0 0 , -district heating (scope 2)2 9 4,512 5,509 , -district cooling (scope 2)2 10 882 1,030 , , , , , -fuel- and energy-related activities not included in scope 1 and 2 (scope 3) 2 5 7 8 9 10 3,930 3,357 , CO2e emissions from business travel (tonnes)3 11 -air travel (scope 3)12 20,864 23,424 -own car (scope 3)13 2,047 2,759 -taxi (scope 3)12 485 534 -hotel (scope 3)14 1,618 1,890. 
+Other CO2e emissions (tonnes) -postal service (scope 3)15 2,599 16 -paper (scope 3) 17 668 16 -water (scope 3) 17 163 16. 
+Total CO2e emissions (tonnes) 39,406 40,294. 
+CO2e emission intensity (tonnes/EURm of total operating income)18 4.56 4.47. 
+Carbon emissions Nordea's carbon footprint includes carbon emissions from our operations in Denmark, Finland, Norway, Sweden, Poland and Estonia because this is where we have our main operations. The greenhouse gas (GHG) accounting is performed according to the GHG Protocol, including scope 1–3 and the following sources: Scope 1 is mobile combustion of leased cars and stationary combustion from diesel generators. Scope 2 is purchased electricity, heating and cooling. Scope 3 is production of energy carriers and business travel. In 2019, scope 3 has been extended to include postal service, paper and water consumption. Still excluded from the scope are train, ferry travel and rental cars as well as purchased goods and services, IT equipment, etc. Carbon emissions from electricity in the table below are disclosed as market-based, i.e. after buying Guarantees of Origin. All emissions are stated in tonnes of CO2-equivalent (CO2e). The calculations cover the relevant GHGs, namely CO2, CH4 and N2O. In the table we disclose the emissions factors that we have used as a basis for our calculations as footnotes in relation to each source of emission. Applied Global Warming Potentials (GWP) based on IPCC Fourth Assessment Report (AR4) (2007) are; CO2 – 1, CH4 – 25 and N2O – 298.
+1) Includes 1,440 litres EcoPar A for 2018 and 1,800 litres for 2019.
+2) Includes headquarters, head ofces and data centres. Branch ofces are not included because we have some challenges in retrieving correct data for those. Our ambition is to include them as soon as we have reliable data.
+3) Covers all employees in the six countries regardless of location/ofce corresponding to approximately 99% of the total number of employees.
+4) Calculated based on reported consumption of electricity, district heating and district cooling.
+5) 2018: Depar tment for Business, Energy and Industrial Strategy (DBEIS), 2018.
+2019: Swedish EPA, 2018.
+6) Biogenic emissions from E85 corresponds to 0.03 tonnes CO2e for 2018 and 0.04 tonnes for 2019.
+7) 2018: DBEIS, 2018; Värmeforsk, 2011. 2019: Swedish Environmental Protection Agency, 2018; Swedish Petroleum and Biofuels Institute, 2018; DEFRA, 2019.
+8) 2018: IPCC, 2014; “European Residual Mixes 2017” by Association of Issuing Bodies; The Swedish Energy Markets Inspectorate, 2018; DBEIS, 2018. 2019: Vattenfall, 2015; IPCC, Technology-specifc Cost and Performance Parameters; IEA, 2019.
+9) 2018: Swedenergy, 2018; Danish Energy Agency, 2017; Finsk Energiindustri, 2018; Statistics Norway, 2015; Euroheat & Power, 2017. 2019: Dansk Fjernvarme, 2017; IEA, 2017; Euroheat & Power, 2013 - deducted from fuel mix; Finsk Energiindustri, 2017; IEA, 2017; Average of collected Norwegian Efs; IEA, 2017; Euroheat & Power, 2015; Energiföretagen, 2019; Energiföretagen 2020; Energiföretagen, 2021.
+10) 2018: Helen AB, 2018; Stockholm Exergi, 2018; Göteborgs Energi, 2018; “2017 Country by Country” by Euroheat & Power. 2019: Euroheat & Power, 2013 - deducted from fuel mix; Finsk Energiindustri, 2017; IEA, 2017; Euroheat & Power, 2015; Multiple, Swedish average.
+11) For Estonia, no travel data was available, and the emissions were therefore extrapolated. The Estonian ofces only account for approximately 1% of the employees covered.
+12) 2018: DBEIS, 2018. 2019: DEFRA, 2019.
+13) 2018: DBEIS, 2018. 2019: Trafkverket, 2019; DEFRA, 2019.
+14) 2018: DBEIS, 2018. 2019: CHSB Index 2019, Cornell Hotel Sustainability Benchmarking 2019 (M3 - Hotel Carbon Footprint Per Occupied Room, Mean values).
+15) Emission factor based on Post Nord's environmental calculator https://www.postnord.se/om-oss/hallbarhet/miljokalkylator.
+16) Not reported for 2018.
+17) DEFRA, 2019.
+18) Calculated based on reported scope 1–3 emissions.
+Nordea Sustainability Report 2019 
+38
+
+
+Supply chain 2019 2018. 
+Total spend (EURm) 2,529 2,386. 
+Total number of suppliers 15,164 15,537. 
+Estimated number of active contracted suppliers 1,535 1,322. 
+One-time suppliers 7,176 7,455. 
+Suppliers with multiple interaction 7,988 8,082. 
+Number of new contracted suppliers 127 68. 
+Spend by supplier category (%)
+IT 32 1. 
+Out of scope 2 15.9 1. 
+HR 14.2 1. 
+Premises and Real Estate 11.4 1. 
+Other 3 10.3 1. 
+Cards 5.3 1. 
+Market data 4.6 1. 
+Travel 2.1 1. 
+Marketing and Representation 1.9 1. 
+Printing 1.5 1. 
+ATM and Cash Handling 0.6 1. 
+Telecom 0.5 1. 
+Debt collection 0.2 1. 
+Environmental assessments. 
+New suppliers screened for environmental issues (%) 95 91. 
+Number of suppliers assessed for environmental impacts 42 20. 
+Number of suppliers identifed as having signifcant actual and potential negative environmental impact 0 0. 
+Suppliers identifed as having signifcant actual and potential negative environmental impacts with which improvements were agreed upon as a result of assessment (%) n/a n/a. 
+Suppliers identifed as having signifcant actual and potential negative environmental impacts with which relationships were terminated as a result of assessment (%) n/a n/a. 
+Social assessments. 
+New suppliers screened for social issues (%) 95 91. 
+Number of suppliers assessed for social impacts 42 20. 
+Number of suppliers identifed as having signifcant actual and potential negative social impact 0 14. 
+Suppliers identifed as having signifcant actual and potential negative social impacts with which improvements were agreed upon as a result of assessment (%) n/a 100. 
+Suppliers identifed as having signifcant actual and potential negative social impacts with which relationships were terminated as a result of assessment (%) n/a 0 1) Not reported in 2018.
+2) Non-negotiable spend such as government fees or regulatory expenses.
+3) Non-categorised spend such as commission and administrative expenses.
+4) Supplier c onvicted for bribery. The evidence on mitigating actions taken resulted in a decision to continue the relationship with the supplier.
+Suppliers In 2019, Nordea initiated diferent cost savings initiatives, increased the transparency of spend managed by Group Procurement and established an outsourcing agreement within the IT area covering approximately 120 employees. Besides that, we have not had any signifcant changes in our supply chain during 2019. Supply chain data includes Denmark, Finland, Norway and Sweden for 2018 and 2019. Estonia is included from September 2019.
+Human rights The independent human rights assessment performed in 2019 was a desktop study performed by an independent service provider based on the CHRB methodology. The assessment covered public information and documentation of governance procedures, policies, human rights risk and impact management and remedies grievance mechanisms relating to. 
+Nordea´s internal operations, all employees, fnancing and investments and supply chain management. The assessment covered 100% of Nordea´s own operations in all operating countries, but did not evaluate risks and impacts for individual suppliers, customers and investee c ompanies as such.
+Nordea Sustainability Report 2019 39 Sustainability notes
+
+
+Sustainability notes. 
+Number of employees 2019 2018. 
+Men Women Total Men Women Total. 
+Nordea Group 15,434 16,214 31,648 15,190 16,338 31,528. 
+Permanent contract 14,632 15,346 29,978 14,764 15,939 30,703 -full-time 14,083 13,725 27,808 14,293 14,494 28,787 -part-time 549 1,621 2,170 471 1,445 1,916. 
+Temporary contract 802 868 1,670 426 399 825. 
+Employee training. 
+Number of hours 409,218 424,465. 
+Average number of hours/employee 12.3 13.5. 
+Number of employees by country of operation. 
+Nordea Group 15,434 16,214 31,648 15,190 16,338 31,528. 
+Denmark 4,797 3,776 8,573 4,888 3,953 8,841. 
+Finland 2,536 4,269 6,805 2,552 4,531 7,083. 
+Norway 1,644 1,465 3,109 1,617 1,459 3,076. 
+Sweden 3,402 3,787 7,189 3,560 3,925 7,485. 
+Poland 2,495 2,079 4,574 1,953 1,644 3,597. 
+Estonia 183 362 545 120 248 368. 
+Russia 100 219 319 142 240 382. 
+International ofces 277 257 534 358 338 696. 
+Composition of governance bodies 2019 2018. 
+Men Women Age <30 Age 30–50 Age >50 Men Women Age <30 Age 30–50 Age >50. 
+Board of Directors 5 5 0 1 9 5 5 0 2 8. 
+Group Executive Managers 7 2 0 5 2 9 2 0 6 5. 
+People leaders 2,037 1,329 109 2,251 1,008 2,118 1,354 125 2,304 1,043. 
+Employees 13,390 14,883 6,537 14,139 7,597 13,063 14,982 6,243 13,813 7,989. 
+People All employee-related data in this Sustainability Report, except for employee turnover rate, is disclosed as headcounts. This is diferent from Nordea's Annual Report in which employee-related data is disclosed as FTE (full-time equivalents). The majority of our people are employed by Nordea.
+Our employee turnover rate for 2019 was 9.9 %, which is in line with 2018. In 2019, 88.7% of all our employees were covered by collective bargaining agreements.
+Fines and legal actions Compliance with applicable laws and regulations, market standards and business ethics is a fundamental aspect of our corporate culture. We strive for transparency, take accountability and learn from past mistakes. The legal action pending from 2016 regarding alleged anti-competitive behaviour or violations of antitrust and monopoly legislation was closed by the European Supervisory Authority (ESA) in April 2019 with no repercussions for Nordea. On 23 July 2018, the European Securities and Market Authority (ESMA) fned fve Nordic banks EUR 495,000 each, including Nordea Bank AB, for violating the Credit Rating Agency Regulation (CRAR) in relation to shadow ratings practice in June 2011 and August 2016. The fnes were made public. Nordea appealed the decision to the Board of Appeal of the European Supervisory Authorities (“BoA”). The BoA unanimousl y decided on 27 February 2019 not to uphold the ESMA decision. The BoA found that Nordea had infringed the CRAR, but that there was no negligence. The case has been remitted to the ESMA’s Board of Supervisors to adopt an amended decision based on the fndings of the BoA. On 11 July 2019, following the decision of the BoA, ESMA repealed the decision from July 2018 and adopted an amended decision. ESMA found that Nordea had infringed the CRAR but confrmed that there was no negligence. In accordance with the relevant provisions in the CRAR, ESMA decided that no fne is to be imposed, but that the infringement warranted a supervisory measure in the form of a public notice. Please note that the fnes and legal actions disclosed above are the material sustainability-related fnes and legal actions we are aware of and do not claim to represent all fnes and legal actions to which Nordea may be subject.
+Nordea Sustainability Report 2019 
+40
+
+
+Requirements Bank's response and self-assessment Reporting reference. 
+Principle 1 – Alignment. 
+We will align our business strategy to be consistent with and contribute to individuals’ needs and society’s goals, as expressed in the Sustainable Development Goals, the Paris Climate Agreement and relevant national and regional frameworks.
+1.1 Business model Nordea is a full-service bank domiciled in Finland, serving personal description and corporate customers through our customer segments: Personal Banking, Business Banking, Large Corporate & Institutions and Asset & Wealth Management. We are present in 20 countries, including our home markets Finland, Norway, Sweden and Denmark.
+1.2 Business strategy Our Sustainability Policy is based on several national and regional alignment frameworks. Further, we have elements of SDG impact analysis and work to align with the Paris Agreement in place. How to enhance our eforts will be identifed in the impact analysis that we will perform in 2020.
+Principle 2: Impact and Target Setting. 
+Sustainability Report 2019: This is Nordea (p. 6–7) Annual Report 2019: Who we are (p. 6–7) Website: Who we are (https://www.nordea.com/en/ about-nordea/who-we-are)
+Sustainability Report 2019: This is Nordea (p. 8–10),
+Taking climate action (p. 14), Materiality analysis (p. 33–34) Website: Sustainability Policy, Position Statement on Climate Change. 
+We will continuously increase our positive impacts while reducing the negative impacts on, and managing the risks to, people and environment resulting from our activities, products and services. To this end, we will set and publish targets where we can have the most signifcant impacts.
+2.1 Impact analysis We conducted a materiality analysis in 2018 fulflling some of the requirements set out in this principle. In 2020, we will conduct an impact assessment in line with the PRB requirements.
+2.2 Target setting Current targets are based on our materiality analysis. We will review our targets based on the impact analysis we plan to conduct in 2020 in line with the PRB requirements.
+2.3 Plan or Target Imple Current targets are monitored on a regular basis and KPI's have been mentation & Monitoring set.
+2.4 Progress on Imple Progress on the implementation of current targets are monitored on a menting Targets regular basis and status disclosed in the report.
+Principle 3 – Clients and customers. 
+Sustainability Report 2019: This is Nordea (p. 8), Materiality analysis (p. 33–34)
+Sustainability Report 2019: This is Nordea (p. 8–9)
+Sustainability Report 2019: This is Nordea (p. 8–9)
+Sustainability Report 2019: This is Nordea (p. 9)
+We will work responsibly with our clients and our customers to encourage sustainable practices and enable economic activities that create shared prosperity for current and future generations.
+3.1 Policies and practices Our Code of Conduct defnes the high-level principles that guide how we treat our customers, together with several policies and principles on ESG issues in fnancing, investing and advice.
+3.2 Sustainable practices We have expanded our sustainable product oferings during 2019, with clients and custoenabling our customers to make sustainable choices, and we have also mers embedded sustainability into our savings adivce tool.
+Principle 4 – Stakeholders. 
+Sustainability Report 2019: This is Nordea (p. 6, 8)
+Website: Code of Conduct, Sustainability Policy, Tax Policy, Position Statement on Climate Change. 
+Sustainability Report 2019: This is Nordea (p. 10–11), Sustainable Products (p. 37) Website: Green Bond Report 2019. 
+We will proactively and responsibly consult, engage and partner with relevant stakeholders to achieve society’s goals.
+4.1 Stakeholder consul tation, egagements and parterings. 
+We have identifed key stakeholder groups with which we engage in dialogue regularly.
+Sustainability Report 2019: S3. Stakeholder engagements (p. 32)
+Nordea Sustainability Report 2019 41 Principles for Responsible Banking Reporting Index. 
+Principles for Responsible Banking Reporting Index. 
+The below table sets out the reporting and self-assessment requirements for Signatories of the Principles for Responsible Banking. It is where we provide our response and self-assessment in relation to the principles and provide references and links to where in our existing reporting and at public domains the required information can be found.
+
+
+Requirements Bank's response and self-assessment Reporting reference. 
+Principle 5 – Governance and target setting. 
+We will implement our commitment to these Principles through efective governance and a culture of responsible banking 5.1 Governance structure We have a sustainability governance structure providing a solid foundation that enables developing and anchoring our strategic sustainability direction.
+5.2 Initiatives and We have launched an e-learning on sustainability to all our employees measures to facilitate implementation of our strategic sustainability direction and targets. In addition to this general sustainability training, we provide specifc training to advisors when launching new sustainable products. We have also introduced several sustainability initiatives in the workplace to increase awareness of sustainability and climate change. among our employees.
+5.3 Governance structu Our sustainability governance structure will support the implementare for Implementation of tion of the PRB principles.
+the Principles. 
+Principle 6 – Transparency and accountability. 
+Sustainability Report 2019: This is Nordea (p. 10, 12–13)
+Sustainability Report 2019: This is Nordea (p. 8–9), Taking climate action (p. 16)
+Sustainability Report 2019: This is Nordea (p. 10–13)
+We will periodically review our individual and collective implementation of these Principles and be transparent about and accountable for our positive and negative impacts and our contribution to society’s goals.
+6.1 Progress on Imple menting the Principles for Responsible Banking. 
+We began reporting on our progress on the implementation the Principles in 2018 and became signatories when they were ofcially launched in 2019. We have now set out a plan for our continued eforts, including an impact analysis and target setting where we will consider the SDG's, the Paris Agreement and national and regional frameworks and good practices.
+Sustainability Report 2019: CEO statement (p. 4–5) This is Nordea (p. 8)
+Nordea Sustainability Report 2019 42 Principles for Responsible Banking Reporting Index
+
+
+TCFD Disclosure Index. 
+This year we have further progressed climate-related fnancial disclosures in line with TCFD. Below is a cross-reference to where the recommended disclosures can be found in this Sustainability Report.
+Disclosure Page. 
+Governance a) Describe the board’s oversight of climate-related risks and opportunities.
+b) Describe management’s role in assessing and managing climate-related risks and opportunities.
+Strategy 5, 8, 10, 12–13 10, 12–13 a) Describe the climate-related risks and opportunities the organisation has identifed over the short, medium and long term.
+b) Describe the impact of climate-related risks and opportunities on the organisation’s business, strategy, and fnancial planning.
+c) Describe the resilience of the organisation’s strategy, taking into consideration diferent climate-related scenarios, including a 2oC or lower scenario.
+Risk Management 14, 16, 32–33 14, 16 14, 16 a) Describe the organisation’s processes for identifying and assessing climate-related risks.
+b) Describe the organisation’s processes for managing climate-related risks.
+c) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management. 
+Metrics and Targets 10, 12, 14, 32–34 10, 12, 14, 16, 35 10, 12, 14 a) b) c)
+Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+Describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.
+10–11, 14 16–17, 38 11, 16, 38. 
+Nordea Sustainability Report 2019 43 TCDF Disclosure Index
+
+
+GRI Standard Disclosure Page. 
+UNGC principle. 
+Reason for omission on page 29. 
+GRI 101: Foundation 2016. 
+General disclosures. 
+GRI 102: General Disclosures 2016 102-1 Name of the organisation 6, 31, Back cover 102-2 Activities, brands, products and services 6–8, 10–11, 28–29, 37 102-3 Location of headquarters 6, Back cover 102-4 Location of operations 6–7 102-5 Ownership and legal form 6 102-6 Markets served 6–7 102-7 Scale of the organisation 7 102-8 Information on employees and other workers 40 6 X 102-9 Supply chain 39 102-10 Signifcant changes to the organisation and its supply chain 39 102-11 Precautionary Principle or approach 16 7 102-12 External initiatives 35–36 102-13 Memberships of associations 36 102-14 Statement from most senior decision-maker 4–5 102-16 Values, principles, standards, and norms of behavior 6–8, 13, 18, 20–21 10 102-17*) Mechanisms for advice and concerns about ethics 6, 10, 18 102-18 Governance structure 13 102-20*) Executive-level responsibility for economic, environmental and social topics 10, 12–13 102-26*) Role of highest governance body in setting purpose, values, and strategy 8, 10, 12–13 102-30*) Efectiveness of risk management processes 6, 8, 10, 12–14 102-32*) Highest governance body’s role in sustainability reporting 13 102-40 List of stakeholder groups 32 102-41 Collective bargaining agreements 40 3 102-42 Identifying and selecting stakeholders 32 102-43 Approach to stakeholder engagement 32 102-44 Key topics and concerns raised 32 102-45 Entities included in the consolidated fnancial statements 31 102-46 Defning report content and topic Boundries 31–34 102-47 List of material topics 33–34 102-48 Restatements of information 31, 37 102-49 Changes in reporting 31 102-50 Reporting period 31 102-51 Date of most recent report 31 102-52 Reporting cycle 31 102-53 Contact point for questions regarding the report Inside front cover 102-54 Claims of reporting in accordance with the GRI Standards 44 102-55 GRI content index 44–48 102-56 External assurance 50 *) Not required for Core option.
+GRI Content Index. 
+GRI Content Index. 
+Nordea´s Sustainability Report 2019 has been prepared in accordance with the GRI Standards: Core option, and with relevant parts of GRI G4 Financial Services Sector Disclosures.
+Nordea Sustainability Report 2019 44
+
+
+GRI Standard Disclosure Page. 
+UNGC principle. 
+Reason for omission on page 29. 
+Material topics. 
+ANTI–CORRUPTION. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 12, 33–34 10 103–2 The management approach and its components 6, 8, 12 10 103–3 Evaluation of the management approach 8, 12 10. 
+GRI 205: Anti–corruption 2016 205–2 Communication and traning about anti–corruption policies and procedures 6, 12 10 X. 
+ANTI COMPETITIVE BEHAVIOUR. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 8, 12, 33–34, 40 103–2 The management approach and its components 6, 8, 12 103–3 Evaluation of the management approach 8, 12. 
+GRI 206: Anti–competitive behaviour 2016 206–1 Legal actions for anti–competitive behavior, anti–trust, and monopoly practices 40. 
+ENERGY. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 14, 16, 33–34 7, 8 103–2 The management approach and its components 8, 10–11, 14–16, 37–38 7, 8 103–3 Evaluation of the management approach 8–11, 14–16, 37–38 7, 8. 
+GRI 302: Energy 2016 302–1 Energy consumption within the organisation 17, 38 7, 8 X 302–3 Energy intensity 17, 38 8. 
+WATER AND EFFLUENTS. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 16, 33–34 103–2 The management approach and its components 16 103–3 Evaluation of the management approach 16. 
+GRI 303: Water and Efluents 2018 303–5 Water consumption 16 X. 
+EMISSIONS. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 14, 16–17, 33–34 7, 8 103–2 The management approach and its components 11, 14–16, 38 7, 8 103–3 Evaluation of the management approach 14–16, 32, 38 7, 8. 
+GRI 305: Emissions 2016 305–1 Direct (Scope 1) GHG emissions 17, 38 7, 8 305–2 Energy indirect (Scope 2) GHG emissions 17, 38 7, 8 305–3 Other indirect (Scope 3) GHG emissions 17, 38 7, 8 305–4 GHG emissions intensity 38 8. 
+GRI Content Index. 
+Nordea Sustainability Report 2019 45
+
+
+GRI Content Index. 
+GRI Standard Disclosure Page. 
+UNGC principle. 
+Reason for omission on page 29. 
+SUPPLIER ENVIRONMENTAL ASSESSMENT. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 20, 33–34 8 103–2 The management approach and its components 6, 12, 18, 20, 39 8 103–3 Evaluation of the management approach 9–12, 20–21, 32, 39 8. 
+GRI 308: Supplier Environmental Assessment 2016 308–1 New suppliers that were screened using environmental criteria 39 8 308–2 Negative environmental impacts in the supply chain and actions taken 39 8. 
+EMPLOYMENT. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 22, 33–34 6 103–2 The management approach and its components 6–8, 22 6 103–3 Evaluation of the management approach 22, 32 6. 
+GRI 401: Employment 2016 401–1 New employee hires and employee turnover 40 6 X. 
+TRAINING AND EDUCATION. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 8–9, 22, 33–34 6 103–2 The management approach and its components 8–9, 22 6 103–3 Evaluation of the management approach 8–10, 22–23, 40 6. 
+GRI 404: Training and Education 2016 404–1 Average hours of training per year per employee 40 6 X 404–2 Programs for upgrading employee skills and transition assistance programs 22 404–3 Percentage of employees receiving regular performance and career development reviews 23 X. 
+DIVERSITY AND EQUAL OPPORTUNITY. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 8, 24–25, 33–34 6 103–2 The management approach and its components 8, 24–25 6 103–3 Evaluation of the management approach 24–25, 32, 40 6. 
+GRI 405: Diversity and Equal Opportunity 2016 405–1 Diversity of governance bodies and employees 25, 40 6. 
+Nordea Sustainability Report 2019 46
+
+
+GRI Standard Disclosure Page. 
+UNGC principle. 
+Reason for omission on page 29. 
+NON–DISCRIMINATION. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 8, 24, 33–34 6 103–2 The management approach and its components 8, 24 6 103–3 Evaluation of the management approach 24 6. 
+GRI 406: Non–discrimination 2016 406–1 Incidents of discrimination and corrective actions taken 24 6 x. 
+HUMAN RIGHTS ASSESSMENT. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 18–19, 24, 33–34 1, 2 103–2 The management approach and its components 6, 8, 9, 18–19 1, 2 103–3 Evaluation of the management approach 9, 18–19, 34 1, 2. 
+GRI 412: Human Rights Assessment 2016 412–1 Operations that have been subject to human rights reviews or impact assessments 18, 38 1, 2. 
+SUPPLIER SOCIAL ASSESSMENT. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 20–21, 33–34 1, 2, 4, 5 103–2 The management approach and its components 6, 9, 12, 18, 20–21, 32, 39 1, 2, 4, 5 103–3 Evaluation of the management approach 9, 12, 20–21, 32, 39 1, 2, 4, 5. 
+GRI 414: Supplier Social Assessment 2016 414–1 New suppliers that were screened using social criteria 39 2, 4, 5 414–2 Negative social impacts in the supply chain and actions taken 39 2, 4, 5. 
+CUSTOMER PRIVACY. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 8, 12, 33–34 103–2 The management approach and its components 6, 8, 12 103–3 Evaluation of the management approach 12. 
+GRI 418: Customer Privacy 2016 418–1 Substantiated complaints concerning breaches of customer privacy and losses of customer data 12 X. 
+PRODUCT PORTFOLIO. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 8, 9, 14, 33–34 1, 4, 5, 6 103–2 The management approach and its components 5, 8–11, 14–16 1, 4, 5, 6 103–3 Evaluation of the management approach 5, 8–11, 32, 37 1, 4, 5, 6. 
+GRI G4: Financial Services Sector Disclosures. 
+FS8 Monetary value of products and services designed to deliver a specifct environmental beneft for each business line broken down by purpose 11, 37 9. 
+Nordea Sustainability Report 2019 47 GRI Content Index
+
+
+GRI Standard Disclosure Page. 
+UNGC principle. 
+Reason for omission on page 29. 
+ACTIVE OWNERSHIP. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 8, 18, 34 103–2 The management approach and its components 8–11, 14, 18 103–3 Evaluation of the management approach 8–11, 14, 18–19. 
+GRI G4: Financial Services Sector Disclosures. 
+FS10 Percentage and number of companies held in the institution’s portfolia with which the reporting organisation has interacted on social and environmental issues 37. 
+FS11 Percentage of assets subject to positive and negative environmental or social screening 37. 
+CUSTOMER EXPERIENCE. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6–7, 33–34 103–2 The management approach and its components 28 103–3 Evaluation of the management approach 28–29, 32. 
+Own indicator Customer satisfaction surveys 6. 
+TAX PAYMENTS. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 33–34, 36 103–2 The management approach and its components 6, 36 103–3 Evaluation of the management approach 6, 36. 
+Own indicator Tax payments by country and by tax type 36. 
+FINANCIAL CRIME. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 6, 8, 12, 28, 33–34 103–2 The management approach and its components 12, 28 103–3 Evaluation of the management approach 12, 28, 32. 
+Own indicator Financial crime training 8, 12. 
+COMMUNITY ENGAGEMENT. 
+GRI 103: Management Approach 2016 103–1 Explanation of the material topic and its boundary 26, 33–34 103–2 The management approach and its components 26–27 103–3 Evaluation of the management approach 26–27. 
+Own indicator Engagement in volunteering activities 26. 
+Own indicator Volunteering hours 26. 
+Nordea Sustainability Report 2019 48 GRI Content Index
+
+
+Glossary. 
+Glossary. 
+A AML – Nordea´s Anti-Money Laundering (AML) work is based on international regulations with the ultimate goal of ensuring that funds from illegal sources cannot be laundered through the banking system or used to fnance terrorism or illegal operations of any kind. The purpose of AML is to protect not only the fnancial system and our customers, but also society at large.
+C CHRB – Corporate Human Rights Benchmark (CHRB) is a ranking of the world’s largest publicly listed companies on their human rights performance.
+COP – Communication on Progress (COP) is the report that all signatories to the UNGC have to submit every year.
+E ESG – This term refers to how environmental, social, and governance issues can afect the performance of investment portfolios (to varying degrees across companies, sectors, regions, asset classes and over time). ESG screenings are used in evaluations of partners and suppliers.
+G GHG Protocol – The Greenhouse. 
+Gas Protocol (GHG Protocol) establishes global standardised frameworks to measure and manage greenhouse gas (GHG) emissions from private and public sector operations, value chains and mitigation actions. It is the most widely used greenhouse gas accounting standard in the world. It builds on a 20-year partnership between World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). GHG Protocol works with governments, industry associations, NGOs, businesses and other organisations.
+GDPR – The General Data Protection Regulation (GDPR) is a reguation in EU law on data protection and privacy for all individual citizens of the EU and the European Economic Area (EEA). The GDPR aims primarily to provide individuals with control over their personal data and to simplify the regulatory environment for international business by unifying regulation within the EU. The GDPR was adopted on 14 April 2016, and came into force on 25 May 2018.
+I ICMA – The International Capital Markets Association (ICMA) is a not-for-proft membership association that serves the needs of its wide range of member frms in global capital markets. It has around 580 members in 62 countries. Among its members are private and public sector issuers, banks and securities houses, asset managers and other investors, capital market infrastructure providers, central banks, law frms and others. ICMA prioritises four core fxed-income market areas – primary; secondary; repo and collateral; and green, social and sustainable.
+IPCC – The Intergovernmental Panel on Climate Change (IPCC) is the United Nations body for assessing the science related to climate change. In October IPCC released a special report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and eforts to eradicate poverty.
+P The Paris Agreement – At COP 21 in Paris, on 12 December 2015, parties to the United Nations Framework Convention on Climate Change (UNFCCC) reached a landmark agreement to combat climate change and to accelerate and intensify the actions and investments needed for a sustainable low-carbon future. The Paris Agreement brings all nations into a common cause to undertake ambitious eforts to combat climate change and adapt to its efects, with enhanced support to assist developing countries to do so.
+S SDGs – The Sustainable Development Goals (SDGs) are a collection of 17 global goals set by the United Nations General Assembly in 2015. The SDGs are part of Resolution 70/1 of the United Nations General “Transforming our World: the 2030 Agenda for Sustainable Development” that has been shortened to “2030 Agenda”. The goals are an urgent call for action by all countries – developed and developing – in a global partnership. They recognise that ending poverty and other deprivations must go hand-inhand with strategies that improve health and education, reduce inequality, and spur economic growth – all the while tackling climate change and working to preserve our oceans and forests.
+Nordea Sustainability Report 2019 
+
+ 49
+
+
+Independent Practitioner’s Assurance Report. 
+We have been engaged by the Management of Nordea Bank Abp (hereinafter also the Company) to perform a limited assurance engagement on sustainability disclosures for the year ended 31 December 2019, disclosed in Nordea Sustainability Report 2019 (hereinafter Sustainability Information).
+Management’s responsibility The Management of Nordea Bank Abp is responsible for preparing the Sustainability Information in accordance with the Reporting criteria as set out in the Company’s reporting instructions and the GRI Sustainability Reporting Standards of the Global Reporting Initiative. The Management of Nordea Bank Abp is also responsible for such internal control as the management determines is necessary to enable the preparation of the Sustainability Information that is free from material misstatement, whether due to fraud or error.
+Practitioner’s independence and quality control We have complied with the independence and other ethical requirements of the Code of Ethics for Professional Accountants issued by the International Ethics Standards Board for Accountants, which is founded on fundamental principles of integrity, objectivity, professional competence and due care, confdentiality and professional behaviour.
+PricewaterhouseCoopers Oy applies International Standard on Quality Control 1 and accordingly maintains a comprehensive system of quality control including documented policies and procedures regarding compliance with ethi- cal requirements, professional standards and applicable legal and regulatory requirements.
+Practitioner’s responsibility Our responsibility is to express a limited assurance conclusion on the Sustainability Information based on the procedures we have performed and the evidence we have obtained. Our assurance report has been prepared in accordance with the terms of our engagement. We do not accept, or assume responsibility to anyone else, except to Nordea Bank Abp for our work, for this report, or for the conclusions that we have reached.
+We conducted our limited assurance engagement in accordance with the International Standard on Assurance Engagements (ISAE) 3000 “Assurance Engagements Other than Audits or Reviews of Historical Financial Information”. That standard requires that we plan and perform the engagement to obtain limited assurance about whether the Sustainability Information is free from material misstatement.
+In a limited assurance engagement the evidence-gathering procedures are more limited than for a reasonable assurance engagement, and therefore less assurance is obtained than in a reasonable assurance engagement. An assurance engagement involves performing procedures to obtain evidence about the amounts and other disclosures in the Sustainability Information. The procedures selected depend on the practitioner’s judgement, including an assessment of the risks of material misstatement of the Sustainability Information.
+A limited assurance engagement consists of making inquiries, primarily of persons responsible for the preparation of the Sustainability Information, and other limited assurance procedures. Our work consisted of, amongst others, the following procedures: • Interviewing senior management of the Company. • Interviewing employees responsible for collecting and reporting the Sustainability Information at the Group level. • Assessing how Group employees apply the Company’s reporting instructions and procedures. • Testing the accuracy and completeness of the information from original documents and systems on a sample basis. • Testing the consolidation of information and performing recalculations on a sample basis.
+Limited assurance conclusion Based on the procedures we have performed and the evidence we have obtained, nothing has come to our attention that causes us to believe that Nordea Bank Abp’s Sustainability Information for the reporting period that ended 31 December 2019 is not properly prepared, in all material respects, in accordance with the Reporting criteria.
+When reading our assurance report, the inherent limitations to the accuracy and completeness of sustainability information should be taken into consideration.
+To the Management of Nordea Bank Abp. 
+Helsinki, 26 February 2020. 
+PricewaterhouseCoopers Oy. 
+Juha Wahlroos Authorised Public Accountant. 
+Sirpa Juutinen Partner Sustainability & Climate Change. 
+Independent Practitioner’s Assurance Report. 
+Nordea Sustainability Report 2019 50
+
+
+Layout and production: Chimney Group Photo: Getty Images page 3 iStockphoto page 14, 16, 21 Shutterstock page 21
+
+
+Nordea Bank Abp For more information about sustainability at Nordea Corporate registration no. 2858394-9 Hamnbanegatan 5 | FI-00020 Helsinki please visit our website, nordea.com/sustainability.
+Tel +358 200 70000 | www.nordea.com For feedback, contact us at sustainability@nordea.com

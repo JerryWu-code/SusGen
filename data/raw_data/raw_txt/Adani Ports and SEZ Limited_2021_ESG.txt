@@ -1,0 +1,1006 @@
+Adani Ports and Special Economic Zone Limited. 
+Information Memorandum on ESG. 
+June 2021
+
+
+ 2. 
+Contents. 
+Preface ..................................................................................................................................... 4. 
+Executive Summary ................................................................................................................. 5 1 Background ..................................................................................................................... 10 2 Governance Framework .................................................................................................. 11 2.1 Introduction ........................................................................................................................ 11 2.2 Role of Board ...................................................................................................................... 11 2.3 Skills/ Expertise/ Competencies of the Board .............................................................. 12 2.4 Board Induction and Training ......................................................................................... 13 2.5 Whistle Blower Policy ....................................................................................................... 13 2.6 Role of Committees .......................................................................................................... 13 2.7 Code of Conduct ................................................................................................................ 16 2.8 Anti-Corruption .................................................................................................................. 16 3 Policy Framework ............................................................................................................ 17 3.1 Information Management Hierarchy ............................................................................. 17 3.2 Components of Policy ....................................................................................................... 17 3.3 Policy Categories ............................................................................................................... 17 3.4 Approval Process .............................................................................................................. 18 3.5 Policy Communication ...................................................................................................... 19 3.6 List of Policies .................................................................................................................... 19 4 Risk Assessment for Future Projects ............................................................................ 22 4.1 Introduction ....................................................................................................................... 22 4.2 Procedure for Risk Assessment ..................................................................................... 23 4.3 Case study: Divestment of Bowen Rail Company Pty Limited (BRCPL) by APSEZ25 4.4 Case study: Myanmar project by APSEZ ...................................................................... 25 5 Sustainability Journey .................................................................................................... 28 6 ESG Credentials .............................................................................................................. 31 6.1 Standard Setters ............................................................................................................... 31 6.2 Stock Exchanges ............................................................................................................... 31 6.3 Supporting Organizations ............................................................................................... 32 6.4 Regulators .......................................................................................................................... 32 6.5 Investors ............................................................................................................................. 32
+
+
+ 3
+6.6 Supranational Organizations .......................................................................................... 33 6.7 Index/ Rating Agencies ................................................................................................... 33 6.8 Overarching Initiatives .................................................................................................... 34 6.9 Associations ...................................................................................................................... 34 6.10 Awards/ Certification/ Recognition .............................................................................. 34 7 Showcasing ESG Performance ...................................................................................... 36 7.1 Energy and Emissions ....................................................................................................... 37 7.2 Water and Effluents ......................................................................................................... 38 7.3 Waste .................................................................................................................................. 39 7.4 Biodiversity and Land Use ............................................................................................... 41 7.5 Sustainable Supply Chain ............................................................................................... 42 7.6 Occupational Health and Safety ................................................................................... 43 8 SOP for ESG Engagement .............................................................................................. 45 9 Success Case Examples ................................................................................................. 46. 
+Case Study 1 – Biodiversity Conservation & Management: Mangroves at Mundra ........ 47. 
+Case Study 2 – Coastal Protection & Biodiversity Enhancement: Bio Shield Project .... 48. 
+Case Study 3 – Conservation of Biodiversity: Turtle Nesting near Dhamra Port............. 49. 
+Case Study 4 – Environment Pollution Control: Zero Waste to Landfill ............................ 52. 
+Case Study 5 – Resource Conservation: Use of treated wastewater at Hazira port ...... 53. 
+Case Study 6 – GHG Emission Reduction: Alternate Fuel ................................................... 54. 
+Case Study 7 – Promoting Education: Project Utthan.......................................................... 55. 
+Case Study 8 – Water Conservation & Management: Project Swajal .................................57. 
+Case Study 9 – Creating Sustainable Livelihood: Reviving the Ancient Namda Art ....... 59. 
+Annexure – 1 ............................................................................................................................. 60 
+
+
+ 4. 
+Preface. 
+This Information Memorandum on ESG is prepared for all concern stakeholders to showcase the ESG strategy adopted and implemented at APSEZ through robust policy framework. It also covers APSEZ’s journey and milestones achieved over a period with desired targets and commitments taken by APSEZ to be implemented and achieved by 2025. Some of the initiatives/ programs that have resulted into real life transformation addressing Sustainable Development Goals (SDGs) have also been cited which highlights Company’s focused approach on Biodiversity Management, Water Conservation, Emission reduction, Ecology protection and Socially responsible activities.
+The Information Memorandum on ESG will be reviewed and updated annually, however same will be updated as and when needed based on deliberations in Sustainability Leadership Committee of APSEZ that meets on quarterly basis.
+ 
+
+ 
+
+
+ 5. 
+Executive Summary. 
+A Our Commitment  Committed to become Carbon Neutral Company by 2025  Committed to achieve Zero Waste to Landfill for all the ports by 2025  Committed to replace Single Use Plastic Waste by 2025  Committed to carry out mangrove afforestation in 4000 Ha area and terrestrial plantation in 1200 ha area by 2025. 
+B Our Focus. 
+Biodiversity Conservation. 
+Pollution Control Resource. 
+Conservation. 
+To know more read Case Study - 1, 2 & 3. 
+To know more read. 
+Case Study - 4. 
+To know more read Case Study - 5 & 8. 
+GHG Emission. 
+Reduction. 
+Education Sustainable Livelihood. 
+To know more read. 
+Case Study - 6. 
+To know more read. 
+Case Study - 7. 
+To know more read. 
+Case Study - 9. 
+C Our Policies. 
+Environment Social Governance. 
+Environment Policy Occupational Health and Safety Policy. 
+Guideline on Code of Conduct - Employees. 
+Energy and Emission Policy. 
+Group’s Human Rights Policy. 
+Board Diversity Policy. 
+Water Stewardship Policy. 
+Guideline on Human Rights Quality Policy. 
+Guideline on Employment of Differently Abled Persons. 
+BRR Policies. 
+Corporate Social Responsibility Policy. 
+Directors' Familiarization Program. 
+Information Technology Policy. 
+Sustainability Charter. 
+Stakeholder Engagement Policy. 
+Related Party Transactions for Acquiring and Sale of Assets Policy. 
+Stakeholder Engagement Procedure. 
+Code for Fair Disclosure of UPSI
+
+
+ 6. 
+Supplier Code of Conduct Code of Conduct - Directors & Senior Management. 
+Working Hour Policy Dividend Distribution and Shareholder Return Policy. 
+Guideline on Employee Volunteering. 
+ERM Procedure. 
+Variable Reward Materials Event Policy. 
+Maadhyam Material Subsidiary Policy. 
+Employee Spot Recognition Preservation of Documents Policy. 
+Employee Award & Recognition. 
+Prevention of Sexual Harassment at Workplace. 
+Related Party Transaction Nomination and Remuneration Policy Website Content Archival Policy Whistle Blower Policy Cyber Security Policy Organization Information Security Policy Asset Management Security Policy Access Control Security Policy Cryptography Policy Operation Security Policy Communication Security Policy System Acquisition Development and Maintenance Policy Supplier Relationship Security Policy Cyber Security Incident Management Policy Cyber Security Aspects of Business Continuity Management Policy Cyber Security Risk Management Policy Cloud Security Policy Internal Financial Control Policy
+
+
+ 7. 
+OHS Consequence Management Policy IT Consequence Management Policy Disaster Management Plan. 
+D Our Guide. 
+Frameworks Guiding Focus APSEZ’s Status 
+
+ Climate Change  Water Security  Supplier. 
+Engagement  APSEZ participates in CDP’s annual disclosure for Climate Change and Water Security.
+ In CDP Disclosure 2020, APSEZ Scored “B-” for Climate Change, “B” for Water Security and “B” in Supplier. 
+Engagement Rating.
+ 
+ ESG Rating  Credit Rating  APSEZ is participating in DJSI. 
+Corporate Sustainability Assessment. SAM CSA score was 55/100 in 2020.
+ S&P provided APSEZ with a long-term foreign currency issuer credit rating of BBB-/ stable.
+ 
+ ESG Risk Rating  Sustainalytics provided APSEZ an ESG Risk Rating of 13.71 which signifies APSEZ is in Low risk category.
+  ESG Rating  MSCI provided APSEZ with a CCC rating.
+  Credit Rating  Moody’s provided APSEZ with a long term foreign currency issuer rating of Baa3/ Stable.
+  Credit Rating  Fitch provided APSEZ with a long-term foreign currency issuer default rating of BBB-/ Stable.
+ 
+ Credit Rating  ICRA, India Ratings & Research, CARE provided APSEZ with long term facilities and NCD rating of AA +/ Stable and an A1+ rating for short-term facilities like commercial paper.
+ 
+
+
+ 8
+ 
+ Climate Change  APSEZ supports Task Force on Climate Related Financial Disclosures (TCFD).
+ The Integrated Annual Report FY21 is aligned to TCFD recommendations.
+ 
+ Climate Change  APSEZ has committed for Science Based Target Initiative.
+ Target setting is in progress and same will be submitted to SBTi for validation.
+ 
+ Climate Change  APSEZ is a member of the Climate Ambition Alliance, committed to net zero emissions by 2050.
+ 
+ Biodiversity conservation and Management  APSEZ has signed up for India Business & Biodiversity Initiative.
+ First Progress Report has been submitted in 2020.
+ 
+ Biodiversity. 
+Conservation and Management  APSEZ is member of International Union for Biodiversity Conservation.
+ We are creating mass awareness among the employees across the sites.
+ 
+ Human Rights  Labour  Environment  Anti-corruption  APSEZ is member of United Nations Global Compact and committed to perform the business activities in alignment to the 10 Guiding Principles.
+ First Communication on Progress will be submitted in Nov-2021.
+ 
+ Water Stewardship  APSEZ is endorsing United Nations CEO Water Mandate.
+ First Communication on Progress will be submitted in Nov-2021.
+ 
+ Sustainable. 
+Development Goals  APSEZ aligns its ESG activities with the UN’s Sustainable Development Goals.
+ 
+ Risk Management  Labour  Resource. 
+Efficiency  Community  Land Resettlement  APSEZ has developed Environmental and Social Management System in line with IFC’s 8 Performance Standards.
+ Site specific Management plans have been developed which is under implementation across the sites.
+
+
+ 9
+ Biodiversity  Indigenous People  Cultural Heritage 
+
+ Environment  Social  Governance  APSEZ aligns its ESG reporting framework with GRI Standards.
+ 
+ Strategy  Governance  Performance  Prospects  APSEZ is currently publishing its annual disclosure as per the IIRC framework.
+ 
+National. 
+Guidelines for Responsible. 
+Business Conduct  Human Rights  Environment  Public Policy  Inclusive Growth  Customers  Ethics  Life Cycle  Employees  Stakeholders  APSEZ submits the Business. 
+Responsible Report as the part of Integrated Annual Report.
+ 
+
+ Employer of Choice  Adani Ports & SEZ Ltd participated in Great Place to Work® Certification and felicitated with prestigious India’s Best Employers Among Nation-Builders.
+ 
+
+ 
+
+
+ 10 1 Background. 
+Adani Group’s vision of building sustainable value creations are not just propelling India’s economic development but catering to the nation’s climate goals. The Adani Group’s ESG framework is well aligned with national and international standards viz. Task Force on Climate Related Financial Disclosures (TCFD), CDP, United Nations Global Compact (UNGC) Principles, National Guidelines for Responsible Business Conduct (NGRBC), GRI Standards, Sustainable Development Goals (SDGs), India Business & Biodiversity Initiative (IBBI), various relevant ISO Standards etc. which is governed through strong policy framework guided by Board of Directors and the various management Committees. To keep our disclosures more transparent and accurate, we follow robust assurance process.
+All the Group companies are striving to fulfill this vision in their respective verticals.
+ In port and logistics vertical, Adani Ports and Special Economic Zone Limited (APSEZ) is committed to become Carbon Neutral by 2025;  In the renewable vertical, Adani Green Energy Limited (AGEL) is contributing to one of the world’s largest renewable energy expansion programmes along with catering to India’s climate change goals;  In gas vertical, Adani Total Gas Limited (ATGL) is paving the road for low carbon future;  In power distribution vertical, Adani Transmission Limited (ATL) is supporting Country’s economic growth by energizing our nation;  In energy vertical, Adani Power Limited (APL) has emerged as the leader in India’s electric utility sector on ESG benchmarking for the year 2019 conducted by S&P Dow Jones Sustainability Indices and SAM.
+Adani Group believes in a growth narrative that contributes to the social welfare of the communities in which we live, work and try to ensure that goodness accompanies with growth. In this journey, Adani Foundation (AF) is helping us to fulfill the commitment of giving back to the society in alignment with the global Sustainable Development Goals.
+APSEZ recognizes to take sustained actions, a strong policy framework guides on how a Company should operate consistently to ensure that its processes are not deviating or deteriorating over the time; make the Company accountable for its activities, improve the efficiency by aligning everyone to meet the desired goals and targets or when it comes to expectations and issues; and give clarity about what needs to be done, how it needs to be done and who’s responsible for doing it. The Policy assists in securing vital information, ensuring regulatory compliance, supporting management in decision making and increasing accountability.
+
+
+ 11 2 Governance Framework 2.1 Introduction. 
+APSEZ is committed for maintaining strong corporate governance practices and ethical behaviour across every aspect of the business. Our reputation as an ethical and trustworthy Company is our most important asset. We believe that consistently focusing on good governance and applying the highest ethical practices in all our activities enables us to uphold the trust of our stakeholders.
+The Company is equipped with a robust framework of corporate governance that considers the long-term interest of every stakeholder as we operate with a commitment to integrity, fairness, equity, transparency, accountability and commitment to values. The role of governance is to:  Facilitate effective, innovation and prudent management to deliver the longterm success of the Company;  Ensure appropriate decision-making processes and internal controls are in place;  Facilitate transparency, openness and accountability;  Ensure the business adhere to all legal and regulatory requirements;  Management of key risks and effectiveness of governance process;  Facilitate effective compliance and assurance are in place.
+The scope of governance is essentially about ensuring that processes are in place for compliance, probity, transparency and risk.
+2.2 Role of Board. 
+The Board provides strategic guidance and independent views to the Company’s senior management while discharging its fiduciary responsibilities. The Board also provides direction and exercises appropriate control to ensure that the Company is managed in a manner that fulfils stakeholder’s aspirations and societal expectations.
+APSEZ recognizes and embraces the benefits of having a diverse Board and seeks to increase diversity at Board level, which it sees as an essential element in maintaining the Company’s competitive advantage. APSEZ understands that a truly diverse board includes and makes good use of differences in the skills, regional and industry experience, background, race, gender and other qualities of the Directors.
+Governance Role of Board is as under Strategy  Set and uphold APSEZ’s strategy and values  Approve the strategic objectives
+
+
+ 12. 
+Leadership & resources  Ensure that effective leadership and executive competence are in place to achieve the strategic objectives  Ensure sufficient resources are available to achieve the strategic objectives  Ensure effective governance and succession planning  Promote the long-term success of the business. 
+Risk  Ensure that frameworks are established and monitored for delegation and systems of control, including financial controls and for identifying and managing risks  Approve the Risk Framework, including the Risk Appetite  Ensure that the risk management processes are effective. 
+Performance  Monitor and test execution of strategy and performance in relation to approved plans, budgets and controls  Oversee performance and achievement of the APSEZ objectives. 
+Accountability  Consider the balance of interests of, and ensure accountability to key stakeholders.
+2.3 Skills/ Expertise/ Competencies of the Board. 
+The following is the list of core skills/ competencies identified by the Board as required in the context of the Company’s business and that the said skills are available within the Board Members:
+Skills/ Competencies Business Leadership. 
+Leadership experience including in areas of business development, strategic planning, succession planning, driving change and long-term growth and guiding the Company and its senior management towards its vision and values.
+Financial Expertise. 
+Knowledge and skills in accounting, finance, treasury management, tax and financial management of large corporations with understanding of capital allocation, funding and financial reporting processes.
+Risk Management. 
+Ability to understand and assess the key risks to the organization, legal compliances and ensure that appropriate policies and procedures are in place to effectively manage risk.
+Global Experience. 
+Global mindset and staying updated on global market opportunities, competition experience in driving business success around the world with an understanding of diverse business environments, economic conditions and regulatory frameworks.
+Merger & Acquisition. 
+Ability to assess ‘build or buy’ & timing of decisions, analyze the fit of a target with the Company’s strategy and evaluate operational integration plans.
+Corporate Governance & ESG. 
+Experience in implementing good corporate governance practices, reviewing compliance and governance practices for a sustainable growth of the Company and protecting stakeholder’s interest.
+
+
+ 13. 
+Technology & Innovations. 
+Experience or knowledge of emerging areas of technology such as digital, artificial intelligence, cyber security, data center, data security etc.
+2.4 Board Induction and Training. 
+All new Directors are taken through a detailed induction and familiarisation program when they join the Board. The induction program is an exhaustive one that covers the history and culture of Adani Group, background of the Company and its growth, various milestones in the Company’s existence since its incorporation, the present structure and an overview of the businesses and functions.
+Deep dives and immersion sessions are conducted by senior executives on their respective ports/ business units. Key aspects that are covered in these sessions include:  Industry/ market trends  The Port’s performance  Growth Strategy 2.5 Whistle Blower Policy. 
+Our Code of Conduct and newly strengthened Whistle Blower Policy are the tool, we use to guard against corruption within APSEZ. Our Whistle Blower Policy is for employees to report complaints and concerns about conduct which is considered to be contrary to APSEZ’s values. The Whistle Blower Policy has established the necessary vigil mechanism for employees and Directors to report concerns in confidence, about unethical behaviour, misconduct, malpractice or irregularities in any matters related to the Company.
+2.6 Role of Committees. 
+The Board has overall responsibility for the governance of the organisation and has delegated some of this responsibility to the Committees.
+The principal Board Committees include the Audit, Nominations and Remuneration, Stakeholders’ Relationship, Sustainability and Corporate Social Responsibility, Risk Management, Finance and Transfer Committees, with formally delegated duties and responsibilities and written terms of reference. From time to time, the Board may set up additional committees to consider specific issues when the need arises.
+Board Committees Responsibilities. 
+Audit Reviewing quarterly/ annual financial statements, adequacy of internal control systems, internal audit reports, ensuring
+
+
+ 14 independence of audit and statement of uses/ application of fund raised.
+Nomination & Remuneration. 
+Providing various recommendations to the Board including set up and composition of the Board and its committees, appointment or re-appointment of Directors, remuneration policy of key managerial personnel.
+Stakeholder’s Relationship. 
+Reviewing statutory compliances and services relating to security holders, dividend payments, performance of registrar & transfer agent, engagement of various stakeholders comprise our customers, suppliers, business partners, employees and the communities in which we operate.
+Sustainability and Corporate Social Responsibility. 
+Formulating and recommending CSR policy in the light of emergent situation and statutory framework, monitoring the CSR activities and expenditure, review overall Sustainability performance and. 
+Sustainability Reporting of the Company.
+Risk Management Assisting the Board in overseeing the risk management process, controls, risk tolerance and reviewing the Company’s risk governance. 
+Finance To assist the board with monitoring and overseeing the company’s balance sheet and provide recommendations on the company’s capital management strategy. The finance committee shall oversee the capital structure, investments and returns.
+Transfer Approving and registering transfer and/or transmission of securities. 
+The detailed terms of reference of the various committees are appended as Annexure – 1.
+
+
+ 15. 
+Board of Directors & Constitution of committees. 
+Constitution of Board Committees. 
+Name of Committee Members of the Committee % of Independent. 
+Director. 
+Audit 4 75%
+Nomination & Remuneration 4 75%
+Stakeholder’s Relationship 3 67%
+Sustainability and Corporate Social Responsibility 3 33%
+Risk Management 3* 33%
+Finance 3 0%
+Transfer 3 0% * Excluding one member of management & CFO 
+
+
+ 16 2.7 Code of Conduct. 
+Based on our corporate values and voluntary commitments, our Code of Conduct defines our commitment to responsible conduct and expectations around how all APSEZ employees interact with business partners, officials, colleagues and the community.
+Our teams are obligated to adhere to important aspects ranging from corruption, human rights, labour laws and social standards, conflicts of interest and trade control, and protection of data privacy.
+2.8 Anti-Corruption. 
+Corruption and bribery undermine social and economic development. APSEZ is committed to the fight against it and aims to eliminate corruption in the logistics industry through both multi-stakeholder collaboration and our own operations.
+
+
+ 17 3 Policy Framework 3.1 Information Management Hierarchy. 
+The Policy Framework of Adani Ports and Special Economic Zone Limited (APSEZ) is aligned with Company’s governance framework and information is shared in the form of standard documents in hierarchical manner.
+Each policy shall be linked with procedure, guidelines and work instructions to provide guidance to the stakeholders on how to comply with the overarching rules and requirements.
+3.2 Components of Policy 
+3.3 Policy Categories. 
+All policies, procedures and schedules are categorized as Environment, Social and Governance with category definitions for each is indicated below:
+Category Category Definition. 
+Environment Policies covering environmental aspects like climate change, biodiversity, pollution control, natural resources etc.
+Social Policies covering the social aspects like Occupational Health, Safety, Community development etc.
+Governance Policies covering board level statutory requirements, risk with strategic implications and ethical values or behaviors to control and support effective accountability and performance outcomes. 
+Regulations. 
+Policies. 
+Procedures and. 
+Guidelines. 
+Work Instructions
+
+
+ 18 3.4 Approval Process. 
+A New Policy Development. 
+B Review of Existing Policy (As prescribed in policy document) 
+Note: The policy may be reviewed earlier if there is a legislative or regulatory requirement or significant change.
+ 
+Policy Drafting by. 
+Respective Department. 
+Review by Concerned. 
+Functional Head. 
+Review by Third. 
+Party. 
+Review by. 
+Corporate and Site Level Management. 
+Committees. 
+Review by Board Committees and Recommendation for Board Approval. 
+Review and. 
+Approval by Board of Directors. 
+Acceptance by Site. 
+CEOs/ Heads. 
+Revision of Policy by. 
+Respective Department. 
+Review by Concerned. 
+Functional Head. 
+Review by Third. 
+Party. 
+Review by Corporate and Site Level Management Committees. 
+Review by Board Committees and. 
+Recommendation for. 
+Board Approval. 
+Review and. 
+Approval by Board of Directors. 
+Acceptance by. 
+Site CEOs/ Heads
+
+
+ 19 3.5 Policy Communication. 
+The approved policy shall be communicated to the relevant stakeholders through various means:
+Mode Timeline Required Actions. 
+Email Within 0-2 working days of approval. 
+The approved new/ revised policy should be communicated to the relevant stakeholders through mail.
+Website Within 0-2 working days of approval. 
+The relevant approved new/ revised policy should be updated on the website.
+Visuals Within 30 working days of approval. 
+The approved new/ revised policy should be displayed at all the offices and notice boards as identified. 
+Within 180 days of approval. 
+The approved/ updated policy should be displayed at the entry gates or at the locations where external stakeholders can see it. (Display boards, hoardings, digital displays)
+Awareness and Capacity Building. 
+Within 180 days of approval. 
+The respective policy owner should organize awareness session for the relevant stakeholders to give them more clarity about the policy.
+Sign Off or Acceptance. 
+Within 180 days of approval. 
+The respective policy owner should take the sign off or acceptance from the relevant stakeholders.
+Refresher Training or communication. 
+After 180 days of approval. 
+The respective policy owner should conduct awareness session for the relevant stakeholders or should communicate the policy through flyers or emails.
+3.6 List of Policies. 
+S. No.
+Category Doc. Type Document Name Approved By Available at. 
+Functional Ownership 1 Environment Policy Environment Board Website Sustainability 2 Environment Policy Energy and Emission Board Website Sustainability 3 Environment Policy Water Stewardship Board Website Sustainability 4 Social Policy Occupational Health and Safety. 
+Board Website Safety 5 Social Policy Human Rights Group Internal Document. 
+HR 6 Social Guideline Human Rights Management Website HR 7 Social Guideline Employment of Differently Abled Persons. 
+Management Website HR 8 Social Policy Corporate Social Responsibility. 
+Board Website Secretariat 9 Social Policy Information Technology. 
+Management Internal. 
+Document. 
+IT 10 Social Policy Stakeholder Engagement. 
+Board Website Sustainability 11 Social Procedure Stakeholder. 
+Engagement Procedure. 
+Management Internal. 
+Document. 
+Sustainability
+
+
+ 20 12 Social Code Supplier Code of Conduct. 
+Board Website Technocommercial 13 Social Guideline Working Hour Management Website HR 14 Social Guideline Employee Volunteering Management Internal. 
+Document. 
+HR 15 Social Program Variable Reward Management Internal. 
+Document. 
+HR 16 Social Scheme Maadhyam Management Internal. 
+Document. 
+HR 17 Social Scheme Employee Spot Recognition. 
+Management Internal. 
+Document. 
+HR 18 Social Guideline Employee Award & Recognition. 
+Management Internal. 
+Document. 
+HR 19 Governance Guideline Code of Conduct - Employees. 
+Management Website HR 20 Governance Policy Board Diversity Board Website Secretariat 21 Governance Policy Quality Management Internal. 
+Document. 
+CEO Office 22 Governance Policy BRR Policies Board Website Secretariat 23 Governance Program Directors' Familiarization Program. 
+Board Website Secretariat 24 Governance Charter Sustainability Charter Board Website Sustainability 25 Governance Policy Related Party Transactions for Acquiring and Sale of Assets. 
+Board Website Secretariat 26 Governance Code Code for Fair Disclosure of UPSI. 
+Board Website Secretariat 27 Governance Code Code of Conduct - Directors & Senior Management. 
+Board Website Secretariat 28 Governance Policy Dividend Distribution and Shareholder Return. 
+Board Website Secretariat 29 Governance Procedure ERM Procedure Management Internal. 
+Document. 
+Finance & Accounts 30 Governance Policy Materials Event Board Website Secretariat 31 Governance Policy Material Subsidiary Board Website Secretariat 32 Governance Policy Preservation of Documents. 
+Board Website Secretariat 33 Governance Guideline Prevention of Sexual Harassment at Workplace. 
+Group Internal Document. 
+HR 34 Governance Policy Related Party Transaction. 
+Board Website Finance & Accounts 35 Governance Policy Nomination and Remuneration. 
+Board Website Secretariat 36 Governance Policy Website Content Archival. 
+Board Website Secretariat 37 Governance Policy Whistle Blower Board Website Secretariat 38 Governance Policy Cyber Security Group Internal Document. 
+IT 39 Governance Policy Organization Information Security. 
+Group Internal Document. 
+IT 40 Governance Policy Asset Management Security. 
+Group Internal Document. 
+IT 41 Governance Policy Access Control Security. 
+Group Internal Document. 
+IT
+
+
+ 21 42 Governance Policy Cryptography Group Internal Document. 
+IT 43 Governance Policy Operation Security Group Internal Document. 
+IT 44 Governance Policy Communication Security. 
+Group Internal Document. 
+IT 45 Governance Policy System Acquisition Development and Maintenance. 
+Group Internal Document. 
+IT 46 Governance Policy Supplier Relationship Security. 
+Group Internal Document. 
+IT 47 Governance Policy Cyber Security Incident Management. 
+Group Internal Document. 
+IT 48 Governance Policy Cyber Security Aspects of Business Continuity Management. 
+Group Internal Document. 
+IT 49 Governance Policy Cyber Security Risk Management. 
+Group Internal Document. 
+IT 50 Governance Policy Cloud Security Group Internal Document. 
+IT 51 Governance Policy Internal Financial Control. 
+Management Internal. 
+Document. 
+Finance & Accounts 52 Governance Guideline OHS Consequence Management. 
+Management Internal. 
+Document. 
+Safety 53 Governance Policy IT Consequence Management. 
+Management Internal. 
+Document. 
+HR 54 Governance Plan Disaster Management Management Internal. 
+Document. 
+Security/ Safety 
+
+
+ 22 4 Risk Assessment for Future Projects 4.1 Introduction. 
+APSEZ has established an Environmental and Social Management System (ESMS) for its business activities to increase compliance, enhancement of corporate governance, reduce environmental, occupational and community health, safety risks.
+ESMS is a set of processes and practices to consistently implement APSEZ policies to meet organizations business objectives. The goal is to make sure that we have the appropriate policies and procedures in place and that people at various levels of the organization consistently follow them. The ESMS helps to assess and control risks and is the key to lasting improvement.
+
+APSEZ ESMS Document Hierarchy. 
+The ESMS will apply to all activities of APSEZ which includes:  Development of Ports. Terminals, SEZ Infrastructure and associated services;  Acquisition of Ports, Terminals, SEZ Infrastructure during various phases; and  Management of Ports, Terminals, SEZ and associated services.
+Collectively, the ESMS Manual and its supporting documents constitute a flexible management approach that is based directly on IFC Performance Standard’s, Safeguard Requirements of ADB SPS, and can readily accommodate the changing needs of the Ongoing/ Futuristic Projects and/or Acquisitions of APSEZ.
+In addition to the requirements of IFC PS, ESMS contents also consider applicable elements of the following;  ADB Safeguard Policy Statement, June 2009;  The Equator Principles, July 2020;  The ISO 45001:2018 – Occupational Health and Safety (OHS) Management System Standard;  The ISO 14001:2015 – Environmental Management System (EMS) Standard; and  The World Bank Environmental, Health, and Safety Guidelines for Ports, Harbors and Terminals.
+Policy Linkage  Sustainability Charter;  Business Responsibility Policies (As Per NVG's);  Corporate Social Responsibility (CSR) Policy;  Environmental Policy  Energy and Emission Policy;  Water Stewardship Policy  Occupational, Health and Safety Policy;  Stakeholder Engagement Policy;  Supplier Code of Conduct;  Guidelines for Human Rights  Guidelines for Employment of Differently-abled People; 
+
+
+ 23. 
+ESMS will help APSEZ in timely identification of prevention, and management of any foreseeable Environmental Risks and Impacts due to any of its business activities.
+
+APSEZ ESMS Framework. 
+ESMS covers the lifecycle of any project or activity starting from the project planning to operations. To assess the environmental and social issue during any phase of the life cycles 14 framework documents have been developed which guides the Company as per the IFC Performance standards. At project planning stage of any green or brown field project two frameworks must be followed mandatorily which are Site Screening & Categorization and Environmental and Social Impact Assessment. During all the three stage of project right from project planning of green field or brown field projects to infrastructure development to the operation, 8 applicable frameworks are followed which are pertaining to Land Acquisition, Resettlement & Community Development, Environmental & Social Due Diligence, Land and Biodiversity Management, Contractor/ Subcontractor Management, Emergency Preparedness Plan, Disaster Management plan, Project Monitoring & Reporting and Cultural Heritage & Chance Find. During infrastructure development and operation two frameworks are followed Quarry and Security Management. While operation two other frameworks are followed which are Traffic and Operations Managements. The relevant frameworks are followed and become instrumental at different phases of the project.
+4.2 Procedure for Risk Assessment. 
+Importance/ Directive 1: Integrated assessment to identify the environmental and social impacts, risks, and opportunities of projects,
+Framework for Environment and Social Impact Assessment (ESIA) (ESM/FRAM/04)
+Objective:  To assess the proposed project to determine whether or not the proposed project and associated activities will have any adverse impacts on the
+
+
+ 24 environment, taking into account environmental, social, cultural, economic, and legal considerations;  To evaluate alternatives; and  To design appropriate mitigation, management, and monitoring measures.
+The scope and depth of the ESIA shall be decided based on the nature, complexity, and significance of the identified issues, as established into ‘Framework for Site Screening and Categorization - ESM/FRAM/01. Framework also provides: Site Screening Checklist for Greenfield Project - ESM/FORM/01 and Site Screening Checklist for Brownfield Project - ESM/FORM/02.
+In situations where multiple projects occur in, or are planned for, the same geographic area APSEZ will conduct a Cumulative Impact Assessment (CIA) as part of the risks and impacts identification process. CIA shall;  “be commensurate with the incremental contribution, source, extent, and severity of the cumulative impacts anticipated”;  “determine if the project is incrementally responsible for adversely affecting an ecosystem component.
+ or specific characteristic beyond an acceptable predetermined threshold (carrying capacity) by the relevant government entity, in consultation with other relevant stakeholders.”
+Importance/ Directive 2: effective community engagement through disclosure of project-related information and consultation with local communities on matters that directly affect them; and. 
+Framework for Land Acquisition, Resettlement, and Community Development (ESM/FRAM/02)  To assess suitability of land for proposed (greenfield) project/ site or extension of existing project/ site with minimal or no concerns of physical displacement (relocation or loss of shelter),  To avoid, and when avoidance is not possible, minimize displacement by exploring alternative project designs,  To assess and document, impacts (if any) on land and Project Affected People’s (PAPs) due to APSEZ project/ site activities.
+ To describe requirements for disclosure of information, and consultations with project affected persons (PAPs), practicing a grievance mechanism, and resettlement monitoring and reporting.
+ To enhance, or at least restore, the livelihoods of all displaced persons; and improve standards of living of the affected poor and other vulnerable groups.
+ To enhance the life of the communities nearby or within the project influence area.
+
+
+ 25 4.3 Case study: Divestment of Bowen Rail Company Pty Limited (BRCPL) by APSEZ. 
+BRCPL was incorporated on 16 December 2019 (in the FY 2019-20) with the parent entity being Bowen Rail Operation Pte. Ltd in Singapore. The principle activity of this entity is providing rail logistics services in Australia. As part of the annual ESG performance review by the Management for the FY 2019-20 (under the aegis of Board’s Sustainability & CSR Committee) it was decided that APSEZ will divest its investments from BRCPL.
+Accordingly, all contractual documentation and the regulatory approval processes were initiated for the said divestment. APSEZ during January 2021 formally communicated to its investors and rating agencies regarding the divestment. S&P also included this in its Press release (issued for January 2021 USD bond issuance) that APSEZ will be divesting from BRCPL.
+APSEZ has on 25 March 2021 executed the Share Purchase Agreement with Adani Global Pte Limited (Subsidiary of Adani Enterprises Limited) for sale of investment in BRCPL. The transaction is awaited for the regulatory approval by Foreign Investment Review Board of Australia. In the interim, APSEZ will reflect the investment as held for sale in its books of accounts.
+4.4 Case study: Myanmar project by APSEZ. 
+In order to expand the container terminal network in ASEAN region, in July 2017 Adani International Terminal Pte Ltd (AITPL) was established in Singapore as a foreign subsidiary of APSEZ.
+Chronology of events for the investment in Myanmar:
+July 2017 Establishment of AITPL, Singapore as the regional hub for South East Asia. 
+February 2019 Incorporation of Adani Yangon International Terminal Company Limited (AYITCL), Myanmar as subsidiary of AITPL. 
+April 2019 Application by AYITCL to Myanmar Investment Commission (MIC) for approving investment of USD 290 million for construction of a greenfield container terminal at the port of Myanmar. MIC is a government-appointed body under the Ministry of Planning and Finance that appraises investment proposals in Myanmar. MIC approved the investment for the project and permit was granted for initial period of 50 years. MIC was run and administered by the Civilian Government at the time of issuing the approval.
+
+
+ 26. 
+May 2019 Build Operate and Transfer (BOT) contract for 50 years was signed for setting of the container terminal The land acquisition for the development of the project facilitated by MIC and was allotted vide a Lease agreement with Myanmar Economic Corporation Limited (MEC) to use and develop the land free of encumbrances.
+June 2019 –
+December 2019. 
+Payment of USD 90 million made to MEC of under the Lease Agreement for the land acquisition of the Project. 
+March 2021 OFAC added MEC to the sanction list. 
+Payments made under the Project:
+Adani Group’s last such payment to MEC occurred in August 2020, nearly six full months prior to the imposition of the sanctions. APSEZ has paid in full all of the amounts owed to MEC of about USD 90 million under the Lease Agreement for the Myanmar port project. Since then there has been no transaction with MEC and there has been no more transaction that we have entered with either MEC or any other sanctioned entities.
+We want to iterate that when we had entered into the above agreements none of the entities or individuals or entities controlled by individuals were under sanctioned list.
+Current Project Status:
+The company has currently invested USD 127 million (including USD 90 million for the upfront payment for land lease as mentioned above) out of a total of USD 230 million for Phase I of the Project. The project provides employment to about 300350 (direct and through sub-contract) at the site. The existing counterparties of AYITCL engaged for the construction of the terminal (Contractors, Equipment suppliers) are not sanctioned parties and are not owned/ controlled by the sanctioned parties.
+Company Policy & Our next steps:  The Company has zero tolerance policy to ensure that there is no contravention of US and other sanctions.
+ The Company is in discussion with our US based counsels to ensure that the Company is in compliance with the OFAC sanctions programs. The company is planning to proactively approach OFAC to make sure that it is not in violation of the sanctions due to the recent development.
+ The Company is also in discussion with the Indian Embassy at Myanmar to ensure protection and safety of its employees. The company currently employs 60 persons (local staff and expats) on the Project and the Company will provide
+
+
+ 27 utmost priority for the safety and wellbeing of its employees under the current circumstances.
+ In a scenario wherein Myanmar is classified as a sanctioned country under the OFAC, or if OFAC opines that we are in violation of the current sanctions the Company has plans to abandon the project and will write-down its investments in the Project in full. The write down will not materially affect the balance sheet as it is equivalent to about 1.3% of the total assets of APSEZ.
+ 
+
+
+ 28 5 Sustainability Journey. 
+APSEZ’s Sustainability Journey started in the year 2014 with a thought of publishing first Sustainability Report. The dedicated team started working to make this thought actualize. There were number of challenges initially like understanding the reporting framework, creating a baseline, benchmark the operations as per the framework requirement, align the organization with the sustainability goals etc. To make this initiative instrumental, in 2015, Sustainability Charter was developed by contemplating APSEZ’s Sustainability governance and this was an official kick start of APSEZ’s sustainability journey. Since then, APSEZ never looked back and kept marching forward creating the milestones which any Indian Port Company has never achieved.
+
+At APSEZ, the Sustainability Initiatives are driven by the dedicated Sustainability Department which is overseen at three different levels on the top of which the Board level Sustainability and CSR Committee gives the direction, at Corporate level Sustainability Leadership Committee drives the initiatives and at the site level Sustainability Steering Committee executes the initiatives.
+
+
+ 29. 
+Some of the functions are overseen at Group level but at the same time the business can drive the sustainability with full autonomy. This creates a forum where cross business functions share their knowledge and create a benchmark in the Group.
+APSEZ thrives on the intent of Nation Building. This intent is not just about building infrastructure but a resilient nation building effort and mark the India’s position on the Global map as a part of inclusive global economy. With the time, APSEZ is evolving from India’s Largest Private Port Operator to become India’s First Green port by achieving the goals of Carbon neutrality, Water Positivity, Zero Waste to Landfill and Biodiversity conservation.
+
+
+ 30. 
+APSEZ has well defined goals on which dedicated teams are working day and night.
+ 
+
+
+ 31 6 ESG Credentials 6.1 Standard Setters. 
+Standard setters set the structure, content, reporting principles and standards for corporate reporting. Examples International Integrated Reporting Council (IIRC), Sustainability Accounting Standards Board (SASB), Global Reporting Initiative (GRI), Climate Disclosure Standards Board (CDSB), Financial Accounting Standards Board (FASB) and International Accounting Standards Board (IASB), ISO, Task Force on Climate Related Financial Disclosures (TCFD), India Business & Biodiversity Initiative (IBBI) etc.
+APSEZ’s Position:  GRI Standards – APSEZ published four Sustainability Reports based on GRI Standards since fiscal year 2016  IIRC Framework – APSEZ published first Integrated Annual Report of fiscal year 2020 on IIRC framework and FY21’s Annual disclosure report is also based on this framework  ISO – All the ports and inland container depots (ICD) are certified with ISO 9001 (Quality Management System), 14001 (Environment Management System) and 45001 (Safety Management System). Additionally, 5 of our ports are ISO 50001 (Energy management System), 3 ports are ISO 28000 (Security Management System for Supply Chain) certified. Furthermore, the certification of ISO 50001 at remaining ports sites and all the agri-logistics sites are ISO 22000 (Food Safety Management System) certified.
+ IBBI – APSEZ is signatory to IBBI and discloses its information as per the IBBI reporting framework.
+ TCFD – APSEZ supports TCFD recommendations and our reporting is aligned to TCFD recommendation.
+6.2 Stock Exchanges. 
+All stock exchanges require companies listed to provide annual financial filings and reports. Some stock exchanges have developed sustainability reporting requirements and guidance for registrants, in addition to specialist indices on these registrants' sustainability performance. Some of these exchanges provide either sustainability reporting guidance or training to the companies listed on their exchange. Example: Listed companies in India have to submit the Business Responsibility Report (BRR) in line to the National Guidelines for Responsible Business Conduct.
+
+
+ 32. 
+APSEZ’s Position:  BRR – APSEZ is a listed entity and discloses the information pertaining to BRR in its Integrated Annual Report 6.3 Supporting Organizations. 
+Supporting organisations include business groups and non-governmental organisations (NGOs) who advocate for reporting, provide guidance and lead initiatives to improve corporate transparency. Example: World Business Council for Sustainable Development (WBCSD), World Economic Forum (WEF), the Natural Capital Coalition (NCC) and the Climate Group.
+APSEZ’s Position:  WEF – Adani Group has subscribed to World Economic Forum.
+6.4 Regulators. 
+Governments and regulators develop mandatory or voluntary reporting requirements through existing or new laws, or through authoritative guidance. Example: initiatives by government agencies. 
+APSEZ’s Position:  Sagarmala – APSEZ discloses the waste related information as per the Ministry of Shipping’s guideline 6.5 Investors. 
+Shareholders and investors seek to understand how companies in which they have invested, are dealing with climate-related matters. They issue guidance on their expectations of ESG information, which then in turn can influence reporting requirements. Institutional investors may approach organisation directly for this information through engagement channels, or they may act in coalition through other mediums like, The UN Principles for Responsible Investment (PRI).
+APSEZ’s Position:  One to One Interaction – APSEZ engages with the investors and try to fulfill their investment requirements.
+ Quarterly Disclosure on Website – APSEZ also discloses the quarterly ESG performance on website.
+
+
+ 33 6.6 Supranational Organizations. 
+Organizations that have influence across national boundaries. These organizations may set international standards or convene other organisation. Examples: United Nations Global Compact (UNGC), Organisation for Economic Co-operation and Development (OECD), United Nations Environment Programme (UNEP) Finance Initiative, International Union for Conservation of Nature (IUCN).
+APSEZ’s Position:  UNGC – APSEZ is signatory to the UNGC and discloses its performance against the 10 UNGC principles  IUCN – APSEZ is member of IUCN and working towards conserving and improving the biodiversity in the areas we operate.
+6.7 Index/ Rating Agencies. 
+Ratings agencies, such as the Dow Jones Sustainability Index (DJSI), CDP request information though questionnaires from reporting organizations in order to prepare benchmarking indices.
+APSEZ’s Position:  DJSI – APSEZ received 55/100 in DJSI CSA SAM disclosure 2020 and became part of Sustainability Year Book Member  CDP – APSEZ received “B-” score for CDP – Climate Change, “B” score for CDP – Water Security and “B” in Supplier Engagement Rating in 2020  MSCI – APSEZ is assessed by MSCI and given the ESG Rating of “CCC”. APSEZ is continuously working to improve the rating.
+ Sustainalytics – Sustainalytics gives ESG Risk Rating to the companies. APSEZ is continuously improving the rating and now fall under low ESG risk rating which was in medium risk band in 2019.
+ Fitch Credit Rating – BBB-/ Negative  Moody’s Credit Rating – Baa3/ Negative  S&P Credit Rating – BBB-/ Stable  CARE Credit Rating – AA+/ Stable  ICRA Credit Rating – AA+/ Stable; A1+  India Rating – AA+/ Stable; A1+ 
+
+
+ 34 6.8 Overarching Initiatives. 
+Some of the overarching initiatives are designed and recognized and accepted globally. Example: Science Based Target initiatives (SBTi) and Internal Carbon Pricing (ICP), RE100, Environmental Shipping Index (ESI), UN CEO Water Mandate. 
+APSEZ’s Position:  SBTi – APSEZ has signed commitment to set the emission reduction targets under SBTi for net zero. The target setting is in progress and same will be submitted to SBTi for validation.
+ ICP – APSEZ is prepared to set the carbon price on each ton of carbon emissions  UN CEO Water Mandate – APSEZ is endorsing United Nations CEO Water Mandate.
+6.9 Associations. 
+To act in a responsible manner and influence public and regulatory policies, businesses become member of trade and chambers of association. Example: Confederation of Indian Industry (CII), Federation of Indian Chambers of Commerce & Industry (FICCI), Associated Chambers of Commerce and Industry of India (ASSOCHAM) etc.
+APSEZ’s Position:
+APSEZ is member of following association:  Confederation of Indian Industry  Federation of Indian Export Organizations  Federation of Indian Chamber of Commerce and Industry  The Associated Chambers of Commerce and Industry of India  Ahmedabad Management Association  Gujarat Chamber of Commerce and Industry 6.10 Awards/ Certification/ Recognition. 
+There are some reputed awards and certification which give extra edge to the companies and recognize the best practices. Example: Great Place to Work, National Corporate Social Responsibility (NCSR) Award, Zero Waste to Landfill (ZWL) Certification, Single Use Plastic Protocol etc.
+APSEZ’s Position:  Great Place to Work – APSEZ has been awarded with the Great Place to Work certification
+
+
+ 35  ZWL Certification – APSEZ has taken a target to achieve zero waste to landfill goal across all the port locations. Mundra, Ennore and Kattupalli sites have been assessed by TUV as per ZWL framework and the certification is awaited.
+ Single Use Plastic Protocol – APSEZ is banning the consumption of single use plastic and same is certified by CII-CESD  NCSR Award – APSEZ has been conferred with NCSR Award by The President of India for the exemplary work done by the Company for the communities in the areas we operate.
+ Futurescape – APSEZ got 19th position in Responsible Business Rankings; India’s Top Companies for Sustainability and CSR 2020
+
+
+ 36 7 Showcasing ESG Performance. 
+We align all our activities with the national and international standards, guidelines and frameworks. One of such important frameworks is Sustainable Development Goals (SDGs) which is collection of 17 interlinked global goals designed to be a "blueprint to achieve a better and more sustainable future for all". SDGs were set up in 2015 by the United Nations General Assembly and are intended to be achieved by the year 2030.
+ 
+Economic growth must be inclusive to provide sustainable jobs and promote equality.
+ 
+The food and agriculture sector offers key solutions for development and is central for hunger and poverty eradication.
+ 
+Ensuring healthy lives and promoting the well-being for all at all ages is essential to sustainable development.
+ 
+Obtaining a quality education is the foundation to improving people’s lives and sustainable development.
+ 
+Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world.
+ 
+Clean, accessible water for all is an essential part of the world we want to live in.
+ 
+Energy is central to nearly every major challenge and opportunity.
+ 
+Sustainable economic growth will require societies to create the conditions that allow people to have quality jobs.
+ 
+Investments in infrastructure are crucial to achieving sustainable development.
+ 
+To reduce inequalities, policies should be universal in principle, paying attention to the needs of disadvantaged and marginalized populations.
+ 
+There needs to be future in which cities provide opportunities for all with access to basic services, energy, housing, transportation and more.
+ 
+Ensure sustainable consumption and production patterns 
+
+
+ 37. 
+Climate change is a global challenge that affects everyone, everywhere.
+ 
+Careful management of this essential global resource is a key feature of a sustainable future.
+ 
+Sustainably manage forests, combat desertification, halt and reverse land degradation, halt biodiversity loss. 
+
+Access to justice for all, and building effective, accountable institutions at all levels.
+ 
+Revitalize the global partnership for sustainable development.
+ 
+
+7.1 Energy and Emissions. 
+Energy and emissions are important parameters for business, and we recognize the global action of sustainable energy consumption to reduce the GHG emissions. APSEZ is continuously working on process improvements and implementing projects to mitigate environmental impact in line to Energy and Emission Policy.
+Key Milestones Achieved  First Indian Port who has signed up Business ambition for 1.5℃.
+ 20 MW of total renewable installed capacity and 15 MW of renewable energy procurement  5.3% of the total energy requirement are fulfilled by renewable sources  Company falls in Management Band of CDP Climate Change 2020 with “B-” score. 
+Fuel Shift. 
+Renewable Installation. 
+Energy Conservation Initiatives. 
+Carbon Sequestration. 
+Internal Carbon Pricing. 
+Our Approach
+
+
+ 38. 
+Targets and Performance. 
+Performance YoY Progress Base Year Target. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+RE Share (%) (Incremental) 0.1% 2.3% 2.5% 3.2% 5.3% 5.3% 6%
+Energy Intensity Reduction (GJ/Revenue) 22%↓ 22%↓ 16%↑ 12%↓ 9%↑ 33%↓ 50%
+Emission Intensity Reduction (tCO2/Revenue) 18%↓ 26%↓ 14%↑ 9%↓ 3%↑ 35%↓ 60%
+Renewable Energy Installation (MW) (Incremental) 5.5 8 10 19 20 + 15 (PPA) 20 + 15 (PPA) 100. 
+ISO 50001 Certified Ports (Incremental) -- -- -- 4 5 5 12. 
+Future Milestone  Science Based Target Setting and Validation  Internal Carbon Pricing  Carbon Sequestration  Climate Risk Analysis  Low Carbon Investments 7.2 Water and Effluents. 
+Water is a crucial shared natural resource and its responsible consumption is key driver for innovative and sustainable economic prosperity that can be achieved through best management practices and its governance. Prime focus is to minimize the dependence on fresh water withdrawal in line to Water Stewardship Policy.
+Key Milestones Achieved  67% of our water requirements are met through non shared resources.
+ 310 ML of rainwater was harvested and used in horticulture purpose. 
+Water Conservation Initiatives. 
+Restricting Fresh Water Consumption. 
+Rainwater Harvesting. 
+Watershed Management. 
+Zero Effluent Discharge. 
+Our Approach
+
+
+ 39  9MLD of wastewater treatment capacity and 528 ML of effluent treated in FY20  13ML of drinking water was provided to community  1063 ML of treated wastewater was procured from other industries for use  Our Company falls in Management Band of CDP Water Security 2020 with “B” score. 
+Targets and Performance. 
+Performance YoY Progress Base Year. 
+Targe t. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+Fresh Water Withdrawal Share (%) 31% 32% 26% 24% 33% 33% <20%
+Intensity Reduction (ML/Revenue) 41↓% 25%↓ 6%↑ 3%↓ 1.2%↓ 55% 60%
+Recycle and Reuse (MLD) 1.5 1.59 1.53 1.44 1.78 1.78 10. 
+Rainwater Structure Installed (Incremental) -- -- -- 6 9 9 20. 
+Future Milestones  Water Audit  WASH Initiative  Rainwater Harvesting  Seawater Intake & Outfall  Community Wastewater Treatment Plant  Watershed Management  Alliance for Water Stewardship 7.3 Waste. 
+Under the inspirations from Clean India Mission, APSEZ has established 5R principle (Reduce, Reuse, Reprocess, Recycle and Recover) based strategy to manage waste streams i.e. hazardous and non-hazardous, in line to the. 
+Environmental Policy. Waste generation and disposal are regularly monitored and periodically reported through Environmental 5R Principles of Waste Management. 
+Zero Unauthorized Waste Disposal. 
+Zero Waste to Landfill. 
+Zero Waste Incineration. 
+Infrastructure Development. 
+Our Approach
+
+
+ 40. 
+Management System. Deviating from conventional approach, we embraced the concept of closed loop considering waste as resource. To restrict incineration of large amount of waste or keeping a check on waste to energy projects to avoid the landfill; we have set four major goals under Zero Waste Initiative. The process has been externally assured by the third party.
+Key Milestones Achieved  95% of waste was managed through 5R principles  1.3 MTD capacity of manure generation  76 m3 Biogas Plant Capacity  Zero Hazardous Waste to Landfill  State-of-the-art-waste management facility  Zero Waste to Landfill Certification of Mundra Site. 
+Targets and Performance. 
+Performance YoY Progress Base Year Target. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+Waste Intensity Reduction (%) -- -- 1%↑ 27%↓ 14%↑ 16%↓ 30%
+Waste Managed through 5R (%) -- 97% 97% 94% 95% 95% 100%
+Zero Waste to Landfill Certified Ports -- -- 1 1 3 3 12. 
+Single Use Plastic Free Sites (Ports + ICD + Agri-logistics Sites) -- -- -- -- 9 + 0 + 0 9 + 0 + 0 9 + 4 + 17. 
+Future Milestones  ZWL certification for all the Sites  Waste Management Facility Development  Phasing out Single Use Plastics
+
+
+ 41 7.4 Biodiversity and Land Use. 
+Mangroves are valuable ecosystem service provider - effective in mitigating global warming as they absorb and fix large volumes of CO2, a major cause of global warming. They also serve as natural levees to protect people’s lives and local ecosystems from tidal waves, tsunamis, and other natural disasters. We consider mangroves as insurance for the future because they protect the planet and people’s lives and bring benefits. We have been committed to conservation and protection of mangrove systems and enhance marine biodiversity of coastal areas around our operating ports.
+Key Milestones Achieved  Mangrove afforestation over 2989 Ha - the largest by any Corporate in India.
+ Conservation & protection of more than 2596 Ha of Mangrove at Mundra  Developed 43 Ha of green Carpet  Planted more than 1.7 Million trees  650 ML of treated wastewater were utilized for horticulture purpose. 
+Targets and Performance. 
+Performance YoY Progress Base Year Target. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+Mangrove Afforestation (Ha) 2884 2889 2889 2889 2989 2989 4000. 
+Terrestrial Plantation (Ha) -- -- -- 745 965 965 1200. 
+Future Milestones  Green Census  Biodiversity Management Plan for all the sites  Biodiversity Park  Carbon Sequestration. 
+Biodiversity Conservation Initiatives. 
+Mangrove Afforestation. 
+Terrestrial Afforestation. 
+Enhancing Ecosystem. 
+Supporting Government Initiatives. 
+Our Approach
+
+
+ 42 7.5 Sustainable Supply Chain. 
+With a mission of Nation building, we consciously aligned our procurement practices to promote local economic development by buying goods and services from local suppliers to strengthen economy and wellbeing and has helped generate more jobs and business opportunities. These practices also help build good reputation with the communities and bolster environmental quality of the products and services, ‘value of the products’factors such as economic cost, lifecycle costs, environment & social considerations in decision making.
+Key Milestones Achieved  97% of the total procurement was from India  Our Company falls in Management Band of CDP Supplier Engagement Rating 2020 with “B” score. 
+Targets and Performance. 
+Performance YoY Progress Base Year Target. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+ESG Assessment of Tier 1, Critical and Monopoly Vendors -- -- -- 48% -- 48% 100%
+Vendor Satisfaction Score -- -- -- 3.85/ 5 3.9/ 5 3.9/ 5 4.75/ 5. 
+Capacity Building of Critical Vendors to Enhance their ESG Performance -- -- -- 67% -- -- 100%
+Future Milestones  Green Supply Chain Strategy  Local Vendor Development  Environment and Social Due Diligence  Vendor Ranking System  GHG Reduction Program for Supply Chain. 
+Environmental and Social Due Diligence. 
+Local Vendor Development. 
+Vendor Assessment. 
+Local Procurement. 
+Vendor Satisfaction. 
+Our Approach
+
+
+ 43 7.6 Occupational Health and Safety. 
+APSEZ regards safety & security as an important strategic imperative for the business to operate sustainably and value it as a human right. We work to build a strong safety culture and leadership within our operations, so each employee, worker or contractor feels safe while working with us.
+APSEZ has adopted the progressive ideal of ‘Vision Zero’, in line with the beliefs and aspiration of Adani Group. Our Occupational Health and Safety Policy demonstrates commitment of senior leadership and provide guidance for effective safety management system across all port and logistic sites.
+Key Milestones Achieved  Implementation of Medical Services as per OHS 18 procedure  ISO 45001 certification for all ports and ICDs  SMS Level 03 Achievement by end of STRAP period and sustain Safety performance as per SMS level 04  KRA & KPIs for everyone right from CEOs to Front line supervisors and for Deemed Safety Officers.
+ 100% Implementation of Conditions of Contract w.r.t. Safety for all contracts.
+ Mandatory Induction Training for everyone entering into APSEZ Premises  Continuous Monitoring, Recording, analyzing occupational health indices and taking Corrective Action  Adani GenSuite - on-line platform for reporting of safety concerns i.e. unsafe conditions, unsafe acts, near misses and incidents. Analysis of safety performance tracking and monitoring of investigation recommendations for all ports.
+ Conducting Safety Risk Field Audit (SRFA) and Vulnerability Safety Risk (VSR) as part of Task Force Team – TF2 Contractor Safety Management  Conducting incident investigations to identify the gaps to eliminate similar incidents for implementation of incident investigation recommendations  Conducting mock drills with respect to identified major risk scenarios  Permit to work system for all non-routine activities along with job safety analysis  Hazard identification and risk assessment controls for all hazardous and risk activities. 
+Safety Management System. 
+Adani Green book. 
+ISO Certification. 
+International benchmarking. 
+Vision Zero. 
+Our Approach
+
+
+ 44. 
+Targets and Performance. 
+Performance YoY Progress Base Year Target. 
+FY17 FY18 FY19 FY20 FY21 FY21 FY25. 
+Zero Incident (Fatality + LTI) 2 + 14 5 + 20 1 + 13 5 + 22 6 + 17 6 + 17 0 + 0. 
+Future Milestones  Developing Train the Trainer (TtT) for each safety procedure for create awareness and implement safety procedure at site/ field level by Task Force Team – TF3 Training & Capability Building  Improving Behaviour Based Safety Management  e-Learning Modules for Safety 
+
+
+ 45 8 SOP for ESG Engagement. 
+Sl. No. Activity. 
+Level 1 (Inputs & Response)
+Level 2 (Review & Approval)
+Level 3* (Review & Approval)
+Participation. 
+Review and. 
+Certification on. 
+Adherence 1. Periodic updates on ESG (for Investor and generic presentations)
+CSO CEO – Ports -- ---
+Management. 
+Audit and Services.
+2. Responding to queries on ESG. 
+CSO CEO – Ports CEO – APSEZ/ GCFO. 
+IR team to facilitate communication 3. Interaction with Agencies (MSCI, DJSI or any other service provider)
+CSO CEO – Ports CEO – APSEZ/ GCFO. 
+Sustainability Team Head – Operations CEO – Ports CFO – APSEZ *CEO – APSEZ *GCFO 4. Interaction with investors – Road shows or requests. 
+CSO CEO – Ports Need based and IR to give its view on level of participation based on profile * CEO – Ports may escalate it to CEO – APSEZ and GCFO on case to case basis. 
+Process Flow. 
+Sl. No. Activity Periodicity Process Responsibility. 
+Levels 1. Disclosure Updates 1. Board and investor presentation 2. Integrated Annual. 
+Report. 
+Quarterly Annual. 
+Data collection, updating the presentation Review and primary approval before sending it to IR and Finance Team Review and final approval to include it into the pack. 
+CSO CEO – Ports CFO – APSEZ/ CEO – APSEZ 2. Queries on ESG received from IR team. 
+Ongoing basis. 
+Response preparation with appropriate supporting evidences Review and primary approval before sending it to IR Review and final approval for onwards submission Note: All mail communication to be marked to CFO - APSEZ and CEO – APSEZ.
+CSO CEO – Ports IR/ CFO -
+APSEZ/ *GCFO/ *CEO - APSEZ 3. Interaction with. 
+Agencies (MSCI, DJSI or any other service provider)
+Ongoing basis. 
+Response preparation with appropriate supporting evidence Review and primary approval before sending it to agencies/ one to one interaction Review and final approval for onwards submission and one to one interaction Note: Approval from CEO – Ports will be sufficient if the response is prepared from already disclosed information, Otherwise CEO – Ports can escalate it to CFO – APSEZ, CEO – APSEZ or GCFO (need based)
+CSO CEO – Ports IR/ CFO –
+APSEZ/ *GCFO/ *CEO – APSEZ 4. Interaction with investors – Road shows or requests. 
+Need based. 
+IR to identify the relevant investors and do facilitation and recommend level of participants. 
+IR team of. 
+APSEZ * CEO – Ports may escalate it to CEO – APSEZ and GCFO on case to case basis. 
+CEO – Chief Executive Officer; GCFO – Group Chief Financial Officer; CFO – Chief Financial Officer; CSO – Chief Sustainability Officer, IR – Investor Relations.
+
+
+ 46 9 Success Case Examples. 
+APSEZ always considers that everyone can make a difference on their own if they trust their instincts, have courage to take the risk and committed to deliver the best. While planning or executing any activity or work, the highest level of respective standard is followed. As an organization, we are committed to safeguard our environment where humanity can prosper.
+Our diverse operations span different regions and involve a wide range of communities. In order to establish a long-term relationship with the communities, and to contribute to their development, we pursue strategic social developmental activities. We have formulated Corporate Social Responsibility Policy which guides us in carrying out range of community beneficial activities with the aim of achieving harmonious coexistence with society, through education, community health, sustainable livelihood and community infrastructure development. Our social arm - Adani Foundation with support from CSR teams at port locations, plan and carry out initiatives as appropriate to the nature of the business and the needs of the region.
+We have developed a proper stakeholder engagement procedure guided by our Stakeholder Engagement Policy, to interact and engage with stakeholders on a regular basis to understand their concerns and understand how important they are to our business.
+ 
+
+
+ 47. 
+Case Study 1 – Biodiversity Conservation & Management: Mangroves at Mundra. 
+Aligned to Sustainable Development Goals. 
+Objective. 
+To protect and conserve mangrove cover & its associated ecosystem to strengthen the natural defence mechanism against climate change.
+About Project. 
+APSEZ prepared a Comprehensive and Integrated plan for preservation and conservation of mangroves and associated creeks in and around the Mundra port by engaging the services of National Centre for Sustainable Coastal Management (NCSCM) which is the reputed institute of Ministry of Environment, Forest & Climate Change (MoEF&CC).
+Methodology. 
+
+Outcome  No obstruction to any water stream (creeks / branches of creeks/ rivers)  Mangrove cover in and around APSEZ is continuously increasing.  Mundra has undergone substantial development during this period. Hence, it can be interpreted that infrastructure development has not left any adverse impacts on ecology.
+ 
+
+
+ 48. 
+Case Study 2 – Coastal Protection & Biodiversity Enhancement: Bio Shield Project. 
+Aligned to Sustainable Development Goals. 
+Objective  To create/ strengthen natural wind breaks or shelter belts in the coastal areas in order to protect the adjoining habitations and agricultural fields from effect of strong winds and to develop a natural barrier against the impact of storm and tidal surge.
+ To address the environmental issues like coastal area degradation, salinity ingress, sea- water intrusion on agricultural lands, anthropogenic pressures etc.
+ To promote sustainable Livelihood for the local community. 
+About Project. 
+First ever Bio-shield project in Gujarat coast is implemented by Adani’s Hazira port and also now another project by Adani’s Dahej port.
+Methodology  An area of 1 km in length and 180 meters in breadth, on the sea coast was identified  The first 50m, from seaward side for Mangrove plantation, protected by natural bamboo fencing, helps protect seacoast and boost fisheries/ biodiversity.
+ The next 50m consists of Piludi plantation, an oil-seed plant that acts as a source of additional income for nearby communities.
+ Further next 50m consists of Sharu and Unt Morad plantation, that supplies fodder for cattle rearing during dry seasons  Finally, 30m consist of fodder, fruit and medicinal plants, which apart from economical value, will help in blocking saline winds and enhance the green cover.
+https://www.youtube.com/watch?v=dNHMDVbx850. 
+Outcome  Improvement in air quality due to sequestration of CO2.  Mangrove will help in trapping the sediment and breeding grounds for marine biota like crab, fish and birds etc.
+ Help the fisherman community by enhancing fishery resource in the near-shore waters  Enhance livelihood opportunities through plantation and regeneration activities, increased fodder availability for livestock owners by alternative resource creation.
+ There will be increased availability of fuel wood and small timber through sustainable harvesting of other plants.
+ Since this is a community-based approach, the community have a feeling of owning the programme and the concept will be sustainable in the long run.
+
+
+ 49. 
+Case Study 3 – Conservation of Biodiversity: Turtle Nesting near Dhamra Port. 
+Aligned to Sustainable Development Goals. 
+Sea turtles existed on Earth and traveled our seas for the last 100 million years are a fundamental link in marine ecosystems which help maintain the health of seagrass beds and coral reefs that benefit commercially valuable species such as shrimp, lobster, and tuna. The breeding season for Olive Ridley Sea turtle in Odisha extends from November to May during which mating, egg-laying and hatching take place.
+Nesting Locations:
+Devi Rookery: Devi rookery was discovered in 1981 located at the mouth of the river Devi, along the central Orissa coast. Following the discovery of this site, mass nesting there was reported only twice, and in recent years only large number of sporadic nesting occurs.
+Rushikulya River mouth: The southern-most site along the Odisha coast, the Rushikulya rookery was discovered in 1994 and is approx. 5 km beach located immediately north of the Rushikulya river mouth from Purunabandha to Kantiagada village. Rushikulya situated in Chatrapur, Ganjam district of Odisha. Lakhs of endangered Olive Ridley turtles also flocked the Rushikulya river mouth for their annual mass nesting.
+https://www.youtube.com/watch?v=w85iGNUPNYg https://www.wildlife.odisha.gov.in/Videos/gahirmatha.mp4. 
+Gahirmatha: Gahirmatha Marine Wildlife Sanctuary is located at the mouth of the River Maipura between the Dharma River and Paradeep, on the eastern boundary of Bhitarkanika Wildlife Sanctuary along the northern Odisha coast. The total area of the sanctuary is 1435 km2 which includes 1408 km2 of water body and 27.0 km2 of land mass including reserve forests, mud flats and accreted sand bars. Core area of the sanctuary consists of 725.50 km2 and the buffer zone accounts for 709.50 km2. The entire sanctuary area comes within the revenue district of Kendrapara. The Gahirmatha beach supports the natal nesting beach and largest known nesting beach of Olive Ridley Sea Turtle in the world. South beach is the only nesting beach where the arribada (mass arrival) has been taking place since 2009.
+Protection Status: Olive Ridley sea turtle has found place in Schedule - I of Indian Wildlife (Protection) Act, 1972 (amended 1991). All the species of sea turtles in the coastal water of Odisha are listed as "vulnerable" as per IUCN Red Data Book. The sea turtles are protected under the 'Migratory Species Convention' and CITES (Convention of International Trade on Wildlife Flora and Fauna). India is a signatory nation to all these conventions. The 'Homing' characteristics of the Ridley sea turtles make them more prone to mass casualty.
+
+
+ 50. 
+Turtle Nesting at Gahirmatha. 
+Year. 
+No. of mother turtles. 
+Year. 
+No. of mother turtles. 
+Year. 
+No. of mother turtles. 
+Year. 
+No. of mother turtles. 
+FY 76 1,58,000 FY 88* - FY 00 7,11,000 FY 12 1,68,000. 
+FY 77 1,50,000 FY 89 3,00,000 FY 01 7,41,000 FY 13 4,06,000. 
+FY 78 1,50,000 FY 90 2,00,000 FY 02* - FY 14 60,000. 
+FY 79 1,33,000 FY 91 3,50,000 FY 03 73,000 FY 15 4,13,000. 
+FY 80 2,18,000 FY 92 3,20,000 FY 04 2,43,000 FY 16 52,000. 
+FY 81 1,91,000 FY 93 3,50,000 FY 05 2,34,000 FY 17 6,04,046. 
+FY 82* - FY 94 350000 FY 06 267000 FY 18 684000. 
+FY 83 2,00,000 FY 95 3,40,000 FY 07 1,46,000 FY 19 4,51,775. 
+FY 84 3,00,000 FY 96 2,90,000 FY 08 - FY 20 4,07,000. 
+FY 85 2,80,000 FY 97* - FY 09 1,67,000 FY 21 3,49,694. 
+FY 86 50,000 FY 98* - FY 10 3,57,000. 
+FY 87 3,86,000 FY 99 2,98,000 FY 11 4,72,000 * Source - https://www.wildlife.odisha.gov.in/WebPortal/WildlifeCensus.aspx The Turtle nesting can be seen at two prominent locations one at Gahirmatha and second at Rushikulya river mouth. In the year when nesting not happened at Gahirmatha, the nesting was observed in Rashikulya river mouth.
+
+Dr. H R Bustard, an international expert on turtles and crocodiles and their population ecology, said it is perfectly natural for Olive Ridley turtles to miss mass nesting. "The word 'failure' for their 'non-appearance' is a misnomer. We do not know why nesting does not occur every year, but this is not cause for concern," said Bustard, who claimed to have conducted the first-ever census of the sea turtles in 1975-76 at Gahirmatha. Mr. Bustard said according to annual census figures over past 38 years, there has been no mass nesting at Gahirmatha in 1981-82, 1984-85, 1987-88, 1996-97, 1997-98 (two years in succession), 2001-2002, and 2007-08. "It indicates arribada did not occur every year," he said to drive his point home. Environmentalists also expressed concern due to several reasons like beach erosion, bright light from the missile test range at Wheelers' Island near Gahiramatha and illegal fishing. Mr. Bustard, however, said ridley population in Odisha is quite healthy. "Despite deaths due to netting of bycatch, the population is increasing." Dr.(Mrs.) Priyambada Mohanty Hejmadi, a renowned zoologist and a member of High Powered Committee, in a fitting rebuff to all those who annually raise concerns over Olive Ridley protection measures and hurl accusation against the State Govt. for not taking adequate steps during the nesting and hatching season, said the Ridley’s themselves have snubbed such people by turning out in large numbers. Every year Orissa bashing
+
+
+ 51 takes place on account of false alarms raised by some people who allege lack of conservation measures, she noted.
+Dhamra Port and Stakeholder Alignments:  Chief Secretary of Odisha chairs a High Powered Committee annual review meeting that is attended by Principal Secretary Forest & Environment, Principal Chief Conservator of Forest, Chief wildlife Warden, Head Coast Guard Odisha Zone and Dhamra port attends the meeting and is part of the comprehensive high level strategy initiative for protection of the endangered Olive Ridley species.
+ Awareness and conservation programs for local peoples  Offshore patrolling by different law enforcing agencies like coast guards of Indian navy, defense and custom department of central government and state govt. Regular survey to assess the number of nesting, dead turtles and to monitor the threats to the population.
+ Illumination of light near the nesting beach has been stopped or reduced. Use of TED (Turtle excluder device) during fishing and trawling operation. Banning of fishing and trawler movement near shore during nesting season.
+ Dhamra Port has submitted a proposal for establishing a “Olive Ridley Turtle &
+Estuarine Crocodile Research Center” at Dhamra in joint partnership with Government of Odisha (GoO). GoO is actively examining the proposal.
+Turtle Conservation Measures  The port area and its navigation channel are outside the Turtle Congregation area  Compliant to IUCN recommendations - Lighting & Dredging protocol  Specially designed “dark sky friendly” lights fixed in the port and township  Glare not transmitted towards sea & movement of turtle in their congregation area  Collaborate efforts with Govt. during mating, congregation, nesting & hatching  Providing trawler to the Forest Department for patrolling purpose  Demarcated Gahirmatha Marine Sanctuary by buoys in 2014  Committed to Create a corpus of INR 30 Crores.
+ 
+
+
+ 52. 
+Case Study 4 – Environment Pollution Control: Zero Waste to Landfill. 
+Aligned to Sustainable Development Goals. 
+Vision Zero Waste – Enabling Circular Economy. 
+Inline to Clean India Mission of Government of India, APSEZ developed a vision of Zero Waste Company in 2014 by adopting 5R principles of Waste Management. APSEZ has developed SOPs for scientific handling and management of each type of waste and made significant progress though systematic inventorization, segregation, collection, treatment, storage & disposal of hazardous and non-hazardous wastes.
+It is our target to reduce waste generation and send zero waste to landfill through increased reuse, recycle, reprocess and recovery of waste. In FY19, 5718 MT of waste was disposed. In FY20 FY20, it was declined to 2610 MT and in FY21, it further reduced to 2042 MT. In FY20, we developed integrated approach for circular economy-based model of environment conservation with economic and social wellbeing.
+While undertaking this exercise our approach was to achieve economic wellbeing by minimizing cost of waste management, waste to wealth and circular economy. While, simultaneously on the social dimension - a self-sustainable model with local vendor development and local employment was undertaken which resulted in livelihood support. To achieve this, a state-of-the-art waste management facility was developed. To make the initiative inclusive the facility takes waste from other industries and visiting ships for expanding the horizon of environmentally sound management of wastes. Currently this initiative has been implemented at Mundra that enabled us to achieve a Zero Waste to Landfill certificate for Mundra operations. This initiative will be implemented across APSEZ ports by 2025.
+ 
+
+
+ 53. 
+Case Study 5 – Resource Conservation: Use of treated wastewater at Hazira port. 
+Aligned to Sustainable Development Goals. 
+Activity. 
+Stakeholder engagement and infrastructure development to consume treated effluent. 
+Objective. 
+To reduce freshwater footprint at Hazira Port in a cost-effective manner. 
+About Project. 
+KRIBHCO, a fertilizer company at Hazira, treats its effluent and discharges it into sea. We signed an MOU with KRIBHCO to provide a minimum of 2000KL per day of treated wastewater to meet our water requirements at Hazira Port. It is a symbiotic agreement between two parties which resulted into reduction of freshwater footprint in cost effective and environment friendly manner.
+Methodology. 
+Other options for meeting water requirement were to obtain freshwater through private parties. This option was easier to implement but would have been more detrimental to the environment. Whereas, the procedure of bringing all stakeholders on board for availing treated wastewater was more tedious.
+KRIBHCO’s wastewater treatment plant is about 18km from our port location. To bring this treated wastewater to our facility, we have laid a pipeline of 18km from the treatment facility till port.
+Outcome. 
+We made a CAPEX investment of INR 1200lakhs but do not incur any major operational cost except for the cost of water paid to KRIBHCO. It helps us in receiving good quality water, at lower CAPEX and OPEX as compared to desalination and also reduce pressure on fresh water resources.
+ 
+
+
+ 54. 
+Case Study 6 – GHG Emission Reduction: Alternate Fuel. 
+Aligned to Sustainable Development Goals. 
+Activity. 
+Converting Rubber Tyre Gantry Cranes (RTG) from Diesel mode to Electrical power. 
+Objective. 
+To reduce GHG emission by conversion of entire RTG fleet to electric power. 
+About Project. 
+In container handling ports, RTGs are used to handle the containers (movement and positioning) in yard locations. Traditionally, RTGs are equipped with DG Sets that transform diesel fuel into electrical energy for powering the motors of RTG. Through innovative retrofit measures, these conventional RTGs were converted into an ElectricRTG (e-RTG) by shutting down the DG Set and enabling powering through electricity (sourced from the grid). This modification resulted in a reduction in diesel fuel consumption in RTG operation by about 95%, as in e-RTG fuel is used only to transfer the RTG between blocks.
+Methodology. 
+DRTG to ERTG is a long-term energy efficiency plan of the Company. It was first implemented at Mundra port and continues to be implemented at all port locations. We internalize energy efficiency measures and bring them into the mainstream of our operations. The activity was conceptualized by Engineering Department. RTG was retrofitted with movable trolley with the existing current collector brush. It also has a busbar system which was installed with fixed structures at container yard and power supplied through compact substation to bus-bars. This makes it possible for the current collector trolley to automatically engage with bus-bar and get power supply which is required for operation. In FY20, this activity was taken up at Kattupalli port where 15 RTGs were retrofitted.
+Financial Outcome. 
+The retrofitting cost was INR 44 Crore at Kattupalli. It resulted in a saving of 1.5 litres of fuel per container. In FY21, for 7,80,322 container moves, a saving of 28,440 GJ was achieved, which avoided 879 tCO2e of direct emission and saved almost INR 7 Crore. This initiative contributed to reducing 17% of the total energy consumption.
+ 
+
+
+ 55. 
+Case Study 7 – Promoting Education: Project Utthan. 
+Aligned to Sustainable Development Goals. 
+Objective  Enhancing the teaching learning outcomes  Empowering ‘Priya Vidyarthis’ (Progressive Learners)  Introducing English as a third language  Ensuring regularity of students  Creating joyful ‘learning spaces’ and bringing competitive spirit. 
+Outreach of Project. 
+Key Features. 
+A. Utthan Sahayaks: As Catalysts and Influencers  Majority of Utthan Sahayak are natives; exposed to quality education  Dedicated Utthan Sahayak in each school, as mentor to Priya Vidhyarthis (Progressive learner) - to work towards their intellectual, physical, social and emotional growth.
+ Ensuring regularity, facilitators in library, assembly and other co-curricular activities. 
+B. Introduced English as a third language  Through a structured curriculum in primary classes (Class: 1 to 4)  Out of 1191 students from Class 1-4, 810 students are aware of the alphabets, differentiate about capital and small letter. (Assessment Report by KSKV University)
+C. IT on Wheels  Customized curriculum to provide basic computer knowledge to the students of classes 4 to 8.
+ Covered all 17 schools; dedicated 12 hours in a month.  Van with 40 laptops and two instructors facilitating the mission 
+
+
+ 56. 
+D. Reading Corner. 
+E. Promoting Sports. 
+F. Mothers’ Meet  Monthly, ensuring maximum participation, Sharing and solving the concerns  Making mothers as the primary catalyst in child's education  Instrumental in improving the regular school attendance. 
+Impact Assessment by Kutch University  The reading and writing abilities of the Priya Vidyarthis have improved from below 30% to 61%; while the numerical abilities improved from below 20% to 54%.
+ The Smart classroom in each school makes the learning more interactive, creative and effective, which is reflected in their exam results.
+ ‘IT on Wheels’ in all the schools with 1 dedicated van + 2 trained IT instructors + 40 laptops have helped develop IT Skills from the elementary level.
+ Participation in Khel Mahakumbh increased from 65 students in 2018-19 to 502 students in FY20.
+ To develop healthy cultural orientation and creative abilities among the students, musical instruments were distributed in all the schools, which are being using during the morning prayers and cultural activities.
+ 7113 books were issued in the school libraries during FY20 against 1194 in FY19.  To develop scientific interest among the students, science kits were provided to each school; students of middle classes started preparing science-based models and few got selected in Taluka level science exhibitions 2019. https://www.adaniutthan.in/adaniutthan 
+
+
+ 57. 
+Case Study 8 – Water Conservation & Management: Project Swajal. 
+Aligned to Sustainable Development Goals. 
+Backdrop  Kutch, the largest district of Gujarat State and is spread across 45,652 km2. It is located in the western tip of India  The district has 10 takulas, of which major ones are Bhuj, Gandhidham, Mundra,
+Mandvi and Anjar  Steady depletion of ground water and frequent drought made it imperative for APSEZ through Adani foundation to work systematically for water conservation  We aimed towards creating sustainable agriculture-based community.
+ 
+
+Intervention Process 
+
+
+ 58. 
+Impact  218,500 men, women, children and elderly impacted by this initiative  Total Dissolved Solids (TDS) in the ground water down by 16.7%  Ground water table up by 4.2 feet over the last 5 years  In 4 villages water level has increased by 15-20 ft.t through bore-well recharging facility  Storage capacities of check dams and ponds increased by 106.44 MCFT  Total area benefited 2857 hectares  Annually 10000 Liters of water saved and up to INR 10000 saved per family.  20% increase in net irrigated area  Up to 40% increase in agricultural yield and 20% rise in revenue  80% reduction in money spent on labour.  Up to 20% less money spent on electricity bills.  50% less water used as compared to conventional methods  Potable water available at doorstep. Earlier on an average women used to walk 1.3 km to fetch water.
+ On an average there has been up to 25% decrease in expenses on healthcare.  Water availability has also ensured safety, security and overall well-being of women and children in the area.
+ Average savings per family annually*: Average Electricity charges Rs.5600; Increase in income due to increase in yield Rs. 77,000; Savings on healthcare Rs. 2600; Reduced expenses on account of buying water Rs. 5,760; Reduced expenses on travel cost to buy water Rs. 10,200 https://www.adanifoundation.org/stories-of-change/world-water-day-2021 
+
+
+ 59. 
+Case Study 9 – Creating Sustainable Livelihood: Reviving the Ancient Namda Art. 
+Aligned to Sustainable Development Goals. 
+Namda Kala is one of such ancient art older than spinning and weaving, meaning woolen artefact is the art of making felted floor coverings and paddings, and then embroidering the pieces with hand-dyed threads. In existence since 1800s and was in demand due to use by royal families and then by government through bulk orders till early 2000s.
+Then gradually fade away due to new art forms but handful of artisans held on to their family legacy of Namda Kala. This is the story of one such adept artisan.
+Karim Umar Mansuri is the only Namda artisan in Kutch (Gujarat) – a place where families were traditionally involved in animal husbandry, owning large herds of livestock. Thus, the art of crafting using sheep wool was handed down form fathers to sons. However, in a quickly changing and modernizing world, Karim was struggling to survive in a dwindling market and was forced to start looking for menial jobs.
+
+In 2017, Adani Foundation – the CSR arm of the Adani Group –reached out to Karim and decided to help sustain Namda. Later that year, the Adani Group placed an order of 750 Namda camels, worth INR 55.5 lakhs by bringing 30-35 artisans onboard. Also provided good infrastructure to work and train people as well as help developed linkages with professors and students from renowned design schools like NID and NIFT.
+
+Through Adani Foundation’s relentless drive and Karim’s passion, the story of Namda Kala has achieved international recognition. A closely guarded family secret of Namda, which was about to disappear due to lack of opportunities, is now a source of sustainable livelihood. Sustainable development of any community entails furthering its traditional arts and crafts, offering sustainable livelihood interventions that accord dignity of life and living to artisans as well as longevity to the art.
+https://www.adanifoundation.org/stories-of-change/crafting-livelihoodopportunities-and-a-sustainable-future-for-namda-art 
+
+
+ 60. 
+Annexure – 1. 
+Terms of Reference of the Board committees. 
+A. Audit Committee 1. Oversight of the company’s financial reporting process and the disclosure of its financial information to ensure that the financial statement is correct, sufficient and credible; 2. Recommendation for appointment, remuneration and terms of appointment of auditors of the company; 3. Approval of payment to statutory auditors for any other services rendered by the statutory auditors; 4. Reviewing, with the management, the annual financial statements and auditor's report thereon before submission to the board for approval, with particular reference to: a. Matters required to be included in the Director’s Responsibility Statement to be included in the Board’s report in terms of clause (c) of sub-section 3 of Section 134 of the Companies Act, 2013; b. Changes, if any, in accounting policies and practices and reasons for the same; c. Major accounting entries involving estimates based on the exercise of judgment by management; d. Significant adjustments made in the financial statements arising out of audit findings; e. Compliance with listing and other legal requirements relating to financial statements; f. Disclosure of any related party transactions; g. Modified opinion(s) in the draft audit report.
+5. Reviewing, with the management, the quarterly financial statements before submission to the board for approval; 6. Reviewing, with the management, the statement of uses/ application of funds raised through an issue (public issue, rights issue, preferential issue, etc.), the statement of funds utilized for purposes other than those stated in the offer document/ prospectus/ notice and the report submitted by the monitoring agency monitoring the utilisation of proceeds of a public or rights issue, and making appropriate recommendations to the Board to take up steps in this matter; 7. Review and monitor the auditor’s independence and performance, and effectiveness of audit process; 8. Approval or any subsequent modification of transactions of the company with related parties; 9. Scrutiny of inter-corporate loans and investments; 10. Valuation of undertakings or assets of the company, wherever it is necessary; 11. Evaluation of internal financial controls and risk management systems;
+
+
+ 61 12. Reviewing, with the management, the performance of statutory and internal auditors, adequacy of the internal control systems; 13. Reviewing the adequacy of internal audit function, if any, including the structure of the internal audit department, staffing and seniority of the official heading the department, reporting structure coverage and frequency of internal audit; 14. Discussion with internal auditors of any significant findings and follow up there on; 15. Reviewing the findings of any internal investigations by the internal auditors into matters where there is suspected fraud or irregularity or a failure of internal control systems of a material nature and reporting the matter to the board; 16. Discussion with statutory auditors before the audit commences, about the nature and scope of audit as well as post-audit discussion to ascertain any area of concern; 17. To look into the reasons for substantial defaults, if any, in the payment to the depositors, debenture holders, shareholders (in case of non-payment of declared dividends) and creditors; 18. To review the functioning of the Whistle Blower mechanism; 19. Approval of appointment of Chief Financial Officer after assessing the qualifications, experience and background, etc. of the candidate; 20. Reviewing financial statements, in particular the investments made by the. 
+Company’s unlisted subsidiaries; 21. Reviewing the utilization of loans and/ or advances from/investment by the holding company in the subsidiary exceeding rupees 100 crore or 10% of the asset size of the subsidiary, whichever is lower including existing loans/ advances/ investments; 22. Carrying out any other function as is mentioned in the terms of reference of the. 
+Audit Committee.
+Review of Information by Audit Committee: 1. The management discussion and analysis of financial condition and results of operations; 2. Statement of significant related party transactions submitted by management; 3. Management letters/ letters of internal control weaknesses issued by the statutory auditors; 4. Internal audit reports relating to internal control weaknesses; 5. The appointment, removal and terms of remuneration of the Chief Internal. 
+Auditor.
+6. Statement of deviations: a) quarterly statement of deviation(s) including report of monitoring agency, if applicable, submitted to stock exchange(s).
+b) annual statement of funds utilized for purposes other than those stated in the offer document/ prospectus/ notice.
+
+
+ 62. 
+B Nomination and Remuneration Committee 1. Formulation of the criteria for determining qualifications, positive attributes and independence of a director and recommend to the Board a policy, relating to the remuneration of the directors, key managerial personnel and other employees; 2. Formulation of criteria for evaluation of Independent Directors and Directors and the Board; 3. Devising a policy on Board diversity; 4. Identifying persons who are qualified to become directors and who may be appointed in senior management in accordance with the criteria laid down and recommend to the Board their appointment and removal; 5. To extend or continue the terms of appointment of the independent director, on the basis of the report of performance evaluation of independent directors; 6. To recommend/ review remuneration of the Managing Director(s) and Whole-time. 
+Director(s) based on their performance and defined assessment criteria; 7. To recommend to the board, all remuneration, in whatever form, payable to senior management; 8. Carrying out any other function as is mandated by the Board from time to time and/ or enforced by any statutory notification, amendment or modification, as may be applicable.
+C) Stakeholders’ Relationship Committee 1. Resolving the grievances of the security holders including complaints related to transfer/transmission of shares, non-receipt of annual report, non-receipt of declared dividends, issue of new/ duplicate certificates, general meetings etc.; 2. Reviewing the measures taken for effective exercise of voting rights by shareholders; 3. Reviewing of adherence to the service standards adopted in respect of various services being rendered by the Registrar & Share Transfer Agent; 4. Reviewing the various measures and initiatives taken for reducing the quantum of unclaimed dividends and ensuring timely receipt of dividend warrants/annual reports/statutory notices by the shareholders of the Company; 5. Carrying out any other function as is referred by the Board from time to time or enforced by any statutory notification / amendment or modification as may be applicable.
+D) Sustainability and Corporate Social Responsibility Committee 1. To review from time to time Corporate Social Responsibility (CSR) policy in the light of emergent situation and statutory framework; 2. To recommend the amount of investment to be made on CSR activities;
+
+
+ 63 3. To monitor the implementation of CSR policy and review overall performance in. 
+CSR Programmes; 4. To review from time to time Sustainability policy in the global context and evolving statutory framework such as BRR; 5. To review overall Sustainability performance and Sustainability Reporting of the. 
+Company; 6. To review from time to time different aspect of Sustainability Performance such as ethical governance, environmental stewardship, safety performance at sites, water and energy use etc.; 7. The authority to decide on Disclosure on Management Approach in Sustainability. 
+Reporting and to steer Sustainability Performance is hereby delegated to CEO of the Company.
+E) Risk Management Committee 1. To review the Company’s risk governance structure, risk assessment and minimization procedures and the guidelines, strategies and policies for risk mitigation on short term as well as long term basis; 2. To monitor and review the risk management plan of the Company; 3. To review the current and expected risk exposures of the organization, to ensure the same are identified, qualitatively and quantitatively evaluated, analysed and appropriately managed; 4. To carry out any other function as is referred by the Board from time to time or enforced by any statutory notification / amendment or modification as may be applicable.
+F) Finance Committee 1. To negotiate, finalize terms and conditions for repayment of debt to. 
+Banks/Financial Institutions and execution of necessary agreements.
+2. To appoint Security Trustee, modification of existing security document, creation of security in favour of lenders from time to time to comply with the terms and conditions of various sanctions for the development of Port.
+3. Opening, operating, modifying and closing existing Bank Accounts of the company.
+4. To avail/enter into RBI permitted generic and structures derivative products to manage its exchange rate and interest rate exposures up to the approved limit: a) Foreign exchange spot and Forward Contracts b) Currency Swaps c) Currency Options d) Currency Futures e) Interest Rate Futures f) Interest Rate Swaps and Forward Rate Agreements g) Interest Rate Caps and Floors
+
+
+ 64 h) Combination of any of the aforementioned derivative products i) Any other products approved by the Reserve Bank of India (RBI) 
+and the Finance Committee may be authorized to finalize the terms and conditions subject to the statutory permissions of such facilities to execute the documents, deeds, agreements etc. as may be advised by Banks/Financial Institutions to give effect to the same, to affix Common Seal of the company on the documents wherever necessary and do all necessary acts, deeds and things.
+5. Affixing Common Seal of the Company. 6. Issuance of Power of Attorney. 7. To bid for various projects and to do all necessary acts, deeds and things in connection therewith on behalf of the Company.
+8. To borrow and avail any fresh/ additional/ revised/ enhanced/ realigned facilities, temporary loans, term loans etc. (in Indian/Foreign Currency(ies)) from banks and/or Financial Institutions, and accept terms and conditions of sanction/s from Banks/Financial Institutions up to approved limits including existing borrowing, to negotiate settle and finalize all the terms and conditions of borrowing and to offer, provide security, to execute and sign the loan, security and other documents, to affix the common seal of the Company and to create/extend charges on the assets of the Company as the committee may consider appropriate in the interest of the Company.
+9. To give/ ratify loans from time to time to any Bodies Corporate/ Subsidiary. 
+Companies/ Joint Venture Companies/ Associates Companies/ Society on terms and Conditions as may be deemed expedient or mutually agreed upon up to approved limits.
+10. To give sponsor undertaking and/ or provide security by pledging Company’s holding in Subsidiary Companies/ Joint Venture Companies to the extent of 30% of the Share Capital of the each Subsidiary Company/ Joint Venture Companies as sponsor to the lenders for the borrowing availed by the Subsidiary Companies/ Joint Venture Companies.
+11. To consider and adopt the condensed consolidated interim financial statements of the company for such period as may be required from time to time for the purpose of disclosing the same in the offering circular for the proposed bond to be issued in one or more tranches from time to time.
+12. To issue Bond/ Bond-cum-Legal Undertaking/ Guarantee to Customs, Gujrat. 
+Maritime Board/ Development Commissioner of SEZ/ other regulatory authorities up to approved limits.
+13. To fix record date/ close register of members & debentures holders / transfer books in relation to securities issued by the Company.
+14. To give guarantee including corporate guarantee, security, letter of comfort, permit to avail LC/ LoU/ BG facility, loan equivalent risk (LER) facility by earmarking the limits of the Company from time to time to any Bodies Corporate/ Subsidiary Companies/ Joint Venture Companies /Associates Companies/ Society
+
+
+ 65 on terms and Conditions as may be deemed expedient or mutually agreed upon up to approved limits 15. Incorporation of new Company, making initial subscription and to invest in securities of the Companies and/ or such other bodies for such period and upon such terms and conditions as may be settled provided that the amount of Investment in each individual case shall not exceed approved limits.
+16. To invest surplus funds in interest bearing liquid instruments including but not. 
+Ltd. to money market, mutual funds and bank deposits, bonds, debentures, fixed deposits, Government Securities and/or such other securities/ instruments of banks, financial institutions, Central and State Governments, bodies corporate, mutual funds for such period and upon such terms and conditions as may be settled provided that the amount of investment shall not exceed approved limits.
+17. To issue Commercial Papers up to approved limits as and when required with a maturity period up to one year, to one or more permitted investors, in accordance with the guidelines issued by the Reserve Bank of India including but not Ltd. to appointment of Issuing and Paying Agent, Registrar and Transfer Agent and to approve, finalise, execute, deliver commercial paper certificates, receipts, notices, mandates, agreements, power of attorney and other deeds, instruments and writings as may be required in connection with the issuance of Commercial Papers.
+18. To authorise officers or other persons to undertake certain matters, related actions on such terms & conditions and limitations as the said committee shall determine and to enter into any agreement, deed, undertaking and authorise any person to execute the same.
+19. To authorise any person to attend meeting pursuant to Section 113 of the. 
+Companies Act, 2013.
+20. To carry out any other function as is referred by the Board from time to time.
+G) Transfer Committee 1. To approve and register transfer and/or transmission of equity and preference shares and debentures; 2. To subdivide, consolidate and issue equity and preference share certificates and/or debenture certificate on behalf of the Company; 3. To affix or authorise fixation of common seal of the Company on the equity, preference share certificates and debenture certificate of the Company; 4. To issue duplicate equity and preference share certificates and debenture certificate; 5. To apply for dematerialisation of the equity, preference shares and debentures; 6. To do all such acts, deeds or things as may be necessary or incidental to the exercise of above powers.
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Adani Ports and Special Economic Zone Limited. 
+Adani Corporate House, Shantigram, S G Highway. 
+Ahmedabad 382 421, Gujarat, India. 
+P: +91 79 2656 5555 | F: +91 79 2656 5500. 
+Email: sustainability.apsez@adani.com | Website: www.adaniports.com

@@ -1,0 +1,519 @@
+Our journey to managing climate change impacts. 
+BASELINE TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES (TCFD) REPORT 2018 
+
+
+KEY:
+Mines. 
+Corporate office. 
+Joint ventures. 
+Projects. 
+Regional offices. 
+Johannesburg. 
+South Deep. 
+Salares Norte Chile. 
+Cerro Corona Lima Peru. 
+Asanko Gold Tarkwa Damang. 
+Accra. 
+Perth. 
+Granny Smith Gruyere Agnew. 
+St Ives. 
+Table of contents About Gold Fields. 
+About this report. 
+In 2018 Gold Fields has become only the 2nd South African company and the first South African mining company to publicly endorse the Financial Services Board’s Task Force on Climate-related Financial Disclosures (TCFD). The TCFD recommendations, backed by most financial regulators around the world, encourage companies to release details about their climate-related financial risks and opportunities to provide consistent and comparable information to investors, lenders, insurers, and other stakeholders.
+The TCFD voluntary guidelines provide for comparable and reliable disclosure of climate-related information, which companies commit to publish at least once a year. Today we are releasing our first TCFD Report as a companion to our 2018 Integrated Annual Report. This report will therefore serve as our baseline to monitor our climate change-related performances for the next few years to come. Our TCFD report replaces our previous annual submissions under the Carbon Disclosure Project (CDP).
+SCENARIO PLANNING 8 a. Climate scenarios used for planning 8 b. Nationally determined commitments 8 c. Climate related policies 8 d. RCP scenario vulnerability assessments. 
+HOW HAVE WE RESPONDED 9 a. Tracking exposure and performance 9 b. Tracking and improving quantifiable performance 10 c. Our group journey towards low-carbon and renewable energy 10 d. Low carbon emission journey in Ghana and Australia 11 e. Renewable energy at Gold Fields 11 f. Water management. 
+OUR PERFORMANCE 12 a. Statistics per region – 2018 13 b. Regional and group energy and carbon performance. 
+INTRODUCTION 2 Chief Executive Officer’s Statement 3 Our climate change commitments 3 a. 2015 ICMM Statement on climate change 3 b. Climate change policy statement 3 c. Gold Fields global commitments on climate change. 
+OUR APPROACH TO BUILDING CLIMATE CHANGE RESILIENCE 4 a. Our governance processes around climate related risks 4 b. Integration of climate-related risks into Gold Fields strategies 5 c. Adapting our business to climate change risks 5 d. How we identify and manage climate-related risks 6 e. Physical risks in our portfolio 7 f. Recent climate-related developments, risks and opportunities. 
+Gold Fields Limited is a globally diversified gold producer with nine operating mines (including our Asanko Joint Venture) and projects in Australia, Chile, Ghana, Peru and South Africa, and total attributable annual gold-equivalent production of approximately 2Moz.
+It has attributable gold Mineral Reserves of 48.1Moz and gold Mineral Resources of 96.6Moz. Attributable copper Mineral Reserves total 691 million pounds and Mineral Resources 847 million pounds, while silver Reserves total 39.3Moz and Resources 43.7Moz.
+Gold Fields has a primary listing on the Johannesburg Stock Exchange (JSE) Limited, with a secondary listing on the New York Stock Exchange (NYSE).
+Americas region West Africa region South Africa region Australia region. 
+Mine: Tarkwa, Damang and Asanko Gold (50/50 JV) in Ghana – open pit gold mines. 
+Mine: South Deep – underground gold mine Mine: Cerro Corona in Peru – Porphyry, Copper, Gold – open pit mine Project: Salares Norte in Chile. 
+Mine: St Ives, Granny Smith and Agnew in Western Australia – open pit and underground mines Project: Gruyere (50/50 JV)
+GOLD FIELDS TCFD REPORT 2018 
+01
+
+
+“WE ARE COMMITTED TO ADDRESSING ONE OF THE DEFINING GLOBAL CHALLENGES SOCIETY IS FACING”
+NICK HOLLAND Chief Executive Officer How climate change impacts our business. 
+Gold Fields recognises that, while climate change is a serious challenge to society at large, it also has a direct impact on our host communities as well as our operations.
+This impact is felt in a number of ways, including: ➜ Extreme weather such as severe rainfall, shifts in rainfall patterns, heavy snow fall, severe winds, higher temperatures, sea level undulations, and prolonged droughts ➜ Disruptions to our supply chain ➜ Impacts on our host communities ➜ The need to comply with current and emerging climate-related regulations, policies and laws, emerging carbon emission taxes and stringent water restrictions ➜ An increasing drive for public disclosures of our efforts to minimise our contribution to and our ability to build operational resilience in the face of climate-related risks.
+02. 
+As such, Gold Fields’ climate change programme is focused on a comprehensive assessment of climate change-related risks and mitigation opportunities, as well as the development and implementation of action plans. Gold Fields’ objectives are to minimise the Company’s contribution to climate change and to build resilience to the direct physical impacts of climate change on its operations and host communities.
+At operational level our integrated energy, carbon management and water strategies highlight the approach taken by our mines to achieve: ➜ Greater energy efficiencies ➜ Improved use of low carbon and renewable energy sources ➜ Security of water and energy supplies ➜ Careful management of our water resources.
+The impact of this has been to achieve greater energy and water security, lower energy intensity and reduced carbon emissions.
+We have disclosed our carbon footprint to the Carbon Disclosure Project (CDP) since 2008. During this time, Gold Fields has consistently been ranked as one of the JSE leaders in terms of disclosure to the CDP. (See https://www.goldfields.com/sustainability-reporting.php)
+From 2018 onwards, we will be reporting on our climate change performance exclusively under the disclosure recommendations of the Task Force on Climate-related. 
+Financial Disclosures (TCFD). In November 2018, we publicly endorsed the TCFD recommendations. This report is the first for Gold Fields in support of the TCFD framework and we will use it to report transparently on our climate change journey in the years ahead.
+Our journey ahead Adapting to climate change is an ongoing journey, and we will continue to integrate it into our business strategy. Our approach will also be guided by the following overriding principles to improve our: ➜ Quantitative performance: Deepen our understanding around climate-related performance metrics; Seek partnerships with other mining companies, particularly through the ICMM, on adaptation initiatives; Explore technology and innovation-related solutions to reduce our carbon and water footprints ➜ Disclosures: Put in place processes and systems to improve capturing of financial data on climate-related events and risks; Establish a Group Leadership Forum to further improve our TCFD reporting ➜ Preparedness: Seek partnerships with stakeholders to improve emergency responses. Nick Holland – CEO. 
+Gold Fields’ commitment to leadership in sustainable gold mining underlies everything we do as a business. As such, we are committed to addressing one of the defining global challenges society is facing, namely the impact of the rapidly changing climate on our business, our employees and our host communities.
+We have responded to this challenge through a range of strategic policy interventions as well as operational adjustments. The management of climate change impacts and our transition to a low carbon environment is a key component of environmental stewardship at all our operations and projects. Compared to other metals, such as steel, coal and aluminium, gold mining’s carbon emission intensity per unit value is amongst the lowest in the sector. As a mining business, Gold Fields is fully cognisant of the fact that we have a material impact on the surrounding environment and the communities with whom we share this environment.
+Our carbon emissions are primarily from diesel consumed by haulage trucks and electricity consumption in mining and gold processing.
+Internally, Gold Fields has recently reviewed and updated a number of policy statements and guidelines, reflecting our environmental priorities. They cover the following areas of responsibility in the Company: energy and carbon management; environmental management; water management; tailings management; mine closure and climate change.
+Our Board in 2017 approved a Climate Change Policy Statement, committing us to identify and assess climate-related risk and opportunities; reporting and disclosing our performance via various reporting frameworks; raising the share of renewable energy; and energy and water efficiency initiatives.
+In addition, we have signed up to a number of global initiatives and programmes that support both corporate disclosure of climate change impacts and encourage multi-stakeholder commitments to combating it.
+It is increasingly clear that the negative physical impacts of climate change are real and immediate, due to: ➜ The long-term risks posed by climate change to the Group’s operations and surrounding communities ➜ Increasing regulation of carbon emissions in most of our jurisdiction ➜ Taxes imposed by governments to disincentivise non-renewable energy consumption.
+GOLD FIELDS TCFD REPORT 2018. 
+CHIEF EXECUTIVE OFFICER’S STATEMENT 
+
+
+In 2017, our Board adopted a Group Climate Change Policy Statement, setting out our commitment to a balanced mitigation and adaptation approach in achieving our climate change objectives.
+Externally, Gold Fields has worked directly – and through the International Council on Mining & Metals (ICMM), a collaboration of 26 of the world’s leading mining companies – on a range of programmes and initiatives that illustrate our commitment to transparency about our climate change impact and our support of climate change adaptation and mitigation initiatives.
+Over the years, we have disclosed our carbon footprint through the CDP, submitted our responses to the Dow Jones Sustainability Index (DJSI), signed The Paris Pledge for Action, supported the ICMM’s Climate Change Position Statement, reported under the Global Reporting Initiative (GRI) Standards and endorsed the recommendations of the TCFD.
+Our climate change commitments. 
+Gold Fields Limited recognises that climate change is a serious challenge globally to society at large, our host communities and our operations. The Group climate change strategy is to identify and assess risks related to climate change, and develop action plans. Our objectives are to minimise our contribution to climate change and to build resilience to the physical impacts of climate change at our operations and growth projects.
+To achieve our strategy, Gold Fields commits to: ➜ Reporting and publicly disclosing our greenhouse gas emissions footprint and performance ➜ Regularly undertaking vulnerability risk assessments at all our operations and host communities ➜ Developing and implementing regional climate change strategies that include mitigation and adaptation plans ➜ Setting objectives and targets that give effect to the plans ➜ Investing in renewable, low-carbon energy solutions and energy efficiency initiatives to reduce our greenhouse gas emissions, including carbon offset programmes ➜ Investing in solutions for efficient utilisation of water at our operations, while ensuring the security of water supply ➜ Supporting research and development to achieve our climate change objectives ➜ Supporting transparent carbon pricing mechanisms that incentivise innovation to drive reductions in greenhouse gas emissions ➜ Establishing an appropriate level of employee awareness and training employees who hold direct responsibility for activities that reduce our carbon emissions ➜ Complying with applicable legal requirements and other requirements to which the organisation subscribes ➜ Encouraging business partners and suppliers to adopt similar principles ➜ Fostering dialogue and seeking collaboration with governments, investors, non-governmental organisations, host communities and other stakeholders to address climate change challenges.
+All those working for and on behalf of Gold Fields, including employees, contractors, suppliers and partners, play a central role in meeting these commitments by: ➜ Taking responsibility for implementing applicable climate change adaptation and mitigation programmes and initiatives ➜ Adhering to the Group’s climate change policy ➜ Integrating climate change considerations into business planning and processes, including carbon pricing.
+Nick Holland – Chief Executive Officer February 2017. 
+Gold Fields’ Climate Change Policy Statement. 
+Gold Fields’ global commitments on climate change 2015 ICMM Position Statement on Climate Change ➜ Climate change is an undeniable and critical global challenge, and its causes must be addressed by all parts of society. ICMM member companies are committed to being part of the solution ➜ We support an effective binding global agreement on climate change ➜ We support a price on carbon, and other market mechanisms that drive reduction of greenhouse gas emissions and incentivise innovation ➜ We recognise the need to reduce emissions from the use of coal, and support collaborative approaches to accelerate the use of low-emission coal technologies as part of a measured transition to a lower-emissions energy mix. That transition should recognise the importance of coal in the global economy and particularly in the developing world ➜ We support greater use of renewable energy and other cost-effective low-emission technologies and improved energy efficiency, including in our own operations ➜ We will help our host communities and equip our operations to adapt to the physical impact of climate change ➜ We will continue to ensure that climate change is a part of our planning process ➜ We will engage with our peers, governments and society to share solutions and develop effective climate change policy.
+03 GOLD FIELDS TCFD REPORT 2018. 
+OUR CLIMATE CHANGE COMMITMENTS
+
+
+04. 
+Our governance processes around climate-related risks. 
+Integration of climate- related risks into Gold Fields strategy. 
+RISK. 
+Integrating management of climate-related risks into Gold Fields’ strategy. 
+Climate-related risk mitigation and adaptation is integrated into Gold Fields’ operational and strategic planning processes for the business’ short, medium and long-term horizons.
+ 
+
+S. 
+H
+O. 
+RT. 
+T
+E. 
+R
+M. 
+
+ 
+
+M
+ED. 
+IU. 
+M
+T. 
+ER. 
+M 
+
+ 
+
+
+L. 
+O
+N. 
+G
+T. 
+ER. 
+M 
+Increase stakeholder engagement. 
+Improve business planning process. 
+Improve security of utilities. 
+Improve safety and environmental performance. 
+Supporting climate change BSC objectives. 
+A key climate change objective is to improve the resilience and preparedness of operations in dealing with climate-related risks and events. Climate change is therefore an important consideration during the Group’s three-year strategic planning process and reflected in our top 20 Group risks. This process conducts a scenario analysis for each operation, assessing how best to maximise cash-flow, life-of-mine and margin, and ultimately improve the quality of our portfolio. The energy, water and diesel requirements are mapped for all mines, and a carbon footprint developed for each scenario. This information directly informs the strategic decisions taken across our portfolio of assets.
+Gold Fields uses the International Council on Mining & Metals’ (ICMM) Mining Climate Assessment (MiCA) tool in our long-term life-of-mine planning process. This allows us to develop and implement plans that respond to material climate risks that could impact our assets and operations. The MiCA tool uses 15 global climate models to provide an overview of weather-related changes (in wind, temperature, rainfall and water scarcity) as well as projection data sets developed by the United Nation’s Intergovernmental Panel on Climate Change. The data sets are centred around the year 2035 and provide 10-year horizons between 2025 and 2035 and between 2035 and 2045 based on baseline data from 1986 to 2005. (See p8)
+Life-of-mine planning. 
+Strategic planning 1. Improve disclosure Transparent reporting is an important means to improve engagement and build stronger relationships with our stakeholders. This is done through the publication of our Climate Change Policy, TCFD submission and, historically, our CDP and CDP Water submissions.
+2. Improve climate change preparedness Building climate-change resilience into our operations involves understanding and then planning for both the risks and opportunities that may arise. This helps us improve our business planning (as detailed below under strategic planning and life-of-mine planning), and improves the cost, security and supply of energy and water. The outcomes of this work inform renewable energy investments and water infrastructure.
+3. Improve quantitative performance Measurable targets are in place to reduce reliance on diesel, electricity and related carbon emissions as well as, where appropriate, increase our use of renewable energy. These targets are as much driven by bottom-line cost considerations as they are by our ethos of environmental responsibility.
+Balanced scorecard (BSC)
+Relevant Group strategic objectives. 
+The annual BSC outlines Gold Fields’ strategic objectives for the year. These directly cascade from and support the achievement of the overall Group strategy. BSC deliverables are cascaded from our Group executives to site managers. The diagram alongside illustrates how the climate change BSC objectives support relevant Group strategic objectives:
+Oversight over climate change-related strategies, developments and risks is held at Board level. The main Board of the Group sets the strategic direction and approves policies that are relevant to our management of energy, water and climate change issues.
+The Gold Fields Board’s Risk Committee provides oversight on Group risks. The Committee undertakes and reviews company-wide risk assessments twice a year, with a view to ensuring effective and adequate risk management strategies are in place.
+The Safety, Health and Sustainable Development (SHSD) Committee of the Board reviews performance against climate-related strategies, such as energy, water, environmental and climate change programmes, on a quarterly basis.
+At Group level, Gold Fields’ executive management is tasked with implementing Board-approved policies and strategies as well as related risk management plans. Quarterly updates on these issues are provided to the SHSD Committee.
+Permanent appointments at Group level of a Head of Water, Environmental Manager, and Head of Energy and Carbon provide central coordination through to Group executive management and the Board. A number of Group-wide teams from the regions and operations, led by corporate, collaborate to enhance management of water, environment, energy and climate-related risks.
+At regional level, strategic and operational risk registers include climate-related risks, implementation plans and opportunity assessments.
+GOLD FIELDS TCFD REPORT 2018. 
+OUR APPROACH TO BUILDING CLIMATE CHANGE RESILIENCE
+
+
+Strategy. 
+Standards, systems and guidelines. 
+Risk management. 
+Indicators and targets. 
+Reporting and communication. 
+External assurance. 
+Policy. 
+Vision. 
+How we identify and manage climate-related risks. 
+Gold Fields Group risk registers have since the early 2000s acknowledged the negative impacts that climate-related risks could have on our operations.
+The processes for identifying and assessing climate-related risks are part of the process that leads to the development of the Group strategy. In accordance with Gold Fields’ risk management systems, severity of risks comprises impacts that will cause one or more days’ loss of revenue or more than three days’ business interruption. Gold Fields’ Enterprisewide Risk Management (ERM) process is aligned to the international ISO 31000 risk management standard and involves a materiality assessment process.
+The diagram below shows Board and management involvement in managing climate-related risks.
+Business planning includes considerations for the following risks: water availability, shifts in rainfall patterns, changing legislative landscapes pertaining to carbon emissions management, the increasing need to find alternatives to traditional energy provision, and improved energy and water efficiencies. Our regional offices monitor regulatory changes, including climate change-related ones. We have included climate-related risk assessments in our capital projects studies.
+Gold Fields’ processes are also aligned with the ICMM’s Sustainable Development Framework, Principles, Position Statements and Reporting Requirements, with additional reference to the ICMM’s report on “Adapting to a changing climate: implications for the mining and metals industry”. (Search under www.icmm.com)
+At an operational level, Gold Fields contracts specialist advisors to complete detailed operation-specific climate risk vulnerability assessments every five years (since 2016). In addition, operations review site-level climate-related risks on a quarterly basis.
+Climate change-related risks are reflected on our Top 20 risks either directly, through seasonal floods and droughts, or, indirectly, through their impact on water pollution, supply and costs as well as regulatory changes. Water risks have been identified over the short, medium and long-term, particularly at our operations in South Africa, Peru and Australia, which the World Business Council for Sustainable Development (WBCSD) classifies as water stressed.
+Adapting our business to climate change risks. 
+The long-term risks posed by climate change to the Group’s operations, projects and surrounding communities, could impact our ability to operate our mines sustainably as they may increase both operational and capital costs. By impacting on surrounding communities they could also affect our social licence to operate.
+These risks warrant that mitigating actions to these risks are integrated in our business strategy.
+Therefore, our climate change programme objectives are to: ➜ Build operational resilience against climate-related risks ➜ Optimise use of the natural resources (energy and water) we use ➜ Reduce our contribution to climate change through carbon emission reduction. 
+We aim to achieve these objectives by: ➜ Continuously reviewing and refining our understanding of climate-related risks and opportunities ➜ Assessing climate-related risks through project delivery studies and operational risk assessments ➜ Integrating energy, water, and carbon emissions management plans into our business strategic planning ➜ Improving efficiencies in the use of natural resources (energy and water) ➜ Allocating capital in innovation and technologies to reduce our carbon footprint while managing regulatory risks.
+– Data integrated into the non-financial data portal – Independent external assurance of data – Included in our investor relations roadshows – CDP and CDP Water disclosure since 2007, 2013, respectively – DJSI submissions – Included in integrated annual reports – Energy, water and carbon emissions trends – Visible to the Board, SHSD, Risk, Audit committees – Align programme with ICMM (2016) – Group risk register item (since 2009) – Part of Group ERM (as far back as 2009) – Updated water management guidelines to ICMM level (2017) – Included climate change in water and tailings guidelines (2017) – Included in Project Study Standards (2017) – Piloted the ICMM climate data tool (2017) – Updated E&C Guideline to ISO 50001 (2016) – Integrated water management plans (2016) – Climate change adaption plans (2016) – Energy security plans (2015) – Integrated energy and carbon management strategy (2013) – Board-approved Group Climate Change Policy (2017) – To be the global leader in sustainable gold mining The diagram alongside summarises our embedded controls, policies, strategies and integration development.
+05 GOLD FIELDS TCFD REPORT 2018. 
+OUR APPROACH TO BUILDING CLIMATE CHANGE RESILIENCE k
+k k
+k. 
+Energy and water security working groups (monthly)
+MANAGE. 
+Board Capital Committee (quarterly)
+ALLOCATES RESOURCES. 
+ERM risk assessment (annual and quarterly)
+DEFINES THE RISK. 
+Executive team (quarterly)
+REVIEWS. 
+S
+H. 
+S
+D. 
+C o
+m m
+i t
+t e
+e. 
+R i
+s k. 
+C o
+m m
+i t
+t e
+e. 
+MAIN BOARD (Quarterly)
+
+
+06. 
+Physical risks in our portfolio. 
+HIGH/MEDIUM RISK. 
+AUSTRALIA ➜ Potential failure to deal with floods beyond 1 in 100-year levels ➜ Declining availability of water ➜ Increased cooling costs ➜ Surface temperature rises may affect our surface thermal equipment performance ➜ Heat stress on mine employees ➜ Legislative changes, including aggressive taxation regimes and carbon abatement requirements.
+PERU ➜ Water shortages in the rainy season – insufficient water in tailings dam for dry season ➜ Limited capacity to send concentrate to port due to severe weather events ➜ Mudslides and rockfalls affecting the transport of concentrate to port.
+GHANA ➜ Increased operational costs linked to maintenance of roads and more frequent replacement of tyres and increased dewatering ➜ Heat stress on mine employees ➜ Favourable conditions for vector-borne diseases ➜ Droughts affecting long-term availability of grid power.
+SOUTH AFRICA ➜ Variabilities in rainfall intensity increasing operational costs for alternate water sources ➜ Temperature increases could affect surface cooling plants ➜ Heat stress on surface mine employees ➜ Climate change-related regulatory uncertainty.
+Photographic impression of the future Agnew, Australia, solar, wind and gas plants Cerro Corona mine in the northern Andes, Peru. 
+The Far East Tailings Storage Facility (TSF) at our Damang mine in Ghana South Deep, South Africa employees work at depths of up to 3 000m. 
+GOLD FIELDS TCFD REPORT 2018. 
+OUR APPROACH TO BUILDING CLIMATE CHANGE RESILIENCE
+
+
+07. 
+RISK CONTEXT AND SELECT CASES. 
+ACUTE PHYSICAL EVENTS Our inability to minimise impacts on mining, processing or transporting our gold, thus compromising safety and increasing operational costs. 
+Acute physical climate change incidents have the potential to materially impact Gold Fields’ operations.
+Recent severe weather events at our operations included: Australia: In 2017, a cyclone caused damage to property at St Ives. At our Gruyere project, severe rainfalls during January and February 2018 led to a three-month project delay. We have reviewed the adequacy of our flood management measures, sought to understand the impact on our water reserves and are implementing energy saving initiatives to mitigate the rising cooling costs.
+Chile: The 2016 winter was severe with heavy snowfalls at the Salares Norte project, resulting in reduced project activities for longer than planned.
+Peru: In 2016, a mudslide along the ore concentrate transportation route resulted in portions of the route destroyed. Our trucks used alternate routes to the Salaverry Port, which were longer and steeper, forcing us to reduce loads. In the same year, heavy sea storms disrupted concentrate shipment for nearly three months. We have since spent nearly US$25,000 to obtain permits for our stockpile capacity expansion at the port.
+Peru: In early 2018, earth-plate movements in Cuzco State resulted in the gas pipeline supplying our independent power producer being shut down for 13 days. The result was higher monthly electricity costs as diesel-based reserve power plants had to be utilised.
+South Africa: The country experienced a severe drought in 2016, which affected South Deep’s on-mine water supply. The mine incurred costs to source fresh water from the local water utility.
+CHRONIC PHYSICAL EVENTS Our inability to minimise impacts on mining, processing or transporting our gold, thus compromising safety and increasing operational costs. 
+Chronic physical climate change incidents have the potential to materially impact Gold Fields’ operations. The availability of suitable water for our operations in particular is critical, as the majority of the countries in which we operate are water stressed. Chronic water risks range from to the impact on staff health and safety, to damages to equipment or infrastructure that could cause work stoppages. During 2018, we spent US$32m in water management initiatives.
+Recent chronic weather events at our operations included: Ghana: In August 2018, persistent rainfall at our Tarkwa mine flooded the pit for five days. Damages and costs incurred by the mining contractors included repairs to vehicles that were submerged, additional dewatering infrastructure and higher diesel costs.
+Peru: Projected water shortages during drier months require continuous reviews and upgrades to the water management infrastructure at our Cerro Corona mine.
+South Africa: Variability in rainfall intensity may require alternate water supplies at higher costs. In 2018, we invested in new water infrastructure. Furthermore, the gradual ambient temperature increases in South Africa will likely affect surface cooling plant efficiencies.
+Gold Fields has also aligned its water management practices with the ICMM tailings and water position statements in order to manage this risk.
+OPPORTUNITY. 
+RENEWABLE, LOWCARBON ENERGY Use of low carbon and renewable energy sources, and participation in regional carbon trading schemes. 
+The following opportunities have arisen as a result of our investment in gas and renewable energy projects in Australia: ➜ Since 2017, we have successfully converted abated carbon emissions at our Granny Smith mine after converting a diesel power plant to gas and auctioned these carbon credits off to the Australian government under the Emissions Reduction Fund (ERF). Over a seven-year period we received approximately A$120,000 a year in credits. Some credits were used to offset the safeguard mechanisms exceedances at the St Ives mine ➜ Switching off the diesel power plant at Granny Smith enabled us to remove exposure to oil price volatility ➜ Expected carbon emission reductions of approximately 50,000t CO2-e per year from the renewable energy power plants at Granny Smith (9,400t CO2-e) and Agnew (40,000t CO2-e) ➜ Wind based power is being implemented at Agnew and are being assessed at Gruyere and Granny Smith to leverage further renewable opportunities. 
+RISK CONTEXT AND SELECT CASES. 
+REGULATORY Potential for new laws to increase costs related to compliance or cause disruptions to the business. 
+Climate change related regulations have increased across our regions. All our host countries have published their Nationally Determined Commitments (p8), with implications for their industries.
+In Australia, we annually report our energy consumption and greenhouse gas emissions under the National Greenhouse and Energy Reporting (NGER) scheme. In 2016, a safeguard mechanism was introduced, with penalties for exceeding emissions baselines of 100,000t CO2-e. Since 2017, we have successfully converted our abated carbon emissions at our Granny Smith mine and auctioned these carbon credits off to the Australian government under the Emissions Reduction Fund (ERF). The resulting income of A$126,000 was used to offset the safeguard mechanisms exceedances at St Ives.
+Chile’s carbon tax scheme became effective in 2017 – at US$5/ton CO2-e – targeting large grid connected generation facilities. Our Salares Norte project in the Atacama Desert, which is currently awaiting environmental approval, is a remote operation, with no grid access and will not be affected.
+In Ghana, the Renewable Energy Act of 2011 aims for 10% renewable energy across the grid by 2030 (initial date was 2020). Our mines have started investigating how to achieve this.
+Peru’s Climate Change Framework Law was published in April 2018. The law, once enacted, aims to accelerate renewable and clean energy, promote industrial energy efficiency, introduce emissions control measures, control land use and promote sustainable transportation. We are still assessing the impact on our Cerro Corona mine.
+In South Africa, the Carbon Tax Act imposes levies on companies' Scope 1 CO2 emissions, became effective 1 June 2019. South Deep's exposure to the tax is minimal as its Scope 1 emissions were only 5,504t CO2-e in 2018, with 96% from diesel usage. A 10c/ℓ carbon tax levy was announced by the Finance Minister in the February 2019 budget speech. South Deep’s 2018 diesel usage was around 1,961 kℓ, resulting in a levy of approximately R197,000 (US$15,000). In addition, should the state-owned power utility (Eskom) be allowed to pass the cost of the tax from its diesel usage related emissions onto its customers, electricity tariffs may rise significantly.
+COMPLIANCE Potential that Gold Fields could violate a climate-related law or regulation. 
+In addition to current and potential regulatory risks, Gold Fields is subject to various other legal compliance risks. These may arise, for example, from fiduciary responsibilities outlined in governance standards such as King IV to listing requirements of our stock exchange listings in Johannesburg and New York. These may stipulate specific climate change and environmental responsibilities, such as expectations to align our risk disclosures with the CDP and TCFD.
+Gold Fields has processes and controls in place to ensure compliance with relevant laws, regulations and codes.
+MARKETS New market opportunities or demand risks for our current products. 
+Gold Fields primarily produces gold, which is rather immune to the impact of climate change. Gold Fields also produces copper – around 30,000 tons a year – as a secondary product at its Cerro Corona mine in Peru. The impact of climate change offers upside for the copper price as the metal is an excellent conductor of electricity and a key metal in renewable energy and electric vehicle technologies. According to a World Bank report, the 2°C warming scenario will drive up demand for copper and silver. Gold Fields estimates that a 1% rise in the copper price will increase the Group’s total revenue by approximately US$2m/year.
+Gold Fields manages commodity price market volatility risks by adopting hedging policies which lock in prices at favourable levels. Gold Fields takes short-term hedges on oil, foreign exchange, gold and copper prices to manage volatility in commodity prices.
+Recent climate-related developments, risks and opportunities. 
+The table below lists our most recent experiences of climate-related risks and opportunities, both from an operational and a regulatory perspective. The table also lists our remedial actions to these risks.
+Drought conditions in Western Australia Unseasonal heavy rainfalls at our WA mines Heavy winter snowfall at Salares Norte, Chile Heavy rains wash away the road to the Salaverry Port in Peru. 
+GOLD FIELDS TCFD REPORT 2018. 
+OUR APPROACH TO BUILDING CLIMATE CHANGE RESILIENCE
+
+
+08. 
+Climate scenarios used for planning Nationally determined commitments. 
+Gold Fields uses the NDC scenarios to ensure close alignment of our strategies with those of the relevant national programmes and policies to reduce global temperature increases.
+The parameters (and timeframes) used in this scenario analyses are geographically tailored to include the commitments of the various countries in which Gold Fields operates. These include the parameters of the respective national policies and energy mixes.
+The NDC analyses are also considered across all the business areas such as mining, processing and logistics. The outcomes of the scenario analyses have informed Gold Fields’ business plans and budget allocations. Gold Fields recognises that energy markets have been fundamentally redefined by the global drive to minimise contributions and build resilience to climate change. This affected the types of energy sourced by business, the cost of energy, how energy is procured and how energy is utilised.
+In assessing our mines’ exposures to climate-related risks, we are guided by our Climate Change Policy statements as well as external guidelines.
+These are: ➜ The ICMM’s Climate Change Position Statement. We have been a member of the ICMM for more than 10 years and are fully aligned to its position statement (See p3) ➜ The Nationally Determined Commitments (NDCs) from our host governments (see adjacent table) ➜ Our 2016 climate change vulnerability assessments, which was conducted using an ICMM sponsored tool, which in turn utilised the UN’s Intergovernmental Panel on Climate Change scenarios (RCP8.5)
+The lives-of-mines of our operations range from six to 70 years, hence exposure levels to climate-related risks and mitigation actions vary across our portfolio.
+Gold Fields runs three planning horizons: Operational plans (one year, short term), strategic (three to five years, medium term) and long-term plans (life-of-mine plans).
+These planning horizons involve capital allocation, informed by operational and strategic drivers, including impact of climatic changes, as well as security of supplies for energy and water.
+Along these planning horizons, action plans are developed for climate-related risks affecting production, environment and reputational aspects.
+In line with our commitment to engage stakeholders, as enshrined in our Climate Change Policy Statement, we seek to contribute to policy development through active participation in industrial associations and forums in the regions where we operate.
+The output of the various scenarios are used to assess impacts of climate-related risks in our project study deliverables, as well as into our operations and strategic risk registers.
+Representative Concentration Pathways (RCP8.5) scenario vulnerability assessment. 
+In 2016, using the ICMM sponsored climate data tool, we conducted vulnerability and site-specific risk assessments across our operations and developed mitigation plans in areas highlighted as high or medium risk. The tool is based on 15 global climate change models providing climate projections covering a 20-year period.
+It is centred around the year 2035, covering a period from 2025 to 2045, with a 1986 to 2005 baseline. The ICMM tool itself is based on the UN’s Intergovernmental Panel on Climate Change RCP8.5 scenario. The resulting climate change risks identified through the tool are assessed and managed by Gold Fields and reported to the Gold Fields Board.
+Homepage of the ICMM’s online MiCA toolkit. 
+HOST COUNTRY RELEVANT COMMITMENT AREAS OF IMPACT ON OUR BUSINESS. 
+Australia. 
+A target of reducing GHG emissions, 26% to 28% below 2005 levels by 2030. 
+Renewable energy – 23% of electricity from renewables by 2020. 
+National energy productivity target of 40% improvement between 2015 and 2030. 
+Safeguard mechanism, introduced 1 July 2016, sets baselines and limits emissions. 
+Chile 30% – 45% reduction of GHG emission intensity (CO2-e per GDP) by 2030 against 2007 levels. 
+Renewable energy – national penetration of 20% by 2025. 
+Energy efficiency – 20% reduction in energy consumption forecasts by 2025. 
+A carbon tax of US$5/t CO2-e from stationary grid-connected source equal or larger than 50MW (thermal), effective 1 January 2017, targeting the power and industrial sectors. 
+Ghana. 
+Reduce GHG emissions by 15% relative to a business-asusual scenario by 2030. 
+Renewable energy – national penetration of 10% by 2030. 
+Energy efficiency improvements – 20% across industrial facilities. 
+Integrated water management – equitable distribution and access for communities. 
+Peru. 
+Emissions reduction of 20% – 30% below a business-as- usual scenario in 2030. 
+Water – security of supply and efficient use 23% of mitigation goals to be met through energy, industrial, transport and waste sectors. 
+South Africa. 
+Emissions reductions of 34% against a business-as- usual scenario by 2020. 
+A carbon tax at R120/t CO2-e has been imposed on Scope 1 emissions. This would require the state-owned power utility and fuel producers to pass this tax burden on to users, exacerbating energy costs. 
+Climate-related legal and related risks. 
+Ghana. 
+Since 1997: • Legislation (5) • Policies (5) • Litigation (none yet)
+Australia. 
+Since 2008: • Legislation (9) • Policies (3) • Litigation (94, including failure to disclose climate risks, 17 are coal mining related)
+Chile. 
+Since 2000: • Legislation (7) • Policies (7) • Litigation (none yet)
+South Africa. 
+Since 2008: • Legislation (3 enacted, 2 pending) • Policies (2) • Litigation (3, failure to consider climate change in EIA approvals)
+Peru. 
+Since 2000: • Legislation (5) • Policies (8) • Litigation (none yet)
+We have noted an increase in climate-related legislations, policies and litigations. A snapshot across our host regions as at December 2018 is indicated below.
+Climate-related policies. 
+GOLD FIELDS TCFD REPORT 2018. 
+SCENARIO PLANNING
+
+
+The Integrated Energy and Carbon Management Strategy emphasis the need for energy efficiencies, both to achieve cost savings but also to reduce our emission. Between 2013 and 2018, Gold Fields realised cumulative energy savings of 1,685TJ, equivalent to US$92m in cost savings and avoiding 432,000 tonnes CO2-e in Scope 1 and 2 carbon emissions.
+During 2017, we updated our short-term (2020) energy and carbon management strategic objectives: ➜ Maintain security of supply ➜ Improve energy efficiencies and reduce energy costs ➜ Reduce our carbon footprint ➜ Integrate energy management business fully into the operational scope of our operations.
+We also set aspirational targets in 2016 to be achieved by 2020: ➜ To achieve cumulative Scope 1 and 2 carbon emissions reduction by 800,000t CO2-e, against the projected annual emissions ➜ To achieve 5% to 10% energy savings a year through investments in energy initiatives ➜ To achieve alignment with ISO 50001 energy management principles at all our operations.
+Since 2017, we started aligning our energy management practices to those of the ISO 50001 Global Energy Management Standard and aim for full adaption by 2020. We have done this by updating our Group Integrated Energy and Carbon Management Guideline to align with ISO 50001. Our Cerro Corona mine in Peru achieved its ISO 50001 certification in 2018, the first gold mine in Peru and, the first in the Gold Fields portfolio.
+The adjacent graph shows our Group energy consumption by source and the related carbon emissions by scope type below. We base our carbon footprint performance targets on Scope 1 and 2 emissions only.
+09. 
+Tracking our exposure and performance. 
+Gold Fields has been disclosing emissions, metrics, risks and opportunities for more than ten years through the Carbon Disclosure Project (CDP), which has consistently ranked us as one of South Africa’s top performers. We also benchmark our water usage by participating in the CDP’s Water Disclosure Programme (WDP). The CDP Water score is an indicator of a company’s commitment to transparency around its water risks, and the sufficiency of its responses to them. During 2018, Gold Fields maintained an A-score for its climate change CDP report and a B score for the CDP Water report.
+Energy and water security and improvement performance measures are also included in our Group scorecard, as well as those of our senior management teams, including the CEO’s. During 2019, a Group Energy Forum and regional energy steering committees were established to develop, set and oversee delivery of our key energy and climate change objectives.
+Through our climate change policy, we are committed to reporting and disclosing our greenhouse gas emissions footprint and performance, beyond the CDP and TCFD. We are a signatory to the Global Reporting Initiative (GRI) Standards since 2010. Our carbon emission reporting is based on the World Resource Institute (WRI) and the World Business for Sustainable Development (WBCSD) endorsed Greenhouse Gas Protocol guidelines.
+Each year our environmental data is assured by external auditors and our GRI reports is released alongside our Integrated Annual Report.
+ 2014 2015 2016 2017 2018 0.46 0.53 0.54 0.59 0.58 1.68 1.75 1.96 1.96 1.85 0.78 0.48 2.0 1.5 1.0 0.5 0.0 ■ Scope 3 ■ Scope 2 0.79 0.79 0.43 0.97 0.45 0.88 0.49 0.44. 
+Gold Fields Scope 1 – 3 CO2 emissions. 
+Million tonne CO2-e ■ Scope 1. 
+Gold Fields Scope 1 – 3 CO2 emissions. 
+Tracking and improving quantifiable performance: Energy utilisation and carbon emissions management. 
+Group energy consumption 2014 ■ Diesel ■ Electricity ■ Other fuels 2015 2016 2017 2018 15,000 12,500 10,000 5,000 2,500 0
+115 107 795 1,410 1,375 4,285 4,203 4,294 4,003 3,654 6,066 6,930 6,608 6,765 6,599. 
+Group energy consumption. 
+TJ. 
+Gas power plants at our Granny Smith (top) and Tarkwa mines. 
+GOLD FIELDS TCFD REPORT 2018. 
+HOW HAVE WE RESPONDED?
+
+
+10. 
+Low-carbon emission journey. 
+A key element of our integrated energy and carbon emission strategy is to shift the power source from high-carbon emission sources, such as diesel and coal, to low-carbon emissions, mainly gas, and increasingly renewable energy sources.
+The graphics above and alongside captures a summary of our low-carbon electrification strategic initiatives since 2015, indicating a strong shift towards low-carbon energy sources, for projects and operations.
+The shift to low carbon has been most notable at our Ghanaian and Australian operations where, in addition to the move towards gas as an energy source, we have also prioritised self-standing power supply through the use of independent power producers (IPPs) and by entering power-purchasing agreements with them.
+This has meant less reliance on the public grid in Ghana and external suppliers in Australia. In addition to cost benefits, this ensures that we have control over our own energy supply.
+We continue to invest in energy efficiency initiatives, fuel switching and renewable energy initiatives across all our operations.
+Building energy security through low-carbon technologies in Australia and Ghana 128kW solar rooftop systems commissioned at Helen Rd. 
+GSM solar power PFS 2018 2017 2016 2015. 
+Energy security assessments & 5-year regional plans developed. 
+Agnew power options FS. 
+Agnew hybrid power station FS 2019. 
+Cerro Corona ISO 50001 certified. 
+South Deep 40 MW solar PV: Regulatory changes. 
+GSM solar-battery construction Tarkwa 15 MW gas turbine installed. 
+Progressing evaluation at Salares Norte "20% renewable energy. 
+Agnew power station PFS. 
+South Deep 40 MW solar PV FS. 
+Genser gas turbines commissioned at Tarkwa (22MW) and Damang (25 MW)
+GSM diesel to gas power plant (24 MW) commissioned. 
+Gruyere gas power station (48MW), ˜200km gas pipeline. 
+Agnew microgrid power station constructed. 
+Reviewing renewables in Ghana. 
+GSM solar- battery FS complete, positive ➜ Savings of 200kt CO2-e/year from high impact supply projects ➜ 40MW solar under study, 4MW installed, 8MW under construction ➜ 6MW battery under study/construction ➜ 150MW gas installed, current projects ➜ 18MW wind under construction. 
+Key developments: ➜ In 2015, Agnew, Darlot and St Ives were on external grids, which were gas-based, with Granny Smith on 100% diesel (dedicated) ➜ In 2018, 100% gas on all sites, with only Granny Smith having dedicated supply as yet. (We divested from Darlot in 2018). In 2019, dedicated gas and renewable energybased plants were commissioned at Agnew ➜ A 200km gas pipeline was completed in 2019 to supply a dedicated gas power plant at our Gruyere project. 
+AUSTRALIA. 
+Dedicated electricity supply vs external grid supply ● Dedicated ● External grid 57% 74% 26% 43% 2015 2018. 
+Primary energy source for electricity (diesel versus gas) ● Gas ● Diesel 2015 2018 51% 100% 49%
+Key developments: ➜ In 2015, the Tarkwa and Damang mines depended 100% on the public grid, with no dedicated power generation. Our grid electricity was 50% gas and 50% hydro ➜ In 2018, the mines depended for 15% of their electricity on the grid, of which 23% was hydro and 77% gas. This followed a prolonged drought in Ghana ➜ The remaining 85% (mid-2019: 100%) was provided by two power plants, owned by an independent power producer (Genser Energy): a 40MW plant at Tarkwa and a 18MW plant at Damang ➜ Since June 2019, the natural gas supply to these plants comes via a dedicated 75km gas pipeline to replace trucked-in liquefied petroleum gas. 
+Energy projects: Status mid-2019 2015 2018. 
+Dedicated electricity supply vs external grid supply 15% 85% 100% ● Dedicated ● External grid. 
+Primary energy source for electricity (diesel versus gas) ● Gas ● Diesel 50% 97% 3% 50% 2015 2018. 
+Our Group journey towards low-carbon and renewable energy. 
+GHANA. 
+GOLD FIELDS TCFD REPORT 2018. 
+HOW HAVE WE RESPONDED?
+
+
+11. 
+Renewable energy at Gold Fields. 
+Three (South Africa, Australia and Peru) of our four regions are declared water stressed by the World Business Council for Sustainable Development.
+Therefore water management is of strategic importance to us, not only as water scarcity impacts our operations, but also communities living adjacent to our mines.
+Given the remote location of most of our operations and the climate change-driven water security impacts to our operations, we also closely monitor our water usage and spending and invest in water security and efficiency initiatives. As a benchmark, we have set a target to recycle or reuse at least 60% of the water we use in our processes. We are committed to the ICMM water position statement and achieved full alignment to it by the end of 2018. We spent US$32m on water management in 2018, of which 45% was on water infrastructure for both our operations and in our communities. 
+We have updated our Group Water Management Guideline by incorporating the commitments under the ICMM Water Position Statement. Predictive and dynamic water balances are in place at all operations, enabling us to account for the water inputs to and outputs.
+Our short-term 2020 water management strategic objectives are: ➜ Maintain security of supply ➜ Manage water at operations effectively ➜ Apply transparent corporate water governance ➜ Collaborate with stakeholders, particularly host communities, to achieve responsible and sustainable water use ➜ Achieve water security through a catchment approach.
+Water management 
+2014 2015 2016. 
+ICMM target of 60% 2017 20181 70 66 62 58 54 50 58 55 59 57 66. 
+Water recycled/reused as percentage of total %
+
+Water withdrawal per ounce of gold produced (Mℓ) 1.2 0.9 0.6 0.3 0
+0.91 1.07 0.89 0.96 0.64 2014 2015 2016 2017 20181. 
+Water withdrawal per tonne processed. 
+Kℓ
+Renewable energy is increasingly becoming a viable option for our operations, not only due to the positive impact on carbon emissions but also because the cost of renewables is rapidly decreasing. By mid-2019 renewable energy projects were being finalised at two of our Australian mines: ➜ At Agnew, a 10,000 panel solar plant, set to produce 4MW of power during the day, a 18MW wind farm and a 13MW/4MWh battery project are set to come online in stages from August 2019 until. 
+February 2020 onwards ➜ At Granny Smith a 8MW solar farm with 2MW battery storage facility was completed in March 2019 ➜ At the Gruyere JV, installation of solar powered pumps at the borefields replaced diesel generators ➜ At our Johannesburg head office, solar panels on the roof supply 50% of the daytime electricity load.
+Renewable energy is set to reach at least 10% of total energy usage for our Australian mines by 2020.
+Due to regulatory uncertainty around the use of private power purchase agreements, South Deep has delayed the signing of a 25-year power purchase agreement with an IPP for a 40MW solar photovoltaic facility at the mine. We are exploring ways to develop the facility in line with government’s recent Integrated Resource Plan, which for plants with a generation capacity above 10MW, requires both ministerial exemption and a power generation licence for IPPs.
+Gold Fields also remains committed to our target of using renewables for 20% of the energy requirements of new projects over their life-of-mine. Evaluations of the gradual introduction of renewable use at our Salares Norte project in Chile are promising and ongoing.
+10,000 solar panel farm at our Agnew mine in Australia. 
+Solar panels at our Johannesburg head office. 
+Satellite solar panels to supply power pumps at our Gruyere project in Australia 1 2018 changes in part due to new ICMM water definitions.
+GOLD FIELDS TCFD REPORT 2018. 
+HOW HAVE WE RESPONDED
+
+
+SOUTH AFRICA. 
+Diesel haulage consumption. 
+Total energy consumption (TJ) 1,689. 
+Grid electricity (Eskom power sources2) ● 4.2% ● 3.1% ● 82.1% ● 2.3% ● 1.6% ● 1.7% ● 5.0%
+Gas Coal Hydro Diesel Renewables Nuclear. 
+Scope 1-3 emissions (Mt CO2) 0.47. 
+Emission intensity (Scope 1-2 Mt CO2-e/oz) 2.81. 
+Water withdrawal (GL) 2.9. 
+Water recycled/reused (% of total) 51%
+Water consumption (kL/oz) 18.42 12. 
+Statistics per region – 2018. 
+The table below indicates the sources of electricity and energy for our operations as well as their climate change and water performances.
+Water withdrawal (GL) 21.2. 
+Water recycled/reused (% of total) 66%
+Water consumption (kL/oz) 10.26. 
+Scope 1-3 emissions (Mt CO2) 1.85. 
+Emission intensity (Scope 1-2 Mt CO2-e/oz) 0.66. 
+Emissions Water. 
+GROUP Energy. 
+Diesel haulage consumption. 
+Total energy consumption (TJ) 11,628. 
+Electricity ● 54.4% ● 26.4% ● 11.9% ● 3.7% ● 2.5% ● 0.3% ● 0.7%
+Gas Coal Hydro Diesel (EG1) Renewables Nuclear. 
+Water withdrawal (GL) 7.3. 
+Water recycled/reused (% of total) 68%
+Water consumption (kL/oz) 10.4. 
+Scope 1-3 emissions (Mt CO2) 0.72. 
+Emission intensity (Scope 1-2 Mt CO2-e/oz) 0.69. 
+GHANA. 
+Diesel haulage consumption. 
+Total energy consumption (TJ) 5,708. 
+Electricity ● 71.2% ● 23.8% ● 0% ● 4.1% ● 0.9% ● 0%
+Gas Coal Hydro Diesel (EG1) Renewables. 
+Scope 1-3 emissions (Mt CO2) 0.15. 
+Emission intensity (Scope 1-2 Mt CO2-e/oz) 0.28. 
+PERU. 
+Diesel haulage consumption. 
+Total energy consumption (TJ) 1,076. 
+Electricity ● 49.9% ● 35.2% ● 0% ● 14.9% ● 0% ● 0%
+Gas Coal Hydro Diesel (EG1) Renewables. 
+Water withdrawal (GL) 3.8. 
+Water recycled/reused (% of total) 84%
+Water consumption (kL/oz) 11.96. 
+Water withdrawal (GL) 7.2. 
+Water recycled/reused (% of total) 28%
+Water consumption (kL/oz) 8.12. 
+Scope 1-3 emissions (Mt CO2) 0.51. 
+Emission intensity (Scope 1-2 Mt CO2-e/oz) 0.4. 
+AUSTRALIA. 
+Diesel haulage consumption. 
+Total energy consumption (TJ) 3,155. 
+Electricity ● 52.5% ● 40.5% ● 0% ● 0% ● 6.9% ● 0%
+Gas Coal Hydro Diesel (EG1) Renewables 1 EG = Emergency Generators 2 Eskom IAR 2018. 
+GOLD FIELDS TCFD REPORT 2018. 
+OUR PERFORMANCE
+
+
+13. 
+Electricity purchased (MWh)
+Australia 296,989 277,521 287,480 282,330 247,204. 
+Ghana 420,878 415,215 433,814 434,886 436,564. 
+Peru 143,441 145,361 153,379 151,056 150,443. 
+South Africa 476,767 484,256 525,749 497,814 449,728. 
+Group 1,338,075 1,322,353 1,400,422 1,366,086 1,283,940. 
+Diesel consumption (kL)
+Australia 75,034 76,867 71,057 59,206 52,220. 
+Ghana 81,423 99,739 96,669 113,430 114,442. 
+Peru 9,939 13,455 12,713 12,486 14,927. 
+South Africa 2,419 2,457 3,060 3,019 1,961. 
+Group 168,815 192,518 183,498 188,140 183,520. 
+Total energy consumption (GJ)
+Australia 3,285,225 3,250,575 3,604,448 3,631,526 3,142,462,658. 
+Ghana 4,496,451 5,141,964 5,073,537 5,646,855 5,712,920,595. 
+Peru 876,812 1,012,363 1,014,336 997,030 1,082,421,404. 
+South Africa 1,807,258 1,835,467 2,005,575 1,902,705 1,690,253,177. 
+Group 10,465,746 11,240,369 11,697,895 12,178,116 11,628,058. 
+Energy intensity (GJ/oz produced)
+Australia 3.18 3.28 3.82 3.89 3.56. 
+Ghana 6.11 6.82 7.09 7.95 8.10. 
+Peru 2.69 3.42 3.75 3.25 3.45. 
+South Africa 9.01 9.27 6.91 6.77 10.76. 
+Group 4.56 5.02 5.27 5.46 5.64. 
+Total Energy Costs (US$m)
+Australia 130.43 96.43 83.90 80.78 78.18. 
+Ghana 175.14 163.16 153.19 120.29 164.43. 
+Peru 22.61 21.08 20.68 22.07 25.79. 
+South Africa 33.11 31.00 31.55 34.40 33.15. 
+Group 361.29 311.67 289.32 257.54 301.55. 
+Energy spend (% of opex)
+Australia 18% 18% 14% 15% 15%
+Ghana 32% 31% 32% 26% 37%
+Peru 14% 15% 14% 15% 16%
+South Africa 13% 13% 12% 11% 13%
+Group 21% 22% 20% 17% 21%
+Carbon emissions (tonnes) (Scope 1-3)
+Australia 537,662 536,782 565,544 563,409 508,359. 
+Ghana 516,679 561,273 702,718 737,914 726,838. 
+Peru 100,645 124,030 126,096 128,106 149,819. 
+South Africa 539,057 531,078 569,401 529,607 467,174. 
+Group 1,694,043 1,753,163 1,963,759 1,959,035 1,852,190. 
+Carbon emission intensity (tonnes CO2– e/oz)(Scope 1 and 2 only)
+Australia 0.37 0.39 0.43 0.42 0.40. 
+Ghana 0.43 0.48 0.69 0.71 0.69. 
+Peru 0.19 0.27 0.31 0.26 0.28. 
+South Africa 2.48 2.50 1.92 1.78 2.81. 
+Group 0.55 0.59 0.69 0.66 0.66. 
+Regional and Group energy and carbon performance 2014 2015 2016 2017 2018. 
+GOLD FIELDS TCFD REPORT 2018. 
+OUR PERFORMANCE
+
+
+Administration and corporate information. 
+ACTING COMPANY SECRETARY Taryn Harmse Tel: +27 11 562 9724 Fax: +27 11 562 9829 e-mail: taryn.harmse@goldfields.com. 
+REGISTERED OFFICE Johannesburg Gold Fields Limited 150 Helen Road Sandown Sandton 2196. 
+Postnet Suite 252 Private Bag X30500 Houghton 2041 Tel: +27 11 562 9700 Fax: +27 11 562 9829. 
+OFFICE OF THE UNITED KINGDOM SECRETARIES London St James’s Corporate Services Limited Suite 31, Second Floor 107 Cheapside London EC2V 6DN United Kingdom Tel: +44 20 7796 8644 Fax: +44 20 7796 8645 e-mail: general@corpserv.co.uk. 
+AMERICAN DEPOSITORY RECEIPTS TRANSFER AGENT Shareholder correspondence should be mailed to: BNY Mellon Shareowner Services PO Box 30170 College Station, TX 77842-3170. 
+Overnight correspondence should be sent to: BNY Mellon Shareowner Services 211 Quality Circle, Suite 210 College Station, TX 77845 e-mail: shrrelations@cpushareownerservices.com. 
+Phone numbers Tel: 888 269 2377 Domestic Tel: 201 680 6825 Foreign. 
+SPONSOR J.P. Morgan Equities South Africa Proprietary Limited. 
+Website. 
+WWW.GOLDFIELDS.COM. 
+Listings JSE / NYSE / GFI SIX: GOLI. 
+CA Carolus° (Chair) RP Menell° (Deputy Chair) NJ Holland*• (Chief Executive Officer) PA Schmidt• (Chief Financial Officer) A Andani#° PJ Bacchus° TP Goodlace° C Lettonˆ° P Mahanyele-Dabengwa* SP Reidˆ° YGH Suleman° ˆ Australian * British # Ghanaian ° Independent Director • Non-independent Director. 
+Gold Fields Limited Incorporated in the Republic of South Africa Registration number 1968/004880/06 Share code: GFI Issuer code: GOGOF ISIN – ZAE 000018123. 
+INVESTOR ENQUIRIES Avishkar Nagaser Tel: +27 11 562 9775 Mobile: +27 82 312 8692 e-mail: avishkar.nagaser@goldfields.com. 
+Thomas Mengel Tel: +27 11 562 9849 Mobile: +27 72 493 5170 e-mail: thomas.mengel@goldfields.com. 
+MEDIA ENQUIRIES Sven Lunsche Tel: +27 11 562 9763 Mobile: +27 83 260 9279 e-mail: sven.lunsche@goldfields.com. 
+TRANSFER SECRETARIES South Africa Computershare Investor Services Proprietary Limited Rosebank Towers 15 Biermann Avenue Rosebank Johannesburg 2196 PO Box 61051 Marshalltown 2107 Tel: +27 11 370 5000 Fax: +27 11 688 5248. 
+United Kingdom Link Asset Services The Registry 34 Beckenham Road Beckenham Kent BR3 4TU England Tel: 0871 664 0300 Calls cost 12p per minute plus your phone company’s access charge. If you are outside the United Kingdom, please call +44 371 664 0300. Calls outside the United Kingdom will be charged at the applicable international rate. The helpline is open between 9:00am – 5:30pm. Monday to Friday excluding public holidays in England and Wales. e-mail: enquires@linkgroup.co.uk. 
+GOLD FIELDS TCFD REPORT 2018

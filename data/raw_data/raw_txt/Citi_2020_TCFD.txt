@@ -1,0 +1,849 @@
+Finance for a Climate-Resilient Future II. 
+Citi’s 2020 TCFD Report
+
+
+About This Report. 
+This report presents information on Citi’s efforts towards implementing the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD).
+This report reflects a summary of our progress made to date towards our goal of fully incorporating climate risk and opportunity identification and management into our overall business strategy and disclosure efforts. The climate scenario analysis informing such a process is a rapidly evolving area for many companies, including Citi, and we expect the methodology and tools for conducting such analysis to continue improving over time. This report represents an important step upon which we will continue to build to deepen our understanding of climate risks and opportunities moving forward.
+Contents. 
+Letter from the CEO. 
+Part 1: Introduction. 
+Part 2: Governance. 
+Part 3: Strategy. 
+Part 4: Risk Management. 
+Part 5: Metrics & Targets. 
+Part 6: Looking Forward. 
+Part 7: Annex 3
+4 10 17 39 47 57 59
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 3. 
+The past year has been defined by a global pandemic that has wreaked extraordinary havoc on our lives and caused a degree of human suffering we haven’t seen in generations. But I believe that the lessons we have learned and the tools we have built in responding to COVID-19 have also equipped us to better address another singular market disruptor — climate change.
+Climate change is the challenge of our age. Charting a sustainable path forward requires a global commitment characterized by strategic partnerships among public and private entities, communities, and individuals. We understand that climate change is an increasingly important issue to our regulators, investors, and clients, and the Task Force on Climate-related Financial Disclosures (TCFD) recommendations provide an important framework for both recognizing, evaluating, and disclosing the associated risks and opportunities.
+This report — our second detailing our implementation of the TCFD recommendations — demonstrates our progress in integrating climate risk awareness into our business activities and strategy, and how this work has continued to take increasing priority at the highest levels across our firm. It also describes cutting-edge pilot projects to improve the availability of the methodologies, tools, and quality data needed to assess and achieve low-carbon targets and environmental finance goals.
+Citi has been at the forefront of the financial industry’s efforts to identify climate risks and provide the financing needed to advance towards a low-carbon economy. In 2018, Citi became the first U.S. bank to publicly report on our efforts to implement the TCFD recommendations. We have been outspoken in our support for the U.S. to remain in the Paris Climate Agreement, and were the first bank to sign the “We Are Still In” Declaration. In recent weeks, we joined the Center for Climate and Energy Solutions and other leading companies in urging the President-elect and Congress to work together to effectively tackle climate change and enact ambitious climate solutions.
+Building on these initiatives, we have made the risks and opportunities associated with climate change central to Citi’s ongoing sustainability efforts. In fact, climate risk is a central pillar of our 2025 Sustainable Progress Strategy, announced earlier this year. As part of this strategy, we are working to further integrate climate risk into our risk policies and governance frameworks, analyze and measure the impacts of our portfolios, and engage clients in their own climate risk management and low-carbon transition strategies. We also announced a new five-year $250 billion commitment to finance and facilitate climate solutions.
+We know much remains to be done — and quickly. So we are as committed as ever to bringing to bear our resources and capacity for innovation to even more effectively and creatively tackle this urgent challenge. As I write this letter, I know that Citi will continue to use the lessons we have learned and the relationships we have built to play a leading role in the energy evolution and our global community’s journey towards a more sustainable future. We can afford nothing less.
+Mike Corbat, Chief Executive Officer. 
+Letter from the CEO
+
+
+4 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Introductory Statements. 
+Citi remains committed to addressing the climate crisis by supporting the transition to a sustainable, lowcarbon economy that balances society’s environmental, social, and economic needs. To comprehensively address the physical, social, and economic issues created by climate change, we support the development and implementation of strong governmental policy and regulatory frameworks in line with the Paris Agreement’s goals, enhanced corporate leadership, financial investment in emerging technologies and mitigation and adaptation solutions, and robust stakeholder engagement and individual actions. Moreover, we fully expect that the 2021 UN Climate Change Conference (“COP 26”) to be held in November in Glasgow, Scotland will continue to move the bar in terms of global commitments on climate change, and Citi expects to advance as well.
+Citi’s corporate credit portfolios are exposed to climate risks given our role as one of the world’s largest financiers, including to carbon-intensive industries like oil and gas and power that form an important part of the global economy. The underlying resilience of key sectors to which we lend has been tested in 2020, both financially and operationally as a result of the COVID-19 pandemic. Despite these challenges, Citi’s management team was able to adapt to the evolving landscape and mitigate risk. The Board of Directors and Risk Management Committee met with increased frequency to ensure members were fully briefed and prepared to take decisions on evolving risks as we navigated through these unprecedented times.
+Citi considers our ongoing response to the COVID-19 pandemic to be an indication of our ability to manage unique, acute market shocks from various sources, including those that may be experienced in the event of a disorderly economic transition to a low-carbon economy. This ongoing experience has helped to highlight our strengths and the resilience of our employees and has also given us a sense for how these shocks affect our businesses and our clients. Citi remains committed to building upon lessons learned from the COVID-19 pandemic to enhance our portfolios’ resiliency to climate-related market disruptions that can similarly cause global economic stress.
+Citi is committed to being one of the institutions in the industry that is best prepared for future economic disruptions. We have established a leadership position through participation in pilot projects to improve the availability of the methodologies, tools, and quality data needed to assess and progress towards low-carbon. 
+Introduction. 
+PART 1 “If there’s one lesson to be learned from the COVID-19 pandemic, it is that our economic and physical health and resilience, our environment, and our social stability are inextricably linked… we want to be a leading bank in driving the transition to a low-carbon economy, which we anticipate will accelerate as businesses of all kinds shift to a more sustainable future.” — Michael Corbat, CEO of Citi
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 5 targets and environmental finance goals. Limiting warming to 1.5°C to well under 2°C this century will require rapid and far-reaching transitions in energy systems, industrial processes, land-use, buildings, transportation, and other infrastructure to cut emissions by 50% by 2030 and reach net-zero emissions by 2050.
+Achieving these goals will not be easy, particularly when many sectors will depend on significant evolutions in technology — much of which has not been invented or deployed beyond the research and development stage — to effectively transition. The scale of the challenge has not stopped Citi from continuing to develop its understanding and capacity to play a greater role in actively supporting the transitions necessary to build a sustainable future and align with the goals of the Paris Agreement. We intend to continue refining our approach to climate risk, which includes developing appropriate climate risk metrics that allow us to measure, monitor, and manage climate risks, seeking out opportunities to further our industry’s collective understanding of climate issues and data, and identifying opportunities to facilitate the transition to a lowcarbon economy.
+This report discusses Citi’s efforts to date towards reaching these goals and our ambitions for continued progress in the years to come.
+The Task Force on Climate-Related Financial Disclosures. 
+In 2015, the Financial Stability Board established the Task Force on Climate-related Financial Disclosures (TCFD) as a means of creating a framework for consistent climate-related financial risk disclosures that were increasingly requested by investors, banks, companies, and other stakeholders. Citi views the TCFD framework as a critical tool for assessing and disclosing our climate risks and opportunities across the company.
+Following the issuance of the TCFD’s recommendations in 2017, Citi issued our first TCFD report in 2018. Citi’s inaugural TCFD report was met with a positive reception, including: • Receipt of the 2019 International Climate Reporting Award for innovation and best practices, together with five other global financial institutions; • Selection by the TCFD for inclusion in its 2019 Status Report as an example for assessment of climate-related scenarios and resiliency disclosure; and • A supportive reference by Mark Carney, then Governor of the Bank of England, for our scenario analysis during COP 25.
+Citi acknowledges the significant developments in the climate risk management space that have occurred since 2018, and we seek to maintain our leadership position in the financial industry through advancing our climate goals. Building upon these initial successes, Citi continues to lay the foundation needed to further integrate climate risks and opportunities into Citi’s corporate governance, business strategy, risk management, and portfolio and operational resiliency improvement process, and to acquire data and develop the tools necessary for more comprehensive climate risk assessment and scenario analysis.
+Although continued progress will be needed, Citi is proud of the actions it has undertaken and the significant milestones it has achieved to date. Citi has also adopted or publicly endorsed a number of
+
+
+6 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT climate-related external principles and standards. The full list of our external commitments can be found in our Environmental and Social Policy Framework.
+Citi’s TCFD Implementation Progress. 
+These are our overarching goals for implementing the TCFD Recommendations: • Full integration of climate-related strategy and risk management into Citi’s overall business strategy • Continued use of climate risk assessment methodologies, broader understanding of climate risk exposure across all portfolios, and enhanced transparency and disclosure of those risks • Quantification of climate risks and use of this data in Citi’s standard risk management process and existing business units. 
+Existing Achievements Current Priorities Future Goals. 
+Governance • Established Climate Risk. 
+Advisory Council, Climate Risk Working Group, and Global Sustainability Steering Committee • Climate concerns considered by Citi Board of Directors, and oversight provided by Nomination, Governance, and Public Affairs Committee • New Chief Sustainability Officer and Global Head of Crisis Management and Climate Risk roles created • Enhance cross-functional collaboration on climate issues and greater climate risk training across departments • Continue to establish country- level governance based on proportionality and local regulatory needs • Expand governance and oversight capacity in line with increasing climate regulatory requirements. 
+Strategy • Established climate risk as a key pillar of Citi’s 2025 Sustainable Progress Strategy • Analyzed Citi’s operational vulnerabilities to physical climate risk and certain portfolios’ resiliency to transition climate risks • Assessed and tested different methodologies to evaluate certain portfolios’ carbon footprint and scenario analysis for carbon-intensive sectors • Created new business units in our Banking and Markets businesses to further integrate climate opportunities into banking advisory, client solutions, and market making • Evaluate climate scenarios recommended by the Network for Greening the Financial System (NGFS) for possible integration into risk management processes and to meet potential regulatory requirements • Develop climate scenario analysis approach for high climate risk sectors • Expand engagement with clients and third parties to gather climate-related due diligence information and improve climate data access and accuracy • Utilize an enhanced suite of climate scenarios against which we periodically test relevant credit portfolios and integrate such test results into our ongoing climate strategy • Continue to evolve our strategy through a combination of strengthening climate risk assessment requirements, considering climate risk in client selection, pursuing client transition finance opportunities, and evaluating sector exposures to reduce portfolio emissions over time • Adjust our strategy based on lessons learned from past performance continued on next page
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 7 continued from previous page. 
+Existing Achievements Current Priorities Future Goals. 
+Risk Management • Strengthened Environmental and Social Risk Management (ESRM) Policy sector standards for thermal coal mining,1 coal-fired power, and Arctic oil and gas • Embedded climate risk into. 
+Citi’s Material Risk Inventory, Emerging Risks Framework, and Risk Governance Framework • Develop sector-specific climate risk guidance, focusing on highest risk sectors • Start to integrate climate risk into credit assessment processes • Continue analyzing the alignment of relevant, high climate risk sectors of our loan portfolio with the Paris Agreement through frameworks such as PACTA and PCAF • Further define assessment tools and methodologies and integrate into credit assessment processes • Develop key climate risk metrics and implement across various levels of the organization • Further develop climate risk escalation and approval processes • Improve distribution and integration of climate risk management tools across Citi’s departments • Continue evaluating and adjusting climate risk management process and tools in accordance with Citi’s climate risk strategy. 
+Metrics & Targets • Established five-year $250B. 
+Environmental Finance Goal for climate and environmental solutions • Identify and report on performance against key metrics and targets of our $250B Environmental Finance Goal • Implement tiered reduction in credit exposure to thermal coal mining companies with a 50% reduction by 2025 and 100% reduction by 2030 • Start measuring and disclosing climate risk metrics in pilot sectors to establish baseline for evaluating portfolio decarbonization pathways towards Paris Agreementalignment • Report on decarbonization and progress towards Paris Agreement-alignment 1 Defined in Citi’s ESRM Policy as any mining company deriving ≥25% of their revenue from thermal coal mining.
+
+
+8 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Timeline of Climate Action 1997 Joined the UN Environment Programme Finance Initiative (UNEP FI) 2003 Co-created the Equator Principles and established Citi’s broader Environmental and Social Risk Management Policy 2010 Joined UN Global Compact 2015 Launched first Sustainable Progress Strategy and $100B Environmental Finance Goal. 
+Signed the Natural Capital Declaration 2017 Announced goal to source 100% renewable electricity for our facilities by 2020. 
+Joined the RE100 commitment to 100% renewable electricity 2019 Issued inaugural €1B green bond. 
+Signed the CEO Climate Dialogue/ Guiding Principles for Federal Action on Climate. 
+First U.S. signatory of the Principles for Responsible Banking. 
+Co-developed the Poseidon Principles. 
+Joined the UN Global Investors for Sustainable Development Alliance. 
+Citibanamex joined Phase 2 of the UNEP FI Pilot Project on Implementing the TCFD Recommendations for Banks. 
+Joined 2o Investing Initiative’s Paris Agreement Capital Transition Assessment (PACTA) Pilot Program 2000. 
+Published our first Global Citizenship Report 2007. 
+Issued our first Climate Change. 
+Statement, supporting a globally connected market-based climate policy. 
+First U.S. bank to set a GHG reduction target. 
+Launched 10-year $50B Climate Initiative 2014. 
+Co-created The Green Bond. 
+Principles 2016. 
+Commenced 2020 environmental footprint goals (3rd generation) 2018. 
+Published first climate risk disclosure TCFD report - “Finance for a Climate-Resilient Future”
+Signed “We Are Still In” Declaration in support of the Paris Agreement 2020. 
+Launched the 2025 Sustainable. 
+Progress Strategy. 
+Joined the European Clean. 
+Hydrogen Alliance. 
+Launched $150M Impact Investing Fund. 
+Issued $1.5B green bond. 
+Joined Partnership for. 
+Carbon Accounting Financials (PCAF)
+Finance for a Climate-Resilient Future Citi’s TCFD Report
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 9. 
+A Brief Note on Materiality. 
+At Citi, we recognize that assessing materiality requires thoughtful consideration not only of the applicable materiality standard or standards, but also of our purpose in assessing materiality and in communicating to our stakeholders. Our public disclosures, including our voluntary sustainability and climate-related disclosures, focus on a range of topics that we believe are relevant to our businesses and that are of interest to investors and other stakeholders. However, in our voluntary environmental, social, and governance (ESG) and climate-related disclosures, we have adapted our approach to materiality based on the subject matter and purpose. For that reason, while we follow the definition of materiality established under U.S. federal securities laws for the purposes of complying with SEC and stock exchange listing and U.S. disclosures rules, our approach to disclosures outside of the context of our legally required reporting often takes into consideration other factors, including materiality standards of certain external frameworks and reporting guidelines that are relevant to climate and sustainability disclosures, the views of our key stakeholders, and our desire to be a leader in our industry. To accommodate our multi-lensed approach to materiality, Citi occasionally adopts new frameworks and standards when we believe that doing so will allow us to better address sustainability matters.
+For the purposes of discussing climate risks and opportunities in this report, we use an approach to materiality that is consistent with the TCFD recommendations. While we generally assess ESG matters in a manner consistent with our approach to assessing materiality for the purpose of our required disclosures, in creating our voluntary disclosures, we often include information that investors and clients are interested in receiving, but that is in addition to the information provided in our required disclosures. In creating this TCFD report, we also incorporated a climate change “double materiality” perspective, looking at both climate’s impact on our business, and our business’s impact on climate, and used longer time frames to assess potential impacts than those time frames customarily used in our required disclosures. This layered approach means that this report and many of our other voluntary disclosures capture details on sustainability issues, including climate-related risks and opportunities that may not be, and are not required to be, incorporated in our required disclosures. In this TCFD report, we are approaching disclosure through the double materiality lens and are providing more detailed information on our governance and risk management structures.
+
+
+10 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Citi has continued to expand its governance of climate risk and integrate climate considerations into the priorities of our Board of Directors and senior management. Since Citi’s 2018 TCFD report, we have: • Appointed a new Chief Sustainability Officer; • Appointed a Head of Crisis Management and Climate Risk to deliver a firm-wide strategy concerning climate risk; • Formed a global, cross-functional senior-executive level Climate Risk Advisory Council to provide oversight of and guidance to our climate risk integration efforts, including to the Climate Risk Working Group on its climate risk activities; • Formed a global, cross-functional Climate Risk Working Group, which is focused on day-to-day climate risk integration efforts; and • Increased the frequency and depth of Board and senior-level conversations regarding climate matters.
+The following climate change governance diagrams illustrate how our governance of this issue has evolved since our first TCFD report was published in 2018.
+Governance. 
+PART 2
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 11. 
+Climate Change Governance 2018. 
+Board of Directors. 
+Nomination, Governance, and Public Affairs Committee. 
+Council. 
+Environmental and Social Advisory Council. 
+Executive Management Team. 
+Management and Specialized Functions. 
+Head of Global Public Affairs. 
+Sustainability Independent Risk Management. 
+CEO. 
+ESRM Team. 
+Head of Environmental and Social Risk Management (ESRM)
+Corporate Sustanability Team. 
+Head of Sustainability
+
+
+12 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Climate Change Governance 2020. 
+Executive Management Team. 
+Management and Specialized Functions. 
+Committee, Council & Working Group. 
+Head of Global Public Affairs. 
+CEO of Institutional Clients Group Chief Risk Officer. 
+Sustainability & ESG Independent Risk Management Institutional Clients Group. 
+Chief Sustainability Officer. 
+Board of Directors. 
+Nomination, Governance, and Public Affairs Committee Risk Management Committee. 
+Head of Crisis Risk Management and Climate Risk. 
+Climate Risk Team. 
+Corporate Banking Team. 
+ESRM Team. 
+Head of Environmental and Social Risk Management (ESRM)
+Global Sustainability Steering Committee (formerly the Environmental and Social Advisory Council)
+Sustainability & ESG Team (formerly the Corporate Sustainability Team)
+Climate Risk Advisory Council. 
+Climate Risk Working Group. 
+CEO. 
+Sustainability and Corporate Transitions Team (Banking) and ESG Team (Markets)
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 13. 
+Board Oversight. 
+Citi’s Board of Directors has ultimate oversight of Citi’s approaches to considering, evaluating, and integrating climate-related risks and opportunities throughout the organization. The Board receives reports from key personnel on Citi’s progress and key issues on a periodic basis. Two Board committees play an integral role in executing the Board’s oversight of sustainability generally and the bank’s climate change efforts specifically — the Nomination, Governance, and Public Affairs Committee (NGPAC) of the Board and the Risk Management Committee (RMC) of the Board.
+At Citi, the NGPAC has direct oversight of sustainability activities and performance, including those related to climate change, and the NGPAC receives periodic updates from Citi’s Chief Sustainability Officer, as discussed in greater detail below. The NGPAC also reviews Citi’s governance and significant policies and programs for sustainability and climate change issues, and advises management on our engagement with investors and major external stakeholders on sustainability and climate change matters. For more information on the roles and responsibilities of the NGPAC, please see our NGPAC Charter.
+The RMC provides oversight of Citi’s risk management function and reviews Citi’s risk policies and frameworks. In 2019 and 2020, the Head of Crisis Management and Climate Risk and the Head of Environmental and Social Risk Management (ESRM) provided the RMC with updates on emerging bank regulator trends on climate risk and the bank’s approach to meeting them. For more information on the roles and responsibilities of this Committee, please see our RMC Charter.
+Senior Management Responsibility. 
+Management of climate-related risks and opportunities is a shared responsibility across Citi. Senior managers from Public Affairs, Risk, Finance, Legal, Operations & Technology, and various business units from our Institutional Clients Group (ICG) contribute expertise to address the challenges presented by climate change.
+Corporate. 
+In 2019, Citi created the new role of Chief Sustainability Officer (CSO). The CSO reports to the Head of Global Public Affairs, who in turn reports directly to our Chief Executive Officer. The CSO plays an integral role in developing Citi’s climate strategy, elevating sustainability and climate-related matters, and ensuring coordination and alignment of Citi’s environmental and social activities across the firm.
+The creation of this role is a reflection of the importance of sustainability and climate change in Citi’s business activities, internal operations, and stakeholder engagement. The CSO provides progress reports to the NGPAC at least annually on the bank’s key sustainability and climate change issues, trends, and results. In 2019, the CSO’s reports to the NGPAC included progress on our sustainability strategy, TCFD implementation, investor and regulatory engagement related to climate risk, stakeholder interest in climate risk, and dynamics shaping the banking sector related to climate change. The CSO also reported to the full Board on Citi’s sustainability progress to date, sustainability and climate-related trends, and Citi’s 2025 Sustainable Progress Strategy.
+
+
+14 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+The Sustainability & ESG team (formerly referred to as the Corporate Sustainability team), led by the CSO, is responsible for developing Citi’s sustainability strategy and key initiatives in collaboration with partners across the bank, and for coordinating and monitoring their implementation.
+The CSO co-chairs Citi’s Global Sustainability Steering Committee along with Citi’s Head of Global Capital Management, a senior executive in ICG. The Committee provides input and guidance on policies and initiatives, and helps drive sustainability through the businesses. For example, topics reviewed by the Committee include the 2025 Sustainable Progress Strategy, which many members of the Committee are helping to implement through their businesses, and presentations on climate risk and carbon pricing scenario analysis, which members can take into account when developing client engagement strategies. The Committee also includes other executives from Banking, Risk, Public Affairs, Operations, and ESRM. The Committee meets at least quarterly.
+Risk Management. 
+In early 2020, Citi appointed a Head of Crisis Management and Climate Risk (“Head of Climate Risk”), who reports to the Chief Risk Officer and is a member of Citi’s Risk Management Executive Council, the most senior risk officers in the company who comprise the leadership of Citi’s Independent Risk Management function. This role is charged with oversight of Citi’s approach to meeting growing regulatory expectations on climate risk management and integrating climate risk within Citi’s risk management frameworks, policies, and process.
+The Head of Climate Risk chairs Citi’s Climate Risk Advisory Council, which is a group of senior Citi leaders from across the firm that provide guidance, feedback, and support regarding climate risk management and integration. The Climate Risk Advisory Council facilitates engagement with senior global leadership, ensuring senior commitment, and provides assistance to help coordinate resources across the bank. This Council currently meets on a quarterly basis.
+Citi’s Head of Climate Risk also convenes the Climate Risk Working Group, a global, cross-functional group that pulls expertise from ESRM, Credit Risk, Quantitative Risk and Stress Testing, Operational Risk, Banking, Markets, Legal, Compliance, Government Affairs, and Sustainability & ESG. The Climate Risk Working Group, which meets monthly, supports the development, implementation, and integration of our global climate risk strategy. Members of the working group lead and participate in work streams focused on risk management, climate stress testing, regulatory monitoring and assessment, tagging and taxonomy, and disclosures.
+Citi’s Head of ESRM sits within Citi’s Independent Risk Management function and leads the ESRM team, as well as a global network of credit officers designated as ESRM Champions to support the team. The ESRM team is responsible for developing and implementing Citi’s ESRM Policy, first created in 2003, which established the framework for how Citi identifies potential environmental and social risks (including climate risks) associated with clients’ activities that could lead to credit or reputation risks to the bank, and assesses appropriate mitigation and management of those risks. The ESRM team provides internal expertise and strategic advice to the Head of Climate Risk as a key engine of the Climate Risk Working Group on the integration of climate risks across Citi’s risk policies.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 15. 
+Business Units. 
+On the climate opportunities side, our ICG businesses work with clients to provide advice, transition financing, and other solutions to help clients plan for and invest for a net-zero carbon future. Many frontline businesses within ICG have dedicated teams and team members focused on sustainable finance, including green and sustainability bonds, sustainability-linked loans, renewable energy finance, and sustainable business advisory and investment services that help address climate change. In 2020, Citi also established a dedicated Sustainability and Corporate Transitions team in our Banking and Capital Markets Advisory business (“Banking”), and we created an ESG team in our Markets and Securities Services (“Markets”) business. These teams lead on transactions that contribute to our environmental finance goals, and receive training on ESG topics, such as climate and environmental risks, so that they can engage with clients to provide sustainable finance products that support their low-carbon transition. These activities help to reduce Citi-underwritten emissions, develop transition solutions, and create deep liquid sustainable markets to facilitate the transition to a low-carbon economy while also reducing Citi’s exposure to transition and physical risks from climate change.
+Operations & Technology. 
+Citi also has a dedicated sustainability team within Citi Realty Services that is responsible for reducing Citi’s operational impacts on the climate and the vulnerability of our facilities to physical climate risks. This team develops and executes on Citi’s environmental footprint goals, which include targets to source 100% renewable electricity, reduce our energy use, and reduce our greenhouse gas (GHG) emissions. The team also invests in resilience measures for our facilities to mitigate operational risks and potential damages from climate hazards.
+Entity-Level Governance. 
+Citi continues to expand its global governance structure to provide oversight and management of climate-related risks and opportunities. This has helped us develop a consistent global approach to climate risk management. However, this is still a nascent, evolving field, and local requirements and expectations have started to emerge. Given our operations in nearly 100 countries, climate risk governance is also being developed in Citi entities that operate in jurisdictions with local requirements. Below are examples from a couple of Citi’s largest subsidiaries.
+Citi Global Markets Limited (CGML)
+CGML is Citi’s international broker-dealer domiciled and regulated in the U.K., which is one of the first jurisdictions to provide comprehensive and holistic regulatory expectations on managing financial risks from climate change, covering risk governance frameworks, tools, and practices. These expectations are in the process of being formally embedded into CGML’s board governance and risk management frameworks, policies, and processes by the end of 2021, as mandated by the Prudential Regulation Authority at the Bank of England.
+
+
+16 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Climate risk is already on the regular agenda of the CGML Board and CGML Board Risk Committee. To ensure appropriate governance around financial risks from climate change, the CGML Board will continue to have oversight of the integration of climate risk within CGML and receive frequent progress updates from management. In 2019, Citi allocated Climate Risk Senior Management Function responsibilities in the U.K. to the Europe, Middle East, and Africa (EMEA) region Chief Risk Officer (CRO). The EMEA CRO sits on Citi’s global Risk Management Executive Council and oversees a multidisciplined regional risk organization and thus is well positioned to drive the climate risk agenda. He has appointed a senior management delegate for climate risk who is a member of Citi’s global Climate Risk Working Group.
+To raise internal awareness and engagement on climate risk, Citi has provided trainings and presentations to the U.K.-entity boards, risk managers, and other internal staff. Recently, a ‘Financial Risks from Climate Change’ tutorial was held for Citi’s U.K.-entity Boards, including that of CGML.
+Citibanamex. 
+Citibanamex is Citi’s local subsidiary in Mexico. In 2020, following the recommendation of the Bank of Mexico, Citibanamex’s Head of Sustainability began providing quarterly updates on climate risk to the Board Risk Committees of both Citibanamex and its Brokerage business. At the senior management level, Citibanamex’s CRO is responsible for climate risk, including the implementation of Citi’s global ESRM Policy in Mexico, with the support of the Citibanamex Sustainability team. The CRO is also a member of Citi’s global Climate Risk Working Group, supporting the integration of climate risk considerations within Citi and its entities.
+The Citibanamex Sustainability team is responsible for developing and implementing ESRM and climate change work plans at the local level in alignment with the TCFD and recommendations from the Bank of Mexico. This includes coordinating climate risk analyses across Citibanamex and providing training and guidance to relevant bankers on environmental and social risks, including on climate risks.
+Remuneration. 
+Sustainability and climate-related goals are incorporated into several executive scorecards, which are key elements of performance management tied to the determination of incentive compensation for these executives. Progress on Citi’s 2025 Sustainable Progress Strategy is a consideration for Citi’s Head of Global Public Affairs. Similarly, progress on our $250 Billion Environmental Finance Goal is incorporated into reviews for Citi’s CEO and the CEO of Citi’s Institutional Clients Group.
+Moreover, climate change strategy and risk management performance goals are incorporated into annual goals and performance review processes for a number of our senior executives and their teams who are responsible for developing and implementing our approach to climate change. These executives include the CSO, Head of ESRM, Head of Climate Risk, and the Head of Facilities Management, whose team is responsible for our environmental footprint goals.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 17. 
+Citi has long recognized that climate change is one of the most critical challenges facing our global society and economy in the 21st century, having issued our first climate change statement in 2007. In the years since our initial statement, our understanding of our business’s climate-related risks and opportunities has evolved significantly, as have the tools and data available to quantify such risks. As these resources improve, we continue to revise our climate strategy on a rolling basis to enhance our operational resiliency, decision-making, strategy, and planning.
+The following Strategy, Risk Management, and Metrics & Targets sections provide insight into the iterative process in which each of Citi’s climate-related risk identification, assessment, management, and targetsetting processes inform and influence each other to form a continuous feedback mechanism that pushes our climate knowledge base forward.
+These strategic, risk management, and impact-reduction efforts are a continuation of our efforts over the last several years to assemble a toolkit and establish the key metrics that will enable us to advance a datadriven climate strategy.
+TCFD’s Categorization of Climate-Related Risks. 
+To assess how various climate risk drivers may impact Citi, we recognize the utility of TCFD’s categorization of transition and physical climate risks. Transition risks are those that arise from actions associated with a transition to a low-carbon economy, such as the introduction of new climate policies or low-carbon technologies, the filing of lawsuits against entities perceived as contributing or having contributed to climate change, or changes in market sentiments. Physical risks are those that arise from the physical impacts of climate change; these can be chronic (such as changes to temperature and precipitation patterns or sea level rise) or acute (such as extreme weather events like storms and wildfires).
+Each of the internal risk categories in Citi’s taxonomy may be amplified and influenced in some way by climate-related transition and physical risks. Climate transition and physical risks do not replace or alter Citi’s risk taxonomy, which is described further in the Risk Management section of this report, but instead are cross-cutting risks that have the ability to influence each of our existing risk categories. Examples of transition and physical risk drivers are described on the next page.
+Strategy. 
+PART 3
+
+
+18 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Citi also considers how climate risks can be primary and secondary drivers of our different risk stripes over various time horizons. These transition and physical risks can manifest themselves differently across our risk stripes in the short, medium, and long term.
+For example, certain transition risks, such as gradual shifts in market preferences, and physical risks, such as global sea level rise, have a greater expected impact over a longer period of time. In contrast, certain reputational transition risks and physical risks from acute weather events have the ability to impact Citi and its holdings on a short-term basis, with less certain long-run impacts. Long-term physical climate risks may directly render some types of operations in various areas impossible (a primary driver of risk) or they may reduce the profitability of certain sectors overall, contributing to recessionary pressure in that sector (a secondary driver of risk).
+Most of Citi’s lending is short to medium term, but we have long-term relationships with clients that stretch back more than 100 years in some cases. Hence, we believe it is important to identify, assess, and manage transition and physical risks across different time horizons.
+Examples of Transition Risk Examples of Physical Risk. 
+Policy and Legal Risk. 
+Policy changes (e.g., carbon taxes, permit restrictions, etc.) and legal risks (e.g., lawsuits).
+Acute Physical Risk. 
+Event-driven impacts, such as from extreme weather events and the increased frequency of such events, (including wildfires, droughts, and hurricanes, among others). Technology Risk. 
+Disruptive technologies reducing demand for clients’ products or services.
+Market Risk Shifts in supply chain and consumer demand for products.
+Chronic Physical Risk. 
+Overall shifts in climatic behavior, such as temperature and precipitation patterns, sea level rise, etc. Reputational Risk. 
+Changing public perceptions of products or companies.
+Term Horizons. 
+Short < 1 year. 
+Medium 1-5 years. 
+Long > 5 years
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 19. 
+Citi also assesses climate-related risks against its materiality criteria applied to other financial and non-financial risks. Climate change risks and opportunities are included within Citi’s ESG materiality assessments and generally encompass information that investors and clients are interested in receiving. Climate-related risk assessments are generally broader than those used and disclosed in our regulatory financial disclosures and focus on the importance of specified metrics to stakeholders, as well as their ability to influence business success. Climate-related risk assessments also contemplate potential events that may occur over a longer time horizon than the shorter time frames used and disclosed in our regulatory financial disclosures.
+The available data and existing tools that we used to explore these transition and physical climate risks through our scenario analyses are described in more detail in the following section on Scenario Analysis.
+Regulatory Development. 
+Bank regulatory interest in climate risk management continues to grow around the world. The Network for Greening the Financial System (NGFS), a network of central banks and supervisors working to strengthen the global response on climate, has expanded to include 83 central banks and supervisors and 13 observers as of December 2020, covering much of Citi’s global footprint. Across the globe, Citi operates in numerous jurisdictions, with our subsidiaries supervised by local financial regulators. As climate-specific regulatory guidelines and expectations increase globally, we are actively tracking and responding to these enhanced expectations in locally regulated subsidiaries in a manner consistent with our global strategic approach. Citi has engaged in constructive dialogue with regulators on climate risk in many of our jurisdictions, and we expect this trend to continue in the coming years.
+Citi is focused on preparing for additional climate-related regulatory oversight and is building a coherent operating model to standardize our strategy and approach for addressing climate risks globally, coordinating internal implementation, and providing support to local and regional teams on climate risk management.
+We are capitalizing on lessons learned from our early adoption of the TCFD recommendations and participation in various voluntary climate risk initiatives to help us prepare to address anticipated climate regulatory obligations. Citi is building the internal climate expertise necessary to facilitate accurate and comprehensive responses to regulatory requirements, once enacted, and to build a consistent global climate disclosure strategy that can monitor and manage requirements across Citi’s operations in nearly 100 countries, each with unique and fluctuating political environments.
+
+
+20 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Scenario Analysis. 
+We view climate risk as an overarching risk that can act as a driver of other risk stripes. Citi has piloted several climate scenario analyses to assess climate-related impacts and risks, which span both transition and physical climate risks. The scenario analyses performed in 2019-2020, including the sectors tested and our key findings, are briefly summarized in the following chart, and explored in more detail later in this report.
+Climate data availability, accessibility, and suitability for financial risk analysis, as well as climate risk modeling capabilities, are still nascent and evolving. However, Citi does not believe it is prudent to wait until such resources are fully formed and available to begin the climate risk integration process.
+While the underlying climate data and modeling tools available continue to evolve, the available results of these analyses conducted to date have allowed Citi to begin assessing our portfolios’ alignment with the goals of the Paris Agreement and to evaluate the resiliency of our portfolios to certain climate disruption scenarios. Detailed summaries of the climate scenario analyses we have performed since our last TCFD report are described in the following pages.
+Scenario Sectors Key Findings. 
+Transition Risk - Sudden Carbon Tax (Short Term)
+Oil & Gas Exploration and Production • The credit ratings impact associated with the sudden introduction of carbon pricing is dependent on a number of factors, including the starting credit rating and financial strength of a company.
+• Companies with higher costs of production saw greater volume impacts and higher asset impairments.
+• Management actions to conserve cash or reduce debt had minimal impact on overall results.
+Citi Operations - Acute Extreme Weather (Short Term)
+Citi’s Facilities – NYC & Tampa • Although significant damage may occur to our facilities, it is unlikely to significantly impact Citi’s operational resiliency.
+• Work-from-home strategies, such as those implemented in response to. 
+COVID-19, have significant potential to maintain business continuity following acute extreme weather events.
+Citibanamex – Physical Risk (Long Term)
+Commercial Real Estate & Agriculture • Extreme weather impacts can be highly location-specific, even within sub- regions. Location information and data granularity are paramount.
+• Extreme weather reduces the property value and increases the loan-to- value ratios of properties that are exposed, and credit parameters may need adjustment to account for the changing frequency and severity of extreme weather events due to climate change.
+• Agricultural clients see decreased yields and increased prices for products. For several sub-sectors, the increased prices offset declining yields; however, global commodities (e.g., coarse grains) do not experience a sufficient price increase and, therefore, have an increased probability of default.
+Citibanamex – Transition Risk (Long Term)
+Commercial Real Estate & Agriculture • Carbon pricing and energy efficiency standards for buildings can affect the operating costs and credit worthiness of commercial real estate clients.
+• Carbon pricing and the role of agriculture and land use for bioenergy and carbon sequestration raises the cost of agricultural production. All client segments would be affected, but livestock producers would see a bigger ratings downgrade than crop producers.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 21. 
+Transition Risk Analysis. 
+To complement the long-term climate scenario analysis that Citi previously conducted in 2017-2018 as a part of the UN Environment Programme Finance Initiative (UNEP FI) TCFD Phase 1 Pilot Project and address some of the limitations associated with long-term climate scenarios, Citi performed a short-term carbon pricing scenario analysis in collaboration with Oliver Wyman, a leading international management consultancy.
+In the UNEP FI TCFD Phase 1 Pilot Project, we assessed the potential financial impacts in 2030 and 2040 using scenarios from the REMIND integrated assessment model developed by the Potsdam Institute for Climate Impact Research. The orderly nature of these long-term temperature-based scenarios, which try to minimize disruptions to the economy and give companies time to adapt, resulted in limited impacts on the portfolios we tested. The long-term nature of these scenarios was also not well aligned with the time horizon of our lending portfolio. In this more recent exercise with Oliver Wyman, we used a short-term, three-year scenario that is not only more aligned with the tenor of the loans in our lending portfolio, most of which are three years or less, but is also more stressful on companies. This allowed us to more effectively test the resilience of our portfolio to global carbon pricing risk arising from increasing regulatory intervention to reduce emissions.
+Climate Data Gaps. 
+Climate risk is challenging to model and assess because it is uncertain and non-linear, making historic data less reliable as a predictor of future outcomes. Significant data gaps remain — from global and sectoral climate data to asset-level data — that make it difficult to accurately assess the risks of climate change to companies. We know that many of our clients are working on advancing their own approaches to measuring, accounting, and reporting on climate data, in line with evolving reporting standards. Ultimately, the data and disclosure efforts of banks and our clients will need to be better aligned to help realize improved data quality and consistency. Irrespective of these challenges, Citi continues to actively engage clients, climate data providers, credit rating agencies, and other stakeholders to advance our collective understanding in this rapidly changing area.
+We are also proactive in pursuing pilot programs as a way to further advance climate risk assessment methodologies and capabilities until more fulsome climate data and company- and asset-level data are widely available. We believe that this approach best balances our need to continue assessing, managing and disclosing information about climate risks, while simultaneously continuing efforts to improve the quality of the data on which these assessments are based.
+As climate data access, availability, and quality improves over time, Citi will be better placed to more fully integrate climate-related risks into our credit process and provide a consistent strategy for risk managers to use relevant climate risk data in qualitative and quantitative analysis of our clients in climate-exposed sectors. As this space evolves, Citi remains committed to transparently identifying assumptions made in our scenario analyses.
+
+
+22 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+We focused this climate scenario modeling exercise on the oil and gas sector, in particular the upstream / exploration and production (E&P) segment, as it is often at the forefront of low-carbon economy transition discussions. Citi intends to expand the use of these climate scenario modeling tools and methodological approaches to cover additional sectors in the future in order to enable broader low-carbon economy transition assessments across industries.
+Citi’s global upstream energy portfolio includes a mix of integrated oil and gas companies and E&P companies. For this analysis, we focused on the upstream producer sector, and excluded other non-producer parts of the Energy portfolio, including storage and transportation (midstream), refining (downstream), and oilfield services companies. Only a quarter of the companies in the upstream portfolio were integrated; however, due to their larger size, our total upstream portfolio, which has an exposure of approximately $26.3 billion (as of year-end 2018, the last full year of financial data when our analysis was conducted), was divided almost equally between integrated and E&P companies. Slightly over half of our clients and portfolio exposure were based in North America and over a quarter were based in the Europe, Middle East, and Africa (EMEA) region, with the remainder divided between Asia-Pacific and Latin America.
+Methodology. 
+Similar to our previous analysis, we assessed a representative sample of Citi’s clients in the upstream segment of the oil and gas sector and evaluated how the introduction or expansion of a uniform global carbon price would affect key drivers of our clients’ financials, including revenue, cost, capex, and reserve valuations, and ultimately, their impact on probability of default (PD) and internal risk ratings. We then extrapolated these impacts across the balance of Citi’s portfolio.
+We explored the impacts of a rapid enactment of various carbon prices — $25, $50, $75 and $100 per ton of CO2 — applied to the E&P companies over a three-year period (from 2019-2021) at the point of extraction. The carbon price could also be applied at the point of consumption; both approaches would lead to the same price and revenue impacts on companies though the mechanism through which the change occurs differs (i.e., shifting the supply curve in the case of a carbon price at the point of extraction, versus shifting the demand curve in the case of a carbon price at the point of consumption). The carbon price was assumed to be non-additive, so companies operating under an existing carbon tax regime, for example, those in Europe, only experienced an incremental increase to reach a uniform global carbon price. Economists and climate scenario modelers estimate that in general, carbon prices must approach, if not exceed, $100/tCO2 by 2030 in order to limit warming to 1.5°C by the end of the century. Hence, although our analysis consisted of scenarios with varying carbon prices, we most closely analyzed the $50/tCO2 price scenario, which is plausible and stressful in the short term.
+Our methodology, developed with input from our Oil & Gas Banking and Credit Risk teams in collaboration with Oliver Wyman, is illustrated on the next page.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 23. 
+Key Findings. 
+The adjusted probability of default (PD) and credit rating impacts of a global carbon price varied significantly across companies, ranging from a downgrade of 0 to 9 notches at $50/tCO2, with an average of 3.5 notches (2.5 notches using an external rating model).2 The starting credit rating and associated financial strength of the companies is highly correlated to the adjusted results. While investment grade companies demonstrated a larger notch downgrade than those with lower initial ratings, the absolute. 
+Source: Oliver Wyman. 
+Drivers Scenario Impact Assumptions. 
+Carbon Price. 
+Analytical Approach. 
+Price. 
+Volume. 
+Unit Cost. 
+Capital Expenditure. 
+Asset Value. 
+Input Output Intermediary output. 
+Scenario adjusted financials. 
+Scenario adjusted ratings & probability of default (PD)
+Company Financials • Price paid by consumers will increase due to carbon price • Margins for producers will decrease • Assess scenario price and demand based on carbon intensity & elasticities of the sector • Decrease production of high cost producers to account for lower demand • Shift cost curves upwards to reflect additional costs of emissions due to carbon tax • Link level of capex to prices • Some of the additional costs borne by the producers will be passed onto the consumers leading to higher prices • Increased market price will lead to a decrease in demand and production • Unit costs will increase due to the tax on carbon content of oil & gas and emissions generated during the production process • Capital expenditure is expected to decrease due to lower demand and production • Impair balance sheet property, plant, and equipment (PP&E) based on % high cost reserves, decline in net effective price, and share of PP&E that is tied to reserves • Some reserves may become uneconomic and will be written-off as stranded assets 
+
+2 Citi’s internal credit risk ratings reflect an estimated probability of default for a counterparty. They are based on a numeric scale with interim positive, flat, and negative gradations, with each step in the gradation referred to as a notch. The probability of default is based on a non-linear scale that corresponds to the assigned Citi credit risk rating.
+
+
+24 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT change in the probability of default was much more significant for lower-rated firms. Furthermore, the ability of the evaluated companies to absorb various levels of carbon prices without experiencing a significant drop in their credit rating appears to depend on a number of factors, including: • Pre-carbon tax profit margins; • Existing balance sheet financial leverage; • Carbon intensity of the extraction process; and • Position on the industry cost curve (describing the competitiveness of a company to others).
+Not surprisingly, companies with higher operating margins, lower leverage, and higher cash balances were more readily able to weather the shock and absorb higher operating expenses. Regional differences in production costs also affected a company’s resiliency. Companies with higher-cost production and reserves saw a bigger hit in terms of volume, as the imposition of the carbon tax made some of the reserves uneconomic to produce and resulted in more significant asset impairments (reflecting a devaluation of uneconomic high-cost reserves).
+We recognize that company management can take a range of potential actions in response to a carbon price in order to reduce debt and conserve cash, and this can change key leverage and interest ratios and have a potential ratings impact. Hence, we also modeled several potential management actions (including debt paydowns, dividend changes, and capital expenditure changes). We did not, however, evaluate potential management actions to reduce Scope 1 and 2 emissions that might reduce the impact of carbon taxation. Ultimately, the alternative assumptions modeled had minimal overall impacts on the portfolio results, although they did lead to different ratings for several companies in the sample.
+Following our analysis on the sample, we forecasted the shift in distance-to-default for the rest of the upstream portfolio using the Merton model of corporate default to estimate the overall impacts of the carbon tax scenarios on credit losses. We tested key climate and company variables using regressions to identify the combinations that were most predictive of the shift in distance-to-default across scenarios in our sample and applied this relationship on the portfolio to estimate the overall impact on probability of default and expected default at loss by scenario. In the $50/tCO2 carbon tax scenario, we estimated a marginal increase in the weighted average annual portfolio probability of default that resulted in a meaningful but manageable increase in expected loss.
+Next Steps. 
+This short-term, event-based climate scenario analysis provided useful insights and learnings to support our ongoing efforts to integrate climate risk considerations into Citi’s credit analyses, portfolio risk management, and conversations with clients. We were able to identify the differences between clients’ expected financial position and performance under a carbon price and the factors contributing to greater resiliency, enabling us to differentiate between the level of transition risk faced by companies within the same portfolio. Citi recognizes that these findings are likely to change over time as more E&P companies begin enhancing their resiliency and preemptively preparing for the energy transition. Citi plans to expand
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 25 the use of this approach to assess climate transition risks across other industries and segments of Citi’s portfolio, based on a prioritization of sectors with high transition risk vulnerability and data availability.
+Physical Risk Analysis. 
+In parallel with our assessment of transition risks, to assess potential physical risk exposure, we performed two primary analyses — one on impacts to our own facilities, and a second on impacts to our clients. Citi is particularly focused on assessing climate-related physical risks in regions where Citi has a more densely concentrated exposure, either from employee offices, service or data centers, or other firm infrastructure or from our lending activities.
+Citi’s Operational Risk Management. 
+Physical damage risk is a driver of operational risk in Citi’s risk taxonomy. Part of Citi’s physical risk assessment and management is focused on understanding the risks to our facilities and our operations following the occurrence of certain climate-related disruptions, and the resilience of our facilities and robustness of our crisis management and business continuity planning.
+To assess these risks and understand key critical facilities’ exposure to several climate hazards, Citi mapped these facilities using Bloomberg and SwissRe CatNet.
+EXPOSURE OF CRITICAL CITI FACILITIES TO PRESENT DAY 1 IN 50 YEAR CYCLONE RISK. 
+Source: Bloomberg.
+In addition, Citi conducted an operational risk physical risk scenario assessment in 2020 focusing on the impact of extreme weather events on two large employee centers in Tampa, Florida and New York City, New
+
+
+26 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+York. These locations were selected due to their strategic importance and exposure to cyclone risk based on the climate risk mapping that we performed. Although several of our sites in Asia are also exposed to high cyclone risk, a related physical risk scenario covering that region had previously been conducted. We developed three scenarios with different probabilities that were designed to be plausible but severe.
+In preparing our assumptions, Citi recognized that the climate risk tools available consider current risks developed based on historic climate patterns and do not account for expected increasing frequency and severity of climate-related events due to climate change. In addition, we were not able to assess the impacts to critical infrastructure (e.g., public transit, roads, or power), which could also affect our operations. Further, the traditional nine-quarter Comprehensive Capital Analysis and Review (CCAR) stress testing time frame that is used for operational risk scenarios is not sufficient to capture larger physical risk impacts, such as anticipated sea level rise.
+After completing the scenario analysis with these assumptions and limitations, Citi found that although significant damage was estimated to be incurred, there was not a material impact to our operational resiliency. These results are also supplemented by the lessons learned from the global work-from-home experiment necessitated by the COVID-19 pandemic. Our employees’ successes in maintaining operational efficiency during the recent pandemic have boosted our confidence in the ability to implement temporary work-from-home strategies in targeted locations as needed for business continuity following certain acute climate-related disruptive events.
+Citi is looking at how improved climate data can benefit our understanding of potential physical risks to our facilities and operations. This type of data could support our long-term operational risk management strategy and location strategy to ensure that future site selection and growth opportunities consider climate and workforce resiliency measures.
+Scenario Description Impacts 1:25 Tropical storm affects our Tampa, FL campus Some damages to our facilities 1:100 Tropical storm followed by a Category 5 hurricane affects our Tampa, FL campus. 
+Facilities rendered inoperable and need to be rebuilt 1:1000 Tropical storm followed by a Category 5 hurricane affects our Tampa, FL campus. Simultaneously, a tornado from a severe thunderstorm hits our New York City, NY headquarters. 
+Facilities rendered inoperable and need to be repaired (New York City) / rebuilt (Tampa)
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 27. 
+Citibanamex Pilot Analysis. 
+Citibanamex, Citi’s Mexico subsidiary, is the only Mexico-based bank participating in Phase 2 of the UNEP FI’s Pilot Project on Implementing the TCFD Recommendations for Banks (“UNEP FI Phase 2”).
+UNEP FI Phase 2 builds on the first phase of the pilot project, which Citi participated in from 2017– 2018. Working with UNEP FI, Oliver Wyman, Acclimatise, PIK, IIASA, Cicero, and other experts, the 39 banks in the pilot refined the methodologies previously developed, created transition and physical risk heat maps, assessed various commercially available physical risk tools, explored additional transition scenarios, and tested the methodologies and tools on their own portfolios.
+Through the pilot, Citibanamex applied the transition and physical risk methodologies on two sectors within its portfolio — commercial real estate and agriculture. These climate-vulnerable sectors were selected based on Citibanamex’s exposure — together, they represent nearly a quarter of Citibanamex’s commercial banking lending portfolio. This not only allowed Citibanamex to tailor the analysis to those sectors with climate-relevant risks most applicable to its own portfolio, but also complemented the analysis Citi previously did by expanding the application of the methodologies to sectors and jurisdictions different from the prior analysis.
+Physical Risk. 
+Mexico’s location and varied geography contribute to the country’s wide range of atmospheric and climatic phenomena. Physical risks are high in both the commercial real estate and agribusiness sectors. In commercial real estate, physical risks can lead to property damages, loss of income, as well as reductions in property valuation, while in agriculture, a sector reliant on the climate, they can change agricultural productivity and output. We assessed our portfolios to understand the potential physical risks in 2040 under a 2°C and a 4°C scenario. Detailed information on the physical risk methodologies is published in UNEP FI’s reports Navigating a New Climate and Charting a New Climate, which Citi and Citibanamex contributed to.
+Commercial Real Estate. 
+Citibanamex’s commercial real estate portfolio covers four subsectors — industrial, hotels, retail, and offices — with properties spread across three regions in Mexico — Northern Mexico, Mexican Coasts and Central Mexico — which are exposed to different climates. Credit transactions in the portfolio include secured term loans supported by income producing assets. Cash generated by the properties is the primary source of repayment. The sample of properties assessed in this analysis included an over-representative selection of hotels in order to account for the greater climate risks those properties are expected to face, particularly as the hotels in Citibanamex’s portfolio are concentrated along Mexico’s coasts and are more exposed to the risks of storms and flooding.
+
+
+28 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Methodology. 
+The analysis looked at three types of extreme weather events — flooding, storms and wildfires — that may affect property values and loan-to-value ratios.
+OVERVIEW OF THE PHYSICAL RISK METHODOLOGY FOR REAL ESTATE. 
+Source: UNEP FI and Acclimatise. 
+Results. 
+In the analysis, we found that changes to property values vary quite widely, even within regions. Hence, the ability to identify risks in a specific location will be key to understanding the physical risks to real estate assets and will require access to high-quality future climate data.
+The appraisal value of a property is an important factor that Citi considers when assessing the risks of a facility to a commercial real estate client, as it directly affects the loan-to-value ratio on a mortgage. However, it is not the only factor — clients are assessed and tiered based on a number of quantitative and qualitative factors such as property type, gross leasable area or number of hotel rooms, location or regional submarket, management quality and experience, repayment capacity, and risk ratings. Depending on the tier in which each client is placed, the transaction is subject to specific credit parameters including maximum loan value, as well as other ratios. Currently, changes to the loan-tovalue ratio alone would not directly affect the risk tier to which clients are assigned, but going forward, we may need to consider adjustments to our credit parameters to take into account the changing risk profile of clients and their properties due to the physical climate impacts that they are expected to face.
+Agriculture. 
+Citibanamex’s agribusiness portfolio primarily covers four subsectors: fruits, vegetables, animal protein, and grains. Clients are located in four main agricultural regions — North, Northwest, West, and Gulf. Climate conditions vary by region, with the North and Northwest drier and drought prone, the West temperate and mild, and the Gulf tropical, hot, and humid. Many clients produce multiple commodities and certain commodities are only grown in certain regions.
+Climate change is expected to have a significant impact on the agribusiness sector, which is reliant on climate conditions. Incremental changes in climate (such as rising temperatures and changes in precipitation patterns) can affect agricultural output and productivity, while extreme events can lead to damage, operational downtime, and lost production.
+Physical climate change scenarios. 
+Changes in extreme events. 
+Real estate portfolios. 
+Property values Loan-to-value ratios. 
+Physical climate change scenarios. 
+Incremental changes in climate. 
+Agriculture sector portfolios. 
+Changes in extreme events. 
+Subsector productivity & price. 
+Revenue & costs of goods sold. 
+Probability of default
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 29. 
+Methodology. 
+Our analysis considered the impacts of both incremental changes in climate that can have chronic impacts on agricultural productivity as well as acute extreme weather events and how they may affect the price and yield of different agricultural products, the revenue and costs of goods sold, and ultimately, the probability of default of clients in the agricultural portfolio. Extreme weather events assessed include cyclones, flooding, drought, wildfire, and extreme heat. We used data from SwissRe CatNet for cyclone, flood, and wildfire, GFDRR ThinkHazard! for extreme heat, and Princeton Climate Analytics’s (PCA) global drought risk tool for drought.
+OVERVIEW OF THE PHYSICAL RISK METHODOLOGY FOR AGRICULTURE. 
+Source: UNEP FI and Acclimatise. 
+Under the 2°C and 4°C scenarios analyzed for 2040, incremental climate change led to lower agricultural productivity and reduced yields, and prices increased to reflect that change. Declines in productivity and yield were greater in the 4°C scenario than the 2°C scenario. The probabilities of extreme weather also increased commensurately with rising temperatures, increasing the likelihood of crop damage and livestock losses as well as higher costs. Citibanamex calculated adjusted revenues and costs, as well as changes to gross profit, under both warming scenarios. This was used to determine changes in clients’ risks of default.
+Results. 
+Prices in the agricultural sector are sensitive to supply, which is dependent on weather conditions. Hence, the impact of climatic changes on supply abundance or scarcity has a substantial impact on clients’ financial performance. Higher prices helped to blunt some of the impacts from lower yields. With demand for food expected to grow alongside the growth in global population, and given low price elasticity of demand for food, upward pressure on prices for agricultural products is expected. The decrease in the yield of grain crops would also result in an increase in feed costs for animal protein producers, and thus higher prices for meat as well.
+Expected client outcomes in 2040 are dependent on the characteristics of the different commodities they produce and the market forces to which they are exposed. For clients in commodities with greater global supply, lower economies of scale, and narrower starting gross margins, such as coarse grains, the. 
+Physical climate change scenarios. 
+Changes in extreme events. 
+Real estate portfolios. 
+Property values Loan-to-value ratios. 
+Physical climate change scenarios. 
+Incremental changes in climate. 
+Agriculture sector portfolios. 
+Changes in extreme events. 
+Subsector productivity & price. 
+Revenue & costs of goods sold. 
+Probability of default
+
+
+30 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT rise in prices was not sufficient to offset the reduction in yields resulting in higher probability of default and a downward credit rating migration. On the other hand, clients in sub-segments with more limited global supply, fewer substitutes, higher vertical integration, and higher starting gross margins (e.g., fruits and vegetables) had a better outlook. However, it is possible that climate change could enable agricultural production in new regions that are currently not conducive for agribusiness, which would provide additional competition and affect the market dynamics for Mexican agribusinesses.
+Transition Risk. 
+Transition risks can affect both the commercial real estate and agribusiness sectors. Buildings play a crucial role in decarbonization efforts, as they are a key driver of final energy consumption and a significant source of energy-related GHG emissions. In Mexico, buildings account for about 18% of the country’s total energy consumption, and are responsible for approximately 12% of total GHG emissions. Changes in building efficiency standards and carbon pricing can result in higher capital, operating, and compliance expenses, and affect asset valuation, creating transition risks. Agriculture, including livestock and crop cultivation, contributes to approximately 12% of GHG emissions, most of which come in the form of methane (CH4) and nitrous oxide (N2O). A carbon price would increase the cost of agricultural production.
+To assess these risks, Citibanamex is applying the transition risk methodology developed in partnership with Oliver Wyman to explore two disorderly NGFS transition scenarios — the immediate 1.5°C with limited carbon dioxide removal (CDR) (“LowCDR1.5°C”) and delayed 2°C with full CDR (“Delayed2°C”) from the REMIND model, a global integrated energy-economy-climate model developed by the Potsdam Institute for Climate Impact Research. More information on the methodology can be found in the UNEP FI reports Extending Our Horizons and Beyond the Horizon.
+In the LowCDR1.5°C scenario, carbon prices are implemented immediately, but the availability of CDR technologies are constrained. In the Delayed2°C scenario, there is no further strengthening of policies beyond the fulfillment of conditional nationally determined contributions (NDCs) until 2030, but CDR technologies would be widely available to help offset some emissions. Faster and more drastic declines in emissions are needed in the LowCDR1.5°C scenario given the more ambitious temperature target and technological limitations assumed; consequently, carbon prices rise rapidly in this scenario to enable negative emissions after 2030.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 31. 
+CO2 EMISSIONS CARBON PRICE. 
+Commercial Real Estate. 
+Currently, the information we have on our commercial real estate clients is not sufficient for a thorough evaluation of the transition risks to which our clients are exposed. For example, we do not have information on clients’ Scope 1 emissions to assess how they could be directly impacted by a carbon price. Given this limitation, we only considered how carbon pricing would affect electricity costs, as we assumed power companies would pass through the cost of the carbon price to clients. On average, electricity expense represents 4-5% of a client’s total operating expenses in the hotel and office segments, where we had this data.
+In the scenarios, higher carbon prices result in higher electricity prices in the short to medium term but also incentivize a faster shift away from carbon-intense energy production, particularly in the power sector, which phases out coal more quickly. At the same time, electricity generated by renewables rapidly becomes cheaper than that generated with fossil fuels. This combination of dynamics drives a decline in electricity prices in the long term.
+In the LowCDR1.5°C scenario, carbon prices rise very quickly leading to a rise in electricity prices through 2030 and then a rapid drop after 2030 due to the shift to lower-cost renewables. In 2030, prices are about 17% higher than 2020, but by 2040, electricity prices are approximately 16% below 2020 levels. Electricity prices rise and fall more slowly in the Delayed2°C scenario. In 2035, when electricity prices peak in this scenario, prices are about 12% higher than in 2020 but are only about 6% higher by 2040.
+-6,000 -4,000 -2,000 0
+2,000 4,000 6,000 2020 2030 2040 2050 2060. 
+Mt CO2/Year. 
+CO2 Emissions. 
+LowCDR1.5oC Delayed2oC $0 $100 $200 $300 $400 $500 $600 $800 2020 2030 2040. 
+US$2010/t CO2. 
+Carbon Price. 
+LowCDR1.5oC Delayed2oC $0 $5 $10 $15 $20 $25 $30 $35 2020 2025 2030 2035 2040. 
+US$2010/GJ. 
+Final Energy - Electricity - Buildings. 
+LowCDR1.5oC Delayed2oC. 
+FINAL ENERGY - ELECTRICITY - BUILDINGS
+
+
+32 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+A small percentage of clients would potentially experience a one notch downgrade in their risk rating due to lower net operating income in 2030 under the LowCDR1.5°C scenario and in 2035 under the Delayed2°C scenario, when electricity prices are at their highest in the scenarios. However, this effect would dissipate once electricity prices fall again. Clients that have high Scope 1 emissions from onsite generation or other sources owned and controlled by the client could potentially see bigger ratings impacts, although we were unable to assess this due to data limitations. However, we anticipate that clients, when faced with very high carbon prices, would increase their energy efficiency and shift towards renewables to reduce their Scope 1 and 2 emissions. These investments would take place more quickly under the LowCDR1.5°C scenario.
+It is worth noting that a number of regulations to reduce emissions in the building sector already exist in Mexico. Mexico has national energy efficiency standards (Normas Oficiales Mexicanas, NOM) that apply to both residential and non-residential buildings. Properties in Citi’s commercial real estate portfolio are covered by these standards and compliance reduces their exposure to transition risk. In addition, clients have to comply with regulations such as the General Law on Climate Change, which established an emissions trading system to promote emissions reduction. Transition risks can also arise from changes to consumer / occupant demand for green buildings and additional green building regulations. Clients that are more energy efficient would benefit, as buildings that are not aligned will need to pay for expensive retrofits or risk revenue loss.
+Agriculture. 
+Agricultural production requires energy, either directly in the form of fossil fuels or electricity or indirectly through energy-intensive inputs such as fertilizer. In addition, it releases GHG emissions though the intensity varies greatly depending on the agricultural product. Enteric fermentation by ruminant animals (cattle and sheep) account for nearly two-thirds of agricultural emissions. Emissions intensity for crops are lower, with emissions mainly coming from fertilizer and fuel use. Land use changes for agricultural production can also lead to emissions.
+For the assessment of our agribusiness portfolio, we segmented clients into four categories based on their product (crops vs. livestock) and emissions intensity (low vs. high) — characteristics that may affect how they perform under the transition scenarios — and analyzed a sample of clients in each segment: • Crops — High Emissions Intensity • Crops — Low Emissions Intensity • Livestock — Cattle & Dairy (High Emissions Intensity) • Livestock — Other (Low Emissions Intensity)
+In both the LowCDR1.5°C and Delayed2°C scenarios, agricultural production increases. The key driver behind this growth is bioenergy with carbon capture and storage (BECCS). BECCS and afforestation and reforestation are two of the CDR technologies included in the scenarios. Rising carbon prices also limit agricultural land expansion and increase production costs for farmers by taxing emissions
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 33. 
+Future Scenarios. 
+The data and modelling capabilities for climate scenario analysis are constantly evolving. Citi will continue to make use of new tools and scenarios that help to further our strategy for adapting to a lowcarbon future. For example, we have started to evaluate climate scenarios recommended by the NGFS for possible integration into our risk management processes and to meet potential regulatory requirements, which may develop in the future.
+Additionally, we will be testing Climate Credit Analytics, a climate scenario analysis and credit analytics model suite developed by Oliver Wyman in partnership with S&P Global Market Intelligence, to assess transition risks in carbon-intensive sectors. This modeling tool will build on our work in the oil and gas sector analysis discussed in the Transition Risk Analysis section on pages 21-25 by covering multiple sectors and short- and long-term climate scenarios, including the NGFS reference scenarios, and integrating relevant climate data from S&P, to analyze both short-term and long-term climate-related credit ratings impacts based on S&P’s debt ratings models. This will enable a more robust analysis and understanding of how transition risks may affect the creditworthiness of counterparties across different corporate sectors.
+Climate Opportunities. 
+Climate change poses significant risks. However, the need to address climate change and its impacts also offers Citi real opportunities to support clients in their transition to a low-carbon economy and in building greater climate resilience, and creates new markets and technologies in which Citi can participate and invest. Meeting the ambitions of the Paris Agreement to limit global warming to 1.5°C to well under 2°C will require rapid and far-reaching transitions in energy systems, industrial processes, land use, buildings, transportation, and other infrastructure. Citi is confident that supporting a lowcarbon future is key to global economic growth, and remains committed to developing and providing sustainable finance products that enable investments in climate change mitigation solutions and of methane, nitrous oxide, and carbon dioxide from agricultural production and land use changes. In the LowCDR1.5°C scenario, carbon prices rise very quickly and lead to a rapid increase in agricultural production for energy crops while slowing the growth of livestock. Production costs increase as agricultural inputs like fertilizer or feed become more expensive. The increase would be highest for cattle and dairy, which has the highest emissions per kg of product. Agricultural prices, particularly for livestock, will also increase, but this also contributes to the shift towards a more plant-based diet. We would see similar impacts in the Delayed2°C scenario as well, though the changes happen at a slower pace as carbon prices rise more slowly.
+Consequently, the probability of default would increase across all segments, with clients in the livestock — cattle & dairy segment seeing the greatest impact followed by livestock — other and then crops — high emissions intensity and crops — low emissions intensity. Impacts would be more severe in the LowCDR1.5°C scenario. Under these scenarios, it is possible that clients may shift their product mix, production methods (e.g., decrease fertilizer use), and land use to reduce their emissions intensity.
+
+
+34 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT adaptation and resiliency measures. Our intention is to work constructively with our clients on transition planning while managing our own exposure to climate-related risks.
+As part of our 2025 Sustainable Progress Strategy, discussed in the following section, we have established an ambitious $250 Billion Environmental Finance Goal that builds on our prior climate and environmental financial goals. Our strategy recognizes eight categories of green activities, which have positive impacts on the climate and the environment:
+We plan to evaluate opportunities in all aspects of our financing to achieve our $250 Billion Environmental Finance Goal. Citi considers sustainable finance integral to our business strategy over the coming years.
+2025 Sustainable Progress Strategy. 
+Citi is committed to achieving our established interim goals as we address climate-related risks and opportunities on the long-term horizons established under the Paris Agreement.
+Citi has put climate at the center of our 2025 Sustainable Progress Strategy. The three pillars of our 2025 strategy focus on managing and mitigating the climate-related risks associated with our financing activities and our operations and capitalizing on the climate-related opportunities associated with the low-carbon transition: 1. Low-Carbon Transition: Citi seeks to accelerate the transition towards a low-carbon economy through our $250 Billion Environmental Finance Goal. This goal expands upon our rapid achievement of our $100 Billion Environmental Finance Goal (set in 2014 and completed in 2019), provides for financing and facilitation activities across eight categories of projects, includes additional criteria on the circular economy and sustainable agriculture and land use, and further incorporates elements of emerging frameworks, such as the E.U. Taxonomy. Large scale. 
+Goal Criteria Description. 
+Circular Economy Substitution of virgin raw materials with recycled or recyclable materials, elimination and replacement of hazardous/toxic materials with sustainable or recyclable materials, or recovery of materials from previously discarded products or projects. 
+Clean Technology Products, equipment, methods, and projects that mitigate GHG emissions. 
+Energy Efficiency Residential and commercial energy efficiency improvements that reduce energy consumption. 
+Green Buildings Construction or renovation of certified buildings for reduction or efficiency in energy use, resource consumption, or for low GHG emissions. 
+Renewable Energy Generation and/or storage of energy from renewable energy sources. 
+Sustainable Transportation. 
+Zero- and low-emissions vehicles, public transportation or related infrastructure construction, and efficiency improvement. 
+Sustainable Agriculture and Land Use. 
+Sustainable ecosystem management leading to carbon removal from the atmosphere, reduced emissions, improvement of soil fertility, and conservation of natural resources. 
+Water Quality and Conservation. 
+Improvement of water quality, improved efficiency, and increased availability and conservation of freshwater resources
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 35 hydropower plants (over 25 MW), and certain fossil fuel projects (including refined or alternative coal technologies, gas-to-liquid projects, and natural gas projects) are not aligned with our green criteria and are not eligible for inclusion in the goal.
+2. Climate Risk: In an effort to accelerate Citi’s understanding of internal and client climate risks,
+Citi will further test the resilience of our lending portfolios to transition and physical risks related to climate change and begin measuring the climate impact of our portfolios and their potential alignment with 1.5 and 2OC warming scenarios. More information on Citi’s scenario analyses performed to date can be found in the Scenario Analysis section on pages 20-33.
+3. Sustainable Operations: Citi remains committed to reducing the environmental footprint of our 200,000 employees working in nearly 7,700 facilities in 95 countries around the world. Citi’s centralized environmental management system tracks water and energy consumption, GHG emissions, and waste-to-landfill and green building initiatives. Citi’s 2025 Operational Footprint Goals are discussed in more detail in the Metrics & Targets section in Part 5.
+Climate Risk is a key pillar of our 2025 Sustainable Progress Strategy and includes three complementary approaches that advance Citi’s climate strategy and assist Citi and our clients in analyzing and reducing their climate risks.
+1. Citi will continue to integrate climate risk into Citi’s risk policies and governance frameworks and to update our ESRM Policy, including sector standards for carbon-intensive sectors, to incorporate evolving best practices.
+2. Through our portfolio analysis and measurement initiatives, Citi seeks to broaden our use of climate scenario analysis and stress testing across our portfolios to: (i) understand our clients’ resilience to transition or physical climate risks, (ii) test emerging methodologies to quantify the climate risks related to our clients’ activities, (iii) estimate emissions associated with our portfolios, and (iv) evaluate portfolio decarbonization pathways.
+3. Citi is increasing outreach to: (i) clients in high climate risk sectors, starting with oil and gas and power, on their own climate risk management and low-carbon transition strategies, (ii) regulators on emerging climate risk supervisory guidelines, and (iii) other stakeholders to actively participate in multi-stakeholder initiatives to share learnings and build industry best practices for climate risk analysis and management. Citi is already actively engaging with investors, for example, during our annual fall ESG investor roadshow, where Citi speaks with key investors on sustainability and climate concerns as well as other priority ESG issues.
+
+
+36 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Climate Engagement Efforts. 
+Citi has ramped up our engagement on climate change — with clients, investors, advocacy groups, and trade associations — as this issue has become a strategic one for many of our stakeholders.
+Client Engagement. 
+Climate change has become a c-suite issue for many of our clients across all sectors of the global economy, both in terms of growth opportunities and risk management. To support our client engagement, we have established dedicated teams within Banking and Markets, each of which are integrating strategic sustainability and ESG services and solutions into our client conversations.
+In Banking, these client engagements, with Boards, CEOs, CFOs, and Treasury, Strategy, and Sustainability teams, are focused on providing transition advisory and sustainable finance solutions encompassing strategic opportunities and risk analysis, navigating emerging regulatory frameworks, supporting new technologies, and facilitating innovations in the financial markets to enable the transition towards a net-zero carbon future.
+In Markets, our global clients are increasingly considering climate risk and opportunity embedded in their operations and portfolios. For investor clients, Citi provides climate risk insight associated with asset identification and portfolio construction, as well as products allowing clients to participate in sustainability themes that align with their values or investment convictions and strategies. These offerings span the spectrum from listed indices, customizable exposure to sustainable strategies, E.U. emissions notes, and carbon overlays for portfolios to specialized portfolio climate alignment reporting. We also provide our corporate clients capital to underwrite transition strategies as well as risk management products that align with their sustainability targets.
+Investor Engagement. 
+With regard to our investors, in 2018, Citi began an annual fall ESG investor roadshow, in which we engage with our main institutional investors and arrange deep-dive calls to focus on our approach to diversity and climate change strategy. In 2020, we conducted more than 25 ESG investor calls.
+Policy Engagement. 
+Over the past two years, we have also increased our engagement on climate change and climate policy within our industry and trade associations, as described in the table on the next page.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 37. 
+In addition, Citi also recently participated in the Commodity Futures Trading Commission’s ClimateRelated Market Risk Subcommittee of the Market Risk Advisory Committee (MRAC). This subcommittee was a significant effort from a U.S. government entity to examine climate-related impacts on the financial system, and released the report, Managing Climate Risk in the U.S. Financial System, which presents 53 recommendations to mitigate the risks to financial markets posed by climate change.
+Association Climate-Related Engagement in 2019-2020. 
+Business Roundtable Engaged with the Business Roundtable to update its Addressing Climate Change position statement, including participating in its Climate Change Task Force. 
+CEO Climate Dialogue Joined the CEO Climate Dialogue to help advance U.S. federal action on climate policy in alignment with its Guiding Principles for Federal Action on Climate, together with companies from a diverse set of sectors. 
+Global Financial Markets Association (GFMA) and affiliates SIFMA, AFME, ASIFMA. 
+Participate in sustainable finance working groups related to regional and global regulatory developments on ESG-related reporting frameworks, market supervision and climate-related supervisory efforts and coordination primarily the E.U.’s Action Plan for Financing Sustainable Growth, the NGFS, and TCFD-related stress testing for banks. 
+Institute of International Finance (IIF)
+Member of Sustainable Finance Working Group focused on regional and global regulatory developments on ESG-related reporting frameworks, market supervision and climate-related supervisory efforts and coordination, and TCFDrelated disclosure guidance for banks. 
+U.K. Finance Association. 
+Engagement focused on E.U.’s Action Plan for Financing Sustainable Growth and the Bank of England climate-related stress test framework. 
+U.S. Chamber of Commerce. 
+Together with other Chamber member companies, have formed a Climate Solutions Working Group of climate-leading companies to engage collectively with the Chamber on their climate change positioning.
+Engagement includes discussion of the Chamber’s positions on climate change and shared interests among Chamber members in climate-positive technologies, climate policy solutions, and other related initiatives.
+Engagement in 2019 contributed to the Chamber updating its Approach to Climate Change position statement to indicate support for U.S. engagement in the Paris Agreement, and to establishing a Task Force on Climate Action to engage on climate change across their broader membership. We also are speaking with the Chamber to communicate where we believe their positioning is out of step with many members, for example on carbon pricing.
+
+
+38 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Our strategy is designed to address both climate risk and climate impact. While there is significant endogeneity — particularly in the long term — with these perspectives, we recognize that there are valuable insights from each. Our participation in various initiatives, as described further elsewhere in this report, helps us to fully consider both lenses of our overarching strategy to manage climate risk.
+The framework established in our 2025 Sustainable Progress Strategy is the product of our climate strategy process. By using information gathered from external and internal sources and incorporating climate risk identification and mitigation strategies into our overall business strategy, Citi aims to advance efforts to reduce the carbon emissions in our portfolio, improve our portfolio’s resilience to various climate scenarios, and maintain our market-leading competitiveness in a future global economy. Citi’s identification of climate risks and opportunities is an important step in our incorporation of such concepts into our corporate governance, business strategy, risk management, and portfolio and operational resiliency improvement process, followed by scenario analysis conducted to quantify and manage such risks and capitalize on such opportunities. A discussion of these risks, opportunities, and scenario analysis outcomes, and their resulting impacts on our business, strategy, and future planning are provided below.
+Next Steps. 
+Citi has taken substantial steps in recent years to prepare for a transition to a low-carbon economy. Our participation in innovative climate frameworks, the outcomes of our scenario analyses, our financing goals, and our risk management policies all inform our climate strategy. We continue to support our clients in their climate strategy efforts and specifically engage with carbon-intensive sector clients to encourage their expedited transition. We have, in parallel, also established reduction targets on our exposure to the thermal coal mining sector, which has high exposure to climate risk and limited transition opportunities.
+However, we also recognize that it is important that those actions be informed, as much as possible, by quality data that contextualizes our relationship to various climate risks. We are exploring ways to improve access to climate-related data.
+With that information in hand, in the coming years we plan to, among other actions: • Establish a suite of climate scenarios that we periodically test relevant credit portfolios against and integrate into our climate strategy and risk management systems; • Report on decarbonization and Paris Agreement-alignment; and • Further develop our climate strategy through a combination of strengthening climate risk assessment requirements, considering climate risk in client selection, pursuing client transition finance opportunities, reducing our financed emissions, and evaluating sector exposures.
+We believe that the steps we have taken thus far, as discussed in this report, show that Citi recognizes the importance of taking action to identify and assess climate risks. Further detail on the steps Citi continues to take to address such climate risks is included in the next section on Risk Management.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 39. 
+Citi’s Risk Management function is responsible for identifying, managing, quantifying, and monitoring material risks to the company. The climate-related risks and results of our scenario analyses discussed in the Strategy section inform our integration of climate risks into our overarching risk management policies and processes.
+Identifying Climate-Related Risks. 
+Risk identification is the first step in the process that informs and underlies Citi’s risk management process. Climate risk has been identified as an “emerging risk” and is referenced as such in Citi’s Risk Governance Framework. Emerging risks are risks or thematic issues that are either new to the landscape, or in the case of climate risk, existing risks that are rapidly changing or evolving in an escalating fashion, which are difficult to assess due to limited data or other uncertainties. Given the pervasive, multi-dimensional nature of climate risk, we do not view it as a stand-alone risk category but a transversal risk, capable of manifesting impacts across Citi’s seven risk categories in our risk taxonomy — Credit, Market, Liquidity, Strategic, Operations, Compliance, and Reputation risks.
+Each of Citi’s risk categories may be influenced by physical and transition climate risks. As part of Citi’s risk management process, we have identified the primary and secondary ways in which these risks interact, both with each other and with other Citi business risks. The table on the next page provides examples of how climate risk could interact with Citi’s key risk stripes.
+Risk Management. 
+PART 4
+
+
+40 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Risk Type Definition. 
+Physical Risk Examples. 
+Transition Risk Examples. 
+Time Horizons. 
+Credit Risk of loss resulting from the decline in credit quality (or downgrade risk) or failure of a borrower, counterparty, third party, or issuer to honor its financial or contractual obligations. 
+Repayment challenges from obligors due to reduced profitability or asset devaluation because of climatic shifts. 
+Failure to adapt to changes in policy, regulation, and technology resulting in negative impact to obligors. 
+MediumTerm to Long-Term. 
+Market Risk of loss arising from changes in the value of Citi’s assets and liabilities or reduced net interest revenues resulting from changes in market variables, such as interest rates, exchange rates, equity, and commodity prices or credit spreads. 
+Devaluation of assets due to physical impacts. 
+Changes in demand for products/services and associated decreases in revenue. 
+MediumTerm to Long-Term. 
+Liquidity Risk that the firm will not be able to efficiently meet both expected and unexpected current and future cash flow and collateral needs without adversely affecting either daily operations or financial conditions of the firm. 
+Client drawdown on committed credit facilities, or larger than usual client deposit run-off to fund damages resulting from climate-related extreme weather events. 
+Market dislocation impacting the value or the ability to monetize liquidity buffers or incremental client deposits runoff resulting from transition risk drivers. 
+MediumTerm to Long-Term. 
+Strategic Risk to current or anticipated earnings, capital, or franchise or enterprise value arising from poor, but authorized, business decisions (in compliance with regulations, policies, and procedures), an inability to adapt to changes in the operating environment (e.g., economic, regulatory or legislative, competitive), or other external factors that may impair the ability to carry out a business strategy. 
+Incorrect expectations of climate risk impacts in business strategy and modeling. 
+Delayed and/or inadequate measures taken to address regulatory or economic developments. 
+MediumTerm to Long-Term. 
+Operations Risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events. 
+Business interruptions due to extreme weather events and damage to facilities. Disruptions in supply chain. 
+Increased operating costs for facilities and higher capital expenditures for resiliency and carbon reduction measures. 
+MediumTerm. 
+Compliance Risk to current or projected financial condition and resilience arising from violations of laws, rules, or regulations, or from non-conformance with prescribed practices, internal policies and procedures, or ethical standards. 
+Difficulty meeting compliance obligations due to business interruptions from weather events. 
+Failure to comply with climate-related regulations and associated fines, especially if there is a patchwork of different global regulations. 
+MediumTerm to Long-Term. 
+Reputation Risk to current or projected financial condition and resilience arising from negative public opinion. 
+Negative public perception due to inadequate support for customers and communities affected by extreme weather events; disruptions to business continuity affecting customer/ client confidence. 
+Reduced social license to operate. Reputational damage due to exposure to carbon-intensive industries. 
+Short-, Medium-, and LongTerm
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 41. 
+As discussed in the Strategy section, climate-related risks differ based on the time horizon in which such risks are considered. Therefore, Citi’s risk assessment of our exposure to certain risks differs between, for example, a three-year and a ten-year loan, and our approach to managing such risks also varies.
+After first identifying the potential risks, our risk management process next considers the strategies and tools for addressing and mitigating such risks. Our current framework for managing key climate-related risk stripes is discussed in more detail below.
+Managing Climate-Related Risks. 
+Credit and Reputational Risk. 
+Citi currently manages and mitigates the credit and reputational risks from climate change through Citi’s ESRM Policy. First established in 2003, the ESRM Policy is part of Citi’s broader credit risk management policy and is applicable to all Citi entities globally. The ESRM Policy is the framework for how Citi identifies, mitigates, and manages the potential environmental and social risks (including climate risks) associated with clients’ activities that could lead to credit or reputation risks to the bank. It guides how we evaluate transactions related to companies or projects within environmentally sensitive and/or high carbon sectors, and presents opportunities for us to advise clients on solutions to thematic risks.
+At the project level, Citi’s ESRM Policy incorporates the updates from the fourth iteration of the Equator Principles, which Citi helped shape, that expands climate risk guidance to include physical risk as well as transition risk. The Equator Principles require an alternatives analysis of less carbon-intensive technologies for all transactions that exceed 100,000 tons of carbon dioxide emissions annually during the construction and/or operational phases and a risk assessment of negative impacts from physical climate risk. Engaging with our clients enables us to work together to meet global sustainability best practices, improve environmental and social outcomes, and mitigate the environmental, social, and climate risks that we and our clients face. Citi’s ESRM Policy covers a broader set of financial products and scope than the Equator Principles, and we evaluate relevant climate risk factors in other transactions with identified use of proceeds that fall outside of the scope of the Equator Principles.
+Citi’s ESRM Policy includes sector standards for carbon-intensive sectors such as thermal coal mining, coal-fired power, forestry, oil and gas, and palm oil that have a greater impact on climate change. Clients in carbon-intensive sectors covered by our sector standards face additional due diligence to understand their contribution to climate change and exposure and vulnerability to climate-related risks, which can lead to both credit challenges for our clients and both credit and reputational risks for Citi. These ESRM sector standards include restrictions on project-level financing to high-carbon sectors. Citi will not provide new project-related financial services or products supporting the construction or expansion of coal-fired power plants, thermal coal mines, or Arctic oil and gas projects, including equipment finance and refinancing of projects that started operations after 2018. In addition, Citi has set targets to phase out our financing of mining companies deriving ≥25% of their revenue from thermal coal mining: • By the end of 2025, we will reduce our credit exposure to these companies by 50% from a 2020 baseline;
+
+
+42 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT • After 2025, we will no longer facilitate capital markets transactions or mergers and acquisition advisory and financing for these companies; and • By the end of 2030, all remaining exposure to these companies will be reduced to zero.
+This strengthens our 2015 commitment to reduce credit exposure to coal mining companies (at the time focused on those with 50% revenues from coal) and our 2009 enhanced due diligence requirements for companies using mountaintop removal coal mining.
+Responsibilities for implementing the ESRM Policy are shared across Risk and Banking. Training, which includes climate risk topics, is provided to relevant bankers and risk managers to support the implementation of the policy.
+With the increased importance and focus on climate risk management, Citi is working towards further incorporating climate risk considerations into its credit assessment processes. Citi continues to strengthen our ESRM Policy and is currently developing more comprehensive internal sector-specific guidance to evaluate qualitative considerations of the climate risks of high risk sectors for integration into the broader credit risk analysis of clients. As climate data becomes more accessible and reliable, and as the industry and Citi develop better methodological approaches, we expect to integrate more quantitative analysis of climate risks in the future.
+A public summary of Citi’s ESRM Policy can be found in our Environmental and Social Policy Framework.
+Operational Risk. 
+Climate change can affect Citi’s facilities, operations, and employees. The scientific consensus is that climate changes due to a warming climate may result in more frequent and severe acute weather events. These physical impacts of climate change do lead to damages to Citi’s facilities and result in financial impacts and business disruptions, as described in detail in the Operational Risk Management scenario analysis on pages 25-26. Even if events do not impact Citi’s facilities directly, they may affect our employees and the infrastructure — such as power and data centers — that we rely on to operate. In addition, chronic changes, such as sea level rise and extreme temperatures, may also impact our operations. Because Citi operates in nearly 100 countries, our facilities could be exposed to a range of risks that vary based on the location of each facility.
+Citi incorporates the results of our scenario analyses into our risk management process to help us plan, prepare, and respond to potential disruptions. A number of teams across Citi, from our Realty Services team to our Crisis Management and Business Continuity teams, help us to monitor, prepare for, and respond to a range of issues — including extreme weather events — that could affect our facilities and employees and disrupt our operations. We have increased our resiliency to safeguard our facilities and reduce the risks of physical damage. Citi Realty Services has implemented a range of climate adaptation solutions in a number of critical facilities. Citi’s Security team monitors extreme weather events that can impact Citi’s operations. Citi’s Crisis Management team has developed action plans to address immediate risks and support our employees and customers before, during, and after adverse events. Our Business
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 43. 
+Continuity team also has plans in place to help Citi resume business operations as quickly as possible in the aftermath of an extreme climate event to minimize operational disruptions.
+To reduce Citi’s operational impacts on the climate, a dedicated sustainability team within Citi Realty Services develops and executes on Citi’s environmental footprint goals. We continue to work to reduce our emissions and resource intensity, and transparently report on our progress. See the Metrics & Targets section for more information on our goals.
+Quantifying & Monitoring Climate-Related Risks. 
+Citi has joined and helped pilot several frameworks and methodologies to assess climate-related impacts and risks, and provide the foundation and quantitative data from which we can evaluate and select portfolio decarbonization pathways and monitor our progress towards established goals. The initiatives highlighted below complement the climate scenario analyses that we have conducted and discussed in the Scenario Analysis section in Part 3.
+Paris Agreement Capital Transition Assessment. 
+The Paris Agreement Capital Transition Assessment (PACTA) is a methodology developed by the 2° Investing Initiative (2DII) to help investors analyze the extent to which corporate capital expenditures and industrial assets behind financial instruments and portfolios in emissions-intensive industries are aligned with various climate scenarios. Citi is one of 17 banks involved in the PACTA pilot to adapt the tool, developed originally for equity and fixed income portfolios, for banks’ lending activities. We are roadtesting PACTA as a tool for determining where there are gaps in the alignment of our loan portfolios for certain carbon-intensive sectors with the Paris Agreement objectives, which will help us to manage both our climate risk and climate impact.
+Methodology. 
+Unlike other methodologies that Citi has piloted, which focus on the credit ratings impacts and potential losses arising from climate risks and were described in the Scenario Analysis section in Part 3. PACTA provides banks with an assessment of the climate alignment over the next five years at the company and portfolio level based on: 1. For sectors that have a clear decarbonization pathway, like oil and gas, power, and automotives: a company’s technology/fuel mix and production volume trajectory by technology/fuel for sectors that have a clear technology decarbonization pathway; or 2. For sectors that do not have a clear decarbonization pathway, like steel and cement: a company’s emissions intensity.
+
+
+44 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+In each of the covered sectors, which account for approximately 75% of global CO2 emissions, the methodology focuses on the most carbon-intensive portion of the value chain: *Citi’s analysis excluded Aviation and Shipping since the methodologies for these sectors are still under development and refinement. PACTA is in the process of updating its shipping methodology to align with the Poseidon Principles. Citi is a signatory of the Poseidon Principles and more information about these principles can be found on pages 45-46 of this report.
+PACTA matches companies in the bank’s loan portfolio to asset-level data to identify: (1) the exposure of the bank’s loan portfolio to certain climate-relevant technologies, and (2) the emissions intensity of that exposure. For example, for companies in the power generation sector, PACTA breaks down generation assets by technology type including coal-fired, gas-fired, hydroelectric, or another type of generation.
+Scenario alignment results can be calculated in two ways: at the client level, showing an unweighted view of the impact the client is having in the real economy; and at the portfolio level, illustrating the bank’s relative “contribution” or “share” of impacts at the portfolio level or the client’s impact in the real economy. Forwardlooking business intelligence data provides banks with a view of the portfolio’s alignment and shift over a fiveyear horizon, driven by the inputs of four International Energy Agency (IEA) climate scenarios, although PACTA works with any climate scenario. More information on the PACTA methodology for banks is available online.
+The PACTA methodology is still a work in progress, and feedback from the pilot was used to refine the methodology. 2DII is planning future enhancements to PACTA, including the addition of heavy-duty vehicles as part of the automotive sector, as well as the addition of the aviation and shipping sectors.
+Upstream Midstream Downstream. 
+Mining Separation and Preparation Storage Trade. 
+Suppliers, contractors. 
+Car manufacturers. 
+Parts distributors and dealerships Workshops. 
+Limestone quarrying Construction industry Concretes Manufacturing. 
+Aircraft manufacturer Parts supplier Operator Owner. 
+Iron ore mining End products Manufacturing. 
+Ship manufacturing. 
+Ship owners & operators Suppliers. 
+Oil & Gas. 
+Coal. 
+Power. 
+Automotive. 
+Steel. 
+Cement. 
+Shipping*
+Aviation*
+Generation Transformation Transmission Distribution
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 45. 
+Citi is currently undertaking our PACTA analysis and plans to share the results in future disclosures.
+Partnership for Carbon Accounting Financials. 
+The Partnership for Carbon Accounting Financials (PCAF) is an open collaboration of banks working to develop a Global Carbon Accounting Standard for how financial institutions measure and disclose Scope 3 “financed emissions,” or the underlying GHG emissions generated by the operations and entities in which a financial institution invests or to which it lends money. The standard is aimed at reducing inconsistencies in carbon accounting methods, fairly allocating the emissions of companies to financial institutions based on their share of the financing, and helping the financial sector facilitate a transition to decarbonization in line with a 1.5°C increase in global mean temperature from pre-industrial levels.
+PCAF’s standard provides methodological guidance for different asset classes. For example, for business loans, emissions are allocated to a financial institution based on the outstanding loans it provides to a company as a percentage of the company’s enterprise value including cash. A company’s emissions can be derived from public reporting or estimated based on physical or economic activity data, in line with the principles of the GHG Protocol.
+As announced in July 2020, Citi has joined PCAF and will collaborate with peers and contribute to the development of PCAF’s standard for various financial asset classes. We plan to pilot the standard on our loan portfolios to measure our Scope 3 financed emissions.
+We are currently evaluating data sources for key sectors under PCAF. As a first step in gathering emissions data, we are working with S&P Trucost to analyze the Scope 1 and Scope 2 emissions of a sample of approximately 200 public, private, and government-owned energy companies. The analysis will leverage publicly reported emissions data where available, and estimations when reported data is unavailable. We will be relying on S&P Trucost’s environmental register, which covers 15,000+ listed companies, environmentally-extended input output models, and financial data from S&P’s Capital IQ database.
+Poseidon Principles. 
+The Poseidon Principles establish a global framework for assessing and disclosing the climate alignment of ship finance portfolios, consistent with the policies and ambitions of the International Maritime Organization (IMO) to reduce GHG emissions from the shipping sector by at least 50% (compared to 2008) by 2050. Signatories must annually calculate the average CO2 emissions of all vessels in which they hold an ownership or security interest and compare those against annual emissions targets tied to the IMO’s 2050 GHG emissions reduction goals. Signatories must also annually report on the overall “climate alignment” of its shipping portfolio with that year’s target.
+Citi played a leading role in the drafting of the Poseidon Principles, served as chair of the drafting committee, and became a founding signatory of the framework in 2019. Citi also currently chairs the. 
+Outstanding Amount. 
+Company Value. 
+X Company’s Emissions = Bank’s Emission Share
+
+
+46 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Steering Committee of the Poseidon Principles Association, the governing body of the Poseidon Principles.
+Methodology. 
+The climate alignment calculation measures the degree to which the carbon intensity of our shipping portfolio is in line with a decarbonization trajectory that meets the IMO’s goal of reducing the total annual GHG emissions of the shipping sector by at least 50% from 2008 levels by 2050.
+To calculate portfolio climate alignment, Citi utilized the Average Efficiency Ratio (AER) methodology to calculate the vessel carbon intensity and climate alignment of each ship in our portfolio. AER is derived based on the fuel consumption and carbon emissions factor of the fuel type, an approximation of the total annual distance traveled by each ship, the weight of the cargo carried, and the design deadweight of the ship. We compared the vessel’s carbon intensity to the required decarbonization value at the same point in time to get a climate alignment score. A positive alignment score indicates a vessel is misaligned (above the decarbonization trajectory), whereas a zero or negative score indicates a vessel is aligned (on or below the decarbonization trajectory). By taking the weighted average of the climate alignment scores using the debt outstanding of each vessel in the portfolio, we arrive at a portfolio climate alignment score.
+More information on the methodology for measuring the climate alignment of emissions for vessels and the shipping portfolio is detailed in the Poseidon Principles technical guidance. Our annual reporting under the Poseidon Principles can be found in the Metrics & Targets section in Part 5.
+Next Steps. 
+While the above examples are a meaningful start, we are continuing to refine the methodologies that we use for assessing climate-related risks across the various geographies and sectors in which we do business. We are aware of climate change’s increasing impacts and are working with climate experts, public and multilateral financial institutions, and policymakers through UNEP FI to collectively promote and achieve the transition to a low-carbon economy.
+Following Citi’s successful pilots of both long-term and short-term climate scenario analyses, and our recent adoption of the PACTA and PCAF methodologies, we continue to evaluate the fitness of each approach for achieving our climate risk management objectives. In the short term, to further advance our climate risk management efforts, we are developing sector-specific guidance to identify the key climate risk factors in high climate risk sectors and gather the most relevant climate risk data points from clients in that sector to inform our credit assessment process.
+In the coming months and years, we will continue analyzing the relevant sectors of our loan portfolio using methodologies such as PACTA and PCAF to understand how these tools can be further refined and implemented more broadly across our portfolios to support the continued development of our climate strategy. The more sophisticated these tools and methodologies become and the more accurate and comprehensive the data that is available to support these types of analyses, the more we expect the results of these analyses to become fundamental to Citi’s risk management strategy.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 47. 
+Citi has a long history of measuring and disclosing environmental and climate-related metrics. We have been measuring our environmental footprint for 20 years, began reporting our direct operational impacts in 2002, and have disclosed climate-related metrics and targets for our operations and environmental financing for well over a decade. We use such metrics and targets to help guide the implementation of our Sustainable Progress Strategy and climate-related commitments, and to monitor our progress toward such goals. Ultimately, our goal is to have sufficiently robust data and analytical assessments to prepare us to begin aligning our business with the scientific consensus on what is necessary to prevent global temperature rise to well below 2°C above pre-industrial levels, as outlined in various initiatives in which we participate. In the following pages, we summarize the operating and financial information we have collected to date to guide our progress towards this goal and towards our operational and financing goals we had set for completion by 2020.
+Risk Exposure. 
+Citi has completed a preliminary assessment of which sectors are exposed to higher levels of climate risk. Using our internal risk industry classifications and based on data and internal expert insights, we identified sectors and subsectors that face high physical and transition risk. Results of our initial analysis are provided in the table on pages 49-50. We understand that there is differentiation between companies in the same sector, as the climate-related risks faced by individual companies may vary according to their geographic location and nature of their activities and assets. However, heat mapping allows us to quickly screen our portfolio to identify the areas of the portfolio with the highest exposure to transition and physical risks so we can focus on further assessing, managing, and mitigating these risks.
+For transition risk, the heat map is based on the degree to which sectors and subsectors are exposed to policy, technology and/or market shifts in the short to medium term due to: • The emissions intensity of their products; • The carbon and energy intensity of their operations; • The availability of low-carbon substitutes or technologies; • The concentration of clients exposed to transition risks; and/or • The likelihood of or existence of climate-related policies.
+Metrics & Targets. 
+PART 5
+
+
+48 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+For physical risk, the heat map is based on the degree to which sectors and subsectors are exposed to the impacts of extreme weather events or changes to weather patterns because: • Their operations, productivity, or output is dependent on weather and/or water availability; • Their revenue or value is affected by exposure to climate hazards; • Their supply chain is vulnerable to weather-related disruptions; and/or • They predominately would bear the costs of climate-related damages or rebuilding.
+Citi drew upon information from a number of external sources including Moody’s, UNEP FI, the World Resources Institute, the International Energy Agency, 2° Investing Initiative, and the U.S. Energy Information Administration to help develop this framework.
+Looking at the subsector level allowed us to further distinguish between the levels of risk within a sector. For example, within the power sector, which is in general highly exposed to transition risks, the alternative energy and water utilities subsectors have lower exposure to transition risk.
+Additionally, we are determining whether additional criteria can help us differentiate between clients within sectors and subsectors, as we continue to build on and refine our heat map. We also strive to supplement our understanding of climate-exposed sectors with company-level analysis, such as our road testing of the PACTA tool, to understand the vulnerabilities of companies within a sector to climate-related risks and to differentiate between those who are more resilient and able to weather or overcome such risks. We expect this will be an iterative process as data availability and market practices and standards improve.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 49. 
+CLIMATE RISK HEAT MAP AND CREDIT EXPOSURE 2018 2019 2020. 
+Climate Risk as of September 30, 2020 $ in Millions. 
+Total $ Amount. 
+Total $ Amount. 
+Total $ Amount % of Total. 
+Exposure Funded % of. 
+Funded. 
+Exposure. 
+Transition. 
+Risk. 
+Physical. 
+Risk. 
+Energy & Commodities1 49,698 53,317 51,035 6.6% 16,244 4.7%
+Integrated Oil & Gas 13,513 12,883 13,886 1.8% 3,797 1.1% High Moderate. 
+Oil & Gas Exploration & Production 12,803 15,682 14,228 1.8% 4,950 1.4% High Moderate. 
+Oil & Gas Storage & Transportation 7,005 6,967 7,273 0.9% 1,856 0.5% High Moderate. 
+Oil & Gas Refining & Marketing 9,255 9,611 7,409 1.0% 2,988 0.9% High Moderate. 
+Oil & Gas Equipment, Services, and Drilling 4,361 5,562 5,285 0.7% 1,156 0.3% High Low. 
+Other 2,762 2,611 2,954 0.4% 1,498 0.4% High Moderate. 
+Power 27,200 34,349 28,408 3.7% 6,665 1.9%
+Alternative Energy 1,595 2,052 2,621 0.3% 1,065 0.3% Low Moderate. 
+Electric Utilities 7,655 13,056 6,744 0.9% 2,521 0.7% High Moderate. 
+Gas Utilities 1,745 1,667 1,554 0.2% 704 0.2% High Moderate. 
+Independent Power Producers & Service Operators 2,872 2,679 3,446 0.4% 609 0.2% High Moderate. 
+Multi-Utilities 11,265 12,942 11,767 1.5% 1,352 0.4% High Moderate. 
+Other 2,068 1,952 2,275 0.3% 414 0.1% Low Moderate. 
+Transportation 74,583 78,588 79,863 10.3% 39,911 11.6%
+Autos 48,175 48,604 51,039 6.6% 24,191 7.0% High Low. 
+Automobile Manufacturers 16,421 15,355 16,429 2.1% 7,689 2.2% High Low. 
+Auto Parts & Equipment 2,107 2,544 10,405 1.3% 4,493 1.3% High Low. 
+Auto-Related Financing, Leasing, and Rentals 18,528 17,899 19,947 2.6% 9,900 2.9% Low Low. 
+Other 11,119 12,806 4,258 0.6% 2,110 0.6% Low Low. 
+Aviation 9,726 11,558 10,934 1.4% 6,104 1.8% High Moderate. 
+Shipping & Maritime Logistics 10,384 10,583 10,848 1.4% 7,379 2.1% High Moderate. 
+Logistics 6,297 7,842 7,043 0.9% 2,237 0.7% Moderate / High. 
+Moderate. 
+Industrials 58,974 68,055 67,072 8.7% 22,968 6.7%
+Building Products & Related 8,072 8,885 8,380 1.1% 2,756 0.8% High Moderate / Low. 
+Capital Goods 39,432 44,321 43,988 5.7% 13,613 4.0% Moderate / Low. 
+Moderate / Low. 
+Paper Forest Products & Packaging 6,858 7,288 6,848 0.9% 3,587 1.0% Moderate High. 
+Professional Services 4,612 7,561 7,856 1.0% 3,013 0.9% Low Low 
+continued on next page
+
+
+50 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT 2018 2019 2020. 
+Climate Risk as of September 30, 2020 $ in Millions. 
+Total $ Amount. 
+Total $ Amount. 
+Total $ Amount % of Total. 
+Exposure Funded % of. 
+Funded. 
+Exposure. 
+Transition. 
+Risk. 
+Physical. 
+Risk. 
+Metals & Mining 16,540 15,891 13,476 1.7% 6,158 1.8%
+Energy Minerals2 967 822 765 0.1% 199 0.1% High Moderate. 
+Iron, Steel & Aluminum 9,415 8,935 6,715 0.9% 3,708 1.1% High Moderate. 
+Other 6,158 6,134 5,996 0.8% 2,250 0.7% Low Moderate. 
+Chemicals 20,295 23,721 22,883 3.0% 8,124 2.4% High Moderate. 
+Cons Retail & Health 95,607 116,346 112,915 14.6% 43,015 12.5%
+Food Beverage & Tobacco 31,998 36,060 33,403 4.3% 15,487 4.5% Moderate High. 
+Other 63,609 80,286 79,511 10.3% 27,529 8.0% Low Low. 
+Real Estate 50,883 55,518 62,489 8.1% 42,197 12.3% Moderate High. 
+Financial Institutions3 78,376 94,789 86,172 11.1% 35,750 10.4% Moderate Moderate / Low. 
+Insurance 26,020 24,305 25,990 3.4% 2,208 0.6%
+Property & Casualty Insurance 5,607 5,429 6,430 0.8% 1,050 0.3% Moderate High. 
+Reinsurance 6,369 6,093 5,874 0.8% 64 0.0% Moderate High. 
+Other 14,045 12,784 13,686 1.8% 1,093 0.3% Moderate Low. 
+Private Bank 85,392 102,463 107,351 13.9% 70,030 20.4% Low Moderate / Low. 
+Public Sector4 30,327 27,194 26,267 3.4% 13,723 4.0% Moderate Moderate. 
+Tech, Media & Telecom 81,817 83,199 79,659 10.3% 31,136 9.1% Low Low. 
+Other Industries 17,777 16,842 10,477 1.4% 5,561 1.6% Low Low. 
+Total 713,490 794,576 774,057 100.0% 343,690 100.0% 1. In addition to this exposure, Citi has energy-related exposure within the public sector (e.g., energy-related state-owned entities) and transportation sector (e.g., offshore drilling under Shipping & Maritime Logistics). Citi’s total exposure to these energy-related sectors is approximately $5.2 billion, of which approximately $3.1 billion consisted of direct outstanding funded loans, as of December 31, 2018. As of September 30, 2020, this exposure remained largely consistent with December 31, 2019 at approximately $5.5 billion, of which $3.2 billion is funded.
+2. Based on Citi’s Risk Industry Classification, which differs from how Citi defines thermal coal mining companies under its ESRM Policy. Additional reporting on our thermal coal mining exposure is provided on the next page of this report.
+3. Includes Banks, Finance Companies, Securities Firms, Asset Managers and Funds, and Financial Markets Infrastructure.
+4. Certain countries may see high transition and physical risks based on commodities exposure and geographic location. Based on our climate risk heat map, approximately 23% of our total exposure and 20% of our funded exposure are categorized as facing high transition risk while 15% of our total exposure and 18% of our funded exposure are categorized as facing high physical risk as of September 30, 2020. This includes energy-related exposure within the public sector and transportation sector.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 51. 
+Thermal Coal Mining. 
+In 2020, Citi made a commitment to not provide project-related financing for new thermal coal mines or significant expansion of existing mines. We defined “thermal coal mining company” to include any mining company deriving ≥25% of their revenue from thermal coal mining, and set targets to phase out our financing to these companies: • By the end of 2025, we will reduce our credit exposure to these companies by 50% from a 2020 baseline; • After 2025, we will no longer facilitate capital markets transactions or mergers and acquisition advisory and financing for these companies; • By the end of 2030, all remaining exposure to these companies will be reduced to zero.
+Our definition of thermal coal mining is more targeted than the criteria that defines the Energy Minerals sub-sector in Citi’s Risk Industry Classification, which, in addition to thermal coal, also includes metallurgic coal and coke making companies and does not capture all companies that have ≥25% of revenues from thermal coal mining, which in some instances are classified under other sectors in the Risk Industry Classification. This policy strengthens our 2015 commitment to reduce credit exposure to coal mining companies (at the time focused on those with ≥50% revenues from coal) and our 2009 enhanced due diligence requirements for companies using mountaintop removal coal mining.
+Our exposure, as of December 11, 2020, to companies deriving ≥25% of their revenue from thermal coal mining, based on the total amount of credit facilities approved for utilization, is approximately $1,175 million. This measurement is used for purposes of the policy as it captures any potential credit exposure that has been already approved by Independent Risk and helps us better plan while providing flexibility for managing client relationships over a multi-year period. We will report our progress towards reducing exposure to these companies from our 2020 base year annually going forward in our annual ESG Report.
+
+
+52 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Environmental Finance Targets. 
+The transition to a low-carbon economy will require a significant increase in environmental finance from financial institutions like Citi. Our position as the world’s most global bank presents us with the opportunity to support clients in all sectors of the economy through the low-carbon transition.
+In 2019, Citi completed its $100 Billion Environmental Finance Goal more than four years ahead of schedule. In July 2020, Citi announced its 2025 Sustainable Progress Strategy and an associated five-year goal of $250 billion for environmental finance to accelerate the transition to a low-carbon economy. For projects to qualify towards our $250 Billion Environmental Finance Goal, they must meet certain environmental criteria and avoid certain exclusionary specifications. These criteria incorporate elements of emerging frameworks, such as the European Union’s Sustainable Finance Taxonomy. For example, projects may qualify if they support renewable energy development, zero- or low-emission vehicles, energy efficiency, or the construction or renovation of certified buildings for increased efficiency or lower emissions, among other goals. No fossil fuel projects, including natural gas and gas-to-liquid projects, as well as refined or alternative coal technologies, will count towards this goal.
+$100 BILLION ENVIRONMENTAL FINANCE GOAL ($ IN BILLIONS)
+Environmental Criteria 2014 2015 2016 2017 2018 2019 Total $ Total %
+Renewables Solar Wind Mixed Renewables 4.9 0.8 3.0 1.1 11.6 2.1 7.9 1.6 9.6 0.6 8.6 0.4 10.9 4.9 4.4 1.6 24.3 1.6 7.4 15.3 60.8 1.5 1.1 58.1 122.1 11.5 32.5 78.1 74% 7% 20% 48%
+Energy Efficiency 0.1 0.3 0.3 0.1 0.0 0.4 1.3 1%
+Green Building 0.4 0.6 0.7 0.3 2.2 0.4 4.6 3%
+Sustainable Transportation 0.5 1.8 1.6 1.2 1.6 1.7 8.4 5%
+Water Quality and Conservation 0.4 1.2 2.8 1.4 5.3 2.0 13.1 8%
+Clean Technology 0.1 0.1 0.1 0.0 0.0 0.0 0.4 0%
+Multiple Criteria 1.1 1.4 0.5 2.9 5.1 3.2 14.2 9%
+Total 7.5 16.9 15.6 16.9 38.6 68.6 164.0 100%
+For more information on our $100 Billion Environmental Finance Goal, including a breakdown by region and business, please see the Environmental Finance section of our 2019 Global ESG Report. For more information on our new $250 Billion Environmental Finance Goal, please see our website. We will report our first year of progress under this new goal in our upcoming 2020 Global ESG Report, which we expect to publish in April 2021.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 53. 
+Operations. 
+With close to 7,700 properties in 95 countries, Citi recognizes that our own operations can have direct climate-related and environmental impacts, and we continue to measure, manage, and reduce our footprint through the setting and tracking of operational goals.
+Citi is committed to decarbonizing our operations in line with the Paris Agreement target and has used rigorous climate science-based methodologies in setting our GHG emissions reduction goals. As such, for each iteration of our goals, we adjust our baseline in accordance with the best practices set by climate science, and strive to set ambitious thresholds to further motivate our efforts.
+Numerous interdependencies among our individual targets help contribute to our overall carbon-reduction strategy. For example, targets for reduced energy consumption foster energy efficiency in the design of new facilities and steer capital expenditures towards retrofits of existing facilities. For our real estate portfolio certification goals, sustainable building standards provide the guidance for achieving these energy efficient designs and encourage the use of renewable energy where possible. Our renewable electricity target, in turn, supports a shift from carbon-intensive, fossil fuel-based energy towards clean alternatives.
+In addition to climate-related targets, our targets pertaining to waste and water help reduce our environmental impacts on natural resources. Progress towards our 2020 Environmental Impact Goals and the new goals under our 2025 Sustainable Progress Strategy are discussed in further detail below.
+2020 Environmental Impact Goals. 
+Citi is finalizing our progress towards our 2020 Environmental Impact Goals, which include several climaterelated goals. We report on progress against these goals, and our emissions, in our annual ESG Report.
+*As of year-end 2019. Reduction targets are based on a 2005 baseline. Final 2020 numbers will be reported in our 2020 Global ESG Report.
+ENVIRONMENTAL IMPACT REPORT: PROGRESS AGAINST 2020 GOALS* 100% 86% (on track to meet goal by end of 2020)
+PROGRESS 30% 35%
+PROGRESS use of renewable electricity for facilities globally reduction in energy consumption (compared with 2005 baseline) 30% 35%
+PROGRESS 33% 27% (on track to meet goal by end of 2020)
+PROGRESS 60% 63%
+PROGRESS 10% 6%
+PROGRESS of global real estate portfolio. 
+LEED- certified diversion rate of waste to landfill (compared with 2005 baseline) of water used coming from reclaimed or recycled sources reduction in water consumption (compared with 2005 baseline)
+
+
+54 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Citi has already achieved several goals ahead of schedule, and has made considerable progress towards others. To further signal our commitment towards Paris Agreement-aligned decarbonization, in 2017, we supplemented our renewable electricity goal by joining RE100, a global initiative to have the world’s most influential companies commit to 100% renewable electricity.
+With the recognition that buildings play a strong role in decarbonization efforts, we have included sustainable building certifications in our goals. As a part of our effort to certify a portion of our global real estate portfolio, in 2020, we achieved LEED Platinum certification — the highest LEED tier — for our global headquarters in New York City.
+Water stress is a growing risk due to climate change. While our focus on water has enabled us to surpass our 2020 goal for total water use reduction, our goal to use reclaimed or recycled water for at least 10 percent of our water consumption was established as a new area of work and has proven more challenging. However, we are continuing to move forward in this area and are working to identify more places where the use of reclaimed or recycled water is a viable option. This is particularly important, as we are aware of the role climate can play in exacerbating water security concerns. We plan to continue improving our operational performance moving forward.
+2025 Sustainable Progress Strategy – Operational Goals. 
+Citi’s new 2025 Sustainable Progress Strategy includes a new set of operational goals to be met by 2025. As part of our 2025 operational goals, we adjusted our baseline from 2005 to 2010 to align with the baseline commonly used in climate science models.
+2025 OPERATIONAL FOOTPRINT GOALS (MEASURED AGAINST A 2010 BASELINE) 45% reduction in location-based GHG emissions. 
+GHG. 
+EMISSIONS 40% reduction in energy consumption and maintain 100% renewable electricity sourcing. 
+ENERGY 50% 40% reduction in total waste and 50% of waste diverted from landfill of floor area to be LEED, WELL or equivalent certified, with a focus on Citi- owned buildings to operate at the highest level of sustainability. 
+WATER. 
+WASTE. 
+SUSTAINABLE. 
+BUILDINGS 30% reduction in total water consumption and 25% of water consumed to come from reclaimed/ reused sources
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 55. 
+Emissions Metrics & Targets. 
+Citi reports on Scope 1, Scope 2, and a portion of our Scope 3 GHG emissions in our annual ESG Report. We continue to follow the GHG Protocol Corporate Standard and Scope 2 Guidance for measuring and reporting both market-based and location-based Scope 1 and Scope 2 GHG emissions. Currently, Scope 3 emissions reporting is limited to emissions from business air and train travel, paper, and information technology (IT) (our three largest supply chain categories), employee commuting and, fuel and energyrelated emissions.
+Currently, when we provide project financing for a fossil fuel power plant, we also report the emissions of the plant over a 30- and 60-year period. We did not project finance any fossil fuel power plants in 2019. We plan to provide more complete disclosures on financed emissions using PCAF’s Global Carbon Accounting Standard, which we will begin to test and implement shortly. We will also continue to evaluate the best manner in which to determine our total GHG emissions, and we plan to report on measures that provide more nuanced insight into our alignment with a 1.5–2°C trajectory as such measures become more fully developed.
+2019 OPERATIONAL FOOTPRINT *Includes upstream emissions of purchased fuels, electricity, steam, heating & cooling, and transportation and distribution losses.
+Energy (GWh)
+Scope 1 — Energy Consumed 103. 
+Natural Gas 71. 
+Fuel Oil 32. 
+Scope 2 — Energy Purchased 1,356. 
+Electricity 1,311. 
+District Heating (Steam & Chilled Water) 46. 
+Total Energy 1,459. 
+CO2e Emissions (mt)
+Scope 1 & 2 — Emissions 616,900. 
+Scope 1 Emissions (Gas & Fuel Oil) 23,289. 
+Scope 2 Emissions (Electricity, Steam & Chilled Water) 593,611. 
+Scope 3 — Emissions 747,913. 
+Category 1 — Purchased Goods and Services: Globally Purchased Paper 3,058. 
+Category 2 — Capital Goods: IT Equipment 365,372. 
+Category 3 — Fuel and Energy-Related Activities* 170,626. 
+Category 6 — Business Travel: Total 126,229. 
+Category 6 — Business Travel: Air 126,055. 
+Category 6 — Business Travel: Train 174. 
+Category 7 — Employee Commuting 82,628. 
+Total Emissions 1,364,813
+
+
+56 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Performance Under Poseidon Principles. 
+As discussed earlier in this report, Citi is a participant in many initiatives designed to improve the sustainability of the financial sector and the planet at large. While several of the frameworks have only recently been developed, we have either begun, or plan to start reporting on our progress under these initiatives as part of our long-standing commitment to sustainability. For example, Citi’s 2020 ESG Report is expected to include reporting in accordance with the SASB Standards, and our progress towards implementation of the UN Principles for Responsible Banking.
+In compliance with its annual reporting obligations under the Poseidon Principles, Citi has delivered its inaugural Poseidon Principles disclosure to the Secretariat, which is published on the Poseidon Principles website.
+Our portfolio alignment score was broadly in line with our expectations. Based on the client emissions data for 2019, our portfolio is +6%, which is slightly out of alignment. However, using an estimated alignment of our portfolio based on the University Maritime Advisory Services (UMAS) Fuel Use Statistics and Emissions (FUSE) model, which uses the same methodology as the Fourth IMO GHG Study, the portfolio alignment score would be -0.6%, implying that the portfolio is in line with the Poseidon Principles decarbonization trajectories. When compared to the 2018 global fleet average AER for comparable ship type and size categories in the Fourth IMO GHG Study, the AER of Citi’s ships (in 2019) were 8% lower.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 57. 
+Citi remains committed to the integration of climate risk assessment throughout our business. Only by mainstreaming the consideration of climate risks will we be able to truly recognize and manage the risks and opportunities posed by climate change and the policy, technological, and market responses to it. Citi has made significant strides in its governance of climate risk, but we recognize that more needs to be done to make climate risk a fundamental consideration across our business.
+In the future, we expect to continue, among other efforts: • Expanding our governance and oversight capacity and cross-departmental collaboration on climate issues; • Testing and implementing methodologies to measure, manage, and reduce the climate risk associated with our client portfolios; • Improving the distribution and integration of climate risk management tools and continuing to evaluate and adjust the climate risk management process; and • Identifying and reporting on performance against key metrics and targets of our established goals.
+As described above, Citi continues to find value in participating in a variety of pilot projects and assessments to evaluate climate risk from a variety of angles. We will continue to seek out opportunities in this space and participate in future pilot projects, as appropriate. Citi remains committed to sharing the results of this work in an accessible, transparent way.
+In the coming year, Citi expects to focus most of our efforts in the climate space on advancing towards the goals of our 2025 Sustainable Progress Strategy. Of particular note, Citi will continue its work to integrate climate risk into its risk management processes and to focus its efforts on implementing the PCAF methodology to quantify our financed emissions.
+Looking Forward. 
+PART 6
+
+
+58 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT. 
+Forward-Looking Statements. 
+The disclosures included in this report are being provided to the public in an effort to satisfy TCFD reporting obligations, to respond to investor requests, and to further enhance our collective understanding of how climate risk translates into financial risk. Our approaches to the disclosures included in this report are different from those included in mandatory regulatory reporting, including under SEC regulations.
+Certain statements in this report may contain “forward-looking statements.” These statements speak only as of the date they are originally made and are based on management’s current expectations and are subject to known and unknown risks, uncertainties, changes in circumstances, and assumptions that are difficult to predict and are often beyond our control. These statements are not guarantees of future results, occurrences, or performance. Actual results and financial outcomes may differ materially from those expressed in or implied by any of these forward-looking statements due to a variety of factors, including, among others, global socio-demographic and economic trends, energy prices, technological innovations, climate-related conditions and weather events, legislative and regulatory changes, and other unforeseen events or conditions. You should not place undue reliance on any forward-looking statement. Factors that could cause actual results to differ materially from those described in forward-looking statements can be found in this report, in Citi’s filings with the SEC, and disclosures available on our corporate website. Citi does not undertake to update forward-looking statements to reflect the impact of circumstances or events that arise after the date the forward-looking statements were made.
+This report contains statements based on hypothetical or severely adverse scenarios and assumptions, and these statements should not necessarily be viewed as being representative of current or actual risk or forecasts of expected risk. While future events discussed in this report may be significant, any significance should not be read as necessarily rising to the level of materiality of the disclosures required under U.S. federal securities laws.
+
+
+FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT | 59. 
+References. 
+References Available Location. 
+Annual ESG Report (formerly Global Citizenship Report) https://www.citigroup.com/citi/about/esg/downloads.html. 
+Environmental and Social Policy Framework https://www.citigroup.com/citi/sustainability/data/Environmental-and-SocialPolicy-Framework.pdf 2025 Sustainable Progress Strategy https://www.citigroup.com/citi/sustainability/ https://www.citigroup.com/citi/sustainability/data/2025-Sustainable-ProgressStrategy-One-Pager.pdf. 
+Nomination, Governance, and Public Affairs Committee Charter https://www.citigroup.com/citi/investor/data/nomcharter.pdf. 
+Risk Management Committee Charter https://www.citigroup.com/citi/investor/data/riskmanagementcharter.pdf. 
+SEC Filings https://www.citigroup.com/citi/investor/sec.htm#Citigroup-Inc. 
+Annual Report and Proxy https://www.citigroup.com/citi/investor/annual-reports.html. 
+Annex. 
+PART 7
+
+
+60 | FINANCE FOR A CLIMATE-RESILIENT FUTURE II: CITI’S 2020 TCFD REPORT

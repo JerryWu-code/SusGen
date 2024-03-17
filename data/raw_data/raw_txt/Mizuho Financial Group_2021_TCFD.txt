@@ -1,0 +1,386 @@
+TC port 2020. 
+Mizuho Financial Group. 
+FD re
+
+
+1. 
+Table of contents 1. Introduction ............................................................................................................... 3 1.1. TCFD Recommendations and status of response at Mizuho .................................... 4 1.2. About Mizuho Financial Group .................................................................................. 7 1.3. Our initiatives thus far ............................................................................................... 7 2. Corporate governance ............................................................................................ 10 2.1. Corporate governance related to climate change ................................................... 10 2.1.1. Oversight ................................................................................................................ 10 2.1.2. Business execution line .......................................................................................... 11 3. Strategy .................................................................................................................. 13 3.1. Approach to climate change and positioning .......................................................... 13 3.2. Opportunities created for the Mizuho group by climate change .............................. 14 3.3. Risks posed to the Mizuho group by climate change .............................................. 17 3.4. Scenario analysis .................................................................................................... 17 3.4.1. Approach to scenario analysis ................................................................................ 18 3.4.2. Qualitative evaluation of climate change risks and credit exposure in carbon-related sectors .................................................................................................................... 18 3.4.3. Sectors selected for scenario analysis .................................................................... 19 3.4.4. Implementation of transition risk scenario analysis ................................................. 19 3.4.5. Implementation of physical risk scenario analysis .................................................. 22 4. Risk management ................................................................................................... 23 4.1. Management of top risks ......................................................................................... 23 4.2. Integration of climate change risks into comprehensive risk management ............. 24 4.3. Review of our climate change policies .................................................................... 25 4.3.1. Enhanced implementation based on our Environmental and Social Management Policy for Financing and Investment Activity (previously titled the Policies on Specific Industrial Sectors) ................................................................................................... 25 4.3.2. Implementation based on the Equator Principles .................................................... 29 5. Metrics and targets ................................................................................................. 30 5.1. Targets pertaining to risks and opportunities ........................................................... 30 5.2. Monitoring indicators ............................................................................................... 30 5.3. Performance ........................................................................................................... 31 6. Lastly: Working toward the future ............................................................................ 32 
+
+ 
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ “In this climate disclosure I am very impressed to see Mizuho’s desire to show leadership in the banking industry–in Japan and globally as well— on climate change analysis, risk management, and increasing transparency. I am also pleased to see Mizuho implementing the various aspects of the TCFD recommendations.
+“Through Mizuho’s commitment to sustainable finance and reducing its credit balance for coal-fired power generation facilities, the company is forging a path to the transition to a low-carbon economy. Going forward there is of course more work to be done in the banking industry overall to facilitate this transition and I would welcome further efforts by. 
+Mizuho to achieve the Paris Agreement.”
+John Hodges, Vice President, BSR 
+
+
+3 
+1. Introduction. 
+Climate change is one of the most critical, urgent issues facing humanity, with impacts on our society, economy, and security. Since the adoption of the Paris Agreement in 2015, governments and organizations around the world, including in Japan, have been accelerating their efforts to realize a low-carbon society. In the financial sector, the possibility that climate change may have major impacts on the business activities of the sector’s financing and investment clients has led to a growing international movement to assess the impacts of climate change on assets.1 In December 2015, the Financial Stability Board (FSB) established the Task Force on Climaterelated Financial Disclosures (TCFD), and in June 2017 the TCFD released its final recommendations (“TCFD Recommendations”), which put forth a framework for all organizations to disclose climate change-related risks and opportunities. At Mizuho, based on our awareness that climate change is one of the most crucial global issues having the potential to impact the stability of financial markets, we have positioned addressing environmental issues and climate change as a key part of our corporate strategy and have bolstered a range of initiatives as a result of numerous discussions at bodies including the Executive Management Committee, Risk Committee, and the Board of Directors. One of these initiatives has been establishing our Environmental Policy. In April 2020, we established our Environmental Policy alongside our Human Rights Policy under the Mizuho Code of Conduct in order to clarify our stance on climate change as well as our environmental awareness and specific actions that we will take on environmental initiatives, including those targeting climate change, as we work toward transitioning to a low-carbon society. Based on this Environmental Policy, we are implementing initiatives responding to climate change and disclosing information in line with the TCFD Recommendations. Efforts to address climate change. 
+We recognize climate change as one of the most crucial global issues with the potential to impact the stability of financial markets, representing a threat to the environment, society, people’s lifestyles and businesses.
+At the same time, we believe there are new business opportunities arising from the need to transition to a low-carbon society, such as the field of renewable energy and other businesses and innovations which contribute to mitigating and adapting to the impact of climate change.
+In light of this, we have included responding to climate change as a key pillar of our business strategy and will take the following actions in order to proactively fulfill our role as a financial services group in the effort to achieve a low-carbon society by 2050.
+・ We will engage in proactive, constructive dialogue in response to our clients’ individual concerns and needs, and in support of their efforts to introduce climate change countermeasures and transition to a low-carbon society in both the medium and long term.
+・ We will proactively develop and offer financial products and services designed to support clients’ efforts to introduce climate change countermeasures and transition to a low-carbon society.
+・ We understand the importance of climate-related financial disclosures and we utilize the framework under the Recommendations of the TCFD in order to leverage growth opportunities 1 Guidance for Climate-related Financial Disclosure (TCFD Guidance), Ministry of Economy, Trade and Industry (Japan), December 2018, p. 1
+
+
+4 
+and strengthen risk management as well as disclose information in a transparent manner regarding our progress.
+1.1. TCFD Recommendations and status of response at Mizuho. 
+The TCFD Recommendations call for disclosures on corporate governance, strategy, risk management, and indicators and targets relevant to climate change-related risks and opportunities.2 At Mizuho, we have supported the intent and aims of the TCFD Recommendations since December 2017, and we are working to engage in initiatives and enhance disclosures in accordance with the recommendations. The current status of our response to the TCFD Recommendations is as follows.
+TCFD Recommendations Status of response at Mizuho. 
+Governance Disclose the organization’s governance around climate-related risks and opportunities.
+a) Describe the board’s oversight of climate-related risks and opportunities.
+ We have identified key sustainability areas, including responses to climate change, and incorporated them into our 5-Year Business Plan, based on deliberation by our Executive Management Committee and Board of Directors, to advance our sustainability initiatives as an integral part of our strategy. We review these on an annual basis.
+ We have established an Environmental Policy, and we assess our progress on environmental initiatives, including the status of our response to the TCFD Recommendations, under the oversight of the Board of Directors.
+b) Describe management’s role in assessing and managing climate-related risks and opportunities.
+Strategy Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material.
+a) Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+ We identified climate-related risks and opportunities for each inhouse company, unit, and group when designing our business plan.
+ We have conducted a qualitative evaluation of climate changerelated opportunities, transition risks, and physical risks in each sector, as they will unfold over short-, medium-, and long-term time frames.
+ We have identified the following climate-related risks and opportunities and impacts on business activities, and we have strengthened our structure for promoting sustainable business group-wide to support the transition to a low-carbon society. We actively promote financial products and services that help mitigate climate change or facilitate adaptation to it and, at the same time, conduct appropriate risk management based on international concerns, trends, and other factors.
+ Opportunities - Increased business opportunities to provide financing for b) Describe the impact of climaterelated risks and opportunities on the organization’s business, strategy, and financial planning.
+2 https://www.fsb-tcfd.org/
+
+
+5 
+renewable energy projects or solutions for clients’ efforts to transition to a low-carbon society.
+- Enhance our reputation in capital markets and society at large through appropriate initiatives and disclosures.
+ Risks - We are taking into account both physical risks and transition risks.
+- Our transition risks include credit risk related to financing and investment clients who are impacted by more stringent carbon taxes, fuel efficiency regulations, or other policies or by delays in shifting to low-carbon and other environmental technologies. Our transition risks also include operational risk related to reputational damage from financing fossil fuel projects.
+- Our physical risks include operational risk related to the possibility of extreme weather causing damage to our assets (such as data centers) and credit risk related to customer assets (such as real estate collateral).
+ Scenario analysis - Under the definition from the TCFD Recommendations, our credit exposure (EXP) in carbon-related sectors comes to 7.3% of our total credit exposure.
+- Transition risk. 
+Scenario. 
+International Energy Agency (IEA)’s Sustainable Development Scenario (SDS) 3 / New Policies Scenario (NPS)4 In our analysis for impacts on our clients’ business, we employed two scenarios: a static scenario which assumes that no attempt is made to transform the present business structure, and a dynamic scenario under which the business structure is transformed.
+Targeted sectors Electric utilities and oil, gas & coal sectors in Japan. 
+Period 2050 (while the IEA scenario is until 2040, the period for this analysis is until 2050)
+Credit costs through 2050 Increase of approx. ¥120 billion (dynamic scenario) to ¥310 billion (static scenario) 
+- Physical risk. 
+Scenario. 
+Intergovernmental Panel on Climate Change (IPCC) Representative Concentration Pathway (RCP) 8.5 scenario (4°C scenario) / RCP 2.6 scenario (2°C scenario) 
+c) Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
+3 Sustainable Development Scenario (SDS): Scenario under which advancement of low-carbon holds the increase in the global average temperature to below 2°C.
+4 New Policies Scenario (NPS): Scenario which assumes that the measures pledged to under the Paris Agreement are put into place.
+
+
+6. 
+Details of analysis. 
+We employed a Monte Carlo simulation to calculate the rates at which typhoons and other storms cause wind and water-related building loss or damage. We then analyzed the potential direct (collateral value) and indirect (business stagnation) impacts on Mizuho’s credit costs from the loss or damage of mortgaged real estate (buildings) in Japan.
+Target of analysis. 
+Japan only, for impact of business stagnation this is based on the location of the client’s headquarters (this analysis targeted middle-market firms and SMEs)
+Credit costs through 2050. 
+Impact on mortgage lending value: limited Impact of business stagnation: ¥52 billion at most, under both 2°C and 4°C scenarios. 
+Risk Management. 
+Disclose how the organization identifies, assesses, and manages climate-related risks.
+a) Describe the organization’s processes for identifying and assessing climate-related risks.
+ Identification of climate change risks and integration with comprehensive risk management - By identifying physical and transition risks resulting from climate change and integrating them into our overall risk management framework for credit, operational, and other types of risk, we are ensuring comprehensive risk management.
+ Management of top risks - Until recently, we have monitored financing and investment from the perspective of environmental and social responsibility in our management of “top risks”, which are risks recognized by management as having major potential impact on the group. We now position climate change risks as “emerging risks”, which we define as major risks that must be addressed in the next few years despite the fact that materialization of the risks will occur over a medium- to long-term time frame, and we have begun periodic monitoring of related indicators.
+ Reviewing our policies in light of climate change risks - We managed relevant risks through reviewing our Environmental and Social Management Policy for Financing and Investment Activity (e.g. tightening our policy on coal-fired power generation), conducting due diligence based on the Equator Principles5, and through engagement with clients.
+b) Describe the organization’s processes for managing climate-related risks.
+c) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.
+5 A financial industry benchmark for determining, assessing, and managing environmental and social risk related to projects that are being financed.
+
+
+7. 
+Metrics and Targets. 
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+a) Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+ Targets - Sustainable finance & Environmental finance targets - Target to reduce the outstanding credit balance for coal-fired power generation facilities - Target to reduce our own environmental footprint  Monitoring indicators - Scope 1 (direct) and Scope 2 (indirect) CO2 emissions and energy usage; Scope 3 environmental footprint from business trip-related CO2 emissions and new large-scale power generation projects (amount of contribution to CO2 emissions) - Environmental conservation associated with new large-scale power generation projects (amount of contribution to CO2 emission reductions)  We are continuing discussions on the setting of Science Based Targets (SBTs).
+b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+c) Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+(Underlined portions indicate initiatives that we have enhanced since our previous disclosure in July 2017.) 1.2. About Mizuho Financial Group. 
+The Mizuho group is composed of Mizuho Financial Group, Inc. (the holding company), its consolidated subsidiaries, and affiliates accounted for under the equity method. As a financial services group, our business domains include banking, trust banking, securities, and other financial services. Under a holding company, the group has five in-house companies, which determine and promote strategies group-wide across banking, trust banking, securities, and other business areas according to the attributes of customers, and two units that support all of the in-house companies. We have about 59,000 employees working at over 900 offices in approximately 40 jurisdictions.
+1.3. Our initiatives thus far. 
+We conduct business activities and operations based on the Mizuho Code of Conduct to put the tenets of our Corporate Identity into practice, and the Code of Conduct states: “We will act independently and proactively with the awareness that environmental initiatives represent an essential precondition for the existence and activities of our company.” Under this approach, since Mizuho was founded, we have been working proactively on environmental financing, including renewable energy project financing, and consulting on environment and energy-related initiatives. Since becoming the first bank in Asia to adopt the Equator Principles in 2003, we have been endeavoring to reduce and avoid negative environmental impact. Asset Management One has also positioned climate change as its highest priority ESG issue and is participating in engagement to address it, while making contributions as a signatory to the Montreal Carbon Pledge6 and a member of the Climate Action 100+ initiative7. We endorsed the TCFD Recommendations in December 2017 and developed an action plan 6 A new initiative for reducing greenhouse gases established at the PRI in Person global annual conference held in Montreal, Canada in September 2014.
+7 An initiative led by global investors to engage companies that are large emitters of greenhouse gases worldwide.
+
+
+8 
+for staged implementation of initiatives matching the TCFD Recommendations in the following fiscal year. Our Executive Management Committee deliberated on the action plan, and it was presented to the Board of Directors and Audit Committee. Further, we have identified key sustainability areas, including responses to climate change, and incorporated them into our 5-Year Business Plan, based on deliberation by our Executive Management Committee and Board of Directors. This enables us to strengthen and advance our sustainability initiatives as an integral part of our strategy. Based on our application of the Equator Principles and our Environmental and Social Management Policy for Financing and Investment Activity (Policies on Specific Industrial Sectors), we have been participating in dialogue (engagement) with some of our clients in the energy and utility sectors since fiscal year 2018, making us among the first to do this in Japan. In 2019, our participation in the United Nations Environment Programme Finance Initiative (UNEP FI) pilot project8 and in the Science Based Target initiative (SBTi)’s road testing9 were some of the ways in which we kept on top of global trends and strove to improve available methods in cooperation with a range of stakeholders. (Figure 1) 
+
+8 United Nations Environment Programme Finance Initiative (UNEP FI): The UNEP FI has launched a project to develop TCFD scenario analysis methods, and 28 banks from around the world are currently taking part.
+9 Science Based Targets initiative (SBTi): A joint initiative by the World Wildlife Fund (WWF), CDP (formerly the Carbon Disclosure Project), World Resources Institute (WRI), and United Nations Global Compact (UNGC) to promote setting of Science Based Targets.
+
+
+9. 
+Figure 1: Milestones in Mizuho’s climate change initiatives 
+
+ 
+* Signed by Mizuho Trust & Banking in 2006 and by Asset Management One (at the time DIAM Asset Management) in 2013.
+
+
+10 
+2. Corporate governance 2.1. Corporate governance related to climate change. 
+As our various climate change initiatives are deeply interrelated with sustainability promotion, risk management, etc., following discussions at the business execution line, e.g. the Risk Management Committee and Executive Management Committee, and reporting to the Board of Directors, oversight is provided by the Risk Committee and Board of Directors in accordance with the structure for advancing and managing each initiative. (Figure 2, Table 1)
+Figure 2: Corporate governance structure 
+2.1.1. Oversight 2.1.1.1. Board of Directors. 
+The main roles of the Board of Directors are making decisions on business execution such as basic management policy and supervising the execution of duties by directors and executive officers. In order to fulfill these roles, the Board of Directors appropriately establishes and supervises the operation of the internal control systems (regarding matters such as risk management, compliance, and internal auditing) and risk governance systems of Mizuho. In addition, the Board of Directors resolves the basic matters relating to Mizuho Financial Group’s sustainability, and the Environmental Policy established by Mizuho Financial Group in April 2020 states clearly that the Board of Directors provides oversight regarding matters including the status of environmental initiatives. Based on the Environmental Policy, the business execution line periodically reports on environmental initiatives, including the status of responses to TCFD Recommendations, to the Board of Directors, which provides oversight.
+
+
+11 
+2.1.1.2. Risk Committee. 
+The Risk Committee acts as an advisory body to the Board of Directors to ensure that the Board of Directors is maintaining effective oversight. The committee evaluates the Mizuho group’s risk strategy implementation for consistency with risk strategy basic policy and offers advice to the Board of Directors. Regarding climate change initiatives, the committee has deliberated on our establishment of the Environmental Policy, our management system for responsible financing and investment, our response to the TCFD Recommendations, and other measures we are taking to address climate change risks. It has provided the Board of Directors with advice on these matters accordingly. Going forward, the Risk Committee will continue to assess consistency with our basic policy and give advice to the Board of Directors to facilitate the Board of Directors’ oversight of our responses to climate change risks.
+2.1.2. Business execution line 2.1.2.1. Executive Management Committee. 
+The Executive Management Committee acts as an advisory body to the President & Group CEO. It is chaired by the President & Group CEO and deliberates on important business execution matters. These matters include Mizuho’s business policies and strategies, annual and medium- to long-term business plans, risk governance, and risk management. Regarding climate change initiatives, based on our Environmental Policy, the committee deliberates and reports on setting indicators and targets and on periodic progress assessment and review related to our environmental initiatives. It then reports to the Board of Directors.
+2.1.2.2. Risk Management Committee. 
+The Risk Management Committee is chaired by the Group Chief Risk Officer and undertakes centralized management and monitoring of risk across the group. Specifically, based on the external business environment and our risk profiles, the committee analyzes the group’s vulnerabilities, considers responses to early warning indicators, and offers advice on risk reduction measures. It also comprehensively deliberates and coordinates on issues related to group-wide risk. Regarding climate change risks, until recently the Risk Management Committee monitored environmental and social responsibility of financing and investment as a “top risk candidate” in our management of top risks. In order to further enhance monitoring, the committee now designates climate change risks as “emerging risks” and has thoroughly revised our Policies on Specific Industrial Sectors, evolving them into our new Environmental and Social Management Policy for Financing and Investment Activity. Going forward, the Risk Management Committee will continue to analyze the resilience of our strategy in relation to climate change through its monitoring and scenario analysis and to deliberate, coordinate, and advise on risk reduction measures.
+
+
+12. 
+Table 1: Corporate governance initiatives responding to climate change (FY2019)
+Description Frequency. 
+Business execution line Supervisory line. 
+Risk. 
+Management Committee. 
+Executive. 
+Management Committee. 
+Risk. 
+Committee. 
+Board of Directors. 
+Establishment of Environmental Policy to strengthen environmental initiatives - ✔ ✔ ✔ ✔
+Status of response to TCFD Recommendations Annually ✔ ✔ ✔ ✔
+Review of management system for responsible investment, financing, and other services Annually ✔ ✔ ✔ ✔
+Risk appetite policy Annually ✔ ✔ ✔ ✔
+Our management of top risks Quarterly ✔ ✔ ✔ ✔
+Revision of the fundamental approach to sustainability initiatives - ✔ ✔
+FY2020 business plan (including key sustainability areas, initiative planning, and targets) Annually ✔ ✔ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+13 
+3. Strategy 3.1. Approach to climate change and positioning. 
+We have defined key sustainability areas in our 5-Year Business Plan in line with the expectations and requirements of stakeholders and based on the importance and affinity of such initiatives with our strategy, as well as on the medium- to long-term impact on our corporate value. Based on this, each in-house company, unit, and group will establish a strategy incorporating sustainability initiatives. Additionally, we have set targets/KPIs based on our key sustainability areas. The key sustainability areas and other items are revised each fiscal year and reflected into our business plan. At Mizuho, we have positioned addressing climate change as a key part of our corporate strategy, and are ascertaining risks and opportunities as we advance initiatives. Specifically, we have identified in our business plan the climate change risks and opportunities each in-house company, unit, and group has defined and reflected them into our key sustainability areas. (Figure 3)
+Figure 3: FY2020 key sustainability areas (materiality)
+Businesses and innovation that contribute to climate change mitigation and adaptation which are necessary for achieving a low-carbon society as envisioned by the Paris Agreement and the SDGs, such as renewable energy businesses, present business opportunities for us at Mizuho. However, risks concerning the continued medium- to long-term feasibility of business models for industries and companies facing high levels of transition risk10 may increase if these industries and companies are slow to address the transition or if their response is not sufficient. Similarly, risks concerning both our clients’ and our own capacity to continue operating will increase if we are 10 Transition risk generally refers to risks stemming from widespread policy, legal, technological, and market changes which occur as the result of transitioning to a low-carbon economy.
+
+
+14 
+slow to respond to physical risks11 such as extreme weather conditions, or if our response is not sufficient. One way that we fulfill our role as a financial institution is emphasizing the importance of engaging and holding constructive dialogue with our varied stakeholders. We are participating in engagement about climate change-related business issues with some of our clients in the energy sector and utilities sector once or more a year. In doing so, we are working to reduce climate-related risk for our clients and ourselves by supporting our clients’ efforts to transition to a low carbon society. 3.2. Opportunities created for the Mizuho group by climate change. 
+Based on the results of our qualitative analysis of these sectors, we will proactively participate in engagement (constructive dialogue) with our clients, ascertain their business challenges and needs, and support their efforts to introduce climate change countermeasures and to transition to a lowcarbon society from a medium- to long-term perspective. This will enable us to expand our business opportunities. Mizuho’s opportunities include capturing increased business opportunities to provide financing for renewable energy projects or solutions for clients’ efforts to transition to a low-carbon society as well as enhancing our reputation in capital markets and society at large through appropriate initiatives and disclosures. We have enhanced our capabilities for driving forward sustainable business group-wide. With these capabilities, we are proactively focusing on our key sustainability area of promoting action to address climate change and supporting the transition to a low-carbon society (as above, Figure 3), and we are capturing expanding business opportunities by facilitating our clients’ innovation and risk reduction. In particular, we have fortified our existing teams and created brand new teams for our sustainable business (Figure 4) and are coordinating our efforts across the group (Figure 5). We have established key sustainability areas (materiality) and key performance indicators (monitoring indicators) to promote sustainable business, and we have set sustainable finance and environmental finance definitions (Table 2 and Figure 6) and targets to proactively fulfill our role in directing capital towards environmental protection and the achievement of the SDGs (5.1 Targets pertaining to risks and opportunities).
+ 11 Physical risk refers to risks such as the loss or damage of assets as a direct result of climate change, as well as supply chain disruptions and other impacts as an indirect result of climate change.
+
+
+15. 
+Figure 4: Sustainable business at Mizuho. 
+
+Figure 5: Structure for promoting sustainable business 
+(as of April 2020)
+
+
+16. 
+Table 2: Our definitions of sustainable finance and environmental finance. 
+Definition  Our definition of sustainable finance and environmental finance is based on Mizuho’s Key Sustainability Areas. 
+The primary Key Sustainability Areas referenced are as follows: • Environmental considerations: Promoting action to address climate change and supporting the transition to a low carbon society • Sound economic growth: Strengthening capital markets functions • Industrial development & innovation: (1) Smooth business succession, (2) Accelerating innovation, (3) Creating resilient social infrastructure. 
+Applicable finance areas 1. Finance for clients where the intended use of funds is environmental and/or social projects 2. Financing to support and facilitate clients’ response to ESG/SDG- related areas, including financing requiring clients to meet certain related conditions, and providing consulting and assessment of clients’ response to ESG/SDGs-related areas. 
+Applicable business areas Loans, underwriting, investments, asset management. 
+Figure 6: Outline of sustainable finance and environmental finance. 
+Product and service area Mizuho's main products and services Applicable business area. 
+Project finance for renewable energy Arranging of project financing for wind, solar, geothermal, and small hydro power Loans. 
+Green bonds Underwriting of green bonds complying with principles and guidelines in and outside Japan Underwriting. 
+Green loans Arranging of green loans complying with principles and guidelines in and outside Japan Loans. 
+Arranging of Mizuho Eco Finance Loans. 
+Arranging of renewable energy-related asset-based lending Loans. 
+Arranging of Mizuho ESG loans and private placement bonds Loans. 
+Investment in green project funds Investment. 
+Investment in green projects (including mezzanine finance) Investment. 
+Investment in green bonds Investment. 
+Loans for green building Loans. 
+Project finance for infrastructure Arranging of project financing for public transportation and facilities Loans. 
+Social bonds Underwriting of social bonds complying with principles and guidelines in and outside Japan Underwriting. 
+Sustainability bonds Underwriting of sustainability bonds complying with principles and guidelines in and outside Japan Underwriting. 
+Arranging of sustainability-linked loans Loans. 
+Lending to innovative startup companies Loans. 
+Net increase in ESG/SDG investment products under management Asset management. 
+Finance area. 
+Sustainable finance. 
+Environmental finance. 
+Other green finance. 
+Other sustainable finance
+
+
+17 
+3.3. Risks posed to the Mizuho group by climate change. 
+Table 3 shows the main transition risks and physical risks that climate change poses for Mizuho as a financial institution.
+Table 3: Main risks accompanying climate change. 
+Type Climate- related risk Description Time frame. 
+Transition risk. 
+Policy Legal Technological Market • Increase in credit costs for sectors with high levels of GHG emissions, as a result of the shift to low carbon • Obstacles to funding and increases in funding costs resulting from climate change-related market turmoil. 
+Medium to long term. 
+Policy • Compliance with regulatory changes reflecting increasing international demand for more drastic responses to climate change Short term. 
+Reputational • Reputational damage resulting from financing of fossil fuel projects (e.g. coal-fired power generation) Short term. 
+Physical risk Acute Chronic • Increase in credit costs attributable to wind and water-related damages from typhoons and other storms and to damages from forest fires and other natural disasters, which cause clients’ financial performance to deteriorate as a result of business stagnation, as well as to damage to mortgaged real estate • Impact on business continuity due to the loss or damage of Mizuho assets (e.g. data centers) as a result of extreme weather conditions, and increases in management costs.
+Short, medium, and long term 
+3.4. Scenario analysis. 
+The TCFD Recommendations include a recommendation to conduct scenario analysis for the purpose of increasing the flexibility of plans and resilience of strategy in anticipation of various future climate change-related circumstances. In accordance with the TCFD Recommendations, we conducted scenario analysis of multiple scenarios including the 2°C scenario. We will continue enhancing our scenario analysis and utilize the results in engagement (constructive dialogue) opportunities.
+
+
+18 
+3.4.1. Approach to scenario analysis. 
+Below is the process we employed to conduct our scenario analysis in FY2019. (1) Conduct qualitative evaluation and analysis of transition risks and physical risks by sector. (2) Determine which transition risks and physical risks will be targeted by scenario analysis based on the results of (1) above. (3) Set scenarios according to the risks to be analyzed and analyze impacts on credit costs. 3.4.2. Qualitative evaluation of climate change risks and credit exposure in carbonrelated sectors Focusing on the sectors advised by the TCFD Recommendations, we qualitatively evaluated climate change risks as they will unfold over short-, medium-, and long-term time frames and categorized each risk as high risk (H), medium risk (M), or low risk (L). (Table 4)  We identified the electric utilities and oil, gas & coal sectors as sectors facing high transition risks.  We identified the agriculture, food & forestry sector as a sector facing high levels of physical risks.
+Table 4: Results of evaluation of transition risks and physical risks by sector 
+* In this qualitative evaluation, “real estate” does not indicate impacts on the real estate business but rather on real estate property, broadly speaking (for example, risk of wind or water-related damage to buildings, risk of rising sea levels submerging land, and similar).
+
+
+19. 
+Under the definition of carbon-related assets from the TCFD Recommendations, our credit exposure (EXP)12 in carbon-related sectors13 came to 7.3% of our total credit exposure as of March 31, 2020. We identified the electric utilities and oil, gas & coal sectors, all of which are carbon-related sectors, as sectors facing high transition risks in our qualitative evaluation.
+ 3.4.3. Sectors selected for scenario analysis. 
+Based on the results of our qualitative evaluation by sector, we selected the following sectors for scenario analysis.  Transition risk. 
+We selected the electric utilities sector and the oil, gas & coal sectors, which we identified as being at high risk in our qualitative evaluation. The credit exposure which we selected for analysis comes to 40% of the previously mentioned total credit exposure in carbon-related sectors.  Physical risk. 
+Although we identified the agriculture, food & forestry sector as being at high risk in our qualitative evaluation, we determined that our credit exposure in this sector was relatively low. Because of this, we selected for scenario analysis the potential impacts of real estate loss or damage in Japan, a physical risk which would cause impacts across multiple industries, as well as the potential impacts of the resulting business stagnation.
+3.4.4. Implementation of transition risk scenario analysis (1) Scenario design. 
+We used the projections from the Sustainable Development Scenario (SDS) 14 in the International Energy Agency (IEA)’s World Energy Outlook 2018 to anticipate the impacts on our clients’ business performance and to analyze the possible consequences for Mizuho’s credit costs. In our outlook for impacts on our clients’ business, we employed two scenarios: a static scenario which assumes that no attempt is made to transform the present business structure, and a dynamic scenario under which the business structure is transformed. Specifically, we divided the sectors above into multiple subsectors according to their business categories and other characteristics. We also incorporated into the outlook the forecasted trend of electricity generation by source (Figure 7) and production by energy type (Figures 8 and 9) looking forward to 2050.
+12 Total of Mizuho Bank and Mizuho Trust & Banking’s loans, foreign exchange assets, acceptances and guarantees, and committed lines of credit as of March 31, 2020.
+13 From the industries listed under “Type of industry” in “Types of Industries in Survey of Loans and Bills Discounted by Type of Industry” (Attachment 1 of the Bank of Japan Research and Statistics Department’s “Guidelines for Completing the Financial Statistics Survey” (provisional translation)), “petroleum refining”, “mining and quarrying of stone and gravel” (coal, oil, and gas mining within this industry), and “electricity, gas, heat supply, and water” (excluding water supply, nuclear power generation, and renewable energy power generation businesses).
+14 Sustainable Development Scenario (SDS): Scenario under which advancement of low-carbon holds the increase in the global average temperature to below 2°C.
+
+
+20. 
+Figure 7: Trends in electricity generation by source (SDS)
+Figure 8: Trends in global resource demand (SDS) 
+
+Figure 9: Trends in resource demand in. 
+Japan (SDS)
+Source (Figures 7 to 9): Projections through 2040 are from the SDS in the IEA’s World Energy Outlook 2018. Projections from 2040 to 2050 are from our own calculations of average rates of increase, based on the SDS. In the outlook we produced using the projections in the IEA’s SDS, while overall power generation in Japan will remain more or less constant through 2050, thermal power generation will fall by approximately 90%, and restarted nuclear power generation and renewable energy will make up the gap. Worldwide demand for oil will also be relatively steady through 2050, but in Japan demand for oil will undergo a notable decline. These predicted shifts in the external environment constitute the assumptions for our analysis. We designed this scenario analysis around particular assumptions and did not take into account our clients’ individual business plans, financing agreements, or other factors.
+(2017 = 100) (year) (TWh) (2017 = 100) (year) (year)
+
+
+21 
+(2) Scenario analysis results. 
+Through this analysis, under standards as of March 31, 2020, we estimated that our credit costs will increase by ¥120 billion to ¥310 billion by 2050. The range between these amounts reflects the difference between the dynamic and static scenarios. With the dynamic scenario, we confirmed that business structure transformation, while involving some impacts in the short term, would limit the increase in credit costs over the medium to long term. We expect that business structure transformation would lead to lesser or no fossil fuel dependency, which would in turn reduce medium- to long-term carbon costs (Figure 10) and improve business performance.
+Figure 10: Trends in carbon costs. 
+Source: Projections through 2040 are from the SDS in the IEA’s World Energy Outlook 2018. Projections from 2040 to 2050 are from our own calculations of average rates of increase, based on the SDS. With our analysis, we reaffirmed the importance of engagement (constructive dialogue) with our clients to contribute to the transition to a low-carbon society over the medium to long term. Going forward, we will further strengthen engagement with our clients regarding their efforts to address climate change and respond with a deep understanding of their challenges and needs. In doing so, we will capture business opportunities by providing solutions supporting our clients’ initiatives and also strengthen risk management.
+(USD/ton) (year)
+
+
+22 
+3.4.5. Implementation of physical risk scenario analysis (１) Scenario design. 
+With the Intergovernmental Panel on Climate Change (IPCC)’s Fifth Assessment Report as a base, we collaborated with a general insurance consulting firm to calculate through a Monte Carlo simulation the rates at which typhoons and heavy rains cause wind and water-related building loss or damage. We then analyzed the potential impacts on Mizuho’s credit costs from the loss or damage of real estate collateral (including mortgaged real estate) in Japan. (２) Scenario analysis results  Direct impacts. 
+According to the IPCC’s Fifth Assessment Report, under global warming, rising sea surface temperatures will lead to an increase in atmospheric moisture, and the strength of typhoons that make landfall in Japan will increase. However, due to the smaller difference in sea and air temperatures, the convection currents (rising air currents) that cause typhoons will be weaker, and the number/frequency of typhoons will decrease. Because of this and other factors, we estimate that there will be only a limited impact on Mizuho’s credit costs from loss or damage of mortgaged real estate (buildings) and consequent loss of value.  Indirect impacts. 
+To analyze what impacts there would be on Mizuho’s credit costs in the event that damage to buildings by typhoons and other storms causes stagnation in our clients’ businesses and affects their business performance, we employed two approaches: a bottom-up approach reflecting estimates of the number of days of business stagnation for each individual company and a topdown approach reflecting a certain level of stress on portfolios that were likely to see more days of business stagnation than the average. In addition to an impact analysis using the IPCC Fifth Assessment Report’s RCP 2.6 scenario assuming a 2°C average temperature rise by 2050, we also conducted an impact analysis using the RCP 8.5 scenario assuming a 4°C average temperature rise by 2050, the worst-case scenario for global warming and physical risk. Under both the 2°C and 4°C scenarios, we estimated that our credit costs would increase by up to ¥52 billion by 2050.
+
+
+23 
+4. Risk management 4.1. Management of top risks. 
+We have in place a “top risk management” system in which we designate risks with major potential impact on the group as “top risks”. Based on assessments of the likelihood, impact, and other characteristics of monitored risks, and after careful deliberation by management, top risks are designated and managed accordingly. With this approach, we endeavor to deepen communication regarding risks, seek to create common perspectives regarding risks, and work to secure consistency in awareness of various types of risks. Through this system, we have continually monitored financing and investment from the perspective of environmental and social responsibility. The TCFD Recommendations point out that “for many organizations, the most significant effects of climate change are likely to emerge over the medium to longer term and their timing and magnitude are uncertain.” In our top risk management system, we now designate climate change risks as “emerging risks”, which we define as major risks that must be addressed in the next few years despite the fact that materialization of the risks will occur over a medium- to long-term time frame, and we have begun climate change risk monitoring. Going forward, we will design and implement additional risk control measures as necessary, as well as continue reporting on the status of our responses to our Board of Directors on a quarterly basis.
+Figure 11: Diagram of our top risk management 
+
+
+24 
+4.2. Integration of climate change risks into comprehensive risk management. 
+We recognize that conducting operations tailored to our risks and managing such risks is a key issue relating to overall management. In order to implement our business strategies while maintaining our financial stability, we maintain comprehensive risk management and control measures. Mizuho Financial Group maintains basic policies for risk management established by the Board of Directors that are applicable to the entire group. In line with these basic policies, we maintain various measures to strengthen and enhance the sophistication of our risk management system. We classify and manage the risks that arise in our businesses according to the various kinds of risk, including credit risk, market risk, liquidity risk, and operational risk. In addition to managing each type of risk individually, we have established a risk management structure to identify and evaluate overall risk and to keep risk within limits that are acceptable. Regarding climate-change related risks, we have also integrated the risks described in section 3.3 (Risks posed to the Mizuho group by climate change) into our overall risk management framework, ensuring comprehensive risk management. (Figure 12)
+Figure 12: Comprehensive risk management system 
+
+
+25 
+4.3. Review of our climate change policies. 
+From a standpoint of managing credit and reputational risk, we apply both our Environmental and Social Management Policy for Financing and Investment Activity and the Equator Principles to each of our transactions. 4.3.1. Enhanced implementation based on our Environmental and Social Management Policy for Financing and Investment Activity (previously titled the Policies on Specific Industrial Sectors) Considering the expectations and perspectives of our stakeholders, for the purpose of strengthening our environmental and societal considerations in making investment and financing decisions, we previously established a policy on initiatives involving sectors which have a high possibility of contributing to adverse environmental and social impacts. In April 2020, to more thoroughly reflect the tenets of our Human Rights Policy and Environmental Policy, we revised the policy to be comprehensive in prohibiting investment and financing in such initiatives regardless of sector, as well as points of caution (“Environmental and Social Management Policy for Financing and Investment Activity”). (Figures 13 and 14) Additionally, from the perspective of strengthening our response to climate change risks, we conducted revisions, including tightening the policy which states that we will not provide financing for the construction of new coal-fired power generation facilities and adding the coal mining sector, as well as additional clarification of our responses to transition risks in the oil and gas sectors, and based on this policy we set a quantitative target to reduce our outstanding credit balance for coalfired power generation facilities. (5.1 Targets pertaining to risks and opportunities)
+Figure 13: Positioning of our Environmental and Social Management Policy for Financing and Investment Activity 
+
+
+26. 
+Figure 14: Overview of our Environmental and Social Management Policy for Financing and Investment Activity. 
+Going forward, relevant governing bodies within Mizuho such as our Executive Management Committee and/or Business Policy Committee will regularly review whether our measures related to the risks, sectors, and other factors covered under this policy are appropriate and sufficient, with consideration to changes in the external environment and the results of implementation. Following these reviews, our governing bodies may revise or otherwise make changes to our measures to enhance their implementation. At the same time, they will ensure all of our employees and executive officers are well-informed and trained in regard to the measures. As part of our initiatives in this area, we place a strong emphasis on engagement with stakeholders. Our objective in taking this approach is to ensure that our initiatives are aligned with society’s standards and expectations. Our specific implementation of the policy is as follows. 4.3.1.1. Our approach under our Environmental and Social Management Policy for Financing and Investment Activity Our approach under our Environmental and Social Management Policy for Financing and Investment Activity is as follows.
+• Companies are expected to contribute to the sustainable development of society as good corporate citizens. In terms of the social and environmental impact of business decisions and business activity, companies need to consider the expectations of their stakeholders and ensure that their actions are not only aligned with international standards but also transparent and ethical.
+• At Mizuho, we understand the importance of our social responsibility and duty to the public and we ensure that our corporate conduct fulfills our responsibilities to the communities in which we operate, giving due consideration to the expectations of a diverse range of stakeholders. This enables us to contribute to sustainable social and economic development as well as be part of the solution to issues affecting society.
+• In regards to environmental issues, including climate change, we will endeavor to leverage our financial intermediary and consulting capabilities to maximize beneficial impacts and avoid or mitigate adverse impacts on the environment.
+• One of the ways in which we fulfill our social responsibility and duty to the public is to provide. 
+Numbers in black text indicate the corresponding sections in the explanation below.
+
+
+27 
+financial services such as financing and capital raising support (“financing and investment”) to companies which are taking appropriate measures to address social issues. At the same time, we are also sensitive to the risks involved in engaging in business with companies connected to adverse social impacts such as environmental or human rights issues, or which are not taking appropriate measures to meet stakeholder expectations. 4.3.1.2. Businesses subject to this policy and implementation methods. 
+In this document, section 4.3.1.3 (1) Financing and Investment Transactions Prohibited Regardless of Sector lists projects for which we prohibit any financing or investment. Sections 4.3.1.3 (2) Financing and Investment Transactions which Require Additional Due Diligence Regardless of Sector and 4.3.1.3 (3) Policies on Specific Industrial Sectors describe our practices for determining whether to engage in transactions with clients/projects in subject sectors, accounting for the degree to which the client has taken steps to avoid or mitigate risk and other due diligence as appropriate, based on the characteristics of the services we are providing. In addition, based on this policy, our primary subsidiaries participate in engagement (constructive dialogue) with specific clients in each sector with the aim of sharing a medium- to long-term perspective on opportunities and risks accompanying environmental, social, and governance (ESG) issues and climate change. 4.3.1.3. Specific Measures of our Environmental and Social Management Policy for Financing and Investment Activity (1) Financing and Investment Transactions Prohibited Regardless of Sector In recognition of the serious risks to and adverse impacts on the environment and society, we refuse to engage in transactions related to the following types of projects:  Projects with an adverse impact on wetlands designated as Wetlands of International Importance under the Ramsar Convention.  Projects with an adverse impact on UNESCO World Heritage sites, excluding projects that have received prior consent from the relevant national government and UNESCO.  Projects violating the Convention on International Trade in Endangered Species of Wild Fauna and Flora (Washington Convention), excluding cases permitted under any country’s reservation(s) to the convention.  Projects involving child labor or forced labor. (2) Financing and Investment Transactions which Require Additional Due Diligence Regardless of Sector In recognition of the serious risks to and adverse impacts on the environment and society, we make decisions on financing and investment for the following types of projects based on a cautious and considered approach aimed at accounting for the degree to which the client has taken steps to avoid or mitigate risk:  Projects with adverse impacts on indigenous people’s local communities.  Projects involving land expropriation that causes forced relocation of residents. (3) Policies on Specific Industrial Sectors For certain sectors such as those listed below, where there is a particularly high possibility of contributing to adverse environmental or social impacts, our decisions regarding whether to engage in business transactions take into consideration any applicable international standards or guidelines, whether the client or project has received relevant certifications, and whether there are any potential conflicts with local communities. Regarding the climate change-linked sectors of coal-
+
+
+28 
+fired power generation; coal mining; oil and gas; and palm oil, lumber, and pulp, we have established the following policies. 1) Coal-fired power generation Climate change is closely tied to various economic and social issues, and we recognize that addressing climate change is an important issue in the medium to long term. As a financial services group, we are dedicated to holding dialogue with clients and other stakeholders and fulfilling our consulting role, and will proactively address climate change and support the shift to a low-carbon society. These initiatives will also be promoted for the purpose of securing stable energy supplies in countries around the world. Compared to other forms of power generation, coal-fired power generation produces more greenhouse gases, in addition to producing harmful substances such as sulfur oxide and nitrogen oxide. Therefore, it presents a higher risk of contributing to climate change, air pollution, and other environmental impacts. In light of this, we do not provide financing or investment which will be used for new construction of coal-fired power plants. (This excludes business to which Mizuho is already committed as of the start of this policy.) However, when a proposed coal-fired power plant is essential to the relevant country’s stable energy supply and will contribute to reduction of greenhouse gas emissions by replacing an existing power plant, we may provide financing or investment for the project, based on careful consideration. We will also continue to support development of innovative, clean, and efficient next-generation technology that will contribute to the expansion of sustainable energy, as well as other initiatives for the transition to a low-carbon society. 2) Coal mining We recognize that coal mining, when not managed properly, entails risk of adverse environmental and social impacts, which may include damage to ecosystems from hazardous waste produced in coal mines, as well as deaths or injuries resulting from mining accidents. Accordingly, our decisions regarding financing and investment for coal mining projects involve a thorough examination of the impacts on the environment, industrial safety and health, and other areas. We do not provide financing or investment to coal mining projects employing the mountain top removal method, due to the severe impact this method has on the environment. Further, in light of the fact that coal and other fossil fuels contribute to emissions of greenhouse gases, we undertake engagement with clients to confirm their measures for addressing transition risk accompanying climate change. 3) Oil and gas We recognize that oil and gas extraction and pipeline construction entail risk of adverse environmental and social impacts, which may include pollution of oceans and waterways from oil spills and gas leaks, as well as violations of the human rights of indigenous peoples. Accordingly, our decisions regarding financing and investment for oil and gas projects involve a thorough examination of the impacts on the environment and of the potential for conflicts with indigenous peoples or local communities. Further, in light of the fact that oil, gas, and other fossil fuels contribute to emissions of greenhouse gases, we undertake engagement with clients to confirm their measures for addressing transition risk accompanying climate change.
+
+
+29 
+4) Palm oil, lumber, and pulp While we recognize that palm oil, lumber, pulp, and other forest products are essential commodities for maintaining our lifestyles and infrastructure, we are also aware of the potential human rights abuses within the production process, such as the violation of indigenous people’s rights or the use of child labor, in addition to environmental issues such as deforestation (including forest burning) and damage to biodiversity. In order to avoid becoming involved in such projects which may inflict human rights abuses or environmental destruction, our business decisions involve a thorough examination of whether there are any potential conflicts involving indigenous people or local communities, and we take into consideration whether the client/project has received certification for the production of sustainable palm oil or whether they have been certified for responsible forest management. In the event that we identify any unlawful act during the term of a transaction, we urge the client to take immediate remedial measures. In the event that the client has not taken appropriate measures to address social issues, we undertake engagement with the client to promote remedial measures and, if the client’s remedial measures are unsatisfactory, we suspend new financing and investment. Further, we urge our clients in these sectors to formulate sustainable environmental policy, such as No Deforestation, No Peat, and No Exploitation (NDPE), and to respect Free, Prior, and Informed Consent (FPIC) in relation to local communities.
+4.3.2. Implementation based on the Equator Principles. 
+Mizuho Bank (formerly Mizuho Corporate Bank) became the first Asian financial institution to adopt the Equator Principles in 2003. Since our adoption of the Equator Principles in October 2003, Mizuho Bank has remained actively engaged with the Equator Principles Association as a member of the Steering Committee, which consists of 10 international financial institutions. Mizuho Bank has also played a leadership role, serving as Chair of the Steering Committee, the first Asian bank to do so, from 2014 to 2015 and serving currently as regional representative for Asia & Oceania. Released in 2019, the fourth update to the Equator Principles (“EP4”) added a requirement for financial institutions to have clients conduct climate change risk assessments as part of due diligence. Aside from this, it also strengthened various other measures to address climate change. Mizuho Bank was an early adopter of the Equator Principles, and we continue to apply them to project finance involving large-scale development or construction, working with clients to identify, assess, and manage environmental and social risks and impacts. (Planned effective date: July 2020) 
+
+
+30 
+5. Metrics and targets 5.1. Targets pertaining to risks and opportunities. 
+In addition to our target of reducing our environmental impact, in April 2020 Mizuho set new targets pertaining to key opportunities and risks presented by climate change, based on our Environmental Policy.
+ Sustainable finance & Environmental finance targets (new) FY2019 – FY2030 total: ¥25 trillion (of which the target for environmental finance is ¥12 trillion). Our FY2019 results (preliminary figures not including some investment data still being aggregated15) for sustainable finance were ¥2.4 trillion (of which the results for environmental finance were ¥1.1 trillion).
+ Target to reduce the outstanding credit balance for coal-fired power generation facilities based on our Environmental and Social Management Policy for Financing and Investment Activity (new): Reduce the FY2019 amount by 50% by FY2030, and achieve an outstanding credit balance of zero by FY2050. Our outstanding credit balance as of the end of FY2019 was ¥299.5 billion.
+ Target to reduce our own environmental footprint CO2 emissions basic unit of electricity used at our offices in Japan (CO2 emissions / total floor area) By FY2030 achieve a 19.0% reduction compared to FY2009 levels By FY2020 achieve a 10.5% reduction compared to FY2009 levels. 
+Additionally, in FY2020 we plan to revise our target for reducing our own environmental footprint. We are also continuing discussions on SBTs, including participating in the SBTi road testing for financial institutions where we provided opinions on issues with SBT setting methods.
+5.2. Monitoring indicators Monitoring indicator data will be totaled every fiscal year and disclosed on our website.16 - Scope 1: Direct CO2 emissions and energy usage - Scope 2: Indirect CO2 emissions and energy usage - Scope 3: Business trip-related CO2 emissions and environmental impact of new large-scale power generation projects (amount of contribution to CO2 emissions) - Environmental conservation associated with new large-scale power generation projects (amount of contribution to CO2 emission reductions)17 
+15 Our results will be updated once data aggregation has completed.
+16 https://www.mizuho-fg.com/csr/mizuhocsr/report/data/index.html#anc01 17 “Amount of contribution to CO2 emissions/emission reductions” is defined as the project’s CO2 emissions/emission reductions multiplied by our contribution ratio, which is the ratio of the financing amount we provide to a project’s total cost. For details, see the Carbon Accounting section of our website (https://www.mizuho-fg.com/csr/environment/activity/carbon.html).
+
+
+31 
+
+5.3. Performance18 Our results for our monitoring indicators are as below.
+Item Unit FY2016 FY2017 FY2018. 
+CO2 emissions Tons of CO2 235,629 224,896 213,055. 
+Scope 1 (direct emissions) Tons of CO2 16,026 16,028 15,845. 
+Scope 2 (indirect emissions) Tons of CO2 213,709 202,780 191,730. 
+Scope 3 (business trips) Tons of CO2 5,894 6,088 5,480. 
+Energy consumption Megawatt-hours 523,309 512,691 499,334. 
+Scope 1 Megawatt-hours 77,573 78,166 77,152. 
+Scope 2 Megawatt-hours 445,736 434,525 422,182. 
+Scope of data collection ・ In Japan, in principle, data for all items are for all the facilities of eight group companies (Mizuho Financial Group, Mizuho Bank, Mizuho Trust & Banking, Mizuho Securities, Mizuho Research Institute, Mizuho Information & Research Institute, Asset Management One, Mizuho Private Wealth Management. Up to and including FY2017, nine group companies including Trust & Custody Services Bank, currently JTC Holdings). Outside Japan, in principle, the scope of data collection includes gasoline and electric power consumption. ・ Business trip data is for air travel by employees of the eight group companies (up to and including FY2017, nine group companies) (the portion of business trips centrally managed).
+Item Unit FY2016 FY2017 FY2018. 
+Scope 3: Environmental footprint from new large-scale power generation projects (amount of contribution to CO2 emissions)
+Kilotons of CO2 4,132 1,559 2,807. 
+Environmental conservation associated with new large-scale power generation projects (amount of contribution to CO2 emission reductions)
+Kilotons of CO2 687 743 1,394 
+
+18 Our results will be updated once data aggregation has completed.
+
+
+32 
+6. Lastly: Working toward the future At Mizuho, under the oversight of the Board of Directors and based on our policy of implementing initiatives in stages by 2022 in accordance with the TCFD Recommendations, we have established an action plan for the continual enhancement of initiatives every fiscal year. Our FY2020 action plan is as in Table 5. We will formulate our FY2021 action plan based on the progress of our initiatives and external factors in FY2020. We recognize that there is no internationally agreed upon methodology for scenario analysis and that each firm and organization is advancing their initiatives by a trial-and-error approach. Our participation in the United Nations Environment Programme Financial Initiative (UNEP FI) pilot project and in the Financial Services Agency of Japan partnership with 2° Investing Initiative19 are some of the ways in which we are keeping on top of global trends and striving to improve available methods. We are aware that the scenario analysis we have conducted this fiscal year is only a first fiscal year measure and that we need to further examine how to incorporate it fully into our strategy and risk management. We will also be looking into improving our scenario analysis by expanding the sectors and regions under consideration and making other changes. In terms of our risk management, we will review our Environmental and Social Management Policy for Financing and Investment Activity on an annual basis, maintain and enhance our engagement (constructive dialogue) with stakeholders, and continue periodic monitoring of climate change risks, which we have identified as “emerging risks”. In terms of our indicators and targets, we will revise our target to reduce our own environmental footprint within FY2020 and will move forward discussions on SBTs.
+19 Partnership with 2° Investing Initiative: Japan’s Financial Services Agency has partnered with 2° Investing Initiative to conduct an impact evaluation of climate-related risks to Japan’s financial institutions.
+
+
+33. 
+Table 5: FY2020 action plan. 
+TCFD thematic areas FY2020 action plan. 
+Governance ・ Based on our Environmental Policy, report on the status of responses to TCFD Recommendations to the Board of Directors. 
+Strategy ・ Expand the sectors and regions under consideration in our scenario analysis and incorporate the analysis results into our strategy and risk management ・ Promote sustainable business. 
+Risk management ・ Identify and evaluate climate change risks in our top risk management and conduct periodic monitoring of climate change risks as “emerging risks” ・ Review our Environmental and Social Management Policy for Financing and Investment Activity on an annual basis and maintain and enhance our engagement with clients. 
+Metrics and targets ・ Examine our target for reducing our own environmental footprint ・ Continue discussions on setting of SBTs 
+
+
+34. 
+Forward-Looking Statements This report contains forward-looking statements, including estimates, forecasts, targets and plans. These statements are based on management’s current expectations and are subject to uncertainty and changes in circumstances. These forward-looking statements do not represent any guarantee by management of future performance. These statements reflect our current views with respect to future events and are subject to risks, uncertainties and assumptions. Actual results may differ materially from those included in these statements due to a variety of factors, including, among others, global socio-demographic and economic trends, energy prices, technological innovations, climate-related conditions and weather events, governmental policies and legislative and regulatory changes as well as other unforeseen events or conditions. Further information regarding factors that could affect our results is included in “Item 3.D. Key Information—Risk Factors” in our most recent Form 20-F filed with the U.S. Securities and Exchange Commission, which is available in the Financial Information section of our web page at www.mizuhofg.com/index.html and also at the SEC’s web site at www.sec.gov. We are under no obligation, and disclaim any obligation, to update or alter our forward-looking statements, whether as a result of new information, future events or otherwise.
+
+
+Mizuho Financial Group, Inc. 1-5-5, Otemachi, Chiyoda-ku, Tokyo 100-8176, Japan +81-(0)3-5224-1111 www.mizuho-fg.com

@@ -1,0 +1,857 @@
+2019 Climate Report. 
+In line with France’s Article 173 and recommendations from the Task Force on Climate-related Financial Disclosures. 
+JUNE 2019. 
+AXA GROUP
+
+
+Editorial 01. 
+Executive Summary 02. 
+Context 04. 
+COP21 & the Paris Agreement 06. 
+AXA’s Activities in a Changing Climate Context 08. 
+Governance 09. 
+AXA’s Approach to Responsible Investment (RI) 09. 
+ESG & Climate Governance 09. 
+Strategy 11. 
+Responsible Investment Strategy 11. 
+ESG Integration: Preliminary Investment Universe Identification and Internal Credit Rating 11. 
+ESG Integration: Tools and Methodology 12. 
+Climate-Related Analysis: Corporate Debt and Equity 15. 
+Climate-Related Analysis: Sovereign Debt 20 “Portfolio Alignment”: Conclusion 22. 
+Real Assets: Factoring the “Physical” Risks of Climate Change 23. 
+Green Investments 25. 
+Impact Investing 28. 
+ESG and Climate-Related Investment and Insurance Exclusions 30. 
+Risk Management 32. 
+Internal Control and Risk Management 32. 
+Climate Risk Modelling 33. 
+Human Rights Risk Management 33. 
+Shareholder Engagement & Voting 34. 
+Sustainability-Related Memberships and Partnerships 35. 
+ESG and Climate-Related Products 37. 
+ESG and Climate-Related Communications 38. 
+Academic Research 39. 
+Metrics and Targets 40. 
+Investment Carbon Footprint: a 2014-2018 Trend Analysis 40. 
+Own Operations – our Direct Environmental Footprint 41. 
+ESG, RI, Climate and SRI Ratings 42. 
+Statutory Auditors’ Report (PwC) 43 2.
+3.
+4.
+1.
+AXA GROUP 2019 Climate Report June 2019
+
+
+01 AXA GROUP 2019 Climate Report June 2019. 
+Editorial “Paris-alignment” requires robust metrics and broad collective action.
+Ulrike Decoene. 
+Group Head of Communication, Brand and Corporate Responsibility. 
+Pascal Christory Group Chief Investment Officer. 
+While a thriving economy has brought wealth and opportunity to an increasing proportion of the world’s population, the carbon intensive nature of development is a key factor driving climate change.
+The COP21 “Paris Agreement” binds governments to contain global warming “well below” 2°C, and explicitly calls investors to support this objective. More recently, the European Commission also emphasized the key role that investors are expected to play on several sustainabilityrelated issues.
+The challenge is humbling, but rather than to suffer from “paralysis by analysis”, we decided to act early by ending both business and investment ties with the coal and oil sands industries, setting ourselves an ambitious green investment target of 12Bn€ by 2020, and supporting the relevant industry coalitions such as the Taskforce on Climate-Related Financial Disclosures (TCFD) or Climate Action 100+.
+However, the Paris Agreement’s call for “making finance flows consistent” with a low carbon economy also requires understanding the “climate dynamics” of our investments. This concept - striving to align investments with the “2°C” trajectory that science and the Paris Agreement are calling for - forms the core of the TCFD guidelines, as well as France’s “article 173”.
+This “TCFD / art. 173” report, building on our first two Climate reports since 2016, presents our most advanced efforts in this area. It seeks to model both the impact that climate-related risks may have on our investments (what we have termed the “cost of climate”, expressed in financial terms) and conversely the impact that our investments (ie. the businesses and governments we finance) may have on the climate (what we have called here the “Warming Potential”, expressed in “temperature”). This year we have extended the scope of our analysis to our sovereign debt portfolio, measured more types of risks for our Corporate assets, expanded our work on the forwardlooking “Warming Potential” metric, and commissioned our external auditors to audit the report. What have we found?
+Translating international climate objectives into quantitative investment metrics is a new and complex risk modelling exercise; some experimental tools and metrics are available and will require improvements over time. Nevertheless, despite its evolving nature, we believe the “Warming Potential” to be a relevant contribution to the climate finance debate, helping to raise awareness on the need to factor “transition” pathways into climate risk analyses. It may provide a forward looking picture of our investments’ “climate dynamics” by asset class.
+Our current modelling, developed in collaboration with an external expert, reveals that AXA’s investments, on an aggregate level encompassing both Corporate and Sovereign assets, has a “Warming Potential” below a widely used market reference of 3.7°C and various “BAU” projections in excess of 4°C. AXA’s pioneering climate-related divestments (coal, oil sands) are a notable effort but their impact on our Warming Potential remains limited given the size and allocation of our investment portfolios.
+This means that most investors operate in a business environment which is not fully “Paris-aligned”, and where conventional (“mainstream”) investment strategies can only lead to a world which is far above 2°C. Even though “climate-conscious” investors can proactively reorient some capital flows to improve marginally their Warming Potential (or similar approaches), they remain largely constrained by a broader industrial context trapping economies into carbon intensive pathways. This is not a negative conclusion: it is a relevant and measurable perspective for action.
+Indeed, we believe that AXA’s experience both with climate-related asset reallocation (divestments and green investments) and with forward-looking risk metrics explored since 2016 provides us with a legitimate voice in the climate finance debate. Our conviction is that tackling climate change requires a broad transition effort that investors alone cannot achieve. All sectors and companies have a responsibility to evolve while factoring social and business impacts, and it is the responsibility of investors to identify and support, for example through engagement, relevant “transition” strategies while factoring financial risk.
+In short, financial stability that delivers sustainability is an opportunity for all market participants, including policy-makers, to rise to a challenge that is worthy of our best efforts. The transition to a low-carbon economy requires “transition-minded” investors and businesses working together on new solutions to achieve the “2°C” world that science and society are calling for.
+
+
+02 AXA GROUP 2019 Climate Report June 2019. 
+Executive Summary. 
+Executive Summary. 
+Governments gathered during COP21 to sign the “Paris Agreement”, urging to reduce carbon emissions below unsafe levels, and called all investors to support this objective. Simultaneously, the French Government and the Financial Stability Board launched two risk analyses and reporting frameworks (“article 173” and “Taskforce on Climaterelated Financial Disclosures” respectively). AXA presents here its third Climate Report, combining these frameworks, exploring both investments and insurance-related developments, as well as our Climate and more general “Environment, Social and Governance” (ESG) strategy. It is based on the Taskforce on Climate-related Financial Disclosures’ structure: Governance, Strategy, Risk Management and Metrics & Targets.
+1. Responsible Investment & Insurance Governance. 
+AXA has developed a multifaceted governance mechanism covering ESG & Climate issues: the Responsible Investment Committee, chaired by the Group Chief Investment Officer; the Group Underwriting Committee which defines insurance underwriting restrictions; the Group Corporate Responsibility team which establishes AXA’s CR strategy; the Stakeholder Advisory Panel which evaluates future topics of interest; and the Audit Risk & Compliance Committee which is involved in AXA’s TCFD report development process. AXA’s conviction regarding Responsible Investment is that ESG integration may impact long-term investment performance by offering an enhanced understanding of risk drivers. It is also a way to strive for alignment between our investments and broader CR commitments.
+2. Responsible Investment & Insurance Strategy. 
+AXA tracks its investments’ ESG performance in detail by leveraging proprietary tools combining fundamental and quantitative analysis with specialist external research, focusing on our main asset classes: corporate issuers (equity and debt), sovereign issuers and Real Assets (direct property, commercial real estate loans and infrastructure debt). AXA is also testing different approaches to better understand how international climate objectives may be translated into an analysis of investment risks & opportunities. In 2019, AXA significantly extended and deepened the methodology, covering both “transition” and “physical” risks (as defined by the TCFD).
+For our corporate assets, AXA uses Carbon Delta(1)’s “Warming Potential”, combining top-down data derived from the Paris Agreement and bottom-up economic, sector and company data to establish a forwardlooking climate-related set of metrics, as described in section 2. In addition to Carbon Delta, AXA also leverages a methodology developed by Beyond Ratings to assess the “Warming Potential” of its sovereign debt investments.
+(1) A Swiss environmental “fintech”, www.carbon-delta.com/
+AXA's “Warming Potential” is below the widely used market indices of 3.7°C, which shows that today's markets are not aligned with the Paris Agreement companies covered by ESG analysis 7,200
+
+
+03 AXA GROUP 2019 Climate Report June 2019. 
+Executive Summary. 
+This insightful “temperature” approach, despite methodology caveats, helps to raise awareness on the need to factor “transition” pathways into climate risk analyses. Indeed, AXA's combined corporates & sovereign estimated “Warming Potential”, based on these methodologies, is below the widely used market indices (3.7°C), but the results show that today's markets are not aligned with the Paris Agreement. While proactive investors can reorient some capital flows, they remain largely dependent on a broader carbonintensive macroeconomic environment. The concept of “investment portfolio alignment” with a 2°C target requires a far broader multi-stakeholder effort that investors alone cannot achieve.
+Climate risk analysis is also undertaken from a business/investment risk perspective, leveraging three factors for corporate assets: transition risk costs (business impacts from the energy transition), physical costs (impacts of future extreme weather events), and Green revenues. Combining these three factors has enabled us to start estimating that AXA’s “company cost of climate” may represent an average 4.8% reduction on the turnover of the companies we invest in. This translates into a 0.2% reduction in AXA's investment value, which could be described as an average “portfolio cost of climate”. This averaged figure smoothes out heterogenous impacts amongst market players. AXA also assesses how climate change, and in particular extreme weather events, may impact “Real Assets”, such as real estate, using an internal methodology primarily designed to analyze insurance claims risks. Here again, the impacts appear limited compared to the total asset value.
+AXA has set a target to reach €12 billion in “Green” investments by 2020 (green bonds, infrastructure debt & equity, impact investments, real estate, and Commercial Real Estate loans), and is also a proactive player in the field of “Impact Investing”. The Group has recently launched its third Impact Fund, focused on climate & biodiversity. Finally, AXA has implemented a number of sector exclusions which apply both to investments and insurance, including coal and oil sands, “Controversial weapons” manufacturers, and tobacco manufacturers.
+3. Responsible Investment & Insurance Risk Management. 
+AXA’s management of sustainability risks is integrated within a broader risk management framework, and climate risks are modelled using a significant amount of exposure and claims data, combined with advanced climate science, then matched with our “risk appetite”.
+AXA’s shareholder engagement & voting activity is conducted either directly with companies or as part of a coalition of investors, such as Climate Action 100+. We also actively support numerous initiatives related to climate change, ESG and sustainability more generally, such as the UN PRI, the UN PSI, the Climate Finance Leadership Initiative, the Alliance of CEO Climate Leaders, and the TCFD. The Group also partners with NGOs on several sustainability topics.
+AXA offers products that promote environmentally-friendly behavior, in our asset management business via thematic funds (savings and retail business), as well as in our P&C Commercial lines. We protect our customers against natural catastrophes, for example by developing “parametric insurance” products dedicated to climate-related impacts. Finally, the AXA Research Fund supports academic research all over the world. Over 200 environment and climate-related research projects have been supported, totaling €40 million.
+4. Metrics & Targets. 
+AXA discloses its investments’ carbon footprint since 2014, showing a constant decrease. We have also implemented environmental impact reduction targets for our “direct” perimeter, here also reporting a constant decrease. AXA’s ESG performance is rated by specialized rating agencies; AXA ranks amongst the top performers in our industry and is also included in the main international sustainability indices. Finally, AXA developed its own model to assess the sustainability performance of its entities, in the 60 countries where AXA is present.
+€12bn Green investment target by 2020 climate-related reduction of the turnover of the companies we invest in. 4.8% Average
+
+
+04 AXA GROUP 2019 Climate Report June 2019. 
+Context. 
+This report describes AXA’s responsible investment and insurance initiatives, in line with two different but partly overlapping and complementary frameworks: ❯ the mandatory disclosure requirements related to the framework provided for by the French decree(1) implementing Article 173 VI of the law n° 2015-992 of August 17, 2015 (Article L. 533-22-1 of the French Monetary and Financial Code) for Energy Transition for Green Growth Act, which considers environmental, as well as social and governance issues (ESG); ❯ the voluntary disclosure recommendations of the Taskforce on Climate-related Financial Disclosures (TCFD)(2), which focus exclusively on Climate-related factors. AXA references both the TCFD’s “general guidance for the financial sector” and “supplemental guidance for insurance companies and asset owners”.
+Each framework requires disclosure on separate yet complementary aspects of sustainability and how these are integrated into our investment and insurance processes where relevant. To satisfy both, this report answers regulatory requirements derived from Art. 173, while following the TCFD structure (Governance, Strategy, Risk Management, Metrics & Targets, see diagram below). This work was also described in AXA’s 2018 Annual Report (published in March 2019). Note: the TCFD framework is increasingly used as a reference framework by various public and private stakeholders, such as investor coalitions, governments, regulatory authorities and the European Commission. The French Government is also expected to propose evolutions to Art. 173 in 2019.
+The two “correspondence tables” below provide further clarity into how this twin framework is articulated within this report.
+(1) Article D. 533-16-1 of the French Monetary and Financial Code. (2) www.fsb-tcfd.org.
+TCFD Corresponding sections 1. Governance 1. Describe the Board’s oversight of climate-related risks and opportunities. 1. Governance 2. Describe management’s role in assessing and managing climate-related risks. 1. Governance 2. Strategy 1. Describe the climate-related risks and opportunities the organization has identified over the short, medium and long term. 2. Responsible Investment Strategy 2. Climate-related analysis: corporate debt and equity.
+Box – How are “transition” and “physical” climate risks defined? 2. Warming Potential 2. Cost of climate 2. Climate-related analysis: sovereign debt 2. Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+3. Describe the resilience of the organization’s strategy, taking into consideration different future climate scenarios, including a 2°C or lower scenario.
+3. Risk Management 1. Describe the organization’s process for identifying and assessing climate-related risks. 3. Internal Control & Risk Management 3. Climate risk modelling 2. Describe the organization’s process for managing climate-related risks.
+3. Describe how processes for identifying, assessing and integrated into the organization’s overall risk management. 3. Internal Control and Risk Management 4. Metrics and Targets 1. Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+4. Metrics and Targets. 
+Source: www.fsb-tcfd.org:
+Context. 
+A report at the crossroads of investments & insurance, mandatory and voluntary frameworks, and ESG & Climate
+
+
+05 AXA GROUP 2019 Climate Report June 2019. 
+Core Elements of Recommended Climate-Related Financial Disclosures ❯ Governance. 
+The organization's governance around climate-related risks and opportunities ❯ Strategy. 
+The actual and potential impacts of climate-related risks and opportunities on the organization's businesses, strategy and financial planning ❯ Risk Management The processes used by the organization to identify, assess and manage climate-related risks ❯ Metrics and Targets. 
+The metrics and targets used to assess and manage relevant climate-related risks and opportunities. 
+Metrics and Targets. 
+Risk Management. 
+Strategy. 
+Governance. 
+Source: www.fsb-tcfd.org. 
+Context. 
+Article 173 Corresponding sections. 
+Integration of ESG criteria 1. Consideration of ESG issues in investment policy and risk management 1. AXA’s approach to Responsible Investment (RI) 1. Governance 3. Internal control & Risk Management 2. List and percentage share of funds that integrate ESG criteria 2. Responsible Investment Strategy 2. ESG integration: tools and methodology 2. ESG and climate-related investment and insurance exclusions 3. Climate risk modelling 3. ESG and Climate-related products 3. Methodology used for analyzing the criteria and justification of the approach 4. Information on the results of the analysis and actions taken. 
+Integration of climate-change related risks 1. Physical and transition risks 2. Responsible Investment Strategy Box – “Transition” and “physical” climate risks 2. Climate-related analysis: corporates 2. Climate-related analysis: sovereign 2. Portfolio alignment 2. “Cost of climate” 2. Real Assets: factoring the “Physical” risks of climate change 2. Green investments Box – Defining a “Taxonomy” 3. Climate risk modelling 4. Carbon footprinting 2. Assessment of the contribution to meeting the international target of limiting global warming and to achieving the objectives of the French Low Carbon Strategy (sector-specific targets and carbon budgets)
+Statutory Audit. 
+PwC auditors reviewed our processes and procedures for 2018 and verified a selected subset of the information published in this report. PwC has expressed a limited assurance that this selected information is, in all material respects, fairly presented. To AXA's knowledge, this may be the first TCFD report to be audited.
+
+
+06 AXA GROUP 2019 Climate Report June 2019. 
+COP21 & the Paris Agreement. 
+Science is clear: the IPCC (Intergovernmental Panel on Climate Change) Fifth “Assessment Report”(1) presented evidence from the global scientific community that the Earth is warming at an unprecedented rate and that anthropogenic Greenhouse Gas (GHG) emissions are the main cause, in particular carbon dioxide (CO2). The likely impacts of climate change are well documented, and indeed some of the effects that had been predicted by science in the past are now occurring: for example, loss of sea ice, accelerated sea level rise and longer, more intense heat waves.
+(1) https://www.ipcc.ch/report/ar5/syr/.
+The IPCC predicts that effects will include further melting ice and rising seas, resulting in flooding and erosion of coastal and low-lying areas. Some developing countries will be most affected, as local populations depend significantly on their natural environment and have less resources to cope with a degraded climate. Heat-related deaths and water-borne illnesses may increase. Many plants and terrestrial, freshwater and marine species are struggling to cope with a fastchanging climate and face an increased risk of extinction. Finally, local economies may suffer from increased damage to property and infrastructure and certain industries which rely most on environmental factors, such as agriculture, forestry, energy and tourism, may face decreasing revenues.
+Therefore, in December 2015, 195 countries gathered in Paris to negotiate and adopt the Paris Agreement(2). Countries that ratified the agreement legally bound themselves to collectively hold warming to “well below 2°C compared to pre-industrial levels” (period before 1750) and pursue best efforts to limit warming to 1.5°C by 2100. These thresholds were chosen based on the “level of destruction” they entail. Indeed, the risks associated with warming are substantially lower at 1.5˚C than 2˚C(3). The Paris Agreement also highlighted the role of investors (see Box).
+(2) https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en. (3) The IPCC 2018 report revealed for example that by 2100, sea level rise would be 10 cm lower in a “1.5°C world” compared with 2°C. Extreme heatwaves will be experienced by 14% of the world’s population at least once every five years at 1.5°C, but this ratio rises to 37% under 2°C. Coral reefs will still decline by 70-90% under 1.5°C, but this will rise to 99% under 2°C. A half degree makes a significant difference.
+(4) UNEP, 2018.
+COP21 Paris Agreement Article 2: the Key Role of Investors “This Agreement (…) aims to strengthen the global response to the threat of climate change (…) by: (a) Holding the increase in the global average temperature to well below 2°C above pre-industrial levels (…); (b) Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas (“GHG”) emissions development (…); and (c) Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.”
+Methodology Box. 
+COP21 & the Paris Agreement 3.1°C – 3.7°C. 
+Mean global temperature increase by 2100 if today's national pledges are implemented. 
+In order to reach the global goal set out in the Paris Agreement, each country set out a Nationally Determined Contribution (NDCs, see Box) which outlines a carbon emissions reduction target and country-specific actions towards it. As these are voluntary and independently determined, whether the world achieves “below 2°C” will depend on the countries’ ambition to set and deliver the necessary GHG emissions reduction targets.
+Global warming scenarios or temperature goals can be translated into a global carbon budget. However, to be on track for the 2°C trajectory, global emissions should be significantly lower in just a few years than they are today. Indeed, the UNEP “Emissions Gap” report(4) shows that the current global emissions pledges (NDCs) leave the world on a warming pathway of 3°C by 2100 (see Box: The NDC Dynamics).
+“Well below 2°C”
+The commitment to contain global warming to safe levels taken by 195 countries during COP21 in 2015
+
+
+07 AXA GROUP 2019 Climate Report June 2019. 
+The NDC Dynamics: Time Horizon of Climate Action. 
+CURRENT WARMING TREND. 
+TARGET WARMING TREND 1°C. 
+Time frame to implement current NDCs which represent 1/3 of the emissions reduction needed (UNEP)
+IPCC predicted world temperature by 2040 at current warming rate. 
+Deadline to achieve carbon neutrality (Article 4: Paris Agreement)
+Target date to mitigate warming (Article 2: Paris Agreement); end of the global carbon budget 2018 2030 1°C 3.2°C 2°C. 
+The Road to 2 Degrees 2100 2nd half of this century. 
+Methodology Box. 
+The Paris Agreement binds parties to limit warming to well below 2°C compared to preindustrial levels by 2100. The vast majority of current NDCs have 2020 to 2030 as their stated compliance period. NDCs expressed to 2050 are scaled back to 2030 in our modelling. The 2018 UNEP Gap Report estimates that implementing the unconditional NDCs would lead to a mean global temperature increase of around 3.2°C, and analysts estimate that a “BAU world” (NDCs not implemented) would produce at least +4°C. The period between 2018 and 2030 is considered a critical window for political action for the 2°C target to be within reasonable reach (i.e. achievability at the lowest cost with current technology).
+Source: Carbon Tracker.
+An Emissions Pathway for the World. 
+In 2018, human-induced warming already reached a global average of about 1°C above pre-industrial levels(1). The world’s emissions curve must peak before 2050 and follow a downward trend to reach carbon neutrality by the second half of this century. Carbon neutrality or “net zero” emissions involves striking a balance between anthropogenic emissions by sources and removals by carbon sinks (eg. forests, oceans). At this point in the century, the world would have phased out most CO2 emissions and would be employing methods that capture and store the remaining low levels of emissions (offsetting) as well as the CO2 in the atmosphere from the build-up of historical emissions. Green technologies are instrumental in achieving this decarbonization pathway.
+(1) IPCC, 2018, p. 45.
+Key Climate Dates for the World Economy 2100 Warming Projections Emissions and expected warming based on pledges and current policies.
+COP21 & the Paris Agreement
+
+
+08 AXA GROUP 2019 Climate Report June 2019. 
+The science and political ambition show there is a need for strong collective action to fight climate change.
+Climate change is a medium to long-term risk, with a complex quantification of impacts on our activities. AXA’s strategy is not only to adapt, but also to take advantage of our expertise to provide solutions. Indeed, we are well equipped to contribute to the understanding of climate change through our risk management expertise, the vast number of claims data we collect, and the research we fund to address climate-related risks. We also have a duty to disseminate knowledge about new risks. Through our underwriting decisions, we can also show the risks society is taking and foster prevention actions to mitigate them. Finally, through our significant investments, we are also well positioned to send the right signals to the investment community and to the specific companies we invest in. More specifically, our strategy currently includes the following initiatives: ❯ investments: investing in green assets, divesting from certain carbonintensive industries (coal and oil sands), climate-related shareholder engagement, climate risk analysis with a long-term view; ❯ insurance: underwriting restrictions on the coal and oil sands industries, “green/sustainable” products in both Property & Casualty and Life & Savings ranges, promotion of new insurance solutions designed for developing countries (typically parametric insurance); ❯ operations: direct environmental footprint targets covering energy & carbon emissions, water and paper; ❯ thought leadership, NGO partnerships, academic research (AXA Research Fund), public/private partnerships to foster prevention; ❯ more recently, the Group has also decided to start addressing the interrelated issue of biodiversity loss through a comprehensive strategy that will be gradually rolled out. See for example AXA’s first report(1), with recommendations co-signed by AXA and the WWF, on the connections between biodiversity loss and investments.
+The following pages describe these efforts in greater detail.
+(1) https://group.axa.com/en/newsroom/news/how-to-support-the-transition-towards-the-protection-of-biodiversity.
+AXA’s Activities in a Changing Climate Context. 
+AXA’s Activities in a Changing Climate Context
+
+
+09 AXA GROUP 2019 Climate Report June 2019 1. Governance. 
+AXA’s Approach to Responsible Investment (RI)
+AXA defines RI as the integration of Environmental, Social and Governance (ESG) considerations into investment processes, including ownership practices.
+Our conviction is that ESG integration may impact long-term investment performance by offering an enhanced understanding of risk drivers. This conviction is derived from academic research and empirical market data. It is also a way to strive for alignment between our investments and broader Corporate Responsibility commitments. AXA developed a comprehensive RI strategy covering the Group’s General Account assets and is extending it to its Unit-Linked investments.
+The process of ESG integration is coordinated centrally, with an active input from our asset managers that include ESG metrics in their investment analysis across asset classes and regions.
+The AXA Group as well as its two Asset Management entities (AXA IM and AB Global(1)) are signatories of the UN-backed principles for Responsible Investment (UN PRI).
+(1) Following the IPO of AXA US in 2018 and subsequent sell-downs of AXA Group’s ownership interest, AXA Equitable Holdings and AllianceBernstein will cease to be included in the scope of the Group’s TFCD reporting from 2019 onwards.
+(1) Following the IPO of AXA US in 2018 and subsequent sell-downs of AXA Group’s ownership interest, AXA Equitable Holdings and AllianceBernstein will cease to be included in the scope of the Group’s TFCD reporting from 2019 onwards.
+ESG & Climate Governance. 
+Group Investment Committee. 
+ESG Footprint Committee ❯ Review the issuers and sectors challenged from an ESG perspective.
+❯ The Committee votes for: divestment, engagement or credit review, investment still allowed. 
+RI Center of Expertise ❯ Empowered expert group presenting their recommendation to the RIC ❯ Monitor local implementation of RI policy ❯ Coordinate investment initiatives. 
+Group Asset Managers (AXA IM, Alliance Bernstein) ❯ Participate in RIC and give guidance on RI Policy ❯ Provide ESG research ❯ Report annually on RI progress ❯ Take lead in supporting specific RI initiative. 
+Local Chief Investment Officers ❯ Build entity-level RI action plans ❯ Review investment mandates. 
+Group Corporate Responsibility ❯ Monitor RI trends ❯ Propose RI themes for study ❯ Manage relationship with NGOs. 
+Responsible Investment Committee ❯ Define, launch, implement and follow up on RI strategy ❯ Chaired by Group CIO + investment teams members, Corporate Responsibility, Risk Management, internal asset managers
+
+
+10 AXA GROUP 2019 Climate Report June 2019. 
+Investments. 
+AXA created a Group-level Responsible Investment Committee (RIC), chaired by the Group Chief Investment Officer, and including representatives from AXA Asset Management entities, Corporate Responsibility, Risk Management and Communications. The RIC reports to the Group Investment Committee, chaired by the Group Chief Financial Officer. In addition, the “ESG Footprint Committee” – bringing together the Group Investment Department, local insurance entities, the Group’s asset managers and Group CR – reviews risks posed by companies or sectors presenting a low ESG performance and/or serious and persistent controversies, and their impact on financial performance and credit quality. It reviews issuers/industries in which AXA has invested, from a pure ESG perspective. It can decide on specific follow-up actions.
+AXA’s RI policy is supported by the RI Center of Expertise, a transversal working group from AXA’s local investment teams interacting with the CR network and the Group’s Asset Management entities. AXA IM has also developed a dedicated RI Governance involving all its central management teams and investment platforms.
+Insurance Underwriting. 
+Insurance-related ESG risks also benefit from a specific governance, notably the Group Underwriting Committee, which defines underwriting restrictions, including CRrelated. The Group CR team provides a bridge with the RI-related governance. In addition, a 1. Governance dedicated team with Group Risk Management analyses Emerging Risks (often related to long term ESG issues) via a specific framework, tools and local network in order to monitor their materiality.
+Corporate Responsibility. 
+AXA has established a robust governance framework to develop and implement its CR Strategy, including its climate, ESG, investment and underwriting dimensions. Every year, the Board of Directors’ Compensation and Governance Committee examines the Group’s CR strategy and reports to the Board of Directors on this matter. Moreover, the Group Management Committee reviews the CR strategy at least once a year. On a local entity level, a network of “Chief Corporate Responsibility Officers” is responsible for coordinating the CR strategy and promoting best practices. The CCROs are supported by local CR teams.
+AXA also leverages its Stakeholder Advisory Panel(1) to better evaluate future topics of interest. Indeed, in 2014, AXA created a Stakeholder Advisory Panel to advance the company’s role as an insurer in building a stronger, safer and more sustainable society. Twice a year, it gathers senior external and influential figures who are collectively representative of AXA’s stakeholder groups, as well as AXA’s top management and members of our Board of Directors.
+In 2019, as required by the new EU “Non-Financial Directive”, AXA conducted an internal risk assessment to identify its main sustainability risks, grouped into the following main categories: social risks, human rights risks, environmental risks and risks related to business conduct. This process is further described in our Annual Report’s chapter 7.
+More generally, AXA has developed a culture of stakeholder dialogue by working closely with a number of civil society partners, with a view to strengthening its understanding of evolving sustainability issues.
+Risk Committee. 
+The Group’s Audit Risk & Compliance Committee, with input from different teams (notably audit, compliance, Legal, financial risk management, P&C risk management, communications) assessed the governance and development process of AXA’s 2019 Climate Report. See section 3 “Risk Management”.
+(1) www.axa.com/en/about-us/stakeholder-advisory-panel.
+
+
+11 AXA GROUP 2019 Climate Report June 2019. 
+ESG Integration: Preliminary Investment Universe Identification and Internal Credit Rating. 
+The group credit research team assigns an internal credit rating (“ICR”) and manages issuer eligibility for investments.
+The ICRs cover more than 80% of AXA Group’s credit portfolio. For the remaining part, ratings from external Credit Rating agencies are taken into account. When performing a credit review and assigning an ICR, the credit research team assesses several credit factors related to an issuer’s business and financial profiles (below). The assessment is relative to a group of issuers within the same industry/geographical area. Each factor is assessed as strong, neutral or weak versus peers.
+Non-Financial Corporates. 
+FINANCIAL FACTORS ❯ Profitability ❯ Cash flow coverage ❯ Leverage. 
+BUSINESS FACTORS ❯ Industry ❯ Market position ❯ Strategy ❯ ESG & transparency. 
+Financial Corporates. 
+FINANCIAL FACTORS ❯ Solvency & leverage ❯ Asset quality ❯ Profitability ❯ Liquidity & funding. 
+BUSINESS FACTORS ❯ Operating environment ❯ Market position ❯ Strategy & risk appetite ❯ Support ❯ ESG & transparency 2. Strategy. 
+Responsible Investment Strategy. 
+AXA’s RI strategy is based on four main pillars: ❯ Integrating ESG and carbon metrics into investment processes and decisionmaking, using KPIs and qualitative research across most of our assets. This includes the implementation of ESG “minimum standards” rules to review and potentially exclude underperforming issuers from AXA’s portfolios; ❯ Excluding sectors or companies that face acute social, human rights, ethical or environmental challenges. These sector restrictions (which apply both to investments and insurance) currently include: controversial weapons, coal mining/coal-based power generation, oil sands and associated pipelines, palm oil, food commodity derivatives, and tobacco; ❯ Promoting “Green” investments across different asset classes, based on proprietary criteria derived from a recognized market standard. This includes “impact investments” delivering positive environmental or social as well as financial returns which are actively tracked; ❯ Active stewardship through voting and engagement on a range of ESG or sustainability issues.
+AXA created a Group-level Responsible Investment Committee, chaired by the Group Chief Investment Officer, and including representatives from AXA Asset Management entities, Corporate Responsibility, Risk Management and Communications. 
+EACH OF THESE PILLARS IS DEVELOPED IN THE FOLLOWING PAGES
+
+
+12 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The ESG & transparency factor is not markedly different from the other credit factors considered when forming a credit opinion and assigning an internal rating. It can also be a key rating driver and in some cases an overriding factor. It should be noted that the credit research team assesses the materiality of ESG factors on an issuers’ creditworthiness, which is different from a traditional comprehensive ESG analysis. Indeed, ESG analysts use ESG information from sources ranging from company reports to ESG data providers and specific industry sources. Credit analysts try to evaluate how they contribute to an issuer’s market position, revenues, profitability, capex and cash flow, etc.; each analyst evaluates which criteria are the most meaningful, observable and material by sector.
+ESG & transparency factors can also differ from other factors in terms of time horizon. Although it can be material within our usual rating horizon (around two years) and thus impact the ICR like any other factor, ESG/ transparency factors can also have a longer horizon before they potentially materialize. In such cases, the ICR may not be impacted but the credit research team can still take other actions such as proposing to stop investing or imposing maturity constraints. Those decisions are then implemented by asset managers investing on behalf of AXA.
+The AXA Group is also a member of the UN PRI’s Advisory Committee on Credit Ratings (“ESG integration in credit”), aiming to enhance the transparent and systematic integration of ESG factors in credit risk analysis.
+ESG Integration: Tools and Methodology. 
+This tool provides access to a wide range of quantitative and qualitative extra-financial data and analysis on ESG factors across asset classes, wich is used both for AXA's General Accounts assets and third party assets, where appropriate. Its breadth enables asset management teams (portfolio managers, fund managers and analysts) to incorporate ESG criteria into their investment decisions.
+This platform, which provides ESG scores and analyses based on the ESG framework per asset class described below, is fed by information collected from the major expert sources in ESG analysis. The RI front office tool covers 7,200+ companies, 100% of the MSCI World Index, ESG data on 150 governments worldwide, and qualitative ESG reports.
+By combining fundamental and quantitative analysis with specialist external research and a range of analytical tools, the RI front office tool enables research across a variety of ESG factors, such as carbon footprint, greenhouse gas emissions, company training budgets, employee turnover and executive remuneration policies, to be aggregated and disseminated to all portfolio managers via their desktops.
+The AXA IM RI front office tool allows AXA IM fund managers to: ❯ assess in a more holistic manner the financial risk of their investments; ❯ measure a portfolio’s carbon footprint or pick companies according to their carbon intensity; ❯ integrate new factors of performance and stock picking into investment process; ❯ enrich client reporting and better respond to client requirements; ❯ have access to AXA IM’s RI team’s research.
+The complete range of functionalities in AXA IM’s RI front office tool includes investment universe screening analyses, ESG portfolio footprints, carbon data calculations, sector screening, and company-specific ratings, research and analysis.
+AXA's RI tools combine fundamental and quantitative analysis and covers a variety of ESG factors, such as carbon footprint, greenhouse gas emissions, company training budgets, employee turnover and executive remuneration policies. 
+AXA tracks its investments’ ESG performance in detail by leveraging AXA IM’s tools. AXA IM launched a proprietary RI scoring tool in 2007, and a dedicated front-office tool in 2017.
+of the Group's Credit Portfolio covered by an internal credit rating80% companies covered by AXA's ESG research 7,200
+
+
+13 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+AXA IM’s RI Front Office Tool has a complete range of functionalities, enabling portfolio managers to utilize it during the different phases of the investment decision-making process.
+
+
+14 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The ESG methodology is adapted to different asset classes by applying a different framework on corporate issuers, sovereign issuers and real assets.
+❯ Corporates issuers (equity and debt): the ESG assessment consists in focusing on the most material and impactful key ESG issues at sector level, with a thorough selection of best data sources and most detailed ESG criteria. E, S and G factors are weighted differently in the overall ESG scores engineering depending on the sector. The overall score computation process also includes a monitoring of “core ESG” risks with the treatment of most severe basic principles violations, resulting in a systematic score discount for the most material controversies. Finally, ESG scores take into account the performance of each company within its peer group, considering issuers’ regional specificities in the assessment of the ESG quality. In 2018, AXA IM revamped its ESG scoring methodology to emphasize impact and materiality notably through increased weight of controversies. As of 2018, 94% and 95% of corporate equities and bonds respectively in the portfolio are covered by ESG scoring.
+❯ Sovereign issuers: AXA’s ESG scoring framework for countries is based on public data sources such as the World Bank, the OECD, and the UN. It currently covers more than 100 countries, consisting of a spectrum of mature and emerging economies. This approach places the notion of sustainable development at the heart of ESG country assessments by analyzing countries’ positioning on fundamental issues with regards to major climatic, social, and political risks. This is carried out by internalizing the progress made by each nation on long-term sustainability topics. Implicit sustainability biases introduced by varying degrees of country constraints are addressed in this process wherein selection criteria are adapted to the level of the countries’ maturity and development. As of 2018, 88% of sovereign bonds in the portfolio are covered by ESG scoring.
+❯ Real Assets: AXA’s ESG scoring frameworks for Real Assets covers 3 asset classes: direct property, commercial real estate loans and infrastructure debt. The ESG scoring for these assets is based on dedicated proprietary questionnaires. The overall asset ESG score is a combination of various sources of ESG risks assessment. For example: the property or building, the property manager, etc. Criteria such as the building’s energy efficiency, environmental certificates, its accessibility, and country factors (to reflect local regulation) are similarly taken into account. As of 2018, 76%, 100% and 100% of property, commercial real estate loans and infrastructure debt respectively in the portfolio are covered by ESG scoring.
+Corporate Bonds assets covered by ESG analysis 95%
+
+
+15 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Converting international climate objectives (such as those derived from the COP21 Paris Agreement, French or EU energy mix targets) into quantitative investment targets is a new and complex risk modelling exercise. AXA has been testing different approaches since 2016 and it is clear that no tool today enables to conduct a perfectly satisfactory risk assessment.
+Being cognizant that there has yet to be methodological consensus on climate risk and opportunity assessment for the financial sector, AXA has continued to adopt a “test and learn” approach in order to refine our understanding of our exposure to climate-related risks, and how to better contribute to the low-carbon transition.
+Building on previous efforts, in 2018 AXA has decided to deepen its work based on the methodology provided by an external climate risk partner (Carbon Delta, also used in 2017), while also extending its use of internal “NatCat” models to cover a wider spectrum of our Real Assets investments.
+This work covers two broad areas: “transition risk” and “physical risks” (see Box). AXA strives to build a climate dashboard of relevant KPIs that form a complete and meaningful picture of its position with regards to climate. In addition to Carbon Delta for corporate debt and equities, our investment teams also test methodologies provided by Beyond Ratings for sovereign securities, and TruCost for overall carbon footprinting. See the diagram below for an overview of the metrics referred to in this report.
+Contribution to global warming, expressed in temperature.
+SOVEREIGN DEBT Warming Potential. 
+Carbon intensity Carbon Footprint, expressed in T eq.CO2/GDP.
+
+METRIC WHAT DO WE MEASURE? ASSET CLASS DATA PARTNER. 
+REAL ASSETS Physical risks costs Building-level impacts of extreme weather events, expressed in €m.
+Group Risk Management. 
+CORPORATE BONDS & EQUITY Transition risks costs. 
+Physical risks costs. 
+Impact of CO2 emissions reduction, expressed in % of revenues afected. 
+Green revenues Future green revenues, expressed in % of revenues.
+Contribution to global warming, expressed in temperature. Warming Potential. 
+Impact of extreme weather events (asset damages and business interruption), expressed in % of revenues afected. 
+CORPORATE BONDS, EQUITY, SOVEREIGN DEBT, REAL ASSETS. 
+Carbon intensity Carbon Footprint of AXA’s portfolio, expressed in T eq.CO2/m$ of revenues.
+How are “Transition” and “Physical” Climate Risks Defined?
+According to the TCFD, companies may face “transition” and “physical” risks: ❯ “Transitioning to a lower-carbon economy may entail extensive policy, legal, technology, and market changes to address mitigation and adaptation requirements related to climate change. Depending on the nature, speed, and focus of these changes, transition risks may pose varying levels of financial and reputational risk to organizations.” ❯ “Physical risks resulting from climate change can be eventdriven (acute) or longer-term shifts (chronic) in climate patterns. Physical risks may have financial implications for organizations, such as direct damage to assets and indirect impacts from supply chain disruption. Organizations’ financial performance may also be affected by changes in water availability, sourcing, and quality; food security; and extreme temperature changes affecting organizations’ premises, operations, supply chain, transport needs, and employee safety.”
+These definitions are used by numerous organizations, and frequently referred to in this report.
+Context Box. 
+Climate-Related Analysis: Corporate Debt and Equity
+
+
+16 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+As coined by the TCFD, modelling the extent to which investors may be impacted by shifting market and regulatory trends related to the transition to a low-carbon economy is termed “transition risk”.
+It can be measured in financial or purely “climate” terms, and it can be applied to various asset classes, notably corporate fixed income & equity, sovereign debt, and Real Assets. AXA is currently testing the financial implications of such concepts, as described below.
+“Warming Potential”: Why does this new metric matter?
+As highlighted in this report’s introduction, the Paris Agreement’s goal to contain global warming below 2°C invites all market participants to reorient “finance flows” in line with this target. The TCFD guidelines expect “asset owners to describe how they consider the positioning of their total portfolio with respect to the transition to a lower-carbon economy”. In France, article 173 requires investors to explain how they contribute to the goal of limiting global warming, and indeed expects them to set targets about this goal and explain how these targets relate to “international agreements to reduce global warming”. More generally, many stakeholders are expecting the finance industry’s contribution to the climate debate to embrace the concept of “Paris-aligned investments”. The answers so far have taken various shapes, such as carbon footprinting (which is not forwardlooking), divestments (which only focus on the most carbon intensive sectors), green investments (which are challenging to bring to scale and often overlook “transition” sectors) or shareholder engagement (with results that are difficult to measure).
+This is why more and more investors are turning towards new types of analyses and corresponding metrics that seek to complement these efforts, while also presenting a more insightful response into what it means to be a “Paris-aligned” investor. AXA presents the concept of “Warming Potential” in the following pages as a potentially promising approach. The concept is relevant, but methodology challenges remain significant.
+“Warming Potential” Methodology. 
+As explained in the Box above, the concept of “portfolio alignment” with international climate targets, as expected by voluntary (TCFD) and mandatory (art. 173) frameworks, requires testing innovative forward-looking metrics. Since 2018, AXA leverages a “transition risk” model developed by Swiss environmental fintech Carbon Delta which produces the “Warming Potential” metric expressed in terms of temperature.
+Its modelling approach combines top-down data and bottom-up economic and company data to establish a forward-looking climate-related set of metrics. Indeed the WP methodology relies on a top down approach based on: ❯ country-level “Paris Agreement” commitments (Nationally Determined Contributions, “NDCs”) projecting carbon intensities to 2030 (the horizon of the NDCs presented to the COP21); ❯ gaps between NDCs and carbon emissions budget associated to various temperature scenarios (according to the UNEP Gap report); ❯ company-level business mix structures by sectors and countries; ❯ company-level current carbon intensities (scope 1) and R&D in green technologies/products; ❯ R&D in green technologies/products highlighting “transition” opportunities.
+One of the key features of Carbon Delta’s approach is to correlate macro level “carbon budgets” with companies depending on their geographic footprint and sector, as well as business mix. By working with Carbon Delta, AXA was also able to produce a more balanced Warming Potential approach(1) considering both companies’ absolute and sector relative contributions to global warming, by combining: ❯ a “sector specific” approach which takes into account the regulatory perspective of a country’s economic sectors. Regulation is not “blind” to what an economy needs. Hence, although a utility company and a services company have vastly different carbon intensities (as shown below), their warming curve functions might converge. For instance, as utilities are central to an economy’s functioning they might be allocated a larger proportion of a country’s “2°C compliant” carbon budget than the services sector. As such, in this approach high emitters’ carbon intensity might be partly muted through sectorspecific CO2 reduction requirements, which underlie the sector specific warming curve. This explains why a utilities and service company can have a similar Warming Potential while having vastly different carbon intensities.
+❯ a “Sector Agnostic” approach which is based on an absolute emissions intensity view, regardless of the sector or the functioning of an economy. It simply aggregates the emissions of all companies and does not provide leeway to high emitters via greater sector-specific carbon budgets. As such, this Warming Potential directly reflects the collection of low and high emitters a portfolio might contain. The benefit of this approach is that it rewards the effort of companies that are well performing regardless of the sectors they operate within.
+❯ counterbalanced by green patents issued by emitters, the hypothesis being that companies with more patents will be more likely to develop the green technologies required to transition to a low carbon economy.
+The “combined” (averaged) Warming Potential approach places more emphasis on emissions reductions from carbon-intensive sectors, while still ensuring that all other sectors are expected to contribute to the transition to a low-carbon economy. This deliberate methodological choice factors both the sectors’ relative contributions to climate mitigation as well as individual companies’ best practices within their respective industries to curb their carbon intensities. Indeed, AXA believes that each player in the global economy should have a responsibility to support the low carbon transition, and in turn, investors who are committed to support the energy transition have a responsibility to identify, within each sector, the companies best prepared for this transition – as described in this report.
+(1) Perimeter used for Warming Potential calculations: Sovereign 99.7% of Assets Under Management, Corporate debt 70% AUMs, Equities 95%.
+Methodology Box. 
+AXA’s “Warming Potential”
+
+
+17 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+AXA’s Corporate Investments’ Warming Potential Sector Breakdown. 
+Corporate Bonds Warming Potential (Temperature) ● Corp. investments Temp. "sector specific" in °C Corp. investments Temp. "sector agnostic" in °C ● ● Corporate Investments Temperature in °C. 
+Basic Materials. 
+Energy. 
+Utilities. 
+Diversified. 
+Industrial. 
+Government. 
+Consumer Cyclical. 
+Consumer Non-cyclical. 
+Communications. 
+Financial. 
+Technology 0
+1 2
+3 4
+5 6
+7. 
+Warming Potential (°C)
+Equities Warming Potential (Temperature) ● Corp. investments Temp. "sector specific" in °C Corp. investments Temp. "sector agnostic" in °C ● ● Corporate Investments Temperature in °C. 
+Basic Materials. 
+Energy. 
+Diversified. 
+Utilities. 
+Industrial. 
+Consumer Non-cyclical. 
+Consumer Cyclical. 
+Communications. 
+Financial. 
+Technology. 
+Warming Potential (°C) 0
+1 2
+3 4
+5 6
+7. 
+Source: Carbon Delta.
+How can a large asset owner like AXA influence its Warming Potential, bearing in mind the numerous regulatory and fiduciary constraints to which an insurer's investments are subject? There is still room for action. For example, our analysis shows that AXA’s climate-related divestments (coal, oil sands) have reduced our investments’ carbon footprint (see section 4) as well as the Warming Potential of our corporate holdings, as the “warmest” sectors (Utilities, Materials, Energy) are now underweighted in terms of asset allocation. Indeed, the average Warming Potential of AXA's coal and oil sands exclusion list reaches 4.6°C (including the “smoothing” effect on temperature caused by combining sector “agnostic” and “specific” models). These divestments slightly reduced AXA’s Warming Potential. Indeed this effect concerns only a small fraction of AXA’s overall corporate investments, and it has a gradual impact as coal/oil sands debt assets are run off over the course of several years. This is why this decision alone is insufficient to bring AXA’s Warming Potential significantly below its benchmark, and a more comprehensive approach, including all industry participants, is required.
+A First Estimate of AXA’s Corporate Investments Warming Potential. 
+Based on the methodology described above, AXA’s Corporate Securities (debt and equities combined) “Warming Potential” estimate stands in line with widely used market indices (BofAML Global Aggregate – Corporate and MSCI ACWI) of 3.3°C. It should come as no surprise that these figures are above 2°C: this confirms that with today's public policies and business environment, and according to the “Warming Potential” approach tested here, AXA's operating investment universe is not aligned with the 2°C trajectory agreed during COP21.
+The graphs on this page show this analysis per sector and per asset class (corporate debt vs equities).
+3.3°C 4.6°C. 
+The “Warming Potential” of the main corporate market indices. 
+The “Warming Potential” of AXA's divested coal and oil sands assets
+
+
+18 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The Key Role of the Power Sector: from Carbon Budgets to a Targeted Energy Mix. 
+As analysed by the IPCC(1), the current climate pledges (NDCs) are broadly consistent with a warming of 3.2°C by 2100, and CO2 emissions show no sign of stabilizing yet. To achieve a «1.5°C world» two conditions must be met.
+1) Shifting the energy mix. In the power sector, renewables will need to supply 70% to 85% of power by 2050. There is still room for fossil fuel generation combined with technology to capture and store CO2, (termed CCS – Carbon Capture and Storage) but it will be limited: around 8% for gas and close to zero for coal by 2050. Nuclear power acts as a back-up to renewables and a substitute to coal in many 2°C and 1.5°C pathways, often requiring an expansion of nuclear fleets in various IPCC scenarios.
+2) Shifting energy demand. Industry will need to reduce CO2 emissions by 75-90% by 2050 compared to 2010. Clean electrification, alternative lowcarbon fuel sources and CCS will be needed, as energy and process efficiency in industry by themselves are insufficient. Buildings and transport will need to shift heavily towards green electricity. 1.5° warming scenarios will rely on bioenergy and/or expansion of forests, potentially conflicting with demands for pasture and arable land. Sustainable agriculture and less resource-intensive diets can compensate these impacts to some extent.
+(1) Special report on Global Warming of 1.5°C.
+AXA’s “Cost of Climate”
+In addition to the “Warming Potential” approach, which embodies the impact that investments may have on the climate, climate risk analysis can also be undertaken from a business/investment risk perspective to assess how climate change may impact investment returns.
+Here as well, Carbon Delta proposes an analysis based on the following three pillars: ❯ Transition (or “regulation”) risk costs: the low carbon transition, both via market and regulated evolutions, may significantly impact business models. This will likely create economic losses in the form of “regulation costs” for those who fail to adequately adapt (See Box – Carbon pricing). Transition risks for each company represent how much a reduction of their CO2 emissions by 2030 (the NDC horizon) will cost them, relying notably on their sector/ activities and on the countries where they operate. It is expressed as a proportion of revenues negatively affected by this cost.
+❯ Physical costs: for each company, we identify how much potential future extreme weather events (5 “chronic” hazards – extreme heat, extreme cold, heavy precipitation, heavy snowfall, wind gust – and 2 “acute” hazards – coastal flooding and tropical cyclones) by 2030 will cost them (via asset damages and business interruption), relying on their activities and location, and combined with expected vulnerability factors. This is also expressed as a proportion of revenues negatively affected by this “cost”.
+❯ Green revenue: for each company, we identify how much revenues future green technologies developments by 2030 will generate for the company, using company-level patent databases (see Box) to estimate future revenue flows from green and low carbon technologies. This is expressed as a proportion of revenues positively impacted by these revenues.
+Context Box. 
+Achieving a 1.5°C or 2°C world is necessarily a shared responsibility amongst energy suppliers, industrials, consumers, investors and regulators 4.8%
+AXA's “Company cost of climate” 0.2%
+AXA's “Portfolio cost of climate”
+
+
+19 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Green patents: a proxy to identify the “winners” of the energy transition?
+The model used links green revenues with the occurrence of specific green patents. While certainly not the only factor to be taken into account to estimate future green revenues, a statistically relevant correlation has been established by Carbon Delta. The high share of green patent filings in the energy and transport sectors demonstrate companies’ responsiveness to reduction efforts needed in the most relevant sectors, hopefully facilitating the low-carbon transition on a macroeconomic level. The greatest green investments are being made in transport (48%), renewable energy (22%), and energy efficiency (19%)(1). This allocation is a positive development given that the energy sector contains the highest sectoral emission reduction potential to reach targets for 2030, followed by transport. Moreover, given these are the sectors most immediately concerned, this is a positive sign of reactivity within our portfolio to address transition risks. For AXA, green patent filing represents a promising area to monitor and a possible lever of shareholder engagement.
+(1) Carbon Delta analysis.
+These combined costs and opportunities are then translated into a “climate cost” indicator. As detailed in the table below, our exploratory analysis also shows that, on aggregate, the companies we invest in may lose 4.6% of their total revenues in transition costs, and 4.6% of revenues to physical costs, but this is partly offset by green revenues equivalent to 4.4% of total revenues, thanks to the results derived from forward-looking green patent investments. Ultimately, and according to this methodology, AXA’s “Company cost of climate” appears to be equivalent to an average 4.8% reduction of the turnover of the companies we invest in. This would translate into a 0.2% reduction in AXA's investment value, which could be described as a “Portfolio cost of climate”. However, this averaged figure necessarily smoothes out heterogenous impacts amongst market players: some will likely be far more impacted than others.
+Transition costs and physical costs are partly offset by green revenues. 
+Overview of company-level climate-related “cost” metrics. 
+Asset class Transition cost (% of total revenues) Physical Risks Cost (% of total revenues) Green Revenues (% of total revenues) “Company” cost of climate (% of total revenues)
+Fixed Income -5.2 -4.7 4.1 -5.8. 
+Relevant benchmark: Bank of America Merril Lynch (BofAML) -4.7 -4.9 3.8 -5.8. 
+Equity -2.2 -4.0 6.6 0.4. 
+Relevant benchmark: MSCI World ACWI -3.9 -4.5 5.3 -3.1. 
+AXA Total Corporate Assets -4.6 -4.6 4.4 -4.8. 
+Is future regulation likely to impose emissions reductions with the help of carbon pricing?
+Despite significant political and commercial obstacles, there is a growing consensus among economists, governments and businesses on the fundamental role of carbon pricing in the transition to a decarbonized economy. For governments, carbon pricing is one of the instruments of the climate policy package needed to reduce emissions. Some businesses already use internal carbon pricing to evaluate the impact of mandatory carbon prices on their operations and as a tool to identify potential climate risks and revenue opportunities. Some investors are also testing the use of carbon pricing to analyze the potential impact of climate-related policies on their investment portfolios. Carbon pricing can take different forms from carbon trading schemes to carbon taxes. In 2017 and 2018, carbon pricing initiatives have emerged in Asia and the Americas while the European ETS (CO2 market) entered in its third phase. China’s ETS was officially launched in December 2017 and work is underway to prepare for its implementation.
+Methodology Box. 
+Context Box
+
+
+20 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Climate-Related Analysis: Sovereign Debt. 
+An Innovative Methodology AXA’s investments rely significantly on sovereign debt. AXA’s climate analysis of this asset class is conducted via a methodology developed by Beyond Ratings, a specialist credit rating agency pioneering ESG risks integration in its sovereign debt ratings analysis.
+GHG Emissions. 
+Population. 
+GHG Emissions. 
+Energy. 
+GDP. 
+Population GDP. 
+Energy. 
+Taking proxies of each of the 3 determinants in a list of 15 KPIs and simulating many different combinations of the above correlations, Beyond Ratings defines the “most efficient” allocation of “2°C compliant” GHG emissions by 2030.
+As highlighted earlier, the current NDCs result in an average temperature rise by 2100 of 3.2°C. Implementing policies that would produce 2°C would require setting more stringent national emissions targets. The Beyond Ratings methodology allocates a carbon budget by country supporting various warming scenarios, depending on key macroeconomic variables such as GDP growth, population growth and energy efficiency. Regional NDCs that have been expressed in the Paris agreement are used to build a homogeneous allocation of CO2 emissions reduction commitments by countries. Country-level carbon intensities are then compared to the 2°C compliant carbon intensities.
+Beyond Ratings determines national greenhouse gas “GHG” budgets compliant with any average temperature target and time horizon. This allocation process is based on an equation (called the “Kaya equation”) which decomposes GhG emissions per capita between 3 components: i) GDP per capita ii) Energy efficiency of growth iii) GhG intensity of Energy.
+Yearly GhG emissions in a 2°C scenario by 2030. 
+Emissions Reduction Needed, higher than average efort Emissions Reduction Needed, lower than average efort Increasing Emissions Allowance No historical data. 
+Source: WoldwideClimatePolicy.eu
+
+
+21 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Based on this model, the Warming Potential of AXA’s sovereign debt would stand at 2.9°C, which is lower than the widely used market reference (4°C) thanks to our strong exposure to the EU (over 60%), where economies tend to display a relatively low carbon intensity in their energy mix. The use of low carbon energy sources like nuclear, hydropower, wind and solar results in a lower Warming Potential through lower carbon intensity.
+This is described in the following table which shows that nearly a third of AXA’s sovereign securities are below 2°C thanks to strong reliance on nuclear and renewables in France and Switzerland.
+Sovereign allocation breakdown and Warming Potential. 
+Country. 
+Weight in AXA’s Sovereign Investments (June 2018) 2015 CO2 Intensity (in CO2/GDP*) Warming Potential. 
+France 25% 173,1 1.9°C. 
+Japan 13% 281,9 3.5°C. 
+USA 9% 321,6 5.5°C. 
+Italy 8% 216,5 2.5°C. 
+Belgium 8% 253,8 3.1°C. 
+Germany 6% 262,9 3.0⁰C. 
+Spain 6% 247,9 2.5⁰C. 
+Switzerland 4% 69,4 1.8⁰C. 
+Austria 3% 193,8 2.6⁰C. 
+Netherlands 2% 266,2 3.3⁰C. 
+Note: 2015 is the most recent data for these indicators. * Tons of Greenhouse Gas emissions based on domestic GHG emissions (territorial and exported GHG, in consistency with emissions used to assess carbon budgets in comparison with NDCs), per million $ of Gross Domestic Product/GDP.
+How to Interpret Results? What situation does this aggregate figure reveal? As of 2018, 29% of AXA’s sovereign securities are below 2°C, significantly contributing to lowering our aggregated Warming Potential.
+This is the case for France whose sovereign securities Warming Potential is 1.9°C. This is driven down by a high proportion of low carbon sources of energy, thanks to a strong reliance on nuclear and hydro power, which ensure lower carbon intensity in downstream activities. Switzerland is similarly positioned with a low carbon energy mix based on nuclear and renewables. Conversely, among developed countries, the “warmest” sovereign investment in AXA’s portfolio is US debt (1) with a Warming Potential of 5.5°C, driven by high dependency on fossil fuels for primary energy. Japan is a similar case, as since 2012, its nuclear energy supply has been phased out and gradually substituted by a combination of coal and natural gas, leading to a significant brown share.
+This Warming Potential analysis can serve as proxy indicators for transition risk & opportunities. Indeed, countries with a “cooler” WP are on the way to successfully decoupling carbon emissions from economic activities, reducing the emissions of downstream sectors, and thus minimizing general exposure to regulatory costs related to carbon in the jurisdictions where they operate.
+Considering AXA’s sovereign geographic exposure to the EU, a reduction in AXA’s sovereign WP will need to rely heavily on the phase out of coal in Europe and a corresponding rise in renewables and nuclear (e.g. France, UK). This is particularly relevant to AXA’s lending to Germany and Italy given their share of AXA’s asset allocation. Although not the largest coal producers in the EU nor the countries with the largest share of coal within their primary energy mix, Germany and Italy have some of the largest coal powerplants in the EU.
+(1) Poised to decrease following the IPO of AXA US in 2018 and subsequent sell-downs of AXA Group’s ownership interest.
+4°C 2.9°C 1.9°C. 
+Sovereign debt assets market reference. 
+AXA's sovereign debt assets “Warming Potential”
+France's “Warming Potential”, thanks largely to a low-carbon energy mix
+
+
+22 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The Importance of Choosing the Right Climate Scenarios. 
+Various climate scenarios are needed to account for various assumptions, as described in the IPCC report “Navigating climate scenario analysis”, co-signed by AXA IM (see https://www.iigcc.org/resource/ navigating-climate-scenario-analysis-a-guide-forinstitutional-investors). The TCFD recommendations specifically state that organizations consider a set of scenarios, including a “2°C or lower” scenario, in reference to the 2015 Paris Agreement. The starting point for the analysis is to identify which scenarios, or future states of the world, will be used to provide a view of the potential implications of climate change on investments.
+One of the way climate scenarios can be used by investors, as is the case in this report, is by being translated under the form of portfolio alignment models (here the Warming Potential metric). The commonly-referenced climate scenarios, such as those published by the IPCC (Intergovernmental Panel on Climate Change) and the IEA (International Energy Agency), set out comprehensive future pathways, based on the use of modelling techniques which convert a set of assumptions, inputs and constraints into a set of outputs. The scenarios published by the IPCC, which focuses on physical risk, and the IEA, which analyses energy markets transition, are the most frequently used by investors and third-party data/service providers, as well as by companies when conducting climaterelated scenario analysis. Other scenarios have been developed by NGOs (Greenpeace), academics (Postdam Institute), commercial providers (Bloomberg) and Oil & Gas companies.
+Energy transition scenarios can vary widely depending on their underlying assumptions. Understanding and analyzing the range of assumptions is important to inform investors’ views on how the energy transition could unfold and what market signals to watch.
+However, with the exception of the 5 “Shared Socioeconomic Pathways” (SSPs) scenarios analyzed by the IPCC, which consider not only transition risks but also physical climate impacts, the narratives of the Energy/Climate scenarios are poorly developed. These scenarios suggest a world in which the main parameters are not challenged (economic growth, population, political balances), and where players are relatively cooperative and highly mobilized to limit carbon emissions, mainly via technical energy efficiency measures. Climaterelated externalities are not considered.
+The 5 IPCC SSPs are the sole scenarios considering the socioeconomic effect of energy transition, as compared in particular to the IEA Energy Technology Perspectives projections. This is why in the Warming Potential section of this report, AXA will generally refer to the IPCC scenarios to allocate remaining carbon budget.
+“Portfolio Alignment”: Conclusion. 
+Methodology Box. 
+As explained previously, AXA’s corporate investments (Corporate Bonds and Equities) have a Warming Potential which is closely in line with widely used market indices – despite efforts such as climaterelated divestments whose impact is only proportional to the AUMs involved. The Warming Potential of AXA’s sovereign debt is lower than this benchmark thanks to our strong exposure to the EU.
+A weighted average of these two figures – which involves some double-counting at the level of carbon emissions – produces a combined Warming Potential for AXA's corporate and sovereign holdings significantly lower than the broad market reference of 3.7°C, as well as projections derived from the current NDC pledges (3.2°C(1)) and BAU scenarios (i.e. should the NDCs not be implemented) in excess of 4°C. More precisely, this nonetheless means that, given AXA’s current asset allocation and issuer selection, if the portfolio’s CO2 emissions are “projected” until 2030, our investments support a rise in global temperature above the Paris Agreement’s 2°C target by 2100.
+However, the main objective of the Warming Potential metric, which still requires getting certainty that tested methodologies are robust enough, is to provide a “science-based” reference point showing the extent to which today’s markets reflect a course that is not on track to reach the goals set under the Paris Agreement.
+(1) UNEP Gap Report 2018: “Implementing the unconditional NDCs would lead to a mean global temperature of around 3.2°C”.
+Climate scenarios can be translated by investors into “portfolio alignment” models. 
+The concept of “investment portfolio alignment” with a 2°C target requires a far broader multistakeholder effort that investors alone cannot achieve
+
+
+23 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Methodology for Real Estate. 
+Where is the exposure?
+What are the sums insured?
+What are the risks made of?
+HASARD MODULE. 
+GENERATE STOCHASTIC EVENTS. 
+PERIL ASSESSMENT. 
+Windspeed? Duration? Track?
+VULNERABILITY MODULE FINANCIAL MODULE. 
+APPLY EXPOSURE QUANTIFY FINANCIAL LOSS. 
+CALCULATE DAMAGE. 
+How ofen?
+How big?
+Where?
+How are the risks damaged?
+What are the insurer’s losses afer the application of financial conditions?
+AXA’s physical risk assessment uses natural catastrophes (“NatCat”) models which are generally used to assess the impact of natural catastrophes on insured exposure. Our models combine stochastic events in Europe (storms and floods), the US and Japan (tropical cyclones and related perils) with a geolocation-based portfolio of. 
+Real Assets. Specific “destruction rates”, which factor in location, building or infrastructure type, occupancy, and construction materials are then used to determine potential damage rates and derive a loss for each building. This process is outlined in the diagram above.
+Methodology Box. 
+Real Assets: Factoring the “Physical” Risks of Climate Change. 
+In addition to the above climate impact assessment conducted for corporate and sovereign assets, climate change, and in particular extreme weather events, may impact “Real Assets”, such as real estate, which are primarily subject to so called “physical risks” in TCFD terminology.
+In our first Climate Report (2016), AXA conducted an analysis on a selection of €15 billion of property assets. This analysis has since been expanded in 2019 to cover a broader scope of €32 billion of property, Commercial Real Estate debt and infrastructure debt. AXA’s Investments and Risk Management teams evaluated the financial impact of floods and windstorms on these properties in a selection of 8 countries representing 90% of the portfolio.
+€32bn Real Assets analysed against physical climate risks. 
+The world is not yet "Paris-aligned", even if the parties to the Paris Agreement were to fully implement their national commitments. While proactive investors can reorient some capital flows, for example via divestments and sector reallocations, they remain largely dependent on a broader macroeconomic situation which traps economies into carbon intensive pathways. In a nutshell, the concept of "investment portfolio alignment" with a 2°C target requires a far broader multi-stakeholder effort that investors alone cannot achieve.
+Paris Agreement ideal goal. 
+Reference scenario / BAU AXA benchmark Unconditional NDCs. 
+Paris Agreement minimum goal 4.0°C 3.7°C 3.2°C 2.0°C 1.5°C
+
+
+24 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Our results, which are based on an internal exploratory methodology, show that both annual average losses, as well as losses generated by flood and storm events with a return period of 100 years, remain limited compared to the total asset value. This is consistent with findings we disclosed in our 2018 TCFD report, despite the increase in Real Estate exposure by 8% for the same country scope(1). The results of our assessment are detailed on a country-level in the tables below.
+(1) This excludes the addition of Japan for 2018.
+For instance, in France where about a third of AXA’s real assets are located, although exposure has increased by 5%, average annual losses from windstorms has decreased by 9%. Mapping 2017 and 2018 asset exposure reveals that the decrease in overall windstorm risk for the France portfolio can be accounted for by the divestment of a number of buildings in higher risk locations in Paris in favor of new investments in areas with lower NatCat risks.
+Significant reductions in average annual losses from windstorms in the UK and US portfolios are similarly explained by changes in the composition of asset locations. The increase in asset exposure in the UK has been accompanied by a simultaneous decrease in exposure to annual losses associated with windstorms and an increase to areas exposed to 100-year flood events. The decrease in US exposure is caused by a shift in asset locations to areas that are not as exposed to windstorms.
+In conclusion, it is clear that, on the basis of our in-house risk modelling, the financial impacts of climate-related “physical risks” on our current Real Estate assets are very limited. Obviously, AXA is more exposed to such risks as an insurer – but this is the core of AXA’s insurance business. Indeed, AXA’s insurance risks (P&C claims) are fully modelled, as developed in AXA’s 2018 Annual Report (Section 3.3, Insurance Risk Management).
+Potential Average Annual Losses to AXA’s Real Estate Portfolio Due to Floods and Windstorms €Million % of Exposure. 
+Floods Windstorm 2017 2018 2017 2018. 
+Belgium 9.5% -0.2 0.2. 
+France 31.9% -0.6 0.5. 
+Germany 12.0% 0.4 0.4 0.2 0.2. 
+Luxembourg 1.0% -0.0 0.0. 
+Switzerland 35.9% -0.3 0.4. 
+UK 4.6% 0.1 0.1 0.2 0.1. 
+USA 3.7% -0.1 0.1. 
+Japan 1.4% -0.1. 
+Potential Losses to AXA’s Real Estate Portfolio due to Floods and Windstorms Potentially Occurring Once Every 100 Years €Million % of Exposure. 
+Floods* Windstorm 2017 2018 2017 2018. 
+Belgium 9.5% -2.6 2.0. 
+France 31.9% -5.1 6.4. 
+Germany 12.0% 7.0 7.8 1.9 1.4. 
+Luxembourg 1.0% -0.0 0.1. 
+Switzerland 35.9% -5.8 6.7. 
+UK 4.6% 0.8 3.1 3.2 1.0. 
+USA 3.7% -2.2 0.7 0.6. 
+Japan 1.4% -0.7 * As we base our analysis on a market CAT model, some countries, in particular for flood risk, are not covered as they are not in the scope of the model. We are working to improve coverage via internal developments.
+The evolution in our results is explained by both improved geocoded data used by our internal model as well as by the changing composition of our portfolio locations to either “riskier” or “safer” areas.
+
+
+25 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Green Investments. 
+Beside the risk analysis described above, Green investments within AXA’s climate strategy represent a means of facilitating the low carbon transition through emissions savings and intensity reductions, and to encourage various sectors to ramp up their climate strategy.
+After reaching our first €3 billion green investment target in 2017, AXA scaled up its green investment target to €12 billion by 2020, using a broader set of asset classes as well as growing our underlying commitment in each of these asset classes. AXA’s commitment doubles the recommendation from Christiana Figueres, one of the main architects of the COP21, to dedicate at least 1% of institutional investments to green assets. They consist of the following asset classes: green bonds, infrastructure debt & equity, impact investments, real estate, and Commercial Real Estate loans.
+Green Investments Breakdown. 
+To qualify as a green investment, AXA applies the following environmental standards to different asset classes described below: ❯ green Bonds: AXA’s green bonds are externally labelled, notably by the Climate Bonds Initiative as well as ratings agencies which confirm that definitions and use of proceeds are respected. However, AXA adds an extra review to confirm the actual “greenness” of the bond using more stringent criteria; ❯ infrastructure: AXA’s definition of “green” infrastructure is derived from accepted and demanding marketbased approaches. Here also, AXA also relies on the Climate Bonds Initiative, with a focus on renewables, water treatment, and clean transport; ❯ impact investments: impact investments classified as green are those in our Impact Funds that target climate impacts; ❯ real estate: for property assets, our strict definition is limited to assets with a high level of environmental certification (minimum level “Excellent” or “Gold”) and a minimum Energy Performance Certificate (EPC) rating of “B”; ❯ commercial real estate: for CRE debt, we use a strict definition of “green” as well as for loans backing buildings with a high level of environmental certification (minimum level Excellent or Gold). Here, we do not reference the EPC as it is not influenced by the debt holder.
+Defining a “Taxonomy” of Environmentally Positive Activities – A Pathway for an Orderly Transition towards a Sustainable Economy?
+The transition towards a more sustainable economy is probably one of the most important transformation we will ever have tackled as societies and economies. The insurance sector is well placed to play a key role as there is a clear alignment of interests between the insurers, their clients and societies on climate change and risk prevention for instance. Transition towards a sustainable economy involves changes across different dimensions (technology, economic, political, sociocultural…) and requires (i) a crossborder adoption, (ii) a cross-sectorial approach (iii) a forward-looking, dynamic view to avoid the pitfalls of static approaches. This dynamic approach focuses on mid-long-term strategies supported by transparent transition path. This should be reflected in the ongoing EC work on taxonomy for instance. Achieving sustainable economic development also depends on fundamental public policy choices that will inform the direction of an effective and orderly transition. Political decision-takers will all have an instrumental role in defining the right framework facilitating an orderly transition.
+AXA adds an extra review to its Green Bonds investments in order to confirm environmental upsides using more stringent criteria. 
+Context Box. 
+Green bonds Infra. debt Infra. equity Impact Real Estate CRE loans
+
+
+26 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+A Focus on Green Bonds. 
+As of 2018, AXA has invested €2.7 billion in green bonds (of which €965 million in 2018), channeling the largest share into the energy sector totaling €1.8 billion.
+The energy sector represents the largest share of global emissions reduction potential, notably through efficiency in the power sector (e.g. smart grids) and a shift to a greater share of low carbon energy sources. Investments in this sector in both developed and developing countries by 2030 will be essential to reach climate objectives. Our bonds have predominantly funded projects in the areas of renewable energy and energy efficiency (35% and 9%), green buildings (23.5%), and transport (24%).
+Green Bond Allocation 35% Renewables 23.5% Green buildings 0.1% 
+Other 1.7% 
+Water 0.7%
+Land use 24.0% 
+Transport 
+34.8% 
+Renewable energy 8.8% 
+Energy eficiency 
+4.2% Biodiversity 1.5%
+Adaptation infrastructure 0.5% Waste management 23.5% 
+Green Buildings. 
+Recent examples include the following: ❯ The Orsted Green Bond financed several energy-related projects. These include three windfarms (two of which offshore), totaling 230 turbines. The offshore windfarms in Germany, to be fully commissioned in 2019, will generate enough electricity to power 460,000 households, and, at full operation, they will result in 1.3 million tons of CO2 avoided each year. The Hornsea Project One off the Yorkshire coast in the UK will be the largest offshore wind farm in the world. Once completed in 2020, it will generate enough energy to power over 1 million homes and avoid 2.8 million tons of CO2 each year. The bond also funded smart meters in Denmark to help customers even out their electricity consumption to reduce pressure on power grids. Smart meters help make necessary emissions cuts by enabling and incentivizing consumers to adjust their consumption levels which their lower carbon footprint. Finally, a 450 MW biomass plant will be developed as well; ❯ The Asian Development Bank Green Bond will support renewable energy, energy efficiency, and low-carbon transportation in emerging markets, such as a rooftop solar power generation project in Sri Lanka, which involved installing grids as well as capacity building and awareness raising to relevant authorities, private sector partners, and customers.
+A Focus on Real Estate. 
+Real Estate assets are a key part of AXA’s green investment target. AXA’s approach is to limit “green” property only to assets with a high level of environmental certification(1) (minimum level “Excellent” or “Gold”) and a minimum Energy Performance Certificate (EPC) rating of “B” or equivalent for non-European assets.
+Examples include: ❯ a newly developed office building in the Paris region with “BREEAM Excellent” and “HQE Excellent” certifications. The building is designed to promote the wellbeing of its occupants with a significant amount of green spaces, indoor gardens and terraces. Tenants can control lighting and temperature through a mobile app. The office building features restaurants, a fitness center and a concierge service, meeting the growing need for offices with hospitality features; ❯ an office building located in Brussels, with a BREEAM Excellent certification obtained in 2018 following a successful refurbishment that saw the installation of solar panels that provide 40,000 kWh to the occupants; ❯ an office complex in Rome, which earned LEED Gold certification in 2018 following renovations (thermal barrier windows, new shading elements, insulation, LED lighting and photovoltaic panel); ❯ a Minergie-certified residential complex in Switzerland became the first building managed by AXA IM Real Assets, on behalf of AXA, to become a “self-consumption” community. This advanced energy strategy gathers together property owners to share photovoltaic energy produced via rooftop solar panels. Tenants benefit from selfconsumption communities by buying electricity from their landlords. This energy comes at a far lower price than that offered by commercial energy suppliers. At night, electricity is purchased from the grid, while during the day any surplus solar power can be sold to energy providers. The building meets about 70% of its electricity needs; ❯ for Commercial Real Estate debt, a similar approach is chosen, based on e high level of environmental certification. Examples include a large shopping mall in Paris (HQE & BREEAM Excellent), a retail park in Spain (BREEAM Excellent) or a multi-let office building in the USA (LEED Gold).
+(1) Main Green Building Certifications: Leadership in Energy and Environmental Design (LEED): the most common green building certification worldwide in terms of projects. Building Research Establishment Environmental Assessment Method (BREEAM): the most common green building certification worldwide in terms of countries. Energy performance certificates (EPCs) are a rating scheme to summarise the energy efficiency of buildings in the European Union. Haute Qualité Environnementale (HQE): standard for green building in France.
+€2.7bn Green bonds investments as of 2018
+
+
+27 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+A Focus on Green Infrastructure Debt and Equity. 
+Infrastructure debt and equity provides a unique opportunity for investors to match stable returns with enhanced societal and environmental impact. Infrastructure debt finances the projects required to build, operate and maintain these assets. As governments have limited resources to fund these projects, they present an opportunity for private investors to play a key role in steering the development of these projects. AXA has notably developed a clear focus on renewable energy both in debt and equity, both in developed and emerging countries (including solar plants, wind farms, biomass, hydro).
+In addition, we support “transition” infrastructure assets such as clean transportation, energy storage, smart grids, etc., in most of the OECD countries, as well as Asia. Examples include the following: ❯ 465 MW offshore wind farm in Germany, currently under construction (fully operational in 2019), with stable long-term cash-flows thanks to a fixed regulated feed-in tariff for the first 10 years and a floor price for 20 years of operation; ❯ 85 MW utility-scale solar power plants in Italy. All plants are operational with seven-year average track record and located in favourable locations in terms of irradiation and load factors. These plants benefit from a feed-in tariff over 20 years, covering 80% of total revenues; ❯ 95 MW offshore windfarm in France, co-owned by a French life insurer and a major utility company. The windfarms benefit from 15-year power purchase agreement with EDF.
+Investing in Developing Countries through the IFC. 
+In addition to the above examples, AXA and the IFC, a member of the World Bank Group dedicated to private sector development, launched a $500 million partnership in 2017, supporting an infrastructure fund that will notably finance green infrastructures in emerging countries, including renewable energy, water, green transport and telecoms. Following AXA’s sector policies, there will be no investments in coal and oil-sands related projects. This partnership allows AXA to fund necessary green investments in emerging countries.
+
+
+28 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+Impact Investing. 
+AXA was one of the first institutional investors to engage proactively in impact investing, an investment strategy that aims to generate objectively measurable and intentional environmental and social impacts alongside financial returns, both integrated into investment management incentives.
+In 2013, AXA committed €200 million to launch its first impact fund (Impact Fund 1) focusing on Financial Inclusion, Access to Healthcare and Education. In 2016 AXA scaled up its contributions by allocating a further €150 million to set up Impact Fund 2, focusing on environmental and social impact. Finally, in May 2019, AXA announced the launch of its third Impact Investment Fund (€200 million), dedicated to Biodiversity & Climate change (see Box), thus reaching a total commitment of €550 million.
+The AXA Impact Funds 1 & 2, in their objectives and outcomes, are “fund of funds” investment vehicles that demonstrate the tangible role AXA and its entities are playing in the achievement of the UN Sustainable Development Goals (SDGs) through the allocation of much needed capital. Our preliminary review of our impact funds SDG alignment yielded positive results, demonstrating that Impact Funds 1 and 2 are providing capital to businesses that directly address several of the 17 SDGs.
+What are the UN Sustainable Development Goals?
+The 17 Sustainable Development Goals (SDGs) were adopted by the UN General Assembly in 2015 with the target of solving key development and environmental issues by 2030. SDGs have increasingly become a mainstream global standard to assess the ESG impact of business initiatives, including financial services. An increasing number of investors, and businesses more generally, now refer to the UN SDGs to chart their approach to solving societal issues.
+This approach is closely in line with the Group’s CR strategy, itself targeting more particularly a selection of 7 SDGs:
+Health and disease prevention. 
+Social, inequality and inclusion. 
+Climate change and the environment. 
+Context Box
+
+
+29 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The AXA Impact Funds have generated positive and measurable benefits over a range of impact themes in the priority areas of financial inclusion, education and health. For example, some of the impact contributions of Impact Fund 2 include: ❯ investing in impactful businesses in India that have already reached over 4,000 smallholder farmers through breakthrough technologies in food, agriculture and the rural economy; ❯ increasing access to finance of over 60,000 low-income individuals by bringing them into the formal financial system; ❯ meeting unserved financial needs in the agricultural sector by providing more than 1 million smallholder farmers’ and rural micro, smack and medium entrepreneurs’ access to finance; ❯ providing quality education at an accessible price as well as facilitating the acquisition of skills to improve the employability of over 2.1 million students; ❯ meeting the needs of 1,279 students living in underserved communities in the UK; ❯ saving over 8,210 tons of food waste by promoting the circular economy.
+Examples of KPIs tracked for Impact Investment Fund II. 
+Transforming Rural Economies Indicators. 
+Number of beneficiaries 1,333,842. 
+Education Indicators. 
+Number of Underserved Students 2,151,970. 
+Number of Emerging Countries 16. 
+Access to Clean Energy Indicators. 
+Units of Clean Energy Products distribued 1,202,726. 
+Number of Borrowers (Clean Energy Products) 1,297. 
+A New Impact Investment Fund to Support Climate and Biodiversity-Related Strategies. 
+AXA launched its third Impact Investment Fund during the meeting of the G7 Environment Ministers gathered in Metz, France, in May 2019, with a strong focus on biodiversity protection.
+AXA Impact Fund III will invest up to €200 million of capital to fund credible solutions that deliver intentional and measurable positive outcomes that contribute to the fight against climate change and loss of biodiversity; alongside market-rate financial returns.
+These are inter-related challenges with roots in the ways that Society interacts with the physical environment and natural capital.
+The Fund will invest globally using private assets to catalyze solutions that promote mitigation, adaptation and resilience in relation to the critical environmental challenges of our time. The fund will focus on solutions that promote the conservation of ecosystems, resource efficiency and the protection of vulnerable communities.
+AXA Impact Fund III is our way of demonstrating that we recognize the need for new capital to meet the social and environmental challenges identified by the UN Sustainable Development Goals (UNSDGs). Our objectives around this fund will be achieved when we are able to demonstrate the following outcomes at scale: ❯ Avoided Emissions; ❯ Natural Capital Conserved; ❯ Habitats Protected; ❯ Number of People Reached.
+This means we will invest to conserve, protect and restore natural capital – land based and marine – to preserve their ability to act as natural carbon sinks and high value habitats necessary for conservation and biodiversity. Examples of possible investments under this theme could encompass the protection of land based natural capital such as forest projects in areas of high conservation value; sustainable development of brownfields in urban areas to reduce pressure on greenbelts; and protection of marine ecosystems. We will also support sustainable practices such as agroforestry projects and sustainable fisheries which align the livelihoods of communities with the protection of natural capital.
+
+
+30 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+The positive impacts of the investment are clear – protection of high value ecosystems, significant carbon emissions savings through natural sequestration, and measurably improved biodiversity.
+ADDRESSING THE CHALLENGES OF CLIMATE CHANGE & BIODIVERSITY. 
+ALIGNING PLANET AND PEOPLE. 
+Impact Measurement = Avoided Emissions; Natural Capital Conserved; Habitats Protected; Number of People Reached. 
+CONSERVE Ecosystems EVOLVE Resource Efficiency PROTECT Vulnerable communities ● Natural capital protection ● Marine conservation ● Reforestation ● Restoration of natural habitats ● Biodiversity ● Access to clean energy for communities ● Energy efficiency ● Waste management ● Circular economy ● Sustainable consumption ● Sustainable agriculture ● Livelihood protection ● Climate insurance ● Parametric insurance. 
+ESG and Climate-Related Investment and Insurance Exclusions. 
+Divestments. 
+AXA’s Responsible Investment strategy includes several sector-level divestments. Indeed, certain activities and products are deemed to be inconsistent with our climate strategy and broader CR goals of protecting people over the long term. In this context, AXA has developed specific “sector guidelines” which apply both to investments and insurance (see following section).
+These currently include the following sectors: ❯ coal and oil sands: developed below; ❯ “controversial weapons” manufacturers that are banned by international conventions (antipersonnel landmines, cluster munitions/cluster bombs chemical, biological and depleted uranium weapons, nuclear weapons proliferation); ❯ tobacco manufacturers, whose products conflict with our role as one of the world’s largest health insurers; ❯ palm oil producers which do not adhere to this industry’s best sustainability practices (notably regarding deforestation, land and labor rights); ❯ soft commodity derivatives which may be responsible for inflating the price of basic food commodities.
+In 2018, the Group extended its investment restrictions to the XL Group’s assets, representing an extra €660 million divested.
+In total, AXA’s divestments (immediate divestment from equity; fixed income assets are run off) represent approximately €7.15 billion: coal, tobacco, oil sands, controversial weapons and palm oil, in decreasing order of magnitude, and including XL Group assets.
+In addition, AXA also strives to “play collectively” when it makes sense – notably when the commercial playing field is not level. Therefore, for example, AXA supports the “Tobacco-Free Portfolios” and supported the launch of the Tobacco-Free Finance Pledge at the UN General Assembly in September 2018. This initiative, co-founded by AXA, BNP Paribas, Natixis and AMP Capital, aims to “deformalize” relationships between the financial community and the tobacco industry. It is now supported by more than 130 investors representing $6.8 trillion in assets under management: the strong momentum launched with our divestment continues.
+€7.15bn Total divestments
+
+
+31 AXA GROUP 2019 Climate Report June 2019 2. Strategy. 
+However, coal divestment is also a financial decision. Indeed, carbon emissions will require significant curbing in order to reduce the risk of climate change, which may place business constraints on carbon-intensive industries, leaving some assets “stranded”, which in turn may lead to reduced valuations. As mentioned in the “Stranded assets” box, coal assets are the most likely to become “stranded”. As a result, AXA decided to divest from and exclude insurance covers for companies most exposed to coal-related activities in the belief that it contributes to de-risking our portfolios. AXA’s coal policy targets coal mining and coal-based electric utilities based on 3 criteria: ❯ electric utilities with coal share of power production (energy mix) over 30%; mining companies with coal share of revenues over 30%. This captures long term financial risks related to “stranded assets”; ❯ companies that are actively developing new coal-based power capacity with coalbased power “expansion plans” exceeding 3 gigawatts. This approach captures “real” climate impact, beyond pure financial risks; ❯ mining companies with annual coal production over 20 million tons.
+Because oil sands are also an extremely carbon-intensive form of energy, and their production can generate significant local environmental pollution, AXA also divested from the main oil sands producers, defined as producers with at least 30% of their reserves based on oil sands. The production volumes of oil sands are largely influenced by the development of certain pipelines. As a result, AXA also divests from the main associated pipelines players.
+In 2015, AXA was the first global investor to initiate divestment from coal, a decision which was further ramped up in 2017. Ahead of COP21, we signaled that while climate finance is a complex issue, it can nonetheless be tackled. This helped AXA and some peers to overcome paralysis by analysis and shift into “action” mode. Now coal divestment is an increasingly mainstream decision in Europe. What are “Stranded Assets”?
+According to the IPCC, limiting atmospheric CO2 concentrations to 450 parts per million (ppm) should provide a 75% chance of avoiding +2°C. Achieving this CO2 concentration threshold requires limiting carbon emissions, in turn requiring burning only 1/3 of existing fossil fuel reserves by 2050, according to the International Energy Association. Enforcing this carbon constraint could result in a significant loss of value for a number of carbon-intensive assets, in particular the fossil fuel industry with business prospects that depend significantly on their ability to extract and exploit fossil fuel reserves, potentially impacting other related industries as well. Current valuation models do not systematically account for “unburnable carbon” risks adequately. This is what is now called “stranded assets”. This term was first coined by Carbon Tracker, a climate think tank, in 2011. It is now used more and more widely, and notably by disclosure frameworks such as the TCFD. The “Warming Potential” and “cost of climate” work developed in this report is a relevant metric response to this potential downside risk.
+Underwriting Restrictions. 
+It is inconsistent to commercially support industries that the Group has divested from. Therefore, AXA also restricts insurance coverage for coal and oil sands-related assets (as well as for the other industries mentioned in the previous section, and arctic drilling).
+The exclusions cover the following: ❯ the development of new coal capacity is strictly banned by not providing Construction covers (both Direct Insurance and Facultative Reinsurance) for any new coal plant and new coal mine. This applies whichever the region or client (regardless of our investment exclusion list); ❯ property covers for existing coal power plants and coal mines are also banned. This does not apply to the least developed countries in the world; ❯ oil sands extraction business: both Property and Construction covers are banned (both Direct Insurance and assumed Facultative Reinsurance); ❯ oil sands transportation business, via pipelines: both Property and Construction covers are banned (both Direct Insurance and assumed Facultative Reinsurance); ❯ oil & gas extraction in Arctic Region: both Property and Construction covers are banned (Direct Insurance and assumed Facultative Reinsurance).
+In addition to climate-related underwriting restrictions, AXA also bans business with “Controversial weapons” and tobacco manufacturers. More detailed internal rules apply for complex cases such as “mixed risks” packages, etc. These restrictions were initiated in 2011 (controversial weapons) and significantly ramped up in 2017 and 2018 (climate). We believe AXA to be the first large insurer to have implemented such restrictions, which represent a significant commercial commitment. Indeed, following the closing of the XL acquisition in 2018, AXA’s new division dedicated to large P&C Commercial Lines will implement AXA Group’s Corporate Responsibility policies including those related to climate. Notably, this entails applying underwriting and investment restrictions to a significant business book. As a result, AXA XL no longer underwrites coal, oil sands, tobacco, controversial weapons and arctic oil drilling, with full eff ect at AXA XL by 2020. This represents a commercial eff ort (premium impact) in excess of €100 million.
+Context Box >3Gw >20MT >30% coal development plans coal extracted / year turnover or energy mix from coal. 
+Climate-Related Divestments: Coal and Oil Sands AXA was the first mainstream investor to divest from the coal industry in May 2015. This sent a positive signal to markets and regulators and generated a positive influence by contributing to our broader Corporate Responsibility strategy to promote a stronger and safer society.
+AXA's Coal divestment criteria
+
+
+32 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+The mandate of the Audit Risk and Compliance Committee (“ARCC”) is to strengthen the overall Group’s Risk Management governance. The scope of the ARCC covers all of the Group’s operations and include the Group’s overall risk appetite (including breaches of risk limits), the. 
+Own Risk & Solvency Assessment (“ORSA”) and the other Solvency II reports, systemic risk documentation, major findings identified by internal audit, etc. In 2019, the ARCC has been involved in reviewing the governance of AXA’s sustainability disclosures.
+Internal Control and Risk Management. 
+AXA’s management of sustainability risks is integrated within a broader risk management framework, as described more extensively in AXA’s 2018 Annual Report. Indeed, as AXA is engaged in Insurance, Reinsurance, Asset Management and Banking business on a global scale, it is exposed to a wide variety of risks, including market risks, credit risk, insurance risks, operational risks and other material risks. In addition, the Solvency II regime (which is an economic risks-based framework) requires the Group to have in place an effective system of governance which provides for sound and prudent Risk Management.
+MANAGEMENT COMMITTEE. 
+AUDIT RISK AND COMPLIANCE COMMITTEE (ARCC) 
+Operational Audit Risk & Compliance Committee. 
+Solvency II Committee. 
+Operational risk, including compliance risk and other material risks (strategic, reputation, emerging)
+Market, credit, liquidity risks Solvency II framework and systemic risk. 
+CHIEF EXECUTIVE OFFICER. 
+Financial Risk Committee. 
+Board of Directors and its Specialized Committees (Audit Committee, Finance Committee, Compensation & Governance Committee)
+
+
+33 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Climate Risk Modelling. 
+Natural hazards create volatile risks. AXA’s exposure to natural disasters depends on various factors and is often more pronounced in certain geographic areas, including major urban centers, with a high concentration of customers, employees and/or insured property and assets.
+We model these risks using a significant amount of exposure and claims data, combined with state-of-the-art climate science. This risk is then mitigated in accordance with predefined levels of “risk appetite”, third-party reinsurance and other risk-mitigation techniques, notably transferring risks to capital markets.
+Changing weather patterns and climatic conditions, in particular as a result of global warming, have emphasized this uncertainty. The consequences of climate change might significantly impact the insurance and reinsurance industry, including with respect to risk perception, and the need for new insurance products.
+Our strategy is to accelerate the development of our catastrophe risk modelling capacities, based on both external (academic) and internal scientific resources. The link between the “observed” climate change and the frequency and severity of natural disasters is a key challenge for AXA. Catastrophe loss figures show a steadily increasing pattern, and this is still mostly explained by assets increasingly built near coasts, rivers, in small islands or earthquake-prone areas.
+However, as the frequency or severity of climaterelated perils is complex to monitor, a distinction must be made between what is very likely (such as mean sea level elevation, provoking coastal floods, threats to biodiversity, population displacement) and what is not, especially wind events or severe floods driven by cyclonic phenomena, which have not appeared to be more frequent or more severe so far. This distinction is key to focus on the most relevant risks in order to take appropriate risk prevention measures and disseminate these findings to the public, in order to address the “protection gap” for natural events.
+Human Rights Risk Management. 
+AXA is committed to respect human rights, based on the UN "Ruggie Principles” framework. 
+AXA is committed to respecting internationally recognized human rights principles as defined by the United Nations Universal Declaration of Human Rights, the core standards of the International Labor Organization and the Guiding Principles for the implementation of the United Nations “Protect, Respect and Remedy” Framework (“Ruggie Principles”). Our commitment also covers international general and sector-specific standards such as the UN Global Compact, the UN Principles for Responsible Investment and the UN Principles for Sustainable Insurance.
+As a response, AXA developed a Human Rights policy which is based on an assessment we used to identify the Human rights impacted by the business activities of insurance companies (i.e. insurance, investment, own operations) and to define priority areas for Human rights due diligence at AXA. The “Responsibility to respect Human rights”, as laid down in the Ruggie principles, formed the basis for this assessment. See further information in AXA Group’s Human Rights Policy: https://www.AXA.com/en/about-us/our-commitment-to-human-rights as well as in chapter 7.6 (“Vigilance Plan”) of AXA’s 2018 Annual Report.
+
+
+34 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Shareholder Engagement & Voting. 
+AXA’s ESG and climate integration, divestments and green investments strategy is complemented by an active engagement strategy. Indeed, as a shareholder and bondholder, AXA has the possibility to engage with the management of companies in which it invests in order to help catalyze positive change on certain issues (such as climate change, health, governance, market practices, etc.). These engagement activities are carried out either directly by the Group or by AXA IM on behalf of the AXA Group and third-party clients. AXA holds constructive and challenging discussions directly with companies, and as part of a coalition of investors, engaging with companies in key sectors.
+Indeed, AXA joined several shareholder coalitions, notably: ❯ Climate Action 100+, a five-year investor initiative to engage with the world’s largest corporate greenhouse gas emitters to curb emissions, strengthen climaterelated financial disclosures and improve governance on climate change. AXA is the lead investor on several companies in the Airlines and Automotive industries; ❯ the “Plastic Solutions Investor Alliance” ( joined in 2018), an International engagement coalition on plastic packaging pollution, challenging several companies in the Food & Beverage and retail sectors to promote sound management practices reducing risks related to plastic waste; ❯ the UN PRI ESG Engagement Advisory Committee, providing strategic direction and feedback on themes for future collaborative engagements; ❯ various other initiatives related to the TCFD guidelines, arctic drilling, palm oil, the automotive industry, etc.
+Group-Level Organization. 
+As described under section 1 (Governance), AXA’s “ESG Footprint Committee” reviews issuers from a pure ESG perspective, and it can decide on specific follow-up actions, such as requests for engagement. The Group’s central Credit Team oversees overseeing AXA’s credit portfolio and assigning Internal Credit Ratings to issuers in the portfolio (see “ESG integration” in section 2). As part of its rating process, Group Credit Team conducts regular one-on-one interviews with the top management of the issuers in which AXA has its largest exposure. These interviews give Group Credit Team the opportunity to review and discuss issuers’ strategy, including in ESG, on a non-public basis.
+Asset Manager-Level Initiatives. 
+In addition to Group-level initiatives, AXA IM has a team dedicated to engagement and voting. AXA IM’s Corporate Governance & Voting Policy is found here: https://www. axa-im.com/en/stewardship. Its extensive voting & engagement initiatives are described in its annual Stewardship report. Below is a snapshot of voting & engagement initiatives undertaken in 2018. During this period, AXA IM voted at 5,251 meetings across 60 different markets amounting to 98% of total meetings held by companies in its investment universe. AXA IM did not fully support management at 2,275 meetings (43% of meetings voted).
+2018 Global Engagement Record 125 Targeted companies ●
+Corporate Governance ● Environmental issues ● Social issues ● Overlapping ESG issues 18% 35% 14% 33%
+Source: AXA IM, for 12 months ending Dec. 31, 2018.
+Source: https://www.axa-im.com/en/content/-/asset_publisher/alpeXKk1gk2N/content/proxy-voting-2018season-key-takeaways-year-to-date/23818.
+0 3,000 6,000 ● Number of Meetings. 
+Meetings Voted in line with Management. 
+Meetings with at least one Against/Abstentions ●
+● 
+1 Jan - 30 Sep 2018 1 Jan - 30 Sep 2017 5,251 2,976 2,275 5,055 2,995 2,060 3% ESG Opportunities & Risks 15%
+Capital Issues 2%
+Transactions 1% 36% Board Issues 1% Diversity. 
+Business Reorganisation / M&A 
+2% 
+4%
+Acccounts & Auditors. 
+Other 7% 4%
+Articles of Association 25%
+Remuneration. 
+Related Party Transactions. 
+Climate Related Resolution. 
+Vote against Management Topics Voting Trend 43%
+Number of meetings voted where AXA did not fully support management proposals
+
+
+35 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Climate Change, a Critical Issue for Engagement Addressed through Discussions, Voting and Resolutions. 
+In addition to multiple ESG and Climaterelated meetings with the management of portfolio companies, the importance AXA IM places on climate change is reflected in the votes in General Meetings in favour of climate-related resolutions – when these exist, which is still infrequent (AXA IM observed only 36 shareholder proposals around climate and climate related issues, hence the small proportion of climate-related statistics above). In 2018, AXA IM supported resolutions requiring better sustainability disclosures (report describing the company’s ESG policies, performance, and improvement targets, including a discussion of greenhouse gas emissions management strategies and quantitative metrics) as well as resolutions on GHG emission reduction targets and transition to a low carbon business model.
+Social Issues – An Underlying Factor Influencing the Whole ESG Performance of a Company. 
+Social issues are also an engagement priority for AXA IM. Highlights of 2018 voting activities include closing gender pay-gaps, promoting diversity, and highlighting human rights issues. For instance, AXA IM voted in favour of a shareholder resolution to close gender pay-gap at the AGM of a major actor in the social media industry. With regards to Human Rights, a sector-based approach towards the Oil & Gas and Mining sectors has been developed by AXA IM for several years, with the objective to encourage companies in these sectors to enhance the implementation of the UN Guiding Principles on Business and Human Rights within their business strategy and operations (see Human Rights policy section above). AXA IM’s Corporate Governance & Voting Policy is found here: https://www.axa-im.com/en/stewardship.
+Sustainability-Related Memberships and Partnerships. 
+AXA actively supports various initiatives related to climate change, ESG and sustainability more generally. These include the following:
+United Nations Global Compact – Launched in July 2000 by UN Secretary General, the Global Compact seeks to encourage businesses, UN agencies, the labor market and NGOs to work together to integrate 10 universal principles on human rights, labor, the environment and the fight against corruption.
+UN PRI – AXA Group and both of its investment management subsidiaries, AXA IM and AB Global, are members of the United Nations Principles for Responsible Investment (UN PRI), joining in 2007 and 2011 respectively. The UN PRI, launched in 2006, is a major collective initiative that seeks to promote responsible investment among investors and asset managers. The UN PRI are a set of 6 principles which invite signatories to better integrate ESG considerations in their investment decisions and ownership practices. Signatories publicly declare that these issues are relevant long-term factors and are committed to manage them accordingly.
+UN PSI – The UN Principles for Sustainable Insurance is a major international coalition of the insurance industry. The PSI was launched during the “Rio+20” UN conference in 2012. AXA is one of 27 founding signatories. Signatories of these principles commit to integrating environmental, social and governance criteria into their business and their stakeholder relationships.
+Climate Finance Leadership Initiative: the CFLI, which was launched in September 2018 by the UN Secretary General, and is presided by Michael Bloomberg, seeks to develop standardized and securitized investments at scale to tackle climate change.
+I. 
+A global sustainability framework and initiative of the United Nations Environment Programme Finance Initiative. 
+PSI Principles for Sustainable Insurance. 
+Shareholder proposals on climate-related matters oberved by AXA 36. 
+Only
+
+
+36 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Alliance of CEO Climate Leaders: a group of 50 CEOs set up by the World Economic Forum (Davos) to actively engage in global efforts to create market opportunities for tackling climate change. Its goals are to promote strong climate action including a commitment to reduce carbon emissions, support the TCFD, support lowcarbon solutions and finance, and promote adequate regulation. AXA joined in 2018.
+IDF: AXA’s Chairman presides over the Insurance Development Forum since 2018. The IDF is a public- private partnership that brings together insurers, reinsurers and brokers, together with the World Bank and the United Nations Development Program. By optimizing and extending the use of insurance and Risk Management capabilities, the IDF aims to support the G20 “InsuResilience” objective of insuring 400 million more people in emerging countries by 2020 against climate-related disasters and of improving their climate resilience. The organization is made up of 500 experts, including specialists from AXA, that focus on improving catastrophe risk modelling in emerging countries.
+TCFD: AXA co-presided (2015-2017) the global industry-led Task Force on Climate Related Financial Disclosures (TCFD), set up by the Financial Stability Board (FSB) as well as Michael Bloomberg. The TCFD provides guidance on how to disclose climate change risk and opportunities.
+EU High-Level Expert Group on Sustainable Finance: a senior AXA executive presided (2016-2018) the EU High Level Expert Group on Sustainable Finance, developing recommendations on sustainable finance which formed the basis for the European Commission’s “Action Plan on Financing Sustainable Growth”.
+NGO partnerships: ❯ C40: in October 2018 AXA partnered with C40 to produce a public report on how cities’ understanding of infrastructure interdependencies informs their climate adaptation planning. The aim of the report is to help cities better manage climate risk; ❯ UN Habitat: our 2016-2019 partnership with the UN agency for human settlements and sustainable urban development focuses on supporting housing reconstruction after disasters and implementing technical assistance at scale, to help communities to “build back better”, and to reduce fatalities and limit economic losses as a result of disasters. These (re)building guidelines have been published in May 2019; ❯ UNISDR: AXA partnered (2015-2018) with the UN Office for Disaster Risk Reduction to support the “Private Sector Commitment for Disaster Risk Reduction”. These principles cover 5 key areas around the role that the private sector can take to further encourage Disaster Prevention, Resilience and Risk Reduction; ❯ CARE: AXA’s partnership (launched in 2009) with CARE International (major international humanitarian agency delivering emergency relief and longterm international development projects) to work on both disaster risk reduction and climate change adaptation (notably better mapping climate refugee dynamics).
+AXA has also joined or supported many Investor and Insurance-led coalitions over the years in the fields of ESG, RI and CR: IIGCC, Montreal Carbon Pledge, Science Based Targets, RE100, Caring for Climate Carbon Pricing Leadership Coalition, CDP, ORSE, EpE, BSR, Finance for Tomorrow, “Kyoto statement” of the Geneva Association, etc.
+Institutional Investors Group on Climate Change
+
+
+37 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+ESG and Climate-Related Products. 
+AXA Investment Managers Products. 
+AXA IM offers various ESG related products to its retail clients as well as sustainable thematic funds which targets more explicitly societal outcomes granting them access to a broad spectrum of asset classes and thematic funds.
+These ESG related products include 13 Core Responsible Investment Funds such as AXA Trésor court terme, Label Euro Obligations, Label Europe Actions, and AXA Eurozone RI which are all classified under the French SRI label.
+AXA IM’s thematic funds cover a range of sustainable themes from human capital management to gender inclusion. The funds offered include: AXA World Fund Global Green Bonds; AXA World Fund Global Factors which is a systematic global equity fund, tilting portfolio construction towards high quality ESG scores and optimizing environmental key performance indicators such as carbon footprint and water intensity; AXA World Fund Human Capital which promotes best human capital practices by funding European SMEs highlighting best practices regarding working conditions quality, career development and job creation; and AXA World Fund Women Empowerment fund which promotes gender equality by funding businesses with minimum women representatives at all management levels of the firm.
+AXA WF Global Green Bonds Fund. 
+The AXA Warming Potential Global Green Bonds fund was launched in November 2015 to provide its investors with access to the green bond market.
+The AXA Warming Potential Planet Global Green Bonds fund contributes to financing the energy transition underway and combines both financial and environmental criteria.
+Within the Global Bonds universe, the fund is invested mainly in green bonds, which can offer the same returns as a comparable conventional bond plus the added benefit of enabling projects with environmental benefits in a transparent manner.
+A X A I M ’s a p p roa c h i n teg rate s environmental analysis into the traditional assessment approach of the bond manager by analyzing the following in a complimentary manner, from its ESG track record and quality, to its demonstrable environmental benefits of projects financed and to its use of bond proceeds, the fundamental characteristics of the issuer, and the potential offered in terms of performance.
+AXA France. 
+Savings Products. 
+AXA France offers 100% SRI collective savings and pension products to companies for their employees.
+The majority of AXA France group savings products are based on AXA IM SRI Funds. AXA France likewise offers SRI funds to its retail customers, such as AXA WF Framlington Human Capital, AXA Euro Responsible Values, Agipi Sustainable, etc. as well as ESG-managed funds (which may be AXA IM funds or thirdparty funds) like the Pictet Clean Energy fund.
+In 2018, AXA France launched the Perspectiv’Allegro offer. This product enables clients to invest in companies that are at the heart of social and environmental challenges, such as climate change, longevity, well-being, or changes in lifestyles.
+All the underlying funds are evaluated on their financial performance and ESG practices and include labelled platforms (based on official French savings labels).
+ESG labelled products sold by AXA France 3.3 million. 
+Perspectiv’Allegro accounts for 55% of these funds in Unit-Linked accounts, invested in equities and debt (including green bonds). The remaining 45% is invested in euros funds which integrate AXA’s responsible investment screening which eliminates coal, oil sands, tobacco and unsustainable palm oil sectors. Finally, a tree is planted in France for each deposit, to promote reforestation, with the aim of reaching the 30,000 trees planted at the end of 2019. Based on encouraging preliminary sales figures, the product line will be rolled out in 2019 and adapted to the risk profile of customers.
+“Assurance Citoyenne”, a Genuine “ESG Integration” Approach to Retail Savings Products. 
+AXA France created in 2015 the “Assurance Citoyenne” label that ensures all insurance contracts benefit clients as well as positively impact society. This label is based on an assessment toolkit built in collaboration with a panel of external stakeholders and audited by an independent third party. This label’s four key pillars cover “Trust” (e.g. simple contracts), “Prevention” (e.g. preventive services to minimize the risks our clients are facing), “Environment” (e.g. paperless contract), and “Fairness” (e.g. product accessibility). In 2018, AXA France sold 52 labelled products and now builds all its new insurance offers around these engagements. Since 2015, 3.3 million such contracts have been sold.
+
+
+38 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Unit-Linked Products. 
+AXA integrates ESG into mainstream Unit-Linked offers and develops thematic products with high ESG/Climate impact. AXA has launched a global initiative to embed ESG criteria into Unitlinked offers in Europe and Asia. Starting in 2019, AXA entities in these regions will implement both an internal ESG target for the inforce business and minimum ESG standards for new funds (ESG analysis at both levels: Asset Manager & fund manager).
+Parametric Insurance Offers: “AXA Climate”
+AXA Global Parametrics, renamed “AXA Climate” in May 2019, offers parametric insurance products which help uninsured communities facing the consequences of adverse weather events. Indeed, AXA’s parametric team leverages the latest advancements in data science and technology to support populations in emerging markets that are vulnerable to climate-related perils. AXA creates parametric insurance that triggers payouts based on satellite and other weather data just days after a natural disaster has struck. This allows the insured to receive fast funding for emergency response, which stops them from falling into poverty traps. The weather data can also be used as an early warning system to kickstart contingency planning before an extreme event hits. For example, in Africa, AXA is a lead reinsurer and technical advisor to the African Risk Capacity, a mutual risk pool of African governments that purchase parametric drought insurance using satellite data and allowing governments to anticipate droughts in the middle of the relevant crop season. In the Pacific and Caribbean Islands, AXA is a lead reinsurer of local risk pools that provides parametric typhoon and earthquake coverage to several governments.
+Other Retail and P&C Commercial Lines Products. 
+In the Commercial Lines business, AXA XL underwriters have significant expertise and capacity for insuring clients in the energy industry, with a strong focus on renewable energy, and an explicit exclusion of coal and oil sands-related business (above). Some local AXA entities also develop motor and car fleet insurance policies encouraging low CO2 emission vehicles, home insurance policies encouraging energy efficiency, renewable energy installations, and environmentally friendly claims strategies.
+ESG and Climate-Related Communications. 
+Group Investments & AXA IM. 
+A New E-Learning Tool. 
+AXA and AXA IM developed a 1-hour in-house e-learning training module to provide all members of the investment teams worldwide with both AXA’s vision of responsible investment and concrete information about RI governance, policies, external commitments and, an exercise in building a portfolio with a high ESG performance. AXA IM also plays an active role in promoting the acceptance and implementation of ESG issues within the investment industry through: ❯ communication materials: educational documents for clients with regards to TCFD and art. 173, quarterly newsletters on RI, a dedicated RI website with all policies and thought leadership pieces, a RI annual report, as well as ESG rating and reporting material; ❯ trainings and Programmes: workshops on Responsible Investment, ESG trainings for insurance clients, on-site demonstration of RI tools, tailored programs for clients; ❯ public outreach: seminars and public forums on ESG investing, Impact Investing, etc.
+AXA France. 
+AXA France distributes commercial brochures which include a focus on the meaning of Article 173 for AXA’s institutional clients and corresponding commercial offers. The Épargne Retraite Entreprise team also conducts dedicated commercial events (morning meetings, supervisory tips, onsite customer presentations) as well as customer engagement on ESG.
+To meet the expectations of individual investors, AXA France trains and inform its sales representatives and employees on responsible savings, Group initiatives, SRI news and customer expectations via internal channels. At the end of 2018, 650 employees had completed the training. of ESG is also integrated into all the training modules of all 3 of AXA France’s distribution networks (tied agents) which are currently being redesigned. There is also specific documentation dedicated to ESG in the form of thematic sheets, videos, tutorials, materials for customer meetings by sales representatives and an advertisement launched on Facebook encouraging the network’s users to discover the latest commercial SRI offer, Perspectiv’. The ad garnered more than 6,000 views on www.axa.fr.
+Lastly, AXA France has developed a partnership with the FNH (Fondation pour la Nature et l’Homme) to co-build communications platforms through conferences, awareness videos, etc.
+
+
+39 AXA GROUP 2019 Climate Report June 2019 3. Risk Management. 
+Academic Research. 
+Research projects supported 597. 
+Total funding invested to date €147m. 
+The complete list of projects supported by the AXA Research Fund is available on www.axa-research.org. 
+Another avenue of climate risk mitigation is fostering solutions outside of AXA. The AXA Research Fund supports academic projects led by top-tier researchers all over the world in the fields of Health, Climate and Environment, New Technology and SocioEconomic issues.
+The Fund provides researchers with the means and freedom to complete their work successfully. The awarding of grants is based on strict academic criteria through a transparent and rigorous selection process which is overseen by an independent Scientific Board. AXA’s support to scientific research goes beyond funding: to better inform decision making and build a platform for science, the AXA Research Fund provides grantees with communication resources, media and engagement opportunities and encourages exchanges and discussion around supported areas through conferences and events.
+As of December 31, 2018, the AXA Research Fund supported a total of 597 research projects led by researchers of 58 nationalities in 36 countries and a total project funding of €146.6 million. 208 environment and climate-related research projects have been supported, totaling approximately €40 million. The topics covered include: adaptation of animals and plants, city resilience, extreme weather events, fisheries and aquaculture, spread of infectious diseases, and water resources.
+Examples include the following:
+AXA Chair in Biosphere and Climate Impacts, Prof. Colin Prentice, Imperial College London, United-Kingdom. This AXA Chair advocates for a cross boundary and integrative approach to global climate change science, which bridges a persistent rift between chemical, physical climate science and biological science. Its objective is to develop and apply robust, quantitative knowledge about the impacts and risks of climate variability and change on terrestrial ecosystems and their interactions with climate;
+AXA Chair in African Climate Risks, Prof. Mark New, University of Cape Town, South Africa. African countries are among the most vulnerable to climate change. High levels of poverty, underinvestment in infrastructure and technology, increasing ecosystem degradation, and weak governance systems aggravate the burden of climate variability and change. The objectives of this research programme include improving our understanding of past, present and future climate risks, both in terms of climate phenomena and exposure and vulnerability.
+
+
+40 AXA GROUP 2019 Climate Report June 2019 4. Metrics and Targets. 
+Beside the metrics presented under section 2 (Warming Potential, Cost of climate…), this section provides insights into other more mainstream metrics, including targets.
+In addition to the forward-looking metrics, AXA also conducts a more static snapshot year on year of its investments’ carbon footprint since 2014, as part of its commitment to towards the “Montreal Carbon Pledge(1)”. The December 2018 analysis covers 85% of AXA’s assets out of which 98% of sovereign investments, 67% of corporate bonds and 97% of equities.
+(1) https://montrealpledge.org/.
+Historical Trend – AXA’s CO2 Footprint ● Corp Bonds + Equities + Sovereign Corp Bonds + Equities ●
+CO2 intensity in tonnes of CO2 / mns $ revenues or GDP 0
+50 100 150 200 250 300 350 400. 
+Dec 2014 Dec 2015 Dec 2016 Dec 2017 June 2018 Dec 2018 (*) 380 337 302 264 247 257 281 264 229 212 205 199 * Without AXA Financials, including AXA XL. Sources: Trucost S&P, AXA IM.
+In 2018, global carbon emissions have increased in absolute terms after 3 years of flattening. 
+Since 2014, the carbon footprint of AXA's investments has decreased. Considering an exhaustive scope (Corporate + Sovereign Investments), it has decreased by 29% between December 2014 and December 2018. Focusing on our Corporate investments, the carbon footprint has decreased from 380 tons/mns $ revenues to 257 tons/mns $ revenues. This trend is largely due to the fossil fuel divestment program first initiated by AXA in 2015 and subsequently strengthened in 2017.
+However, it has started to increase more recently. Indeed, the carbon intensity of the market and benchmarks (MSCI World ACWI for Equities, Barclays Global Aggregate for corporate bonds) in general has increased in 2018. This is a result we find also at macro level, as global carbon emissions have increased in absolute terms after 3 years of flattening(2). The carbon footprint of AXA’s equity investments is increasing but far less than the MSCI World ACWI, while the corporate bonds’ footprint has risen faster than the market.
+Using this metric as a direct decision-making tool would push investors away from sectors that may be developing adequate solutions for the energy transition; instead it is best to avoid this pitfall and view carbon footprinting as a raw data metric for the more relevant indicators explored in section 2.
+(2) https://news.un.org/en/story/2018/11/1026691.
+Investment Carbon Footprint: a 2014-2018 Trend Analysis
+
+
+41 AXA GROUP 2019 Climate Report June 2019 4. Metrics and Targets. 
+Own Operations – our Direct Environmental Footprint. 
+AXA’s “direct” environmental footprint, although relatively small, is essential in the sense that it also contributes to “walking the talk” as well as improving our operational eco-efficiency, notably through cost savings on energy, fuel, travel, paper and water.
+(1) https://montrealpledge.org/.
+AXA’s target for the 2012-2020 period is to reduce CO2 emissions per Full-Time Employee (FTE) by 25%, broken-down into the following sub-targets: -35% power consumption (kwh/FTE); -15% business travel: vehicle fleet (km/FTE); -5% business travel (km/FTE).
+The Group has also set two other environmental targets: -15% water consumption; -45% office paper (kg/FTE); -50% marketing and distribution paper consumption (kg/client); 95% of paper must originate from recycled or sustainable sources.
+In addition, the Group has set a target to source 100% of its electricity consumed (office sites and AXA-owned data centers) from renewable energy sources by 2025, in line with our “RE100” commitment (RE100 is a coalition of companies pledging to buy 100% of their electricity from renewable sources). In 2018, 55% of the electricity consumed by AXA originated from renewable energy sources (hydro, wind, solar, geothermal, biomass).
+AXA's Direct Carbon and Energy Footprint. 
+KPI: Total CO2 emissions (T.eq. CO2/ FTE) KPI: Power consumption ( KWh/ FTE)
+KWh/ FTE 0.0 0.5 1.0 1.5 2.0 2.5 3.0 0
+500 1,000 1,500 2,000 2,500 3,000 3,500 4,000 4,500 5,000 2012 ref 2015 2016 2017 2018. 
+Target Group 2020: 1.81 (T.eq. CO2/ FTE)
+T.eq. CO2 / FTE. 
+AXA’s environmental data is described in detail in AXA’s 2018 Annual Report Chapter 7.3.
+CO2 emissions reduction target 2012-2020 -25%
+CO2 emissions reduction achieved 2012-2018 -38%
+
+
+42 AXA GROUP 2019 Climate Report June 2019 4. Metrics and Targets. 
+ESG, RI, Climate and SRI Ratings. 
+CDP (formerly Carbon Disclosure Project)
+Historical scores can be found below and are accessible on the CDP website www.cdp.net. 
+UN Principles for Responsible Investment. 
+Every year, AXA answers the detailed UN PRI assessment which seeks to measure the breadth and impact of its signatories’ Responsible Investment strategies.
+Our 2018 scores per “module” are listed on AXA.com, with an overall score of A+, stable since 2015.
+SRI Ratings. 
+AXA’s social, societal, environmental and governance performance is rated by a number of specialists, including investors, brokers and rating agencies that focus specifically on the SRI market, as well as specialist organizations focused on single sustainability themes.
+The Group generally ranks amongst the top performers in its industry and is also included in the main international sustainability indices: ❯ DJSI World and DJSI Europe (based on RobecoSAM research); ❯ Euronext Vigeo, World 120, Eurozone 120 and France 20 (based on Vigeo Eiris research); ❯ FTSE4GOOD (based on FTSE Russell research).
+The AXA Group’s main SRI ratings are listed below (not all ratings are updated annually):
+Agency/Organisation Scores & Ratings. 
+RobecoSAM “Dow Jones Sustainability Index” 79/100 – Sector average: 43/100 Percentile ranking: 95th. 
+Vigeo Eiris 70/100 – Sector leader. 
+FTSE ESG 4.6/5. 
+Sustainalytics 86/100 – Rank 2/145 in sector. 
+CDP A-
+MSCI AAA. 
+Note: The Dow Jones Sustainability Index is a reference performance indicator for AXA, its methodology serves as the basis for the Group’s internal sustainability evaluation tool since 2010, and is one of the performance metrics used to calculate long term incentives (Performance Shares) since 2016.
+Internal AXA Entity CSR/ ESG Maturity Assessment Tool. 
+Inspired by the assessment systems used by the specialized extra-financial rating agencies, AXA developed its own model to assess the sustainability performance of its entities, which is adapted to take into account the specific features of each entity: the AXA Entities Sustainability Index.
+More than 100 CR factors are analyzed, including governance, risk management, co m p l i a n ce , c u sto m e r re l at i o n s management, environmental impact management, “green products”, microinsurance, human capital management, community involvement, philanthropy, etc.
+Each factor is weighted and scored according to the entity’s performance, resulting in an aggregate global score out of 100. Each entity’s progress in corporate responsibility maturity is measured each year.
+AXA Group CDP Climate Change Performance. 
+Disclosure. 
+Management. 
+Awareness. 
+Leadership. 
+A
+B. 
+C
+D. 
+A–
+B–
+C–
+D– 2011 2012 2013 2014 2015 2016 2017 2018 2010 2018 DowJones Sustainability Index percentil ranking 95%
+AXA has submitted CDP reports since 2005 (with scores since 2010). In 2018 AXA’s Climate Change score reached A-, reflecting ambitious actions to manage our environmental impact across all our business activities.
+This is a guide to CR strategy development used by the subsidiaries to identify the measures needed to roll out their own local CR strategies.
+
+
+43 AXA GROUP 2019 Climate Report June 2019. 
+Statutory Auditors’ Report (PwC)
+Independent Limited assurance report on the Identified Information presented in the AXA's 2019 Climate Report. 
+To the directors of AXA S.A. (“The Company”)
+We have undertaken a limited assurance engagement in respect of the selected information listed below and reported at the page number indicated below in The Company’s 2019 Climate Report(1) for the year ended 31 December 2018 (“the Climate Report”) (the “Identified Information”). This engagement was conducted by an independent and multidisciplinary team with experience in sustainability reporting and assurance.
+Identified Information. 
+The Identified Information for the year ended 31 December 2018 is summarized below: ❯ Warming Potential comparison with market indices for Corporate Securities (p. 17); ❯ Cost of climate for Corporate Fixed Income and Equity assets (p. 3 and 19); ❯ Green Bonds invested in 2018 (p. 26); ❯ Carbon intensities of Corporate Bonds, Equities and Sovereigns assets, at the end of December 2018 (p. 40);
+Our assurance engagement was with respect to the year ended 31 December 2018 information only and we have not performed any procedures with respect to earlier periods or any other elements included in the Climate report and, therefore, do not express any conclusion thereon.
+Criteria. 
+The criteria used by the Company to prepare the Identified Information are available in the Company’s procedures listed below and can be read at the Company’s headquarters (the 'Criteria'): ❯ Carbon Delta – Warming Potential Computation, October 2018; ❯ Carbon Delta – Transition Modelling: Technology Oppportunities, October 2018; ❯ Carbon Delta – Transition Risk and Carbon Footprinting Methodology, October 2018; ❯ AXA Investment Managers – Our green bond framework, July 2018; ❯ RI Search - Carbon footprint engine focus, June 2019, whose corporate carbon intensities are based on a private database prepared by the provider Trucost.
+The Company’s Responsibility for the Identified Information. 
+The Company is responsible for the preparation of the Identified Information in accordance with the Criteria, the main elements of which are presented in the Climate report. This responsibility includes the design, implementation and maintenance of internal control relevant to the preparation of the Identified Information that is free from material misstatement, whether due to fraud or error.
+Inherent limitations. 
+The Identified Information needs to be read and understood together with the Criteria, which The Company is solely responsible for selecting and applying. The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information allows for different, but acceptable, measures and measurement techniques and can affect comparability between entities.
+Our Independence and Quality Control. 
+We have complied with the independence and other ethical requirements of the Code of Ethics for Professional Accountants issued by the International Ethics Standards Board for Accountants, which is founded on fundamental principles of integrity, objectivity, professional competence and due care, confidentiality and professional behavior.
+Our firm applies International Standard on Quality Control and accordingly maintains a comprehensive system of quality control including documented policies and procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory requirements.
+(1) Available on the website https://www.axa.com/en/about-us/axa-and-climate-change.
+
+
+44 AXA GROUP 2019 Climate Report June 2019. 
+Our Responsibility. 
+Our responsibility is to express a limited assurance conclusion on the Identified Information based on the procedures we have performed and the evidence we have obtained. We conducted our limited assurance engagement in accordance with International Standard on Assurance Engagements 3000, Assurance Engagements other than Audits or Reviews of Historical Financial Information, issued by the International Auditing and Assurance Standards Board. This standard requires that we plan and perform this engagement to obtain limited assurance about whether the Identified Information is free from material misstatement.
+A limited assurance engagement involves assessing the suitability in the circumstances of the Company’s use of the Criteria as the basis for the preparation of the Identified Information, assessing the risks of material misstatement of the Identified Information whether due to fraud or error, responding to the assessed risks as necessary under the circumstances, and evaluating the overall presentation of the Identified Information. A limited assurance engagement is substantially less in scope than a reasonable assurance engagement in relation to both the risk assessment procedures, including an understanding of internal control, and the procedures performed in response to the assessed risks.
+The procedures we performed were based on our professional judgment and included inquiries, observation of processes performed, inspection of documents, analytical procedures, evaluating the appropriateness of quantification methods and reporting policies, and agreeing or reconciling with underlying records.
+Given the circumstances of the engagement, in performing the procedures listed above we: ❯ made inquiries of the persons responsible for the Identified Information; ❯ understood the process for collecting and reporting the Identified Information; ❯ performed limited testing of relevant documents and records on a sample basis; ❯ performed limited testing and reviewing on a sample basis of quantitative information related to the Identified Information to check that the data had been appropriately collected and reported; and ❯ considered the disclosure and presentation of the Identified Information.
+For Warming Potential and Climate Costs information, calculated by the external provider Carbon Delta, our procedures did not include the review of Carbon Delta’s databases, computation and information systems nor quality management procedures.
+For Carbon intensities information, our procedures did not include the review of the preparation of Trucost’s database.
+The procedures performed in a limited assurance engagement vary in nature and timing from, and are less in extent than for, a reasonable assurance engagement. Consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had we performed a reasonable assurance engagement. Accordingly, we do not express a reasonable assurance opinion about whether the Company’s Identified Information has been prepared, in all material respects, in accordance with the Criteria.
+Limited Assurance Conclusion. 
+Based on the procedures we have performed and the evidence we have obtained, nothing has come to our attention that causes us to believe that the Company’s Identified Information for the year ended December 31, 2018 is not prepared, in all material respects, in accordance with the Criteria.
+This report, including the conclusion, has been prepared solely for the directors of the Company as a body, to assist them in reporting on the Company’s climate-related performance and activities. We permit this report to be disclosed within the Climate report, to enable the directors to demonstrate they have discharged their governance responsibilities by commissioning an independent assurance report in connection with the Climate report. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the directors as a body and the Company for our work or this report save where terms are expressly agreed and with our prior consent in writing (1).
+Neuilly sur Seine, France 19th July 2019. 
+PricewaterhouseCoopers Audit. 
+Bénédicte Vignon Partner Sylvain Lambert Partner In charge of the Sustainable Performance & Strategy (1) The maintenance and integrity of the Company’s website is the responsibility of the directors; the work carried out by the assurance provider does not involve consideration of these matters and, accordingly, the assurance provider accepts no responsibility for any differences between the Climate report of the Company on which the assurance report was issued or the assurance report that was issued and the information presented on the website.
+
+
+www.axa.com

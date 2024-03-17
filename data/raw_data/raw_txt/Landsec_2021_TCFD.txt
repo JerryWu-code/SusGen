@@ -1,0 +1,208 @@
+net zer carbon pathway
+
+
+Sustainable places. Connecting communities. Realising potential.
+We live by these principles to create great experiences for people, now and in the future.
+We create places that make a lasting positive contribution to our communities and our planet. We bring people together, forming connections with each other and the spaces we create. And we provide our customers, partners and people with a platform to realise their full potential.
+In developing our business strategy to position Landsec for growth, we considered long term macro trends. We identified global forces of change, such as climate change and resource scarcity, likely to shape the future and which will be key to understanding the opportunities and threats that Landsec is likely to encounter in the long term. For that reason, our ESG leadership has been identified as a key performance driver and important source of competitive advantage.
+Leadership in climate resilience. 
+Throughout the past decade, Landsec has established itself as a global sustainability leader in its sector. We’ve set and achieved ambitious carbon targets, invested in renewable energy, and reduced energy use in our buildings. Following the two-degree pledge made at the COP21 Convention on Climate Change in Paris, in 2016 we became the first property company in the world to have its carbon emissions target approved by the Science Based Targets initiative. Since 2016, we have procured 100% REGO-backed renewable electricity through our corporate contract with Smartest Energy. We were also one of the first companies globally to join all three of The Climate Group’s RE100, EP100 and EV100 campaigns, a series of commitments for businesses to procure renewable energy, improve energy productivity and invest in electric transport infrastructure.
+In line with our leadership approach, in November 2019, we announced our commitment to becoming a net zero carbon business by 2030 and we set out our strategy for achieving this. It is an ambitious but credible strategy with clear actions to support the world to limit global warming to 1.5ºC.
+Furthermore we were a founding signatory to the Better Buildings Partnership Climate Change Commitment, to which this document fulfills the requirement of publishing a net zero carbon pathway.
+Sustainable places. Connecting communities. Realising potential.
+southwark The Forge 01
+
+
+1. Reduce operational carbon and energy The first step to becoming a net-zero carbon business is to reduce our operational carbon emissions. In November 2019, following the achievement of our original science-based carbon reduction target 11 years early, we increased the ambition level of our science-based target, aligning it with a 1.5oC scenario. Our updated target is to reduce our absolute carbon emissions by 70% by 2030 from a 2013/14 baseline year, for property under our operational control for at least two years. As most of the operational carbon emissions for a building are associated with energy consumption, we also have an energy reduction target to reduce our energy intensity by 40% by 2030 compared with a 2013/14 baseline. In line with our ISO 50001 Energy Management System, every property we operate has its own energy reduction plan. These plans look at retrofitting energy-efficient equipment, optimising our buildings to use less energy, and working with our customers to reduce the energy they use in their spaces. To ensure our future assets operate as efficiently as they were designed to, we’re using the NABERS Design for Performance approach to set energy intensity targets. We’re mapping our energy performance against both the UKGBC and CRREM net zero pathway to ensure that we’re in line with industry best practice.
+2. Invest in renewable energy Since 2016 we’ve procured 100% REGO (Renewable Energy Guarantees of Origin) backed electricity and have installed capacity of 1.5MW of on-site renewable electricity generation. This means we’re halfway to achieving our target of delivering 3 MW of onsite renewable electricity generation by 2030. As part of our net zero carbon strategy, we will increase the amount of renewable electricity we generate and move part of our procurement from REGO-backed contracts to direct purchasing from renewable projects through Power Purchase Agreements (PPA).
+79,614 76,718 64,703 54,333 46,297 23,884 –4% –19% –32% –42% –70% 0
+20,000 10,000 30,000 40,000 50,000 60,000 90,000 80,000 70,000 tCO2e 2013/14 Baseline 2016/17 2017/18 2018/19 2019/20 2030. 
+Scope 1 Scope 2 Scope 3. 
+Our carbon reduction target performance Our net zero carbon strategy. 
+Reduce operational energy use in support of our updated science-based carbon reduction target, aligned with a 1.5°C scenario 1.
+Invest in renewable energy through REGO-backed contracts and Power Purchase Agreements and implement on-site renewables across our assets 2.
+Use an internal shadow price of carbon to clearly communicate climate-related risks and opportunities in investment decisions 3.
+Reduce construction impacts through asset retention, efficient design and responsible sourcing of low-carbon materials 4.
+Offset remaining emissions through carefully selected projects which actively take carbon out of the atmosphere 5.
+02
+
+
+3. Use an internal price of carbon To support us in assessing climate-related risks and opportunities as we transition to net zero carbon, we’re using an internal shadow price of carbon. This internal metric gives an investment’s carbon risks and opportunities a monetary value, so that we have a standard metric to assist investment decision making. We’ve set our internal carbon price at £80/ tonne CO2. This was calculated by estimating how much we’re spending on carbon reduction projects currently and how much more would be needed long-term to achieve our goals. This balances out expensive retrofit projects with cost-effective early design choices in our development pipeline. £80/tonne CO2 is in line with the recommendation from the Commission on Carbon Pricing for a carbon price level consistent with the Paris agreement and aligned with guidance from the United Nations Global Compact on carbon pricing. Importantly, it’s also in line with the Department for Business, Energy and Industrial Strategy’s (BEIS) forecast of carbon prices through to 2030. In our investment decisions, this shadow carbon price helps our business quantify the mediumterm transition risk associated with the UK shifting to a low-carbon economy. It helps us capture the financial risk of continued carbon emissions in the likely future event of a carbon tax being imposed on our industry, as is currently the case with heavy industries such as steel and cement. It’s also here to support the business case for transitioning to low-carbon solutions in our own operations. In summary, the internal shadow carbon price helps us to align our capital allocation strategies to our net zero carbon pledge and factor transition risk into our decision-making process.
+victoria. 
+Nova 03
+
+
+4. Reduce construction impacts Embodied carbon emissions are the greenhouse gas emissions associated with the non-operational phase of a project, including supply chain emissions arising from extraction of resources, manufacture of products, transportation and assembly of a building. As our building operations become cleaner, the impact of our low carbon design and construction methods will become proportionally bigger. As part of our Sustainability Brief for Developments, we’re setting embodied carbon intensity targets for our new designs. We have set corporate benchmarks and are aiming to achieve maximum supply chain emissions intensity of 900kgCO2/m2 GIA for a newbuilt commercial scheme and 500kgCO2/m2 GIA for retail projects. A residential benchmark will be set. Each project will be set a specific embodied carbon target reflecting projectspecific opportunities such as retention of existing structures. Furthermore, we will expect each project to demonstrate embodied carbon reductions throughout design development, specification and construction. We’ll aim to achieve at least a 15% reduction in the total volume of emissions against a RIBA Stage 3 baseline. To enable this, from the beginning of the design stage and subsequently across design and construction for every development project, an embodied carbon assessment is undertaken by a qualified carbon consultant. We expect each project to demonstrate embodied carbon reductions throughout the construction process and will set carbon reduction targets to our delivery partners to drive procurement decisions towards low-carbon products and manufacturing processes. An as-built embodied carbon report will be produced at project completion. We’re reducing our construction impacts by maximising re-use of any existing assets to reduce the extent of construction or demolition required and using fewer materials to drive down both cost and carbon emissions. We’re also adopting modern methods of construction, such as a platform approach to design for manufacture and assembly, reducing the construction time, waste and cost. Finally, we’re avoiding use of materials with high carbon intensity, such as traditional steel and concrete, instead using locally sourced materials with high recycled content as far as possible and innovative low-carbon materials such as engineered timber where applicable.
+5. Offset remaining carbon Once carbon emissions have been minimised as far as possible, we’ll direct funds to carbon offset projects which actively take carbon out of the atmosphere, such as carbon sequestration from tree planting. We’ll also prevent further emissions from being released into the atmosphere, for example by launching a forest conservation project or subsidising a renewable energy project that allows a move away from fossil fuels. We’re working with an established carbon offset project developer to purchase such options and importantly, to ensure that each credit is independently verified, transparent and traceable. Our development projects will be expected to make an allowance in their budgets for the cost of offsetting related to the project activities.
+04
+
+
+Delivering our first net zero carbon building. 
+We’re ambitious about our plans for The Forge in Southwark; in fact, we’re aiming for the new 139,000 sq ft development to be the UK’s first net zero carbon commercial building. This means the building will be both constructed and operated in line with the UK’s Green Building Council’s (UKGBC) framework definition of net zero carbon buildings.
+The Forge will be the world’s first large scale office building designed and constructed using the ‘kit of parts’ solution built on a P-DfMA (Platform for Design, Manufacture and Assembly) structural frame.
+1. The innovative ‘Design for Manufacture and Assembly’ approach has reduced embodied carbon emissions by 19% compared to a regular build.
+2. Embodied carbon is further minimised by careful specification of materials such as high recycled content in key construction materials and cement replacement.
+3. A ‘Design for Performance’ approach helps minimise operational energy demand, and aligns with the UK Green Building Council’s net zero trajectory.
+4. 107 PV panels to be installed on the roof, generating on-site renewable electricity.
+5. All electric solution based on highly efficient air-source heat pumps with heat recovery powered with renewable electricity. No energy generated from fossil fuels, decarbonising building operation and improving local air quality 6. 298m2 of green roof resulting in significant biodiversity net gain and providing thermal insulation.
+6 4
+1 2
+5 3
+05
+
+
+The scope of our net zero carbon commitment. 
+Every year we measure and report our full carbon footprint, including the entire range of measurable carbon emissions associated with our business. This allows us to identify the most significant areas in our value chain to focus on reducing emissions. Our net zero strategy describes key areas where we’ll focus our efforts in order to become a net zero carbon business by 2030. We recognise that we have an important role to play in influencing emission reduction of our supply chain and customers. Therefore, through our commitment, we’re addressing our direct emissions (i.e. scope 1 and 2 emissions), like when we use energy to heat and power our properties, as well as emissions indirectly associated with our business (i.e. scope 3 emissions), like the carbon emissions produced by construction companies and suppliers when they work with us to develop a property and the energy used by our customers within their spaces. In 2019-20, 87.2% of our total carbon footprint was scope 3 emissions.
+The boundary of our net zero commitment includes all properties within our portfolio, including properties directly managed by us or by appointed agents on our behalf, as well as properties on Fully Repairing and Insuring (FRI) leases.
+A detailed table outlining the scope of our net zero commitment and its alignment with the Better Buildings Partnership Climate Change Commitment can be found on page 10.
+Customers Construction activities. 
+Purchased goods and services. 
+Other 46% 29% 21% 4%
+Scope 1 Scope 2 Scope 3. 
+Scope 1,2,3 emissions. 
+Scope 1 emissions 3.4%
+Direct emissions from activities controlled by us. 
+Scope 2 emissions 9.4%
+Indirect emissions associated with our consumption of purchased energy. 
+Scope 3 emissions 87.2%
+Indirect emissions which are caused by our activities but not controlled by us 06
+
+
+07 oxford. 
+Westgate
+
+
+08. 
+Delivery Strategy. 
+In addition to the key initiatives described in our 5-step net zero strategy, there are several other actions that we will undertake to support our progress against our net zero commitment. In line with the BBP Net Zero Carbon Framework, this table provides further details on how we plan to become net zero.
+It’s important to note that our net zero strategy will continue evolving to ensure it remains relevant to Landsec and aligned with best practices. This includes reviewing the scope of our commitment, as well as delivery strategy and associated reporting metrics.
+Topic Outcomes / Aims Development / Management Strategy Reporting Metric. 
+Operational Carbon. 
+Reduce operational energy use in our portfolio in support of our science-based carbon reduction target, aligned with a 1.5oC. 
+Ensure energy intensity of our assets is aligned with the UKGBC and CRREM net zero pathways – Deliver carbon reduction against our science-based target aligned with a 1.5oC, reducing our carbon emissions by 70% by 2030 compared with baseline year 2013/14 for properties under our operational control for at least 2 years. This target includes scope 1, scope 2 and proportion of scope 3 emissions associated with energy consumed by tenant and procured by us.
+– Reduce energy intensity by 40% by 2030 compared with baseline year 2013/14 for properties under our operational control for at least 2 years.
+– Identify and agree to implement energy reduction measures which will lead to reductions compared with 2013/14 corporate baseline, in line with Group KPI linked to executive remuneration.
+– Include our internal price of carbon in investment appraisals to support the business case for transitioning to low-carbon solutions in our own operations.
+– Maintain an energy reduction plan updated for every property we operate in line with our ISO 50001 Energy Management System.
+– Ensure our new office developments operate as efficiently as they were designed to, by using the NABERS Design for Performance approach to set energy intensity targets for our commercial developments, in line with our 2030 targets and UKGBC’s net zero targets.
+– Develop a customer engagement programme to improve energy efficiency, by raising awareness and driving behaviour change around energy performance.
+– Develop a structured process to improve data sharing with customers that procure their own utilities, increasing our understanding about total energy usage and carbon emissions in our retail assets and FRIs.
+– Review lease agreements to allow for better engagement and collaboration with our customers, supporting the delivery of our net zero strategy.
+– Improve metering and submetering infrastructure to ensure the collection of accurate data for energy and water consumption.
+– Review water management strategy and set appropriate targets to support our net zero commitments.
+– Deliver against our operational waste management targets to continue to send zero waste to landfill and achieve at least 75% recycled across all operational activities.
+– Operational carbon emissions (tCO2e), including scope 1, 2 and 3 – % reduction in operational carbon emissions (tCO2e) compared with baseline year 2013/14 – Portfolio energy intensity (kWh/m2) – % reduction in energy intensity compared with baseline year 2013/14 – % of tenant consumption based on metered data. 
+On-site generation and renewables procurement. 
+Support the UK grid decarbonisation by increasing the additionality of our energy procurement approach. 
+Achieve 3MW of renewable electricity capacity by 2030 – Continue to procure 100% renewable electricity.
+– Explore opportunities to move our procurement towards direct purchasing from renewable projects through Power Purchase Agreements (PPA), increasing the additionality of our energy procurement approach.
+– Carry out feasibility studies to install solar PVs across our portfolio, increasing our on-site renewable electricity capacity whilst reducing our grid dependence.
+– Carry out feasibility studies to install battery storage capacity across our portfolio.
+– Transition away from fossil fuel toward all electric solutions, prioritising electric heating and cooling solutions, such as heat pumps, in our new developments and major refurbishments.
+– % of electricity from renewable sources – % of renewable electricity procured via PPA – On-site renewable electricity capacity (MW)
+
+
+09. 
+Topic Outcomes / Aims Development / Management Strategy Reporting Metric. 
+Embodied carbon associated with capital goods, services, and capital works e.g. management, maintenance, fit-outs, refurbishment and new development. 
+Reduce construction impacts through asset retention, efficient design and responsible sourcing – Continue setting specific embodied carbon intensity and reduction targets for all new developments, against our benchmarks of 900kgCO2/m2 GIA for newbuilt commercial offices and 500kgCO2/m2 GIA for retail projects, as well as targeting a 15% reduction against each project RIBA Stage 3 baseline.
+– Reduce embodied carbon in new developments in line with Group KPI linked to executive remuneration.
+– Include our internal price of carbon in investment appraisals to support the reuse of existing structures and low-carbon design decisions.
+– Develop a structured process to collect data and calculate the carbon emissions associated with maintenance, fit-outs and refurbishment projects.
+– Work with supply chain to improve data quality availability and accuracy for manufacturing construction materials.
+– Deliver against our construction waste management targets by 2030: reduce construction waste to 6.5 tonnes per 100m2 GIA and aspire to further design out and reduce construction waste to 3.2 tonnes per 100m2 GIA; generate value from waste through innovative re-use projects across our portfolio; recycle at least 75% of construction waste by 2030; and send zero construction waste to landfill.
+– Embodied carbon intensity for new developments (kgCO2e/m2 GIA) – Total embodied carbon (tCO2e) for each development – % reduction in embodied carbon compared with design stage baseline. 
+Offsetting Offset remaining emissions through carefully selected projects which actively take carbon out of the atmosphere – Develop carbon offsetting strategy for remaining emissions from our construction activities.
+– Develop carbon offsetting strategy for remaining emissions from our operations from 2030.
+– Explore and select carbon offsetting schemes that meet stringent requirements of due diligence, verification and reporting, as evidenced by recognised third-party standards such as UN Gold Standard and Verified Carbon Standard.
+– Prioritise projects based on natural climate solutions that remove carbon emissions from atmosphere, including reforestation and forest conservation.
+– Carbons emissions offset (tCO2e) – Number and type of offsetting schemes. 
+Third-party verification; industry standards and certification. 
+Ensure transparency and credibility of our net zero strategy – Continue to undertake external assurance on our annual ESG disclosures, ensuring integrity, quality and usefulness of the information we provide.
+– Undertake external certification, including BREEAM and NABERS UK, for all new developments.
+– Explore alternatives for external operational certification across our portfolio, including BREEAM In-Use, to support our net zero strategy.
+– Follow NABERS UK assessment methodology to identify opportunities for energy efficiency improvement across our investment assets.
+– Ensure all our spaces have a valid EPC certificate that meet the Minimum Energy Efficiency Standards (MEES) requirements by 2023.
+– % of portfolio BREEAM certified by floor area and value – % of spaces with valid EPC certificate
+
+
+10. 
+Our net zero carbon commitment alignment with BBP Net Zero Carbon Framework. 
+Business Area. 
+Sub-Area GHG Protocol Category. 
+Carbon Scope. 
+BBP Framework. 
+Landsec. 
+Corporate. 
+Head office energy use. 
+Company facilities 1&2 No Yes. 
+Company vehicles. 
+Company vehicles 1 No N/A. 
+Business travel (excluding commuting)
+Business travel 3 No Yes. 
+Purchased Goods and services. 
+Purchased goods & services 3 No Yes. 
+Operational waste generated. 
+Waste generated in operations 3 No Yes. 
+Operational water use. 
+Purchased goods & services 3 No Yes. 
+Employee commuting. 
+Employee commuting 3 No No. 
+Direct Real Estate Holdings (including JVs with management control)
+Landlord purchased energy (electricity & fuels)
+Purchased electricity, heat and steam 1,2&3 Yes Yes. 
+Tenant purchased energy (electricity & fuels)
+Downstream leased assets 3 Yes Yes. 
+Landlord refrigerants. 
+Purchased goods and services 3 Yes Yes. 
+Tenant refrigerants. 
+Tenant Scope 3 3 No No. 
+Landlord purchased water. 
+Purchased goods & services 3 Yes Yes. 
+Tenant purchased water. 
+Tenant Scope 3 3 No No. 
+Landlord managed operational waste. 
+Waste generated in operations 3 Yes Yes. 
+Tenant managed operational waste. 
+Tenant Scope 3 3 No No. 
+Visitors transport emissions. 
+Tenant Scope 3 3 No No. 
+Customer supply chain emissions. 
+Tenant Scope 3 3 No No. 
+Landlord purchased capital goods & services (M&E & property management services)
+Purchased goods and services 3 Yes Yes. 
+Business Area. 
+Sub-Area GHG Protocol Category. 
+Carbon Scope. 
+BBP Framework. 
+Landsec. 
+Investments (Indirect Real Estate Holdings)
+Landlord purchased Energy (electricity & fuels)
+Investments (proportional to the investment) 3 Yes N/A. 
+Tenant purchased energy (electricity & fuels)
+Investments (proportional to the investment) 3 Yes N/A. 
+Landlord refrigerants. 
+Purchased goods and services 3 Yes N/A. 
+Tenant refrigerants. 
+Tenant Scope 3 3 No N/A. 
+Landlord purchased water. 
+Investments (proportional to the investment) 3 Yes N/A. 
+Tenant purchased water. 
+Tenant Scope 3 3 No N/A. 
+Landlord managed operational waste. 
+Investments (proportional to the investment) 3 Yes N/A. 
+Tenant managed operational waste. 
+Tenant Scope 3 3 No N/A. 
+Visitors transport emissions. 
+Tenant Scope 3 3 No N/A. 
+Customer supply chain emissions. 
+Tenant Scope 3 3 No N/A. 
+Development. 
+New development (including those where funding is being provided)
+Purchased Goods & Services 3 Yes Yes. 
+Refurbishments Purchased Goods & Services 3 Yes Yes. 
+Fit-out (landlord controlled)
+Purchased goods and services 3 Yes Yes. 
+Fit-out (tenant controlled)
+Tenant Scope 3 3 Yes Yes. 
+End of life End of life treatment of sold products 3 No No

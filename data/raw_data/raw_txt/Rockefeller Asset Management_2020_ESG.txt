@@ -1,0 +1,431 @@
+2020 Sustainable Investing Annual Report
+
+
+2 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Contents. 
+Overview and 2020 Accomplishments 05. 
+Foreword 01. 
+Research 08 14 23 26. 
+Thought Leadership. 
+Internal Initiatives. 
+Engagement
+
+
+1 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report 1) Investors will see ESG integration as an alpha driver.
+European institutions have broadly adopted this belief. U.S. investors will soon follow. This is not about values; it’s about creating shareholder value. While both ESG leaders and improvers strategies receive the benefits of ESG, we believe that an improvers approach offers the greater potential for generating uncorrelated alpha over the long term. Additionally, our joint research project with NYU analyzing academic papers published between 2015–2020 found that 59% of “investment studies,” which typically focus on risk-adjusted return metrics, showed similar or better performance relative to conventional investment approaches, with only 14% of the studies indicating negative results. A key takeaway from the research was that financial performance due to ESG becomes more marked over long-term horizons.
+Looking Forward: We intend to extend the Rockefeller ESG Improvers ScoreTM to markets outside of the U.S. and enhance our quantitative capabilities to more precisely assess the risk and return ramifications of. 
+ESG information. This is designed to complement our fundamental, bottom-up process, which has longused ESG improver analysis to uncover risks and opportunities overlooked by traditional investors.
+2) Shareholder engagement will be recognized as an effective tool to help deliver alpha and positive outcomes.
+While climate change has solidified as one of the top ESG priorities, human capital management (HCM) resolutions gained prominence in the 2020 proxy voting season following the COVID-19 health crisis as did necessary conversations around diversity, equity, and inclusion (DEI). Climate-Related engagements typically focus on disclosing carbon footprint metrics, setting targets to align with Paris Agreement standards, and reporting alongside the Sustainability Accounting Standard Board (SASB) or the Task Force on Climate-related Financial Disclosures (TCFD). The majority of filed HCM shareholder proposals focused on board and workforce diversity and pay equity.
+Last year, we wrote about the inflection point for sustainable investing, as institutions increasingly accept the risk and return benefits. We are now in the breakout years. Mindsets are transforming, as evidence for the alphaenhancing potential of ESG integration mounts. According to Morningstar, in 2020, three out of four sustainable equity funds outperformed their Morningstar category average, and 25 of 26 ESG equity index funds beat their traditional benchmark counterparts. Our proprietary analysis—utilizing both Rockefeller’s ESG Improvers ScoreTM (score that ranks a company’s improvement in performance on material ESG issues relative to industry peers) and a joint research project with NYU Stern’s Center for Sustainable Business—reinforces this view.
+On the back of this evidence, sustainable assets in open-ended funds and ETFs rose approximately 65% in 2020 to $1.6 trillion, according to Morningstar. Europe is the undeniable global leader, representing 81% of total sustainable assets, which is why we are particularly proud of our partnerships forged in 2020 with institutional and intermediary investors throughout Europe, including Switzerland and the Nordics, both of which are at the forefront of generating alpha and positive outcomes via sustainable investing.
+We see asset allocations of the future combining ESG leaders, ESG improvers and thematic strategies across equities, alternatives, and fixed income. European institutions have already started down this path. In addition to the proliferation of 100% sustainable asset allocation models, we believe that six major themes will unfold over the ensuing years.
+Casey C. Clark, CFA© Global Head of ESG Investments and Portfolio Manager. 
+David P. Harris, CFA© Chief Investment Officer and President of Rockefeller Asset Management. 
+Foreword
+
+
+2 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Shareholder engagement is a critical part of our investment process for many strategies. We believe that constructively working with firms to improve their ESG footprint will lead to stronger financial performance over time. To increase the probability of generating a positive outcome, we implemented a four-stage escalation process: 1. Constructive Dialogue 2. Official Letters 3. Collaborative Action 4. Shareholder Resolutions Looking Forward: We recently added two new engagement analysts to the team and promoted Mia Overall to Director of Shareholder Engagement. In 2020, as COVID-19 swept the human and economic landscape, many of our conversations with companies addressed the impacts on their people, business, and strategy. In 2021, our top five priorities shift to: 1. Climate Action: GHG emission reduction and climate adaption 2. Ocean Health: Pollution prevention and conservation 3. Data Privacy and Security 4. Labor Management: health, safety, human rights and DEI 5. Governance: Integrating ESG into business strategy and oversight at board or executive level 3) Climate change will transform economies and markets.
+Of the hundreds of meetings we host with institutional investors across the world, this is the most commonly referenced issue. Here’s how climate change transforms economies and markets: Greenhouse gas emissions from five sources are causing the planet to warm at an alarming rate: • 31% Making things (cement, steel plastic) • 27% Plugging in (electricity) • 19% Growing things (plants, animals) • 16% Getting around (planes, trucks, cargo ships) • 7% Keeping warm and cool (heating, cooling, refrigeration)1. 
+The resulting warming is increasing extreme seasonal temperatures and weather events, causing sea levels to rise and permanently changing ecosystems, which in turn damages infrastructure, increases air pollution, 1 This breakdown is from How to Avoid a Climate Disaster by Bill Gates.
+threatens human health, disrupts power supplies, destabilizes food supplies, threatens water quality, and forces human migration. In response, public policy, consumer behavior, and technologies are transforming rapidly, creating new opportunities in environmental markets, such as renewables, water, waste, energy efficiency, food and agriculture, and healthcare mitigation.
+Looking Forward: We are continuing to: • Open access to Rockefeller’s Climate Solutions Strategy, which has a nearly nine-year track record of outperformance • Integrate physical and transition risk assessments into our fundamental, bottom-up process when material • Lead global networks, contribute to the dialogue, and use our voice as shareholders to help drive positive change 4) SDG-aligned thematic strategies will be a fundamental component of sustainable asset allocations.
+The difference between ESG-integration and thematic investing is demarcated between leaders and improvers. ESG integration seeks to enhance traditional investment processes in search of alpha. Sustainable Development Goal (SDG) aligned thematic strategies tend to be more concentrated and invest in firms offering products or services aligned with the goals. Think of a wind turbine manufacturer helping produce affordable and clean energy (SDG 7). There tends to be a high burnout rate for certain thematic strategies focused on short-term fads. We believe that some SDG-linked strategies supported by 30+ year mega trends have high probability of outperforming. For example, climate change, ocean health, and health & wellness are secular challenges driven by changing regulations, changing consumer preferences, and technological advancements.
+Looking Forward: Rockefeller’s two global equity high conviction thematic strategies centered on climate change and ocean health have grown markedly over the past 12 months. We are exploring additional themes that have similar tailwinds from public policy, next generation consumer preferences, and technological advancements. There is also a long-term future state in which thematic strategies are bundled together to provide investors diversified exposure to uncorrelated themes within one strategy.
+
+
+3 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report 5) Passive sustainable investing will gain market share.
+While the clear majority of ESG assets are in actively managed equities, passive approaches are gaining market share. In Europe, passive funds accounted for 22.5% of sustainable assets under management, up from 18% three years ago. Similar trends are occurring in the U.S., with passive representing 38% of total sustainable assets.2 We see the growth in passive firsthand at some of the largest institutional investors in our network. Beyond market cap weighted indices, FTSE’s Smart Sustainability 2020 survey of asset owners serves as a good proxy for understanding factor-based, enhanced index demand. Of the asset owners using or evaluating smart beta strategies, 58% anticipate applying “ESG, climate or exclusion considerations” to a smart beta strategy, up from 28% in 2018. The responses were more pronounced in EMEA (Europe, Middle East, and Africa), with 81% expecting to apply ESG considerations relative to 52% two years ago.
+Looking Forward: We believe that allocators will: • Combine leaders and improvers indices when filling ESG index mandates. In theory, the combination would receive the benefits of ESG with lower holdings overlap and correlations when compared to two leaders indices.
+• Integrate ESG factors with traditional factors such as value, growth, quality, or low volatility when building customized, enhanced indices. We are particularly excited about the potential for customizing our recently launched Bloomberg Rockefeller ESG Improvers Index and exploring distribution partnerships to align the optimal vehicle with end market demand.
+2 Source: Morningstar 6) Demand for ESG integrated long-short funds will increase.
+While the vast majority of sustainable flows have gone into long-oriented equities, it’s easy to foretell that alternatives and fixed income will grow as allocators seek to construct 100% sustainable portfolios across asset classes. We see this trend unfolding in realtime, with requests to learn more about our new ESG integrated long/short equity capabilities. If our historical analysis holds true and ESG improvers outperform, this suggests that ESG decliners could present promising short candidates for long-short equity strategies.
+Looking Forward: In addition to our ESG Improvers analysis being integrated systematically into factor-based strategies and supporting our fundamental research process, we are particularly excited about the opportunity to source short ideas from bottom quintile decliners for Rockefeller’s ESG integrated long-short strategy that was launched in 2020 and is led by Avery Sheffield.
+At Rockefeller Asset Management, ESG-integrated research emphasizing improvers, coupled with indepth shareholder engagement, is core to our philosophy of delivering alpha and positive outcomes. We say that ESG investing cannot make “bad” investors “good,” but it can make good investors better. We are intensely focused on building partnerships with institutional investors and expanding our product lineup in a manner that leverages our 30 years of ESG investing experience, 40 years of effective shareholder engagement, and the Rockefeller legacy that has the ability to convene global networks to generate insights not commonly found in the investment community.
+David P. Harris, CFA©
+Chief Investment Officer and President of Rockefeller Asset Management. 
+Casey C. Clark, CFA©
+Global Head of ESG Investments and Portfolio Manager
+
+
+4 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Decades of Thought Leadership. 
+Strategy Launches “Mission-Related” Odyssey Fund launched. 
+Global ESG Equity. 
+US SMID. 
+US Equity ESG. 
+Non-US Equity ESG. 
+ESG-Integrated Long-Short Equity. 
+Ocean Engagement. 
+Multi-factor ESG Improvers. 
+Core Taxable ESG Fixed Income. 
+US Small Cap ESG. 
+Climate Solutions (Formerly known as “Ocean Strategy”)
+Core Tax-Exempt Fixed Income ESG. 
+Global ESG Fossil Fuel Free. 
+Non-US Fossil Fuel Free. 
+ICCR (Interfaith Center on Corporate Responsibility)
+Ceres Investor Network on Climate Risk and Sustainability (current Carbon Asset Risk Working Group member)
+International Corporate Governance Network (ICGN)
+One of 35 original investors to launch the Carbon Disclosure Project (CDP) questionnaire. 
+Became UN Principals for Responsible Investment (PRI) signatory. 
+Began work with the Sustainability Accounting Standards Board, participating in several Industry Working Groups that informed the draft Standards. 
+Invited to be a founding member of United Nations Environment Programme Finance Initiative’s (UNEP FI) TCFD Working Group as the only US Asset Manager. 
+Climate Action 100+
+Became members of PRI Plastics Working Group. 
+Council for Institutional Investors (CII)
+Became SASB Alliance members. 
+Sustainable Blue Economy Finance Principles Signatory. 
+Joined Seafood Business for Ocean Stewardship (SeaBOS)
+SASB Sector Advisory Group member. 
+One of five founding members of UNEP FI’s Climate Resilience Risks and Opportunities Coalition. 
+Advisor for World Resources Institute (WRI) High Level Panel for a Sustainable Ocean Economy. 
+Won PRI’s ESG Research Report of the Year Award for work with the UN assessing the impact of climate change on investment portfolios. 
+Received 6th A+ on UN PRI Assessment Report for Strategy & Governance and A+ for Listed Equity – Incorporation. 
+Built patent-pending Rockefeller’s Relevance RankingTM and ESG Improvers ScoreTM. 
+Established partnership with Bloomberg to create custom ESG Improvers Indices. 
+Joined FAIRR Aquaculture Collaborative Engagement to enhance sustainability of feed supply chains. 
+Joined HRH Prince of Wales Sustainable Markets Initiative Net Zero Engagement Task Force 1977 1991 2017 2018 2020 2011 2012 2014 2016 1970s 2000s 2010s 2020s 1996 2001 2002 2012 2013 2017 2018 2019 2020 2021 4 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report 1990s
+
+
+5 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Sustainable Investing Overview and 2020 Accomplishments. 
+A History of Sustainable and Impact Investing. 
+The Rockefeller heritage in sustainable and impact investing dates back to the 1970s, when the family office began public and private investment programs that incorporated environmental and social values into the investment process. Rockefeller family members have long held the view that investment decisions have imperative moral, social, and financial dimensions. Drawing on the intellectual capital built over the decades, today Rockefeller Asset Management offers long-only equity, long-short equity, and fixed income strategies that seek to deliver alpha and positive outcomes. We do so by leveraging our 30 years of ESG investing experience, 40 years of effective shareholder engagement, and the legacy that has the ability to convene global networks to generate insights not commonly found in the investment community.
+Defining the Landscape: Four Sustainable Investing Approaches Investment managers have followed varied styles of sustainable investing depending on the end investors’ goals.
+Sustainable Investing is the Umbrella Term Used to Reference Four Approaches: 1. Socially Responsible Investing, pioneered by faith-based investors, is excluding business activities deemed objectionable. The primary objective is to exclude objectionable business activities based on the investors’ values.
+2. Mission-Driven Impact, led by non-profits such as the Rockefeller Foundation’s Innovative Finance Team, is investing to generate positive environmental or social impact. The primary objective is positive impact.
+3. Thematic Strategies invest alongside themes such as climate change, ocean health, or diversity with the goal of generating alpha.
+4. ESG Integration is incorporating ESG information to enhance the investment process. The primary investment objective is to generate alpha.
+At Rockefeller Asset Management, we are intensely focused on generating alpha and outcomes across thematic and ESG-integrated strategies for our equity, alternative, and fixed income offerings.
+
+
+6 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Sustainable Investing Landscape — Financial-only. 
+Analysis — Alignment with values — Exclusionary. 
+Screens (e.g. sin stocks) — All cap equities — Core Fixed. 
+Income — Negatively screened market-cap weighted — Investments made primarily for positive environmental or social impact — Loans guarantees — Angel or venture capital investing — Private investments — Themes such as climate change, financial inclusion, and diversity — Solutions- oriented — All cap equities — Green and social impact bonds — Private investments — Tilts based on revenues or key characteristics (e.g. environmental market indices or gender equality) — ESG risk and opportunities assessment — Inclusionary: leaders or improvers — All cap equities — Fixed income — Private investments — Positively screened market-cap weighted — Factor-based or "smart beta" with ESG integration. 
+Financial-First Primary. 
+Objective. 
+Approach. 
+Actively. 
+Managed. 
+Sustainable. 
+Investing. 
+Passively Managed. 
+Sustainable. 
+Investing. 
+Rockefeller Strategies. 
+Values-Based Impact-First Financial-First Financial-First. 
+Traditional. 
+Socially. 
+Responsible & Ethical Investing. 
+Mission-Driven. 
+Impact Thematic ESG. 
+Integration. 
+The investment and research process described herein may change over time. The descriptions set forth above are intended as a general illustration of some of the criteria considered in selecting investments. Not all investments will meet such criteria.
+
+
+7 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+We are proud of all that we accomplished in 2020. Among the highlights are: — Building a systematic process to quantify the risk and return ramifications of ESG Improvers, which has wide reaching implications for long-only fundamental, long-short fundamental, and quantitative styles of investing.
+— Uncovering the relationship between ESG activities and financial performance via a 12-month joint research project with NYU Stern’s Center for Sustainable Business. Reference our research paper ESG and Financial Performance: Uncovering the Relationship by Aggregating Evidence from 1,000 Studies Published between 2015 – 2020.
+— Generating positive outcomes via our shareholder engagement four-stage escalation process. Reference our case study series with Amazon, HeidelbergCement, Deutsche Post DHL Group, Kohl’s, and Shenzhou and diversity, equity, and inclusion campaign.
+— Developing investor guidance, tools and resources in collaboration with the Environmental Defense Fund (EDF) through our joint paper to support constructive shareholder dialogues to mitigate climate risks masked behind non-operated oil and gas assets. Reference our research paper Emission Omission: A Shareholder Engagement Guide to Uncovering Climate Risks from Non-Operated Assets in the Oil and Gas Industry.
+The resulting work, together with our ESG research and engagement expertise, led to over $1 billion in inflows into Rockefeller Asset Management ESG strategies in 2020 and exciting partnerships, which include: — Collaborating with a European partner and The Ocean Foundation on an innovative global equity strategy that seeks to generate alpha and outcomes alongside SDG 14, Life Below Water.
+— Partnering with Bloomberg to launch our first passive ESG strategy, the Bloomberg Rockefeller ESG Improvers Index. The multi-factor index combines Rockefeller’s ESG Improvers ScoreTM, an uncorrelated and proprietary alpha enhancing factor, with quality and low volatility factors to pursue outperformance over traditional marketcap weighted indices with low tracking error and minimal sector or other factor deviations. The partnership with Bloomberg allows for the creation of custom indices that may include low carbon and/ or market cap weighted versions.
+— Offering a Climate Solutions UCITS Fund available to the European market through the Rockefeller Capital Management UCITS ICAV platform. The global equity strategy investing in firms offering climate mitigation or adaption solutions was established nearly nine years ago in collaboration with The Ocean Foundation.
+— Launching an ESG-integrated long-short strategy led by Avery Sheffield. In addition to integrating ESG throughout the investment process, potential long and short ideas are sourced from ESG Improvers and Decliners.
+Our sustainable investing process seeks to deliver on three strategic pillars: 2020 Accomplishments. 
+Research:
+Enhance alpha via ESG-integrated and thematic research. 
+Engagement:
+Create long-term shareholder value and catalyze positive change. 
+Thought Leadership:
+Inform our research and engagement process 1. 2. 3.
+The following pages provide a look into these three pillars and how we are using each to help our clients achieve their sustainable investing objectives. Please do not hesitate to reach out to our Rockefeller Asset Management team if you would like to learn more.
+
+
+8 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Research. 
+Casey C. Clark, CFA© Global Head of ESG Investments and Portfolio Manager. 
+ESG Improvers: An Alpha Enhancing Factor. 
+At Rockefeller Asset Management, we specialize in thematic and ESG integrated strategies seeking to generate excess returns while catalyzing positive change. In the years ahead, we believe that investors will increasingly differentiate between ESG Improvers and ESG Leaders, and that the former offers greater potential for generating uncorrelated alpha over the long run. Our economic and market rationale for ESG Improvers is as follows: — The market overemphasizes ESG Leaders while undervaluing Improvers or those companies showing improvement in their ESG footprint.
+— Improving ESG practices have the potential to increase brand value, enhance customer and employee loyalty, reduce costs, and create longterm competitive advantages.
+— Improvers provide another lens into management quality, a key attribute of future business success.
+— Active engagement accelerates ESG improvement.
+ESG Improvers Process Enhances Traditional Styles of Investing. 
+ESG integration is fast becoming mainstream, with some of the world’s largest institutional investors allocating capital to dedicated ESG strategies in search of alpha. Growing data availability allows investors to quantify the risk and return ramifications unlike any other time in history. While there remains skepticism about performance implications, recent studies and our analysis indicate that ESG information may be used as an alpha-enhancing signal.
+Over the last 18 months, we collaborated with thought leaders and academics to create the Rockefeller ESG Improvers Score™ (REIS).
+We believe REIS has wide-reaching applications across (1) long-only fundamental, (2) long-short fundamental, and (3) quantitative styles of investing.
+ESG Integration Research: Seeks to generate alpha. 
+Rockefeller’s Proprietary Materiality Map identifies ESG issues that are material to the risk and return profile of companies across 77 Sustainable Industry Classification System (SICS®) industries. It serves as the foundation for our investment research and engagement process. In the years ahead, we believe that investors will increasingly differentiate between ESG Improvers and ESG Leaders, and that the former may offer greater potential for generating alpha over the long run.
+
+
+9 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report 1. At Rockefeller Asset Management, we have long-used materiality and ESG Improvers concepts alongside our fundamental, long-only actively managed research process. The REIS has the potential to supplement our bottom-up process and contribute to idea generation by sourcing investment candidates from top quintile improvers.
+2. In addition to supporting the overall fundamental research process and contributing to idea generation for long-only investors, we are particularly excited about the opportunity to source potential short ideas from bottom quintile “decliners” for ESG integrated long-short strategies.
+3. We are exploring a suite of systematic strategies that blend the REIS with traditional investment factors such as value, quality, size, momentum, and low volatility. We believe that this research could have extensive implications for factor-based investment strategies.
+Looking forward, we intend to extend our analysis to developed market equities outside of the US and examine the implications of integrating the REIS into sector-specific strategies.
+We hope that by publishing our research results, we can help advance the understanding and benefits of ESG integrated research.
+At Rockefeller Asset Management, we have long believed that rigorous, ESG-integrated analysis, coupled with deep shareholder engagement, can deliver strong long-term results for our clients. To us, understanding secular environmental and social trends is tantamount to good investing. We think that the intellectual capital built throughout our 30-year ESG track record, our proprietary ESG Improvers methodology and award-winning research will continue to set us apart.
+ESG Improvers are Tomorrow's Leaders. 
+Source: Rockefeller Asset Management; Serafeim, G. 2018, ‘Public Sentiment and the Price of Corporate Sustainability’, Financial Analysts Journal, 76 (2): 26-46.
+ESG IMPROVERS NOT ESG COMPLIANT ESG LEADERS. 
+Undue Risk. 
+Value. 
+Valuation Premium Undervalued. 
+Active Engagement. 
+ESG Performance
+
+
+10 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Climate Change: Impact and Investment Opportunities. 
+Climate change is one of the defining investment issues of our time. We spoke to Casey Clark, CFA, and Rolando Morillo, co-portfolio managers of the Rockefeller Climate Solutions Strategy, about climate change, how it impacts the investing landscape, and where they are finding opportunities.
+Rolando F. Morillo Portfolio Manager. 
+Casey C. Clark, CFA© Global Head of ESG Investments and Portfolio Manager. 
+The Rockefeller Climate Solutions Strategy is a global equity, high conviction portfolio with a ~9 year track record investing in firms’ offering climate mitigation or adaption solutions across eight environmental themes, including renewables and alternative energy, energy efficiency, water infrastructure & technologies, pollution control, waste management & technologies, climate support systems, food & agriculture, and health mitigation. The strategy typically invests in “pure play” companies with at least 50% of revenues dedicated to a climate mitigation or adaption solution or a minimum of 20% revenue exposure if the portfolio managers believe that percentage will increase over time.
+The team leverages scientific research collaborators to help bridge the gap between science and investing. For example, our decade-long collaboration with The Ocean Foundation (TOF) has been an important component of the investment process. Led by Mark J. Spalding, TOF brings its deep climate and ocean expertise to provide scientific and policy validation and supports our idea generation, research, and engagement process all to help bridge the gap between science and investing.
+How does climate change impact economies and markets?
+Clark: We call it the climate flow effect. Greenhouse gas emissions from five sources are causing the planet to warm at an unstable rate: — 31% Making things (cement, steel plastic) — 27% Plugging in (electricity) — 19% Growing things (plants, animals) — 16% Getting around (planes, trucks, cargo ships) — 7% Keeping warm and cool (heating, cooling, refrigeration)1. 
+The result is increasing seasonal temperatures and weather events, causing sea levels to rise and permanently changing ecosystems which in turn damages infrastructure, increases air pollution, threatens human health, disrupts power supplies, destabilizes food supplies, threatens water quality, and forces human migration. In response, global policy, 1 This breakdown is from How to Avoid a Climate Disaster by Bill Gates.
+consumer buying preferences, and technologies are transforming, creating new opportunities in environmental markets such as renewables, water, waste, energy efficiency, food and agriculture, and healthcare mitigation.
+How are policymakers responding across the globe?
+Clark: The European Union is the undisputed global leader with binding policies and frameworks to achieve a 55% greenhouse gas emission reduction by 2030 and carbon neutrality by 2050. In December 2020, EU leaders agreed that 30% of the total expenditure from the EU's budget for 2021-2027 and Next Generation EU would target climate-related projects. In China, President Xi Jinping pledged carbon neutrality before 2060. While this could have an enormous impact, given that China represents almost 30% of global GHG emissions, the lack of details cause some to question the viability of reaching the target. Meanwhile, the 10 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report
+
+
+11 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+US is laying the foundation for noticeable progress in the years ahead. The Admistration’s commitment to climate and enviromental policy will cut across much of the federal government, with National Climate Advisor Gina McCarthy ensuring coordination over interagency processes. She is the domestic counterpart to John Kerry, who was sworn in as the Special Presidential Envoy for Climate to manage the U.S.’s role in global cliamte action. This is the first time in history that the National Security Council will have a function dedicated entirely to climate change. Other foundational staff additions include: — Brian Deese, formerly the Global Head of Sustainable Investing at BlackRock, became the Director of National Economic Council, which coordinates domestic and international policies, advises the President, and montiors implementation.
+— The Securities Exchange Comission (SEC) named Satyam Khanna the Senior Policy Advisor for Climate and ESG. He will advise the agency on environmental, social, and governance matters and advance related initiatives across its offices and divisions. The SEC also announced the creation of a Climate and ESG Task Force led by Kelly L. Gibson.
+— Cecilia Rouse became the chair of Biden's Council of Economic Advisers, often referred to as the White House's chief economist. She is the dean at Princeton’s School of Public and International Affairs, was a member of the council under President Barack Obama and worked as an economic adviser to Bill Clinton. Much of her research has focused on closing racial gaps in income, wealth and education which should help lay the groundwork for a just transition.
+Examples of potential forthcoming policies may include restoring and extending tax credits for solar and wind production and electric vehicle adoption; reinstating methane emission rules; toughening fuel economy standards; extending of carbon capture, utilization, and sequestration (CCUS) credits; developing electric vehicle infrastructure; and increasing the “social cost of carbon”, which allows agencies to incorporate the benefits of reducing emissions in decision making.
+What are the investment opportunies resulting from shifting economic and public policies?
+Morillo: We believe that advances in global policy, consumer awareness, and technologies will create long-term opportunities in environmental markets. Think of companies manufacturing wind blades, producing smart meters, enabling the energy transition, disaster planning, detecting climate change, building infrastructure to make cities more resilient, reengineering the power grid, deploying technologies to use water more efficiently, or offering testing, inspection, and certifications for buildings, soil, water, air, and food. Our objective is to identify companies operating in these growth areas across our eight environmental themes with distinct competitive moats, strong management teams, resilient business models and viable products or services offered at attractive prices relative to our growth expectations.
+With clean energy stocks advancing noticeably in 2020, where do you see opportunities today?
+Morillo: While valuations for some renewable and clean-tech companies have become stretched, opportunities remain given the secular growth drivers and transformation needed to achieve net zero commitments by countries and companies. Here are some areas we have been focused on recently: companies that manufacture composite structures for wind blades and electric buses, increase grid efficiency via solar tracker systems and smart meters, offer engineering and consulting services to help cities become more resilient, detect climate change and disaster planning, build the infrastructure to develop and transmit energy, and develop clean energy (reference Europe’s “Green Energy Majors”). When thinking of climate “solutions”, many people think only of energy. However, 19% of carbon emissions are from “growing things (plants and animals),” according to Bill Gates. The future of food will change noticeably with the advent of plant-based and alternative protein sources, cultured meats, and other sustainable food sources. We are exploring this potential area of growth as an increasing number of sustainable food firms contemplate going public in the years ahead.
+How have Rockefeller’s networks and scientific partner networks helped to support the investment process?
+Clark: Our primary scientific partner and advisor, The Ocean Foundation (TOF), has been instrumental in bridging the gap between science and investing and supporting our research and engagement process. Over the years, they have provided insights or connected
+
+
+12 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report us with experts to understand the public-policy environment for offshore wind, the future of sustainable aquaculture, regulation of ballast water systems and emissions scrubbers, the impacts of hydroelectric power in certain regions and green hydrogen, to name a few. Mark J. Spalding, the President of TOF, has also joined shareholder engagement calls for companies across our thematic equity offerings, helping to inform our approach and offering suggestions for improvement.
+Given the success of our longstanding collaboration with TOF, we established a partnership with the World Resources Institute (WRI), a global research organization that spans over 60 countries with offices in the United States, China, India, Brazil, Indonesia and more. WRI has over 1,000 experts and staff who work closely with leaders to turn ideas into action to sustain our natural resources. Their work focuses on seven critical areas, including climate, energy, food, forests, water, cities, and the ocean. We recently spoke with WRI’s US Director who oversees the U.S. climate team about the opportunities and challenges of green hydrogen.
+Lastly, we seek to leverage our networks where no formal partnerships exist. For example, we recently exchanged notes with the Rockefeller Foundation about aquaculture, FAIRR (a network of investors focusing on the global food sector) about sustainable and alternative proteins, and an NYU Professor of Chemical and Biomolecular Engineering about green hydrogen.
+The Ocean Foundation (TOF), Rockefeller Asset Management’s primary scientific partner and advisor, is an international community foundation based in Washington D.C., established in 2003. As the only community foundation for the ocean, its mission is to support, strengthen, and promote organizations dedicated to reversing the trend of destruction of ocean environments around the world. This model enables the foundation to serve donors (expert management of a portfolio of grants and grantmaking), generate new ideas (develop and share content on emerging threats, potential solutions, or better strategies for implementation), and nurture implementors (help them be as effective as they can be). The Ocean Foundation and its current staff have been working on ocean and climate change issues since 1990; on ocean acidification since 2003; and on related "blue carbon" issues since 2007. For more information visit oceanfdn.org.
+12 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report
+
+
+13 Rockefeller Asset Management. 
+ESG Fixed Income Update. 
+For our fixed income strategies, proprietary frameworks are used to assess potential ESG risks to the credit worthiness of issuers as well as positive ESG impacts that could be realized through the use of bond proceeds. Additionally, both taxable and tax-exempt strategies are measured against a proprietary framework to quantify impact in alignment with the UN Sustainable Development Goals. During the year, our ESG Fixed Income strategies financed: — Improvements made to water infrastructure that enhance efficiency, drinking-water access and quality, and access to wastewater and sanitation facilities.
+— Upgrades and renovations to make buildings more resource efficient; improve transportation systems, and promote access to internet and mobile network systems.
+— Access to safe and affordable housing for lowincome populations, upgrades and renovations to make community infrastructure more resilient to the impacts of climate change.
+— Improvements to educational and research institutions that enhance the productivity, quality, and access to education and research; programs for emerging technical fields such as STEM and training/re-training for jobs.
+— Projects that support the development of renewable energy production and/or access to clean energy.
+— Upgrades that seek to reduce greenhouse gas emissions; improve energy efficiency and building resiliency and investments that seek to improve the monitoring of climate change and its impacts.
+2020 brought sustainability and social bond issuance that was more pronounced than in years past. We anticipate these issues will represent a greater percentage of our overall allocation in years to come, offering clients new opportunities for income while contributing to positive outcomes.
+Andrew M. Kello Head of Fixed Income and Portfolio Manager. 
+Intermediate Tax Exempt Fixed Income Strategy SDG Mapping (As of 12/31/20)
+Clean Water and Sanitation 39% 20%
+Sustainable Cities & Communities 13%
+Industry, Innovation & Infrastructure 7%
+Quality Education. 
+Climate Action 5% 3%
+Life On Land 10%
+Affordable & Clean Energy 3%
+No Poverty. 
+Portfolio characteristics for a particular strategy may vary from time to time from the portfolio construction shown above
+
+
+14 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Engagement. 
+Mía Overall Director of Shareholder Engagement. 
+Rockefeller Asset Management has been interacting and engaging with companies to create value and catalyze positive change for 40 years. We believe that rigorous, ESG-integrated analysis, coupled with deep shareholder engagement to improve ESG performance, will yield stronger financial performance over time.
+For us, shareholder engagement includes thoughtful proxy voting, co-filing shareholder proposals, direct dialogue with company management, and interacting with policymakers. We generally speak with companies before purchasing a stock and have ongoing discussions throughout the holding period of the security. Over the past year, our direct dialogue with companies has increased in depth and ambition. While we continue to speak with all the portfolio companies in our Global ESG Strategy, we have become more proactive about encouraging changes in business practices that we believe will benefit company performance and create positive social and environmental impacts. Achieving ESG leadership requires continuous improvement over the long term, and we work with companies to help accelerate this journey.
+A distinct feature of our work is that we differentiate between ESG leaders, improvers, and solutions. The majority of our engagement efforts are directed toward companies that we characterize as “ESG Improvers.” These are companies that are not yet leaders, but that we see improving. Our goal is to accelerate their trajectory toward ESG leadership. We recognize societal dependencies on certain industries, such as cement and plastic, and engage heavily with companies in those sectors. We take a constructive approach rather than an activist approach, and the majority of our engagements take the form of constructive dialogue.
+We are proud of what our ESG Engagement team accomplished in 2020. Highlights include our first large scale campaign, “Engaging for a more diverse and equitable world,” through which we engaged 100% of our Global ESG Strategy portfolio companies on diversity, equity, and inclusion. We launched the Ocean Engagement strategy, our first impact strategy. We are engaging with companies we classify as “Ocean Improvers” to improve their impacts on ocean health. Finally, we’ve had positive engagement with a number of portfolio companies. On the following pages we illustrate our engagement activity on topics that affect long-term value and risk. We look forward to expanding the impact of our work as we strive to enhance returns and catalyze positive change.
+Creates shareholder value and catalyzes positive change. 
+For certain strategies, shareholder engagement is a core part of our investment process before purchasing a stock and throughout the holding period. Our engagement approach strengthens our investment process by identifying material ESG issues and constructively engaging with companies to create long-term shareholder value and catalyze positive ESG improvement. Our shareholder engagement “escalation process” helps increase the probability of an outcome. The escalation process follows four stages: (1) Constructive dialogue, (2) Official letters, (3) Collaborative action, and (4) Shareholder resolutions.
+
+
+15 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Summary of Rockefeller Asset Management Engagements:
+Geography of 2020 Company Engagements 196 1
+88 338. 
+North. 
+America Engaged with 93 companies. 
+Total engagements. 
+Engaged with 165 total companies. 
+Latin. 
+America Engaged with 1 company. 
+Europe. 
+Engaged with 48 companies 25 28. 
+Asia (Ex-Japan) Engaged with 13 companies. 
+Japan. 
+Engaged with 10 companies 100% 2416 23% 99% 24% 100% of Global ESG Strategy portfolio companies engaged. 
+Proxy Proposals voted according to our voting policy, which is aligned with ESG objectives1 of companies engaged included dialogue with a member of the C-suite of proxy votes across all Rockefeller Asset Management accounts were voted in alignment with our ESG Proxy Voting Policy of companies engaged were contacted 3 or more times of Global ESG Strategy portfolio companies engaged on Diversity, Equity, and Inclusion 1 Source: ISS
+
+
+16 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Thematic Focus of. 
+Engagement. 
+Nature of. 
+Engagement Target. 
+Sector of Companies. 
+Engaged. 
+Environment Energy Financials. 
+Cons. Disc. Utilities. 
+Disclosure. 
+Social Materials Inf. Tech.
+Cons. Staples Real Estate. 
+Business action - risk mitigation. 
+Governance Industrials Com. Svs.
+Health Care. 
+Business action - opportunity Strategy, Disclosure or Risk Management. 
+Engagement Alignment with Sustainable Development Goals 16: Peace, Justice and Strong Institutions 1% 7: Affordable and Clean Energy 2% 14: Life. 
+Under Water 9% 8: Decent Work and. 
+Economic Growth 9% 3: Good Health & Wellbeing 7% 5: Gender Equality 21% 6: Clean Water & Sanitation 1% 12: Responsible Consumption &
+Production 6% 11: Sustainable Cities & Communities 2% 9: Industry, Innovation & Infrastructure 3% 10: Reduced Inequality 20% 56% 7% 11% 26% 43% 43% 23% 13: Climate Action 18% 4% 5% 2% 7% 7% 16% 16% 12% 12% 10% 8%
+
+
+17 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Engaging companies to achieve changes in business processes, governance structures, and disclosure takes time. In 2020 we increased our focus on engaging to achieve ESG outcomes and began formally tracking progress made. Driving change at companies can be a multi-year process, so as our tracking continues, we look forward to seeing even greater impact over time.
+Milestone. 
+Engagement Begins. 
+Milestone. 
+Milestone. 
+Milestone. 
+Companies to which engagement target was communicated. 
+Companies contacted and dialogue under way. 
+Companies that have acknowledged issue. 
+Companies that are addressing the issue. 
+Companies that achieved engagement target. 
+Progress Being Made with Companies 100% 90% 73% 54% 26%
+Rockefeller Asset Management | 2020 Sustainable Investing Annual Report 17. 
+Global ESG Strategy Holdings 2020 Engagement Progress 1
+2 3
+4 1
+2 3
+4. 
+Engagement Begins
+
+
+18 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Proxy Voting: A Longstanding Commitment to Thoughtful Voting. 
+Part of our role as active managers is to use the power of our voice through proxy voting to generate positive change at companies. We see this as an important aspect of our fiduciary duty and meaningful lever for change. Our custom voting policy is aligned with our ESG objectives, and we apply it uniformly across all strategies. We review each proposal and vote with conviction. As of January 2021, our full voting policy and voting records are available online.
+In 2020, we voted on 2,416 proposals at 188 meetings1.
+1 Source: ISS. 
+Governance Issues. 
+Environmental Issues. 
+Social Issues. 
+Support for shareholder resolutions relating to:
+Votes against or withheld from directors 415 100% 100% 100% 100% 89%
+Human Rights. 
+Board Diversity. 
+Climate Action. 
+Political Contributions and Lobbying Disclosure. 
+Executive Compensation
+
+
+19 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Key Engagement Themes for 2020. 
+Enhancing Worker Safety During COVID. 
+Engagement Focus: The global pandemic took companies by surprise requiring them to quickly adapt to unprecedented circumstances. Many did not react quickly enough to sufficiently protect workers. Protocols for sanitation, distancing, mask wearing, or staying at home were not clear, and some workers faced pressure to come to work even while symptomatic.
+Engagement Activity: We engaged many companies on steps taken to enhance worker protection. This included conversations about the transition to working remotely, protective protocols in place for in-person work, leave policies, furloughs and layoffs.
+Outcomes to Date: Many of the companies we spoke with quickly put in place significant measures to protect workers. These included alternating work schedules, changes in job responsibilities to keep people employed while working from home, and strict protocols with regard to mask wearing. At our request, one company sent us pictures of notices to workers articulating worker protection guidelines. Following a discussion with the company about worker confusion about their paid time off policy for employees who had contracted COVID-19, the company clearly posted the policy on their website. Subsequently, they announced a significant investment in personal protection equipment (PPE) for workers. This has helped them keep workers healthy and retain employees.
+1. 2.
+Accelerating Company Action on Climate Change. 
+Engagement Focus: We see climate action as the defining ESG issue of our time, and companies have a tremendous role to play in decarbonizing their operations. While many are beginning to set carbon reduction targets in line with the Paris Agreement, at most companies, additional internal measures would accelerate progress.
+Engagement Activity: We discussed efforts to reduce emissions with the majority of companies in our Global ESG Strategy. This was of particular focus with those with a heavy GHG emissions footprint, such as materials and logistics companies and those that will be most affected by emissions regulation. We encouraged companies to set more ambitious targets, set additional interim targets, increase the capital expenditure for new energy efficient equipment, increase R&D for low carbon products, and adopt a higher internal carbon price.
+Outcomes to Date: Many of our portfolio companies have set more ambitious targets, increased capital expenditures for energy reduction, and accelerated innovation. We were particularly pleased to see one company that we had encouraged to consider a higher internal price of carbon shift to a dynamic pricing scheme that started at a significantly higher price and will increase to €150/metric ton by 2050. Another company, which we had asked to set science based GHG reduction targets, subsequently announced a science-based target and a major investment in carbon neutral logistics.
+
+
+20 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Key Engagement Themes for 2020. 
+Addressing Climate Physical Risk in Supply Chains. 
+Engagement Focus: Climate risk is investment risk. Nowhere is this more apparent than when increased weather variability from storms, droughts, and fires destroys assets in the supply chain, which can lead to supply interruptions, added costs, and reduced sales.
+Engagement Activity: We have increasingly discussed climate related supply-chain risks with companies across sectors, ranging from apparel to pharmaceuticals. We have asked more companies for reporting aligned with the Task Force for Financial Related Climate Disclosures (TCFD) and closely scrutinized climate scenarios presented. We have also increased conversations in which we sought to better understand potential supply- chain vulnerabilities.
+Outcomes to Date: We have seen a meaningful uptick in companies that have published climate reports, TCFD reports, and that are prepared to speak about physical risks in the supply chain. In some cases, this is as a result of companies having been affected by weather-induced disruptions. One portfolio company was impacted when a hurricane damaged one of the manufacturing facilities in its supply chain. Our discussions with this company addressed diversifying its supplier base and monitoring supply- chain physical risks more closely. We encouraged them to develop a plan to more closely monitor supply- chain physical risks and to publish a TCFD report.
+In 2020, they published their first Climate Change Management Report, which is TCFD aligned. They also announced Science Based Targets aligned with a 1.5 degree climate warming scenario. The targets are to reduce Scope 1 and 2 GHG emissions by 46% compared to a 2019 baseline and become carbon neutral across their operations by 2040.
+3. 4.
+Encouraging Progress on Diversity, Equity, and Inclusion. 
+Engagement Focus: Diversity, equity, and inclusion (DEI) are incredibly important social issues. We believe they are material ESG issues for all of our portfolio companies and that improved performance on DEI has the potential for greater returns over the long-term.
+Engagement Activity: We launched a campaign titled “Engaging for a More Diverse and Equitable World” and sent a letter to every company in our Global ESG Strategy. We asked them to review practices and policies across four key areas: 1) Recruitment and Advancement 2) Products and Services 3) Community Impact, and 4) Measuring Progress. In addition, we asked them to discuss these practices and policies at an upcoming board or executive management meeting, and to respond to us with specific additional actions being taken.
+Outcomes to Date: We received written responses from over half of the companies in the portfolio and discussed the issue with many of the rest, including companies domiciled in the US, Europe, and Asia. Companies’ responses revealed a greater depth of commitment to DEI efforts than seen in the past. While DEI has many dimensions, our outreach revealed a significant increase in initiatives designed to foster additional dialogue related to race and inequality, diversify recruitment, invest in skill-building initiatives targeting diverse communities, promote access among diverse client groups, and increase transparency in progress reporting.
+
+
+21 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Case studies. 
+This year we launched a series of case studies highlighting many of our engagements around the world. To date, we have published case studies on our engagement efforts with Amazon, Shenzhou International Group, Kohl’s, DPDHL, and Heidelberg Cement and our. 
+Diversity, Equity, and Inclusion campaign.
+21 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report
+
+
+22 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Looking Forward: Our 2021 Engagement Priorities. 
+Rockefeller Asset Management 2021 Engagement Priorities. 
+As we think about long term drivers of value among the companies across our strategies, the topics below emerge as paramount. While our engagements with each company are tailored to their unique business models, this year we intend to apply a particular focus on these five areas, which we believe will maximize our impact over the course of the year.
+Environment. 
+Social. 
+Governance 1. Climate Action: Climate change is seen by many as the defining issue of our time. As temperatures rise, climate variability increases, and regulation drives us toward a low carbon economy, climate risk is increasingly recognized as investment risk. We support the Paris Agreement on Climate Change and know that companies’ ability to adapt their business models will impact their performance. Our engagement will focus on both GHG emission reduction (mitigation) and climate physical risk and transition risk (adaptation), including TCFD reporting.
+2. Ocean Health: The blue economy is worth $2.5 trillion and is expected to grow at twice the rate of the mainstream economy.2 Besides that, the ocean is one of our greatest carbon sinks, not to mention a source of joy. With the launch of the thematic Ocean Engagement Fund, we will work with mainstream companies to prevent pollution and increase ocean conservation while improving their competitive positioning.
+3. Data Privacy and Security: Personal data has become a significant driver of financial value. Yet as companies collect more personal data and move more information to the cloud, they face greater scrutiny from consumers and regulatory agencies. Data breaches can erode corporate value with astonishing speed and be extremely costly to mitigate. We will engage companies on data breach prevention.
+4. Labor Management: COVID-19 has certainly shone a spotlight on how heavily companies rely on human capital in their own operations and in supply chains. Strong labor policies are essential to operating responsibly and maintaining overall competitiveness. Our dialogue with companies will address health, safety, and human rights in supply chains and encourage advances in diversity, equity, and inclusion.
+5. Integrating ESG into Business Strategy: Good performance on ESG can be a powerful driver of growth and innovation. Integrating ESG into business strategy can help companies attract top talent, transition to a low carbon economy, improve their competitive differentiation, and stay ahead of regulation. We will also work with companies to ensure they have sufficient oversight at board level and incentives aligned with performance.
+Please click here to learn more about our 2021 Engagement Priorities.
+2 Responsible Investor Research, and Credit Suisse. 2020, Investors and the Blue Economy, www.esg-data.com/blue-economy.
+
+
+23 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Thought Leadership. 
+Collaborating with Academics: NYU Stern Center for Sustainable Business Rockefeller Asset Management and NYU Stern Center for Sustainable Business published a joint research paper, “ESG & Financial Performance: Uncovering the Relationship by Aggregating Evidence from 1,000 Plus Studies Published between 2015 - 2020”. The paper discusses findings from a meta-study examining the relationship between ESG activities and financial performance in more than 1,000 research papers published over the last five years. The authors, Tensie Whalen, Ulrich Atz, Tracy Van Horn and our Global Head of ESG Investments, Casey Clark, outlined six key takeaways from a nearly 12-month research project: — Improved financial performance due to ESG becomes more noticeable over longer time horizons.
+— ESG integration as an investment strategy performs better than negative screening approaches. To this point, Rockefeller Asset Management often demarcates ESG integration between “leaders” and “improvers” with the latter showing uncorrelated alpha potential.
+— ESG investing provides downside protection, especially during a social or economic crisis.
+— Sustainability initiatives at corporations appear to drive better financial performance due to mediating factors such as improved risk management and more innovation.
+— Managing for a low-carbon future improves financial performance.
+— ESG disclosure without an accompanying strategy does not drive financial performance.
+Thought Leadership: Informs our research and engagement process. 
+We embark on thought leadership initiatives with (1) academics, (2) industry experts, and (3) scientific collaborators to inform our research and engagement process. We believe that our networks and partnerships help generate investment insights and engagement outcomes not commonly found in the investment community.
+1.
+
+
+24 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Working with Industry Experts and Networks Below are highlights from a few of our papers published in 2020: — Partnered with KKS Advisors, a firm led by Sakis Kotsantonis and cofounded by George Serafeim of Harvard Business School, to quantify a firm's ESG trajectory based on the methodology utilized in George’s seminal research. The resulting work led to the creation of the Rockefeller ESG Improvers Score™, which ranks a company's improvement in performance on material ESG issues.
+— Collaborated with Credit Suisse and Mark J. Spalding at The Ocean Foundation on Engaging for Blue Economy, which highlights approaches to constructively engage with companies in pursuit of alpha and positive ocean health outcomes.
+— Co-authored Emission Omission: A Shareholder Engagement Guide to Uncovering Climate Risks from Non-Operated Assets in the Oil and Gas Industry with the Environmental Defense Fund (EDF).
+Other industry research or engagement collaborations include: — Greg Fleming, Rockefeller Capital Management’s CEO, signed on as one of the initial supporters of His Royal Highness (HRH) The Prince of Wales Sustainable Market Initiative’s Terra Carta. The Terra Carta outlines 10 areas for action and nearly 100 potential steps for businesses that put Nature, People and Planet at the heart of global value creation. Through this initiative, Rockefeller Asset Management is participating in the Stewardship and Engagement Workstream, which seeks to collaborate with companies on TCFD reporting and articulating transition plans to net zero by 2050.
+— Rockefeller Capital Management became Advisory Network members on the High Level Panel for a Sustainable Ocean Economy. The Panel includes 14 world leaders who are building momentum for a sustainable ocean economy.
+— We are ongoing participants in the PRI Plastics Investor Working Group where we collaboratively engage with plastic packaging companies with the goal of accelerating progress to reduce plastic waste, increase recyclability of packaging, and increase recycled content used in new plastic products.
+— We joined FAIRR, an investor network focused on ESG risks and opportunities in the global food sector, and are participating in a collaborative engagement for aquaculture companies called Managing Biodiversity & Climate Risk in Feed Supply Chains.
+2.
+
+
+25 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Leveraging Scientific Experts At times, we leverage scientific advisors to help bridge the gap between science and investing. For example, our decade-long work with The Ocean Foundation (TOF) has been an invaluable component of the investment process for our thematic equity strategies, Climate Solutions and Ocean Engagement. Led by Mark J. Spalding, TOF brings its deep climate and ocean expertise to provide scientific and policy validation and supports our idea generation, research, and engagement process.
+TOF is an international community foundation based in Washington D.C., established in 2003. As the only community foundation for the ocean, its mission is to support, strengthen, and promote organizations dedicated to reversing the trend of destruction of ocean environments around the world. TOF has launched various successful initiatives aiming to tackle specific risks that the ocean faces such as initiatives on Blue Resilience, Ocean Acidification, and Redesigning Plastics. For example, the Ocean Acidification Initiative has trained more than 200 scientists, policymakers, seafood sector workers, and community members to monitor, understand, and respond to ocean acidification in Africa, the Pacific Islands, Latin America, and the Caribbean.
+TOF hosts more than 50 projects and has grantees in over 40 countries on six continents, focusing on building capacity, promoting equity, conserving habitats, ocean literacy, and protecting species. TOF’s staff and board are comprised of individuals with significant experience in marine conservation science and policy, non-profit governance, and philanthropy. TOF also has a growing international advisory board of scientists, policy-makers, educational specialists, and other top experts. We believe TOF is the leading non-profit concerning ocean threats and health, and that Rockefeller Asset Management is the only asset manager globally currently affiliated with TOF.
+Given the success of our longstanding collaboration with TOF, we recently established a partnership with the World Resources Institute (WRI), a global research organization that spans over 60 countries with offices in the United States, China, India, Brazil, Indonesia and more. WRI has over 1,000 experts and staff who work closely with leaders to turn ideas into action to sustain our natural resources. Their work focuses on seven critical issues at the intersection of environment and development: climate, energy, food, forests, water, cities, and the ocean.
+3.
+
+
+26 Rockefeller Asset Management | 2020 Sustainable Investing Annual Report. 
+Internal Initiatives. 
+At Rockefeller Capital Management, “Dimensionality” is our approach to diversity, equity, and inclusion. It is the appreciation of the multidimensionality of our individual employees, the recognition of diversity across all dimensions, and the extension of our approach to diversity, equity, and inclusion to our clients and communities.
+Our Dimensionality Strategy. 
+Rockefeller Capital Management has a strategy of Dimensionality for our people, clients, and communities that is led by senior management, that we are passionate about continuously improving, and for which we measure and share broad outcomes. Through this strategy we are committed to: — Our people: Cultivating and sustaining a business model and corresponding culture that values the perspectives, ideas, and contributions of employees of all backgrounds, in all dimensions of race, gender, ethnicity, cultural and socioeconomic background, religion, sexual orientation, gender identity, military status, physical ability, generation, and cognitive diversity.
+— Our clients: Listening to and serving the differentiated objectives and values of our multidimensional current and future clients.
+— Our communities: Embracing and engaging with the dimensionality of the communities where we live and serve.
+Why We Prioritize Dimensionality — Recruiting: We believe that firms that prioritize diversity, equity, and inclusion field strong teams and sustain a competitive advantage.
+— Generating value for clients: We fundamentally believe that teams with diverse life experiences and perspectives outperform less diverse teams. We strive for a culture of innovation in which the most compelling ideas win regardless of where they originated.
+— Creating a sense of belonging: We recognize and respect the multiple dimensions employees bring to our team, creating a sense of belonging that drives discretionary effort toward achieving our mission.
+— Being part of the societal solution to systemic inequities with a focus on financial inclusion: We aspire to contribute through our philanthropic work to serve our communities with a focus on private and public partnerships that catalyze change.
+Actions We are Taking — Generating more diverse slates of candidates: We are focused on building out the tools and investing in the resources that allow us to generate highquality, diverse candidate slates for opportunities across the organization.
+— Forming partnerships: We are partnering with organizations and academic institutions like Seizing Every Opportunity (SEO) and Spelman College to create opportunities.
+— Creating an internal inclusion coalition: We have launched an internal inclusion coalition with the goal of fostering a sense of community and belonging across our locations and coordinating our activities serving local communities as we contribute to the places where we live and work.
+— Assembling diverse teams to support our clients: We serve our clients through a multidisciplinary team approach, because we believe that cognitive diversity and diversity of thought are key differentiators to our approach.
+— Producing monthly trendline data: We are committed to measuring diversity by business, functional areas, and across levels, for both talent acquisition and ongoing employee retention.
+Rockefeller’s Diversity Statistics As of December 31, 2020, 55% of the overall firm and 36% of our senior leaders are represented by women and people of color. Additionally, 67% of Rockefeller Asset Management’s investment team are represented by women and people of color.
+
+
+These materials are provided for informational purposes only and should not be construed as a research report or as a recommendation to buy or sell any securities, to adopt any particular investment strategy, or to constitute accounting, tax, or legal advice. The views expressed are those of Rockefeller Asset Management's investment professionals as of a particular point in time and are subject to change without notice. The views of Rockefeller Asset Management’s investment professionals may differ from or conflict with those of other divisions in Rockefeller Asset Management. The information herein does not constitute an offer to sell or a solicitation of an offer to buy interests in any Rockefeller Capital Management investment vehicle or product or service. Certain examples are intended to demonstrate aspects of Rockefeller Asset Management’s engagement process with companies. Rockefeller Asset Management may take different approaches with other companies and there is no guarantee that any engagement effort will be successful. A complete list of company engagements is available upon request. Strategy characteristics are provided on a representative account basis, as of the date indicated and may not be representative of the strategy's current or future characteristics. The information and opinions presented herein have been obtained from, or are based on, sources believed by Rockefeller Capital Management to be reliable, but Rockefeller Capital Management makes no representation as to their accuracy or completeness. Actual events or results may differ materially from those reflected or contemplated herein. Company references are provided for illustrative purposes only and should not be construed as investment advice or a recommendation to purchase, sell or hold any security. Forward-looking statements, including those presented here, are inherently uncertain, as future events may differ materially from those projected, and past performance is not a guarantee of future performance. No investment strategy can guarantee a profit or avoidance of loss. Although the information provided is carefully reviewed, Rockefeller Asset Management is not responsible for any direct or incidental loss resulting from applying any of the information provided. Logos are the properties of their respective owners. Investing involves risk, including risk of loss. Impact investing and/or Environmental Social Governance (ESG) investing has certain risks based on the fact that ESG criteria excludes securities of certain issuers for nonfinancial reasons and therefore, investors may forgo some market opportunities and the universe of investments available will be smaller. These materials may not be reproduced or distributed without Rockefeller Asset Management’s prior written consent.
+Rockefeller Capital Management is the marketing name for Rockefeller Capital Management L.P. and its affiliates. Investment advisory, asset management and fiduciary activities are performed by the following affiliates of Rockefeller Capital Management: Rockefeller & Co. LLC, Rockefeller Trust Company, N.A. and The Rockefeller Trust Company (Delaware), as the case may be. Rockefeller Asset Management is a division of Rockefeller & Co. LLC. Rockefeller Financial LLC is a broker-dealer and investment adviser dually registered with the U.S. Securities and Exchange Commission (SEC). Member Financial Industry Regulatory Authority (FINRA); Securities Investor Protection Corporation (SIPC).
+Copyright 2021 © Rockefeller Capital Management. All Rights Reserved. Products and services may be provided by various affiliates of Rockefeller Capital Management.
+rockco.com/RAM

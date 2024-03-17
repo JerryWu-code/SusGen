@@ -1,0 +1,1044 @@
+The bank for a changing world. 
+TCFD REPORT 2020 #SUSTAINABLE FINANCE IN A CHANGING WORLD, LET’S ACCELERATE THE ENERGY TRANSITION AND THE INCORPORATION OF CLIMATE RELATED ISSUES
+
+
+P.52 BNP Paribas has established metrics to assess, monitor and oversee climate related issues. 
+P.58 BNP Paribas has set quantitative targets for the purpose of managing climate related risks and opportunities. 
+P.59 Summary of key metrics and targets. 
+P.6 The Board of Directors supervises the management of climate related issues. 
+P.8 Management is responsible for assessing and managing climate related risks and opportunities. 
+P.4 GOVERNANCE OF CLIMATE RELATED ISSUES. 
+P.61 CONCLUSION. 
+P.62 GLOSSARY. 
+P.63 TABLE OF. 
+CONTENTS. 
+P.15 The main climate related risks and opportunities have been identified. 
+P.18 BNP Paribas incorporates these risks and opportunities in its strategy and activities. 
+P.33 Resilience of Group strategy in various climate scenarios. 
+P.50 METRICS AND TARGETS USED TO ASSESS AND MANAGE CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+P.36 Process used to identify and analyse climate related risks. 
+P.47 Climate related risk management process and incorporation in overall risk management. 
+P.34 IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+P.12 INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES. 
+GOVERNANCE METRICS AND TARGET. 
+RISK MANAGEMENT 1 STRATEGY 2 3 4
+
+
+Climate change caused by anthropic GHG emissions represents a considerable challenge for humanity. The Paris Agreement, signed in 2015, set a goal with the potential to significantly reduce the risks and effects of these emissions: holding the increase in the global average temperature to well below 2°C above pre-industrial levels, and pursuing efforts to limit the temperature increase to 1.5°C.
+Fully aware of the importance of climate change and its consequences, in terms of risks and opportunities alike, BNP Paribas has decided to address this issue at all levels of its organisation, from the Board of Directors and its Executive Committee to the operational entities of its various business lines.
+The Group has been strongly involved in the fight against climate change since 2011, with the ambition of aligning its business activities with the goals of the Paris Agreement. In 2021, BNP Paribas reinforced its commitment by joining the Net-Zero Banking Alliance launched by the UN Environment Programme Finance Initiative (UNEP-FI) ahead of COP26. In this framework, BNP Paribas commits to align greenhouse gas emissions arising from its credit and investment for own account activities with the path required to achieve carbon neutrality in 2050.
+This ambition is deployed in all business lines with two key focuses: reducing the Group’s contribution to climate change by reducing its support for activities with the highest GHG emissions and gradually aligning its loan book with the goals of the Paris Agreement; firmly supporting the energy transition of its retail, corporate and investment customers by issuing dedicated loans, adapting its solutions, and conducting training and awareness-raising initiatives.
+BNP Paribas also closely examines climate related risks factors liable to affect its activities, those of its clients and the companies in which the Group invests, in the short, medium and long term, and incorporates them in its general risk management framework.
+Lastly, BNP Paribas has set up and is continuing to develop indicators used to quantify its impacts, risks, contribution to the energy transition and progress towards established targets.
+Supporting the Task force on Climate related Financial Disclosures1 (TCFD) since 2017, BNP Paribas is now publishing its second report on climate related issues, based on its recommendations and its four pillars: Governance, Strategy, Risk Management, Metrics and Targets. This year, we have paid particular attention to describe more granularly how climate related issues are incorporated in risk management processes, at Group level and in each of our business lines.
+BNP Paribas firmly believes that transparency is critical for coordinated action by all companies, government authorities and citizens, which is the only relevant response to the planetary challenge posed by climate change.
+INTRODUCTION 1 | Task force created in 2015 by the G20 Financial Stability Board to improve and increase reporting on climate related financial information
+
+
+4. 
+TCFD REPORT 2020 1. 
+GOVERNANCE. 
+OF CLIMATE RELATED ISSUES
+
+
+In light of their importance, climate related issues are supervised by the highest executive management bodies of BNP Paribas, namely the Board of Directors and the Executive Management of BNP Paribas Group, with the personal involvement of its Director and Chief Executive, Jean-Laurent Bonnafé2. The climate strategy is incorporated in all Group processes and activities, through managerial oversight and the work of the Business Lines and multiple functional divisions such as the Corporate Engagement Division, the Corporate Social Responsibility (CSR) Function and the Risk Function (RISK).
+5 2 | See in particular Inset 1 - Jean-Laurent Bonnafé’s involvement in climate and energy transition initiatives
+
+
+6. 
+TCFD REPORT 2020 1.1. 
+THE BOARD OF DIRECTORS VALIDATES THE GROUP’S STRATEGY, INCLUDING ON ENERGY AND CLIMATE RELATED MATTERS, WITH THE SUPPORT OF TWO SPECIALISED COMMITTEES. 
+In accordance with its Internal Rules, the Board of Directors determines the objectives of BNP Paribas’ business and oversees their implementation by the General Management, taking into consideration the social and environmental stakes and challenges of BNP Paribas’ operations3. To that end, it validates the Bank’s CSR policy, aligned with the 17 Sustainable Development Goals (SGDs) set out by the United Nations, including the 13th dedicated to the action to combat climate change.
+It regularly examines, in line with the strategy defined by the Board itself, opportunities and risks such as financial, legal, operational, social and environmental risks as well as the measures taken as a result.
+THE BOARD OF DIRECTORS SUPERVISES THE MANAGEMENT OF CLIMATE RELATED ISSUES. 
+The Corporate Governance, Ethics, Nominations and CSR Committee (CGEN), is responsible for overseeing issues relating to social and environmental responsibility. To that end, it ensures that the Group contributes to sustainable and responsible economic development, including through ethical financing of the economy, promotion of employee development and engagement, protection of the environment and prevention of climate change4.
+The CGEN also sets targets to achieve in terms of diversity of professional qualifications and experience for the members of the Management body, with the aim of ensuring that they hold the necessary expertise at all times to understand the risks and challenges, including social and environmental challenges, and potential developments of the Company5.
+The Internal Control, Risk Management and Compliance Committee (CCIRC) advises the Board of Directors on the suitability of BNP Paribas’ overall strategy and tolerance for risks, including climate related risks, both current and future. It assists the Board when it verifies the implementation of this strategy by the executive corporate officers and by the Head of the Risk Function. In that role, it examines the primary objectives of the Group’s risk policy, including those of a social and environmental nature, relying on the transaction risk and profitability measurements reported to the Committee in accordance with regulatory requirements, and any specific matters associated with these topics and methods.
+The CCIRC reviews the Risk Appetite Statement (RAS), which contains indicators measuring the Group’s risk profile for its various types of risk exposures. Thresholds are assigned to each indicator, reflecting the various levels of risk. Once these thresholds are reached, a pre-established process is triggered in which General Management and the Board of Directors are notified and action plans implemented, where applicable. These indicators are tracked in the risk dashboard presented to the CCIRC; one indicator is directly associated with climate related risks: the primary and secondary energy mix financed by BNP Paribas.
+Of the four specialised committees responsible for assisting the Board of Directors, two are more specifically focused on supervising the risks and opportunities associated with CSR and the climate: 3| Internal Rules of the Board of Directors, Article 1.1 4| Internal Rules of the Board of Directors, Article 9.1 5| Policy governing the expertise of members of the management body and key position holders, Chapter VI.
+The distribution of roles and responsibilities on the Board of Directors and its Committees with respect to supervision of climate related issues is illustrated in the diagram in Figure 1.
+Figure 1 | Roles and responsibilities of the Board of Directors and its Committees regarding climate related issues * CSR Expertise ** CSR and Climate Expertise RSE. 
+The Board of Directors of BNP Paribas Group is involved in multiple ways in climate and energy-related issues: • The Board of Directors validates the Group’s strategy, including on energy and climate related matters, with the support of two specialised committees; • Four members of the Board of Directors have expertise in CSR, two of them specifically on climate related issues; • The Board of Directors validates the variable compensation granted to executive corporate officers, based in part on the Group’s CSR performance (including climate); • The Board of Directors validates the climate related metrics, policies and undertakings presented in the Universal Registration Document (URD).
+
+
+7. 
+Through his positions, Jean-Laurent Bonnafé, Director and Chief Executive of BNP Paribas, has fully engaged the Group in the financing of the energy transition and the fight against climate change. His earnest belief in the importance of climate related issues can be seen in a variety of press articles and his own LinkedIn posts.
+For instance, he was quoted in a La Tribune article published on 11 December 2020 as saying: “The future for BNP Paribas is necessarily viewed in terms of the post-energy transition. Companies that have failed to grasp the need for change no longer have a future and we see no interest in maintaining our relations with them.“
+In 2019, he was also appointed as Chairman of the think tank Entreprises pour l’environnement (EpE), which works to incorporate environmental concerns in the strategies of the 50 or so corporations in its ranks. As Chairman of EpE, Jean-Laurent Bonnafé started an editorial, signed by more than 90 CEOs and published in Le Monde on 5 May 2020, calling for the environment to “take centre stage in the economic recovery” following the Covid-19 health crisis, primarily by striving to “make our industrial facilities more resilient, decarbonising them and reducing our carbon footprint”.
+Climate related issues were specifically addressed ten times at Board and Board Committee meetings in 2020: • At two of the six CGEN meetings, to present 2019 highlights and the outlook for 2020, and discuss the ESG roadshows; • At two of the nine CCIRC meetings, to review the internal control report in the 2019 URD and analyse the Oil & Gas sector budget; • At six of the twelve Board of Directors meetings, to present the reports on the work of the CGEN and CCIRC, to take part in a session of the Board of Representatives of the Single Supervisory Mechanism (SSM) made up of the European Central Bank (ECB) and representatives of the ACPR (French Prudential Supervisory and Resolution Authority), and to present the ESG Action Plan, a cross-business programme aimed at strengthening the Group’s ESG risk management processes (see Chapter 3).
+FOUR MEMBERS OF THE BOARD OF DIRECTORS HAVE EXPERTISE IN CSR, TWO OF THEM SPECIFICALLY ON CLIMATERELATED ISSUES. 
+Persons with the potential to become directors are identified, selected and recommended in accordance with a strict procedure designed to ensure the continued diversity and collective expertise of the Board of Directors as the Bank’s strategy evolves. Subsequent to this procedure, Corporate Social Responsibility is one of the three key areas of expertise for 4 of the Bank’s 14 directors6. Of these four, two hold recognized climate related expertise: • Marion Guillou, Director of BNP Paribas since May 2013, is one of the 13 experts of the Haut Conseil pour le Climat (High Council on Climate, HCC) established in November 2018 by the President of the French Republic. The HCC, composed of specialists in the fields of climate science, economics, agronomics and energy transition, is responsible for providing independent expertise on the Government’s climate policy. Marion Guillou, a former researcher, was Chair and Managing Director of INRA (French Institute for Agronomic Research) (2004-2012), Chair of the Board of Directors of École Polytechnique (2008-2013), Managing Director of INRA (2000-2004) and Head of the Directorate General in charge of Food (1996-2000). She created the Joint Programming Initiative on Agriculture, Food Security and Climate Change (FACCE-JPI).
+• Pierre-André de Chalendar, Director since May 2012, has worked for many years encouraging companies to mobilise their efforts on climate related issues. Chairman and CEO of Saint Gobain since 2010, a key player in the energy renovation, he headed the think tank Entreprises pour l’Environnement (EpE) from 2012 to 2015 and, in that capacity, led the way in mobilising French corporations at the first Business Climate Summit held in Paris in 2015 ahead of COP 21. In 2016, he published a book entitled “Notre combat pour le climat. Un monde décarboné et en croissance, c’est possible”, describing the central role that companies need to play in combating climate change.
+Furthermore, Jean-Laurent Bonnafé, Director and Chief Executive of BNP Paribas, is personally involved on the climate and energy transition front, as evidence by the multiple public positions he has taken (see Inset 1).
+Inset 1 | Jean-Laurent Bonnafé’s involvement in climate and energy transition initiatives. 
+GOVERNANCE OF CLIMATE RELATED ISSUES 6 | 2020 Universal Registration Document and Financial Report, p 50
+
+
+8. 
+TCFD REPORT 2020. 
+THE BOARD OF DIRECTORS VALIDATES THE VARIABLE COMPENSATION GRANTED TO CORPORATE OFFICERS, BASED IN PART ON THE GROUP’S CSR PERFORMANCE (INCLUDING ON CLIMATE)
+The compensation paid to corporate officers includes an annual variable component associated with criteria that are representative of the Group’s earnings, CSR criteria (10%) and a qualitative assessment performed by the Board of Directors (15%).
+The allocation of this portion of the annual variable remuneration is based on multi-criteria measurement based on a holistic approach of actions undertaken by the BNP Paribas Group outside the Company with respect to social, societal and environmental issues. As illustrated below in Figure 2, this remuneration structure includes three weighted criteria, each at 3.33%: • the Board of directors’ assessment of the year’s highlights, primarily with regard to climatic and social challenges (see Inset 2); • publications of extra-financial rating agencies measuring the quality of the BNP Paribas’ CSR positioning relative to its peers; • an alignment with the CSR objectives included in the remuneration due to retention plans granted to the Group’s key employees.
+THE BOARD OF DIRECTORS VALIDATES THE CLIMATE RELATED INDICATORS, POLICIES AND UNDERTAKINGS PRESENTED IN THE UNIVERSAL REGISTRATION DOCUMENT. 
+They key components related to the management of climate related issues by BNP Paribas are presented in the Universal Registration Document, validated by the Board of Directors and filed with the AMF (French Securities Regulator). They are detailed in particular in Chapter 7.5 “Our environmental responsibility: accelerating the energy and ecological transition” , and in Chapter 7.6 “Climate related issues management summary”, and are reviewed by one of the Statutory Auditors, designed as an independent third party, in its report on the extra-financial performance statement.
+GOVERNANCE OF CLIMATE RELATED ISSUES. 
+With respect to the assessment by the Board, this criterion has been considered achieved taking into account the 2020 highlights in terms of climate and social issues. In particular, the Board noted the following achievements in the ecological and energy transition category: • the Bank has announced a timetable for the complete exit from thermal coal by 2030 in the EU and the OECD and by 2040 in the rest of the world; • BNP Paribas and four other international banks adopted the PACTA methodology in order to assess the alignment of the Bank’s loan portfolio with the conclusions of the Paris Agreement.
+It also highlighted the implementation of the ESG Action Plan, a multi-year cross-business programme aimed at strengthening the ESG risk management processes.
+These CSR performance targets were considered as fully achieved for financial year 2020.
+Figure 2 | Share of variable pay granted to corporate officers associated with CSR performance. 
+Inset 2 | Assessment by the Board of Directors of CSR achievements and highlights for FY 2020
+
+
+9. 
+THE EXECUTIVE CORPORATE OFFICERS DETERMINE THE GROUP’S CLIMATE POLICY AND OVERSEES ITS PERFORMANCE. 
+For climate related risks and opportunities in all fields, the Director and Chief Executive and the Chief Operating Officer submit a strategy proposal to the Board of Directors, then subsequently oversee the management of the company and its performance. Jean-Laurent Bonnafé, Director and Chief Executive, has the final word on the climate strategy managed by the Head of Company Engagement (a member of the Group Executive Committee) in his role as CSR supervisor. The Company Engagement Department, CSR Department, Risk Function and operational entities are responsible for the operational implementation of the Group’s climate strategy.
+Throughout 2020, the Group’s climate strategy, implementation of the alignment of the loan book with the Paris Agreement and the main associated indicators were discussed at regular meetings chaired by Jean-Laurent Bonnafé.
+THE COMPANY ENGAGEMENT DEPARTMENT AND THE CSR DEPARTMENT ARE IN CHARGE OF THE OPERATIONAL IMPLEMENTATION OF THE GROUP’S CLIMATE STRATEGY. 
+Represented on the Group Executive Committee, the Company Engagement Department, created in 2017, is in charge of: • strengthening CSR and diversity practices, thus converging all corporate drivers to address major social issues; • identifying and implementing commitments in the fields of economic development, environment and energy transition, social inclusion and regional development, diversity and promotion of human rights.
+BNP Paribas’s Engagement Manifesto8 states that “We will support causes where we can have major impacts. We will achieve this by aligning our products and services, partnerships, employer behaviour, procurement policies, community action, philanthropy, staffvolunteering initiatives and intrapreneurial initiatives...”. This support is given in four areas, including climate: “[...] For climate: working with our customers and partners, to accelerate energy transition by encouraging renewable energies, energy efficiency, sustainable mobility and the circular economy”.
+MANAGEMENT IS RESPONSIBLE FOR ASSESSING AND MANAGING CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+GOVERNANCE OF CLIMATE RELATED ISSUES 1.2. 
+The strategic climate objectives set by the Board of Directors are operationally implemented across the Group by the entire Management structure: • The executive corporate officers7 determine the Group’s climate policy and oversees its performance; • The Company Engagement Department and the CSR Department are in charge of implementing the Group’s climate strategy; • Dedicated CSR teams and a network of CSR officers roll out climate related policies at all Group entities; • The operational entities and the Risk Function (RISK) are responsible for managing risks, including climate related risks; • The compensation granted to key employees of BNP Paribas is indexed in part to the Group’s CSR performance data, related to energy and climate related issues.
+7 | Jean-Laurent Bonnafé, Chief Executive Officer, and Philippe Bordenave, Chief Operating Officer 8 | https://group.bnpparibas/uploads/file/manifeste_25_01_2018_en_lien _02.pdf
+
+
+10. 
+TCFD REPORT 2020. 
+GOVERNANCE OF CLIMATE RELATED ISSUES. 
+The Environment and Energy Transition team, created in 2018, is in charge of helping all the business lines seize the business opportunities associated with the climate and the energy transition. It works continuously with the Functions and the business lines throughout the Group to develop such opportunities.
+The CSR Department draws on multiple areas of expertise, detailed in Inset 3.
+DEDICATED CSR TEAMS AND AN INTERNAL NETWORK OF CSR OFFICERS ROLL OUT CLIMATE RELATED POLICIES AT ALL GROUP ENTITIES. 
+The CSR Department relies on a network created in 2012, working within the divisions, business lines, networks, functions and subsidiaries to pave the way for the deployment of the CSR policy across the Group. A total of more than 170 employees spend the majority or all of their time addressing CSR issues, including climate related issues, at BNP Paribas.
+The Head of CSR at each entity reports to a member of the Executive Committee to ensure that these criteria are incorporated in the overall strategy.
+The CSR Department employs several experts in the energy transition, green finance and climate related issues, boasting complementary profiles: • Astrid Behaghel has 15 years’ experience as an electrical engineer in the energy sector managing international projects; • Elisabeth Hipeau has 25 years’ experience in multiple industrial sectors, such as refining and petrochemicals, and served five years as Head of ESG Risk Management; • Nathalie Jaubert has 23 years’ professional experience: 11 in capital markets and 12 with the CSR Department of BNP Paribas (6 of which she spent as Deputy Department Head); • Julie Miller has 15 years’ experience, 10 of which in corporate and institutional banking, and nearly 4 as Head of Group CSR policies, particularly those addressing the energy transition; • Guillaume Poupy spent almost 10 years helping companies define their CSR approach, particularly with respect to the energy transition; • Jacky Prudhomme has over 20 years’ experience assessing ESG risks, sustainable finance and responsible investment; • Sébastien Soleille has 20 years’ experience in the energy transition and sustainable development fields, working with the department of the French Ministry for the Environment, with a major player in the energy sector, and as Head Energy Transition Advisor.
+Inset 3 | Main climate related areas of expertise of the CSR Department 9 | https://group.bnpparibas/en/financing-investment-policies. 
+The CSR Department’s Management of extra-Financial Risk team is tasked with identifying environmental risks, including climate related risks, liable to have an impact on the Group’s activities, and defining sector policies9 aimed at limiting the Environmental, Social and Governance (ESG) risks to which BNP Paribas is exposed.
+The CSR Department, made up of roughly 30 people and subordinated to the Company Engagement Department, oversees the Bank’s CSR commitments and is structured as follows (Figure 3):
+Figure 3 | CSR Department organisation chart
+
+
+11. 
+THE OPERATIONAL ENTITIES AND THE RISK FUNCTION (RISK) ARE RESPONSIBLE FOR. 
+MANAGING RISKS, INCLUDING CLIMATE RELATED RISKS. 
+In accordance with the internal organisation of the permanent control framework, the operational entities form the first line of defence. They comprise the primary contributors to the permanent control framework, responsible for managing their risks, including those related to environmental factors.
+Within this framework, RISK, which is an independent control function, is in charge of organising and supervising the risk management framework covering both the Group’s risk exposures and those within its own remit, including environmental and social risk factors.
+To that end, RISK is tasked with defining, developing, implementing and maintaining, in close collaboration with the Group CSR Department, the framework governing ESG risk management.
+A dedicated team, “Risk ESG Centre of Expertise”, made up of approximately ten people, was created in 2020. In conjunction with the Group’s other stakeholders, this team helps: • define standards, methodologies, indicators and internal tools used to analyse and track ESG characteristics in Group portfolios; • strengthen the risk management framework for risks associated with these ESG factors; • keep track of regulatory developments pertaining to ESG risks and associated marketplace initiatives; • raise awareness and train the RISK teams on the potential impact of ESG factors on risk management and related methodology developments.
+This team actively contributes to the oversight of the ESG Action Plan. This Group programme, conducted under the joint responsibility of the Head of Company Engagement and the Head of the Risk Function, is aimed towards strengthening the Group ESG framework (see Chapter 3. Risk Management).
+THE COMPENSATION GRANTED TO KEY EMPLOYEES OF BNP PARIBAS IS INDEXED IN PART TO THE GROUP’S CSR PERFORMANCE DATA, RELATED TO ENERGY AND CLIMATE RELATED ISSUES. 
+In 2012, BNP Paribas established a dashboard consisting of CSR metrics to steer its corporate social responsibility strategy. The Group Executive Committee and Board of Directors monitor the dashboard on a yearly basis. Nine of the metrics are included in the calculation of the three-year loyalty plan for more than 7,700 key employees10, making up 20% of the remuneration criteria. Two of the criteria (summarised in Table 7, p 59) are directly related to energy/ climate issues: • Financing for renewable energies; • GHG emissions per FTE (energy used in buildings and business travel).
+10 | Key employees: senior managers, high-potential employees and local key resources.
+GOVERNANCE OF CLIMATE RELATED ISSUES
+
+
+12. 
+RAPPORT TCFD 2020 2 STRATEGY. 
+INCORPORATING CLIMATE. 
+RELATED ISSUES INTO STRATEGY. 
+AND GROUP ACTIVITIES
+
+
+13. 
+The direct and indirect consequences of climate change for BNP Paribas are significant. The associated risks and opportunities, continuously analysed, are taken into account in the Group’s strategy, in its operations and in each of its business lines: corporate and investment banking, retail and specialised banking, asset management and insurance. This continuous improvement approach, the Group’s integrated and diversified model and its commitments to carbon neutrality are the keys to BNP Paribas’ resilience to the different possible climate scenarios.
+
+
+14. 
+TCFD REPORT 2020. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES. 
+For several years now, BNP Paribas has undertaken to examine the various implications of climate change for its business in increasingly greater detail. This analysis is rooted in a double-materiality perspective (illustrated in Figure 4) focused on: • identifying the consequences (risks as well as opportunities) of climate change on BNP Paribas, its customers and the companies in which the Group invests, along with the consequences of the adaptation and mitigation policies implemented in response (“outside-in” approach). The analysis of climate related risk factors is subject to a rigorous process incorporated into the Bank’s risk management framework, as detailed in Chapter 3. Opportunities have been identified in each of the Bank’s business lines over the course of the strategic business reviews. The results of these analyses are presented in Section 2.1 of this chapter (p 15).
+• assessing the impact on the climate of BNP Paribas’ activity, and that of its customers and the companies in which the Group invests (“inside-out” approach). As the leading bank in the Eurozone and a toptier international banking player, BNP Paribas is an integral part of the global economy, operating in all business sectors. Accordingly, the Group focuses its efforts to reduce climate related risks on high GHG emissions sectors as a priority: fossil fuel extraction, electricity generation, transport, steel and cement.
+Climate related issues are factored into BNP Paribas’ strategy and operations, covering Corporate and Institutional Banking, Retail Banking, Investment & Protection Services, and the Bank’s operational scope. These items are presented in Section 2.2 (p 18).
+Lastly, the Bank strives to assess its resilience to the foreseeable consequences of climate change. This approach is detailed in Section 2.3 (p 33).
+Figure 4 | Double-materiality perspective. 
+Primarily developed in the Guidelines on Non-Financial Reporting published by the European Commission11, the purpose of the double-materiality perspective is, when selecting non-financial information deemed material, to simultaneously consider the impact of climate change on the company’s business and the company’s impact on the climate.
+11 | Guidelines on non-financial reporting: Supplement on reporting climate related information (2019/C 209/01)
+
+
+15 2.1. 
+GLOBAL WARMING AND ITS RELATED TURMOILS REPRESENT RISK FACTORS THAT AFFECT ALL OF THE BANK’S ACTIVITIES. 
+As specified in Chapter 5 of the 2020 Universal Registration Document and Annual Financial Report, “The BNP Paribas Group could experience business disruption and losses due to climate change risks such as transition risks, physical risks or liability risks.“
+BNP Paribas Group is exposed to climate change risks factors both directly, through its proprietary operations, and indirectly, through its corporate and institutional banking activities.
+Main types of climate change risks:
+THE MAIN CLIMATE RELATED RISKS AND OPPORTUNITIES HAVE BEEN IDENTIFIED. 
+TRANSITION RISKS arising from a change in the behaviour of economic and financial agents in response to the implementation of energy or technological development policies.
+PHYSICAL RISKS stemming from the direct impact of climate change on people and goods due to extreme weather events or long-term risks such as rising water levels or temperatures.
+Furthermore, liability risks can also arise from both of these risks. Liability risks consist of potential disputes, claims, legal proceedings initiated against a company, State or financial institution, which may be held liable by any party or citizen having incurred losses due to climate change. In keeping with international efforts, and especially those of the Network of Central Banks and Supervisors for Greening the Financial System (NGFS), BNP Paribas considers the risks associated with the advent of climate related court proceedings for corporates and investors, for example liability risks, as a sub-set of physical and transition risks.
+BNP Paribas monitors the potential impact of these risks in the conduct of its own business and that of its counterparties, and in its proprietary and third-party investments. The Group incorporates these risks in its risk management process and gradually enhances their assessment to keep pace with advances in methods employed to measure and analyse these factors and their impact on traditional risks, particularly those relating to creditworthiness.
+Methodologies for the quantitative analysis of climate related risk factors, and their mechanisms for their transmission to traditional risks, are currently under development.
+Consequently, the materiality of climate related risk factors will be subject to a gradual quantitative analysis, as the methods and metrics are put together and incorporated in the risk management process.
+These processes are detailed in Chapter 3 “Risk Management” of this report (p 34).
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES 2.1.1. CLIMATE CHANGE GENERATES RISK FACTORS FOR THE GROUP. 
+The direct and indirect consequences of climate change pose risks and opportunities for BNP Paribas: • Climate change generates risk factors for the Group; • Global warming and its related turmoils represent risk factors that affect all of the Bank’s activities ; • Various risk factors stem from the necessary energy and ecological transition ; • Climate related physical risks also affect Group activities ; • The energy transition and adaptation to climate change also represent opportunities for BNP Paribas.
+
+
+16. 
+TCFD REPORT 2020. 
+VARIOUS RISK FACTORS STEM FROM THE NECESSARY ENERGY AND ECOLOGICAL TRANSITION. 
+The quantitative analyses conducted, based on expert appraisals, led to the identification of the main climaterelated transition risks for BNP Paribas. They are presented in Table 1.
+An indication of the time frame in which each risk or opportunity is liable to materialise is given: short term (ST), i.e. within two years; medium term (MT), i.e. between three and 10 years; or long term (LT), i.e. after ten years. The potential significance of each risk is also estimated based on expert appraisals (ranging from “+”, moderate to “++++”, very significant).
+CLIMATE RELATED PHYSICAL RISKS ALSO AFFECT GROUP ACTIVITIES. 
+The main physical risks liable to affect the Group’s business are associated with direct material consequences of climate change on the activity of BNP Paribas customers, via its financing and asset management activities.
+The results of qualitative analyses, based on expert appraisals, are summarised in Table 2.
+RISK FACTOR RISK CATEGORY DESCRIPTION TIME FRAME BUSINESSES AFFECTED. 
+POTENTIAL SIZE OF IMPACT. 
+TRANSITION RISK. 
+STRATEGIC AND COMMERCIAL RISK. 
+Underperformance risk of funds over-exposed to business sectors or companies generating substantial GHG emissions, liable to be subject to greater regulatory pressure, or whose business activity declines in climate scenarios. 
+MT Asset Management ++
+Risk of losing market share for the Group, and particularly its subsidiaries Arval and Leasing Solutions, if they fail to sufficiently adapt to customer demand for more environmentally-friendly products and services (electric cars, leasing of low-carbon equipment, etc.)
+MT Specialised subsidiaries: Arval, BNP Paribas Leasing Solutions, etc.
+++
+CREDIT, COUNTERPARTY AND SETTLEMENT RISK. 
+Credit risk: Rise in carbon prices (tax or quotas) applied to GHG emissions of BNP Paribas customers (particularly those generating the highest emissions)
+MT Financing activities +++
+OPERATIONAL RISK. 
+Rise in carbon prices (tax or quotas) applied to BNP Paribas emissions in its operational scope. 
+MT Internal +
+Tougher regulations on climate reporting, made difficult due to lack of robust and consistent data from our corporate customers. 
+ST Internal +
+Tougher environmental standards (e.g. on the energy efficiency of Group buildings, on its company car fleet, etc.) liable to call for additional investments. 
+MT Internal +
+REPUTATIONAL RISK. 
+Risk of an adverse impact on BNP Paribas’ brand reputation if external stakeholders feel the Group is not contributing actively enough to the fight against climate change. 
+ST Group ++/+++
+RISK FACTOR RISK CATEGORY DESCRIPTION TIME FRAME BUSINESSES AFFECTED. 
+POTENTIAL SIZE OF IMPACT. 
+PHYSICAL RISKS. 
+STRATEGIC AND COMMERCIAL RISK. 
+Underperformance risk of funds over-exposed to economic players significantly affected by the direct impacts of climate change due to their business sector, geographic location or supply chains. 
+LT Asset Management ++
+CREDIT, COUNTERPARTY AND SETTLEMENT RISK. 
+Weather changes, including in the water cycle, disrupting the production processes of some BNP Paribas customers, and thus jeopardising their income (e.g. decreased river flows adversely affecting the production of hydropower plants, increase water temperatures adversely affecting the production of nuclear power plants)
+MT Financing activities +/++
+Table 1 | Some climate related transition risks for BNP Paribas. 
+Table 2 | Some climate related physical risks for BNP Paribas. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+17. 
+Table 3 | Some of the main climate related opportunities for BNP Paribas. 
+It is BNP Paribas’ ambition to be able to offer all its customers, spanning all business lines and countries of operation, a range of products and services to help them achieve their own energy transition. For Jean-Laurent Bonnafé, “the energy transition is today practically synonymous with economic development”12.
+This ambition generates multiple opportunities for each customer segment: • energy transition financing for corporate customers: renewable energies, energy efficiency, decarbonisation of value chains, development of low-carbon products and services, carbon offsetting, etc. ; • support for individual customers in adopting more efficient technologies and consumer practices: renewable energies, low-carbon mobility, energy-efficient homes, etc.; • demand from institutional and retail investors interested in focusing their investments on the low-carbon economy and sectors in transition.
+The Group has also identified energy saving opportunities in its operational scope, where energy used in buildings accounts for more than 70% of total direct emissions and generates a high cost that can be significantly reduced.
+The main climate related opportunities for BNP Paribas are identified in Table 3.
+2.1.2. THE ENERGY TRANSITION AND ADAPTATION TO CLIMATE CHANGE ALSO. 
+REPRESENT OPPORTUNITIES FOR BNP PARIBAS. 
+MAIN BUSINESS LINE AFFECTED. 
+DESCRIPTION TIME FRAME BUSINESSES AFFECTED. 
+POTENTIAL SIZE OF IMPACT. 
+CORPORATE AND INSTITUTIONAL BANKING. 
+Robust growth in green bonds, green loans, sustainability-linked loans correlated with climate related criteria, etc.
+ST Group +++
+Revenues generated by renewable energy financing. 
+ST Financing activities +++
+Financing and investments in start-ups specialising in the energy transition. 
+ST Financing activities +
+Revenues generated from carbon credits (Global Markets Carbon Desk, ClimateSeed)
+ST Global Markets, Climate Seed +
+RETAIL BANKING AND SPECIALISED BUSINESS LINES. 
+Credit offers (home loans and consumer loans) to help households fund energy renovations (e.g. green mortgage loans, special consumer loans)
+ST Retail Banking, BNP Paribas Personal Finance ++
+Development of the BNP Paribas Leasing Solutions offer of more energy efficient and/or less GHG-emitting leasing products. 
+MT BNP Paribas Leasing Solutions ++
+Arval’s expanded range of electric cars to meet growing demand. 
+MT Arval +
+INVESTMENT AND PROTECTION SERVICES. 
+Outperformance of funds particularly exposed to business sectors or companies contributing to the energy transition. 
+ST / MT Asset Management ++
+Development of low-carbon products: low-carbon real estate development with BNP Paribas Real Estate, Climate indices and green funds with BNP Paribas Asset Management, green investments via retail funds managed by BNP Paribas Cardif, etc.
+ST Group + / ++
+OPERATIONAL SCOPE. 
+Energy renovation of buildings (offices, branches, etc.) leading to reduced energy consumption and thus lower power bills for the Group. 
+CT Internal + 12 | https://www.linkedin.com/pulse/ bank-financing-21st-century-economy-must-act-energy-bonnaf%C3%A9/
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+18. 
+TCFD REPORT 2020. 
+BNP PARIBAS INCORPORATES THESE RISKS AND OPPORTUNITIES IN ITS STRATEGY AND ACTIVITIES 2.2. 
+Figure 5 | Incorporation of climate related issues by BNP Paribas. 
+The considerable challenges posed by climate change are factored in at all levels and in all businesses conducted by the company. Figure 5 below presents the main measures taken by the Group in response to climate related risks and opportunities, both at Group level and in each of its business lines.
+Inset numbers correspond to sections in which these measures are detailed in the rest of this chapter.
+Note: It was deemed not relevant to systematically associate identified risks and opportunities with measures taken: several provisions address multiple objectives, while some measures are not associated with a specific risk or opportunity. For instance, promoting the funding of renewable energies is not only a path to capturing opportunities on fast-growing markets but also to reducing the Bank’s overall exposure to loans for high-carbon assets. Conversely, raising customer and employee awareness of climate change issues contributes to the success of all measures, without being easily attributable to a specific risk or opportunity. The measures have been organised, however, in accordance with objectives ranging from preventing risks to seizing opportunities, that is from excluding certain business sectors to developing dedicated offers.
+
+
+19. 
+The Group’s ambition with respect to the challenges of climate change is to align all its activities with the goals of the Paris Agreement. At Group level, this ambition takes multiple forms: • BNP Paribas joins the Net Zero Banking Alliance and align greenhouse gas emissions arising from its credit and investment for own account activities with the path required to achieve carbon neutrality in 2050; • “Accelerating the ecological and energy transition” is one of the four pillars of the Group CSR strategy; • BNP Paribas is adapting its organisational structure and has created dedicated teams in its various operations; • BNP Paribas takes public positions and commits to collective initiatives; • The Group is implementing its exit strategy from the thermal coal sector and has discontinued relations with entities specialising in unconventional oil and gas; • BNP Paribas is aligning its loan book with the path required to achieve carbon neutrality in 2050.
+2.2.1. BNP PARIBAS AIMS TO ALIGN ALL ITS ACTIVITIES WITH THE GOALS OF THE. 
+PARIS AGREEMENT. 
+BNP PARIBAS JOINS THE NET ZERO BANKING ALLIANCE AND ALIGN GREENHOUSE GAS EMISSIONS ARISING FROM ITS CREDIT AND INVESTMENT FOR OWN ACCOUNT ACTIVITIES WITH THE PATH REQUIRED TO ACHIEVE CARBON NEUTRALITY IN 2050. 
+As a member of the Net Zero Banking Alliance (NZBA) launched by the UNEP – Finance Initiative, BNP Paribas commits to: • Align greenhouse gas emissions arising from its credit and investment for own account activities with the path required to achieve carbon neutrality in 2050; • Build on credible transition scenarios published by recognized bodies (IPCC, IEA); • Focus on the most greenhouse gas emitting sectors and playing a key role in the transition to a carbon neutral economy; • Set interim targets, no later than 2030; • Annually publish their progress and the associated action plans.
+“ACCELERATING THE ECOLOGICAL AND ENERGY TRANSITION” IS ONE OF THE FOUR PILLARS OF THE GROUP CSR STRATEGY. 
+BNP Paribas fully incorporates energy and climate related considerations in its strategy. This commitment is clearly visible in the Group’s Engagement Manifesto and CSR policy.
+The Group CSR policy, illustrated in Figure 6, is centred on four pillars and twelve commitments. The purpose of this strategy, part of a continuous improvement process, is to help build a more sustainable world while ensuring the stability and performance of the BNP Paribas Group. All business lines, networks, subsidiaries and countries roll out this policy, adapting it to their specific characteristics.
+OUR 4 PILLARS. 
+OUR 12 COMMITMENTS. 
+OUR GOVERNANCE. 
+THE ECONOMY. 
+Financing the economy in an ethical manner. 
+OUR PEOPLE. 
+Developing and engaging our people responsibility. 
+THE COMMUNITY. 
+Being a positive agent for change. 
+THE ENVIRONMENT. 
+Accelerating the ecological and energy transition 1. 
+INVESTMENTS AND FINANCING WITH A POSITIVE IMPACT 4. 
+PROMOTION OF DIVERSITY AND INCLUSION IN THE WORKPLACE 7. 
+PRODUCTS AND SERVICES THAT ARE WIDELY ACCESSIBLE 10. 
+ENABLING OUR CLIENTS TO TRANSITION TO A LOW-CARBON ECONOMY RESPECTFUL OF THE ENVIRONMENT 8. 
+COMBAT SOCIAL EXCLUSION AND SUPPORT HUMAN RIGHTS 11. 
+REDUCING THE ENVIRONMENTAL IMPACT OF OUR OPERATIONS 9. 
+CORPORATE PHILANTHROPY POLICY FOCUSED ON THE ARTS, SOLIDARITY AND THE ENVIRONMENT 12. 
+ADVANCE AWARENESS AND SHARING OF BEST ENVIRONMENTAL PRACTICES 5. 
+A GOOD PLACE TO WORK AND RESPONSIBLE EMPLOYMENT MANAGEMENT 6. 
+A LEARNING COMPANY SUPPORTING DYNAMIC PROFESSIONAL PATH 2. 
+ETHICS OF THE HIGHEST STANDARD 3. 
+SYSTEMATIC INTEGRATION AND MANAGEMENT OF ENVIRONMENTAL, SOCIAL AND GOVERNANCE RISKS. 
+Governance - driven by a culture of responsibility and integrity, - based on best practices, - involving the Board, the shareholders, the management and the whole Group, - to ensure a sustainable future for our business and deliver a positive impact on society.
+A BANK COMMITTED TO A BETTER FUTURE. 
+One of the four pillars deals with environmental responsibility, with the goal of ramping up the energy and energy transition of BNP Paribas and its customers. On the environmental responsibility front, BNP Paribas has prioritised the fight against climate change since 2011, given its influential role in the funding of the global economy, and particularly the energy sector.
+Figure 6 | Corporate Social Responsibility Policy of BNP Paribas Group. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+20. 
+TCFD REPORT 2020. 
+BNP PARIBAS IS ADAPTING ITS. 
+ORGANISATIONAL STRUCTURE AND HAS CREATED DEDICATED TEAMS IN ITS VARIOUS OPERATIONS. 
+Over the last decade, BNP Paribas has created several dedicated teams in different countries and business lines, tasked with capturing opportunities associated with the energy transition and climate change, and supervising and coordinating all initiatives aimed at preventing climate change.
+Examples include: • As of 2009, in Belgium, the BNP Paribas Fortis Sustainable Business Competence Center (SBCC) offers expertise and support to help businesses design and fund renewable energy production infrastructures or improve the energy efficiency of their facilities. Its goal is to steer companies towards a sustainable business model that meets today’s climate related issues.
+• In 2017, BNP Paribas Asset Management created the Sustainability Centre comprising all of its ESG integration, engagement & stewardship and research activities. The Sustainability centre comprises 25 experts, some of whom are focused on climate related issues, as detailed in Inset 4.
+• The Corporate and Institutional Banking (CIB) division created a team of more than 20 members dedicated to environmental and climate related issues: development of the Green Bond market, renewable energy finance, carbon finance, sustainable equities indices.
+• In 2019, French Retail Banking (BDDF) created “Green Desk Ile de France Entreprise” for corporate customers in the Greater Paris area. The purpose of this centre of expertise, oriented towards energy efficiency/renewable energy businesses and their value chain, is to provide BDDF customers with all necessary areas of expertise, all types of renewable energy players, to finance their needs and to become a household name in the field. By end-2020, the desk had already assisted more than 1,000 customers.
+• The Risk Function created a RISK ESG centre of expertise in 2020, which coordinates with the Business Lines and other Group Functions to establish a solid management framework for ESG risk factors (see Chapter 3. Risk Management).
+To be capable of achieving its ambition of becoming the world’s leading sustainable asset manager, BNP Paribas Asset Management has considerably expanded the staff and resources of its Sustainability Centre. Responsible investment expert Jane Ambachtsheer joined BNP Paribas Asset Management in 2018 as Global Head of Sustainability, and has since recruited additional experts. Overall, BNP Paribas Asset Management’s Sustainability Centre comprises 25 multi-disciplinary ESG experts.
+As a member of the TCFD, Jane Ambachtsheer contributes to the collective advancement of the field and offers investors the benefit of her experience in sustainable investing.
+The experts at BNP Paribas Asset Management conduct research on market trends, focusing in particular on the energy transition and climate change. In 2020, BNP Paribas Asset Management published a study on the production of green hydrogen, i.e. generated using renewable electricity. In order to achieve the carbon neutrality goal, green hydrogen needs to meet 15% of the European Union’s total energy requirements by 2050, compared with 2% today. This will call for the advent of an entirely new industry, including storage and distribution, at an estimated cost of €340 billion to €460 billion. The key to success will be the creation of a virtuous feedback loop between public policy and private-sector capital, innovation and improvement in technology.
+Inset 4 | Climate Expertise at BNP Paribas Asset Management. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+21. 
+BNP PARIBAS TAKES PUBLIC POSITIONS AND COMMITS TO COLLECTIVE INITIATIVES. 
+BNP Paribas draws on a general strategic framework for all its climate initiatives, both to reduce its direct impacts and to take action alongside its customers. The Paris Agreement states that, in order to limit the increase in global average temperature to well under 2°C, the world as a whole must achieve carbon neutrality by the second half of the 21st century (i.e. drastically reduced greenhouse gas emissions and residual emissions less than or equal to anthropogenic carbon sequestration, either through agricultural or forestry practices capturing more carbon or through CO2 capture and storage). In France and the European Union, the goal is to achieve carbon neutrality by 2050.
+BNP Paribas firmly believes it is more effective to address the complex and global challenges of climate change by working together. With that in mind, the Group is a member of several coalitions on the front line of the fight against climate change, such as: • the Breakthrough Energy Coalition, which supports innovation in the interest of developing clean energy. Launched by Bill Gates during the COP 21 conference, the coalition combines innovative research funded by public-private partnerships; • the efforts of the Women’s Forum targeting women and climate change, including in particular its significant involvement in the March 2021 study “Les femmes menant la relance verte” (Women leading the green recovery) demonstrating the importance of encouraging more women to join technical professions and become entrepreneurs, two key aspects of the fight against climate change.
+BNP Paribas is also a member of multiple CSR think tanks, several of which focus specifically on climate related issues: • the Institute for Sustainable Development and International Relations (IDDRI), counting BNPP’s Head of CSR as a member of its Board of Directors; • the World Business Council for Sustainable Development (WBCSD), a global organisation of more than 200 top-tier companies working together to accelerate the transition to a sustainable world. BNP Paribas takes part in the initiatives of several WBCSD working groups, including the Climate Policy working group; • Entreprises pour l’Environnement (EpE), a non-profit organisation that appointed BNP Paribas Director and CEO Jean-Laurent Bonnafé as its Chairman in 2019 for a threeyear term. In this role, he has helped highlight and promote EpE’s actions and reports, including the study entitled “ZEN 2050 – Imaginer et construire une France neutre en carbone” (ZEN 2050 – Imagining and building a carbon-neutral France), which contains 14 recommendations for initiatives that should be undertaken as soon as possible for the 2050 carbon neutrality goal to remain plausible. In 2020, as Chairman of EpE, JeanLaurent Bonnafé signed a platform calling for collective mobilisation to make the economic recovery an accelerator of the ecological transition (published in Le Monde on 5 May 2020), alongside more than 90 other French and international CEOs; • the Hydrogen Council , which brings together major global corporations in energy, transport and industry. These companies share the same long-germ vision: hydrogen can promote the ecological and energy transition and achieve carbon neutrality. Believing firmly that hydrogen generated from low-carbon energy has a key role to play, BNP Paribas officially joined this organisation in early 2020, where it is represented by a member of the Executive Committee; • The Financial Services Task Force (FSTF), launched by the Sustainable Markets Initiative (SMI) in 2020 at the initiative of Prince Charles and comprises some of the largest banks in the world, including BNP Paribas. This working group acknowledges the key role played by the banking sector in the transition to a sustainable, carbon-free future and has undertaken to ramp up efforts in the financial services sector to bring about a net zero carbon economy.
+Finally, BNP Paribas actively participates in: • the European Commission’s work on sustainable finance. In 2020, BNP Paribas was represented in the working group focused on the data and implementation of the EU Platform on Sustainable Finance, which is responsible in particular for working on the European taxonomy; • the Climate Commission of the French Banking Federation (FBF), with the aim of supporting and accelerating the Climate strategies of French banks (Patrick Bader, former Head of CSR for the Corporate and Institutional Banking division and Director of the Climate Commission, was delegated to represent BNP Paribas Group).
+Furthermore, as part of the Climate Action 100+ Initiative, since 2017 BNP Paribas Asset Management has engaged with corporations in Europe, Asia and the United States ranked among the top 100 GHG emitters, encouraging them to publicly undertake significant measures to combat climate change and to implement strategies to become carbon neutral by 2050 at the latest.
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+22. 
+TCFD REPORT 2020. 
+THE GROUP IS IMPLEMENTING ITS EXIT STRATEGY FROM THE THERMAL COAL SECTOR AND HAS DISCONTINUED RELATIONS WITH ENTITIES SPECIALISING IN. 
+UNCONVENTIONAL OIL AND GAS. 
+In terms of thermal coal, the Group has set an exit deadline, in line with the SDS (Sustainable Development Scenario) of the International Energy Agency (IEA), compatible with the climate-specific goals of the Paris Agreement.
+In 2020, the Group announced a plan to reduce its thermal coal exposure to zero by 2030 in OECD countries, and by 2040 in the rest of the world. The Group had already elected in 2017 not to finance any projects in the thermal coal sector.
+Accordingly, BNP Paribas no longer accepts any new customers deriving more than 25% of their revenue from thermal coal, developing new coal-fired electricity generation capacities, or developing new thermal coal extraction projects.
+Furthermore, BNP Paribas has stepped up its dialogue with existing corporate customers using coal to generate part of their electricity, in order to determine to what extent their projections are aligned with the Group’s exit goals by geographic area. The Bank’s current policy is to discontinue any business relations with existing corporate customers that have not adopted a thermal coal exit plan compatible with the Bank’s commitments. After reviewing the entire portfolio in 2020, it became apparent that implementing this policy would promptly cut the number of BNP Paribas corporate customers generating electricity from coal roughly in half.
+Overall, by implementing this commitment, BNP Paribas has excluded 435 firms operating in the coal mining and coal-based power generation sectors.
+Moreover, in 2017, the Group also adopted a global financing policy covering the exploration, production and ground transport of unconventional oil and gas: • the Group has consequently severed its ties with companies whose main business is the exploration, distribution, marketing or trade of shale gas and oil and/or oil from tar sands; • the Group no longer supports companies or infrastructures having as their main activity the exploration, production and export of oil and gas in the Arctic; • the Group has also stopped funding projects predominantly involving the transport and exploration of shale gas and oil or oil from tar sands.
+These undertakings have been applied to the Group’s existing customers, in some cases meaning it could no longer do business with them. As a result of this policy, 249 firms in the unconventional hydrocarbon sector have been excluded, and our credit exposure to specialists in unconventional oil & gas, which exceeded $4 billion in 2016, was down to zero in 2020.
+This year the Group also expanded its commitments in two particularly sensitive geographic regions from the standpoint of climate, biodiversity and indigenous populations, with the exclusion of funding and investments in oil & gas projects located in the Arctic National Wildlife Refuge and the exclusion of maritime oil exports from the Esmeraldas region in Ecuador for its trading activities. 
+BNP PARIBAS IS ALIGNING ITS LOAN BOOK WITH THE PATH REQUIRED TO ACHIEVE CARBON NEUTRALITY IN 2050. 
+BNP Paribas has undertaken to align its loan book with the path required to achieve carbon neutrality in 2050 in all its financing activities. Consequently, the Group has agreed, as a founding member and contributor, in conjunction with four other international banks (the Katowice banks), to develop a methodology for aligning bank loan books (the PACTA methodology13) and apply it to five high-carbon sectors (fossil fuel extraction, power generation, transport, steel and cement). These five sectors account for approximately 75% of direct energy-linked CO2 emissions in the world, according to the International Energy Agency.
+The PACTA method, tailored to each sector, relies on benchmark scenarios used and developed by independent organisations (such as IEA organisations). More than 200 banks, including 17 major international banks, had tested the method at end-2020.
+The results of these tests are presented in Section 4.1.1 of this report (p 52).
+13 | Paris Agreement Capital Transition Assessment. 
+Arctic National Wildlife Refuge (Alaska)
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+23. 
+In the Corporate and Institutional Banking division, the strategy is employed to direct its efforts to fund the economy towards supporting the energy transition: • BNP Paribas commits to reducing its support for oil and gas exploration and production; • BNP Paribas funds the development of renewable energies; • BNP Paribas develops green finance tools; • BNP Paribas supports innovation for the energy and ecological transition; • BNP Paribas encourages companies to work towards carbon neutrality; • BNP Paribas raises awareness among large corporate customers at their highest levels.
+2.2.2. CORPORATE AND INSTITUTIONAL BANKING: BNP PARIBAS FUNDS THE ENERGY. 
+TRANSITION. 
+BNP PARIBAS COMMITS TO REDUCING ITS SUPPORT FOR OIL AND GAS EXPLORATION AND PRODUCTION. 
+One first line of action is to reduce support to high-carbon sectors. To this end, BNP Paribas committed to reducing its credit exposure to oil and gas upstream activities by 10% by 2025. BNP Paribas is choosing a more ambitious path than that of the IEA’s SDS scenario, aligned with the Paris Agreement. This commitment, now based on credit exposures, will be gradually complemented by other indicators, such as CO2 emissions.
+BNP PARIBAS FUNDS THE DEVELOPMENT OF RENEWABLE ENERGIES. 
+In addition, the Group has long been supporting the development of renewable energies: as of 2015, BNP Paribas set a goal of doubling the amounts allocated to funding renewable energies by 2020 to €15bn per year. This goal was reached in 2018 and subsequently raised to €18bn by end-2021. This new target has in turn very nearly been hit: in 2020, the amount allocated to renewable energy financing stood at €17.8 billion, and BNP Paribas currently ranks No. 2 in terms of renewable energy financing in the EMEA region and No. 4 worldwide14.
+One of the main achievements recorded in 2020 was the Bank’s funding contribution to the Fécamp wind farm in France, a project representing 500 MW, 71 wind turbines and €2 billion. BNP Paribas was the financial advisor on the deal, set to supply green power to more than 700,000 people. In Abu Dhabi, BNP Paribas served as bookrunner for the largest solar power project in the world, Al Dhafra PV2, with a production capacity of 2 GW. The plant will span 20 km2 in the desert and will be run by the EDF Énergies Renouvelables-Jinko consortium. In the United States, the Group was able to refinance a portfolio of 13 geothermal projects totalling 725 MW in California via the Geysers Power Company subsidiary.
+BNP PARIBAS DEVELOPS GREEN FINANCE TOOLS. 
+BNP Paribas has developed a variety of green finance tools in an effort to provide broader support for the energy and ecological transition of its customers.
+In 2020, BNP Paribas was the world’s No. 2 player on the green bond market according to Bloomberg, totalling €10.8 billion as a bookrunner for its customers.
+For example, auto manufacturer Volvo Cars asked BNP Paribas to serve as green structuring advisor for the purpose of establishing a green finance framework. Volvo Cars ended up raising €500 million to fund an investment in the production of electric cars, with the goal of selling 50% electric cars and 50% hybrid cars by 2025.
+BNP Paribas is also very active on the fastgrowing market for Sustainability-Linked Loans (SLLs).
+With an SLL, the interest rates paid by the borrowing company are linked to the achievement of sustainable development targets, and particularly those related to the environment: rates are lowered if the company reaches its targets and increased otherwise. This type of loan thus encourages borrowers to improve their sustainable development performance over the medium term. In 2020, BNP Paribas directly underwrote SLLs amounting to €4.5 billion having as one of the objectives to reduce GHG emissions.
+For example, BNP Paribas was lead arranger on an SLL for Cemex, one of the world’s largest cement makers. The interest rate on the loan is indexed to the achievement of multiple environmental targets, including the reduction of net CO2 emissions and increased use of clean energy sources by 2025.
+14 | Dealogic ranking as at end-2020. 
+In addition to the Group’s commitments and sector policies applied to all Group activities, BNP Paribas Group adapts its climate strategy to each of its business lines.
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+24. 
+TCFD REPORT 2020 15 | Widely promoted by Muhammad Yunus, a pioneer in microcredit, the am of Social Businesses is to provide a solution to social and environmental problems while remaining economically sustainable, no matter what their legal status (non-profit, cooperative, corporation, etc.).
+BNP PARIBAS SUPPORTS INNOVATION FOR THE ENERGY AND ECOLOGICAL TRANSITION. 
+Making the energy transition happen also means supporting the development of innovative technologies. The Group made a commitment in late 2015 to invest €100 million in early stage innovative companies in the energy transition sector and to help them grow.
+With that goal in mind, the Group created an energy transition venture capital team. Four and a half years after its first investment, BNP Paribas has invested in 10 start-ups and three funds focused on areas such as energy efficiency, energy storage, sustainable mobility, etc.
+Although the Covid-19 crisis made it more complicated to raise capital for start-ups, BNP Paribas proved itself a solid partner, supporting five start-ups in its portfolio with additional investments. The companies were able to use the funds to continue expanding, innovating, servicing the energy transition and fighting climate change.
+Furthermore, in its efforts to support innovation, the Retail Banking division regularly makes equity investments in French start-ups, some of which have a positive impact on the energy or ecological transition. The Group also assists ecological and energy transition start-ups with their IPOs or capital increases.
+BNP PARIBAS ENCOURAGES COMPANIES TO WORK TOWARDS CARBON NEUTRALITY. 
+In addition to reducing global GHG emissions, carbon neutrality must be achieved worldwide in order to meet the goals of the Paris Agreement. For that to happen, residual carbon emissions have to be offset (notably through carbon sequestration in the soil and plants).
+Consequently, in 2018 BNP Paribas created ClimateSeed, its first Social Business15, in collaboration with the team headed by Professor Muhammad Yunus (winner of the Nobel Peace Prize), which helps organisations contribute to projects aimed at reducing carbon emissions, supporting local communities and protecting biodiversity. As of 2020, just two years after being launched, ClimateSeed offered 34 internationally certified projects in fields such as forest conservation, reforestation, energy efficiency, renewable energies, community projects, and waste and water management in 23 different countries. In addition to BNP Paribas, ClimateSeed’s clients include Kering, Boehringer Ingelheim, Women’s Forum for Economy and Society, Mediaperformances, Willis Re, Utopies, etc. ClimateSeed is one of the six standards recognised by the International Finance Corporation (IFC), a member of the World Bank Group, for carbon offsetting under its green building programme. As such it has received multiple awards, which in 2020 included the top prize as the “Best Responsible Solution” at the 2020 AM Tech Day Awards.
+On the whole, the voluntary carbon credits market is still relatively immature. In a bid to help the market expand, in September 2020 BNP Paribas joined the Taskforce on Scaling Voluntary Carbon Markets (TSVCM), which issued recommendations to improve the market’s operation in January 2021.
+BNP PARIBAS RAISES AWARENESS AMONG LARGE CORPORATE CUSTOMERS AT THEIR HIGHEST LEVELS. 
+BNP Paribas frequently holds targeted customer events centred on the ecological and energy transition. In 2020, the pandemic limited the organisation of such events, and many had to be rescheduled for 2021. However, Covid did not prevent many from going ahead, mostly in virtual format, in about 15 European countries, with the participation of around 1,000 customers (corporates and investors) and centred on Group speakers, customer representatives or other experts and VIPs. The main theme of these events was corporate climate strategies.
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+25. 
+BNP PARIBAS SUPPORTS SMES AND ISES IN THEIR ENERGY TRANSITION. 
+In France, French Retail Banking (BDDF) provides all Corporate Customers with solutions to help them with their ecological and energy transition. A comprehensive range of solutions, listed in a Green Book, was co-built with the Group’s other business lines (Arval and BNP Paribas Leasing Solutions) and its partner Économie D’Énergie (EDE), centred on three areas in which Corporate Customers can undertake to reduce energy consumption: real estate, transport and mobility, and movable assets. A programme called “Changetogreen.fr” was also developed to help companies improve the energy efficiency of their buildings. At end-2020, BDDF’s support for the energy transition of French SMEs amounted to €3.1 billion. Lastly, French Retail Banking offers special support to active participants in the energy transition via its “Green Desk” centre of expertise, already served by more than 1,000 customers.
+In Belgium, the BNP Paribas Fortis Sustainable Business Competence Center (SBCC) offers expertise and support to help businesses design and fund renewable energy production infrastructures or improve the energy efficiency of their facilities. Its goal is to steer companies towards a sustainable business model that meets today’s climaterelated issues. In 2020, the SBCC worked on 120 credit applications for a total of €383 million in sustainable financing.
+In Poland, BNP Paribas Bank Polska teamed up with the Polish development bank to launch a government guarantee called BiznesMax to secure loans granted to SMEs for the purpose of making innovative ecological investments. The guarantee covers projects involving the energy efficiency of buildings, renewable energy, process efficiency, electric mobility and the circular economy.
+BNP PARIBAS OFFERS SOLUTIONS DEDICATED TO THE ENERGY TRANSITION OF RETAIL CUSTOMERS. 
+French Retail Banking co-developed the website “monprojetrenovation.com”, offering a comprehensive range of services, from energy diagnostics to identification of eligible subsidies and tax credits. The division also offers Énergibio preferred-rate home renovation loans. In. 
+November 2020, the volume of Énergibio loans climbed nearly 30% compared to 2019.
+In Belgium, BNP Paribas Fortis offers preferredrate green energy loans to fund renovations aimed at reducing energy consumption in homes, issuing a total of €3.75 billion at end-2020. BNP Paribas also played a central role in the development of the Energy Efficient Mortgage Label, a European certification for loans used to fund the purchase, construction or renovation of a property meeting certain energy performance criteria.
+In September 2020, BNP Paribas Polska (Poland) began offering green mortgage loans with 0.1% taken off the interest rate if the property meets strict environmental and energy consumption criteria per m2.
+In the UK, BNP Paribas Personal Finance launched multiple new innovative proposals, including a platform to connect customers and installation companies (certified by government organisation TrustMarket) and a partnership with energy supplier E.ON, resulting in the offer of a combined energy efficiency diagnostic analysis and renovation loan. Roughly £31 million were allocated in the UK this year for home renovation. In 2020, BNP Paribas also joined the UK Green. 
+Building Council, an initiative comprising 500 construction sector organisations working to improve sustainability in the sector.
+In the US, Bank of the West offers 0.25% reduced-rate mortgage loans for projects including energy efficiency renovations or installation of solar panels.
+In France, a green auto loan at a preferred rate of 1% is offered to customers purchasing an electric bike or car eligible for the government’s green bonus.
+The BNP Paribas retail banking networks (primarily BDDF in France, Fortis in Belgium, BNL in Italy, TEB in Turkey, Bank of the West in the US, BNP Paribas Polska in Poland) and the specialised business lines (primarily BNP Paribas Personal Finance which offers consumer loans, Arval which offers operating leases and mobility solutions, BNP Paribas Leasing Solutions which offers equipment finance leases) are also adapting their strategy and activities to address climate related challenges.
+16 | Small and Medium Enterprises and Intermediate-sized Enterprises. 
+Each of these entities develops products and services designed to help its customers make their own energy transition: • BNP Paribas supports SMEs and ISEs16 in their energy transition; • BNP Paribas offers solutions dedicated to the energy transition of retail customers; • Arval and BNP Paribas Leasing Solutions contribute to the development of sustainable mobility solutions; • BNP Paribas raises the awareness of its retail customers and keeps them informed about energy and climate related issues.
+2.2.3. RETAIL BANKING AND SPECIALISED BUSINESS LINES: BNP PARIBAS SUPPORTS. 
+THE ENERGY TRANSITION OF SMES-ISES AND RETAIL CUSTOMERS, DEVELOPING INNOVATIVE GREEN PRODUCTS FOR THEIR BENEFIT. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+26. 
+TCFD REPORT 2020. 
+ARVAL AND BNP PARIBAS LEASING SOLUTIONS CONTRIBUTE TO THE DEVELOPMENT OF SUSTAINABLE MOBILITY SOLUTIONS. 
+Arval, BNP Paribas’ subsidiary specialising in car leasing and mobility, made sustainability the cornerstone of its 2020-2025 strategic plan, “Arval Beyond”, launching two new offers: • 360° Mobility, an integrated sustainable mobility offer including electric car leases, car-pooling, and micromobility solutions; • “Good for You, Good for Me”, a five-step method for helping customers define and implement an energy transition strategy for their fleet of company cars.
+At the same time, Arval completely overhauled its CSR strategy and set ambitious targets for 2025, including a goal of 500,000 electric cars in the leasing fleet and a 30% reduction in the fleet’s CO2 emissions compared to 2020.
+At end-2020, Arval’s total exposure to loans on hybrid and electric cars was around €2.3 billion, up by more than 75% from end-2019.
+For its part, BNP Paribas Leasing Solutions developed a special financing solution for the installation of electric car charging stations, underwritten in the amount of €4 million in 2020. In offering this service to companies, the subsidiary aims to facilitate the adoption of low-carbon vehicles by expanding the network of charging stations.
+BNP PARIBAS RAISES THE AWARENESS OF ITS RETAIL CUSTOMERS AND KEEPS THEM INFORMED ABOUT ENERGY AND CLIMATE RELATED ISSUES. 
+The French Retail Banking network developed “Mon Empreinte Carbone” (My Carbon Footprint) for the MaBanque BNP Paribas and Hello bank! mobile apps to help customers estimate the carbon footprint of their daily expenditures. The purpose is to raise customer awareness of the magnitude of emissions associated with their spending habits and show them how they compare to the national average and the emissions targets aligned with the Paris Agreement, thus encouraging them to take action. Advice and solutions are made available to help them reduce their carbon footprint.
+In a similar way, Bank of the West launched a “1% for the Planet” checking account in the United States. It provides customers with a carbon monitoring tool allowing them to visualise the impact of each purchase made with their debit card.
+Electric car charging stations. 
+Mon Empreinte Carbone. 
+Mobile Apps. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+27. 
+A third business division encompasses the Group’s investment and protection services: BNP Paribas Asset Management, BNP Paribas Wealth Management, BNP Paribas Real Estate and BNP Paribas Cardif. Each of these entities, in accordance with its own specific conditions, deploys initiatives to incorporate climate related risk and opportunities in its activities 17: • The asset management business lines adapt the Group’s targets and policies for exiting the coal sector; • Asset management activities incorporate climate related criteria in their investment policies and decisions; • Engaging with issuers to influence their energy transition; • BNP Paribas provides its customers with green investment options; • BNP Paribas Real Estate is developing a high energy performance real estate offer; • BNP Paribas raises the awareness of its private banking customers on environmental and climate related issues.
+2.2.4. INVESTMENT AND PROTECTION SERVICES: BNP PARIBAS SUPPORTS ITS CLIENT. 
+INVESTORS. 
+THE ASSET MANAGEMENT BUSINESS LINES ADAPT THE GROUP’S TARGETS AND POLICIES FOR EXITING THE COAL SECTOR. 
+In line with the Group’s commitment to exit the coal sector, BNP Paribas Asset Management expanded its coal policy, which now excludes around 1,000 issuers worldwide. The policy applies to all open-ended funds actively managed by BNP Paribas Asset Management, and is set to become the standard for dedicated mandates as well.
+As of 2020, BNP Paribas Asset Management no longer invests in companies generating more than 10% of their revenue from thermal coal operations and/or extracting more than 10 million metric tons of coal per year. Electricity producers with a carbon intensity exceeding the global average of 2019 (463 gCO2e/kWh) and/or planning to expand their installed capacity are also excluded. With this policy, BNP Paribas is aligned with the goals of the Paris Agreement for the sector, as determined by the IEA in its Sustainable Development Scenario (SDS)18.
+BNP Paribas Asset Management’s ESG integration guidelines also call for the carbon footprints of the firm’s portfolios to be lower than the carbon footprint of the associated benchmark index (where applicable). The carbon footprint of corporate issuers is now systematically included in the information systems and made available to the portfolio management and reporting teams.
+BNP Paribas Asset Management is also developing a climate alignment methodology for its institutionnal customers. In order to align portfolios with a sustainable future and apply a conservative approach, the methodology is aimed at measuring the consistency and compatibility of investments with a world well below the 2°C global warming target and, if possible, the 1.5°C target set by the Intergovernmental Panel on Climate Change (IPCC), with little to no overshoot.
+ASSET MANAGEMENT ACTIVITIES INCORPORATE CLIMATE RELATED CRITERIA IN THEIR INVESTMENT POLICIES AND DECISIONS. 
+From a broader standpoint, climate related criteria are incorporated in the asset management business through the systematic integration of ESG criteria in portfolios.
+BNP Paribas Asset Management made ESG integration the cornerstone of its Global Sustainability Strategy as of 2019. ESG integration guidelines were created and implemented and internal ESG research was enhanced to expand coverage of ESG scores to more than 12,000 entities, using a proprietary scoring methodology described in Inset 5 including climate related criteria.
+17 | The management of climate issues by BNP Paribas Asset Management and BNP Paribas Cardif are detailed in the reports that these entities publish pursuant to Article 173 – IV of the Energy Transition and Green Growth Act : “Sustainability Report 2020” and Responsible Investment Strategy 2020”, respectively.
+18 | Detailed in BNP Paribas Asset Management’s Responsible Business Conduct Policy available online at https://docfinder.bnpparibas-am.com/api/ files/D8E2B165-C94F-413E-BE2E-154B83BD4E9B. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+28. 
+TCFD REPORT 2020. 
+For non-financial analysis purposes, BNP Paribas Cardif also collects ESG data specific to each asset class, which are then included in its portfolio management processes. To that end, BNP Paribas Cardif subjects the companies in its investment universe to carbon screening.
+Companies are ranked according to their carbon emissions in absolute terms, with four possible scores ranging from A (emissions < 100 kCO2e) to D (emissions > 10 MtCO2e). The energy transition strategies of companies with a score of “C” or “D” are also rated (from 0 to 100) according to three criteria: relevance of energy transition policies, consistency of policy deployment, and effectiveness of policy results. Companies (or issuers) with a low “energy transition rating” (< 30) are excluded from the investment universe.
+BNP Paribas Cardif also includes positive-impact investments in its retail fund, many of which are focused on environmental and climate related challenges. This commitment is enacted in multiple ways: • green bonds, funding projects aimed at achieving environmental goals: mitigating climate change, adapting to climate change, preserving natural resources, preserving biodiversity and preventing/ managing pollution; • environment-themed funds: energy transition, energy efficiency, sustainable food and agriculture, mitigation of climate change, waste management; • real estate assets qualifying for certification for their environmental performance, and/or incorporating social or societal factors.
+The market value of BNP Paribas Cardif France’s investments generating a positive impact on the environment amounted to €8.1 billion at end-2020. The Sustainable and Responsible Investment (SRI) approach is gaining momentum internationally, with investments in the energy transition carried out in Italy and Luxembourg, in particular.
+BNP Paribas Asset Management assesses more than 12,000 issuers by examining environmental, social and governance criteria in order to project how associated risks and opportunities are liable to impact its investment portfolios and to make informed investment decisions.
+Irrespective of the business sector, GHG emissions are systematically included in the proprietary ESG assessment methodology developed by BNP Paribas Asset Management, illustrated in Figure 7 :
+Figure 7 | Issuer ESG assessment methodology employed by BNP Paribas Asset Management. 
+BNP Paribas Asset Management also includes climate related criteria in the assessment of sovereign, based on three main topics: energy transition, environmental protection, equality and inclusive growth.
+Sovereign bonds, for example, are rated by assessing the alignment of the issuing government’s commitments (Nationally Determined Contributions, or NDCs) with the goals of the Paris Agreement.
+IMPROVEMENT IN THE SOVEREIGN ISSUER ESG RATING PROCESS 1. It gives a fairer view of a country’s ESG performance, which can then be compared to that of countries with very different economic conditions. 2. It underscores the country’s climate change commitments, with the Group planning to address the challenge of climate change with them through dialogue. 3. It draws on the extensive knowledge of the investment teams and dialogue with regulatory and policy-making authorities, thus providing a view of how the country is processing relative to the static quantitative assessment of ESG performance.
+Inset 5 | Incorporation of climate related criteria in the ESG ratings of investments made by BNP Paribas Asset Management. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+29. 
+ENGAGING WITH ISSUERS TO INFLUENCE THEIR ENERGY TRANSITION. 
+BNP Paribas Asset Management uses its voting rights to influence the energy transition of portfolio companies. 
+In line with its climate change strategy, BNP Paribas Asset Management adapted its voting policy, and reserves the right to abstain from voting to approve financial statements, or the discharge or re-election of directors, in companies that do not adequately report on their CO2 emissions and climate strategy.
+In 2020, BNP Paribas Asset Management opposed 451 resolutions at 66 General Meetings (vs. 61 at 16 GMs in 2019), largely for climate related reasons.
+Climate change is a top priority in BNP Paribas Asset Management’s voting and engagement policy. In 2020, BNP Paribas Asset Management made it a priority to engage with the companies comprised in its portfolio about transitioning to low-carbon electricity generation, implementing BNPP AM’s stricter coal policy and adapting its commitments to the goals of the Paris Agreement.
+BNP Paribas Asset Management also uses its voting rights to encourage the adoption of pro-energy transition resolutions. In 2020, it voted in favour of 32 shareholder proposals addressing the environment and climate change. Support for these resolutions stood at 94.1%, versus 90.5% in 2019. Examples of how BNP Paribas Asset Management uses its voting rights are provided in Inset 6.
+BNP Paribas Asset Management works closely with sovereign debt issuers. 
+In Europe, the fixed income management team and the Sustainability Center’s sovereign analyst have been working with Spain and Italy on climate related issues. With Spain, the focus was on the Decarbonisation Act and the growing need to address ESG issues and the heads of the Spanish government answered questions on the country’s decarbonisation strategy. With Italy, the focus was on climate strategy and raising the Italian Treasury Department’s awareness of the growing need to incorporate ESG issues. Italy is on the right track to issue green bonds and support energy transition projects.
+BNP Paribas Asset Management’s extensive engagement with issuers has earned the recognition of several NGOs, as detailed in Inset 7.
+BNP Paribas Cardif is also actively involved as a shareholder, with high voting participation, dialogue with companies and engagement with asset management companies.
+In 2020, BNP Paribas Asset Management continued leading the way in engaging with companies to address climate change, encouraging them to align their lobbying efforts with the goals of the Paris Agreement. BNP Paribas Asset Management filed four shareholder resolutions (Exxon Mobil, Chevron, Delta Airlines and United Airlines) calling for the publication of a report on the efforts made by these companies to align their climate lobbying practices with global warming limited to “well below 2°C” goal set out in the Paris Agreement.
+The resolution filed with Chevron received record support of 53%, and after a much dialogue, the company provided a report including details on the talks that Management held with the unions on the company’s impact in terms of climate related aspects.
+Support for the resolutions filed with Delta Airlines and United Airlines came out at 46% and 31%, respectively. The Exxon Mobil resolution was not submitted to the General Meeting, as the Securities and Exchange Commission (SEC) granted the company’s request to exclude it.
+BNP Paribas Asset Management decided to resubmit the resolution to the shareholders of Delta Airlines and Exxon Mobil at the 2021 General Meeting. After discussing the matter with the company, Exxon Mobile improved its communication on lobbying practices at end-2020.
+As a result of or Following BNP Paribas Asset Management’s proactive commitment, both Chevron and Exxon Mobil, two of the leading companies in the oil sector started to communicate on the alignment of their direct and indirect lobbying activities (through professional associations) with the Paris Agreement. Although the reports are not as detailed as those published by sector leaders in Europe, this is a promising step forward towards greater transparency on such an important issue.
+BNP Paribas Asset Management has been recognised by multiple NGOs for its engagement: • In its March 2020 report entitled “Point of No Returns”, ShareAction ranked BNP Paribas Asset Management No. 2 for its responsible investment strategy. The report analysed and ranked 75 asset managers in 17 countries according to their investment approach to four categories, including climate change. BNP Paribas Asset Management was named as one of the Top 5 asset managers with the highest score in the ranking as a whole.
+• Worldwide, BNP Paribas Asset Management is acknowledged as one of the most dedicated asset managers in this field. In January 2021, UK think tank InfluenceMap published a report on the 30 biggest asset managers in the world addressing climate related issues (“Asset Managers and Climate Change 2021”). BNP Paribas Asset Management is one of the three highest-rated asset managers (with a score of A+). It is one of five to have established a clear, detailed strategy on climate engagement, one of five to be fully transparent on the issue, one of six to have initiated a dialogue with companies on their lobbying activities and influence on the climate, one of six to have co-filed climate related resolutions between 2018 and 2020, and the only one to have supported more than 95% of climate related resolutions over the last three years.
+Inset 6 | Use of voting rights by BNP Paribas Asset Management. 
+Inset 7 | Recognition of BNP Paribas Asset Management’s engagement. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+30. 
+TCFD REPORT 2020. 
+BNP PARIBAS PROVIDES ITS CUSTOMERS WITH GREEN INVESTMENT OPTIONS. 
+BNP Paribas Asset Management offers a wide range of green funds, invested predominantly in alternative energies and energy efficiency, totalling €18.4 billion in assets under management at 31 December 2020. BNP Paribas Asset Management, European leader in sustainable investment thematics and No. 1 French SRI manager in terms of AuM, continues to expand its offer. In 2020: • BNP Paribas Asset Management launched a thematic alternative investment fund called BNP Paribas Environmental Absolute Return (EARTH), implementing a long/short equity strategy aimed at identifying opportunities among companies facing major environmental challenges. These challenges have arisen at a time when increased demand for food, water and energy stemming from global population growth (two billion more people on the planet by 2050) will lead to increased waste and CO2 emissions. Meanwhile the world is simultaneously working towards carbon neutrality by this same date, under the terms of the Paris Agreement. These challenges provide opportunities for investors interested in using their capital to help combat climate change.
+• BNP Paribas Energy Transition continues to grow. The fund invests in opportunities associated with the energy transition, resulting from increased energy demand, the changing energy mix and the need for energy-saving solutions to combat climate change. The concentrated equity portfolio is invested in 40 to 60 European, Asian and US firms engaged in climate change by way of decarbonisation, digitisation and decentralisation. The fund was soft-closed in early 2021 after raising €3.5 billion.
+• the Low Carbon 100 Europe Index®, administered by Euronext and already aligned with the goals of the Paris Agreement for the climate, now complies with the newly established Paris Aligned Benchmark (PAB). This change has been in effect since 10 July 2020.
+BNP Paribas Real Estate’s asset management business also offers funds that address environmental issues. Its Diversipierre fund was one of the first to obtain the French government’s SRI certification in 2020, in recognition of the assessment and oversight applied to its investments since the fund was created 7 years ago.
+In 2020, BNP Paribas Real Estate launched EIPF, the first European institutional real estate fund aligned with the climate goals of the Paris Agreement. Now totalling €160 million, it aims to reduce GHG emissions in its European portfolio by 40% over the next 10 years. To reach this goal, EIPF employs a “Best-in-Progress” approach, aimed at improving the environmental performance of existing buildings in Europe, in all real estate sectors. BNP Paribas Real Estate Investment Management (REIM) developed a bespoke action plan which, combined with strong stakeholder engagement, will help gradually reduce energy consumption and GHG emissions associated with fund assets. The fund will need to quantify its impact in terms of reduced GHG emissions as well as its contribution to the lowcarbon transition.
+Thanks to the investment policy of its retail fund, BNP Paribas Cardif provides its customers with responsible savings products. Its life insurance policies are required to offer sustainable unitlinked vehicles (green or solidaritydriven), as was already the case for BNP Paribas Cardif before the Pacte Act took effect in January 2020.
+BNP Paribas Wealth Management offers responsible products to its private banking customers and continued rolling out its responsible investment policy in 2020, primarily by expanding its range of sustainable products and services in all asset classes. Altogether, responsible assets made up 1/3 of the business line’s AuM in 2020. In its SRI product range, BNP Paribas Wealth Management added new environmental products in 2020 and raised customer awareness of sustainable development issues, including climate change. These initiatives stepped up due to the scope of the health crisis, which steered more investors towards responsible financial products, increased AuM in green funds (funds and ETFs) managed by BNP Paribas Wealth Management (WM) to €6.7 billion by end-2020, a year-on-year gain of 69%.
+#Curve wooden building, (Saint-Denis, France)
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+31. 
+BNP PARIBAS REAL ESTATE IS DEVELOPING A HIGH ENERGY PERFORMANCE REAL ESTATE OFFER 100% of BNP Paribas Real Estate’s commercial real estate business has obtained environmental certification (through the two highest certification standards in the industry), and the company is now in the Top 2% of all firms in the real estate sector assessed by CSR rating platform provider Ecovadis, with a score of 72/100, up 8 points compared to 2019. The environment component improved 10 points to 80/100 between 2019 and 2020.
+In Real Estate Development, BNP Paris Real Estate only proposes projects meeting the highest standards of environmental performance, and contributes to innovation by promoting emblematic projects. BNP Paribas Real Estate recently delivered #Curve, its first woodframe building, in Saint-Denis, one of the largest wooden buildings ever constructed in France. Carbon optimisation was incorporated in its very design, making it a highly exemplary building.
+BNP PARIBAS RAISES THE AWARENESS OF ITS PRIVATE BANKING CUSTOMERS ON ENVIRONMENTAL AND CLIMATE RELATED ISSUES. 
+BNP Paribas Wealth Management ramped up deployment of its educational questionnaire myImpact in 2020. The questionnaire, containing 7-20 questions accompanied by educational spotlights and co-created with customers, gives respondents the chance to express their preferences and priorities in terms of sustainable development, as well as how they would like to contribute. After more clearly identifying their convictions, customers can then work with their advisor to identify sustainable wealth management and financial solutions aligned with their goals. Thus far, the myImpact questionnaire has shown that customers have a clear preference for Sustainable Development Goal Number 13 (“Take urgent action to combat climate change and its impacts”).
+BNP Paribas also advises its clients on their environmental and social philanthropic activities. To that end, BNP Paribas Wealth Management created a Philanthropy Advisory Department in 2008, which offers local donation solutions in line with the Group’s four areas of engagement, including the energy transition.
+In Property Management, BNP Paribas Real Estate applies its expertise to the improvement of energy performance, reduction of operating emissions and optimisation of environmental performance of the buildings under its management through a range of services such as: • Energy sales and management: audit of a building’s energy performance and optimisation offer; • Energy transition: helping owners and companies assess, monitor and fund the energy transition in the real estate sector; • Initiatives to reduce the carbon footprint of real estate assets: energy management, optimised use of raw materials via waste audits, advice on re-use of materials, renewable energy contracts for individual buildings or groups of buildings; • Environmental certifications and labels: analysis of the environmental specifications of assets and certification of buildings to increase economic and intangible value, for example (BREEAM in-use, LEED EB & OM, HQE Exploitation, ISO 50001, ISO 14001); • Assistance with the regulatory component of the environmental challenge (i.e. commercial real estate decree, TCFD); • Sustainable data reports: Sustainable management of data on owners and tenants to comply with ESG reporting requirements and raise awareness of sustainable development.
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+32. 
+TCFD REPORT 2020. 
+BNP Paribas also factors in climate change within its own scope of operations: • BNP Paribas conducts a voluntary policy aimed at reducing its GHG emissions and has been carbon-neutral in its operational scope since 2017; • BNP Paribas supports the soft mobility of its employees; • BNP Paribas raises employees’ awareness and trains its staff in energy and climate related issues.
+2.2.5. BNP PARIBAS IS REDUCING ITS OPERATIONAL EMISSIONS AND RAISING. 
+EMPLOYEE AWARENESS. 
+BNP PARIBAS CONDUCTS A VOLUNTARY POLICY AIMED AT REDUCING ITS GHG EMISSIONS AND HAS BEEN CARBON-NEUTRAL IN ITS OPERATIONAL SCOPE SINCE 2017. 
+The Group is keeping up its efforts to reduce the environmental footprint generated by its own operations, and particularly GHG emissions in its operational scope (direct emissions and indirect emissions associated with energy purchases and business travel). BNP Paribas has implemented a series of initiatives aimed at reducing GHG emissions, minimising transition risks and optimising climate related opportunities: • The Group is reducing its energy consumption, and as of 2019 exceeded its goal of cutting GHG emissions by 25% between 2012 and 2020. The Group generated emissions of 347 kteqCO2, 81% of which attributable to energy used in its buildings, including information technologies, and 19% to business travel. Divided by the total headcount, emissions came out at 1.80 teqCO2/FTE in 2020, down 23% compared to 2019 and 44% compared to 2012. In addition to the economic downturn in 2020 triggered by the Covid-19 epidemic, there are three potential sources of emissions reduction over the long term: energy efficiency of buildings, energy efficiency of IT equipment and optimisation of business travel19; • At the same time, the Group is gradually turning to low-carbon electricity in all countries where it is available. Renewable electricity represented 37% of the Group’s total electricity purchases in 2020 (vs. 35% in 2019). It can be attributed either to purchases of renewable electricity certificates or to direct use of renewable energy produced by Group buildings; •
+• In addition to these initiatives, each year BNP Paribas offsets residual GHG emissions from the previous year for the entire Group. Including additional low-carbon electricity purchases, emissions stood at 340 ktCO2e on 2019.
+Altogether, by taking these actions to reduce the Group’s energy consumption, lower the carbon emissions of energy used, and offset residual emissions, BNP Paribas has been carbon-neutral in its scope of operations since 2017 (covering its direct emissions, indirect emissions generated by energy purchases, and indirect emissions generated by business travel).
+BNP PARIBAS SUPPORTS THE SOFT MOBILITY OF ITS EMPLOYEES. 
+To promote soft mobility, BNP Paribas continued to deploy electric vehicle charging equipment on its sites and to green its service vehicle fleets. In addition, several car-sharing and bicycle-sharing schemes have emerged in France, as in Poland and Italy. Lastly, employee offers were created to encourage them to make the transition to soft mobility (discounts on purchase/leasing, financing, specific bonus).
+BNP PARIBAS RAISES EMPLOYEE AWARENESS AND TRAINS ITS STAFF IN ENERGY AND CLIMATE RELATED ISSUES. 
+BNP Paribas firmly believes that it is vital to raise awareness and train employees, in both their personal and professional lives, to ensure that climate related risks and opportunities are well-integrated in all Group business lines. Accordingly, BNP Paribas has in recent years increased the number of training and awareness-raising sessions on climate related issues, tailored to different audiences, for all its employees: • Together with the CISL (Cambridge Institute for Sustainability Leadership) in England, the Group launched a “Sustainability Leaders’ training programme, which centres much of its curriculum on climate related issues and employs various teaching formats. More than 160 employees divided into four groups have already completed the programme, including a number of major account managers; • The WeEngage training programme, a mini-series of 6 sessions focused on sustainable finance and current environmental challenges (including climate change), was launched in 2020. Available in 5 languages to the Group’s 200,000 employees, the programme has already been completed by nearly 20,000 members of staff; • The Group also continued rolling out the Climate Collage, a serious game about climate change organised as a series of collective intelligence workshops, at various entities. Though hampered by the health crisis in 2020, this awareness-raising campaign has already taken off in France, Belgium, Luxembourg, Portugal and Brazil; • Two of the three key focuses of the global staff support programme “Green Company for Employees”, namely promotion of soft mobility and sustainable use of digital tools, are helping reduce energy consumption and greenhouse gas emissions.
+Finally, over the course of 2020, BNP Paribas ramped up its ESG risk management training initiatives targeting its finance business lines and control functions (RISK, Compliance). In addition to the e-learning modules on sector policies, available in 8 languages, 12 digital sessions were organised in a bid to improve understanding of ESG risks and the associated risk management tools. 668 members of the sales and RISK teams primarily (including Senior Credit Officers) completed training sessions led or co-led by the Group CSR function. Since 2012, more than 35,000 employees have taken e-learning classes on sector policies.
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES 19 | cf section 4.1.4, p 56
+
+
+33. 
+Climate change is generating sizeable impacts on human activities and affecting all economies, business sectors and geographic areas over the short, medium and long term. They are also highly uncertain, as demonstrated by the wide variety of scenarios defined to describe the potential consequences in the decades to come, both from a socio-economic development standpoint and in terms of the physical parameters describing climate change.
+BNP Paribas’ response to these challenges and uncertainties is written into a continuous improvement process, which evolves as developments arise in the scientific and general economic environment, advances are made in methodologies and organisational changes are implemented in the Group. BNP Paribas is continuously building and enhancing the resilience of its strategy and activities by adapting them to these changing circumstances.
+The Bank’s resilience is underpinned by its diversified, integrated business model. The diversity of the Group’s business lines, the business sectors in which the Group operates and the geographic areas in which it is established is a key asset protecting it against risks of all kinds, whether they are transition or physical risks.
+BNP Paribas also incorporates the risks and opportunities associated with climate change at all levels of its business, as detailed in Chapter 2.2. There are two key elements that can be highlighted as contributing significantly to the Group’s resilience to climate related risks: • the ambition of leading the Group’s activities to finance, in accordance with the commitment made with NZBA, a carbon-neutral world in 2050 help reduce the overall transition risks of BNP Paribas, and over the longer term helps reduce GHG emissions responsible for climate change; • the substantial increase in the Group’s ability to incorporate climate related risks and opportunities allows it to continuously adapt its actions and strategy, thanks in large part to the formation of dedicated teams with specific expertise, the mobilization of in-house skill sets (scenario building, data science, mathematical risk modelling) and the strengthening of infrastructure (systems, data).
+The challenges associated with the climate and the energy transition are a key focus of the Group’s strategic planning. The 2022-2025 strategic plan, currently under development, will thus include a sustainable development component, including the energy transition.
+On this basis, no elements were identified that could call into question the resilience of the model and the Group’s strategy in the face of energy and climate issues.
+2.3 RESILIENCE OF GROUP STRATEGY IN VARIOUS CLIMATE SCENARIOS. 
+INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES
+
+
+34. 
+RAPPORT TCFD 2020 3 RISK MANAGEMENT. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE. 
+RELATED RISKS
+
+
+35. 
+Management of risks associated with the climate and the energy transition is incorporated in BNP Paribas’ risk management framework. The framework is gradually being expanded to include advancements in methodologies used to analyse climate related risk factors and transmission channels as well as interactions with traditional risks such as credit risk.
+
+
+36. 
+TCFD REPORT 2020 3.1 PROCESS USED TO IDENTIFY AND ANALYSE CLIMATE RELATED RISKS. 
+FOUR ENVIRONMENTAL RISK FACTORS ARE USED TO INCLUDE CLIMATE CONSIDERATIONS IN THE RISK IDENTIFICATION PROCESS. 
+BNP Paribas incorporates environmental and climate related risk factors in its risk identification process. This process, detailed in Inset 8, also contributes to the assessment of risk materiality.
+They are analysed in accordance with the Group risk identification process: • Four environmental risk factors are used to include climate considerations into the risk identification process • Climate related risk factors are reflected in strategic and commercial risks, credit risks, and to a lesser extent, operational and reputational risks.
+3.1.1. CLIMATE RELATED RISKS ARE INCLUDED IN THE BNP PARIBAS RISK. 
+IDENTIFICATION PROCESS. 
+BNP Paribas updates its risk inventory continuously, in accordance with a consistent process coordinated across the Group. For risk identification and assessment purposes, BNP Paribas Group generates and maintains a risk inventory, via the annual risk identification (Risk ID) process, consisting of a set of individual “severe yet plausible” scenarios (referred to as “risk events”) defined for all ways in which the risks to which BNP Paribas Group is or may be exposed could materialise.
+Each risk identification campaign is based on a global map of risk factors for the banking sector over the short, medium and long term, developed by the Group. The factors underlying changes in the risk incurred by banks include economic, technological, commercial, socio-political and environmental developments, trends and threats, as well as the growing interdependencies among them, which may exacerbate these risks. Of the changes, threats and trends identified, some involve aspects and concerns associated with climate, environmental and social factors.
+Contributors to the risk identification (Risk ID) are asked to assess to what extent these developments threats and threats are material for their scope, and how they could materialise as risk events.
+The risk identification methodology is shared and used in a consistent and coordinated manner across the entire Group. The aim is to identify risk events through 3 components, illustrated in Figure 8:
+Figure 8 | Description of a risk event. 
+BNP Paribas has developed its own risk types and risk drivers classifications (or taxonomies), which are used for risk identification exercises. The purpose of the taxonomy is to standardise the way the severe but plausible risk events that could affect the Group and its entities, in light of their business model, activities, internal operations and environments, are created in the Risk Inventory.
+Each of those two taxonomies encompass three levels, from the most general to the most detailed. They are not static and evolve in response to changes in methodologies, the emergence of new risk types and factors, or new regulatory requirements.
+Inset 8 | Risk identification process
+
+
+37. 
+In this process, four environmental risk factors may be chosen as likely to affect BNP Paribas’ financial or non-financial risks (commercial risk, credit risk, strategic risk, operational risk, etc.):
+PHYSICAL IMPACT. 
+OF CLIMATE CHANGE. 
+ECONOMIC TRANSITION DUE TO CLIMATE CHANGE. 
+LIABILITY CONSEQUENCES. 
+OF CLIMATE CHANGE20. 
+OTHER ENVIRONMENTAL. 
+RISK FACTORS. 
+BNP Paribas can use the results of the risk identification process and Group risk inventory to perform analyses serving to better understand, among other elements, the climate and environmental scenarios generating the greatest impacts for the Group and the types of risks most impacted by climate factors.
+As for the time frame under consideration, the risk identification process calls for the identification and assessment of scenarios liable to arise over a three-year period, which is the time frame employed by the Bank for financial planning purposes. The methodology and process used to identify risks are also applied to detect emerging risks over longer periods, which are more in line with the strategic time frame.
+The above methodology and process are used to identify and assess unlikely risk events.
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+CLIMATE RELATED RISK FACTORS ARE REFLECTED IN STRATEGIC AND COMMERCIAL RISKS, CREDIT RISKS, AND TO A LESSER EXTENT, OPERATIONAL AND REPUTATIONAL RISKS. 
+According to the more specific analysis of how risk factors associated with climate change affect, or could affect BNP Paribas, the types of risk most affected by the climate related risk factors are business and strategic risks and credit risks (see Figure 9):
+Figure 9 | Sankey diagram illustrating the links (in terms of materiality) between risk factors associated with climate change and the types of risks incurred by the Group 20 | Liability consequences of climate change are potential litigations or legal suites brought by a stakeholder having suffered from a climate change event
+
+
+38. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+Of these risks, some have been clarified, based on expert appraisals, by more precisely describing how they are liable to affect different Group activities:
+TRANSITION RISKS • strategic and commercial risks associated with: • the decrease in the value of funds over-exposed to business sectors or companies significantly affected by the transition; • market share losses for specialised subsidiaries whose range of products and services is not evolving fast enough; • credit risk linked to the declining solvency of customers generating high GHG emissions, and thus liable to be significantly affected by mechanisms such as the carbon tax; • operational risks associated with the risk of stricter regulatory requirements or application of a carbon tax on the Group’s direct emissions; • reputational risk; see Table 1, section 2.1.1, p 16. 
+RISKS ASSOCIATED WITH THE PHYSICAL IMPACTS OF CLIMATE CHANGE • underperformance risk by investment funds over-exposed to economic players significantly affected by the direct impacts of climate change; • credit risk arising due to the declining solvency of customers whose manufacturing processes are disrupted by climate change.
+See Table 2, section 2.1.1, p 16. 
+It should be noted that BNP Paribas’ Insurance business, which predominantly comprises borrower’s insurance and life insurance products, is not identified as being significantly affected by physical risks associated with climate change. As explained in Inset 9, this risk is deemed to be limited and under control.
+BNP Paribas Cardif is directly exposed to physical risks in its casualty insurance business (IARD), and more specifically in its multi-risk home (MRH) and automotive insurance business. This exposure is considered as: • under control, because it applies to small, short-term, geographically diversified commitments subject to a reinsurance programme covering climate related events in particular, a programme that is reviewed each year; • limited, due to the characteristics of the commitments and the percentage of MRH and automotive insurance premiums in its total protection insurance business.
+Inset 9 | Physical impact of climate change on the Insurance business
+
+
+39. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+RISK ANTICIPATION EXERCISES, SERVING AS A BASIS FOR THE RISK IDENTIFICATION PROCESS, COVERS CLIMATE RELATED RISKS. 
+For several years now, the Group Risk Function’s Industry and Sector Research Team (“EIS”) has conducted analyses aimed at forecasting the main trends and their sector impacts in order to assess changes in risks and opportunities for corporate customers over the next five to ten years in particular. These sector forecasting analyses, shared internally, are used in particular to steer the strategic oversight of BNP Paribas’ loan book.
+They cover environmental risks, including climate related and energy transition risk factors, as well as associated impacts including aspects such as water shortages. They are regularly updated as needed and as new knowledge is gained.
+These sector forecasting analyses generally apply a detailed methodology to assess sector exposure to the subject of the review (e.g. the energy transition). Sectors with the highest exposure are subject to a detailed analysis in terms of changes, impacts, adaptation, risks & opportunities and winner/loser profiles. Key success factors and recommendations are identified to facilitate company assessments.
+The analyses are shared among members of a body including the Group Chief Risk Officer and the main heads of the Risk Function plus, depending on the subject, the heads of the relevant operational entities, before being disclosed to broader internal groups.
+They are also used to conduct individual analysis of the Bank’s corporate customers and to help incorporate risks in the ESG Action Plan established by the Group (see Section 3.1.2. for more details).
+Finally, these analyses also contribute to the risk identification and classification process described in Section 3.1.1.
+Other risk identification processes take climate related risks into account: • Risk forecasting exercises, serving as a basis for the risk identification process, covers climaterelated risks; • The assessment of country risks and sovereign risks is influenced by climate related risks.
+3.1.2. CLIMATE RELATED RISKS ARE ALSO INCORPORATED IN OTHER GROUP RISK. 
+IDENTIFICATION PROCESSES
+
+
+40. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+Climate related risk factors are liable, for example, to affect the quality of a country’s business environment and its creditworthiness as a sovereign issuer.
+One of the limits of this approach is the risk of duplicate accounting of macroeconomic risks (inflation, debt, current account imbalances, sociopolitical instability, etc.). Consequently, the approach adopted by the Bank is to present a physical and transition risk profile for each country under review. This approach relies on a series of external indicators, led by NDGain metrics, illustrated in Figure 11, broadly followed by the financial community.
+Figure 11 | Notre-Dame Global Adaptation (ND-GAIN) Index. 
+The ND-Gain Index summarises a country’s “current vulnerability to climate disruptions” (on par with “physical risk”) and assesses its “readiness to provide private- and public-sector funding for adaptation initiatives” (on par with “transition risk”).
+Sources: NDGain, Macrobond, STFS.
+THE ASSESSMENT OF COUNTRY RISKS AND SOVEREIGN RISKS IS INFLUENCED BY CLIMATE RELATED RISKS. 
+Furthermore, the STFS (Stress Testing & perFormance Synthesis) teams of the RISK Function include climate related risk factors in their analysis of country risks and sovereign risks, as illustrated in Figure 10. Country risks are examined during the assessment of the creditworthiness of a country’s corporate counterparties. Sovereign risks are central in the analysis of risks associated with sovereign debt and with exposures to the country’s financial institutions.
+These climate analyses expand on the usual sources of information reviewed during country budget committee meetings, at which the Group’s Economical Research presents the socio-economic and financial environment and the General Management, Business Lines and RISK define the Group’s maximum exposures to given countries for the coming year.
+Figure 10 | Illustration of the country risk/sovereign risk cycle
+
+
+41. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+CLIMATE RELATED FACTORS ARE INCLUDED IN THE SCENARIOS USED TO ASSESS THE ROBUSTNESS OF THE BANK’S ACTIVITY IN RESPONSE TO VARIOUS SHOCKS. 
+Scenario-based analysis is an integral part of the Bank’s risk management and financial oversight system.
+In 2017, the Group established a Stress Testing and Extended Planning (STEP) programme aimed at effectively meeting the various regulatory stress testing requirements and developing the internal stress testing practices necessary for sound Group risk management and resource planning.
+Climatic scenario analyses benefit from the quantitative expertise and technologies developed by the STFS (Stress Testing & perFormance Synthesis) team and also rely on areas of expertise available from the Bank, particularly in the RISK Department (Industry and Sector Research, RISK ESG Centre of Expertise, described p 11) and the Group CSR teams, and from a research partnership established with École Polytechnique’s applied mathematics lab (CMAP).
+Scenario-based analysis, which is central to the assessment of BNP Paribas’ risks, incorporates climate related risks: • Climate related factors are included in the scenarios used to assess the robustness of the bank’s activity in response to various shocks; • BNP Paribas contributes to the collective development of climate related risk factors and scenario methodologies.
+3.1.3. BNP PARIBAS INCORPORATES CLIMATE RELATED RISKS IN ITS. 
+SCENARIO-BASED ANALYSIS SYSTEMS
+
+
+42. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+BNP PARIBAS CONTRIBUTES TO THE COLLECTIVE DEVELOPMENT OF CLIMATE RELATED RISK AND SCENARIO METHODOLOGIES. 
+Regulatory authorities and central banks in different countries organise pilot programmes aimed at testing methodologies used to assess bank resilience to climate change risks.
+BNP Paribas takes part in these programmes, particularly those of the European Banking Authority (EBA) and the ACPR (French Prudential Supervisory and Resolution Authority), launched in 2020. While the EBA programme is based in majority on a top-down methodology, the ACPR programme uses internally developed methodologies.
+The ACPR exercise is ambitious by its scope, horizon and methodology. It covers the Group’s entire scope of credit, counterparty and market risks over a 30-year horizon. The measured impacts allow differentiation of the different sectors under three transition scenarios based on granular economic assumptions provided by the ACPR and the use of the Bank’s internal models. This work also incorporates a dynamic view of the Bank’s portfolio.
+Participation in this exercise allowed the group to incorporate the climate context into its scenario analysis, by mobilizing all stakeholders. Overall, the results show a moderate sensitivity to transition risk factors, and suggest that certain components of the analysis should be refined, particularly in sectors with higher sensitivities.
+BNP Paribas employs a variety of scenarios in these programmes, as illustrated in Figure 12.
+Figure 12 | Types of scenarios used by BNP Paribas
+
+
+43. 
+Furthermore, alongside these two initiatives, BNP Paribas participates in the exercises organised by the Climate Financial Risk Forum (CFRF), launched by the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA) in 2019. The CFRF is comprised of financial institutions (banks, insurance companies, asset managers), with the goal of sharing best practices in terms of climate related risk management. In June 2020, it published a preliminary guide for the financial sector, containing a chapter addressing Scenario Analysis (other topics included Risk Management, Disclosures and Innovation). A second guide on how to use these regulatory scenarios – in principle those prepared by the NGFS for use by moderate-sized financial institutions – is scheduled to be published for COP26 in November 2021. The NGFS scenarios are illustrated in Figure 13.
+It is worth noting that the above models incorporate both physical and transition risks, which allows the Group to grasp the efforts associated with the energy transition and the impact of climate change. Other scenarios not mentioned above, such as the IEA scenarios describing the efforts needed to reduce carbon dioxide emissions, are also used by the Group in other situations, for example in aligning its loan book with the goals of the Paris Agreement (see Section 4.1.1).
+Lastly, as a member of national, European and international professional banking organisations, BNP Paribas actively participates in industry-wide efforts to promote greater convergence of climate related risk analysis methodologies.
+Figure 13 | Scenarios identified by NGFS21. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS 21 | Source: https://www.ngfs.net/sites/default/files/medias/documents/ ngfs_first_comprehensive_report_-_17042019_0.pdf
+
+
+44. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+The consolidated assessment of climate related risk factors weighing on diversified portfolios still raises challenges in terms of methodologies and data availability. BNP Paribas and its subsidiaries are testing multiple avenues along that line: • Pilot programmes are being conducted to explore the measurement of the impact of physical risks on the loan books; • BNP Paribas’ asset management subsidiaries are testing methods for estimating the impacts of physical and transition risks on their investment portfolios.
+3.1.4. EXPLORATORY WORK LOOKING TO ESTIMATE THE IMPACT OF CLIMATE. 
+RELATED RISKS ON CREDIT AND INVESTMENT PORTFOLIOS.
+Figure 14 | Illustration of the 2020 pilot programme methodology. 
+PILOT PROGRAMMES ARE BEING CONDUCTED TO EXPLORE THE MEASUREMENT OF THE IMPACT OF PHYSICAL RISKS ON THE LOAN BOOKS. 
+Following the pilot programme conducted in 2019, BNP Paribas worked with an external service provider (S&P TruCost) to assess the physical risks represented in its loan book under a new pilot programme in 2020. Six major climaterelated impacts were modelled:
+WATER STRESS. 
+SEA LEVEL. 
+RISE FLOODS WILDFIRES HURRICANES HEAT WAVES. 
+The pilot study was conducted using three climate change scenarios (extreme, moderate and low) modelled for 2020, 2030 and 2050. The most extreme scenario corresponds to an average global warming of more than 4°C by 2100, in line with IPCC Scenario RCP 8.522. The approach implemented, as illustrated in Figure 14, contains the following steps: • Individual risks are projected over three time frames and, in each of the three scenarios, compared against global benchmarks; • The assets held by BNP Paribas clients are paired with the matching physical locations extracted from the provider database (including the registered office and manufacturing plants).
+• Each of the company’s assets is associated with a set of gross physical risk scores (one for each individual risk), reflecting the physical risks of their given location (exposures); • Given that certain business activities may be more vulnerable than others to a given climate related risk, the methodology subsequently introduces exposures to specific risks (vulnerabilities), defined at the counterparty level; • The gross physical scores and vulnerabilities are combined to generate a set of scores, adjusted for vulnerability to the risk in question, at the counterparty level; • A vulnerability-adjusted composite score is generated at the counterparty level, combining all risks.
+22 | RCP 8.5 is the worst-case representative concentration pathway d7veloped by the IPCC and should be considered as a high GHG emissions scenario.
+
+
+45. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+Figure 15 | Example of representations of climate related risks impacting the loan book. 
+This assessment was used to assign physical risk scores to around 1,700 customers representing €200 billion in outstanding loans. The majority of the sample presented a low level of physical risk in this assessment. In general, the highest climate related risk scores stem from water stress (in all geographic region) and wildfires (primarily in the US). Customers with the greatest exposure operate in the utilities sector, with assets in the US and Mediterranean Europe, largely owing to their exposure to water stress and wildfires. The charts in Figure 15 below illustrate some results of the pilot study.
+Distribution of customer assets in the Utilities sector by water stress risk level (high, medium, low)
+Example of individual customer assets located in areas subject to the greatest risk of water stress and with high vulnerability to this risk (RCP 8.5, 2050)
+The overall comparison of these results with three benchmark standards (S&P Europe 350, S&P 500, S&P Asia BMI) does not uncover any atypical characteristics in the customer portfolio analysed in terms of physical risk exposure. Nevertheless, because the methodologies are evolving, this analysis will be gradually refined over time, as will the data used.
+BNP PARIBAS’ ASSET MANAGEMENT SUBSIDIARIES ARE TESTING METHODS FOR ESTIMATING THE IMPACTS OF PHYSICAL AND TRANSITION RISKS ON THEIR INVESTMENT PORTFOLIOS. 
+BNP Paribas Asset Management. 
+BNP Paribas Asset Management works with a specialised research firm that provides a score related to physical risk, which can be integrated and used to improve the qualitative investment analysis of a given issuer. Physical risk scores include three key components: operational risk, supply chain risk and market risk. The scores are standardised to allow the climate change exposure of different companies to be compared through different portfolios. Two measures are used to assess market risk: where the company generates its sales and how its indus- try has reacted in the past to climate variability. In terms of data access, the assessment of physical risks is covered as follows: • operational risk scores (based on entity-level mapping) are provided for more than 5,000 entities; • scores for supply chain risk and market risk are available for 12 800 companies, covering 100% of the components of the following indices: MSCI World, MSCI EM, S&P Global Large-Mid and Barclays EUR Corporates.
+
+
+46. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+This assessment also serves to identify the climate hazards that generate the greatest risk for BNP Paribas Cardif portfolios. Figure 17 presents the average score of companies in the portfolio of stocks and bonds directly held by BNP Paribas Cardif for each risk metric, along with their maximum and minimum scores.
+According to the results obtained, the portfolio of directly-owned corporate assets is apparently more exposed to water stress than to the other climate hazards (which is still very limited).
+BNP Paribas Cardif assesses its exposure to transition risks. Two avenues are explored with an external provider: • the estimate of at-risk EBITDA generated by the directly-held equity and bond portfolios, calculated by applying future carbon prices to the carbon footprint of the portfolio companies; • assessment of exposure to stranded assets.
+0% 10% 20% 30% 40% 50% 60% 0-10 11-20 21-30 31-40 41-50 51-60 61-70 71-80 81-90 91-100. 
+Corporate equity and bond portfolio Benchmark composite index. 
+Figure 16 | Physical risk exposure of corporate assets held directly by BNP Paribas Cardif. 
+Figure 17 | Average scores, by type of physical risk, of companies in the equity and bond portfolio held directly by BNP Paribas Cardif 0
+20 3.3 3.6 40 60 80 100. 
+Fires Cold snaps Heatwaves Water Stress Coastal flooding Flooding Hurricanes. 
+BNP Paribas Cardif Benchmark Composite index Maximum Average 1.9 1.7 1.7 1.8 1.8 2 5.4 5.3 2.5 3.1 3.6 4.2 23 | BNP Paribas Cardif uses a strong climate change scenario (RCP 8.5), established by the IPCC for 2050.
+BNP Paribas Cardif. 
+BNP Paribas Cardif has called on an external provider to test an assessment of the physical risk exposure of its directly-owned corporate assets. Seven climate events are examined: wildfires, cold waves, heat waves, water stress, coastal floods, floods and hurricanes. Trends in these seven climate events were analysed over the long term, in accordance with a high climate change scenario23.
+This assessment is used to geographically map out the random events liable to affect physical assets and to estimate a physical risk score for portfolio companies. The score ranges from 1 (minimum risk) to 100 (maximum risk). 2020 results, presented in Figure 16, ranked 72% of portfolio companies in the two lowest risk deciles and showed that the portfolio was less exposed than the benchmark index.
+
+
+47 3.2 CLIMATE RELATED RISK MANAGEMENT PROCESS AND INCORPORATION IN OVERALL RISK MANAGEMENT. 
+BNP PARIBAS HAS TAKEN SEVERAL INITIATIVES TO INCORPORATE CLIMATE RELATED RISK FACTORS IN ITS RISK MANAGEMENT FRAMEWORK. 
+In 2012, BNP Paribas began launching multiple initiatives to incorporate climate related risk factors in its risk management framework and promote the energy transition in accordance with the Paris Agreement.
+Today, management of climate related risk factors is built on: • the risk identification process coordinated by the RISK Function, the purpose of which is to identify and assess the impacts of risks on Group activities, including climate related risk factors; • The Global Credit Policy and specific credit and rating policies, which have contained clauses addressing corporate social responsibility (including the climate) since 2014 and 2012, respectively.
+• financing and investment policies (sector policies) governing its activities in sectors involving major energy and climate related issues. These policies, published on the Group website24, cover the following business sectors in particular:
+COAL-FIRED POWER. 
+GENERATION. 
+NUCLEAR ENERGY MINING INDUSTRY PALM OIL. 
+WOOD PULP AGRICULTURE UNCONVENTIONAL OIL & GAS INDUSTRY • observation of the Equator Principles in the conduct of major manufacturing and infrastructure projects; • customer due diligence processes which incorporate ESG criteria; • CSR metrics included in the BNP Paribas Risk Appetite Statement (RAS).
+Under the ESG Action Plan, the Group also develops portfolio analysis processes for the purpose of monitoring and supervising its portfolio’s exposure to climate related risk factors, and is designing the ESG assessment of corporates based on five ESG criteria, including climate a systematic requirement (ESG Assessment, detailed below).
+Climate related risks are incorporated via multiple risk management framework: • BNP Paribas has taken several initiatives to incorporate climate related risk factors in its risk management framework; • Climate related risk factors are included in BNP Paribas’ overall risk identification framework process • The analysis of ESG risks, particularly climate related risks, is already included in BNP Paribas’ operational lending processes; • Enhancement of the Group’s ESG framework was structured under a multi-year programme, the ESG Action Plan, under the responsibility of two members of the Group Executive Committee; • A systematic ESG assessment of major corporate customers is currently being implemented.
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS 24 | https://group.bnpparibas/en/financing-investment-policies
+
+
+48. 
+TCFD REPORT 2020. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+CLIMATE RELATED RISK FACTORS ARE INCLUDED IN BNP PARIBAS’ OVERALL RISK IDENTIFICATION PROCESS. 
+Through its risk identification process, the RISK Function identifies and assesses the impact of climate and energy-related risk factors.
+In 2020, the RISK Function continued its efforts to adapt its ESG risk management framework by creating a dedicated team, namely the RISK ESG Centre of Expertise (see section 1.2 p 11).
+The RISK Function also made progress in incorporating the ESG risk analysis in the Group’s corporate customer lending process, which will be further strengthened under the ESG Action Plan.
+THE ANALYSIS OF ESG RISKS, PARTICULARLY CLIMATE RELATED RISKS, IS ALREADY INCLUDED IN BNP PARIBAS’ OPERATIONAL LENDING PROCESSES. 
+For 10 years now, BNP Paribas has analysed corporates with respect to climate related risk, particularly in accordance with sector policies. This analysis was strengthened in 2018, with the confirmation of the RISK Function’s role as the second line of defence against ESG risks. The ESG analysis of corporate customers is largely incorporated in the operational risk supervision process, via the lending process, enabling RISK to perform its control duties.
+Depending on the sector and type of customer, the credit review should contain an ESG section including analysis components with respect to ESG criteria, but also in some cases an analysis of major controversies, which are examined when making the final credit decision alongside other risk analysis criteria.
+To that end, analytical grids should be appended to the credit file, after being reviewed by the CSR teams when required by existing procedures. Since the Sector Policies were implemented, questionnaires have been rolled out Groupwide to ensure that corporate customers meet all requirements, particularly with respect to the climate.
+Furthermore, several training programmes have been deployed to improve ESG risk awareness and improve knowledge when it comes to identifying and analysing ESG risks on both the first and second lines of defence. The development of these programmes is regularly improved thanks to the joint involvement of the CSR and RISK teams.
+Figure 18 | Group ESG risk management framework
+
+
+49. 
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS. 
+ENHANCEMENT OF THE GROUP’S ESG. 
+FRAMEWORK WAS STRUCTURED UNDER A MULTI-YEAR PROGRAMME, THE ESG ACTION PLAN, UNDER THE RESPONSIBILITY OF TWO MEMBERS OF THE GROUP EXECUTIVE COMMITTEE. 
+In 2020, the Bank further strengthened the Group ESG strategy by launching a special multi-year plan, i.e. the ESG Action Plan, conducted under the responsibility of the Head of Engagement and the Chief Risk Officer. The primary goals of the programme are to: • define Group ESG principles and standards for the purpose or establishing a shared set of concepts, transaction classification principles, indicators and ESG reports; • establish an approach for analysing the ESG profiles of Group customers, i.e. the ESG Assessment, in order to identify corporates whose weak ESG risk management performance could generate credit, investment or reputation risks, as well as negative environmental and social impacts. This approach is further explained in the section below; • strengthen portfolio analysis methodologies, by using the PACTA (Paris Agreement Capital Transition Assessment) methodology to align the loan book with the Paris Agreement and actively participating in market wide exercises, such as those run by the ACPR, on the analysis of climate scenarios; • provide the Group with an ESG data platform comprised of internal and external non-financial information shared throughout the Group.
+A SYSTEMATIC ESG ASSESSMENT OF MAJOR CORPORATE CUSTOMERS IS CURRENTLY BEING IMPLEMENTED. 
+Under the ESG Action Plan, the ESG Assessment aims to systematically conduct an ESG analysis as part of the lending process, thereby incorporating ESG criteria alongside the other parameters included in the evaluation of the counterparty’s credit profile.
+It covers an environmental and climate performance assessment. The related questionnaires are specific to each sector to better incorporate the challenges and issues of the climate transition in their business operations.
+By using this analysis tool, the assessment of corporate clients will be expanded. It will assess how well they are prepared to manage all ESG issues, their compliance with BNP Paribas sector policies, and their strategies and commitments to meet the challenges and address the risks specific to their sector in terms of ESG. The Bank will thus be better able to evaluate the ESG profile and pathways of its customers. In turn, it will be able to optimally identify the resulting risks and opportunities, and consequently adapt its customer support and management of associated risks.
+With the deployment of the ESG Assessment, included in the credit file applications for all corporate sectors and business groups, RISK will be able to conduct an enhanced control on ESG dimensions during the Credit Committees, on a better-documented basis.
+
+
+50. 
+RAPPORT TCFD 2020 4 METRICS AND. 
+TARGETS USED TO ASSESS AND MANAGE. 
+CLIMATE RELATED RISKS. 
+AND OPPORTUNITIES
+
+
+51. 
+Incorporation of climate related issues in the strategy, offer, risk management and, in general, all activities of BNP Paribas relies on the definition and establishment of metrics. These metrics, chosen not only to measure the impacts of the Group’s activity on climate change and the efforts it makes to reduce these impacts, but also its contribution to the energy transition, are evolving in line with its continuous improvement approach. Some, particularly aggregate metrics used to estimate the climate footprint of diversified portfolios, are still under construction: multiple collective methodology initiatives are currently being developed with the active participation of BNP Paribas.
+
+
+52. 
+TCFD REPORT 2020 4.1 BNP PARIBAS HAS ESTABLISHED METRICS TO ASSESS, MONITOR AND OVERSEE CLIMATE RELATED ISSUES. 
+BNP PARIBAS APPLIES THE PACTA METHODOLOGY FOR MEASURING THE ALIGNMENT OF ITS LOAN BOOK WITH THE GOALS OF THE PARIS AGREEMENT. 
+Since 2018, the Group has agreed, as a founding member and contributor, in conjunction with four other international banks (the Katowice banks), to use the PACTA methodology25 and to measure the alignment of its loan book with the goals of the Paris Agreement, starting with five high-carbon sectors (fossil fuel extraction, power generation, transport, steel and cement). These five sectors account for approximately 75% of direct energy-linked CO2 emissions in the world, according to the International Energy Agency (IEA). The method, tailored to each sector, employs benchmark scenarios used and developed by independent organisations, such as the IEA, for instance.
+The objective of the Katowice banks is to share, as broadly as possible, the tools used to measure the alignment of their loan books with the goals of the Paris Agreement and thus improve comparability and transparency vis-à-vis their external stakeholders by basing their measurements on industry-wide standards. To that end, two documents were published in 2020: • an overall methodology document detailing the basic principles of PACTA26; • an application document, co-written by the Katowice banks suggesting methodology improvements with the aim of ensuring that the indicators used promote the transition of the sectors under review and operational feedback that can help other banks measure their own alignment27.
+In 2020, BNP Paribas continued working to expand its analyses to the Shipping and Oil & Gas sectors.
+Driven by its ambition of aligning its activities with the goals of the Paris Agreement and its commitment through the Net Zero Banking Alliance, BNP Paribas is working, both internally and in collaboration with its stakeholders, to gradually refine a set of metrics tailored to the variety of its business lines and its direct and indirect impacts on climate: • BNP Paribas measures the alignment of its loan book with carbon neutrality scenarios; • BNP Paribas explores methodologies for measuring the climate footprint of its investment portfolios; • BNP Paribas measures its contribution to the energy transition of its customers; • BNP Paribas measures its operational GHG emissions; • BNP Paribas supports a variety of collective methodology initiatives.
+4.1.1. BNP PARIBAS MEASURES THE ALIGNMENT OF ITS LOAN BOOK WITH. 
+CARBON NEUTRALITY SCENARIOS 25 | Paris Agreement Capital Tansition Assessment 26 | https://www.transitionmonitor.com/wp-content/uploads/2020/09/
+PACTA-for-Banks-Methodology-Document.pdf 27 | https://group.bnpparibas/uploads/file/credit_portfolio_alignment_vf.pdf
+
+
+53. 
+BNP PARIBAS MEASURES AND PUBLISHES THE ELECTRICITY AND ENERGY MIXES FINANCED BY THE GROUP AND THEIR CARBON INTENSITY. 
+By applying the PACTA methodology to the portfolio of loans issued to corporates in the electricity sector, the Bank was able to calculate two alignment measurement indicators. These calculations apply to 90% of the loan book and provided an overview of the portfolio’s alignment at end-2020 and a projection of its alignment by 2025.
+BNP Paribas elected to use the Sustainable Development Scenario (SDS) developed by the IEA for OECD countries as a reference, in order to remain consistent with the Group’s ambition of compatibility with the goals of the Paris Agreement. Choosing this scenario, which is more ambitious than the SDS developed for the world as a whole, is also consistent with the portfolio of electricity producers funded by BNP Paribas, most of which operate in the OECD region.
+The projection takes into account: • the strategies of Group customers leading them to change their sources of electricity generation; and • the impact of the Group’s commitment to no longer fund companies using coal to generate electricity by 2030 in the European Union and OECD countries, and by 2040 in the rest of the world.
+METRICS AND TARGETS. 
+Figure 19 | Electricity mix funded by BNP Paribas compared to global mix, in generation. 
+Figure 20 | Electricity mix funded by BNP Paribas compared to IEA’s SDS scenario subset for the OECD, in capacity (PACTA methodology)
+Figure 21 | Projected change in carbon intensity of BNP Paribas loan book compared to IEA’s SDS scenarios (PACTA methodology)
+BNP Paribas also measures the primary energy mix funded by the Bank (Figure 22). With a much lower percentage of coal compared to the world mix, the Group’s primary energy mix compares favourably against the global mix calculated by the IEA.
+The electricity mix, calculated using the same methodology as in previous years, based on generation as opposed to the calculation under the PACTA methodology, showed a smaller average carbon footprint than that of the global mix. In 2020, with 42.2% fossil fuel sources (gas, coal and oil) and 34.7% renewable sources (hydro, wind, solar and other renewable energies), it compared favourably to the IEA mix at 63% fossil fuels and 26.6% renewable energies (Figure 19).
+The calculation of the electricity mix, in capacity, according to the PACTA methodology, also shows a less carbon-intensive loan portfolio that is more oriented towards renewable energies both in 2020 and by 2025 when compared to the IEA’s SDS scenario (Figure 20).
+The portfolio’s carbon intensity is the second indicator calculated using the PACTA methodology. Illustrated in Figure 21, it is lower than the global average and in line with that of the IEA’s SDS for OECD countries through 2030.
+Figure 22 | Primary mix funded by BNP Paribas compared to global mix 0 % 5
+10 15 20 25 30 35 40. 
+Nuclear Gas Oil Coal Wind, Solar and other renewables. 
+Hydro. 
+BNP Paribas 2017 BNP Paribas 2018. 
+BNP Paribas 2019 BNP Paribas 2020 World(WEO) 2019. 
+BNP Paribas 2020 Loan Portfolio. 
+SDS World SDS OECD. 
+SDS Europe 0
+gCO2/kWh 600 500 400 300 200 100 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 0 % 10 20 30 40 50 60 70 80 90 100 2020 Portfolio 2025 Portfolio OCDE Economy 2019 SDS OECD 2025 10,4% 6,9% 17,1% 9,6% 21,0% 21,5% 29,6% 26,2% 3,6% 3,5% 5,3% 2,6% 8,6% 7,0% 9,3% 7,7% 13,9% 15,0% 15,4% 14,2% 42,5% 46,1% 23,3% 39,7%
+Coal capacity Gas capacity Oil capacity. 
+Nuclear capacity Hydro capacity Other renewables capacity 0 % 10 20 30 40 50 60 70. 
+BNP Paribas 2017 BNP Paribas 2018. 
+BNP Paribas 2019 BNP Paribas 2020 World(AIE) 2019. 
+Oil Coal Gas
+
+
+54. 
+TCFD REPORT 2020. 
+BNP PARIBAS CARDIF APPLIES VARIOUS CLIMATE RELATED INDICATORS TO ITS INVESTMENT PORTFOLIOS. 
+BNP Paribas Cardif also publishes multiple reporting indicators on its investment portfolio, listed in Table 4. They are presented and developed in detail in the report covering its Responsible Investment Strategy25.
+In particular, BNP Paribas Cardif has published the temperature of the portfolio’s directly-held securities since 2017, using several calculation methodologies. As there is currently no benchmark methodology approved by the financial supervisors, BNP Paribas Cardif uses two methods generating varying results: • Carbon Impact Analytics (CIA), performed using data provided by consulting firm Carbone 4 in conjunction with Mirova; • Science-Based 2°C Alignment (SB2A), performed by I Care & Consult.
+BNP Paribas Cardif presents the results of both methods to foster discussion in the marketplace. By researching and assimilating appropriate new metrics, climate related goals can be incorporated in long-term investment decisions.
+Both methods are predominantly based on the 2°C Scenario (2DS) promoted by the International Energy Agency. The climate performances of companies are analysed and compared to what they should be in a low-carbon scenario, and the performance gap is converted into a “temperature equivalent”.
+The portfolio temperatures resulting from the application of the two methods, presented in Table 5, vary significantly, with those determined using the SB2A method turning out significantly lower. This is because the CIA method incorporates the carbon performance generated by the company’s current business without including its past or promised reduction efforts, which tends to increase the “temperature equivalent” of the portfolio.
+BNP PARIBAS ASSET MANAGEMENT ESTIMATES THE CARBON FOOTPRINT OF ITS INVESTMENT PORTFOLIOS. 
+BNP Paribas Asset Management measures and publishes the carbon footprint of its investment portfolios, a measurement of financed GHG emissions. The approach consists of defining the carbon footprint of each company within the portfolio. The carbon footprint of the portfolio as a whole is the weighted average of the carbon footprints of each company in which it is invested. The carbon footprint corresponds to the percentage of company emissions that can be attributed to the fund, and is a function of the percentage held in each company. These statistics appear in the monthly fund reports and are compared to the emissions of the benchmark indices26.
+At this point only Scope 1 & 2 direct and indirect emissions of portfolio companies are included.
+METRICS AND TARGETS 4.1.2. BNP PARIBAS EXPLORES METHODOLOGIES FOR MEASURING THE CLIMATE. 
+FOOTPRINT OF ITS INVESTMENT PORTFOLIOS. 
+Table 4 | Main climate related reporting indicators applied to BNP Paribas Cardif investments. 
+ASSET CLASS INDICATOR PURPOSE. 
+CORPORATE BONDS. 
+Avoided emissions, in tCO2e/€m invested. 
+Quantify the impact of investments in terms of GHG emissions. 
+GOVERNMENT BONDS. 
+Carbon intensity, in tCO2e/€m of GDP. 
+Quantify the impact investments in terms of global warming. 
+Share of each energy source in the country energy mix. 
+Knowing and monitoring the alignment of the energy mix of investments with the energy mix leading to the 2°C pathway (IEA, 2025/2050)
+EQUITIES AND BONDS ISSUED BY ELECTRICITY GENERATING COMPANIES. 
+Share of each energy source in electricity production. 
+Knowing and monitoring the alignment of the energy mix of investments in utilities with the energy mix leading to the 2°C pathway (IEA, 2030)
+CORPORATE EQUITIES AND BONDS. 
+Carbon intensity, in tCO2e/€m of revenue and in tCO2e/€m of entreprise value. 
+Determine the contribution of investments to global warming. 
+Portfolio temperature, in °C. 
+Determine the global “warming potential“ of portfolios. 
+METHODOLOGY USED YEAR EQUITY PORTFOLIO. 
+BOND PORTFOLIO. 
+SB2A 2020 2.6°C 2.4°C. 
+CIA 2020 3.5°C 2.8°C. 
+Table 5 | Estimated temperatures of BNP Paribas Cardif portfolios 25 | available on https://www.bnpparibascardif.com/en/ corporate-social-responsability 26 | for more details, refer to https://www.bnpparibas-am.com/en/ sustainability/
+
+
+55. 
+In its various business lines, BNP Paribas measures the deployment of products and services developed to help its customers achieve their own energy and ecological transition.
+4.1.3. BNP PARIBAS MEASURES ITS CONTRIBUTION TO THE ENERGY TRANSITION OF. 
+ITS CUSTOMERS. 
+METRICS AND TARGETS. 
+THIS YEAR IN CORPORATE AND INSTITUTIONAL BANKING: • The amount of funding allocated to the renewable energy sector was €17.8 billion, already close to the €18 billion target set for end-2021, one year ahead of schedule; • BNP Paribas was the world’s No. 2 player on the green bond market according to Bloomberg, totalling €10.8 billion as a bookrunner for its customers; • BNP Paribas underwrote Sustainability Linked Loans (SLLs), setting GHG emissions reduction as one of their criteria, totalling €4.5 billion27; • the climate indices launched by BNP Paribas raised €1.4 billion, bringing the total raised since 2015 to €4.1 billion.
+THIS YEAR IN RETAIL BANKING AND SPECIALISED BUSINESS LINES: • French Retail Banking’s support for the energy transition of French SMEs amounted to €3.1 billion; • Green loans issued by BNP Paribas Fortis to finance home energy efficiency renovations amounted to €3.75 billion; • Approximately £21 million was allocated in the UK for home renovations in 2020; • The total volume of outstanding loans issued by BNP Paribas Personal Finance for the energy transition stood at €2.2 billion at end-2020, up 5% compared to 2019; • Credit exposure in terms of loans issued by Arval for hybrid and electric vehicles was €2.3 billion in 2020 versus €1.3 billion in 2019; • Take-up of financing solutions for electric car charging stations offered by BNP Paribas Leasing Solutions amounted to €4 million.
+THIS YEAR IN INVESTMENT AND PROTECTION SERVICES: • Green funds managed by BNP Paribas Asset Management, invested predominantly in alternative energies and energy efficiency, totalled €18.4 billion in AuM at 31December 2020; • BNP Paribas Asset Management opposed 451 resolutions at 66 General Meetings (vs. 61 at 16 GMs in 2019), largely for climate related reasons, and voted for 32 shareholder proposals in the environment and climate change fields; • The market value of BNP Paribas Cardif’s positive-impact investments with environmental themes amounted to €8.1 billion at end-2020, of which €3.9 billion in green bonds and €2.9 billion in certified real estate; • Assets under management in green funds (funds and ETFs) managed by BNP Paribas Wealth Management (WM) came to €6.7 billion at end-2020, up 69% since end-2019; • European Impact Property Fund (EIPF), launched by BNP Paribas Real Estate Investment Management in 2020 with the goal of aligning with the Paris Agreement, had recorded capital commitments of €160 million by the end of the year.
+27 | BNP Paribas’s share in syndicated loans
+
+
+56. 
+TCFD REPORT 2020 63,8% Electricity 7,6% Air travel 13,1% Natural gas 10,2% Road travel 3,1% Disctrict heating 0,8% Rail travel 1% Fuel oil 0,4% District cooling. 
+Divided by the Group’s total headcount, GHG emissions came out at 1.8 teqCO2/FTE in 2020, down 23% versus 2019 and more than 40% versus 2012 (Table 6).
+This calculation thus includes all of the Group’s direct emissions (Scope 1) and indirect emissions related to energy purchases (Scope 2), as well as indirect emissions associated with business travel (i.e. Scope 3.6 within the meaning of the GHG Protocol).
+Most of BNP Paribas’ Scope 3 emissions are, in principle, funded emissions (i.e. the carbon footprint of its customers). As indicated below, the Group is interested in marketplace methodologies measuring the carbon footprint of banks, such as the Partnership for Carbon Accounting Financials (PCAF).
+A significant portion of the decrease observed in 2020 can be attributed to the Covid-19 pandemic, as fewer employees worked at the Group’s offices and business travel was significantly limited. This reduction must be put into perspective to include the increase in emissions from higher energy consumption linked to remote work. The Group wanted to assess it using averages from recognised external references. It is estimated at approximately 26 kteqCO2 globally.
+METRICS AND TARGETS. 
+Table 6 | Change in BNP Paribas operational GHG emissions since 2012 4.1.4. BNP PARIBAS MEASURES ITS OPERATIONAL GHG EMISSIONS. 
+Each year, the BNP Paribas Group measures and publishes its operational GHG emissions, by converting the energy used in its buildings and in business travel into metric tons of CO2 equivalent (teqCO2, including the six GHG defined in the Kyoto Protocol). The Group’s total emissions stood at 347 kteqCO2 in 2020, which can be broken down as follows (Figure 23):
+Scope 1 49,041 teq CO2 Direct emissions related to burning fossil fuels. 
+Scope 2 233,831 teq CO2 Indirect emissions related to the consumption of imported energy. 
+Scope 3 64,467 teq CO2 Indirect mobility-related emissions. 
+Figure 23 | Distribution of BNP Paribas operational GHG emissions, by type and by scope. 
+INDICATOR 2012 2017 2018 2019 2020 2020 TARGET. 
+GHG EMISSIONS (TEQCO2/FTE) 3.21 2.54 2.45 2.32 1.80 2.41
+
+
+57. 
+The Group: • supports and implements the recommendations of the Task Force on Climate related Financial Disclosures (TCFD) and publishes information in line with these recommendations. In addition to this report, a summary of these disclosures, entitled, “Climate related issues management summary”, is provided in Section 7.6 of the 2020 Universal Registration Document and Annual Financial Report.
+• has also made a commitment to the Science Based Target initiative (SBTi). This coalition supports companies interested in setting environmental targets in line with the goals of the Paris Agreement. In October 2020, the SBTi published a pilot methodology for financial sector companies, updated in April 2021. BNP Paribas is testing this methodology to determine if it is applicable in practice, while communicating regularly with the SBTi; • is interested in other marketplace methodologies measuring the carbon footprint of banks, such as the Partnership for Carbon Accounting Financials (PCAF); • signed the Collective Commitment to Climate Action (CCCA), under the sponsorship of UNEP FI, aimed at supporting banks in their transition to a net zero economy and which published a guide to target setting by Net Zero Banking Alliance (NZBA) signatory banks.
+Furthermore, various stakeholders have assessed BNP Paribas’ climate related commitments and initiatives, and have recognised its performance (Inset 11).
+4.1.5. BNP PARIBAS SUPPORTS A VARIETY OF COLLECTIVE METHODOLOGY. 
+INITIATIVES. 
+The commitments and actions taken by BNP Paribas to combat climate change have been recognised by multiple external organisations.
+Together, these initiatives earned the Group a score of A- in 2020 from the Carbon Disclosure Project (CDP) and a score of 100/100 for its environmental reporting as well as its climate strategy according to the 2020 Corporate Sustainability Assessment (CSA) conducted by non-financial rating agency SAM.
+In 2020, EcoAct ranked BNP Paribas as the best CAC 40 company in terms of climate reporting performance.
+Furthermore, BNP Paribas took first place in ShareAction’s “Banking on a Low-Carbon Future” ranking in 2020. In its report the NGO examined how the 20 largest European banks manage climate change-related risks and opportunities. BNP Paribas was ranked first among the only three banks in the “Leaders” category, with an overall score of 63.2% versus an average of 39.9% for other banks. BNP Paribas particularly stood out in terms of dialogue and collaboration with stakeholders on climate related issues, as well as including climate related criteria in its governance and strategy. This is the second time in in a row BNP Paribas took the crown as the No. 1 European bank for its management of climate related risks and opportunities in the ShareAction “Banking on Climate Change” ranking (report first published in 2017).
+Inset 11 | BNP Paribas’ climate related initiatives are positively viewed by various external players. 
+METRICS AND TARGETS
+
+
+58. 
+TCFD REPORT 2020 4.2 BNP PARIBAS HAS SET QUANTITATIVE TARGETS FOR THE PURPOSE OF MANAGING CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+To strengthen its ambition to align its activities with the objectives of the Paris Agreement, BNP Paribas decided in April 2021 to join the Net Zero Banking Alliance Net Zero Banking Alliance (NZBA), launched by the UN Environment Programme Finance Initiative.
+As a member of this alliance, BNP Paribas commits to: • Align greenhouse gas emissions arising from its credit and investment for own account activities with the path required to achieve carbon neutrality in 2050; • Build on credible transition scenarios published by recognized bodies (IPCC, IEA); • Focus on the most greenhouse gas emitting sectors and playing a key role in the transition to a carbon neutral economy; • Set interim targets, no later than 2030; • Annually publish its progress and the associated action plans.
+In addition, BNP Paribas announced a first intermediate commitment to reduce its credit exposure to oil and gas exploration and production activities by 10% by 2025, a more ambitious trajectory than the IEA’s SDS scenario, aligned with the Paris Agreement. This commitment, now based on credit exposures, will be gradually complemented by other measurement tools, such as CO2 emissions.
+In light of the uncertainties surrounding working methods and business travel due to the global health crisis in 2021, BNP Paribas has reiterated the operational emissions target of 2.31 teqCO2/FTE, set for 2021 before the Covid-19 pandemic.
+BNP Paribas is currently building its strategic development plan for the 20222025 period. Contributing to the Sustainable Development Goals is an important focus of this plan, and was addressed in a Sustainable Business Development Plan defining the energy transition as one of its five themes. This plan will ultimately see the Group’s quantified business targets linked to the energy transition updated and clarified.
+Pending these new targets, the energy transition funding targets in effect remain unchanged: • €18 billion in funding for the renewable energy sector by end-2021 • allocating €1 billion to fund the ecological transition of vessels by 2025.
+Other targets have been set for certain business lines. Key targets are summarised in the Table 7, on following page.
+The Group also set a broader energy transition goal of increasing the amount of loans granted to corporate customers promoting the energy transition and in sectors considered as contributing directly to the United Nations Sustainable Development Goals (SDGs) by €10 billion on average from 2019 to 2021 (the total stood at €188 billion in 2020).
+BNP Paribas’ initiatives in response to climate related issues are centred on multiple objectives: • BNP Paribas commits to align its credit and investment for own account activities with a carbon neutrality path; • BNP Paribas is reviewing its energy transition funding targets for the purposes of defining its 2022-2025 strategic plan; • BNP Paribas has set operational GHG emissions reduction targets.
+4.2.1. BNP PARIBAS COMMITS TO ALIGN ITS CREDIT AND INVESTMENT FOR OWN. 
+ACCOUNT ACTIVITIES WITH A CARBON NEUTRALITY PATH 4.2.3. BNP PARIBAS HAS SET OPERATIONAL GHG EMISSIONS. 
+REDUCTION TARGETS 4.2.2. BNP PARIBAS IS REVIEWING ITS ENERGY TRANSITION FUNDING TARGETS. 
+FOR THE PURPOSES OF DEFINING ITS 2022-2025 STRATEGIC PLAN
+
+
+59 4.3 SUMMARY OF KEY METRICS AND TARGETS. 
+Below, Table 7 recaps the key metrics and targets used by BNP Paribas to monitor and oversee its management of climate related issues.
+DIVISION METRICS SCOPE 2019 VALUE 2020 VALUE. 
+UNIT TARGET. 
+CORPORATE AND INSTITUTIONAL BANKING. 
+Alignment of credit and investment for own account activities with a carbon neutrality path. 
+Group see section 4.1.1 Alignment with the path required to achieve carbon neutrality in 2050. 
+Percentage of coal in extraction of fossil fuels funded by the Group. 
+Group 2.4 1.5 % 0 %: - by 2030 in OECD and. 
+EU countries - by 2040 in rest of world. 
+Percentage of coal in the electricity mix funded by the Group, in capacity. 
+Group 10.4 %
+Credit exposure to oil and gas exploration and production activities. 
+Group -10% before 2025. 
+Financing for renewable energies Group 15.9 17.8 €bn €18bn in 2021. 
+Funding the energy transition of vessels. 
+Group €bn €1bn by 2025. 
+Amount of Sustainability Linked Loans, directly underwritten by the Bank, setting GHG emissions reduction as one of their criteria. 
+Group 2.9 4.5 €bn. 
+Accumulated amount of green bonds structured and placed. 
+Group 9.8 10.8 €bn. 
+RETAIL BANKING AND SPECIALISED BUSINESS LINES. 
+Credit exposure via loans on hybrid and electric cars. 
+Arval 1.3 2.3 €bn. 
+Number of electric cars in the leasing fleet. 
+Arval 500,000 in 2025. 
+INVESTMENT AND PROTECTION SERVICES. 
+AuM of green funds managed by BNPP Asset Management. 
+BNPP AM 11.6 18.4 €bn. 
+Amount of BNPP Cardif green investments. 
+BNPP Cardif 3.7 8.1 €bn. 
+BNPP Wealth Management green funds (funds+ETFs)
+BNPP WM 4 6.7 €bn. 
+OPERATIONS GHG emissions (Scopes 1 + 2 + business travel) per FTE. 
+Group 2.32 1.80 tCO2eq/ FTE 2.31 in 2021. 
+Table 7 | Key metrics and targets used by BNP Paribas to manage climate related issues. 
+METRICS AND TARGETS
+
+
+60. 
+TCFD REPORT 2020
+
+
+61. 
+CONCLUSION. 
+As a leading bank in Europe, boasting nearly 200,000 employees and a major contributor to the funding of the global economy, BNP Paribas has been actively involved in the collective response to the challenges of climate change for more than 10 years.
+Preparing this TCFD report is a key component of its initiative. BNP Paribas firmly believes that publicly sharing analyses, initiatives and individual/collective commitments contributes to the systematic changes required in order to achieve the goals of the Paris Agreement.
+It is also beneficial for BNP Paribas. Preparing this report provides an additional opportunity to raise awareness and combine knowledge, expertise and feedback between business lines and functions. Once finalised, this report is an excellent basis for discussion with all Group stakeholders, both internal and external, sharing best practices, encouraging changes and participating in collective emulation. Available to all, it inspires reactions from our stakeholders, driving BNP Paribas to continue improving its practices.
+Faced with the considerable challenges raised by climate change, BNP is deeply committed, acts with determination and works closely with its stakeholders. The Group anticipates risks and seizes opportunities, thus ensuring the resilience and continuation of its business. This is the prerequisite for continuing to fully play its role in supporting and funding the economy as it tackles the energy transition and adapts to a world with a changing climate.
+Highly determined, but also deeply aware of what is at stake, BNP Paribas remains humble and realistic in light of the magnitude of the task that must be accomplished together. Such was the mindset in which this report was written, serving as a progress point for a continuous improvement approach, year after year. Climate change is the challenge of an entire generation and, despite the urgency, each action must be undertaken over the long term.
+
+
+62. 
+TCFD REPORT 2020
+
+
+63. 
+GLOSSARY 2DS: 2 Degree Scenario. 
+ACPR: Autorité de Contrôle Prudentiel et de Résolution (French Prudential Supervisory and Resolution Authority)
+AM: Asset Management. 
+AMF: Autorité des marchés financiers (French Financial Markets Authority)
+BDDF: Banque de détail en France (French Retail Banking)
+BNL: Banca Nazionale del Lavoro. 
+BREAM: Building Research Establishment (BRE) Environmental Assessment Model. 
+CCCA: Collective Commitment to Climate Action. 
+CCIRC: Comité de contrôle interne, des risques et de la conformité (Internal Control, Risk and Compliance Committee)
+CDP: Carbon Disclosure Project. 
+CFRF: Climate Financial Risk Forum. 
+CGEN: Comité de gouvernance, d’éthique, des nominations et de la RSE (Governance, Ethics, Appointments and CSR Committee)
+CIA: Carbon Impact Analytics. 
+CIB: Corporate and Institutional Banking. 
+CoE: Center of Expertise. 
+COP: Conference of Parties. 
+CSA: Corporate Sustainability Assessment. 
+CSR: Corporate Social Responsibility. 
+EBA: European Banking Authority. 
+ECB: European Central Bank. 
+EIS: Etudes Industrielles et Sectorielles (Industry and Sector Research)
+EMEA: Europe, Middle East, Africa. 
+EpE: Entreprises pour l’environnement. 
+ESG: Environmental, Social and Governance (criteria)
+ETF: Exchange Traded Fund. 
+EU: European Union. 
+FTE: Full-time equivalent. 
+FBF: Fédération bancaire française (French Banking Federation)
+FCA: Financial Conduct Authority. 
+GHG: Greenhouse gases. 
+GRESB: Global Real Estate Sustainability Benchmark. 
+HQE: Haute qualité environnementale (high environmental quality)
+IDDRI: Institut du développement durable et des relations internationales (Institute for Sustainable Development and International Relations)
+IEA: International Energy Agency. 
+IIASA : International Institute for Applied Systems Analysis. 
+IMO: International Maritime Organization. 
+INRA: Institut national de la recherche agronomique (French Institute for Agronomic Research)
+IPCC: Intergovernmental Panel on Climate Change. 
+ISE: Intermediate-Sized Enterprise. 
+ISO: International Standard Organization. 
+KYC: Know Your Customer. 
+LEED: Leadership in Energy and Environmental Design. 
+LT: Long term. 
+MRH: Multi-risk home insurance. 
+MT: Medium term. 
+NGFS: Network for Greening the Financial System. 
+NGO: Non-Governmental Organisation. 
+NZBA : Net Zero Banking Alliance. 
+OECD: Organisation for Economic Cooperation and Development. 
+PACTA: Paris Agreement Capital Transition Assessment. 
+PCAF: Partnership for Carbon Accounting Financials. 
+PF: Personal Finance. 
+PRA: Prudential Regulation Authority. 
+RAS: Risk Appetite Statement. 
+RCP: Representative Concentration Pathway. 
+REIM: (BNP Paribas) Real Estate Investment Management. 
+SB2A: Science-Based 2°C Alignment. 
+SBCC: Sustainable Business Competence Center. 
+SBTi: Science Based Target initiative. 
+SDS: Sustainable Development Scenario (developed by the IEA)
+SEC: Securities and Exchange Commission. 
+SGDs: (United Nations) Sustainable Development Goals. 
+SLL: Sustainability-Linked Loan. 
+SME: Small and Medium-Sized Enterprise. 
+SMI: Sustainable Markets Initiative. 
+SSM: Single Supervisory Mechanism. 
+SSP : Shared Socioeconomic Pathways. 
+ST: Short term. 
+STEP: Stress Testing and Extended Planning. 
+STFS: Stress Testing & perFormance Synthesis. 
+TCFD: Task force for Climate related Financial Disclosure. 
+TEG: Technical Expert Group (on Sustainable Finance)
+TSVCM: Task force on Scaling Voluntary Carbon Markets. 
+UCI: Undertaking for collective investment. 
+UN: United Nations. 
+UNEP FI: United Nations Environment Programme Finance Initiative. 
+URD: Universal Registration Document. 
+WBCSD: World Business Council for Sustainable Development. 
+WM: Wealth Management. 
+ZEN2050: (Study) Zéro émissions nettes (Zero net emission) by 2050
+
+
+PHOTOS CREDITS. 
+BNP Paribas Group. 
+Damien Grenon (p 7), Arval Photostock (p 26), BNP Paribas Group Communication Studio (p 6), Real Estate Photostock (p 30-31), BNP Paribas Photostock (p 57)
+Shutterstock p 9, p 62. 
+Unsplash. 
+Joel Arbaje (Cover, Back cover), Philippe Bourhis (p 2, p 4-5) Dan Meyers (p 2, p 12-13), Karsten Wurth (p 2, p 34-35), Jeff Golenski (p 2, p 50-51), Jude Beck (p 8), John Price (p 10), Master Wen AX (p 11), Olivier Mesnage (p 11), William Bossen (p 15), Javier Allegue Barros (p 20), PIXNIO p P 22), Jonathan Larson (p 23), Nathan Anderson (p 24), Mimi Thian (p 27), Christina Wocintechchat (p 30), Jeremy Bishop (p 33), Damien Grenon (p 7), Kenrich Mills (p 37), Jupiter Union (p 38), Redcharlie (p 39), Ivars Krutainis (p 41), Johannes Plenio (p 42), Martin Adams (p 43), Lucy Chian (p 46), Bophomet Zhan (p 49), Nasa (p 49, p 56), Viktor Kiryanov (p 52), Jakob Madsen (p 54), Jill Heyer (p 60) 64. 
+TCFD REPORT 2020
+
+
+TABLE OF CONTENTS. 
+INTRODUCTION ................................................................................................................................................................................................................................................................................3 1. GOVERNANCE OF CLIMATE RELATED ISSUES ..........................................................................................................................................................................................................4 1.1. The Board of Directors supervises the management of climate related issues .....................................................................................................................................6 1.2. Management is responsible for assessing and managing climate related risks and opportunities ...............................................................................................8 2. STRATEGY: INCORPORATING CLIMATE RELATED ISSUES INTO STRATEGY AND GROUP ACTIVITIES ......................................................................................................12 2.1. THE MAIN CLIMATE RELATED RISKS AND OPPORTUNITIES HAVE BEEN IDENTIFIED .............................................................................................................................15 2.1.1 Climate change generates risk factors for the Group .....................................................................................................................................................................15 2.1.2. The energy transition and adaptation to climate change also represent opportunities for BNP Paribas ..................................................................17 2.2. BNP PARIBAS INCORPORATES THESE RISKS AND OPPORTUNITIES IN ITS STRATEGY AND ACTIVITIES ...........................................................................................18 2.2.1. BNP Paribas aims to align all its activities with the goals of the Paris Agreement ............................................................................................................19 2.2.2. Corporate and Institutional Banking: BNP Paribas funds the energy transition ...................................................................................................................23 2.2.3. Retail Banking and Specialised Business Lines: BNP Paribas supports the energy transition of SMEs-ISEs and retail customers, developing innovative green products for their benefit .........................................................................................25 2.2.4. Investment and Protection Services: BNP Paribas supports its client investors .................................................................................................................27 2.2.5. BNP Paribas is reducing its operational emissions and raising employee awareness .......................................................................................................32 2.3. RESILIENCE OF GROUP STRATEGY IN VARIOUS CLIMATE SCENARIOS..........................................................................................................................................................33 3. RISK MANAGEMENT: IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF CLIMATE RELATED RISKS ..........................................................................................34 3.1. PROCESS USED TO IDENTIFY AND ANALYSE CLIMATE RELATED RISKS .......................................................................................................................................................36 3.1.1. Climate related risks are included in the BNP Paribas risk identification process ..............................................................................................................36 3.1.2. Climate related risks are also incorporated in other Group risk identification processes ...............................................................................................39 3.1.3. BNP Paribas incorporates climate related risks in its scenario-based analysis systems .................................................................................................41 3.1.4. Exploratory work looking to estimate the impact of climate related risks on credit and investment portfolios ....................................................44 3.2. CLIMATE RELATED RISK MANAGEMENT PROCESS AND INCORPORATION IN OVERALL RISK MANAGEMENT ................................................................................47 4. METRICS AND TARGETS USED TO ASSESS AND MANAGE CLIMATE RELATED RISKS AND OPPORTUNITIES .......................................................................................50 4.1. BNP PARIBAS HAS ESTABLISHED METRICS TO ASSESS, MONITOR AND OVERSEE CLIMATE RELATED ISSUES..............................................................................52 4.1.1. BNP Paribas measures the alignment of its loan book climate neutrality scenarios .........................................................................................................52 4.1.2. BNP Paribas explores methodologies for measuring the impact of its investment portfolios .......................................................................................54 4.1.3. BNP Paribas measures its contribution to the energy transition of its customers .............................................................................................................55 4.1.4. BNP Paribas measures its operational GHG emissions .................................................................................................................................................................56 4.1.5. BNP Paribas supports a variety of collective methodology initiatives ....................................................................................................................................57 4.2. BNP PARIBAS HAS SET QUANTITATIVE TARGETS FOR THE PURPOSE OF MANAGING CLIMATE RELATED RISKS AND OPPORTUNITIES ..............................58 4.2.1. BNP Paribas commits to align its credit and investment for own account activities with a carbon neutrality path ............................................58 4.2.2. BNP Paribas is reviewing its energy transition funding targets for the purposes of defining its 2022-2025 strategic plan ...............................58 4.2.3. BNP Paribas has set operational GHG emissions reduction targets ........................................................................................................................................58 4.3. SUMMARY OF KEY METRICS AND TARGETS .........................................................................................................................................................................................................59. 
+CONCLUSION ....................................................................................................................................................................................................................................................................................61. 
+GLOSSARY ..........................................................................................................................................................................................................................................................................................63 65
+
+
+The bank for a changing world. 
+Ref: TCFD_2020_BNPP_EN

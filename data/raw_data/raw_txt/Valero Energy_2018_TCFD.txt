@@ -1,0 +1,462 @@
+Review of Climate-Related Risks and Opportunities. 
+September 28, 2018
+
+
+2. 
+Table of Contents. 
+Letter from the Chairman, President and Chief Executive Officer ...........................1. 
+About Valero ...........................................2. 
+Introduction ............................................3. 
+Governance and Risk Management ......4. 
+Climate-Related Risks and Opportunities ..........................................6 • Climate-Related Risks and. 
+Opportunities • 450 Scenario Overview • Strategy Analysis • Summary of Risks and. 
+Opportunities. 
+Performance Metrics ............................20 • Operating Costs • GHG Emission Reductions • Flaring Reduction • Energy Efficiency. 
+Physical Risks .......................................24 • Securing Our Facilities • Emergency Preparedness and. 
+Response • Hurricane Preparedness • Hurricane Harvey. 
+Conclusions ..........................................28. 
+McKee Wind Farm and Refinery, Sunray, Texas
+
+
+Review of Climate-Related Risks and Opportunities 1. 
+We are proud that Valero has long been committed to safe, reliable and environmentally responsible operations, and we will continue to integrate these principles into our actions as we provide the products necessary for modern life.
+Our Board of Directors and executive management team are encouraged by the opportunities to meet strong global demand for our products, while at the same time are mindful of the need to address climate-related risks and opportunities, including physical risks.
+We are pleased to share with you how we approach these risks and opportunities. I hope you find useful this review of the governance, risk management, strategy, performance metrics and other tools we use to address a future influenced by regional, national and international climaterelated policies and potential physical risks. Joe Gorder Chairman, President and Chief Executive Officer. 
+Through thoughtful leadership and direction from our Board of Directors and executive management team, we believe Valero is well positioned to remain a leading competitor in the energy market. Our products make people’s lives better, so we expect strong global demand for our products well into the future. Our investments in flexible and efficient manufacturing, renewable fuels and the infrastructure critical to our operations help us meet today’s needs and prepare for future energy markets.
+We welcome continued engagement with our investors on these issues.
+“Our investments in flexible and efficient manufacturing, renewable fuels and the infrastructure critical to our operations help us meet today’s needs and prepare for future energy markets.”
+Letter From Joe Gorder. 
+Review of Climate-Related Risks and Opportunities 1
+
+
+2 are located in the Mid-Continent region of the U.S. In addition, Valero owns the 2% general partner interest and a majority limited partner interest in Valero Energy Partners LP, a midstream master limited partnership, and a 50% interest in Diamond Green Diesel LLC, a producer of low-carbon liquid fuels. Valero sells its products in both the wholesale rack and bulk markets, and approximately 7,400 outlets carry Valero’s brand names in the U.S., Canada, the U.K., and Ireland. Please visit www.valero.com for more information.
+CANADA. 
+UNITED STATES. 
+BENICIA. 
+WILMINGTON. 
+MCKEE. 
+ARDMORE. 
+THREE RIVERS. 
+BILL GREEHEY (CORPUS CHRISTI EAST AND WEST) TEXAS CITY HOUSTON PORT ARTHUR. 
+MERAUX. 
+ST. CHARLES. 
+MEMPHIS. 
+MOUNT VERNON. 
+LINDEN. 
+BLOOMINGBURG. 
+SAN ANTONIO. 
+ALBION AURORA. 
+HARTLEY. 
+WELCOME. 
+ALBERT CITY FORT DODGE CHARLES CITY. 
+JEFFERSON. 
+JEAN GAULIN (QUEBEC)
+MONTREAL. 
+LONDON PEMBROKE. 
+UNITED KINGDOM. 
+IRELAND. 
+WHOLESALE MARKETING PRESENCE. 
+VALERO ETHANOL PLANTS. 
+VALERO REFINERIES. 
+BRANDED WHOLESALE PRESENCE. 
+VALERO TERMINALS. 
+VALERO OFFICES. 
+DIAMOND GREEN DIESEL. 
+VALERO ENERGY PARTNERS ASSETS. 
+SUNRAY WIND. 
+PIPELINES. 
+PAYMENT SERVICE CENTER. 
+PERU LIMA. 
+About Valero. 
+Valero, a Fortune 50 company based in San Antonio, Texas, with approximately 10,000 employees, is an independent petroleum refiner and biofuel producer, and its assets include 15 petroleum refineries with a combined throughput capacity of approximately 3.1 million barrels per day and 11 ethanol plants with a combined production capacity of 1.45 billion gallons per year. The petroleum refineries are located in the United States (U.S.), Canada and the United Kingdom (U.K.), and the ethanol plants. 
+Valero Energy Corporation, through its subsidiaries, is an international manufacturer and marketer of transportation fuels and petrochemical feedstocks.
+
+
+Review of Climate-Related Risks and Opportunities 3. 
+Introduction. 
+Investors increasingly ask how climate-related issues may impact their portfolio investments. To this end, several organizations have proposed frameworks through which companies can analyze and communicate these issues. These organizations include the Financial Stability Board (FSB) and the Sustainability Accounting Standards Board, among others. In June 2017, the FSB’s Task Force on Climate-related Financial Disclosures (TCFD) issued final recommendations for use by companies in the disclosure of climate-related financial information to investors and other stakeholders. These recommendations have been endorsed by a number of countries and large financial asset managers; accordingly, we developed this report generally in line with the TCFD recommendations to examine the climaterelated risks and opportunities in our business.
+This report enhances Valero’s disclosure of our governance, risk management, strategy and performance metrics regarding climate-related issues. This report also includes a review of the resilience of our business strategy taking into consideration a potential transition to a lowercarbon economy consistent with the International Energy Agency’s (IEA) hypothetical 450 PPM Scenario (450 Scenario). The 450 Scenario is one of many published scenarios that examine energy supply and demand in a world where policy actions have been taken to attempt to limit the global average temperature rise to two degrees Celsius. We continue to disclose material risks associated with climate issues in our Annual Report on Form 10-K.
+The “Governance and Risk Management” section of this report discusses how our governance processes address the physical and regulatory risks and opportunities that may arise from climate-related issues. The “Strategy Analysis” section of this report demonstrates how Valero’s strategy positions us to compete in future energy markets, even in a carbon-constrained economy such as the 450 Scenario, which forecasters, including the IEA, do not project as likely. Finally, the “Performance Metrics” and “Physical Risks” sections of this report detail the measurement tools and systems we use to address climaterelated risks and opportunities.
+Valero remains committed to being the lowestcost, safest operator in our industry as we provide reliable and affordable transportation fuels and petrochemical feedstocks for the modern world, while serving the needs of our employees, communities and other stakeholders.
+Valero remains committed to being the lowest-cost, safest operator in our industry as we provide reliable and affordable transportation fuels and petrochemical feedstocks for the modern world, while serving the needs of our employees, communities and other stakeholders.
+Benicia Refinery, Benicia, California
+
+
+4 of Directors and executive management team agreed to review Valero’s business strategy resilience and to issue this report. Our Board of Directors is also active in reviewing, and retains final authority regarding, major capital projects and significant acquisitions or divestitures. The current and potential impact of climate-related risks and opportunities are considered as part of this oversight.
+Valero’s executive management team assesses and manages climate-related risks and opportunities through an interdisciplinary approach that coordinates the views of our commercial, operational, regulatory, legal and government affairs groups into long-term strategic planning. This effort is overseen by a senior executive who reports to our Chief Executive Officer and has direct reporting duties to the Committee.
+In addition, we have well-developed management structures central to decision-making and risk management, as noted on the following page:
+The Nominating/Governance and Public Policy Committee of our Board of Directors (Committee) provides oversight of climate-related risks and opportunities inherent in our business. Pursuant to its charter, the Committee is charged to review and discuss with company management, at least annually, Valero’s strategy and performance in assessing and responding to climate-related risks and opportunities.1 The Committee is composed solely of independent directors who have qualifications appropriate for their oversight role. The Committee regularly reports to the full Board of Directors regarding climate issues under the Committee’s purview. We believe that this is an effective structure to provide Board of Directors oversight of climate-related risks and opportunities.
+At least once per year, our executive management team has a formal strategic planning meeting with our full Board of Directors. This meeting covers all aspects of Valero’s businesses, including the impact of global climate policies on the company’s outlook. In 2017, our Board. 
+Governance and Risk Management. 
+Valero Headquarters,
+San Antonio, Texas
+
+
+Review of Climate-Related Risks and Opportunities 5. 
+With the continuing global demand for the energy products we produce, even in carbon-constrained scenarios, we believe Valero is well-positioned to remain a thriving company. Our governance and risk-management processes allow us to maintain resilient business strategies for various business and regulatory environments over time.
+• We use long-term product supply and demand scenarios and forecasts as part of our capital allocation process. These scenarios and forecasts incorporate the potential impacts of climate-related risks and policy changes, among many other factors.
+• We use a four stage “phase-gate” process for project development and execution that considers regulatory risks and opportunities before a capital project can move forward. This process also applies higher return on investment thresholds for projects with greater financial and regulatory uncertainty. Major capital projects must be approved by the Board of Directors after having been through this process.
+• Our Commitment to Excellence Management System (CTEMS) is a proprietary systematic approach to planning, executing, checking and acting to improve every day work activities across all of our operations. CTEMS has nine elements: 1. Leadership accountability 2. Protecting people and the environment 3. People and skills development 4. Operations reliability and mechanical integrity 5. Technical excellence and knowledge management 6. Change management 7. Business competitiveness 8. External stakeholder relationships 9. Assurance and review. 
+Risks related to regulatory issues and physical risks to our facilities are among the risks assessed as we implement CTEMS at Valero.
+• We continually engage with stakeholders and monitor current and proposed climate and environmental-related policies, laws and regulations to help us shape effective business strategies.
+St. Charles Refinery, Norco, Louisiana
+
+
+6. 
+Global energy supply must increase to meet the demand created by a growing world population that desires access to the standard of living enjoyed by developed countries. Liquid transportation fuels are reliable, affordable and scalable, and are thus forecast to continue to be an important source of energy well into the future. Petrochemical feedstocks provide the building blocks for the products that consumers demand in everyday life. Most energy demand forecasts indicate continued growth in the use of liquid transportation fuels and petrochemical feedstocks.
+We review multiple energy demand projections as part of our strategic planning process to inform our views on energy demand. These include proprietary scenarios from private energy market consultants, published scenarios from agencies such as the IEA, and forecasts from government agencies such as the U.S. Energy Information Administration (EIA). These projections generally extend 20 to 30 years into the future, which we consider relevant in light of the long-lived nature of our assets.
+The IEA’s Current Policies Scenario, a scenario that incorporates existing climate policies, forecasts that world oil demand would increase to approximately 117 million bpd in 2040, from 92.5 million bpd in 2015.2 The IEA’s New Policies Scenario, a scenario that incorporates existing climate policies as well as an assessment of results likely to occur from implementation of announced climate policies, forecasts that world oil demand would increase to approximately 103 million bpd in 2040.3 The New Policies Scenario further projects that biofuel demand would increase to 4.2 million bpd in 2040, from 1.6 million bpd in 2015.4. 
+Climate-Related Risks and Opportunities
+
+
+7 Review of Climate-Related Risks and Opportunities made selective investments to build a system of assets that we expect to thrive under most energy demand forecasts, and we will continue to optimize our portfolio as conditions demand.
+We closely follow existing and proposed climate-related policies such as vehicle mileage standards, electric vehicle mandates, low-carbon fuel standards and carbon taxes. When appropriate, we act in a strategic fashion to capture opportunities related to these policies. For example, our investment in the Diamond Green Diesel joint venture capitalizes on the growing demand for low-carbon liquid fuels.
+Our strategic actions in light of these forecasts have made Valero a low-cost, efficient and reliable supplier of liquid transportation fuels and petrochemical feedstocks to the world. Our petroleum refineries operate in coastal locations with significant operating cost advantages and the ability to export fuel to meet developing country demand, or in niche markets that enjoy raw material cost or product margin advantages. Our ethanol plants are located near abundant raw material, have some of the lowest operating costs in the industry and have the ability to export to meet world demand. Our midstream assets help us improve the performance of our fuels manufacturing facilities through ownership of raw material or finished product logistics assets that supply those facilities or distribute their products. Throughout Valero’s history, we have proactively managed our business portfolio through acquisitions and divestitures and have. 
+Diamond Green Diesel,
+Norco, Louisiana
+
+
+8 parts per million and results in a 50% chance to limit the global average temperature rise to two degrees Celsius by 2100.5. 
+This section of the report focuses on a hypothetical transition to a lower-carbon economy under the 450 Scenario. In 2040, under this scenario, world oil demand would decrease to approximately 73 million bpd from 92 million bpd in 2015.6 The transportation sector would see a significant portion of this reduction.
+In contrast to the changes seen in the transportation sector, consumption of oil for petrochemical feedstocks in the 450 Scenario is largely the same as in the New Policies Scenario. There are fewer substitution options away from oil available in the petrochemical industry, so by 2040 the IEA predicts production of petrochemical feedstocks will account for over 20% of total oil demand in the 450 Scenario, versus 12% of total oil demand in 2015.7. 
+In order to further inform our planning processes, we followed the TCFD recommendation to review the resilience of our business strategy under multiple demand scenarios. Given that the consensus view among energy forecasters is that demand for liquid transportation fuels and petrochemical feedstocks will increase, we believe our business strategies are resilient under most scenarios. However, we also followed the TCFD recommendation to review the resilience of our business strategies taking into consideration a potential transition to a lower-carbon economy consistent with a two-degree scenario such as the 450 Scenario.
+The 450 Scenario is IEA’s hypothetical carbontransition scenario that begins with a view of where the energy sector needs to be to meet carbon goals in 2040, and works back to the present. This scenario is aimed at limiting carbon dioxide concentrations in the atmosphere to 450 - TCFD. 
+The Use of Scenario Analysis in Disclosure of Climate-Related Risks and Opportunities “Scenarios are not intended to represent a full description of the future, but rather to highlight central elements of a possible future and draw attention to the key factors that will drive future developments. It is important to remember that scenarios are hypothetical constructs; they are not forecasts or predictions, nor are they sensitivity analyses.” 450 Scenario Overview. 
+Confidential and privileged – for internal use only. 
+IEA World Oil Demand By Scenario 2
+76.7 92.5 101.9 117 98.2 103.5 89.9 73.2 0
+20 40 60 80 100 120 2000* 2015* 2025 2040 2025 2040 2025 2040. 
+Historical Data Current Policies New Policies 450 Scenario. 
+Million bpd. 
+IEA World Oil Demand By Scenario 2000 2015 2025 2040 2025 2040 2025 2040
+
+
+9 Review of Climate-Related Risks and Opportunities. 
+The IEA expects biofuel to see substantial growth in the 450 Scenario amid strong government support and consumer demand. In the 450 Scenario, IEA projects biofuel demand will increase by 7.4 million bpd on an energy equivalent basis to gasoline and diesel from 2015 levels.8 This is an increase of 462%. Much of this production increase is projected to come from advanced biofuel, rather than crop-based biofuel, through advancements in production technology.
+While scenarios provide an important benchmark against future possible conditions, scenarios do not act as forecasts of the future, as the complexities and pressures countries and energy markets face make accurate long-term predictions very difficult.
+Confidential and privileged – for internal use only. 
+IEA World Biofuel Demand 450 Scenario 0.2 1.6 4
+9 0
+2 4
+6 8
+10 2000 2015 2025 2040. 
+Historical Data 450 Scenario. 
+Million bpd. 
+IEA World Biofuel Demand 450 Scenario. 
+Valero Ethanol Plant - Mount Vernon, Indiana
+
+
+10 reflected in the chart on the next page. These cost advantages exceed the cost to transport gasoline, diesel and jet fuel to other key regions in the world, thereby allowing North American refineries to operate and export fuel even when refineries in the destination regions face closure because of reduced demand in the 450 Scenario.
+We see evidence of this trend in trade flow data regarding U.S. transportation fuel exports. The volume of U.S. exports has grown significantly since the beginning of the shale revolution, with the majority of exports originating in the U.S. Gulf Coast to supply markets in Mexico and Latin America.
+Resiliency of North American Refining. 
+We view the cost to produce transportation fuel as a key indicator of the competitiveness of a petroleum refinery. Cost to produce is largely driven by operating expenses and raw material costs.
+Refinery operating expenses can be influenced by a number of factors, but one of the key drivers is energy costs. Natural gas is the primary energy used in North America to power refinery processes. The North American refining sector benefits from lower natural gas costs compared to most global competitors as a result of the shale gas revolution. Consistent with many other forecasts, the IEA projects North America will continue to maintain lower natural gas prices through 2040 compared to the rest of the world, even in the 450 Scenario.9. 
+Crude oil is the primary raw material used in petroleum refineries. The North American refining sector benefits from oil produced in the U.S. and Canada that often trades at location-related discounts compared to the price of similar quality crude oil traded on international markets. Although the 450 Scenario does not contain specific projections for U.S. and Canadian crude oil production to 2040, the IEA has indicated that North American shale oil production will remain resilient even in a carbon-constrained scenario.10. 
+Lower energy costs and advantaged North American crude oil result in a lower cost to produce transportation fuel in North America as. 
+Our refining strategy analysis examines the competitive advantages of the North American refining sector and the impact of reduced refined product demand in the 450 Scenario on refining capacity and trade flow on a regional basis. Our renewables strategy analysis primarily considers the opportunities presented by the significantly increased demand for biofuel projected in the 450 Scenario, while our midstream strategy analysis contains a perspective on how the impacts of a 450 Scenario on refined product and biofuel demand could present both risks and opportunities.
+Strategy Analysis. 
+Confidential and privileged – for internal use only 0
+500 1000 1500 '09 '11 '13 '15 '17. 
+Diesel. 
+U.S. Product Exports 12 Month Moving Average (MBPD) 7
+'09 '11 '13 '15 '17. 
+Gasoline. 
+Canada Mexico Other Latin America Europe Other. 
+U.S. Product Exports 12 Month Moving Average (MBPD)
+Gasoline represents all finished gasoline plus all blendstocks (including ethanol, MTBE, and other oxygenates). Source: DOE Petroleum Supply Monthly data through Feb. 2018.
+
+
+11 Review of Climate-Related Risks and Opportunities. 
+Our scenario analysis contained several base assumptions: • The 450 Scenario contains global and regional oil demand projections, but does not specify global or regional gasoline, diesel and jet fuel demand. As such, Solomon made assumptions regarding regional transportation fuel demand in 2040 based on the 450 Scenario regional oil demand projections.
+• We assumed refineries with the highest cost to produce transportation fuel would close as demand fell.
+• We assumed regional refined product trade flows would adjust based on high-cost facility closures.
+• We asked Solomon to examine data from the 2014 and 2016 worldwide Fuels Studies to illustrate the effects of varying market conditions.
+After conducting the 450 Scenario analysis, we concluded that Valero’s overall refining strategy would be resilient in a low-carbon marketplace.
+For all of these reasons, we expect the North American refining sector to maintain its cost advantages and continue to export transportation fuels to the rest of the world, even in the 450 Scenario.
+Resiliency of Valero’s Refining Strategy. 
+We hired HSB Solomon Associates LLC (Solomon) to assist us in evaluating the resiliency of our refining strategy under the hypothetical conditions of the 450 Scenario. Solomon is the leading benchmarking firm in the refining industry and compiles high-quality data through its biennial Fuels Study that allows Solomon to compare the competitiveness of refineries around the world. For purposes of our analysis, we asked Solomon to assist us in assessing how our current refining assets would compare to our global competition in a 450 Scenario. The cost to produce transportation fuel was a critical aspect of this analysis.
+Confidential and privileged – for internal use only. 
+North America Refining Cost Advantage 13 35 40 45 50 55 60 65 70 0 2 3 4 6 7 8 10 11 13 14 15 17 18. 
+Costs to produce transportation fuels ($U.S./bbl)
+Cumulative crude oil distillation capacity (million bpd)
+Middle East Latin America Europe North America. 
+HSB Solomon Associates 2016 Fuels Study. 
+North America Refining Cost Advantage. 
+HSB Solomon Associates LLC 2016 Fuels Study. 
+St. Charles Refinery, Norco, Louisiana
+
+
+12 advantage over refineries operating in other regions of the world, and that our primary refining opportunity is to export gasoline, diesel and jet fuel to meet continuing stronger demand for these products in developing countries, including Latin America. We believe our most significant refining risk is decreased consumer demand for oilbased transportation fuels due to higher vehicle mileage standards, increased adoption of electric vehicles, substitution with low-carbon biofuel and increased costs as the result of climate-related regulation.
+We concluded, however, that in a 450 Scenario, market conditions on the U.S. West Coast would be challenging and that further strategic actions may be necessary to compete in that region under those hypothetical conditions. For context, operating income from our U.S. West Coast refining region constitued 2.5% of Valero’s overall refining operating income in 2017.
+We have been executing and plan to continue to execute refining projects and initiatives that take advantage of today’s market opportunities and that we believe will retain their value in a 450 Scenario, including: • The recent addition of light crude distillation units at our Houston and Corpus Christi refineries that allow us to process increased volumes of light crude from U.S. shale oil resources.
+• Reduction of refinery operating costs through cogeneration plants at our Wilmington and Pembroke refineries that are expected to reduce costs and improve reliability of power supplies.
+• Construction of alkylation units at our Houston and St. Charles refineries that produce a high-octane gasoline blendstock, a product we believe will be necessary to help meet increased fuel efficiency standards.
+• Investments to grow wholesale fuel volumes and exports to regions where demand for refined products is expected to outpace supply, as further described in the discussion regarding our midstream strategy.
+We believe that our strategy to be a low-cost, efficient and reliable supplier of transportation fuels and petrochemical feedstocks to the world is durable in both the strong future demand conditions that we expect and in a 450 Scenario. We believe that our strategy will provide an. 
+Confidential and privileged – for internal use only. 
+VLO’s U.S. Product Exports (MBPD) 5
+110 274 491 277 462 516. 
+Gasoline Distillate. 
+Valero’s U.S. Product Exports (MBPD)
+Distillate volumes include diesel, jet fuel, and ultra low sulfur kerosene.
+Confidential and privileged – for internal use only. 
+VLO’s U.S. Product Exports (MBPD) 5
+110 274 491 277 462 516. 
+Gasoline Distillate. 
+Confidential and privileged – for internal use only. 
+Natural Gas Cost Sensitivity for Valero’s Refineries 6
+$2.81/mmBtu $0.86/bbl throughput $7.11/mmBtu $2.18/bbl throughput. 
+U.S. Europe $1.4 billion pre-tax annual cost advantage. 
+Natural Gas Cost Sensitivity for Valero’s Refineries 2018 average natural gas prices through May 23 for U.S. and Europe. Estimated per barrel cost of 907,000 mmBtu/day of natural gas consumption at 12-month rolling average refinery throughput of 3.0 MMBPD.
+
+
+13 Review of Climate-Related Risks and Opportunities. 
+Memphis Refinery,
+Memphis, Tennessee
+
+
+14. 
+Resiliency of Valero’s Renewables Strategy. 
+Valero was the first traditional refiner to enter large-scale ethanol production, and is now the third largest ethanol producer in the U.S., operating 11 ethanol plants across the Midwest with a combined capacity of 1.45 billion gallons per year. We also operate the largest renewable diesel plant in North America, Diamond Green Diesel, through our joint-venture with Darling Ingredients Inc.
+The Diamond Green Diesel plant takes inedible corn oil, recycled cooking oil and rendered animal fats and turns them into a low-carbon renewable diesel that is compatible with existing engines and infrastructure. Renewable diesel has a substantially lower carbon intensity than both corn-based ethanol and soybean-based biodiesel.
+Our renewables strategy is to be the low-cost operator in the ethanol industry with the ability to export to the world, while at the same time expanding our low-carbon advanced biofuel portfolio of assets.
+• We acquired our ethanol plants at 35% of replacement cost and have since increased capacity to 130% of original design with minimal capital invested. In addition, the majority of our plants use industry-leading technology that creates production efficiencies. We believe these actions make us one of the lowest-cost producers of ethanol in the U.S.
+• We designed logistics systems that allowed us to export 22% of all ethanol exported from the U.S. in 2017.
+• We are currently expanding the Diamond Green Diesel plant to 275 million gallons per year and are investing in logistics to enable large-scale exports of renewable diesel.
+Valero Ethanol Plant - Charles City, Iowa
+
+
+15 Review of Climate-Related Risks and Opportunities. 
+Although at-scale advancements in the production of low-carbon ethanol and gasoline have been difficult, we continue to monitor these technologies and plan to move strategically as appropriate to capture opportunities. In contrast, our Diamond Green Diesel joint venture has proven technology to produce low-carbon diesel fuel at scale, so we are considering an additional project to expand production capacity from 275 million gallons per year to 550 million gallons per year.
+We believe that our most significant renewables growth risk is whether production technology for competing advanced biofuel can advance to enable production at scale. We believe that our primary renewables opportunity is to grow to meet increased worldwide demand for biofuel.
+Confidential and privileged – for internal use only. 
+U.S. Fuel Ethanol Exports (MBPD) 8
+38 51 53 58 66 14 19 39 53 57 73 85 2013 2014 2015 2016 2017. 
+Rest of Industry Valero. 
+Source: U.S. Census Bureau.
+U.S. Fuel Ethanol Exports (MBPD)
+Source: U.S. Census Bureau.
+The IEA projects significantly increased demand for biofuel in each of the Current Policies, New Policies and 450 Scenarios. The Current Policies Scenario projects an increase in demand to 3.6 million bpd in 2040 from 1.6 million bpd in 2015, while the New Policies and 450 Scenarios project demand increases in 2040 to 4.2 million bpd and 9 million bpd, respectively.11 Our biofuel production facilities are well positioned to meet increasing demand in all of these scenarios.
+To meet the demand projections of the 450 Scenario, technology advancements in the production of advanced biofuel are required. Starting in 2008, Valero began to identify companies working to produce advanced biofuel at scales matching today’s market, and the barriers these companies faced. Over the years, we have invested approximately $50 million into companies and research efforts to support commercializing technologies such as: • Modified yeast to produce cellulosic ethanol • Algae growing systems to produce bio-oil • Synthetic gasoline and ethanol produced from municipal solid waste • Microbes for the production and fermentation of cellulosic feedstocks. 
+Diamond Green Diesel, Norco, Louisiana
+
+
+16. 
+Houston Terminal. 
+Corpus Christi Terminals. 
+SFPP Pipeline Connection. 
+El Paso Terminal and Truck Rack. 
+McKee Terminal. 
+El Paso Pipeline. 
+San Antonio. 
+Meraux Terminal. 
+Three Rivers Terminal. 
+Perryton Piper. 
+McKee Logistics System. 
+Three Rivers Truck Haul. 
+TX. 
+Cushing. 
+Ardmore Logistics System. 
+Hewitt Ardmore Refinery. 
+Wynnewood Station. 
+Red River Pipeline. 
+Valero Refinery. 
+VLP Refined Products Terminal. 
+VLP Headquarters. 
+VLP Refined Products Pipeline. 
+VLP Crude Oil Pipeline. 
+VLP Crude Oil and Products Terminal. 
+VLP Crude Oil Terminal. 
+Memphis Logistics System. 
+Collierville Terminal. 
+FedEx Lateral Pipeline. 
+Memphis Airport Jet Pipeline. 
+Shorthorn Lateral Pipeline. 
+Shorthorn Pipeline Memphis Refinery. 
+Collierville Pipeline. 
+West Memphis Terminal. 
+Three Rivers. 
+Logistics System. 
+Three Rivers Logistics System. 
+Port Arthur Logistics System. 
+Port Arthur Terminal. 
+Port Arthur Products Pipeline. 
+El Vista Terminal PAPS Terminal. 
+Lucas Terminal. 
+Nederland Pipeline. 
+Lucas Pipeline 12-10 Pipeline. 
+St. Charles. 
+Logistics System. 
+St. Charles Logistics System. 
+Collins. 
+St. Charles Terminal. 
+LA MS. 
+Parkway Pipeline products pipelines, liquid fuel terminals and other logistics assets that enable our fuel manufacturing facilities to capture raw material advantages and distribute products.
+• Through a joint venture with Plains All American Pipeline we recently placed into operation the Diamond Pipeline, a crude oil pipeline that allows our Memphis refinery to efficiently access North American shale oil.
+• In partnership with Magellan Midstream Partners, we are constructing a five-million barrel storage terminal and ship docks on the Houston ship channel to enable increased refined product exports.
+Resiliency of Valero’s Midstream Strategy. 
+We own and operate liquids transportation and storage assets that primarily support our fuels manufacturing facilities. Our midstream assets include pipelines, terminals, rail cars and marine docks. These assets are owned both by Valero and by Valero’s master-limited partnership, Valero Energy Partners LP, which serves as the primary vehicle to grow the midstream assets supporting Valero’s business.
+Our midstream strategy is to develop, acquire, own and operate crude oil and refined petroleum
+
+
+17 Review of Climate-Related Risks and Opportunities. 
+MCKEE. 
+THREE RIVERS. 
+BILL GREEHEY (CORPUS CHRISTI EAST AND WEST)
+TEXAS CITY. 
+HOUSTON. 
+PORT ARTHUR. 
+MERAUX. 
+ST. CHARLES UNITED STATES. 
+MEXICO. 
+PERU. 
+VERACRUZ MEXICO CITY. 
+PUEBLA. 
+PAITA. 
+CALLAO. 
+PIPELINES. 
+TERMINALS. 
+RAILCARS. 
+SHIPS. 
+LAREDO. 
+HARLINGEN. 
+EL PASO. 
+VALERO REFINERIES. 
+NUEVO LAREDO. 
+PATSA 1 Includes terminals owned or leased by Valero.
+(1) • We entered into agreements with IEnova, a Mexican energy infrastructure company, to develop terminals and rail facilities to deliver transportation fuel into central Mexico’s most populous cities.
+• We are providing rail loading and renewable diesel storage services to Diamond Green Diesel and expect to invest to provide additional services in connection with that facility’s proposed expansion.
+• We recently acquired a business in Peru that owns two fuel import terminals that serve Peru and that can serve other countries on the Pacific coast of Latin America.
+Under the 450 Scenario, refiners with the lowest cost to produce transportation fuel will be best positioned to compete in the global energy market. Our midstream assets are concentrated to serve Valero’s refineries in the U.S. Gulf Coast and Mid-Continent regions, areas we expect to be very competitive in the 450 Scenario because of the advantages discussed in the preceding section on refining resiliency. Growth in biofuel demand under the 450 Scenario would provide additional opportunities to transport and export biofuel.
+We believe that our most significant midstream risk in the 450 Scenario is decreased utilization of logistics assets in certain regions as a result of a decrease in consumer demand for liquid transportation fuels. We believe that our primary midstream opportunity is to grow to enable Valero to capture raw material advantages and export products.
+Our midstream strategy is to develop, acquire, own and operate crude oil and refined petroleum products pipelines, liquid fuel terminals and other logistics assets that enable our fuel manufacturing facilties to capture raw material advantages and distribute products.
+
+
+18. 
+Summary of Risks and Opportunities. 
+Potential Risks • Increasingly stringent fuel efficiency standards and increased adoption of electric vehicles could reduce consumer demand for liquid transportation fuels • Policies that seek to address climate risks, such as a carbon tax, cap and trade, and low-carbon fuel standards, could increase the cost of our products in affected regions • Rising sea levels and extreme weather events could impact our facilities • Potential climate litigation from governments and non-governmental climate organizations could increase our operating costs. 
+Potential Opportunities • A growing global economy may result in increased demand for transportation fuels by middle class families in developing countries • An increase in biofuel demand could provide us with production growth opportunities • Our midstream operations could benefit from increased export volumes • The transition to a low-carbon economy could spur the development and deployment of new efficiency measures and technologies for refineries, reducing operating costs • Our complex refining system is capable of adapting to expected growing demand for petrochemical feedstocks as well as a potential shift to high octane fuels that improve fuel efficiency
+
+
+19 Review of Climate-Related Risks and Opportunities. 
+Port Arthur Refinery. 
+Port Arthur, Texas
+
+
+20. 
+Performance Metrics. 
+Operating Costs. 
+Because we view operating costs as one of the distinguishing factors for success in both today’s market and in a carbon-constrained economy, we closely track and manage our operating costs throughout our business. Given our view that petroleum refineries with the lowest production costs will continue to operate while high-cost refineries close, we use cash operating expenses per barrel of throughput as a key metric to manage climate-related risk. Valero’s position as a low-cost operator is a key competitive advantage today and would continue to be in a carbonconstrained environment.
+Confidential and privileged – for internal use only 11 $5.24 $5.83 $5.36 $5.22 $5.95 $6.16 $5.56 $5.43 $5.84 $3.32 $3.16 $3.15 $3.71 $3.79 $3.83 $3.79 $3.79 $3.87 $3.61 $3.54 $3.65 $3 $3 $4 $4 $5 $5 $6 $6 2009 2011 2013 2015 2017. 
+Peer Range. 
+VLO Refining Cash Operating Expenses Per Barrel of Throughput (Excludes Turnaround and D&A Expenses)
+Valero Refining Cash Operating Expenses. 
+Per Barrel of Throughput (Excludes Turnaround and D&A Expenses)
+Port Arthur Refinery, Port Arthur, Texas. 
+In order to measure and manage climate-related risks and opportunities relevant to our strategy, we use several performance metrics as described below.
+Source: Company reports.
+
+
+21 Review of Climate-Related Risks and Opportunities. 
+We track our greenhouse gas (GHG) emissions and closely follow regulatory developments that address GHG emissions. We currently operate production facilities in several jurisdictions that price carbon through cap and trade programs, including California, Quebec and the U.K. In addition, many other jurisdictions have or are considering adopting carbon pricing mechanisms.
+Over the years, GHG emissions from our refineries have declined through companywide initiatives and facility specific solutions. Since 2012, Valero’s annual throughput has risen by nearly 100 million barrels, while our GHG emissions, measured per barrel of throughput, have fallen. We intend to continue to reduce our emissions through the adoption of new technologies and improved and more efficient operations.
+Reducing the emissions associated with the power demands of our operations represents one important pathway to reduce overall emissions. We have identified and implemented technologies such as steam and power cogeneration that increase efficiency and can reduce emissions at select facilities. We also constructed a 33 turbine wind farm in the Texas Panhandle, helping to power our McKee refinery. The wind turbines, each 250 feet tall, together have the ability to produce 50 megawatts of electricity and are capable of running the entire McKee refinery under optimal wind conditions.
+GHG Emission Reductions. 
+Confidential and privileged – for internal use only. 
+Refining Greenhouse Gas Emissions 0.019 0.021 0.023 0.025 0.027. 
+Tons CO2e/bbl throughput. 
+Review of Climate-Related Risks and Opportunities 21 50MW electricity 250 feet tall. 
+Refining Greenhouse Gas Emissions. 
+View of three of the 33 wind turbines at the McKee Wind Farm and Refinery, McKee, Texas
+
+
+22. 
+Flaring Reduction. 
+Flaring is an important safety mechanism used to combust gases, including certain GHGs, which otherwise would be emitted during outages and other events. We track flaring events as an important indicator of both efficiency and environmental performance. We instituted a companywide flaring reduction initiative to improve our efficiency and have reduced flaring events by more than 80% from 2006 levels.
+Energy Efficiency. 
+Energy efficiency is an important tool in reducing emissions. As such, we have pursued new processes and efficiencies at our refineries for over a decade. Beginning in 2007, we initiated our Energy Stewardship Program, designed to track efficiency and allow our refineries to share best practices to boost efficiency. Dedicated personnel at our headquarters work with refinery leadership to identify new technologies that can increase efficiency and improve operations, and implement these new technologies when appropriate.
+Confidential and privileged – for internal use only. 
+Annual Flaring Events 4
+0 50 100 150 200 250 300 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017. 
+Flaring Events. 
+We use the EPA’s Efficient Producer Program as a key metric for our ethanol plants. This program recognizes corn ethanol plants that demonstrate superior process efficiency through reduced on-site energy consumption, increased fuel output and/or use of biomass or biogas from certain sources to reduce process energy GHG emissions. Six of our ethanol plants are recognized under the EPA’s Efficient Producer Program, with three more plants expected to be recognized in 2018.
+MIDWEST UNITED STATES LINDEN. 
+BLOOMINGBURG ALBION. 
+AURORA. 
+HARTLEY. 
+WELCOME. 
+ALBERT CITY FORT DODGE CHARLES CITY. 
+RECOGNIZED ETHANOL PLANTS. 
+PENDING ETHANOL PLANTS. 
+EPA’s Efficient Producer Program. 
+Annual Flaring Events. 
+Confidential and privileged – for internal use only. 
+Refining Total Energy Use (Million Btu per barrel of throughput) 12 0.44 0.42 0.41 0.39 0.38 0.36 0.38 0.4 0.42 0.44 0.46 0.48 0.5. 
+Refining Total Energy Use (Million Btu per barrel of throughput)
+
+
+23 Review of Climate-Related Risks and Opportunities. 
+Valero Ethanol Plant - Welcome, Minnesota
+
+
+24 • We designed our Ardmore and McKee refinery control rooms to withstand EF3 tornadoes, and designed employee shelters to withstand EF5 tornadoes.
+• We have upgraded critical buildings at our refineries, including control rooms, to be resilient to multiple physical risks, including severe weather.
+• Our Gulf Coast refining facilities were designed to withstand severe hurricane forces. However, operating in such conditions could potentially expose employees to flying debris and flooding; as such, for more severe hurricanes that pose such a danger, we initiate safe shutdowns and evacuate our employees in accordance with our hurricane preparedness plan discussed on the following pages.
+Valero is committed to maintaining the capability to respond to any emergency affecting or involving our facilities. The following sections highlight a few of the programs we have implemented to remain a safe and reliable operator through extreme weather conditions.
+Securing Our Facilities. 
+Extreme weather conditions can present threats to our operations around the world. We analyze historical data and trends to identify best practices that we can implement to mitigate and reduce physical risks to our operations and our people.
+• We construct new infrastructure at raised elevation to reduce the effects of flooding.
+Physical Risks. 
+In addition to analyzing risks and opportunities under different transportation fuel demand scenarios, we evaluate and prepare for physical risks to our facilities, including those that may arise in the future because of climate-related changes. From short-term natural disasters, to longer-term possibilities such as rising sea levels, we proactively work to mitigate the risks to our people, assets, surrounding communities and the environment.
+Three Rivers Refinery, Three Rivers, Texas
+
+
+25 Review of Climate-Related Risks and Opportunities. 
+Memphis Refinery,
+Memphis, Tennessee. 
+Hurricane Preparedness. 
+Valero’s U.S. Gulf Coast facilities are periodically exposed to hurricanes and their associated weather events including strong winds, storm surges and flooding. Our management and refinery leadership teams use a sophisticated hurricane preparedness program to promote the safety and reliability of our assets and the safety of our people, which includes the following pre-hurricane season measures: • Facilities and Equipment Management – Site inspection, pre-season maintenance – Structural evaluations, securing portable structures • Planning and Execution – Shutdown/evacuation timelines – Port closures and other operating contingencies – Coordination with applicable agencies • Personnel Readiness – Employee contact information updates – Shutdown/startup and ride-out-crew teams – Employee home emergency preparedness and evacuation planning. 
+Emergency Preparedness and Response. 
+Valero has developed a consistent emergency management process, designed to identify and address the risks posed to our operations and our people from external threats. Our facility and corporate leadership teams meet regularly to identify risks to our facilities and implement longterm solutions. Our emergency preparedness and response program actively engages facility and corporate employees and leadership, including: • Developing emergency response plans at each facility to be compliant with all local, state and federal regulations.
+• Staffing qualified emergency response teams at each of our facilities.
+• Executing a routine drill and assessment schedule to promote response readiness and identify opportunities for improvement.
+• Ensuring that emergency planning and response is appropriately considered in the strategic planning and capital budget process.
+• Identifying and utilizing emerging technologies to promote efficient emergency planning and decision making.
+
+
+26. 
+These programs and processes are designed to ensure that Valero takes the most appropriate response to maintain the integrity of our operations and protect our people during challenging conditions.
+Hurricane Harvey. 
+Hurricane Harvey struck the Texas Gulf Coast in late August 2017, and brought high winds, storm surges, flooding and record rainfall. In total, six of Valero’s refineries and associated logistics assets were exposed to a variety of threats from Harvey.
+Despite this widespread impact, our facilities incurred only minor damage and we experienced limited operating downtime.
+After the initial landfall, our post-hurricane relief teams came to the aid of employees in the Corpus Christi, Houston, Port Arthur, Three Rivers and Texas City areas, with food, lodging and other needs, while assisting others with repairs and debris removal.
+Our well-developed Emergency Preparedness and Response Plan allowed us to respond quickly and effectively to meet our facilities’ and employees’ needs.
+During the hurricane season, our five-phase process is designed to monitor evolving conditions across the Atlantic and provide adequate time and resources for our facilities and employees to safely and responsibly prepare for any incoming storms.
+• Phase 1 – Start of Season – Daily monitoring and tracking of disturbances in the Atlantic basin • Phase 2 – Predicted Storm Impact to Gulf – Conference call with affected sites – Verify shutdown and evacuation timelines • Phase 3 – Significant Impact to Site(s) Likely – Corporate Emergency Operations Center (EOC) activated to support site(s) – Operating strategies and contingencies reviewed – Call center activation reviewed and set timeline – Equipment and service providers are put on standby • Phase 4 – Shutdown/Ride Out – Ride out, shutdown and/or evacuation plans executed – Equipment and service providers are mobilized – Support teams prepare for deployment, EOC staffed – Post impact communication strategy is established • Phase 5 – Post Hurricane – Assess impacts to operations, employees and environment – Develop plans for care and recovery of people and processes – Support teams deployed – Startup safely – Critique response for improvement at appropriate time
+
+
+27 Review of Climate-Related Risks and Opportunities. 
+Bill Greehey Refinery, Corpus Christi, Texas
+
+
+28. 
+We believe that demand for our products will continue to grow together with the growing economies of the developing world. We believe that our business mix and strategies for our refining, renewables and midstream operations are positioned to make Valero a resilient company in both expected demand conditions and in a more carbon constrained economy.
+Our executive management team, with the ongoing oversight of our Board of Directors, expects to continue to address climate-related risks and opportunities through the governance and risk management framework described herein. As appropriate, we plan to act strategically to capture these opportunities and mitigate risks.
+Our strategy to invest in flexible and efficient manufacturing, renewable fuels and the infrastructure critical to our operations helps us to meet today’s needs and prepare for future market demands. Valero remains committed to being the lowest-cost, safest operator in our industry as we provide reliable and affordable transportation fuels and petrochemical feedstocks for the modern world, while serving the needs of our employees, communities and other stakeholders.
+Our strategy to invest in flexible and efficient manufacturing, renewable fuels and the infrastructure critical to our operations helps us to meet today’s needs and prepare for future market demands. Valero remains committed to being the lowest-cost, safest operator in our industry as we provide reliable and affordable transportation fuels and petrochemical feedstocks for the modern world, while serving the needs of our employees, communities and other stakeholders.
+Port Arthur Refinery, Port Arthur, Texas. 
+Conclusions
+
+
+Review of Climate-Related Risks and Opportunities 29 and VLP believe that the assumptions were reasonable when made, because assumptions are inherently subject to significant uncertainties and contingencies, which are difficult or impossible to predict and are beyond their respective control, neither Valero nor VLP can give assurance that either will achieve or accomplish their respective expectations, beliefs or intentions. When considering these forward-looking statements, you should keep in mind the risk factors and other cautionary statements contained in Valero’s and VLP’s filings with the Securities and Exchange Commission, including Valero’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and other reports available on Valero’s website at www.valero.com, and VLP’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and other reports available on VLP’s website at www.valeroenergypartners.com. These risks could cause the actual results of Valero or VLP to differ materially from those contained in any forwardlooking statement.
+Safe Harbor Statement. 
+This review contains forward-looking statements made by Valero Energy Corporation (VLO or Valero) and Valero Energy Partners LP (VLP) within the meaning of federal securities laws. These statements discuss future expectations, contain projections of results of operations or of financial condition or state other forward-looking information. You can identify forward-looking statements by words such as “believe,” “estimate,” “expect,” “forecast,” “could,” “may,” “will,” “targeting,” “illustrative” or other similar expressions that convey the uncertainty of future events or outcomes. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties and other factors, some of which are beyond the control of Valero or VLP, as applicable, and are difficult to predict. These statements are often based upon various assumptions, many of which are based, in turn, upon further assumptions, including examination of historical operating trends made by the management of Valero or VLP, as applicable. Although Valero. 
+Endnotes 1. The Committee’s charter is publicly available on our website at www.valero.com 2. See table, IEA World Energy Outlook 2016, pg. 111 3. See table, IEA World Energy Outlook 2016, pg. 111 4. See table, IEA World Energy Outlook 2016, pg. 111 5. IEA World Energy Outlook 2016, pg. 35 6. See table, IEA World Energy Outlook 2016, pg. 111 7. IEA World Energy Outlook 2016, pg. 112 8. See table, IEA World Energy Outlook 2016, pg. 111 9. IEA World Energy Outlook 2016, pg. 45 10. IEA World Energy Outlook 2017, pg. 157 11. See table, IEA World Energy Outlook 2016, pg. 111
+
+
+30. 
+Printed in the U.S.A.
+Valero Energy Corporation. 
+Corporate Headquarters. 
+P.O. Box 696000. 
+San Antonio, TX 78269 valero.com

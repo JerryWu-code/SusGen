@@ -1,0 +1,806 @@
+Ørsted ESG performance report 2019
+
+
+1. Introduction 3 1.1 CFO’s review 4 1.2 ESG target overview 5 1.3 Overview by business unit 6 1.4 Overview by country 7 1.5 Our programmes vs SDGs and ESG notes 8 1.6 Basis of reporting 9 2. Environment 10 2.1 Renewable capacity 11 2.2 Generation capacity 12 2.3 Energy generation 13 2.4 Green energy share 14 2.5 Energy business drivers 15 2.6 Energy sales and distribution 16 2.7 Greenhouse gas emissions, scope 1 and 2 17 2.8 Greenhouse gas emissions, scope 3 18 2.9 Avoided carbon emissions 19 2.10 Energy consumption 20 2.11 Water 21 2.12 Waste 22 2.13 Environmental incidents, NOx and SO2 23 2.14 Biodiversity – protected areas 24 2.15 Biodiversity – endangered species 25 3. Social 26 3.1 Human capital 27 3.2 Gender diversity 28 3.3 Gender pay gap 29 3.4 Safety 30 3.5 Job creation and people powered 31 3.6 Customers 32 4. Governance 33 4.1 Our governance model 34 4.2 Board of Directors 35 4.3 Group Executive Management 36 4.4 Good business conduct, green bonds and tax 37 4.5 Responsible partner programme 38 5. Auditor's report and calculation factors 39 5.1 Limited Assurance Report on the consolidated ESG statements 40 5.2 Calculation factors 41. 
+Contents Ørsted ESG perfomance report 2019 Contents 2 / 42
+
+
+4 CFO’s review 5 ESG target overview 6 Overview by business unit 7 Overview by country 8 Our programmes vs SDGs and ESG notes 9 Basis of reporting 1. Introduction Ørsted ESG perfomance report 2019 Contents
+
+
+Ørsted's vision of creating a world that runs entirely on green energy was supported by a strong performance and new ambitious greenhouse gas reduction targets in 2019: — We have increased the scope of our greenhouse gas intensity target to include all emissions from our own operations and from energy we source for our operations. — Furthermore, we have set a new ambitious target to reduce the emissions from our supply chain and the sale of gas and fossilbased power by 50% in 2032. — Our total heat and power generation increased by 9% to 28.4TWh in 2019, of which 86% was based on renewable energy. — Our scope 1 and 2 greenhouse gas intensity decreased by 50% to 65g CO2e/kWh. — Our scope 3 greenhouse gas emissions decreased by 4%.
+New ambitious targets in 2019 By the end of 2019, we have reduced the greenhouse gas emission intensity from our energy generation by 86%, compared with 2006, by converting our CHP plants to sustainable biomass and deploying offshore and onshore wind.
+We are determined to continue to eliminate emissions, and therefore, we have decided 1.1 CFO’s review that we want to be carbon neutral by 2025. Our target for all direct greenhouse gas emissions from our operations (scope 1) and indirect emissions from the energy we source for our operations (scope 2) is 10g CO2e/kWh in 2025, which corresponds to a 98% reduction compared with 2006. To meet the target, we will phase out coal by 2023, and we have a wide range of other carbon reduction initiatives underway, including a full conversion of our company car fleet to electric vehicles by 2025. We will continue to investigate solutions for the remaining emissions, which could also include investing in certified carbon removal projects.
+We also address the indirect carbon emissions from across our supply chain and energy trading activities (scope 3 emissions). We have set a target of 50% reduction from 2018 to 2032. To meet this target, we have decided to gradually phase out trading of natural gas and to work with our strategic suppliers to decarbonise our supply chain. We will work towards achieving carbon neutrality in our total carbon footprint, both direct and indirect, by 2040.
+Renewable energy capacity Our installed renewable capacity increased by 19% to 9.9GW in 2019.
+In July, we commissioned the 184MW onshore wind farm Lockett and in December, we commissioned Hornsea 1, the world’s largest offshore wind farm with a capacity of 1,218MW which will supply more than 1.1 million UK homes with green power. The bioconversion of Asnæs Power Station was completed in December 2019 and added 125MW biomass- based heat capacity to our portfolio.
+Energy generation Our total power generation in 2019 was 20.1TWh, which was 17% higher than in 2018.
+The power generation in Offshore increased by 19% to 12.0TWh in 2019. The increase was primarily due to ramp-up of power generation capacity at Hornsea 1 and full-year effects from Borkum Riffgrund 2 and Walney Extension. The power generation in Onshore was 3.5TWh in 2019, 3.0TW higher than last year due to the full-year effects from the acquisition of Lincoln Clean Energy in October 2018 and new wind farms.
+Thermal power generation decreased by 30% to 4.6TWh relative to 2018. The decrease was mainly due to lower combined heat and power generation in 2019 because of a lower heat demand, and to the divestment of the Dutch power plant Enecogen in 2018.
+Our total heat and power generation increased by 9% to 28.4TWh in 2019, with 86% being based on renewable energy. The increase in the green share of energy of 11 percentage points was driven by increased wind-based generation and reduced thermal energy generation with a relatively higher green share of fuels.
+Greenhouse gas emissions We reduced our coal consumption by 52% and our natural gas consumption by 29% from 2018 to 2019. Consequently, our scope 1 greenhouse gas emissions were reduced by 47% to 1.8 million tonnes CO2e in 2019.
+The reduced use of fossil fuels, the relative increase in the use of sustainable biomass, and the increased energy generation from wind resulted in a 50% reduction of our scope 1 and 2 greenhouse gas intensity to 65g CO2e/kWh. Our scope 3 emissions were reduced by 4% from 2018 to 2019, mainly driven by lower gas sales.
+Safety In May, an employee of one of our contractors died after a serious accident at the Avedøre Power Station. We are deeply affected by this. Safety is of utmost importance to us, and we have initiated several improvement tracks to ensure that an accident like this will never happen again.
+Marianne Wiinholt, CFO Ørsted ESG perfomance report 2019 Introduction Contents 4 / 42
+
+
+Review Note Indicator Unit Target 2019 2018 Δ 2017. 
+Strategic targets 2.1 Installed renewable capacity MW 30GW (2030) 9,870 8,303 19% 5,763 2.1 Installed offshore wind capacity MW 15GW (2025) 6,820 5,602 22% 3,875 2.1 Installed onshore wind and solar capacity MW 5GW (2025) 997 813 23% - 2.4 Green share of energy generation % 95 (2023), 99 (2025) 86 75 11%p 64 2.7 Scope 1 and 2 greenhouse gas intensity g CO2e/kWh 20 (2023), 10 (2025)1 65 131 (50%) 151 2.8 Scope 3 greenhouse gas emissions Million tonnes CO2e 50% (2032)2 34.6 36.2 (4%) - 3.1 Employee satisfaction Index 0-100 77 (2020)3 77 76 1p 76 3.4 Total recordable injury rate (TRIR) Per million hours worked 2.9 (2025) 4.9 4.7 4% 6.4. 
+Additional sustainability targets 2.10 Certified renewable wooden biomass sourced % 100 (2020) 96 83 13%p 72 2.10 Coal consumption Thousand tonnes 0 (2023) 588 1,206 (51%) 1,100 2.10 Green share of power for own consumption % 100 (2019)4 100 86 14%p - 2.10 Internal energy savings, accumulated from 2018 GWh 15 (2023) 8.8 0.9 7.9 - 2.10 Share of electric vehicles % 100 (2025) 21 -- 3.1 Learning and development indicator (annual employee survey) Index 0-100 80 (2020) 77 76 1p 76 3.2 Women in leadership positions, Leadership Conference % female 22 (2023) 13 10 3%p 13 3.2 Women in leadership positions, middle management % female 30 (2023) 25 25 0%p 25 1 In addition to the emission reduction targets, we have set a new target of being carbon neutral in 2025. We will continue to investigate solutions for the remaining emissions, which could also include investing in certified carbon removal projects.
+2 50% reduction in total scope 3 emissions from the base year 2018.
+3 We have reached our 2020 target of 77 one year in advance. Our new target from 2020 and onwards is an employee satisfaction survey result in the top ten percentile compared with an external benchmark group.
+4 We have expanded the previous target, which excluded power consumption for heat generating boilers, to include all power for own consumption from 2019 and onwards. The revision was done in order to support our new target of being carbon neutral in 2025.
+1.2 ESG target overview Ørsted ESG perfomance report 2019 Introduction Contents 5 / 42
+
+
+Review Note Indicator Unit Offshore Onshore. 
+Markets & Bioenergy. 
+Other activities/ eliminations Total 2019 Total 2018 Δ
+AR 2.1 Revenue DKK billion 40.2 0.7 32.8 (5.9) 67.8 76.9 (12%)
+AR 2.1 EBITDA DKK billion 15.2 0.8 1.5 0.0 17.5 30.0 (42%) 2.1 Installed renewable capacity MW 6,820 997 2,053 -9,870 8,303 19% 2.1 Decided (FID) renewable capacity (not yet installed) MW 3,038 1,091 -4,129 3,665 13% 2.1 Awarded and contracted renewable capacity (no FID yet) MW 4,996 -4,996 4,796 4% 2.1 Total renewable capacity (installed + decided + awarded and contracted) MW 14,854 2,088 2,053 -18,995 16,764 13% 2.2 Generation capacity, power MW 3,627 997 2,865 -7,489 6,673 12% 2.2 Generation capacity, heat MW -3,560 -3,560 3,425 4% 2.3 Power generation TWh 12.0 3.5 4.6 -20.1 17.2 17% 2.3 Heat generation TWh -8.3 -8.3 8.8 (6%) 2.7 Scope 1 and 2 GHG emissions Thousand tonnes CO2e 39 0 1,809 2 1,850 3,528 (48%) 2.7 Scope 3 GHG emissions Thousand tonnes CO2e 792 74 33,700 38 34,604 36,234 (4%) 2.7 Greenhouse gas intensity g CO2e/kWh 3 0 140 -65 131 (50%) 2.4 Green share of energy generation % 100 100 68 -86 75 11%p 3.1 Number of employees Full-time equivalents (FTE) 2,777 95 1,828 1,826 6,526 6,080 7% 3.4 TRIR (total recordable injury rate) Per million hours worked 2.7 5.9 10.4 3.2 4.9 4.7 4%
+This indicator has been audited as part of the financial statements in the 2019 annual report.
+1.3 Overview by business unit Ørsted ESG perfomance report 2019 Introduction Contents 6 / 42
+
+
+Review Note Indicator Unit Denmark United Kingdom Germany The Netherlands The US Taiwan Other countries Total 2019 Total 2018 Δ 2.1 Installed renewable capacity MW 3,059 4,400 1,384 -1,027 -9,870 8,303 19% 2.1 – Of which, offshore wind MW 1,006 4,400 1,384 -30 -6,820 5,602 22% 2.1 – Of which, onshore wind MW -987 -987 803 23% 2.1 – Of which, solar MW -10 -10 10 0% 2.1 – Of which, thermal biomass-based heat capacity MW 2,053 -2,053 1,888 9% 2.1 Decided (FID) renewable capacity (not yet installed) MW -1,386 -752 1,091 900 -4,129 3,665 13% 2.1 Awarded and contracted renewable capacity (no FID yet) MW -1,142 -2,934 920 -4,996 4,796 4% 2.1 Total renewable capacity (installed + FID + awarded and contracted) MW 3,059 5,786 2,526 752 5,052 1,820 -18,995 16,764 13% 2.2 Generation capacity, power MW 3,428 2,342 692 -1,027 -7,489 6,673 12% 2.2 – Of which, offshore wind MW 563 2,342 692 -30 -3,627 3,018 20% 2.2 – Of which, onshore wind MW -987 -987 803 23% 2.2 – Of which, thermal energy MW 2,865 -2,865 2,842 1% 2.2 – Of which, solar energy MW -10 -10 10 0% 2.2 Generation capacity, heat MW 3,560 -3,560 3,425 4% 2.3 Power generation TWh 6.9 7.4 2.2 -3.6 -20.1 17.2 17% 2.3 Heat generation TWh 8.3 -8.3 8.8 (6%) 2.4 Green share of energy generation % 73 100 100 -100 -86 75 11%p 2.7 Greenhouse gas intensity g CO2e/kWh 120 4 3 -0 -65 131 (50%) 2.7 Scope 1 and 2 GHG emissions. 
+Thousand tonnes CO2e 1,814 29 7 -0 -1,850 3,528 (48%) 3.1 Number of employees (FTEs) Number 4,547 1,029 205 28 216 89 412 1 6,526 6,080 7% 1 FTE distribution in other countries: Poland (202), Malaysia (190), Singapore (9), Sweden (7), South Korea (3) and Japan (1).
+1.4 Overview by country Ørsted ESG perfomance report 2019 Introduction Contents 7 / 42
+
+
+Three levels of contributions to the SDGs 1. Aligning our business with climate science We build green energy at scale and reduce the carbon emissions necessary to limit global warming to 1.5°C. This contributes positively to SDGs 7 and 13 and is our biggest positive contribution to the global goals.
+2. Addressing any potential impact of the green energy transformation Through our investments in green energy, we drive socioeconomic growth in local communities and supply chains, and positively contribute to SDG 8 and SDG 11. We prevent and mitigate the potential negative impacts from the green energy transition in the communities and environments where we operate in line with SDGs 14 and 15.
+3. Ensuring responsible business practices We conduct business with responsibility and accountability, ensuring respect for our employees, business partners, and suppliers. Through our different programmes, we contribute positively to SDGs 3, 5, 8 and 16, while also minimising our potential negative impacts.
+Sustainability programme SDG Our contribution Note 1. Aligning our business with climate science. 
+Decarbonisation of energy generation and operations 13 We aim to become carbon neutral to help limit climate change 2.7. 
+Decarbonisation of supply chain and energy trading 13 We reduce our indirect carbon emissions to help limit climate change 2.8. 
+Deployment of offshore wind 7.2 We increase the share of renewable energy in the global energy mix 2.4. 
+Deployment of onshore renewable energy 7.2 We increase the share of renewable energy in the global energy mix 2.4. 
+Greener combined heat and power plants 7.2 We increase the share of renewable energy in the global energy mix 2.4. 
+Green energy integration 9.4 We develop and adopt a greater range of clean and environmentally sound technologies -
+Financing green -- 2. Addressing potential impacts of the green energy transformation. 
+Sourcing of certified sustainable biomass 15.2 We minimise our potential negative impacts on forests and promote sustainable forest management 2.10. 
+Protecting biodiversity 14.2, 15.5 We work to mitigate our impacts on marine and costal ecosystems and take action to halt the loss of biodiversity and natural habitats 2.14 2.15. 
+Local communities 8.3, 8.5 11.A. 
+We promote development and support decent job creation in the markets where we operate. We work to support positive economic, social and environmental development of local communities through project planning and stakeholder engagement -
+Resource management 12.4, 12.5 We work to minimise our waste levels, including hazardous waste. We further work to ensure the responsible management of waste that cannot be avoided, recycled or reused 2.12 3. Ensuring responsible business practices. 
+Workplace safety 8.8 We contribute to safe working environments through our safety approach and targets 3.4. 
+Employee health and well-being 3.4 We work to promote mental health and mental well-being 3.1. 
+Employee development -3.1. 
+Employee satisfaction -3.1. 
+Employee diversity and inclusion 5.5 We work to ensure women’s full and effective participation as well as equal opportunities for all in the workplace 3.2. 
+Good business conduct 16.5 We strive to tackle corruption and bribery through due diligence, training compliance and misconduct reporting 4.4. 
+Responsible business partner programme 8.7,8.8, 16.5 We seek to minimise any potential negative impact on labour rights, modern slavery, safety, corruption and bribery in our supply chains 4.5. 
+Information and cybersecurity --
+Responsible tax practices 16.6 We contribute to effective, accountable and transparent tax institutions at all levels 4.4 1.5 Our programmes vs SDGs and ESG notes. 
+Our sustainability performance is managed through 20 sustainability programmes. You can find more information in our 2019 sustainability report (orsted.com/sustainability2019). The table shows how the. 
+ESG notes in this report link to specific SDG targets, what we do to manage our impact, and through which sustainability programmes.
+Ørsted ESG perfomance report 2019 Introduction Contents 8 / 42
+
+
+1.6 Basis of reporting. 
+About this report In this report, you will find the complete set of Ørsted’s environment, social and governance (ESG) performance indicators. These are the data that we use in our reporting to various investor schemes and as the foundation for our answers to questions from investors and other stakeholders.
+A selection of the data in this report is also presented in our: – annual report 2019, consolidated ESG statements – sustainability report 2019.
+This report contains Ørsted´s statement on the underrepresented gender in accordance with section 99B of the Danish Financial Statement Act (Årsregnskabsloven). See note 3.2 'Gender diversity'.
+ESG data collection and data quality We continuously seek to develop our ESG data set in order to support our business and to provide our stakeholders with relevant and transparent reporting of our ESG performance. All our ESG data are reported to the same consolidation system, and we apply the same processes and tools to our ESG reporting, as to our financial reporting.
+Consolidation of ESG data The ESG performance data is consolidated according to the same principles as the financial statements. The consolidated ESG performance data thus comprises the parent company Ørsted A/S and subsidiaries controlled by Ørsted A/S.
+Data from associates and joint ventures is not included in the consolidated ESG perform ance data.
+The scoping and consolidation of health, safety and environment (HSE) incidents deviate from the above-described principles. HSE incident data is collected using an operational scope. This means that irrespective of our ownership share, we include 100% of injuries, environmental incidents, hours worked, etc., from all operations where Ørsted is responsible for HSE, including safety for our external suppliers.
+All data presented follows the principles above, unless otherwise specified in the accounting policy for the individual indicator. Accounting policies for all our ESG data can be found next to each data table in the environmental (E), social (S) and governance (G) sections. The calculation factors used in this report are listed at the end of the report together with references.
+New ESG indicators in 2019 – Scope 3 greenhouse gas emissions (introduced in the H1 2019 interim ESG report). – Internal energy savings (MWh). – Electric company vehicles (%). – Green bond proceeds allocated to offshore wind projects (DKK million/year). – Avoided emissions from allocated green bonds proceeds (tonnes CO2). – Renewable share of energy consumption.
+Revised ESG indicators 2019 – GHG intensity: Scope 1 and 2 GHG emissions per kWh energy generated (introduced in the H1 2019 interim ESG report). – People powered (added onshore wind capacity, solar capacity and introduced state- specific emission factors for sites in the US).
+Discontinued ESG indicators – Committee information (members, meetings, participation) for committes below the Board of Directors. – Energy savings for power customers. – FTEs divided by age groups. – Number of people who have left the company divided by reasons to leave.
+Business changes impacting ESG data There has been no M&A related bussiness changes with significant ESG impact in 2019.
+Financial scope. 
+We use a financial scope for our data collection. Thus, the consolidated ESG performance data comprises the parent company Ørsted A/S and subsidiaries controlled by Ørsted A/S.
+Financial consoli dation. 
+We use the same consolidation method and consolidation application for our ESG data as for our financial data.
+External review. 
+All ESG data in both Ørsted's annual and sustainability reports has been reviewed by PwC. All data in this report covered by the ESG review is marked with a ' ' in the tables. See the auditor’s limited assurance report on page 40 for information about the external review.
+Ørsted ESG perfomance report 2019 Introduction Contents 9 / 42
+
+
+2. Environment 11 Renewable capacity 12 Generation capacity 13 Energy generation 14 Green energy share 15 Energy business drivers 16 Energy sales and distribution 17 Greenhouse gas emissions, scope 1 and 2 18 Greenhouse gas emissions, scope 3 19 Avoided carbon emissions 20 Energy consumption 21 Water 22 Waste 23 Environmental incidents, NOx and SO2 24 Biodiversity – protected areas 25 Biodiversity – endangered species Ørsted ESG perfomance report 2019 Contents
+
+
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Installed renewable capacity MW 30GW (2030) 9,870 8,303 19% 5,763 – Offshore wind power MW 15GW (2025) 6,820 5,602 22% 3,875 – Denmark MW 1,006 1,006 0% 1,006 – The UK MW 4,400 3,182 38% 1,950 – Germany MW 1,384 1,384 0% 919 – The US MW 30 30 0% - – Onshore wind power MW 5GW (2025)1 987 803 23% - – Solar power MW Note1 10 10 0% - – Thermal heat, biomass MW 2,053 1,888 9% 1,888. 
+Decided (FID) renewable capacity (not yet installed) MW 4,129 3,665 13% 5,178 – Offshore wind power MW 3,038 3,356 (9%) 5,053 – The UK MW 1,386 2,604 (47%) 3,836 – Germany MW -0% 465 – The Netherlands MW 752 752 0% 752 – Taiwan MW 900 -- – Onshore wind power MW 671 184 265% - – Solar power MW 420 -- – Thermal heat, biomass MW -125 (100%) 125. 
+Awarded and contracted (not yet FID) renewable capacity MW 4,996 4,796 4% 590 – Offshore wind power MW 4,996 3,916 28% 590 – Germany MW 1,142 1,142 0% 590 – The US MW 2,934 954 208% - – Taiwan MW 920 1,820 (49%) - – Onshore wind power MW -530 (100%) - – Solar power MW -350 (100%) -
+Sum of installed and FID capacity MW 13,999 11,968 17% 10,941. 
+Sum of installed + FID + awarded and contracted capacity MW 18,995 16,764 13% 11,531. 
+Installed storage capacity MWac 21 1 20MWac - 1 The 5GW (2025) target is for onshore wind and solar power combined.
+2.1 Renewable capacity. 
+Accounting policies. 
+Installed renewable capacity The installed renewable capacity is calculated as the cumulative renewable gross capacity installed by Ørsted before divestments.
+For installed renewable thermal capacity, we use the heat capacity, as heat is the primary outcome of thermal energy generation, and as bioconversions of the combined heat and power plants are driven by heat contracts.
+Decided (FID) renewable capacity Decided (FID) capacity is the renewable capacity for which a final investment decision (FID) has been made.
+Awarded and contracted renewable capacity The awarded renewable capacity is based on the capacities which have been awarded to Ørsted in auctions and tenders. The contracted capacity is the capacity for which Ørsted has signed a contract or power purchase agreement (PPA) concerning a new renewable energy plant. Typically, offshore wind farms are awarded, whereas onshore wind farms are contracted. We include the full capacity if more than 50% of PPAs/offtake are secured.
+Installed storage capacity The battery storage capacity is included after commercial operational date (COD) has been achived. The capacity is presented as megawatts of alternating current (MWac).
+Ørsted ESG perfomance report 2019 Environment 11 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Power generation capacity MW 7,489 6,673 12% 5,899 – Offshore MW 3,627 3,018 20% 2,508 – Denmark MW 563 563 0% 583 – The UK MW 2,342 1,733 35% 1,465 – Germany MW 692 692 0% 460 – The US MW 30 30 0% - – Onshore, US MW 987 803 23% - – Solar, US MW 10 10 0% - – Thermal MW 2,865 2,842 1% 3,391 – Denmark MW 2,865 2,842 1% 2,956 – The Netherlands MW -435. 
+Heat generation capacity, thermal MW 3,560 3,425 4% 3,415. 
+Fuel-specific heat generation capacity, thermal. 
+Based on biomass MW 2,053 1,888 9% 1,888. 
+Based on coal MW 1,385 1,384 0% 1,492. 
+Based on natural gas MW 1,774 1,774 0% 1,774. 
+Fuel-specific power generation capacity, thermal. 
+Based on biomass MW 1,216 1,190 2% 1,098. 
+Based on coal MW 1,019 1,016 0% 1,130. 
+Based on natural gas MW 1,010 1,012 0% 1,447 2.2 Generation capacity. 
+The power generation capacity increased by 12% from 2018 to 2019, due to an increase in offshore capacity of 20% following the ongoing commissioning of Hornsea 1 and an increase in onshore capacity by 23% following the commisioning of the onshore wind farm Lockett.
+Thermal biomass-based heat capacity increased by 9% in 2019 because of the bioconversion of Asnæs Power Station. This was also the reason for the 4% increase in total (non-fuel specific) thermal heat generation capacity.
+The capacity for the replaced units at Asnæs Power Station will be withdrawn in 2020.
+Accounting policies. 
+Power generation capacity Power generation capacity from offshore wind farms is calculated and included from the time when the individual wind turbine has passed a 240-hour test. Generation capacities for onshore wind and solar are included after COD.
+The Gunfleet Sands and Walney 1 and 2 offshore wind farms have been consolidated according to ownership interest. Other wind farms, solar farms and CHP plants are financially consolidated.
+Heat and power generation capacity, thermal The thermal heat and power generation capacity is a measure of the maximum capability to generate heat and power.
+The capacity can change over time with plant modifications. For each CHP plant, the capacity is given for generation with the primary fuel mix. Overload is not included.
+Fuel-specific capacities measure the maximum capacity using the specified fuel as primary fuel at the multi-fuel plants. Therefore, the total sum amounts to more than 100%.
+CHP plants which have been taken out of primary operation and put on standby are not included.
+Ørsted ESG perfomance report 2019 Environment 12 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Power generation, Ørsted total GWh 20,118 17,245 17% 16,700. 
+Power generation, offshore wind GWh 11,965 10,042 19% 8,512 – Denmark GWh 2,209 2,197 1% 2,475 – The United Kingdom GWh 7,416 6,116 21% 4,516 – Germany GWh 2,220 1,706 30% 1,521 – The US GWh 120 23 426% -
+Power generation, onshore wind, US GWh 3,498 549 537% -
+Power generation, onshore solar, US GWh 15 3 428% -
+Power generation, thermal GWh 4,640 6,652 (30%) 8,188 – Denmark GWh 4,635 6,262 (26%) 6,040 – The Netherlands GWh - 390 (100%) 2,148 – The United Kingdom GWh 5 --
+Heat generation, Ørsted total, Denmark GWh 8,312 8,768 (5%) 9,040. 
+Total heat and power generation, Ørsted GWh 28,430 26,013 9% 25,740 2.3 Energy generation. 
+Offshore power generation increased by 19% relative to 2018. The increase was primarily due to generation from new wind farms as well as higher wind speeds.
+Onshore wind and solar power generation was 3.5TWh in 2019.
+Thermal power generation was 30% lower than in 2018 because we generated heat without combined power generation at Asnæs Power Station and divested our Dutch power plant Enecogen in 2018.
+Thermal heat generation was 5% lower than in 2018 due to warmer weather in H1 2019, leading to a lower demand for heat, which was partly offset by colder weather and higher heat generation in H2 2019.
+Accounting policies. 
+Power generation Power generation from wind farms is determined as generation sold. The Gunfleet Sands 1 and 2 and Walney 1 and 2 offshore wind farms have been consolidated according to ownership interest.
+Thermal power generation is determined as net generation sold based on settlements from the official Danish production database. Data for generation from foreign facilities are provided by the operators.
+Heat generation Thermal heat (including steam) generation is measured as net output sold to heat customers.
+Ørsted ESG perfomance report 2019 Environment 13 / 42. 
+Contents
+
+
+Review Indicator Unit Target 2019 2018 Δ 2017 Ørsted's total heat and power generation % 100 100 0%p 100 – From offshore wind % 42 39 3%p 33 – From onshore wind % 13 2 11%p 0 – From biomass % 31 34 (3%p) 31 – From other green energy sources % 0 -0%p - – From coal % 9 17 (8%p) 19 – From natural gas % 5 8 (3%p) 17 – From other fossil energy sources % 0 0 0%p 0. 
+Green energy share, Ørsted % 99 (2025)1 86 75 11%p 64. 
+Green energy share, thermal heat and power generation % 68 58 10%p 47 1 Additional target is 95% in 2023.
+2.4 Green energy share. 
+The green share of our heat and power generation amounted to 86% in 2019, up 11 percentage points relative to 2018. The increase was due to higher generation from wind farms, increased thermal generation from biomass and reduced heat and power generation based on coal and gas.
+The share of generation from wind increased by 14 percentage points as a result of new offshore generation capacity in the UK and. 
+Germany as well as full-year effect from the acquisition of Lincoln Clean Energy in October 2018.
+Our share of generation based on biomass decreased by 3 percentage points. However, the biomass share of energy generation at the combined heat and power plants increased by 10 percentage points to 68% in 2019. The coal-based share of our generation decreased by 8 percentage points, primarily due to lower power generation at the Asnæs Power Station.
+The 3 percentage point reduction in our share of generation based on natural gas was primarily due to the divestment of our 50% ownership share in the gas-fired power plant Enecogen in the Netherlands in 2018.
+The green share of our generation increased from 75% in 2018 to 86% in 2019. The increase was due to higher generation from offshore and onshore wind, increased use of biomass and reduced use of coal and natural gas. The category 'Other' includes solar, biogas, oil and sourced power.
+Accounting policies. 
+Green energy share The green (renewable energy) share of our heat and power generation and the distribution of the generation on the individual energy sources and fuels are calculated on the basis of the energy sources used and the energy generated at the different energy plants.
+For combined heat and power plants, the share of the specific fuel (e.g. biomass) is calculated relative to the total fuel consumption for a given plant/ unit within a given time period. The specific fuel share is then multiplied by the total heat and power generation for the specific plant/unit in the specific period. The result is the fuel-based generation for the individual unit – for example the biomass-based generation of heat and power from the CHP plant unit within a given time period.
+Energy generation based on renewable energy sources is added up to a total which tallies with total generation. The percentage share of the individual energy sources is calculated by dividing the generation from the individual energy source by the total generation.
+The following energy sources and fuels are considered renewable energy: wind, solar, biomass and biogas. The following energy sources are considered fossil energy sources: coal, natural gas, oil and sourced power.
+Total heat and power generation 2019 by energy source. 
+Offshore wind Onshore wind. 
+Biomass Coal. 
+Natural gas Other 0% 31% 5% 42% 13% 9% Ørsted ESG perfomance report 2019 Environment 14 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Offshore wind. 
+Availability % 93 93 0%p 93. 
+Load factor % 42 42 0%p 44. 
+Wind speed m/s 9.2 9.1 0.1m/s 9.3. 
+Wind speed, normal wind year m/s 9.2 9.2 0m/s 9.2. 
+Onshore wind. 
+Availability % 98 98 0%p -
+Load factor % 45 41 4%p -
+Wind speed m/s 7.3 7.3 0m/s -
+Other. 
+Degree days, Denmark Number 2,399 2,526 (5%) 2,705. 
+Energy efficiency, thermal generation % 77 71 6%p 69 2.5 Energy business drivers. 
+Offshore wind Availability was at 93%, the same level as the year before. The average portfolio windspeed was 9.2m/s in 2019, which was in line with a normal wind year.
+Onshore wind Wind speeds averaged 7.3m/s, which was at the same level as 2018.
+Other The number of degree days was 5% lower in 2019, meaning that the weather was warmer than in 2018. This led to a lower need for heat generation, which explains the 5% drop in heat generation in 2019.
+Energy efficiency increased by 6%, primarily because of a relative higher combined heat and power generation in 2019 in relation to power- and heat-only generation.
+Accounting policies. 
+Availability Availability is calculated as the ratio of actual production to the possible production, which is the sum of lost production and actual production in a given period. The production-based availability (PBA) is impacted by grid and wind-turbine outages, which are technical production losses. PBA is not impacted by market requested shutdowns and wind farm curtailments, as this is deemed not to be reflective of site performance, but due to external factors. Total availability is determined by weighting the individual wind farm's availability against the capacity of the wind farm.
+Load factor The load factor is calculated as the ratio between actual generation over a period relative to potential generation, which is possible by continuously exploiting the maximum capacity over the same period. The load factor is commercially adjusted.
+Commercially adjusted means that, for Danish and German offshore wind farms, the load factor is adjusted if the offshore wind farm has been financially compensated by the transmission system operators in situations where the offshore wind farm is available for generation, but the output cannot be supplied to the grid due to maintenance or grid interruptions. Wind farms in other countries are not compensated for non-access to the grid.
+New wind turbines are included in the calculation of availability and load factor once they have passed a 240-hour test for offshore and COD for onshore.
+Wind speed Wind speeds for the areas where Ørsted's offshore wind farms are located are provided to Ørsted by an external supplier. Wind speeds are weighted on the basis of the capacity of the individual offshore wind farms and consolidated to an Ørsted total.
+Onshore wind speed is based on wind speed measurements from anemometers on the wind turbines. Due to the location of these anemometers on the turbine nacelles, these measurements understate actual wind speed conditions on site as they are impacted by wake and blockage effect. Normal wind speed is a 20-year historical wind speed average.
+Degree days Degree days are a measure of how cold it has been and thus indicate the amount of energy needed to heat a building. The number of degree days helps to compare the heat demand for a given year with a normal year. The number of degree days expresses the difference between an average indoor temperature of 17°C and the outside mean temperature for a given period. The need for heat increases with the number of degree days.
+Energy efficiency, thermal generation Energy efficiency is calculated as total thermal heat and power generation divided by total energy content of fuels (lower caloric values) used in the generation of thermal heat and power.
+Ørsted ESG perfomance report 2019 Environment 15 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Gas sales. 
+Gas sales TWh 125.0 131.1 (5%) 129.0. 
+Power sales. 
+Power sales TWh 27.6 27.31 1% 31.41 - Green power to end-customers TWh 8.9 7.6 17% - - Regular power to end-customers TWh 4.2 4.3 (2%) - - Power wholesale TWh 14.5 15.4 (6%) -
+Power distribution TWh 8.4 8.4 0% 8.4 1 Note: The 2018 and 2017 values for power sales have been restatet according to updated accounting principles for power sales.
+2.6 Energy sales and distribution. 
+Gas sales was down 5% at 125.0TWh in 2019 compared to 2018. This was mainly driven by the lower gas prices.
+Power sales was up 1% at 27.6TWh in 2019 compared to 2018. The sale of green power to end-customers increased by 17% to 8.9TWh. The main driver was more green power sold in the UK.
+Accounting policies. 
+Gas and power sales Gas and power sales are calculated as physical sales to retail and wholesale customers and exchanges. Internal sales are not included in the statement.
+We have updated the previously announced 2018 and 2017 values for power sales, as we have eliminated the internally sourced power generation volumes in Germany and the UK in the Ørsted total external sales.
+Power distribution Power distribution is determined on the basis of data from the official system in Denmark, which measures and calculates total area consumption.
+Ørsted ESG perfomance report 2019 Environment 16 / 42. 
+Contents
+
+
+2006 2019 2018 2023 2025. 
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Direct GHG emissions (scope 1)
+Total scope 1 GHG emissions Thousand tonnes CO2e 1,8461 3,483 (47%) 3,949. 
+Indirect GHG emissions (scope 2)
+Location-based Thousand tonnes CO2e 123 151 (19%) 98. 
+Market-based Thousand tonnes CO2e 4 45 (91%) 221. 
+Greenhouse gas emission intensity. 
+GHG intensity, Ørsted1 g CO2e/kWh 10 (2025)2 65 131 (50%) 151. 
+GHG intensity, CHP plants only g CO2e/kWh 138 222 (38%) 226. 
+GHG intensity, revenue, Ørsted g CO2e/DKK 27 46 (41%) 70. 
+GHG intensity, EBITDA, Ørsted g CO2e/DKK 106 117 (9%) 185 1 In 2019, carbon dioxide accounted for 99% of the total scope 1 GHG emissions. The other GHGs are methane, nitrous oxide and sulfur hexaflouride.
+2 Additional target 20 (2023) 2.7 Greenhouse gas emissions, scope 1 and 2. 
+Accounting policies. 
+Direct GHG emissions (scope 1) The direct scope 1 emissions is based on the Greenhouse Gas Protocol and covers all direct emissions of greenhouse gases from Ørsted. The direct carbon emissions from the thermal heat and power plants are determined on the basis of the fuel quantities used in accordance with the EU ETS scheme. Carbon dioxide and other greenhouse gas emissions outside the EU ETS scheme are for the most part calculated as energy consumptions multiplied by emission factors.
+Indirect GHG emissions (scope 2) The scope 2 emission reporting is based on the Greenhouse Gas Protocol and includes the indirect GHG emissions from the generation of power, heat and steam purchased and consumed by Ørsted. The scope 2 emissions are primarely calculated as the power volumes purchased multiplied by country-specific emission factors. Location-based is calculated based on average emission factors for each country, wheres as market-based takes the green power purchased into account and assumes that the nongreen power is delivered as residual power where the green part has been taken out.
+Greenhouse gas emission intensity Greenhouse gas emission intensities are calcalated as total scope 1 and scope 2 (market-based) emissions divided by Ørsted's total heat and power generation, revenue and EBITDA, respectively.
+The GHG intensity for CHP plants is calculated as scope 1 greenhouse gas emissions from CHP plants divided by total heat and power generation from CHP plants.
+power during standstill and shutdown periods. Markets & Bioenergy also purchased power for four heat boilers which generate heat from power. The rest of the location-based scope 2 emissions originated from purchased heat and power for office buildings.
+Ørsted´s greenhouse gas emission intensity decreased by 50% due to higher generation from offshore wind farms, new onshore wind farms as well as reduced use of coal, mainly due to generation of heat without power at Asnæs Power Station and a lower use of natural gas following the divestment of the Enecogen power plant.
+Our greenhouse gas intensity was reduced by 50% in 2019. We are well on track to meet our target of a greenhouse gas emission intensity of no more than 20g CO2e/ kWh in 2023 and 10g CO2e/kWh in 2025.
+Greenhouse gas emissions, scope 1 and 2, g CO2e/kWh For scope 1 greenhouse gas emissions, the main contributor was emissions from the combustion of fossil fuels at CHP plants. In 2019, the part of total scope 1 emissions coming from fossil fuel-based heat and power generation was 97%. The 47% reduction in scope 1 was mainly due to lower coalbased generation at the Asnæs, Esbjerg and Studstrup power stations as well as reduced consumption of natural gas after the sale of the Enecogen power plant in 2018.
+The main source of location-based scope 2 emissions was power purchased by Markets & Bioenergy to cover grid losses in distribution. In 2019, grid losses accounted for 48% of the total location-based scope 2 emissions. Markets & Bioenergy and Offshore purchased 462 65 131 20 10 -86% -98% Ørsted ESG perfomance report 2019 Environment 17 / 42. 
+Contents
+
+
+2018 2019 2032. 
+Review Indicator Primary source of emission Unit Target 2019 2018 Δ
+Greenhouse gas emissions, scope 3 Thousand tonnes CO2e 50% (2032) 34,604 36,234 (4%)
+C1: Purchased goods and services Thousand tonnes CO2e 244 226 8%
+C2: Capital goods New wind farms Thousand tonnes CO2e 740 1,032 (28%)
+C3: Fuel- and energy-related activities Non-green power sales Thousand tonnes CO2e 3,217 3,570 (10%)
+C4: Upstream transportation and distribution Thousand tonnes CO2e 1 --
+C5: Waste generated in operations Thousand tonnes CO2e 0 0 0%
+C6: Business travel Thousand tonnes CO2e 13 10 30%
+C7: Employee commuting Thousand tonnes CO2e 9 10 (10%)
+C9: Downstream transportation and distribution Thousand tonnes CO2e 3 3 0%
+C11: Use of sold products Natural gas sales Thousand tonnes CO2e 30,377 31,383 (3%)
+In 2019, we set a target to reduce our scope 3 greenhouse gas emissions by 50% from 2018 to 2032.
+Our scope 3 greenhouse gas emissions were reduced by 4% from 2018 to 2019. The main driver for this reduction was reduced gas sales, which accounted for 88% of our total scope 3 emissions in 2019. Gas sales was 5% lower in 2019 compared with 2018, primarily due to lower gas prices. The impact on scope 3 from the reduced total gas sales in 2019 was partly offset by increased sales of liquefied natural gas (LNG), as LNG has a higher upstream greenhouse gas emission factor compared to natural gas.
+The second-largest scope 3 emission driver was our regular (non-certified green) power trade to end-customers. We trade our own generated green power to B2C and B2B end-customers. But we also trade regular power to some of our B2B customers. All power trade to B2C customers is green power. The greenhouse gas emissions from the regular power trade to end-customers were reduced by 3% from 2018 to 2019, whereas the volume of green power sales increased by 17% (see note 2.6).
+The third-largest scope 3 driver was the craddle to installation life-cycle greenhouse gas emissions from new wind farms. The 28% decrease in capital goods is due to us commissioning a lower level of new (megawatt) capacity in 2019 compared to 2018.
+Accounting policies. 
+Greenhouse gas emissions, scope 3 The scope 3 greenhouse gas emissions are reported based on the Greenhouse Gas Protocol which divides the scope 3 inventory into 15 subcategories (C1-C15).
+GHG emissions from: – C1 are categorised spend data mulitiplied by relevant spend-category-specific emission factors. – C2 include upstream GHG emissions from installed wind farms. Carbon emissions are included from cradle to operations and maintenance for single wind turbines. Wind farms are included from the month where the wind farm has acieved commercial operation date. – C3 are calculated based on actual fuel consumption and power sales multiplied by relevant emission factors. We include all power sales to end-customers and use separate emission factors for green and non-green power sales. – C4 only include fuel for helicopter transport.
+Emissions from other transportation types are included in the emission factors we use for purchased goods and services. – C5 are calculated based on actual waste data multiplied by relevant emission factors. – C6 are calculated based on mileage allowances for employee travel in own cars and GHG emissions from airplane travel provided by our travel agent. – C7 are calculated based on estimates for distance travelled and travel type (e.g. car and train). – C9 are calculated based on volumes of residual products, estimated distances transported and relevant GHG emission factors for transportation. – C11 are calculated based on actual sales of gas to both end-users and wholesale as reported in our ESG consolidation system. The total gas trade is divided into natural gas, LNG gas and biogas which have specific up- and downstream emission factors.
+The subcategories C10 and C12-C15 are not relevant for Ørsted, as we have no greenhouse gas emissions within these categories.
+2.8 Greenhouse gas emissions, scope 3. 
+Our scope 3 greenhouse gas emissions were reduced by 4% in 2019. We are on track to meeting our target of a 50% reduction from 2018 to 2032.
+Creenhouse gas emissions, scope 3, million tonnes CO2e 36.2 34.6 18.1 -4% -50% Ørsted ESG perfomance report 2019 Environment 18 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Avoided carbon emissions Million tonnes CO2e 11.3 8.1 40% 6.7 – From wind generation, offshore Million tonnes CO2e 7.6 6.3 21% 5.3 – From wind generation, onshore Million tonnes CO2e 2.3 0.4 475% - – From biomass-converted generation Million tonnes CO2e 1.4 1.4 0% 1.4. 
+Accumulated avoided carbon emissions from 2006 to present year Million tonnes CO2e 45.5 34.2 33% 26.1 – From offshore wind generation Million tonnes CO2e 38.2 30.6 25% 24.3 – From onshore wind generation Million tonnes CO2e 2.7 0.4 575% - – From biomass-converted generation Million tonnes CO2e 4.6 3.2 44% 1.8. 
+Carbon emissions from heat and power generation. 
+Carbon emissions from heat and power generation Million tonnes CO2e 1.8 3.4 (47%) 3.9. 
+Accumulated (2006 to present year) Carbon emissions from heat and power generation Million tonnes CO2e 123 121 1% 118 2.9 Avoided carbon emissions. 
+Accounting policies. 
+Avoided carbon emissions The avoided carbon emissions due to generation from offshore and onshore wind farms are calculated on the basis of the assumption that the generation from wind farms replaces an equal quantity of power generated using fossil fuels.
+The carbon emission factor from fossil fuels is based on an average fossil fuel mix in the specific country. Data is extracted from the International Energy Agency, IEA. Power generation at a wind farm does not have direct carbon emissions, and no secondary effects are included, from neither CHP plants nor offshore wind farms. The avoided carbon emissions are calculated as the offshore wind farm’s generation multiplied by the emission factor.
+It is assumed that the use of 1GJ of biomass fuel avoids the use of 1GJ of fossil fuels. The upstream carbon emissions (from production, manufactoring and transportation of biomass) are included in the calculation.
+The accounting policies for avoided carbon emissions follow the principles of the GHG Project Protocol and the UNFCCC methodology.
+Carbon emissions Carbon emissions include scope 1 greenhouse gas emissions from thermal heat and power generation. For more details, see '2.7 Greenhouse gas emissions, scope 1 and 2'.
+Avoided carbon emissions are the result of installed wind farms and conversions of CHP plants to using biomass as fuel. If these projects had not been undertaken, other sources would have provided the power generated.
+In 2019, the avoided emissions increased by 40% due to the increase in wind-based power generation.
+At the end of 2019, we have avoided an accumulated total of 46 million tonnes carbon dioxide since 2006. This is the result of our wind-based and biomass-converted energy generation and corresponds to 37% of the accumulated carbon emissions from thermal energy generation at Ørsted since 2006.
+Ørsted ESG perfomance report 2019 Environment 19 / 42. 
+Contents
+
+
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Scope 1 greenhouse gas emissions, energy consumption. 
+Fuels used in thermal heat and power generation GWh 16,668 21,827 (24%) 24,827 – Biomass GWh 10,628 10,675 (0%) 10,432 – Coal GWh 0 (2023) 3,929 8,201 (52%) 7,460 – Natural gas GWh 1,960 2,770 (29%) 6,741 – Oil GWh 151 181 (17%) 194. 
+Other energy usage (oil, natural gas and diesel for vessels and cars) GWh 221 227 (6%) 202. 
+Coal used in thermal energy generation Thousand tonnes 0 (2023) 588 1,206 (51%) 1,100. 
+Certified renewable wooden biomass sourced % 100 (2020) 96 83 13%p 72. 
+Scope 2 greenhouse gas emissions, energy consumption. 
+Power consumption GWh 648 597 9% 493 – Green power for own consumption GWh 648 512 27% - – Regular power for heat generating boilers GWh -85 --
+Green share of power for own consumption % 100 (2019) 1 100 86 14%p -
+Heat consumption GWh 21 21 0% 22. 
+Green share of total energy consumption (scope 1 and 2) % 64 49 15%p -
+Internal energy savings, accumulated from 2018 GWh 15 (2023) 8.8 0.9 7.9 -
+Electric vehicles in the company vehicle fleet % 100 (2025) 21 -- 1 We have expanded the previous target, which excluded power consumption for heat generating boilers, to include all power for own consumption from 2019 and onwards. The revision was done in order to support our new target of being carbon neutral in 2025.
+2.10 Energy consumption. 
+The total fuel consumption decreased in 2019 driven by lower thermal energy generation.
+Biomass consumption was at the same level as in 2018, whereas our coal consumption decreased by 52%, primarely due to generation of heat without power at Asnæs Power Station in the period up until the new biomass converted unit was taken in use towards the end of the year.
+The 29% lower gas consumption was primarely due to the divestment of the Dutch power plant Enecogen.
+The power purchased and consumed by Ørsted increased by 9% from 2018 to 2019. The main driver for the increase in power consumption was power used for heat generation in electric boilers. The electric boilers are used in situations with simultaneous high power generation and high district heating demand.
+Accounting policies. 
+Scope 1 greenhouse gas emissions, energy consumption Includes all energy consumption including energy consumption that leads to scope 1 greenhouse gas emissions. Energy consumption includes all fuels used at CHP plants (lower caloric values) and other energy usage (oil, natural gas and diesel).
+Certified renewable wooden biomass sourced Certified biomass are defined as wooden biomass, i.e. wood pellets and wood chips. Biomass is measured as sourced wooden biomass delivered to the individual combined heat and power plants within the reporting period. Certified sustainable wooden biomass sourced must be certified within at least one of the claim cate gories accepted by the Danish industry agreement on certified biomass. Accepted claim categories are: FSC 100%, FSC Mix, PEFC 100% and SBP compliant. Certified biomass is calculated as the amount of sourced wooden biomass compared to the total amount of sourced wooden biomass delivered to individual CHP plants within the reporting period.
+Scope 2 greenhouse gas emissions, energy consumption Heat and power purchased and consumed by Ørsted is reported for CHP plants, other facilities and administrative buildings. Heat and power consumption excludes consumption of own generated heat and power at the CHP plants. For consumption related to administration and other processes, we calculate direct consumption on the basis of invoices.
+Green share of total energy consumption Is calculated as renewable energy sourced (biomass and certified green power) for own consumption divided by total energy sourced for own consumption.
+Internal energy savings In 2018, Ørsted A/S signed a five-year climate partnership agreement with a target of 15GWh energy savings. The scope of the energy savings covers both heat and power consumption. Projects are included when they are fully implemented and operational.
+Electric vehicles in the company vehicle fleet Ørsted has joined the global EV100 initiative. The statement is prepared on the basis of the EV100 guidelines. The data excludes vehicles from our power distribution, B2C and city light businesses as these are in the process of being divested.
+Ørsted ESG perfomance report 2019 Environment 20 / 42. 
+Contents
+
+
+Indicator Unit 2019 2018 Δ 2017. 
+Water withdrawal. 
+Total volume of water withdrawn Thousand m3 1,164 1,380 (16%) 1,554 – Ground water Thousand m3 783 919 (15%) 931 – Municipal water supplies or other public or private water utilities Thousand m3 381 461 (17%) 623. 
+Water withdrawal from water-stressed areas. 
+Water withdrawal from areas with low stress levels % 76.0 74.4 1.6%p -
+Water withdrawal from areas with low to medium stress levels % 23.6 25.4 (1.8%p) -
+Water withdrawal from areas with medium to high stress levels % 0.3 0.1 0.2%p -
+Water withdrawal from areas with high stress levels % 0.1 0.1 0%p -
+Water withdrawal from areas with extremely high stress levels % --
+Wastewater discharge. 
+Total volume of wastewater discharge Thousand m3 882 945 (7%) 969 2.11 Water. 
+Water withdrawal decreased by 16% in 2019 compared to 2018.
+The process water needed for generating thermal heat and power is the largest part of our water consumption, amounting to more than 90% of the total water withdrawal.
+Accounting policies. 
+Water withdrawal Water withdrawal includes all water resources that Ørsted either withdraw directly from groundwater or consume from waterworks. This includes: – water withdrawal for process use (boilers, flue gas cleaning, ash management, etc.) – water withdrawal converted to steam or hot water and resold to business partners – water withdrawal for use in offices and other buildings.
+The total volume of water withdrawal is measured based on meter readings or invoices from suppliers. Using a corporate standard value, an estimated consumption is calculated in cases where exact data is not available.
+Surface water is out of scope. This means that cooling water consumption from ocean water at CHP plants is not included.
+Water stress Water stess is measured at site level. The methodology used to assess water stress is WRI’s Aqueduct Water Risk Atlas. The calculated output of this accounting practice is Ørsted's total withdrawal of water from water-stressed areas.
+Wastewater discharge Wastewater includes all planned and unplanned discharges of water from Ørsted, except cooling water from power plants.
+For facilities, wastewater discharges are recorded based on meter readings. Where wastewater is removed by road tanker, discharges are based on invoices. For offices and warehouses, wastewater discharges are presumed to be equivalent to water consumption.
+Ørsted ESG perfomance report 2019 Environment 21 / 42. 
+Contents
+
+
+2.12 Waste. 
+The total volume of waste decreased by 32% from 2018 to 2019. The primary driver was a reduction in the amount of oil-containing wastewater from the oil terminal in Fredericia due to lower oil production from the North Sea. The oil-containing wastewater had to be treated as waste similar to the previous years because of a high content of pollutants.
+in 2019, Ørsted began testing a new process for cleaning the oil-containing water to eliminate the need for treating it as a waste fraction. This led to a reduction of 1,347 tonnes of sludge for incineration.
+Non-hazardous waste increased by 16% in 2019. The primary driver was the construction activities from Hornsea 2, which entailed more than 1,200 tonnes waste for reuse and recycling.
+Accounting policies. 
+Waste by type and disposal method Waste is generally reported on the basis of invoices received from waste recipients, supplemented with plant-specific measuring methods for commercial facilities, including construction activities.
+Residual products (fly ash, gypsym, etc.) from the CHP plants are not included, as they are sold as products for reuse and are as such not categorised as waste.
+Soil from excavation projects is not included in the waste statement.
+Review Indicator Unit 2019 2018 Δ 2017. 
+Total amount of waste Thousand tonnes 138 202 (32%) 233. 
+Hazardous waste Thousand tonnes 127 193 (34%) 213 – Reuse, recycling and composting Thousand tonnes 126 193 (35%) 213 – Recovery, including incineration with energy recovery Thousand tonnes 0 0 0% 0 – Landfill and incineration (no energy recovery) Thousand tonnes 1 0 -0. 
+Non-hazardous waste Thousand tonnes 11 9 14% 20 – Reuse, recycling and composting Thousand tonnes 9 7 29% 19 – Recovery, including incineration with energy recovery Thousand tonnes 2 2 0% 1 – Landfill and incineration (no energy recovery) Thousand tonnes 0 0 0% 0. 
+Total amount of waste Thousand tonnes 138 202 (32%) 233 – Reuse, recycling and composting % 98 99 (1%p) 99 – Recovery, including incineration with energy recovery % 1 1 0%p 1 – Landfill and incineration (no energy recovery) % 1 0 1%p 0. 
+Total amount of waste (excl. oil-containing wastewater) Thousand tonnes 11 10 10% 21 – Reuse, recycling and composting % 84 77 7%p 92 – Recovery, including incineration with energy recovery % 14 20 (6%p) 7 – Landfill and incineration (no energy recovery) % 2 3 (1%p) 1 Ørsted ESG perfomance report 2019 Environment 22 / 42. 
+Contents
+
+
+Indicator Unit 2019 2018 Δ 2017. 
+Environmental incidents. 
+Massive environmental incidents Number 0 1 (1) 0. 
+Major environmental incidents Number 4 7 (3) 8. 
+Other air emissions: nitrogen oxides (NOx) and sulfur dioxide (SO2)
+Nitrogen oxide emissions Tonnes NOX 1,910 2,670 (28%) 2,800. 
+Sulphur dioxide emissions Tonnes SO2 517 654 (21%) 555. 
+Nitrogen oxide emission intensity g NOX/kWh 0.15 0.17 (12%) 0.16. 
+Sulphur dioxide emission intensity g SO2/kWh 0.04 0.04 (0%) 0.03 2.13 Environmental incidents, NOx and SO2. 
+In 2019, Ørsted registered four major incidents.
+Three of the incidents were oil leakages from cables or piping. All contaminated soil has been removed and cleaned, where possible. Work is still ongoing for one incident concerning a distribution cable owned by Ørsted which was damaged by a third party away from Ørsted premises.
+The fourth incident was a SF6 gas leakage from a power cable.
+The reduction in NOx and SO2 air emissions was due to a lower thermal heat and power generation.
+Accounting policies. 
+Environmental incidents An environmental incident is an unintended incident which has a negative impact on the environment.
+We report environmental incidents using operational scopes, such as safety incidents.
+We register all environmental incidents at facilities where we are responsible for the operation in terms of environmental management.
+The materiality of an incident is determined on the basis of an assessment of the extent, dispersion and impact on the environment. On this basis, all environmental incidents are categorised on a scale from 1 (slight impact) to 5 (massive impact). Actual incidents in categories 4 (major impact) and 5 (massive impact) are reported.
+Other air emissions: nitrogen oxides (NOX) and sulfur dioxide (SO2) Nitrogen oxides, and sulphur dioxide are only reported for combined heat and power plants. Nitrogen oxides, and sulphur dioxide emissions from other combustions are not included. Nitrogen oxides and sulphur dioxide are primarily measured by continuous mea- surement, but may also be based on plant- specific emission factors.
+Ørsted ESG perfomance report 2019 Environment 23 / 42. 
+Contents
+
+
+Review Indicator Unit Affected length or area Position in relation to protected area Type of protection1. 
+The United Kingdom. 
+Wind farms and substations km² 147 Inside MPA, SPA, SAC, MCZ. 
+Wind farms and substations km² 168 Partially inside MPA, SPA, SAC, MCZ. 
+Cable route km 24 Inside MPA, SPA. 
+Cable route km 157 Partially inside MPA, Ramsar, SAC, SPA, SSSI. 
+The US. 
+Wind farms and substations km² 2 Inside Closure Area, State Trap/Pot Waters Area, Trap/Pot Waters Area, Gillnet Waters Area 1 MPA: marine protected area (OSPAR); SPA: special protection area (Birds Directive); SAC: special area of conservation; MCZ: marine conservation zone; SSSI: site of special scientific interest; Ramsar (Ramsar Convention on Wetlands).
+2.14 Biodiversity – protected areas. 
+Accounting policies. 
+Biodiversity data only covers offshore wind farms.
+Offshore wind farm lease or agreement areas cover large footprints. The wind farm is comprised of a range of infrastructure, including offshore wind turbines and cables. The physical footprint of this infrastructure, however, makes up a relatively small proportion of a total wind farm area. Nonetheless, the reporting here considers total wind farm areas for completeness and to recognise relevant interactions with protected habitats and species.
+In some markets, we install transmission assets from the offshore wind farm which includes onshore and offshore export cables and substations. However these are usually required to be divested near to or when the wind farm is commissioned as required by national legislation. Therefore, the data for export cables represents not yet divested transmission assets on some wind farms, and does not include onshore parts of offshore wind farms.
+Protected areas Protected areas and areas of high biodiversity value follow the Global Reporting Initiative (GRI) standards, disclosure 304-1. This includes the list of protected areas described, such as IUCN Protected Area Management Categories, the Ramsar Convention and national legislation.
+The indicators are the cumulative square kilometres or length of cables in kilometres covered by our operational sites. The areas reported represent Ørsted’s ownership share by year-end. Data is initially recognised from the commercial operation date (COD).
+Our wind farms in European waters and in APAC do not currently overlap with any protected areas for nature conservation.
+The indicator illustrating the area of wind farms that are partially inside protected areas has increased since last year, primarily because the new offshore wind farm Hornsea 1 has been included. Hornsea 1 spans an area of 407 km2 at a distance of 120 km from the Yorkshire coast in the UK and overlaps with the Southern North Sea Special Area of Conservation (SAC), which covers a large geographical area of 36,951 km2.
+Additionally, a protected area surrounding Walney Extension Offshore Wind Farm has been confirmed as a designated area since 2018.
+The indicator showing export cable routes partially inside protected areas has also increased since last year, again primarily due to the Hornsea 1 Offshore Wind Farm, which has three export cables.
+Ørsted ESG perfomance report 2019 Environment 24 / 42. 
+Contents
+
+
+2.15 Biodiversity – endangered species. 
+Review Indicator Unit Critically endangered Endangered Vulnerable Near threatened Least concern. 
+Total, all countries, all species in 2019 Species, total 1 1 6 8 55. 
+The United Kingdom, red-list species, total Species, total 1 0 5 8 54 – Birds Species, total 0 0 5 7 39 – Fish Species, total 1 0 0 0 6 – Mammals Species, total 0 0 0 1 8 – Amphibians Species, total 0 0 0 0 1. 
+The US, red-list species, total Species, total 0 1 1 0 1 – Mammals Species, total 0 1 1 0 1. 
+Our wind farms in European waters and in APAC do not currently overlap with any protected or known areas of critical importance for vulnerable species.
+The United Kingdom Adding Hornsea 1 increased the overall number of vulnerable and near-threatened bird species, such as the kittiwake, located within or near our UK operational footprint.
+The offshore wind farm’s primary interaction with vulnerable species comes from its position overlapping with large protected areas. The size of these protected areas and their many constituent species increases the chance of vulnerable and threatened species being considered to overlap with the Hornsea 1 wind farm area.
+As outlined in our Offshore wind biodiversity policy, we carry out detailed environmental consenting processes and ongoing environmental monitoring in compliance with local regulations on protection of nature conservation to ensure such species are considered carefully.
+The Burbo Bank Offshore Wind Farm’s export cable route passes through the Dee Estuary Special Area of Conservation (SAC). The Dee Estuary is one of the largest estuaries in the UK, at a size of 140 km2, primarily stretching inland, and is recognised to be a multiple interest site for protected species. Three parallel cables of each 1.8 km pass through this SAC which is a protected area, designated for a critically endangered species, such as the European eel. Given this overlap, this species is recognised as relevant to our footprint.
+The US In the US, our Block Island Wind Farm is located within an area where the endangered North Atlantic right whale and the vulnerable fin whale are known to migrate through and aggregate. We sail and operate in compliance with the US Marine Mammal Protection Act for the protection of marine mammals and their habitats.
+Additionally, we work closely with relevant local interest organisations, authorities and other stakeholders, as well as the academic community, to understand key species such as these, and to ensure we use best available evidence and knowledge, and employ appropriate monitoring and mitigation techniques in our operations.
+Accounting policies. 
+Biodiversity data only covers offshore wind farms, and only the protected areas described in note 2.14 'Biodiversity – protected areas'.
+Offshore wind farm lease or agreement areas cover large footprints. The wind farm is comprised of a range of infrastructure, including offshore wind turbines and cables. The physical footprint of this infrastructure, however, makes up a relatively small proportion of a total wind farm area. Nonetheless, the reporting here considers total wind farm areas for completeness and to recognise relevant interactions with protected habitats and species.
+Endangered red-list species This indicator follows the Global Reporting Initiative standard, disclosure 304-4, and lists the number of threatened species in areas where Ørsted has offshore operations.
+For wind operations located in a protected area, the total number of species, for which the area is designated, is reported.
+We report by level of extinction risk according to the International Union for Conservation of Nature's (IUCN) ‘Red List of Threatened Species’ – an inventory of the global conservation status of plant and animal species. Data is recognised from the commercial operation date of the wind farm.
+Ørsted ESG perfomance report 2019 Environment 25 / 42. 
+Contents
+
+
+3. Social 27 Human capital 28 Gender diversity 29 Gender pay gap 30 Safety 31 Job creation and people powered 32 Customers Ørsted ESG perfomance report 2019 Contents
+
+
+3.1 Human capital. 
+The number of employees increased by 7% from 2018 to 2019 due to growth in existing and new markets.
+Voluntary employee turnover rate increased slightly from 7.1% in 2018 to 7.2% in 2019. We monitor the voluntary employee turnover rate closely to ensure that it continues to stay at a reasonable level.
+The scores for ‘employee satisfaction and motivation’ and ‘employee loyalty’ are both high among Ørsted’s employees. With a satisfaction and motivation score of 77 in 2019, our 2020 target of reaching a satisfaction and motivation score of 77 has been reached one year in advance. We have set a new target of staying in the top 10 percentile compared to our external benchmark group.
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Number of employees. 
+Total number of employees (as of 31 December) Number of FTEs 6,526 6,080 7% 5,638 – Denmark Number of FTEs 4,547 4,454 2% 4,307 – The UK Number of FTEs 1,029 964 7% 898 – The US Number of FTEs 216 115 88% 24 – Germany Number of FTEs 205 202 1% 200 – Poland Number of FTEs 202 158 28% 94 – Malaysia Number of FTEs 190 135 41% 78 – Taiwan Number of FTEs 89 35 154% 20 – Other Number of FTEs 481 17 182% 17. 
+Average number of employees during the year Number of FTEs 6,329 5,796 9% 5,738. 
+Employee satisfaction survey results. 
+Employee satisfaction Index 0-100 77 (2020)2 77 76 1p 76. 
+Employee loyalty Index 0-100 85 84 1p 84. 
+Learning and development indicator Index 0-100 80 (2020) 77 76 1p 76. 
+Employees experiencing stress % 9.4 9.7 (0.3%p) 9.4. 
+Employees experiencing bullying, harassment, threats or violence % 2.0 2.5 (0.5%p) 3.4. 
+Sickness absence % 2.4 2.4 0%p 2.3. 
+Turnover. 
+Total employee turnover rate % 11.6 11.2 0.4%p 13.2. 
+Voluntary employee turnover rate % 7.2 7.1 0.1%p 7.2 1 Other countries are the Netherlands (28), Singapore (9), Sweden (7), South Korea (3) and Japan (1).
+2 We have reached our 2020 target of 77 one year in advance. Our new target from 2020 and onward is an employee satisfaction survey result in the top ten percentile compared with an external benchmark group.
+Accounting policies. 
+Number of employees Employee data is recognised based on records from the Group's ordinary registration systems. The number of employees is determined as the number of employees at the end of each month converted to full-time equivalents (FTEs). Employees who have been made redundant are recognised until the expiry of their notice period, regardless of whether they have been released from all or some of their duties during their notice period.
+Employee satisfaction survey results Ørsted conducts a comprehensive employee satisfaction survey once a year. With a few exceptions, all Ørsted employees are invited to participate in the survey. The following employees are not invited to participate: Employees who joined the company shortly before the employee satisfaction survey, employees who resigned shortly after the employee satisfaction survey, interns, consultants/advisers, and external temporary workers who do not have an employment contract with Ørsted. In the survey, a number of questions are asked. The answers are given on a scale from 1 to 10 and are subsequently converted to index figures on a scale from 0 to 100.
+Sickness absence Sickness absence is calculated as the ratio between the number of sick days during the financial year and the planned number of annual working days in the respective country.
+Turnover The employee turnover rate is calculated as the number of permanent employees who have left the company relative to the average number of permanent employees in the financial year.
+Ørsted ESG perfomance report 2019 Social 27 / 42. 
+Contents
+
+
+3.2 Gender diversity. 
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Board of Directors, Østed A/S Number 6 8 (25%) 6. 
+Female Number 2 3 (33%) 3. 
+Male Number 4 5 (20%) 3. 
+Gender with lowest representation % 33 38 (4%p) 50. 
+Group Executive Management Number 7 7 0% 5. 
+Gender with lowest representation (female) % 29 14 15%p 20. 
+Leadership Conference Number 121 98 23% 87. 
+Gender with lowest representation (female) % 22 (2023) 13 10 3%p 13. 
+Middle management Number 900 823 9% 755. 
+Gender with lowest representation (female) % 30 (2023) 25 25 0%p 25. 
+All employess Number 6,526 6,080 7% 5,638. 
+Gender with lowest representation (female) % 31 31 0%p 30. 
+We would like to unfold the full potential of all employees and ensure that men and women have the same opportunities for obtaining leadership positions. We have targets for increasing the proportion of women at all management levels, including 22% of women in senior leadership (Leadership Conference) and 30% female managers (middle management) by 2023.
+To support this goal, 30% of the participants in our high-potential development programmes ranging from professional level career development to senior leadership were women in 2019. We have trained managers to reduce unconscious bias during people review meetings, and our senior leaders to focus specifically on building more diversity in our talent pipelines. In our 'Powered by talent' conference for more than four hundred senior managers from around the world held in November 2019, we emphasised that we expect all leaders to build more inclusive, diverse teams and gave guidance on how to do so.
+To bring in more diverse talent, we encourage all candidates to apply, regardless of gender, race, age and cultural background. Recruitment processes include required female representation on shortlists, and we also ensure interviewees are diverse.
+High-potential female candidates are identified in the annual People Review process and have a structured dialogue about development wishes and possibilities in the following People Development Dialogue.
+Ørsted has joined 'the UN Convention on the Elimination of All Forms of Discrimination against Women'.
+Accounting policies. 
+Board of Directors Consists of members elected at general assemblies; the employee representatives on the Board of Directors are, however, not included in the data.
+Group Executive Management Consists of the CEO, the CFO and the executive vice presidents (EVPs).
+Leadership Conference Consists of the CEO, the CFO, executive vice presidents, senior vice presidents, vice presidents and senior directors.
+Middle management Consists of directors, senior managers, managers and team leads.
+All employees All employees by gender represent the gender distribution of the total workforce in Ørsted. The reporting covers contractually employed employees in all Ørsted companies. The number of employees is determined as the number of employees at the end of the financial year converted to full-time equivalents.
+Statement on the underrepresented gender in accordance to the section 99B of the Danish Financial Statement Act (Årsregnskabsloven) Ørsted ESG perfomance report 2019 Social 28 / 42. 
+Contents
+
+
+3.3 Gender pay gap. 
+Indicator Unit 2019 2018 1 Δ1 2017. 
+Gender pay gap. 
+Gender pay gap, median % 14 16 (2%p) -
+Gender bonus pay gap, median % 43 49 (6%p) -
+Gender bonus distribution. 
+Proportion of women receiving bonus % 19 15 4%p -
+Proportion of men receiving bonus % 21 21 0%p - 1 The UK is not included in the 2018 data set. We only have separate country-specific data for Denmark and the UK for 2018 (and no Ørsted total data). In 2018, 82% of the total number of employees in Denmark and the UK were Danish by nationality.
+Accounting policies. 
+Gender pay is reported inspired by the manadatory gender pay reporting requirements in the UK.
+We report gender pay gap for countries with more than 250 FTEs per country. The data is collected each year, after the general salary adjustment.
+Definitions: Gender pay gap: The percentage men earn more in salary than women.
+Gender bonus pay gap: The percentage men earn more in bonus payments than women.
+Gender bonus distribution: The percentage of men and women in the workforce who receive bonusses.
+Pay quartiles: The percentage of men and women on the employer's payroll for each quartile.
+The differences in pay between men and women are caused by differences in gender mix across levels in the organisation.
+There is a clear trend towards women comprising a smaller part of the population in higher salary pay quartiles, which relates to the lower percentage of women in higher management positions.
+Gender distribution, management levels, 2019, %
+Women Men 69 31. 
+All employees 75 25. 
+Middle management 87 13. 
+Leadership conference. 
+The decreasing share of women towards higher management levels explains the salary and bonus pay gap between women and men.
+We are committed to equal pay and have a constant focus on ensuring equal pay for equal positions and competences in relation to all aspects of the salary relevant processes from hiring to promotion.
+The presented gender pay data are based on data from Denmark (82%) and the UK (18%), as there are more than 250 employees in each country.
+Ørsted ESG perfomance report 2019 Social 29 / 42. 
+Contents
+
+
+Review Indicator Unit Target 2019 2018 Δ 2017. 
+Total recordable injuries (TRIs) Number 106 98 8% 125 – Own employees Number 35 37 (5%) 44 – Contractor employees Number 71 61 16% 81. 
+Number of lost-time injuries (LTIs) Number 45 31 45% 32 – Own employees Number 17 12 42% 7 – Contractor employees Number 28 19 47% 25. 
+Hours worked Million hours worked 21.7 21.0 3% 19.6 – Own employees Million hours worked 10.6 9.7 9% 9.4 – Contractor employees Million hours worked 11.1 11.3 (2%) 10.2. 
+Total recordable injury rate (TRIR) Per million hours worked 2.9 (2025) 4.9 4.7 4% 6.4. 
+TRIR, own employees Per million hours worked 3.3 3.8 (13%) 4.7. 
+TRIR, contractor employees Per million hours worked 6.4 5.4 19% 7.9. 
+Lost-time injury frequency (LTIF) Per million hours worked 2.1 1.5 40% 1.6. 
+LTIF, own employees Per million hours worked 1.6 1.2 30% 0.7. 
+LTIF, contractor employees Per million hours worked 2.5 1.7 47% 2.5. 
+Fatalities Number 1 0 1 0. 
+Permanent disability cases Number 0 0 0 0 3.4 Safety. 
+On 1 May 2019, a fatal accident occurred at Avedøre Power Station where an employee of one of our contractors was buried under coal during work in a silo. An independent investigation was completed to identify the root causes. Safety is of utmost importance to us, and we have initiated several improvement tracks to ensure that an accident like this will never happen again.
+Our primary safety performance indicator is the total recordable injury rate (TRIR). TRIR includes all injuries that result in incapacity to work for one or more calendar days in addition to the day of the incident as well as injuries where the injured person is able to perform restricted work the day after the accident and injuries where the injured person has received medical treatment.
+TRIR increased from 4.7 in 2018 to 4.9 in 2019.
+We registered 106 total recordable injuries (TRIs), 71 of which involved employees working for our contractors. Contractors contributed with a total of 11.1 million working hours.
+We continue to have a strong focus on safety. Our target is a TRIR of 2.9 or below in 2025.
+Accounting policies. 
+Safety Occupational injuries are calculated according to operational scope. Data from companies wholly or partly owned by Ørsted, and where Ørsted is responsible for safety, is included. Occupational injuries and lost-time injuries are calculated for both our own employees and contractors. Data from all Ørsted locations are recognised.
+The lost-time injury frequency (LTIF) is calculated as the number of lost-time injuries per one million hours worked. The number of hours worked is based on 1,667 working hours annually per full-time employee and monthly records of the number of employees converted into full-time employees. For contractors, the actual number of hours worked is recognised on the basis of data provided by the contractor, access control systems at locations or estimates.
+LTIF includes lost-time injuries defined as injuries that result in incapacity to work for one or more calendar days in addition to the day of the incident.
+In addition to lost-time injuries, TRIR also includes injuries where the injured person is able to perform restricted work the day after the accident as well as accidents where the injured person has received medical treatment.
+Fatalities are the number of people who lost their lives as a result of a work-related incident.
+Permanent disability cases are injuries resulting in irreversible damage with permanent impairment, which is not expected to improve.
+Ørsted ESG perfomance report 2019 Social 30 / 42. 
+Contents
+
+
+0 500 1,000 1,500 2,000 2,500. 
+Review Indicator Unit 2019 2018 Δ 2017. 
+Job years created by offshore wind farm value chain. 
+Based on installed capacity1 Thousand job years 137 112 22% 78. 
+Based on installed + FID capacity1 Thousand job years 197 179 10% 179. 
+Based on installed + FID + awarded and contracted capacity1 Thousand job years 297 258 15% 179. 
+People powered by renewable capacity. 
+Based on installed capacity Million people 15.2 12.22 25% 8.52. 
+Based on installed + FID capacity Million people 23.7 21.3 11% 21.9. 
+Based on installed + FID + awarded and contracted capacity Million people 32.8 30.1 9% 23.5 1 Over total asset lifespans (25 years).
+2 We have restated the 2018 value with actual load factors, state-specific consumption factors in the US and added onshore wind and solar capacity.
+3.5 Job creation and people powered. 
+Through our green energy investments, we have stimulated local growth and job creation.
+In a lifecycle perspective, our and our partners’ investments in deploying green offshore energy have created 197 thousand job years from the installed and decided projects. In the period 2019-2025, we plan to invest DKK 200 billion in renewables, adding significantly to further local economic growth and job creation, not least in our new markets.
+The main part of the jobs created in the value chain of offshore wind farms are jobs related to manufacturing, construction and installation.
+The 22% increase in job years from 2018 to 2019 based on installed capacity was mainly related to the offshore wind farm Hornsea 1 commissioned in 2019.
+People powered based on installed capacity increased by 25% compared to 2018, primarily due to Hornsea 1 and Lockett being commissioned in 2019. We will power a total of 33 million people with our installed, FID and awarded and contracted capacity. The 8% increase in the total number was due to the awarded contracts in the US in 2019.
+Accounting policies. 
+Job creation The number of job years is calculated on the basis of a factor for job years per megawatt installed provided by the International Renewable Energy Agency, IRENA. The job year creation factor is based on a 500MW offshore wind farm. The factor is not adjusted for other details, such as when the wind farm was constructed (wind turbine size and other parameters), wind farm size-specific parameters beyond a simple scaling of capacity size, geographical position (i.e. water depths and distance to shore).
+The number of job years created relates to the value chain from procurement and manufacturing, over installation, operations and maintenance, to decommissioning. This means that job years related to, for example, mining and manufacturing of steel and concrete as well as local jobs, such as hotels and dining for people working on local sites, are not included. A lifetime of 25 years for all wind farms is used.
+The number of job years relates to the installed capacity, and not Ørsted's ownership share of the wind farm. The number of job years varies during the lifespan, and most of the jobs are created in the beginning during construction and installation.
+People powered The figure for people powered based on installed capacity is calculated using the installed capacity, the actual load factor and country-specific power consumption per person (state-specific consumption factors are used in the US).
+People powered based on FID and awarded capacity is calculated on the basis of capacity, an average load factor based from business cases for offshore wind, onshore wind and solar power. Consumption is country-specific consumption per person (state- specific consumption factors are used in the US).
+Job years, life span 25 years. 
+Jobs. 
+Manufacturing and development. 
+Transport and installation. 
+Operations and maintenance. 
+Decommissioning Ørsted ESG perfomance report 2019 Social 31 / 42. 
+Contents
+
+
+Indicator Unit 2019 2018 Δ 2017. 
+Customer satisfaction. 
+Customer satisfaction, B2B Scale 1-100 73 75 (2p) 77. 
+Customer satisfaction, B2C Scale 1-100 73 74 (1p) 76. 
+Customer satisfaction, power distribution Scale 1-100 82 81 1p 82. 
+Number of customers. 
+Gas customers, Denmark, B2C Thousand customers 107 102 5% 91. 
+Power customers, Denmark, B2C Thousand customers 717 725 (1%) 733. 
+Power distribution customers Thousand customers 1,040 1,024 2% 1,016. 
+Reliability of supply. 
+System average interruption frequency index (SAIFI), excluding transmission grids Number per customer 0.42 0.65 (35%) 0.42. 
+SAIFI, including transmission grids Number per customer 0.42 0.65 (35%) 0.52. 
+System average interruption duration index (SAIDI) Minutes per customer 28 33 (15%) 33 3.6 Customers. 
+The reliability of supply increased during the year, with a 35% reduction of the average number of power grid interruptions (SAIFI) to 0.42 interruptions per customer.
+The average duration of the power grid interruptions (SAIDI) was reduced by 15% to 28 minutes per customer.
+Customer satisfaction for distribution customers in Denmark is determined on the basis of different types of interactions with distribution customers: disruption of supply, replacement of meters as well as customer and market support. Customer satisfaction is measured as the customer's satisfaction in a specific context. Respondents are randomly selected, and the survey is carried out by an external supplier.
+Thus, customer satisfaction for residential and distribution customers relates to a specific situation, whereas customer satisfaction for business customers is an expression of the customer satisfaction with Ørsted as a whole. We have a number of very large business customers. In respect of these, it is important for us to assess the customer relationship in general and not just the experience of a specific situation.
+Number of customers The number of customers in Denmark is retrieved from Ørsted's internal customer systems. The number of power customers is based on readings from Panda, the official system in Denmark.
+A B2C power customer is defined as a counterpart receiving billable physical power. The counterpart is defined as a point of delivery (POD). One person can own one or more PODs, and since the person is billed on the basis of the number of PODs, the PODs make up the B2C power customer base.
+Reliability of supply Reliability of supply is measured in terms of the power outage frequency (SAIFI) and the duration of outages (SAIDI) for customers.
+The system average interruption frequency index (SAIFI) covers the frequency of announced and unannounced power outages for the customer. SAIFI is calculated as the average number of power outages per customer per year.
+SAIFI is reported with and without the transmission grids, as these grids are operated by Energinet, the Danish transmission system operator, and therefore do not lie within the responsibility of Radius.
+The system average interruption duration index ( SAIDI) covers the power outage duration experienced by the customers. SAIDI is calculated as the total duration of planned and unplanned power outages per customer per year. It is calculated as the total duration of customer interruptions divided by the total number of customers served.
+Accounting policies. 
+Customer satisfaction Customer satisfaction for residential customers (B2C) in Denmark is measured according to interaction between the customer and Ørsted. Thefore, the score is not an expression of the customers' overall satisfaction with Ørsted, but is rather related to a given situation. The score is calculated as a weighted score based on a number of different types of touch points. The current touch points are customer service for gas and power, outbound sales and web. An external supplier conducts interviews.
+Customer satisfaction for business customers (B2B) is determined on the basis of customer satisfaction surveys among Ørsted's business customers in the countries where we have B2B customers. Customer satisfaction is determined on the basis of interviews about customers' satisfaction with Ørsted as a whole.
+Ørsted ESG perfomance report 2019 Social 32 / 42. 
+Contents
+
+
+4. Governance 34 Our governance model 35 Board of Directors 36 Group Executive Management 37 Good business conduct, green bonds and tax 38 Responsible partner programme Ørsted ESG perfomance report 2019 Contents
+
+
+4.1 Our governance model. 
+Shareholders and general meeting Our shareholders exercise their rights at the general meeting, which for example appoints the Board of Directors and the auditors.
+Nomination & Remuneration Committee Consists of three members appointed among the Board of Directors.
+Internal Audit Internal Audit is independent of our administrative management structures. Internal Audit provides risk-based and objective assurance, advice and insights.
+Board of Directors Consists of nine members. The Board of Directors is responsible for the overall management of the company and for appointing a competent Executive Board.
+Group Executive Management The Executive Board and other members of the Group Executive Management are responsible for the day-to-day management of the company.
+Sustainability Committee Chaired by the CFO. Oversees that we live up to our sustainability commitment; reviews our sustainability strategy, monitors performance of sustainability programmes and approves the ESG data set.
+QHSE Committee Chaired by a member of Group Executive Management. Oversees that we live up to our quality, health, safety and environment (QHSE) strategic priorities, reviews our QHSE strategy and monitors the performance of our QHSE programmes.
+Compliance Committee Chaired by CEO. Monitors our compliance with laws, rules, standards and internal codes of conduct that apply to our business areas.
+Audit & Risk Committee Consists of three members appointed among the Board of Directors.
+The governance model to the left combines the high-level governance model from the annual report (p. 59 'Corporate governance') with the governance model focused on sustainability in the sustainability report (p. 42 'Sustainability governance').
+In notes 4.2 and 4.3, you can find additional infor mation about the Board of Directors, Group Executive Management and our committees, such as gender, age and nationality composition, number of meetings and descriptions of responsibilities.
+Ørsted ESG perfomance report 2019 Governance 34 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Board of Directors, Ørsted A/S. 
+Members Number 6 8 (2) 6 – Female Number 2 3 (1) 3 – Male Number 4 5 (1) 3. 
+Gender with lowest representation % 33 38 (5%p) 50. 
+Average age Years 60 58 2 57. 
+Average seniority Years 3 3 0 3. 
+Nationality. 
+Danish Number 3 5 (2) 5. 
+Non-Danish Number 3 3 0 1. 
+Independent board members % 100 100 0%p 83. 
+Board meetings Number 13 11 2 12 – Attendance % 97 92 5%p 95. 
+Remuneration for the Board of Directors DKK thousand 4,779 5,134 (7%) 4,934. 
+Nomination & Remuneration Committee. 
+Members Number 3 3 0 -
+Meetings Number 3 3 0 -
+Attendance % 100 100 0%p -
+Audit & Risk Committee. 
+Members Number 3 3 0 3. 
+Meetings Number 6 7 (1) 3. 
+Attendance % 100 91 9%p 100 4.2 Board of Directors. 
+The Board of Directors, chaired by Thomas Thune Andersen, is responsible for the overall management of the company and appoints the Executive Board.
+The Board of Directors lays down the company's strategy and makes decisions concerning major investments and divestments, the capital base, key policies, controls and audits, risk management and significant operational issues.
+Every month, the Board of Directors monitors and oversees progress against Ørsted's strategic goals and targets for adressing climate- related issues.
+The Nomination & Remuneration Committee assists the Board of Directors in matters regarding the composition, remuneration and performance of the Board of Directors and Group Executive Management.
+The Audit & Risk Committee assists the Board of Directors in overseeing the financial and ESG reporting process (including key accounting estimates and judgements), the liquidity and capital structure development, financial and business-related risks, compliance with statutory and other requirements from public authorities, the internal controls as well as IT security in operational and administrative areas as well as cybersecurity.
+Moreover, the committee approves the framework for the company’s external and internal auditors (including voluntary limits for non-audit services), evaluates the external auditors’ independence and qualifications as well as monitors the company’s whistleblower scheme.
+Accounting policies. 
+Board of Directors The Board of Directors in this section only covers the members elected at the general meetings.
+For independents, we follow the Recommendations on Corporate Governance.
+Gender with lowest representation is reported under 3.2 'Gender diversity'.
+Ørsted ESG perfomance report 2019 Governance 35 / 42. 
+Contents
+
+
+4.3 Group Executive Management. 
+The Executive Board, consisting of our CEO Henrik Poulsen and CFO Marianne Wiinholt, undertakes the day-to-day management of the company through Group Executive Management, which consists of an additional five members.
+The Board of Directors has laid down guidelines for the work of the Executive Board. The guidelines include a description of the division of work and the powers to enter into agreement on behalf of the company between the Board of Directors and the Executive Board.
+The Board of Directors regularly discusses the CEO's performance, for example by following up on developments seen in relation to our strategy and objectives.
+The Chairman of the Board of Directors and the CEO regularly discuss the cooperation between the Board of Directors and the Executive Board.
+In addition to the safety target that makes up 10% of the cash-based bonus target for the Executive Board, we have implemented climate-related performance indicators in the incentive programmes for the Executive Board. The indicators focus on the green energy share of our generation and our greenhouse gas emission reductions. Previously, climaterelated indicators were only rewarded indirectly through green energy build-out targets. You can find information about the members of the Executive Board, including their previous employment and other executive functions, in our annual report on page 56 and in our new remuneration report.
+Accounting policies. 
+Remuneration The CEO pay ratio is calculated as the ratio between the CEO’s total remuneration (fixed salary, including personal benefits, such as a company car, free telephone, etc., a variable salary and share-based payment) and the average FTE salary.
+The remuneration of Group Executive Management is the total remuneration of the Executive Board and the other members of Group Executive Management.
+Review Indicator Unit 2019 2018 Δ 2017. 
+Group Executive Management. 
+Members Number 7 7 0 5 – Female Number 2 1 1 1 – Male Number 5 6 (1) 4. 
+Gender with lowest representation % 29 14 15%p 20. 
+Average age Years 51 50 1 50. 
+Average seniority Years 3 3 0 5. 
+Nationality – Danish Number 3 4 (1) 3 – Non-Danish Number 4 3 1 2. 
+Remuneration. 
+CEO pay ratio Ratio 21 23 (9%) 22. 
+Remuneration of Group Executive Management DKK million 77 63 22% 60. 
+Incentivised pay directly ascribed to ESG targets (safety) % 10 1 10 0%p 10 1 In addition to the safety target for all Group Executive Management members, our CEO and CFO also have a target for delivering on our path towards our 2025 targets for green share of energy and greenhouse gas reductions as part of their personal targets. You can find more details in our 2019 remuneration report on page 7.
+Ørsted ESG perfomance report 2019 Governance 36 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Good business conduct. 
+Substantiated whistleblower cases Number 3 2 1 3 – Cases transferred to the police Number 0 1 (1) 0. 
+Employees who have completed a course in good business conduct % 96 97 (1%p) 98. 
+Green bonds. 
+Green bond proceeds allocated to offshore wind projects DKK million 10,156 6,099 67% 1,600. 
+Avoided emissions from allocated green bond proceeds Thousand tonnes CO2e 1,097 819 34% 208. 
+Tax. 
+Global income tax paid, total DKK million 4,800 3,367 43% 2,660 – Income tax paid, Denmark DKK million 4,741 3,330 42% - – Income tax paid, foreign1 DKK million 59 37 59% -
+This indicator has been audited as part of the financial statements in the 2019 annual report.
+1 For a full picture of current and paid taxes per country, we refer to the annual report, section 5 'Tax'.
+4.4 Good business conduct, green bonds and tax. 
+The Chairman of the Audit & Risk Committee is responsible for managing our whistleblower scheme. Internal Audit receives and handles any reports submitted. Our employees and other associates may report serious offences, such as cases of bribery, fraud and other inappropriate or illegal conduct, to our whistleblower scheme or through our management system.
+In 2019, three substantiated cases of inappropriate or unlawful behaviour were reported through our whistleblower scheme. Two cases concerned violation of good business conduct policies, and one case concerned conflict of interest between a third party representative and Ørsted. The cases had consequences for the individuals involved. None of the reported cases were critical to our business or impacted our financial results.
+Whistleblower cases are taken very seriously, and we continuously enhance the awareness around good business conduct, e.g. through education and awareness campaigns to minimise similar cases in future.
+Our taxes paid in Denmark for 2019 were affected by the completed construction agreement related to the Hornsea 1 Offshore Wind Farm in the UK. We have made significant investments in offshore wind farms in the UK, Germany and the Netherlands, resulting in the accumulation of large tax assets in recent years. Accordingly, we have not paid significant taxes in these countries prior to 2019. This is changing, as the offshore wind farms are being commissioned and are generating positive tax results, resulting in paid taxes in the UK and in Germany. We expect to start paying corporate tax in the Netherlands in 2021.
+We are currently making significant investments in the US, and we do therefore not expect to pay any material corporate income tax in the foreseeable future. We are also making material investments in Taiwan, and we expect to start paying corporate tax in 2022/2023.
+More details about tax can be found in section 5 ‘Tax’ in the annual report.
+Accounting policies. 
+Substantiated whistleblower cases Ørsted's whistleblower hotline is available for internal and external reporting of suspected cases of inappropriate or illegal behaviour. Whistleblower cases are received and handled by the Internal Audit function, which also receives similar reports through the management system and from compliance officers. All reports are managed in accordance with the guidelines for the handling of whistleblower reports approved by the Audit & Risk Committee, which is ultimately responsible for the whistleblower scheme. Only cases, which are closed during the financial year, and which have been reported to the Audit & Risk Committee as fully or partially substantiated, are reported in the ESG statement. Cases transferred to the police are defined as the number of cases reported in accordance with the above which are transferred to the police.
+Course in good business conduct The number of employees who have completed a course in good business conduct is calculated as the proportion of employees at 31 December who have completed an e-learning course in good business conduct relative to the number of employees invited to take the course.
+Green bonds The net proceeds from green financing instruments can be allocated to the financing, or re-financing (up to 2 years after COD), of a pool of eligible projects, including the acquisition, development and construction of eligible projects.
+Avoided emissions from allocated green bond proceeds are calculated assuming that the future power generation from the projects in question replaces an equal amount of fossil fuel-based power generation.
+Tax Accounting policy can be found in section 5 'Tax' in our 2019 annual report.
+Ørsted ESG perfomance report 2019 Governance 37 / 42. 
+Contents
+
+
+Review Indicator Unit 2019 2018 Δ 2017. 
+Screenings. 
+Pre-qualification screenings in high-risk countries Number 28 22 27% -
+Risk screenings (all contracts obove DKK 3 million) Number 346 160 116% 157. 
+Extended risk screenings Number 65 66 (2%) 56. 
+Assessments. 
+Self-assessments Number 20 13 54% 10. 
+Comprehensive assessments Number 18 11 64% 13. 
+Improvement plans. 
+Opened improvement plans Number 120 93 29% 51 – Sustainability management % 59 45 14%p 37 – Labour and human rights % 33 37 (4%p) 35 – Environment % 01 41 (4%p) 22 – Anti-corruption % 8 14 (6%p) 6 1 The responsible partner programme (RPP) reporting reflects activities and results generated by the RPP team. We are in the proces of updating our supplier assessment reporting framework to include assessments beyond RPP. From 2020, we will include all environmental assessments in the data set.
+4.5 Responsible partner programme. 
+Screenings and assessments are subject to the time schedule of the individual projects and the procurement priorities from year to year.
+The 18% increase in the number of pre-qualification screenings from 2018 to 2019 was driven by a roll-out of the pre-qualification process to all procurement categories. In addition, we are piloting the pre-qualification screenings in new strategic markets.
+The 116% increase in the number of risk screenings was mainly a result of increased business activities (signed contracts) in 2019.
+The number of extended risk screenings remain stable because the increased number of signed contracts are with low-risk suppliers or suppliers that have already been screened or assessed.
+The number of self-assessments and comprehensive assessments increased in 2019 compared to 2018 by 54% and 64%, respectively, both due to more assessments of potential suppliers and of sub-suppliers in areas where labour and human rights risks are considered to be higher.
+We only open improvement plans with contracted suppliers. Therefore, assessed suppliers that are not awarded a contract, are not required to develop improvement plans. Consequently, the number of improvement plans opened did not increase with the same rate as the number of assessments.
+Accounting policies. 
+The responsible business partner programme (RPP) has been integrated into our procurement department's supplier contract screenings from 2015.
+The programme applies a risk-based due diligence framework to identify areas within our code of conduct where relevant suppliers need to improve their adherence to the code.
+Screenings We do risk screenings on all sourcing contracts above DKK 3 million. Based on the risk screening evaluation, we conduct extended risk screenings of selected suppliers, where additional parameters are included. Furthermore, additional extended screening procedures are carried out for all fuel suppliers as well as for top-spend suppliers.
+Assessments Based on the results from the extended screenings, several suppliers are asked to complete a self- assessment questionnaire, and/or we decide to conduct a comprehensive assessment which often includes a visit to their production facilities.
+Improvement plans Based on the results of the assessment, an improvement plan is developed, covering all findings from the assessment.
+Ørsted ESG perfomance report 2019 Governance 38 / 42. 
+Contents
+
+
+5. Auditor's report and calculation factors 40 Limited Assurance Report on the consolidated ESG statements 41 Calculation factors Ørsted ESG perfomance report 2019 Contents
+
+
+To the stakeholders of Ørsted A/S Ørsted A/S engaged us to provide limited assurance on the data described below and set out in the Company’s consolidated environment, social and governance performance report for the period 1 January - 1 December 2019 (consolidated ESG performance report).
+Our conclusion Based on the procedures we performed and the evidence we obtained, nothing came to our attention that causes us not to believe that data marked with a ' ' in the consolidated ESG performance report are free of material misstatements and prepared, in all material respects, in accordance with the accounting policies as stated on pages 9-38.
+This conclusion is to be read in the context of what we say in the remainder of our report.
+What we are assuring The scope of our work was limited to assurance over data marked with a ' ' in the consolidated 2019 Ørsted ESG performance report for the period 1 January - 31 December 2019.
+Professional standards applied and level of assurance We performed a limited assurance engagement in accordance with the International Standard on Assurance Engagements 3000 (revised) ‘Assurance Engagements other than Audits and Reviews of Historical Financial Information’. A limited assurance engagement is substantially less in scope than a reasonable assurance engagement in relation to both the 5.1 Limited Assurance Report on the consolidated ESG statements risk assessment procedures, including an understanding of internal control, and the procedures performed in response to the assessed risks; consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had a reasonable assurance engagement been performed.
+Our independence and quality control We have complied with the Code of Ethics for Professional Accountants issued by the International Ethics Standards Board for Accountants, which includes independence and other ethical requirements founded on fundamental principles of integrity, objectivity, professional competence and due care, confidentiality and professional behaviour. The firm applies International Standard on Quality Control 1 and accordingly maintains a comprehensive system of quality control, including documented policies and procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory requirements. Our work was carried out by an independent multi-disciplinary team with experience in sustainability reporting and assurance.
+Understanding reporting and measurement methodologies Data and information marked with a ' ' need to be read and understood together with the accounting policies on pages 9-38, which management are solely responsible for selecting and applying. The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information allows for different, but acceptable, measurement techniques and can affect comparability between entities and over time.
+Work performed We are required to plan and perform our work in order to consider the risk of material misstatement of the data in scope of our assurance engagement. In doing so and based on our professional judgement, we: – conducted interviews with Group functions to assess consolidation processes, use of company- wide systems and controls performed at Group level; – performed an assessment of materiality and the selection of topics for the consolidated ESG performance report for the period 1 January - 31 December 2019; – conducted analytical review of the data and trend explanations submitted by all business units for consolidation at Group level; – evaluated the evidence obtained.
+Management's responsibilities Management of Ørsted A/S is responsible for: – designing, implementing and maintaining internal control over information relevant to the preparation of data in the consolidated ESG performance report that are free from material misstatement, whether due to fraud or error; – establishing objective accounting policies for preparing data; – measuring and reporting data in the consolidated ESG performance report based on the accounting policies; and – the content of the consolidated ESG performance report for the period 1 January - 31 December 2019.
+Our responsibility We are responsible for: – planning and performing the engagement to obtain limited assurance about whether data marked with a ' ' for the period 1 January - 13 December 2019 are free from material misstatements and are prepared, in all material respects, in accordance with the accounting policies; – forming an independent conclusion, based on the procedures performed and the evidence obtained – reporting our conclusion to the stakeholders of Ørsted A/S.
+Hellerup, 30 January 2020. 
+PricewaterhouseCoopers Statsautoriseret Revisionspartnerselskab CVR-no. 3377 1231. 
+Lars Baungaard State Authorised Public Accountant mne23331. 
+Rasmus Friis Jørgensen State Authorised Public Accountant mne28705 Ørsted ESG perfomance report 2019 Auditors’ report and calculation factors 40 / 42. 
+Contents
+
+
+Table Reference Indicator Factor Comment Reference Publication. 
+Table 2.7 Scope 1 emissions Global warming potential of greenhouse gases CO2, CH4, N2O and SF6 Intergovernmental Panel on Climate Change (IPCC), 2013 Fifth Assessment Report, The Physical Science Basis. 
+Table 2.7 Scope 1 emissions Carbon emissions from fossil fuels at CHP plants Coal, oil, natural gas Danish Energy Agency, 2018 Standardfaktorer for brændværdier og CO2-emissioner (Standard factors for calorific value and carbon emissions)
+Table 2.7 Scope 1 emissions Carbon emissions from fossil fuels outside CHP plants Diesel, petrol, fuel oil, jet fuel American Petroleum Institute (API), 2009 Compendium of greenhouse gas emission methodologies for the oil and natural gas industry. 
+Table 2.7 Scope 2 emissions Carbon emissions from purchased power In DK EnerginetDK, 2018 Generel deklaration & Miljødeklaration (Generic declaration and environmental declaration)
+Table 2.7 Scope 2 emissions Carbon emissions from purchased power In other European countries Association of Issuing Bodies (AIB), 2018 European Residual Mixes. 
+Table 2.7 Scope 2 emissions Carbon emissions from purchased power In countries outside Europe Institute for Global Environmental Strategies (IGES), 2018 List of grid emission factors. 
+Table 2.8 Scope 3 emissions Use of sold products. Fuel- and energyrelated activities Emissions from end use of gas. Upstream supply chain of fuels UK Department for Environment, Food & Rural Affairs (DEFRA), 2018 UK government GHG conversion factors for company reporting. 
+Table 2.8 Scope 3 emissions Capital goods Wind farm suppliers Siemens, 2016 and 2017 Environmental Product Declaration, swt-6-0-154 and swt-7.0-154. 
+Table 2.8 Scope 3 emissions Purchased goods and services Supply chain emission factors depend on product categories UK Department for Environment, Food & Rural Affairs (DEFRA), 2014 Indirect emissions from the supply chain. 
+Table 2.8 Scope 3 emissions Business travel in private car Assumption: 'average car', 'unknow fuel type' UK Department for Environment, Food & Rural Affairs (DEFRA), 2018 UK government GHG conversion factors for company reporting. 
+Table 2.9 Avoided emissions Carbon emissions from average fossil-fuel mix Average of coal, gas and oil International Energy Agency (IEA), 2017 Emissions Factors & CO2 Emissions from Fuel Combustion. 
+Table 2.11 Water stress Baseline water stress Measured at site level, baseline water stress is the ratio of total water withdrawals to available renewable supply. 
+World Resources Institute (WRI), 2013 Aqueduct Water Risk Atlas. 
+Table 3.5 People powered Average power consumption of households per capita For all countries, excluding the US. Enerdata, 2017 Global Energy & CO2 Data. 
+Table 3.5 People powered Residential power consumption by state For the US US Energy Information Administration (EIA), 2018 Sales to ultimate customers by state. 
+Table 3.5 People powered Numbers of residents and households by state For the US US Census Bureau, 2018 Annual Estimates of the Resident Population for the United States; Households ACS 5-year estimates. 
+Table 3.5 Jobs created Average work-in-person-days per MW offshore wind Includes only jobs in offshore wind value chain International Renewable Energy Agency (IRENA), 2018 Renewable energy benefits – leveraging local capacity for offshore wind. 
+Note: The table shows references for calculation factors used in the 2019 data set.
+5.2 Calculation factors Ørsted ESG perfomance report 2019 Auditors’ report and calculation factors 41 / 42. 
+Contents
+
+
+Ørsted A/S Kraftværksvej 53 DK-7000 Fredericia Tel.: +45 99 55 11 11 CVR no. 36213728 orsted.com. 
+Group Communication Martin Barlebo Tel.: +45 99 55 95 52. 
+Investor Relations Allan Bødskov Andersen Tel.: +45 99 55 79 96. 
+Design and layout e-Types with Ørsted Global Design. 
+Publication: 30 January 2020. 
+Front page photo: Burbo Bank Offshore wind farm, Bay of Liverpool, UK © Paul Ellis / AFP / Ritzau Scanpix

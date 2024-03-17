@@ -1,0 +1,916 @@
+Sustainability Performance and Data Report 2020
+
+
+Welcome to our Sustainability Performance and Data Report. 
+We’re committed to reporting our performance, methodology and data every year in a transparent way. In this report you’ll find details of our sustainability performance against each of our 12 commitments, along with comprehensive disclosures aligned with SECR, EPRA, UN Global Compact and TCFD.
+Contents 02 Corporate commitment and performance summary 05 Our benchmarking scores 06 Sustainability Reporting Methodology 13 Corporate commitments performance 13 Portfolio carbon intensity 14 Portfolio energy intensity 14 Portfolio waste performance 15 Social value data 16 Streamlined energy and carbon reporting (SECR) 16 Scope 1 and 2 emissions 16 Energy consumption 17 Scope 1, 2 and 3 emissions 19 EPRA reporting 19 Environmental indicators 29 Social indicators 33 Task Force on Climate-related Financial Disclosures (TCFD) 39 UN Global Compact Communication on Progress 2020 42 Independent Assurance Statement 1 Sustainability Performance and Data 2020
+
+
+Creating jobs and opportunities. 
+Social value Fairness Diversity Health and Safety. 
+Commitment Commitment Commitment Commitment. 
+Create £25m of social value through our community programmes by 2025. By 2020, ensure everyone working on our behalf, in an environment we control, is given equal opportunities, protected from discrimination and paid at least the Real Living Wage.
+Make measurable improvements to the profile – in terms of gender, ethnicity and disability – of our employee mix.
+Maintain an exceptional standard of health, safety and security in all the working environments we control.
+Performance: On track. 
+This year we created a total of over £4.8m of social value through our community programmes, exceeding our in-year target to create £4m.
+Our social value creation has included helping 180 people into jobs through our employment programme, engaging 298 students in our education programmes and donating nearly £2m to our charity partners. It also includes our volunteering activity with over 40% of our employees (more than 250 people) having volunteered this year, benefiting 3,400 people.
+Performance: On track. 
+Landsec continues to be an accredited Real Living Wage employer, both for our employees and those working on our behalf on our sites, including construction and service partners.
+We are on track to meet our 2020 commitment to ensure everyone working on our behalf in an environment we control will be paid the Real Living Wage by the end of 2020.
+Performance: On track. 
+Across the whole organisation 52% of our employees are female, exceeding our 2025 target of 50%. In the representation of women at leader level, we increased to 24% this year (2019: 19.5%) but at senior-leader level, we moved backwards to 30% (2019: 38%).
+Performance: On track. 
+In February 2020, we successfully migrated from the British Standard OHSAS 18001 to the international H&S standard ISO 45001. We’ve also launched an ambitious programme of mandatory health, safety and security training for all our employees, including contingent workers.
+In response to the Grenfell fire in 2017, we reviewed fire safety across our entire portfolio and invested over £7m rectifying approximately 125,000 firestopping defects in our buildings, and £4.3m in resolving cladding risks.
+Corporate commitment and performance summary. 
+Progress Commitments. 
+Complete On track Incomplete Existing commitment New commitment Updated commitment 2 Sustainability Performance and Data 2020
+
+
+Efficient use of natural resources. 
+Carbon Renewable energy Energy Waste. 
+Commitment Commitment Commitment Commitment. 
+Reduce carbon emissions (tCO2e) by 70% by 2030 compared with a 2013/14 baseline, for property under our management for at least two years.
+— Ensure 100% of our electricity supplies through our corporate contract are from REGO-backed renewable sources — Achieve 3 MW of renewable electricity capacity by 2030.
+Reduce energy intensity (kWh/m2) by 40% by 2030 compared with a 2013/14 baseline, for property under our management for at least two years.
+— Send zero waste to landfill — At least 75% waste recycled across all our operational activities by 2020.
+Performance: On track. 
+This year we achieved our original target to reduce carbon intensity by 40% by 2030, 11 years early, having reduced our carbon intensity by 48% compared to 2013/14. We therefore updated our target in line with the Science Based Targets initiative’s new methodology for 1.5°C targets. In line with our updated target, we have reduced our absolute carbon emissions by 42% compared to a 2013/14 baseline.
+We also launched our new net zero carbon strategy for developments, setting out our five-stage plan to achieve this, including setting an internal price for carbon.
+Performance: Complete. 
+We continue to procure 100% renewable electricity across our portfolio. We are looking to move our procurement towards direct purchasing from renewable projects through Power Purchase Agreements (PPAs).
+Performance: On track. 
+Our current on-site renewable electricity capacity is 1.5 MW. We are currently reviewing solar PV feasibility studies for Bluewater and Hatfield Galleria Outlet Centre, and progressing a feasibility study for on-site renewable technologies in our strategic land development pipeline.
+Performance: On track. 
+We have reduced energy intensity by 22% compared to 2013/14.
+We continue to use our bespoke energy reduction plans to optimise our buildings to use less energy. This year at our Hatfield Galleria Outlet Centre, we installed corridor temperature sensors allowing closer monitoring of energy usage. This has achieved a 75.5% reduction in gas use and an overall reduction of 13% in energy use at the site. Within our commercial developments, we are using the Design for Performance approach to set energy intensity targets for our base building performance, in line with achieving our 2030 targets.
+Performance: Complete. 
+We continue to divert 100% from landfill across our operational activities.
+Performance: On track. 
+This year we recycled 73% of operational waste.
+We continue to support our customers in reducing single use plastic by partnering with Ape2o and installing two of their filtered water dispensers within the public areas of our One New Change and New Street Square sites. The machines allow the public to refill their own water bottles with chilled still or sparkling water, and since September 2019 they have dispensed the equivalent of over 21,000 plastic bottles. As managing waste responsibly becomes an increasingly important issue, we have also expanded our waste management commitments to cover both operational and construction activities, with demanding targets for re-use and reduction.
+3 Sustainability Performance and Data 2020
+
+
+Sustainable design and innovation. 
+Resilience Materials Biodiversity Wellbeing. 
+Commitment Commitment Commitment Commitment. 
+Assess and mitigate physical and financial climate change adaptation risks that are material across our portfolio.
+Source core construction products and materials from ethical and sustainable sources.
+Maximise the biodiversity potential of all our development and operational sites and achieve a 25% biodiversity net gain across our five operational sites currently offering the greatest potential by 2030.
+Ensure our buildings are designed and managed to maximise wellbeing and productivity.
+Performance: On track. 
+To continue aligning our disclosures with the TCFD recommendations, we have commissioned Willis Tower Watson to update the physical climate change impact research conducted in 2017 and 2019 and to undertake a quantitative assessment of climate-related transition risks during the summer 2020.
+In our development pipeline we undertake climate change adaptation risk reviews, addressing structural and fabric resilience as well as building services.
+Performance: On track. 
+Our developments continue to make good progress against this target.
+All our live developments are targeting 100% of core construction materials to be manufactured within UK and Europe, to reduce emissions from transportation and reduce risk of ethical issues in manufacture and extraction. Projects on site are sourcing 99.9% of core construction materials with responsible sourcing certification.
+A new Prohibited Materials List has been developed with a clear focus on modern slavery and is now published on our website.
+Performance: On track. 
+We continue to partner with The Wildlife Trusts to enhance biodiversity net gain at five operational retail centres. Since 2016 we’ve implemented biodiversity enhancements including over half a square kilometre of wildflower planting. We’re undertaking an ecological survey at each site to assess the effectiveness of these enhancements, and to measure progress toward our biodiversity net gain target of 25% by 2030.
+Our developments embed ecological net gain as part of their brief and progressing designs. All developments are on target with significant net gain and we have published our new Biodiversity Brief for developments.
+Performance: On track. 
+The WELL recertification process for our HQ is progressing and we’re targeting a Platinum level. Where we provide HQ space for our customers, we’re ensuring the quality of our design enables them to achieve certification to the WELL Building Standard for their operations.
+4 Sustainability Performance and Data 2020
+
+
+Our benchmarking scores. 
+Taking part in rigorous external benchmarking of our performance helps us to track and assess our progress. It also provides stakeholders with confidence that we’re turning our commitments and targets into action and that we’re delivering on our ambition to be a sustainability leader in our industry.
+Benchmark Performance 2019: A-list (top 2%). The only A-list UK REIT 2018: A-list (Leadership) 2017: A-list (Leadership) 2019: Score 90%. Sector leader, ranking 1st in Europe and UK diversified office/retail (mixed) 2018: Score 90% 2017: Score 78% 2019: Score 82/percentile ranking 98 2018: Score 73/percentile ranking 93 2017: Score 75/percentile ranking 92. 
+Percentile ranking 89. We continue to retain our established position in the FTSE4Good Index. 
+Received our sixth Gold Award from EPRA for best practice sustainability reporting 2019: Score 51% (average score for all companies: 40%) 2018: Score 73% (average score for all companies: 53%)
+ESG rating AA. 
+Score 82/percentile ranking 97. 
+We’ve again been named a climate leader, ranking 5th for all FTSE 100 companies and 1st for our sector 5 Sustainability Performance and Data 2020
+
+
+We adopt the operational control approach for our sustainability reporting. This includes all properties within our portfolio managed directly by us or by appointed agents who manage the properties on our behalf.
+All energy, carbon and waste data reported for the financial year is for the 12 months to the end of February, as March data is not available in advance of our reporting duties.
+Following the changes in our financial reporting, Landsec’s two previous segments, the Retail Portfolio and the London Portfolio, have been split between the three new segments: Office, Retail and Specialist. The Office segment includes all office space, substantially all of which is located in London. Retail includes all the Group’s retail assets, incorporating the London suburban assets as well as the shopping centres outside London, outlets and retail parks. Piccadilly Lights, which have previously been included in the London Portfolio, are now reported as part of the Specialist segment, along with the leisure assets.
+Based on these reporting boundaries, we report against three portfolio definitions: — Absolute portfolio: this incorporates all properties under our operational control, including all properties within our portfolio managed directly by us or by appointed agents who manage the properties on our behalf.
+— Like-for-like portfolio: this is aligned with our financial reporting like-for-like portfolio, based on the European Public Real Estate Association (EPRA) Financial Best Practices Recommendations (BPR) like-for-like definition for rental growth reporting. It includes all properties which have been in the portfolio under our operational control for at least two years, but excluding those which were acquired, sold, or included in the development pipeline at any time since.
+— Corporate commitments portfolios: these include only properties within our portfolio which have been under our operational control for at least two years for energy and carbon commitments, and for at least one year for our waste commitment. We understand that these periods reflect the amount of time needed to undertake sustainability assessments and start implementing changes to the assets. Once properties complete the minimum required time under our operational control, they will be included in the commitment portfolio at the start of the following reporting year.
+With the exception of building certification data and TCFD disclosure, which is reported under the whole portfolio and includes assets that fall outside our operation control (e.g. FRIs), all our environmental data reporting is based on the above portfolio definitions.
+The next pages detail the reporting methodology adopted by Landsec to report on: — Performance against corporate commitments — Streamlined energy and carbon reporting, including scope 1, 2 and 3 emissions — EPRA Best Practice Recommendations for Sustainability reporting — Social value. 
+Corporate commitments performance. 
+We provide an overview of the methodology used to calculate the performance for the following commitments: — Reduce absolute carbon emissions (tCO2e) by 70% by 2030 compared to a 2013/14 baseline, for property under our operational control for at least two years. This is our updated science-based target aligned with a 1.5°C scenario.
+— Reduce energy intensity (kWh/m2) by 40% by 2030 compared to a 2013/14 baseline, for property under our operational control for at least two years.
+— Send zero waste to landfill with at least 75% recycled across all our operational activities by 2020.
+Energy and carbon emissions The boundaries of our energy and carbon commitments include only properties within our portfolio which have been under our management, or operational control, for at least two years. Once properties complete at least two years under our operational control, they will be included at the start of the following reporting year. We report on all energy procured by Landsec or appointed agents, including that consumed by our customers, and the emissions associated with this energy. Only gas or electricity which is supplied directly to units/demises by utility suppliers is excluded.
+Energy consumption is normalised to account for changing conditions and to better communicate energy performance against our corporate commitment. Landsec uses three normalisation techniques: kWh electricity equivalent: Natural gas consumption is adjusted so all energy consumption can be reported by one metric: kWh electricity equivalent. Following the Better Building Partnership’s Real Estate Environmental Benchmark (REEB) methodology, the factor applied to 1 kWh of natural gas is 0.4, which accounts for the higher coefficient of production for natural gas.
+Degree day correction: Degree day normalisation ensures that the demand for heating (gas) and cooling (electricity) is reported relative to our 2013/14 baseline year. If our baseline year happened to experience, for example, record-breaking temperatures, inevitably our performance in later years would appear unrealistically improved, as we would demand less heating/cooling compared with our baseline. The heating degree days (HDD) we use quantify the number of days and the length of time that temperatures have dropped below a base temperature of 15.5°C and our cooling degree days (CDD) quantify the number of days and the length of time that temperatures have exceeded 15.5°C.
+We obtain our degree days from http://www.degreedaysforfree.co.uk and each asset is assigned to its local region. Local degree days have been sourced for our 2013/14 baseline year and current period degree days are used to calculate a correction factor (base year DD/current period DD = normalisation factor). This normalisation is calculated for both HDD and CDD.
+Sustainability Reporting Methodology 6 Sustainability Performance and Data 2020
+
+
+The HDD normalisation factor is then applied to natural gas consumption used for space heating to all asset types. The CDD normalisation factor is only applied to office buildings as these are the primary assets where electricity is used for cooling. In these assets we have calculated that 22% of all office electricity consumption can be attributed to cooling. This has been calculated by detailed analysis of a selection of buildings with adequate landlord submetering. The CDD normalisation factor is therefore only applied to 22% of office total electricity usage.
+Removal of cooking gas: It has been recognised that the quantity of natural gas used for cooking, where cooking is the tenants’ primary business function, can be directly correlated to their trade. Due to this direct correlation, we remove any natural gas consumption which is used for commercial cooking to better reflect the consumption where we are able to drive reductions.
+All normalisation techniques have been applied to our 2013/14 baseline year as well as the current reporting period.
+Our energy intensity commitment is reported as kWh/m2, where kWh electricity equivalent is used and the intensity is based on floor area (m2); our carbon emissions commitment is reported as tCO2e. CO2 is calculated using the ‘location-based’ method as described by the World Resources Institute (WRI) Greenhouse Gas Protocol, utilising annually published UK Government conversion factors. The list of emission factors used in the current sustainability reporting is found at the end of this section.
+The reported floor area corresponds to the area served by the energy procured and its associated carbon emissions. A breakdown of the methods used to calculate floor areas for different types of asset can be found below: — Offices: Office floor areas are based on Gross Internal Area (GIA) but deducting any floor area where Landsec provides no utilities/heating and cooling. Floor area for restaurants where Landsec is supplying natural gas for cooking only is excluded (as the gas is also excluded).
+— Retail and leisure parks: Retail and leisure park floor areas are calculated according to the number of car park spaces. We have calculated an average car parking space size of 11.8m2; this assumes 5% are disabled bays. The number of spaces is multiplied by 11.8m2 to calculate the base floor area. A further 20% is added to account for other landlord areas. Tenant floor area is included where Landsec supplies 100% of the energy to the demise. * The exceptions to this rule are Xscape Yorkshire and Xscape Milton Keynes, which are treated as shopping centres due to their form and composition.
+— Shopping centres and outlets: Shopping centre and outlets floor areas are calculated using the same methodology for retail and leisure parks described above, however instead of using the additional 20% allocation for landlord areas, the measured area of common parts is used instead. Tenant floor area is only included where Landsec supplies 100% of the energy feeding the demise.
+To ensure consistency and comparability, these methods of calculating floor area have been utilised for both our 2013/14 baseline year as well as the current reporting period. They are used for all data reporting, including streamlined energy and carbon reporting and our EPRA reporting.
+Waste We report on sites where we have operational control, where we directly contract waste management services or appoint agents who control contracting of such services. Our commitment boundary includes all properties within our portfolio which are under our management, or operational control, for at least one year. Once properties complete at least one year under our operational control, they will be included at the start of the following reporting year. We include all waste services contracted by Landsec or appointed agents and the emissions associated with these; this includes services contracted on behalf of our customers.
+Reported mixed recycling includes recyclable waste streams: glass, plastic, metals, paper, cardboard, and some hazardous waste (e.g. Waste Electrical and Electronic Equipment – WEEE – and fluorescent lamps). Landsec produces small amounts of hazardous waste from its operations, which is recorded at an individual site level and excluded from total waste reported due to its immateriality. We do, however, stringently manage our statutory obligations around hazardous waste from our combined Energy and Environment management system certified to ISO 14001:2015 and ISO 50001:2018 standards. Confidential paper waste is also reported for some locations where we hold the management contract; this includes our own head office.
+We report on different properties and boundaries for waste and recycling compared to energy and carbon. This occurs as some waste is collated in shared loading bays for multiple buildings and because we do not manage the waste facilities and services for every tenant. We cross-reference and check the reported property list with that used for energy and carbon reporting.
+Waste performance is not normalised. Waste is reported in tonnes and associated carbon emissions are reported as tCO2e, utilising annually published UK Government conversion factors.
+Landfill tax avoided is calculated by multiplying the relevant annual landfill tax rate by the total tonnes of waste diverted from landfill for the same year, through other processes including recycling, composting, anaerobic digestion and incineration.
+Waste reporting for construction activities follows BREEAM Wst 01 reporting criteria, presenting the total volume of waste arising from the development, the recycling rates achieved and the diversion of waste from landfill. Data is compiled in this format by the nominated supply chain partner and submitted to Landsec on an annual basis. All construction waste from the commencement of the development until award of practical completion is included. Demolition and excavation waste are excluded.
+7 Sustainability Performance and Data 2020
+
+
+Streamlined energy and carbon reporting. 
+Our streamlined energy and carbon reporting figures include energy consumption and carbon emissions associated with all properties under our operational control (i.e. absolute portfolio). Energy consumption is reported as kWh and no normalisation technique is applied. Carbon emissions are reported as tonnes of carbon dioxide equivalent (tCO2e). We report our full greenhouse gas (GHG) emissions annually in accordance with the WRI GHG Protocol.
+GHG emissions are broken down into three scopes: scope 1, 2 and 3.
+Scope 1 emissions are direct emissions from activities controlled by us that release emissions into the atmosphere, while scope 2 emissions are indirect emissions associated with our consumption of purchased energy.
+At Landsec, scope 1 comprises emissions from natural gas and refrigerant gases. Scope 2 emissions are from electricity, heating and cooling purchased for common areas and shared services. All material sources of scope 1 and 2 emissions are reported. The remaining sources (e.g. diesel used in generator testing) represent such a small proportion of total emissions that we do not report them.
+Scope 2 emissions are reported using both the ‘locationbased’ and ‘market-based’ accounting methods. Location-based emissions are reported using the UK Government’s ‘Greenhouse gas reporting: conversion factors 2019’. Scope 2 market-based emissions are reported using the conversion factor associated with each individual electricity, heating and cooling supply, either obtained directly from the supplier or from their official company website.
+Between April 2017 and March 2019, at least 15% of our gas purchases were from green sources (i.e. biogas). Scope 1 emissions for this period were also reported using both the ‘location-based’ and ‘market-based’ accounting methods. Our market-based emissions from biogas were reported as follows: the CH4 or N2O emissions from biogas were reported as scope 1, and the CO2 portion of the biogas was reported outside of the scopes, as a memo line. Therefore, our scope 1 market-based emissions were based on the emissions from the remaining 85% of our gas purchases, as well as the CH4 or N2O conversion factors associated with biogas. As we didn’t purchase biogas in the current reporting year, scope 1 emissions for 2019/20 are reported using only the ‘location-based’ method.
+Scope 3 emissions are those that are a consequence of our business activities, but which occur at sources we do not own or control and which are not classified as scope 2 emissions. The GHG Protocol identifies 15 categories, of which eight are directly relevant for Landsec. The table on the following page describes how each scope 3 category is treated in our reporting.
+European Public Real Estate Association (EPRA) Sustainability Performance Measures reporting. 
+Landsec is committed to EPRA Best Practice Recommendations for Sustainability reporting. This common reporting standard is a framework developed by property companies to promote transparency in sustainability reporting. Landsec has won a gold award for EPRA disclosure every year since 2014.
+There are 18 EPRA Sustainability impact areas covering energy consumption, GHG emissions, water usage, waste generation and treatment method and sustainability certificate attainment.
+Each EPRA impact area is reported on in two portfolios: ‘absolute’ and ‘like-for-like’.
+— Absolute portfolio: The absolute portfolio includes all properties where Landsec has operational control, where we purchase energy or appoint agents who control the purchase of energy. In 2019/20, 82% of the total portfolio was within our reporting boundaries, and therefore included in the absolute portfolio disclosures.
+— Like-for-like portfolio: The like-for-like portfolio is aligned with our financial reporting like-for-like portfolio, based on the EPRA Financial BPR like-for-like definition for rental growth reporting. It includes all properties which have been in the portfolio for at least 12 months prior to the reporting period, but excluding those which were acquired, sold, or included in the development pipeline at any time since. In 2019/20, 83% of the total like-for-like portfolio floor area was within our reporting boundaries, and therefore included in the like-for-like portfolio disclosures.
+8 Sustainability Performance and Data 2020
+
+
+Scope 3 emissions reporting methodology. 
+Scope 3 category Scope 3 category Applicability Methodology/Justification for exclusion Activity data source Emission factor data source 1 Purchased goods and services Yes Emissions in this category are calculated by multiplying procurement spend by environmentally extended input output (EEIO) emission factors for each relevant economic sector of spend.
+Primary procurement data from Landsec. Carbon Trust, OPEN-IO Database 2 Capital goods Yes Landsec’s capital assets can be classed into two major groups: 1. Developments – where the construction cost is >30% of the value of the asset 2. Portfolio projects – where the construction cost is <30% of the value of the asset. 
+Landsec works with a consultant to estimate the total embodied carbon emissions for each of our developments until completion. Emissions are then allocated to the reporting year based on a curve showing typical embodied emissions throughout the lifetime of a development project.
+Embodied carbon data is not available for portfolio projects. For these projects, emissions are calculated by multiplying procurement spend during the reporting year by environmentally extended input output (EEIO) emission factors.
+Developments Primary data of construction materials applied in developments.
+Portfolio projects Primary procurement data from Landsec.
+Developments RICS Whole Life Carbon Assessment for the Built Environment, 1st Edition. 
+Portfolio projects Carbon Trust, OPEN-IO Database 3 Fuel and energy related activities Yes Calculation based on the location-based method of calculating scope 1 and 2 emissions. Primary energy data from areas managed by Landsec. UK Government greenhouse gas reporting – Conversion factors 2019 4 Upstream transportation and distribution. 
+Yes (but reported under Purchased goods and services)
+Procurement spend associated with upstream transportation and distribution has been matched to EEIO emission factors and the carbon emissions thereby calculated. These emissions have not been split out and are instead grouped under the Purchased goods and services category.
+Primary procurement data from Landsec. Carbon Trust, OPEN-IO Database 5 Waste generated in operations Yes Calculated by multiplying weight of waste and treatment method by UK emission factor. Waste data from waste contractors. UK Government greenhouse gas reporting – Conversion factors 2019 6 Business travel Yes Calculated by multiplying distance and type of travel by UK emission factor. Distance data provided by travel provider, combined with expenses data.
+UK Government greenhouse gas reporting – Conversion factors 2019 7 Employee commuting Yes Number of FTEs multiplied by average commuting distances and distribution across transportation modes. These distances were multiplied by transport emission factors published by UK Department for Business, Energy and Industrial Strategy (BEIS).
+FTE data from Landsec. UK Government – National Travel Survey 2015 UK Government greenhouse gas reporting – Conversion factors 2019 8 Upstream leased assets No (Covered in scope 1 and 2) Reported as scope 1 and 2 emissions. n/a n/a 9 Sustainability Performance and Data 2020
+
+
+Scope 3 category Scope 3 category Applicability Methodology/Justification for exclusion Activity data source Emission factor data source 9 Downstream transportation and distribution. 
+No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. We do not manufacture products and therefore there are no emissions to report under this category.
+n/a n/a 10 Processing of sold products No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. We do not manufacture products and therefore there are no emissions to report under this category.
+n/a n/a 11 Use of sold products No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. We do not manufacture products and therefore there are no emissions to report under this category.
+n/a n/a 12 End-of-life treatment of sold products. 
+No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. We do not manufacture products and therefore there are no emissions to report under this category.
+n/a n/a 13 Downstream leased assets Yes Tenants for whom Landsec procures energy and recharges Calculated by multiplying metered energy consumption from tenants by UK emission factors.
+Tenants who procure their own energy Actual energy consumption data is requested from tenants that occupy large spaces, particularly FRIs.
+When there is no actual data received from tenants, emissions are calculated by multiplying the Net Lettable Area (NLA) of let space Landsec owns but does not have operational control over, by an energy benchmark. This benchmark is drawn from ‘2019 Real Estate Environmental Benchmarks’, published by BBP in January 2020, relating to 2018/2019 data. The benchmark used is the typical practice electricity and gas intensity for offices and enclosed shopping centres.
+Landsec procured Primary data from tenants.
+Tenant procured Primary data from tenants.
+Data on Net Lettable Areas (NLA) of let spaces.
+Landsec procured UK Government greenhouse gas reporting – Conversion factors 2019. 
+Tenant procured UK Government greenhouse gas reporting – Conversion factors 2019 ‘2019 Real Estate Environmental Benchmarks’ (BBP REEB) 14 Franchises No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. There are no franchises within the business and therefore there are no emissions to report under this category.
+n/a n/a 15 Investments No Landsec is a Real Estate Investment Trust which develops and manages property assets, which we lease to our customers. There are no investments in addition to the investment in our own property portfolio and there are therefore no emissions to report under this category. Any scope 3 emissions associated with our portfolio are reported under the appropriate emissions categories.
+n/a n/a. 
+Scope 3 emissions reporting methodology continued 10 Sustainability Performance and Data 2020
+
+
+Carbon emission factors – location-based. 
+The table below outlines the location-based emission factors used for 2019/20 and how they compare with previous year.
+Table 1. 
+Emission factor name Unit 2018/19 2019/20 % change. 
+Natural Gas kgCO2e/kWh 0.1840 0.1839 -0.1%
+Natural Gas – WTT kgCO2e/kWh 0.0256 0.0239 -6.5%
+Electricity generated kgCO2e/kWh 0.2831 0.2556 -9.7%
+Electricity generated – WTT kgCO2e/kWh 0.0420 0.0357 -15.1%
+Electricity Transmission and Distribution kgCO2e/kWh 0.0241 0.0217 -10.1%
+Electricity Transmission and Distribution – WTT kgCO2e/kWh 0.0036 0.0030 -15.4%
+District Heating kgCO2e/kWh 0.2300 0.2874 25.0%
+District Cooling kgCO2e/kWh 0.1287 0.1137 -11.6%
+Water Supply kgCO2e/CUM 0.3440 0.3440 0.0%
+Water Treatment kgCO2e/CUM 0.7080 0.7080 0.0%
+Commercial and industrial waste – Closed loop kgCO2e/Tonnes 21.3842 21.3538 -0.1%
+Commercial and industrial waste – Combustion kgCO2e/Tonnes 21.3842 21.3538 -0.1%
+Commercial and industrial waste – Landfill kgCO2e/Tonnes 99.7729 99.7592 0.0%
+Refrigerant – FM200 kgCO2e/kg 3,220 3,220 0.0%
+Refrigerant – HCFC-22/R22 kgCO2e/kg 1,810 1,810 0.0%
+Refrigerant – HFC-134a kgCO2e/kg 1,430 1,430 0.0%
+Refrigerant – R402A kgCO2e/kg 2,788 2,788 0.0%
+Refrigerant – R404A kgCO2e/kg 3,922 3,922 0.0%
+Refrigerant – R407C kgCO2e/kg 1,774 1,774 0.0%
+Refrigerant – R410A kgCO2e/kg 2,088 2,088 0.0%
+Refrigerant – R417A kgCO2e/kg 2,346 2,346 0.0% 11 Sustainability Performance and Data 2020
+
+
+Social value methodology. 
+To understand the quantifiable difference we are making to people, communities and society as a whole, we partner with the Social Value Portal, a social enterprise that specialises in measuring and reporting social value.
+The Social Value Portal has estimated the social value that Landsec has unlocked through our various initiatives by developing a social value measurement framework specifically for us. This is based on the widely used National Social Value Measurement Framework – launched by the National Social Value Taskforce in 2017 – and was built following extensive consultation with the Landsec Social Sustainability Team, our delivery partners and our employees.
+The majority of the financial values in our social value reporting have their roots in the Unit Cost Database (UCD) that was developed for Government and follows the principles laid out by HM Treasury for monetising economic, environmental and social impact, with specific regard to potential savings for the public sector. Where the UCD does not provide a proxy value for a certain measure, then one has been developed following relevant governmental guidance, where it exists.
+The Social Value Portal recognises that for some of the proxy values adopted, in particular the one for employing homeless people, there is a relatively limited availability of recent data and analysis. Their approach has been to design a conservative model to estimate the associated costs and benefits for those outcomes where relevant research and analysis exists. All proxies are high-level estimates and are based on secondary data and figures. They should not be interpreted as a precise measurement of the specific change experienced by the beneficiaries of an intervention, but as an estimate of the average benefits that could be generated. Where available, primary data has been used to address potential double counting.
+For more information, please visit www.socialvalueportal.com.
+12 Sustainability Performance and Data 2020
+
+
+Commitment – Reduce absolute carbon emissions by 70% by 2030 compared to a 2013/14 baseline, for property under our operational control for at least two years Previous commitment – Reduce carbon intensity by 40% by 2030 compared to a 2013/14 baseline, for property under our operational control for at least two years. 
+Table 2. 
+Landsec Office Retail Specialist. 
+Unit 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change. 
+Carbon Emissions tCO2e. 
+Scope 1 11,178 7,878 –30% 7,112 5,524 –22% 3,765 2,090 –44% 302 264 –13%
+Scope 2 39,062 19,923 –49% 22,460 9,420 –58% 16,122 8,988 –44% 480 1,516 216%
+Scope 3 29,373 18,495 –37% 23,507 12,450 –47% 4,929 5,309 8% 938 737 –21%
+Absolute Carbon Emissions 79,614 46,297 –41.8% 53,079 27,394 –48% 24,815 16,386 –34% 1,719 2,517 46% tCO₂e /m² Carbon intensity 0.059 0.030 –48.3% 0.110 0.061 –44% 0.030 0.020 –33% 0.048 0.010 –80% m² Portfolio Area 1,350,305 1,520,227 13% 484,485 448,507 –7% 830,299 815,077 –2% 35,521 256,643 623%
+The reporting methodology, including reporting boundaries and normalisation approach, is detailed on pages 6-7.
+Landsec carbon reduction target performance Chart 3 79,614 76,718 64,703 54,333 46,297 23,884 –4% –19% –32% –42% –70% 0
+20,000 10,000 30,000 40,000 50,000 60,000 90,000 80,000 70,000 tCO2e 2013/14 Baseline 2016/17 2017/18 2018/19 2019/20 2030. 
+Scope 1 Scope 2 Scope 3. 
+Since 2013/14 we have reduced portfolio carbon intensity by 48%, meeting our original science-based carbon reduction target 11 years early.
+Following the Intergovernmental Panel on Climate Change (IPCC) report on the impacts of global warming of 1.5°C, we’ve increased the ambition level of our target. This target has already been approved by the Science Based Target initiative, making us the first UK REIT to have a science-based target aligned to a 1.5°C pathway.
+We have reduced our carbon emissions by 42% compared to our 2013/14 baseline, indicating that we’re on track to meet our updated 2030 commitment.
+Carbon emissions performance – year on year driving factors Chart 4 2018/19 Divestments Energy performance. 
+Emission factor 2019/20 External temperature. 
+Site additions. 
+Operational changes 0
+10,000 20,000 30,000 40,000 60,000 50,000 tCO2e 54,333 –29 –2,311 –769 –2,329 –3,634 46,297 1,035 0.035 0.036 0.036 0.034 0.034 0.033 0.030 0.030. 
+The reduction in our carbon emissions has been achieved through a combination of energy efficiency projects, changes in our portfolio and changes in the UK’s emission factors. This waterfall diagram shows the main driving factors behind the changes in our carbon performance compared with previous year.
+Corporate commitments performance 13 Sustainability Performance and Data 2020
+
+
+Commitment – Reduce energy intensity (kWh/m2) by 40% by 2030 compared to a 2013/14 baseline, for property under our operational control for at least two years Table 5. 
+Landsec Office Retail Specialist. 
+Unit 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change 2013/2014 Baseline 2019/20 % change. 
+Energy kWh for landlord shared services 23,620,503 15,723,149 –33% 14,782,607 10,847,113 –27% 8,182,222 4,348,513 –47% 655,674 527,522 –20% (sub)metered to tenants 304,879 5,768,466 1792% 73,836 4,213,587 5607% 231,042 1,554,878 573% 0 0 0%
+Total landlord-obtained fuels 23,925,382 21,491,614 –10% 14,856,443 15,060,701 1% 8,413,265 5,903,391 –30% 655,674 527,522 –20% for landlord shared services 87,685,776 77,204,984 –12% 50,418,211 36,178,211 –28% 36,190,421 35,117,792 –3% 1,077,144 5,908,981 449% (sub)metered to tenants 62,262,337 53,281,477 –14% 52,691,875 39,838,367 –24% 7,465,915 10,559,527 41% 2,104,547 2,883,583 37%
+Total landlord-obtained electricity 149,948,113 130,486,461 –13% 103,110,086 76,016,578 –26% 43,656,336 45,677,319 5% 3,181,690 8,792,564 176% for landlord shared services 111,306,279 92,928,133 –17% 65,200,818 47,025,324 –28% 44,372,643 39,466,305 –11% 1,732,818 6,436,503 271% (sub)metered to tenants 62,567,215 59,049,943 –6% 52,765,711 44,051,954 –17% 7,696,958 12,114,405 57% 2,104,547 2,883,583 37%
+Total landlord-obtained energy 173,873,495 151,978,075 –13% 117,966,529 91,077,278 –23% 52,069,601 51,580,710 –1% 3,837,365 9,320,086 143% kWh/m² Energy intensity 129 100 –22.4% 243 203 –16.6% 63 63 0.9% 108 36 –66.4% m² Portfolio Area 1,350,305 1,520,227 13% 484,485 448,507 –7% 830,299 815,077 –2% 35,521 256,643 623%
+The reporting methodology, including reporting boundaries and normalisation approach, is detailed on pages 6-7.
+Landsec energy intensity target performance Chart 6 129 112 –13% 111 –14% 106 –18% 100 –22% 77 –40% 0
+60 40 20 80 100 120 140 kWh/m2 2013/2014 Baseline 2016/17 2017/18 2018/2019 2019/20 2030. 
+We have reduced portfolio energy intensity by 22% compared to our 2013/14 baseline, keeping us on track for our 2030 commitment. This chart shows the energy intensity improvements we have made since 2013/14 and the target energy intensity in 2030.
+Commitment – Send zero waste to landfill and achieve at least 75% Chart 7 recycled across all our operational activities by 2020. 
+Landsec waste performance Recycling Combustion Landfill Recycling rate 10,165 37 70.8% 24,732 7,838 74.9% 23,359 8,477 74.7% 25,001 9,860 72.7% 26,203 0
+10,000 5,000 15,000 20,000 25,000 30,000 50,000. 
+Tonnes 45,000 35,000 0% 80% 70% 60% 50% 40% 30% 20% 10% 2016/17 2017/18 2018/19 2019/20. 
+We continue to divert 100% of our waste from landfill throughout our operations and have achieved a recycling rate of 72.7% toward our target of 75%. This decrease in our recycling rate has been driven by two main factors: our work with our waste service providers to deliver more accurate and transparent data and the inclusion of new sites with lower recycling rates in our reporting figures.
+14 Sustainability Performance and Data 2020
+
+
+Commitment – Create £25m of social value through our community programmes by 2025 Table 8 2019/20. 
+Total social value created through our community programmes £4,822,053. 
+Community employment. 
+Social value created £2,594,380. 
+Social value created by supporting offenders and ex-offenders into employment £929,694. 
+Social value created by supporting 18-24 NEETS (not in education, employment or training) into employment £648,697. 
+Social value created by helping people in supported accommodation into employment £226,461. 
+Total number of people helped into employment 180. 
+Education. 
+Total number of students engaged 298 % female students 63% % BAME students 32% % of students reporting feeling more prepared for labour market (of 138 students who were asked this question on their feedback form) 95% % students reporting teamwork increase (of 138 students who were asked this question on their feedback form) 97%
+Volunteering. 
+Social value created £402,256. 
+Total number of people benefited by Landsec volunteering programme 3,400. 
+Total number of volunteer engagements 539. 
+Total Landsec employees who have volunteered (at least once) 253. 
+Total volunteering hours by Landsec staff 8,527. 
+Charity partnerships. 
+Total value of support given to charities £1,823,184. 
+Total value directly donated to charities by Landsec £293,255. 
+Value of in-kind space donated to local charity partners £1,110,262 15 Sustainability Performance and Data 2020
+
+
+Landsec – Scope 1 and 2 emissions Table 9. 
+Location-based emissions Market-based emissions. 
+Emissions Unit 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Scope 1 tCO2e 14,755 11,490 9,158 12,550 9,879 9,158. 
+Scope 2 tCO2e 36,620 30,518 25,382 2,200 3,517 2,223. 
+Scope 1 and 2 tCO2e 51,374 42,008 34,540 14,749 13,396 11,381. 
+Intensity. 
+Scope 1 and 2 tCO2e/m2 0.03 0.02 0.02 0.01 0.01 0.01. 
+Landsec – Scope 1 and 2 emissions – year-on-year driving factors Chart 10 42,008 –64 146 –203 –354 –4,502 –2,491 34,540 0
+30,000 25,000 20,000 15,000 10,000 5,000 35,000 45,000 40,000 tCO2e 2018/19 Divestments Site additions. 
+Operational changes. 
+External temperature. 
+Energy performance. 
+Emission factor 2019/20. 
+Scope 1 and 2 GHG emissions using location-based emission factors have dropped by 18% compared with the previous year. This has been primarily driven by a combination of energy efficiency initiatives and a reduction in the UK’s emission factors due a cleaner energy mix. The detailed breakdown of main factors driving the change in our scope 1 and scope 2 emissions can be seen in the waterfall chart above. In terms of market-based emissions we have seen a reduction of 15%. This has been due to a significant reduction in gas consumption.
+Landsec – Energy consumption Table 11. 
+Energy consumption (kWh) 2017/18 2018/19 2019/20. 
+Natural Gas for landlord shared services 70,393,965 53,714,180 43,015,309 (sub)metered to tenants 15,943,826 27,595,980 28,576,514. 
+Total Natural Gas consumption 86,337,791 81,310,160 71,591,823. 
+Electricity for landlord shared services 101,815,934 102,604,274 95,695,817 (sub)metered to tenants 65,691,130 64,985,746 68,977,474. 
+Total Electricity consumption 167,507,064 167,590,020 164,673,291. 
+District Heating and Cooling for landlord shared services 5,238,035 9,607,784 5,312,441 (sub)metered to tenants 6,641,102 7,063,310 7,356,140. 
+Total Heating and Cooling consumption 11,879,137 16,671,094 12,668,581. 
+Total Energy consumption for landlord shared services 177,447,934 165,926,238 144,023,567 (sub)metered to tenants 88,276,059 99,645,036 104,910,128. 
+Total Energy consumption 265,723,992 265,571,274 248,933,695. 
+Energy intensity (kWh/m2) 144 142 134. 
+The table above shows our absolute energy consumption with a breakdown by landlord and tenant consumption. This year absolute energy intensity has reduced by 6% compared with the previous year. This has been achieved by savings realised from our active energy management programme. This year we identified and committed to implement energy efficiency projects across our portfolio that will lead to over 5,500 MWh of savings per annum. Amongst these initiatives, at Hatfield Galleria Outlet Centre we have installed corridor temperature sensors which have allowed closer monitoring of our energy usage and early switch off of gas-burning boilers. This has achieved a 75.5% reduction in gas use and an overall reduction of 13% in energy use at the site. More information on our energy programme can be found in our Annual Report on page 39.
+Streamlined energy and carbon reporting (SECR) 16 Sustainability Performance and Data 2020
+
+
+Every year we report our full carbon footprint, including indirect emissions from our value chain activities (i.e. scope 3 emissions). By developing a full GHG emissions inventory, incorporating scope 1, scope 2 and scope 3 emissions, we’re able to understand the total emissions associated with our business. The GHG Protocol identifies 15 categories for scope 3 emissions of which eight are directly relevant to our business. The table below provides a breakdown of our entire emissions inventory. Our scope 3 reporting methodology is detailed on pages 8-10.
+Landsec – Scope 1, 2 and 3 emissions Table 12 2017/18 2018/19 2019/20. 
+GHG scope Category Emissions (t CO2e) % of total value chain Emissions (t CO2e) % of total value chain Emissions (t CO2e) % of total value chain. 
+Scope 1 Scope 1 14,755 3.6% 11,490 3.6% 9,158 3.4%
+Scope 2 Scope 2 36,620 9.1% 30,518 9.7% 25,382 9.4%
+Scope 3 Scope 3 353,099 87.3% 272,938 86.7% 235,031 87.2% 1. Purchased goods and services (PG&S) 59,936 14.8% 48,123 15.3% 48,787 18.1% 2. Capital goods 128,551 31.8% 89,149 28.3% 69,123 25.6% 3. Fuel- and energy-related activities 11,699 2.9% 8,764 2.8% 6,919 2.6% 4. Upstream transportation and distribution Grouped under PG&S 0.0% Grouped under PG&S 0.0% Grouped under PG&S 0.0% 5. Waste generated in operations 769 0.2% 785 0.2% 770 0.3% 6. Business travel 366 0.1% 324 0.1% 270 0.1% 7. Employee commuting 182 0.0% 180 0.1% 166 0.1% 8. Upstream leased assets n/a 0.0% n/a 0.0% n/a 0.0% 9. Downstream transportation and distribution n/a 0.0% n/a 0.0% n/a 0.0% 10. Processing of sold products n/a 0.0% n/a 0.0% n/a 0.0% 11. Use of sold products n/a 0.0% n/a 0.0% n/a 0.0% 12. End-of-life treatment of sold products n/a 0.0% n/a 0.0% n/a 0.0% 13. Downstream leased assets 151,596 37.5% 125,612 39.9% 108,995 40.4% 14. Franchises n/a 0.0% n/a 0.0% n/a 0.0% 15. Investments n/a 0.0% n/a 0.0% n/a 0%
+Total emissions 404,473 314,945 269,571 17 Sustainability Performance and Data 2020
+
+
+Our scope 3 reporting allows us to identify the most significant areas in our value chain to focus on reducing emissions. The chart below shows the largest categories.
+Landsec scope 3 emissions by category 2019/20 Chart 13 ■ Downstream leased assets 46% ■ Capital goods 29% ■ Purchased goods and services (PG&S) 21% ■ Fuel- and energy-related activities 3% ■ Others 1%
+The two largest scope 3 categories are Capital goods and Downstream leased assets, making up over 66% of our total emissions. Capital goods include the emissions associated with the manufacture and transport of materials used within our development activities and portfolio projects. Downstream leased assets are those emissions associated with energy consumed by our customers within our assets. In addition to working closely with partners and customers to reduce these emissions, there are additional reasons for year-on-year reductions in both categories. The reduction in emissions for Capital goods in 2019-20 is partly explained by the fact that we have concluded a number of developments in previous years and most of our current projects were still in the design stage during the reporting year. Once these developments progress to construction phase, carbon emissions are expected to be more significant. In table 14, we provide the amount of embodied carbon emissions reported for each development in 2019-20. For Downstream leased assets, lower emissions are associated with a reduction in the UK’s emission factors.
+Because both categories represent a significant proportion of our total carbon footprint, we are committed to understanding the impacts of our buildings as much as we can to ensure that we build and run them as efficiently as possible. We therefore undertake lifecycle assessments on all of our development projects, following the RICS guidance document ‘Whole life carbon assessment for the built environment’ 1st Edition and BS EN 15978. The assessment considers both the embodied carbon emissions from our supply chain and construction activities (stages A1 to A5) as well as anticipated emissions from a building’s operations and embodied carbon associated with maintenance and repairs over the lifetime of the building (stages B1 to C4). To minimise our construction impacts, we set targets on the embodied carbon emissions from our supply chain (A1-A5) on a project-by-project basis, measured against design stage baseline (RIBA stage 3), and track these through to the completion of our buildings. The table below shows that we’ll avoid nearly 30,000 tCO2e by targeting an overall reduction of 16% in the embodied carbon across four developments. We also carefully design our buildings to minimise the energy demand of our operations and meet the remaining demand through renewable energy contracts.
+Embodied carbon – Development pipeline Table 14. 
+Development. 
+Total embodied carbon baseline (t CO2)
+Forecasted total embodied carbon (t CO2)
+Target reduction %
+Embodied carbon reported in 2019/20 (t CO2) 21 Moorfields 108,451 92,776 –14% 21,152. 
+Lucent 27,120 21,773 –20% 424. 
+Nova East 24,780 21,470 –13% 564. 
+Sumner Street 24,741 19,110 –23% 103. 
+Landsec development pipeline 185,092 155,129 –16% 22,243 18 Sustainability Performance and Data 2020
+
+
+The reporting methodology, including reporting boundaries, is detailed on pages 6-11.
+Absolute portfolio – Energy Table 15. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office. 
+Energy. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Elec-Abs kWh Electricity for landlord shared services 101,815,934 102,604,274 95,695,817 48,365,001 51,624,459 47,213,531 (sub)metered to tenants 65,691,130 64,985,746 68,977,474 48,296,620 42,010,863 47,264,270. 
+Total electricity 167,507,064 167,590,020 164,673,291 96,661,621 93,635,321 94,477,801. 
+Proportion of electricity from renewable sources 93% 96% 97% 99% 97% 98%
+DH&C-Abs kWh District Heating and Cooling for landlord shared services 5,238,035 9,607,784 5,312,441 5,238,035 9,607,784 5,312,441 (sub)metered to tenants 6,641,102 7,063,310 7,356,140 6,641,102 7,063,310 7,356,140. 
+Total heating and cooling 11,879,137 16,671,094 12,668,581 11,879,137 16,671,094 12,668,581. 
+Proportion of heating and cooling from renewable sources 0% 0% 0% 0% 0% 0%
+Fuels-Abs kWh Fuels for landlord shared services 70,393,965 53,714,180 43,015,309 52,399,167 36,622,328 30,213,117 (sub)metered to tenants 15,943,826 27,595,980 28,576,514 1,144,600 12,029,594 13,944,494. 
+Total fuels 86,337,791 81,310,160 71,591,823 53,543,767 48,651,922 44,157,611. 
+Proportion of fuels from renewable sources 17% 16% 0% 17% 16% 0%
+Total energy-Abs kWh Total energy for landlord shared services 177,447,934 165,926,238 144,023,567 106,002,203 97,854,570 82,739,089 (sub)metered to tenants 88,276,059 99,645,036 104,910,128 56,082,322 61,103,767 68,564,904. 
+Total energy 265,723,992 265,571,274 248,933,695 162,084,525 158,958,337 151,303,993. 
+Proportion of energy from renewable sources 64% 66% 64% 65% 62% 61%
+Energy-Int kWh/m2 Energy intensity Total building energy intensity 144 143 134 271 291 273 2019/20 – % of total assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+European Public Real Estate Association (EPRA) Sustainability Performance Measures reporting 19 Sustainability Performance and Data 2020
+
+
+Absolute portfolio – Energy (continued) Table 15 (continued)
+Impact area EPRA Sustainability Performance Measures (Environment) Retail Specialist. 
+Energy. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Elec-Abs kWh Electricity for landlord shared services 45,856,007 43,795,523 42,542,076 7,594,926 7,184,292 5,940,211 (sub)metered to tenants 13,792,470 20,065,584 18,829,354 3,602,041 2,909,299 2,883,849. 
+Total electricity 59,648,476 63,861,107 61,371,430 11,196,967 10,093,591 8,824,060. 
+Proportion of electricity from renewable sources 81% 96% 97% 98% 100% 100%
+DH&C-Abs kWh District Heating and Cooling for landlord shared services 0 0 0 0 0 0 (sub)metered to tenants 0 0 0 0 0 0. 
+Total heating and cooling 0 0 0 0 0 0. 
+Proportion of heating and cooling from renewable sources 0% 0% 0% 0% 0% 0%
+Fuels-Abs kWh Fuels for landlord shared services 15,669,687 15,358,093 11,368,394 2,325,110 1,733,759 1,433,797 (sub)metered to tenants 14,799,226 15,566,386 14,632,021 – – –
+Total fuels 30,468,913 30,924,479 26,000,415 2,325,110 1,733,759 1,433,797. 
+Proportion of fuels from renewable sources 17% 16% 0% 17% 16% 0%
+Total energy-Abs kWh Total energy for landlord shared services 61,525,694 59,153,616 53,910,471 9,920,036 8,918,051 7,374,008 (sub)metered to tenants 28,591,695 35,631,970 33,461,375 3,602,041 2,909,299 2,883,849. 
+Total energy 90,117,390 94,785,586 87,371,845 13,522,077 11,827,350 10,257,857. 
+Proportion of energy from renewable sources 59% 70% 68% 84% 88% 86%
+Energy-Int kWh/m2 Energy intensity Total building energy intensity 91 89 83 53 46 40 2019/20 – % of total assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+20 Sustainability Performance and Data 2020
+
+
+Like-for-Like portfolio – Energy Table 16. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Energy. 
+Elec-LfL kWh Electricity for landlord shared services 92,710,605 85,191,619 –8% 45,502,321 41,212,048 –9% (sub)metered to tenants 61,738,246 66,135,778 7% 39,436,565 45,169,628 15%
+Total electricity 154,448,851 151,327,397 –2% 84,938,885 86,381,676 2%
+Proportion of electricity from renewable sources 98% 98% 0% 97% 97% 1%
+DH&C-LfL kWh District Heating and Cooling for landlord shared services 9,607,784 5,312,441 –45% 9,607,784 5,312,441 –45% (sub)metered to tenants 7,063,310 7,356,140 4% 7,063,310 7,356,140 4%
+Total heating and cooling 16,671,094 12,668,581 –24% 16,671,094 12,668,581 –24%
+Proportion of heating and cooling from renewable sources 0% 0% 0% 0% 0% 0%
+Fuels-LfL kWh Fuels for landlord shared services 49,108,530 39,045,471 –20% 32,029,116 26,243,279 –18% (sub)metered to tenants 24,639,422 27,295,439 11% 9,073,036 12,663,419 40%
+Total fuels 73,747,951 66,340,910 –10% 41,102,151 38,906,698 –5%
+Proportion of fuels from renewable sources 16% 0% –100% 16% 0% –100%
+Total energy-LfL kWh Total energy for landlord shared services 151,426,919 129,549,531 –14% 87,139,220 72,767,768 –16% (sub)metered to tenants 93,440,978 100,787,357 8% 55,572,911 65,189,187 17%
+Total energy 244,867,896 230,336,888 –6% 142,712,131 137,956,955 –3%
+Proportion of energy from renewable sources 67% 64% –3% 62% 61% –2%
+Energy-Int kWh/m2 Energy intensity Total building energy intensity 141 132 –6% 297 287 –3% 2019/20 – % of total LfL assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+21 Sustainability Performance and Data 2020
+
+
+Like-for-Like portfolio – Energy (continued) Table 16 (continued)
+Impact area EPRA Sustainability Performance Measures (Environment) Retail Specialist. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Energy. 
+Elec-LfL kWh Electricity for landlord shared services 40,182,735 38,039,361 –5% 7,025,549 5,940,211 –15% (sub)metered to tenants 19,396,504 18,082,300 –7% 2,905,177 2,883,849 –1%
+Total electricity 59,579,239 56,121,661 –6% 9,930,726 8,824,060 –11%
+Proportion of electricity from renewable sources 99% 98% 0% 100% 100% 0%
+DH&C-LfL kWh District Heating and Cooling for landlord shared services 0 0 0% 0 0 0% (sub)metered to tenants 0 0 0% 0 0 0%
+Total heating and cooling 0 0 0% 0 0 0%
+Proportion of heating and cooling from renewable sources 0% 0% 0% 0% 0% 0%
+Fuels-LfL kWh Fuels for landlord shared services 15,358,093 11,368,394 –26% 1,721,321 1,433,797 –17% (sub)metered to tenants 15,566,386 14,632,021 –6% – – 0%
+Total fuels 30,924,479 26,000,415 –16% 1,721,321 1,433,797 –17%
+Proportion of fuels from renewable sources 16% 0% –100% 16% 0% –100%
+Total energy-LfL kWh Total energy for landlord shared services 55,540,828 49,407,756 –11% 8,746,870 7,374,008 –16% (sub)metered to tenants 34,962,890 32,714,321 –6% 2,905,177 2,883,849 –1%
+Total energy 90,503,718 82,122,076 –9% 11,652,047 10,257,857 –12%
+Proportion of energy from renewable sources 71% 67% –5% 88% 86% –2%
+Energy-Int kWh/m2 Energy intensity Total building energy intensity 90 82 –9% 45 40 –12% 2019/20 – % of total LfL assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+22 Sustainability Performance and Data 2020
+
+
+Absolute portfolio – GHG emissions (Energy) Table 17. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Greenhouse Gas Emissions. 
+GHG-Dir-Abs tCO2e Direct Scope 1 (location-based) 12,964 9,881 7,908 9,650 6,737 5,555. 
+Scope 1 (market-based) 10,759 8,268 7,908 7,994 5,637 5,555. 
+GHG-Indir-Abs tCO2e Indirect Scope 2 (location-based) 36,620 30,518 25,382 17,992 16,336 13,141. 
+Scope 3 (location-based) 45,938 38,971 36,251 29,557 23,676 23,153. 
+Scope 2 (market-based) 2,200 3,517 2,223 1,143 2,763 1,695. 
+Scope 3 (market-based) 7,638 8,711 9,096 3,631 5,335 5,549. 
+GHG-Int tCO2e/m2 GHG Intensity Total GHG emission intensity (location-based) 0.05 0.04 0.04 0.10 0.08 0.08. 
+Total GHG emission intensity (market-based) 0.01 0.01 0.01 0.02 0.03 0.02. 
+Impact area EPRA Sustainability Performance Measures (Environment) Retail Specialist. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Greenhouse Gas Emissions. 
+GHG-Dir-Abs tCO2e Direct Scope 1 (location-based) 2,886 2,825 2,090 428 319 264. 
+Scope 1 (market-based) 2,410 2,364 2,090 355 267 264. 
+GHG-Indir-Abs tCO2e Indirect Scope 2 (location-based) 15,958 12,149 10,723 2,670 2,034 1,518. 
+Scope 3 (location-based) 13,996 13,724 11,794 2,385 1,571 1,304. 
+Scope 2 (market-based) 1,037 754 528 20 0 0. 
+Scope 3 (market-based) 3,938 3,330 3,512 69 45 34. 
+GHG-Int tCO2e/m2 GHG Intensity Total GHG emission intensity (location-based) 0.03 0.03 0.02 0.02 0.02 0.01. 
+Total GHG emission intensity (market-based) 0.01 0.01 0.01 0.00 0.00 0.00 2019/20 – % of total assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+23 Sustainability Performance and Data 2020
+
+
+Like-for-Like portfolio – GHG emissions (Energy) Table 18. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Greenhouse Gas Emissions. 
+GHG-Dir- LfL tCO2e Direct Scope 1 (location-based) 9,034 7,179 –21% 5,892 4,825 –18%
+Scope 1 (market-based) 7,559 7,179 –5% 4,929 4,825 –2%
+GHG-Indir-LfL tCO2e Indirect Scope 2 (location-based) 27,718 22,697 –18% 14,603 11,607 –21%
+Scope 3 (location-based) 36,398 34,358 –6% 21,604 21,767 1%
+Scope 2 (market-based) 2,914 1,958 –33% 2,726 1,695 –38%
+Scope 3 (market-based) 7,910 8,596 9% 4,687 5,188 11%
+GHG-Int tCO2e/m2 GHG Intensity Total GHG emission intensity (location-based) 0.04 0.04 –12% 0.09 0.08 –9%
+Total GHG emission intensity (market-based) 0.01 0.01 –4% 0.03 0.02 –5%
+Impact area EPRA Sustainability Performance Measures (Environment) Retail Specialist. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Greenhouse Gas Emissions. 
+GHG-Dir- LfL tCO2e Direct Scope 1 (location-based) 2,825 2,090 –26% 317 264 –17%
+Scope 1 (market-based) 2,364 2,090 –12% 265 264 0%
+GHG-Indir-LfL tCO2e Indirect Scope 2 (location-based) 11,126 9,572 –14% 1,989 1,518 –24%
+Scope 3 (location-based) 13,236 11,287 –15% 1,558 1,304 –16%
+Scope 2 (market-based) 188 263 40% 0 0 0%
+Scope 3 (market-based) 3,178 3,374 6% 45 34 –23%
+GHG-Int tCO2e/m2 GHG Intensity Total GHG emission intensity (location-based) 0.03 0.02 -16% 0.02 0.01 –20%
+Total GHG emission intensity (market-based) 0.01 0.01 0% 0.00 0.00 –4% 2019/20 – % of total LfL assets within reporting boundaries included: 100% 2019/20 – % of data estimated: 3%. In this disclosure, estimation refers to filling either invoice or meter reading gaps, not to whether invoices are based on ‘estimated’ or ‘actual’ readings.
+24 Sustainability Performance and Data 2020
+
+
+Absolute portfolio – water, waste and refrigerants Table 19. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Water. 
+Water-Abs m3 Water for landlord shared services 605,094 633,444 665,258 341,239 315,182 268,100 (sub)metered to tenants 449,740 411,534 398,936 67,939 70,709 95,498. 
+Total water 1,054,834 1,044,978 1,064,194 409,178 385,891 363,599. 
+Water-Int m3/m2 Water intensity Total building water intensity 0.57 0.56 0.57 0.69 0.71 0.66. 
+Waste. 
+Waste-Abs (hazardous) Tonnes Total weight of waste produced Hazardous waste1 n/a n/a n/a n/a n/a n/a. 
+Waste-Abs (non-hazardous) Non-hazardous waste 35,347 36,725 36,272 6,384 6,868 6,612. 
+Waste-Abs (recycled) Total weight of waste by disposal route. 
+Recycled 25,937 27,031 26,581 4,966 5,456 5,498. 
+Waste-Abs (EfW) Energy from Waste 9,410 9,694 9,690 1,419 1,411 1,114. 
+Waste-Abs (landfill) Landfill 0 0 0 0 0 0. 
+Waste-Abs (recycled) % Proportion of waste by disposal route Recycled 73% 74% 73% 78% 79% 83%
+Waste-Abs (EfW) Energy from Waste 27% 26% 27% 22% 21% 17%
+Waste-Abs (landfill) Landfill 0% 0% 0% 0% 0% 0%
+Refrigerant gases Refrigerant gases-Abs tCO2e Direct Refrigerant gases 1,763 1,590 1,250 1,175 1,048 245. 
+Impact area EPRA Sustainability Performance Measures (Environment) Retail Specialist. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Water. 
+Water-Abs m3 Water for landlord shared services 252,300 231,058 306,402 11,555 87,204 90,756 (sub)metered to tenants 293,042 339,098 303,285 88,760 1,727 152. 
+Total water 545,342 570,156 609,687 100,315 88,931 90,908. 
+Water-Int m3/m2 Water intensity Total building water intensity 0.55 0.54 0.58 0.39 0.35 0.35. 
+Waste. 
+Waste-Abs (hazardous) Tonnes Total weight of waste produced Hazardous waste1 n/a n/a n/a n/a n/a n/a. 
+Waste-Abs (non-hazardous) Non-hazardous waste 23,663 24,822 25,180 5,300 5,036 4,480. 
+Waste-Abs (recycled) Total weight of waste by disposal route. 
+Recycled 17,921 18,488 18,389 3,051 3,087 2,694. 
+Waste-Abs (EfW) Energy from Waste 5,742 6,334 6,791 2,249 1,949 1,786. 
+Waste-Abs (landfill) Landfill 0 0 0 0 0 0. 
+Waste-Abs (recycled) % Proportion of waste by disposal route Recycled 76% 74% 73% 58% 61% 60%
+Waste-Abs (EfW) Energy from Waste 24% 26% 27% 42% 39% 40%
+Waste-Abs (landfill) Landfill 0% 0% 0% 0% 0% 0%
+Refrigerant gases Refrigerant gases-Abs tCO2e Direct Refrigerant gases 544 498 1,005 44 43 0 1. The amount of hazardous waste produced in our properties is immaterial. 2019/20 – % of total assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: Water – 24%, Waste – 0%, Refrigerant gases – 0% 25 Sustainability Performance and Data 2020
+
+
+Like-for-Like portfolio – water, waste and refrigerants Table 20. 
+Impact area EPRA Sustainability Performance Measures Landsec Office. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Water. 
+Water-LfL m3 Water for landlord shared services 571,480 611,094 7% 267,574 224,369 –16% (sub)metered exclusively to tenants 403,903 389,908 –3% 63,079 86,622 37%
+Total water 975,383 1,001,002 3% 330,653 310,992 –6%
+Water-Int m3/m2 Water intensity Total building water intensity 0.56 0.58 3% 0.69 0.65 -6%
+Waste. 
+Waste-LfL (hazardous) Tonnes Total weight of waste produced Hazardous waste1 n/a n/a n/a n/a n/a n/a. 
+Waste-LfL (non-hazardous) Non-hazardous waste 35,376 34,467 –3% 6,868 6,621 –4%
+Waste-LfL (recycled) Total weight of waste by disposal route Recycled 26,449 25,224 –5% 5,456 5,506 1%
+Waste-LfL (EfW) Energy from Waste 8,927 9,243 4% 1,411 1,115 –21%
+Waste-LfL (landfill) Landfill 0 0 0% 0 0 0%
+Waste-LfL (recycled) % Proportion of waste by disposal route Recycled 75% 73% –2% 79% 83% 5%
+Waste-LfL (EfW) Energy from Waste 25% 27% 6% 21% 17% –18%
+Waste-LfL (landfill) Landfill 0% 0% 0% 0% 0% 0%
+Refrigerant gases Refrigerant gases-LfL tCO2e Direct Refrigerant gases – annual metric tonnes CO2e 1,374 794 –42% 1,027 245 –76%
+Impact area EPRA Sustainability Performance Measures Retail Specialist. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Water. 
+Water-LfL m3 Water for landlord shared services 216,769 295,969 37% 87,137 90,756 4% (sub)metered exclusively to tenants 339,098 303,133 –11% 1,727 152 –91%
+Total water 555,867 599,103 8% 88,864 90,908 2%
+Water-Int m3/m2 Water intensity Total building water intensity 0.55 0.60 8% 0.35 35% 2%
+Waste. 
+Waste-LfL (hazardous) Tonnes Total weight of waste produced Hazardous waste1 n/a n/a n/a n/a n/a n/a. 
+Waste-LfL (non-hazardous) Non-hazardous waste 23,473 23,351 –1% 5,035 4,496 –11%
+Waste-LfL (recycled) Total weight of waste by disposal route Recycled 17,907 17,024 –5% 3,086 2,694 –13%
+Waste-LfL (EfW) Energy from Waste 5,567 6,326 14% 1,949 1,802 –8%
+Waste-LfL (landfill) Landfill 0 0 0% 0 0 0%
+Waste-LfL (recycled) % Proportion of waste by disposal route Recycled 76% 73% –4% 61% 60% –2%
+Waste-LfL (EfW) Energy from Waste 24% 27% 14% 39% 40% 4%
+Waste-LfL (landfill) Landfill 0% 0% 0% 0% 0% 0%
+Refrigerant gases Refrigerant gases-LfL tCO2e Direct Refrigerant gases – annual metric tonnes CO2e 303 549 81% 43 0 –100% 1. The amount of hazardous waste produced in our properties is immaterial. 2019/20 – % of total LfL assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: Water – 24%, Waste – 0%, Refrigerant gases – 0%.
+26 Sustainability Performance and Data 2020
+
+
+Absolute portfolio – GHG emissions (other) Table 21. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office Retail Specialist. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20 2017/18 2018/19 2019/20. 
+Greenhouse Gas Emissions GHG-Dir-Abs annual tonnes CO2e Direct Scope 11 1,790 1,608 1,250 1,203 1,067 245 544 498 1,005 44 43 0. 
+GHG-Indir-Abs Indirect Scope 32 2,244 2,209 2,160 935 877 794 1,089 1,131 1,174 221 201 192 1. Scope 1 includes emissions from refrigerants 2. Scope 3 includes emissions from water, waste and business travel. 2019/20 – % of total assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: Water – 24%, Waste – 0%, Refrigerant gases – 0%.
+Like-for-like portfolio – GHG emissions (other) Table 22. 
+Impact area EPRA Sustainability Performance Measures (Environment) Landsec Office Retail Specialist. 
+EPRA codes Units Indicator 2018/19 2019/20 % change 2018/19 2019/20 % change 2018/19 2019/20 % change 2018/19 2019/20 % change. 
+Greenhouse Gas Emissions GHG-Dir-LfL annual tonnes CO2e Direct Scope 11 1,374 794 –42% 1,027 245 –76% 303 549 81% 43 0 –100%
+GHG-Indir-LfL Indirect Scope 32 1,783 1,462 –18% 495 141 –71% 1,087 1,129 4% 201 192 –5% 1. Scope 1 includes emissions from refrigerants. 2. Scope 3 includes emissions from water and waste. 2019/20 – % of total LfL assets within reporting boundaries included: 100%. 2019/20 – % of data estimated: Water – 24%, Waste – 0%, Refrigerant gases – 0%.
+27 Sustainability Performance and Data 2020
+
+
+Landsec headquarters environmental performance Table 23. 
+Impact area EPRA Sustainability Performance Measures (Environment)
+EPRA codes Units Indicator 2017/18 2018/19 2019/20. 
+Energy. 
+Elec-Abs kWh Electricity Total electricity 433,901 367,155 351,567. 
+Proportion of electricity from renewable sources 100% 100% 100%
+Fuels-Abs Fuels Total fuels 495,956 535,961 484,572. 
+Proportion of fuels from renewable sources 18% 16% 0%
+Total energy-Abs Energy Total energy 929,858 903,116 836,139. 
+Proportion of energy from renewable sources 23% 50% 42%
+Energy-Int kWh/m2 Energy intensity Total building energy intensity 197 191 177. 
+Greenhouse Gas Emissions. 
+GHG-Dir-Abs tCO2e Direct Scope 1 (location-based) 101 99 91. 
+Scope 1 (market-based) 84 94 91. 
+GHG-Indir-Abs Indirect Scope 2 (location-based) 153 104 90. 
+Scope 3 (location-based) 60 31 41. 
+Scope 2 (market-based) 0 0 0. 
+Scope 3 (market-based) 19 19 20. 
+GHG-Int tCO2e/m2 GHG intensity Total GHG emission intensity (location-based) 0.066 0.043 0.047. 
+Total GHG emission intensity (market-based) 0.022 0.030 0.023. 
+Water Water-Abs m3 Water Total water 2,518 2,649 2,602. 
+Water-Int m3/m2 Water intensity Total building water intensity 0.53 0.56 0.55. 
+Waste. 
+Waste-Abs tonnes Waste Total weight of waste – Recycled 73 102 102. 
+Total weight of waste – Energy from Waste 28 32 26. 
+Total weight of waste – Landfill 0 0 0 % Waste Proportion of waste – Recycled 72% 76% 79%
+Proportion of waste – Energy from Waste 28% 24% 21%
+Proportion of waste – Landfill 0% 0% 0%
+Refrigerant gases Refrigerant gases-Abs tCO2e Direct Refrigerant gases 9 23 1. 
+Fuels, water, waste and refrigerant gases were calculated based on the floor area occupied by Landsec as a percentage of the total building figures.
+Sustainability certification Table 24. 
+Impact area EPRA Sustainability Performance Measures. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20. 
+Certification Cert-Tot % of total floor area (m2) Percentage of portfolio which is BREEAM rated 40.1% 40.2% 39.9%
+Outstanding 0.2% 0.2% 0.2%
+Excellent 19.3% 19.4% 19.3%
+Very Good 17.7% 17.7% 17.5%
+Good/Pass 2.9% 2.9% 2.8% 28 Sustainability Performance and Data 2020
+
+
+Employee diversity – Gender Table 25. 
+Impact area EPRA Sustainability Performance Measures (Social) 2017/18 2018/19 2019/20. 
+EPRA codes Units Indicator Female Male Female Male Female Male. 
+Diversity. 
+Diversity-Emp % of employees Gender diversity % of total employees 53.5% 46.5% 52.5% 47.6% 52.4% 47.6%
+Gender by level Board 42.9% 57.1% 44.4% 55.5%
+Executive 28.6% 71.4% 28.6% 71.4% 20.0% 80.0%
+Senior Leader 38.1% 61.9% 40.9% 59.1% 30.0% 70.0%
+Leader 24.4% 75.6% 19.5% 80.5% 24.5% 75.5%
+Manager 51.5% 48.5% 51.2% 48.8% 52.6% 47.4%
+Professional 53.4% 46.6% 56.1% 43.9% 61.7% 38.3%
+Support 78.9% 21.1% 73.7% 26.3% 71.4% 28.6%
+Ethnicity diversity Asian 4.1% 1.8% 3.9% 2.7% 4.7% 2.8%
+Black 3.6% 1.1% 3.6% 1.6% 3.2% 1.8%
+Other 2.8% 1.5% 3.2% 1.4% 3.0% 1.9%
+Race/Ethnicity Not Recorded 3.1% 2.3% 2.5% 2.8% 1.2% 1.8%
+White 40.0% 39.8% 39.2% 39.0% 40.2% 39.4%
+Employee diversity – Gender pay Table 26. 
+Impact area EPRA Sustainability Performance Measures (Social) 2018/19 2019/20. 
+EPRA codes Units Indicator Ratio Ratio. 
+Diversity Diversity-Pay Pay Diversity-Pay Gender pay ratio Total employees 1.58 1.61 29 Sustainability Performance and Data 2020
+
+
+Employee diversity – Ethnicity Table 27. 
+Impact area EPRA Sustainability Performance Measures (Social) 2017/18 2018/19 2019/20. 
+EPRA codes Units Indicator Asian Black Other. 
+Race/ ethnicity not recorded White Asian Black Other. 
+Race/ ethnicity not recorded White Asian Black Other. 
+Race/ ethnicity not recorded White. 
+Diversity Additional metric % of employees Ethnicity by level % of total employees 5.9% 4.7% 4.2% 5.4% 79.8% 6.6% 5.2% 4.6% 5.4% 78.2% 7.6% 4.9% 4.9% 3.0% 79.6%
+Board 0.0% 0.0% 0.0% 71.4% 28.6% 0.0% 0.0% 0.0% 57.1% 42.9%
+Executive 0.0% 0.0% 0.0% 0.0% 100.0% 0.0% 0.0% 0.0% 0.0% 100.0% 0.0% 0.0% 0.0% 0.0% 100.0%
+Senior Leader 0.0% 0.0% 0.0% 9.5% 90.5% 0.0% 0.0% 0.0% 4.6% 95.5% 0.0% 0.0% 0.0% 0.0% 100.0%
+Leader 3.6% 2.4% 3.7% 4.9% 85.4% 6.1% 1.2% 3.7% 7.3% 81.7% 4.3% 2.1% 4.3% 3.2% 86.2%
+Manager 5.4% 3.0% 3.5% 3.5% 84.7% 7.7% 1.9% 3.8% 5.7% 80.9% 11.7% 2.0% 5.1% 3.6% 77.6%
+Professional 9.2% 6.1% 4.3% 4.3% 76.1% 8.7% 6.9% 6.4% 2.3% 75.7% 8.7% 8.7% 5.4% 1.3% 75.8%
+Support 5.3% 8.3% 6.8% 5.3% 74.4% 4.5% 12.0% 5.3% 4.5% 73.7% 3.1% 9.2% 6.1% 1.0% 80.6%
+Employee diversity – Disability Table 28. 
+Impact area EPRA Sustainability Performance Measures (Social) 2019/20. 
+EPRA codes Units Indicator Hearing. 
+Learning, understanding or concentrating Mental health Mobility Other Vision Prefer not to say No disability. 
+Disability not recorded. 
+Diversity Additional metric % of employees Disability by level % of total employees 0.4% 0.7% 0.5% 0.4% 0.9% 0.4% 3.9% 87.0% 6.0%
+Board 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 14.3% 0.0% 85.7%
+Executive 0.0% 0.0% 0.0% 0.0% 0.0% 20.0% 0.0% 60.0% 20.0%
+Senior Leader 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 95.0% 5.0%
+Leader 0.0% 0.0% 1.1% 0.0% 1.1% 1.1% 7.4% 83.0% 6.4%
+Manager 0.5% 1.0% 0.0% 1.0% 1.0% 0.0% 4.1% 87.2% 5.1%
+Professional 0.0% 1.3% 0.7% 0.0% 0.7% 0.0% 2.7% 89.9% 4.7%
+Support 1.0% 0.0% 1.0% 0.0% 1.0% 0.0% 2.0% 91.8% 3.1% 30 Sustainability Performance and Data 2020
+
+
+Employee diversity – Sexual orientation Table 29. 
+Impact area EPRA Sustainability Performance Measures (Social) 2019/20. 
+EPRA codes Units Indicator Bisexual Lesbian/Gay Other Heterosexual Prefer not to state. 
+Sexual orientation not recorded. 
+Diversity Additional metric % of employees Sexual orientation by level % of total employees 0.7% 2.3% 0.2% 83.3% 10.5% 3.0%
+Board 0.0% 0.0% 0.0% 14.3% 28.6% 57.1%
+Executive 20.0% 0.0% 0.0% 60.0% 20.0% 0.0%
+Senior Leader 0.0% 0.0% 0.0% 95.0% 5.0% 0.0%
+Leader 1.1% 1.1% 0.0% 84.0% 10.6% 3.2%
+Manager 0.5% 1.0% 0.0% 83.2% 11.7% 3.6%
+Professional 0.7% 4.7% 0.7% 83.9% 8.7% 1.3%
+Support 0.0% 3.1% 0.0% 85.7% 10.2% 1.0%
+Employee development and turnover Table 30. 
+Impact area EPRA Sustainability Performance Measures (Social) 2017/18 2018/19 2019/20. 
+EPRA codes Units Indicator Female Male Landsec Female Male Landsec Female Male Landsec. 
+Development and Turnover. 
+Emp-Training Number of hours Hours of training Average hours of training per employee 12.4 12.2 12.3 12.2 12.1 12.1 20.8 20.8 20.8. 
+Emp-Dev % of employees Performance appraisals % of total employees received performance appraisals 45.0% 50.0% 95.0% 49.6% 46.8% 96.4% 51.0% 46.1% 97.1%
+Emp-Turnover Number of employees New hires Total number of new hires 41 61 102 69 47 116 54 38 92. 
+Rate of new hires 6.0% 10.0% 16.0% 10.9% 7.4% 18.3% 9.0% 6.0% 15.0%
+Employee turnover Total number of employee turnover 46 71 117 65 33 98 99 69 168. 
+Rate of employee turnover 7.5% 11.5% 19.0% 10.3% 5.2% 15.5% 16.1% 11.2% 27.3% 31 Sustainability Performance and Data 2020
+
+
+Health & Safety Table 31. 
+Impact area EPRA Sustainability Performance Measures (Social) Landsec. 
+EPRA codes Units Indicator 2017/18 2018/19 2019/20. 
+Health & Safety H&S-Emp % of total days Absentee rate Absentee rate for employees 1.31% 0.90% 1.04%
+Rate RIDDOR1 – Reportable injury incident rate Developments – contractors 635. 
+Managed portfolio 0.0069. 
+Third-party managed portfolio 0.0042. 
+Total number RIDDOR – Number of reportable injury incidents Developments – contractors 14 4 3. 
+Managed portfolio 12 5 13. 
+Third-party managed portfolio 2. 
+Total number Number of fatalities Developments – contractors 0 0 0. 
+Managed portfolio – contractors 0 0 0. 
+Managed portfolio – employees 0 0 0. 
+Managed portfolio – visitors 0 0 0. 
+Total number Number of near misses Developments – contractors 21. 
+Managed portfolio 120. 
+Total number Number of total injury incidents Developments – contractors 9. 
+Managed portfolio – contractors 93. 
+Managed portfolio – employees 14. 
+Managed portfolio – visitors 449. 
+Managed portfolio – unallocated person 122. 
+Total number Disease Managed portfolio 0. 
+Total number Lost time rate Developments – contractors 0. 
+H&S-Asset % % Assets Asset Health & Safety assessments 100% 100% 100%
+H&S-Comp Total number Enforcement/Compliance incidents Developments 0. 
+Managed portfolio / operations 0 % Health & Safety training Employees 95 1. RIDDOR – Reporting of Injuries, Diseases and Dangerous Occurrences Regulations: figures only include reportable incidents as specified at https://www.hse.gov.uk/riddor. RIDDOR – Injury incident rate for developments – contractors calculation: RIDDOR x 100,000/workers. RIDDOR – Injury incident rate for managed portfolio calculation: RIDDOR x 100,000/footfall.
+ 32 Sustainability Performance and Data 2020
+
+
+We are committed to implementing the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), providing investors and other stakeholders with decision-useful information on climate-related risks and opportunities that are relevant to our business. In 2017 we made a public commitment to assess and mitigate climate change risks across our portfolio and we are part of a growing group of leading organisations publicly listed as supporters by the TCFD.
+In this section of our Sustainability Performance and Data Report, we provide our comprehensive TCFD disclosure, including details on climate change scenarios and how they may affect our business in the short and long term. Our approach to climate-related risks and opportunities is also discussed in our Annual Report on page 56. For further disclosures you can access our CDP response at https://www.cdp.net/en/responses.
+Governance. 
+Our Chief Executive has overall responsibility for climaterelated risks and opportunities. The Board is updated on our sustainability and climate-related performance at least once a year and has overall responsibility for oversight of risk, undertaking an annual assessment of the principal risks, which include climate-related risks. In addition, the Audit Committee supports the Board in the management of risk and is responsible for reviewing the effectiveness of the risk management and internal control processes during the year.
+Ongoing oversight of climate-related issues is carried out by our Sustainability Committee, chaired by the Chief Executive and attended by our Group Corporate Affairs & Sustainability Director, Group HR Director and senior representation from portfolio management and development teams. The Committee meets quarterly and is the senior forum for developing and implementing sustainability strategy and commitments, assessing and managing climaterelated risks and opportunities, and reviewing performance.
+The Sustainability Committee is supported by the Energy Risk Committee and Sustainability Performance Group. The Energy Risk Committee, chaired by our Group Treasurer, assesses potential risks and opportunities associated with energy procurement and agrees key deliverables to mitigate those risks or deliver added value to customers. The Sustainability Performance Group is another cross-functional group with the responsibility of monitoring operational performance of our assets, and ensuring progress against our energy and carbon reduction targets set by the Sustainability Committee.
+Our approach to managing climate-related risk and opportunities is also reviewed by the Investment Committee and the Property Committee. This can include reviewing and approving investment in energy efficiency projects and renewables, as well as approving development or refurbishment plans which include climate-related aspects of design.
+Our commitment to address climate-related risks is embedded across the business, through energy efficiency and embodied carbon Group KPIs. The performance against these KPIs is linked to executive and management remuneration, aiming to incentivise progress against our science-based carbon reduction target and net zero commitment.
+Strategy. 
+Identifying risks and opportunities As a UK real estate company, our business is exposed to both physical and transition risks and opportunities from climate change.
+We assess the impact of climate-related risks through quantitative and qualitative scenario analysis, considering short- to medium-term until 2030, and long-term beyond 2030 to 2100. Our analysis focuses on two distinct scenarios: a best-case scenario where global average temperature increases by less than two degrees, and a worst-case scenario where temperatures increase by up to four degrees. Detailed information on the two distinct scenarios is found on the following pages.
+To determine how our business may be affected by the physical risk, we conducted research and modelling. This research was carried out in 2017 and 2019. The modelling has enabled us to determine the likelihood of potential future weather patterns and natural hazards. The risks occurring due to these weather and climate patterns include chronic factors such as energy costs from overheating, and acute factors such as windstorm, and coastal, inland and flash flooding. Our exposure to these risks is derived through analysis of our property portfolio, using climate and natural hazard databases such as SwissRe CatNetTM and MunichRe NATHANTM, and is further adjusted based on expert judgement. The research and analysis carried out in 2019 incorporated the Met Office Climate Projections 2018 (UKCP18), which are widely accepted as the most accurate forecasts for how climate change will affect the climate and weather in the UK.
+The modelling of all chronic and acute physical risks was based on the four Representative Concentration Pathways (RCPs), which are used by the Intergovernmental Panel on Climate Change (IPCC) to illustrate future concentrations of greenhouse gases in the atmosphere. Although our modelling analysed all four RCPs, we simplified our approach by focusing on two distinct scenarios, a best-case scenario where global average temperature increases by less than two degrees in line with the 2015 Paris Climate Agreement, and a worst-case scenario, where temperatures increase by up to four degrees.
+To determine how our business will be affected by a transition to the low-carbon economy, we conducted a scenario analysis in March 2019, using the TCFD recommendations as a guide. The process of scenario analysis was designed to allow us to assess our resilience in two alternate futures: transition to the low-carbon economy or failure to transition. This process relied on a variety of data sources and a panel of experts including insurance, strategy, finance, insight and treasury functions from our business, alongside weather, natural catastrophe, enterprise risk management and academic research representatives from Willis Towers Watson and the Willis Research Network.
+Task Force on Climate-related Financial Disclosures (TCFD) 33 Sustainability Performance and Data 2020
+
+
+Risks and opportunities in the following categories were considered: policy & legal, reputation, technology, and market. Risks and opportunities were assessed against impact and likelihood criteria, with potential impacts across our value chain considered.
+Our analysis showed us that the impacts of physical risks on our portfolio will only become more relevant in the long term, and only under the worst-case scenario. The analysis showed that our current portfolio is not highly exposed to physical risks given the location of our assets, as shown in the Metrics and targets table on page 37.
+Conversely, transition risks are already happening in the short term and the impacts will be more significant under the best-case scenario, due to strong policy, regulatory and legal responses.
+In order to continue aligning our disclosures with the TCFD recommendations and to better manage transition risks, we will undertake a quantitative assessment of climate-related transition risks during summer 2020. This will enable us to better understand the potential financial impact of transition risks, such as policy and legislation changes and shifts in market preferences, helping to inform our strategy to manage climate risks across our portfolio.
+Strategy and financial planning Our strategy to address climate-related risks and opportunities spans all areas of our business including investment, development, operation and divestment: — Through our Responsible Property Investment Policy, we assess climate risks during due diligence, when we buy an asset, including the following performance metrics: energy consumption, energy performance certificates and other sustainability certifications, flood risk assessment and embodied carbon assessment.
+— As our developments are typically designed to last over 60 years, we need to ensure that we’re designing buildings to be more resilient and able to cope with future weather patterns. Through our Sustainability. 
+Brief for developments, we manage the impact of physical risks such as higher cooling costs and lower heating demand. This includes adapting building services design, reducing heating capacity and maintaining summer cooling capacity to cope with heatwaves. The performance of our facades and fabric materials is designed to address the expected higher temperatures to minimise energy demand, as well as to be able to withstand extreme temperatures and increased wind speeds to avoid maintenance issues or damage to buildings in future. Our drainage strategies are designed to mitigate foreseen rain levels and flood risks using physical and nature-based solutions. Finally, we’re transitioning towards all-electric solutions, scaling back fossil fuel-dependent boilers in favour of electric heating and cooling across our operations.
+— Using our Sustainability Charter, we encourage our partners to improve their preparation and response to climate-related risks where this is relevant to their business. We have also included these criteria in the selection and engagement process for partners.
+— We have Energy Reduction Plans (ERPs) for all our assets, which outline how we will reduce the energy use and carbon emissions of the asset effectively. Through these plans, we will continue to plan and deliver improved controls and efficient energy systems. The ERPs form part of the operational financial planning for each asset.
+We continue evolving our strategy to address climaterelated risks and opportunities. As part of our approach to manage transition risks, in November 2019 we announced our commitment to becoming a net zero carbon business by 2030. We increased the ambition level of our sciencebased target, aligning it with a 1.5°C scenario. In addition to reducing our operational emissions, by improving the energy efficiency of our assets, we’re looking to increase investments in renewables, such as corporate PPAs, managing the future risk of higher energy costs. We’re also implementing an internal shadow carbon price, anticipating a potential carbon price in the future, to inform our decision-making process. Furthermore, we’re reducing carbon emissions across our construction activities by setting embodied carbon intensity and reduction targets for each of our developments. Finally, we’ll offset any remaining carbon emissions through carefully selected projects which actively take carbon out of the atmosphere. Further details on our net zero strategy can be found in our Annual Report on pages 38-39.
+Our analysis gives us confidence in the resilience of our strategy, as we’re supporting the transition to a lowcarbon world whilst managing the impact of climaterelated risks to our portfolio.
+Risk management. 
+Our risk management and control framework enables us to effectively identify, assess and manage climate-related risks. We recognise the importance of identifying and monitoring climate-related risks, which feature prominently on our principal risk register.
+Ownership and management of all risks is assigned to members of the Executive Committee, who are responsible for ensuring the operating effectiveness of the internal control systems and for implementing key risk mitigation plans. The Executive Committee is supported by risk champions across the business, who are tasked with maintaining awareness of key risks and control measures.
+The Executive Director responsible for climate-related risk is the Group Corporate Affairs & Sustainability Director. Our climate-change principal risk includes both transition and physical climate risk and is monitored on a quarterly basis using a series of Key Risk Indicators. Both the Executive Director and the risk champion responsible for climate-related risk ensure integration with the overall risk management process. Where climate-related risks correspond to other risks these are discussed between the network of risk champions.
+Our risk management process to address climate change is discussed further in our Annual Report under principal risks and uncertainties on page 55.
+34 Sustainability Performance and Data 2020
+
+
+Two-degrees scenario. 
+This scenario is aligned with the IPCC’s RCP 2.6, in which there is a high likelihood that global temperatures will not exceed more than 2°C over pre-industrial levels by the end of the century.
+For this scenario to be possible, global efforts to mitigate climate change will need to intensify immediately, led and supported by strong policy, regulatory and legal responses. Furthermore, rapid investment in low-carbon technology will need to occur, with widespread adoption of sustainable consumption, business practices and lifestyles. Businesses not responding to the transition to a low-carbon economy will quickly become laggards, suffering from reputational impacts as the world changes significantly in the short term.
+In the long term, the world will have transitioned successfully to a low-carbon economy but will still be affected by high levels of carbon already in the atmosphere. This concentration of emissions will cause an additional one to two degrees of warming over pre-industrial levels, resulting in some physical changes to climate and weather.
+Transition risks and opportunities. 
+What could happen in this scenario in the lead-up to 2030? — Our customers and communities adopt low-carbon lifestyles — New policy leads to higher development and operational costs — New subsidies and tax relief for low-carbon solutions. 
+In this scenario, zero carbon legislation, more stringent planning regulation or a carbon tax could lead to higher capital and operational costs. Investment in low-carbon and renewable construction materials and solutions could be required through the planning system and building regulations. Reducing the carbon impact of developments in both construction and operations could become mandatory, increasing capital expenditures on construction. We would be likely to incur increasing infrastructure and energy costs through widespread adoption of electric vehicles, battery storage technology and other electrical generation, distribution and storage equipment.
+Mass adoption of sustainable business practices could begin to occur in this scenario throughout the property industry in the UK. This could lead to marginally diminished competitive advantage from which we currently benefit through our sustainability programme. For example, all new assets brought to market would have compelling sustainability and energy performance credentials, and all retail and leisure destinations would feature electric vehicle charging. This would lead to the requirement for new and innovative technologies and systems to compete for higher rents and valuations. This scenario could lead to higher levels of competition for positive investor favour surrounding ESG, as the standard of disclosure and performance will likely be universally higher.
+In this scenario, the global adoption of ESG and responsible investment practices could lead to higher valuations and improved availability of capital for low-carbon businesses in the short term. New revenue streams could emerge from investment in renewable energy generation, supported by subsidies or tax relief. We expect property companies offering low-carbon solutions could also benefit from increased capacity to attract customers and improved customer retention.
+This scenario could also lead to a long-term benefit, where our present levels of adoption of low-carbon and energy efficiency technologies lead to increased organisational resilience. Specifically, the short payback period and longer asset life of renewable energy generation assets would begin to increase our revenues and avoided costs.
+Physical risk. 
+In this scenario, predicted changes in the UK climate are marginally higher year-round temperatures and lower precipitation in summer. The risk to our business under this scenario from flooding and windstorm remains within the current and natural variability. This means there will be no material change to insurance, repair or other capital and operational costs arising due to the physical impacts of climate change. Our modelling has also determined that this will not have a material effect on energy costs for our business or our customers, particularly as there are several factors which affect energy consumption and costs. In addition, the slight increase in summer cooling costs are offset by lower heating costs in winter.
+How we’ll need to respond. 
+In the two-degrees scenario, based on our analysis, we are confident our current business model allows us to reduce our impact in line with the required mitigation. Our analysis gives us confidence that our business activities, strategy and financial planning referenced on pages 33-34 mean we are well placed to benefit from the transition to a low-carbon economy. This includes widespread adoption of low-carbon and renewable technologies, continually driving improved energy efficiency and carbon reduction, and engaging our customers and consumers on sustainability and climate change.
+Our investment in, and development of, resilient and efficient assets will help us to mitigate any marginal increase in physical climate risks after 2030. However, we must consider that under this scenario many of our activities will be considered business as usual by 2030, so to continue to derive both reputational and competitive advantage from our sustainability programme, further innovation and investment will be required. We will continue to do this through seeking new product and service offerings from the market and encouraging our consulting and design partners to build in transitional thinking to their advice to us.
+35 Sustainability Performance and Data 2020
+
+
+Four-degrees scenario. 
+This scenario is aligned with the IPCC’s RCP 8.5, where climate change will increase by up to four degrees by 2100. In the lead-up to 2030, limited actions are taken to mitigate climate change, current levels of investment in low-carbon technology continue, and emissions continue to rise along their current trajectory. In the period between 2030 and 2100, the physical effects of climate change begin to intensify rapidly, and government, business and society will need to adapt to the effects.
+Beyond 2030, widespread disruption to markets could begin to occur, and investment in climate change-resilient technologies and infrastructure is likely to be required for organisations with physical assets. The policy, regulatory and legal response, although limited in the short term, could begin to force organisations in control of physical assets to adapt to climate change. In this scenario, businesses with high levels of carbon emissions could experience a backlash in consumer, customer and investor sentiment.
+Physical and adaptation risks — What could happen in this scenario by 2070? — 5.4°C hotter in summer — 50% increase in heatwaves — 35% more rain in winter — 9% increase in electricity use — 32% decrease in gas use. 
+In this scenario it is likely we will experience an increase in flash flooding, river floods, coastal flooding and storm surges. These weather events are applicable to a small proportion of assets in our portfolio, noted in the Metrics and targets section of this report. Increases in year-round temperature are predicted, with summer temperatures 5.4°C higher and winter temperatures 4.2°C higher than the current climate. Higher levels of precipitation are predicted in winter at up to +35%, and lower levels of summer precipitation are predicted at down to –47%.
+These physical effects could have several effects on our business due to changes in markets, policy, regulation and technology. Accordingly, we do not consider the consequences of these physical risks to be ‘transition’ risks, as under the four-degrees scenario there will be very little transitional activity. We consider these risks and associated impacts to be costs of adapting to the new climate and weather patterns.
+In this scenario, the physical risks to our portfolio could pose several market challenges, including potential lower asset values, higher operational costs, higher costs of insurance premiums, and reduced attractiveness to our customers and consumers. Specifically, asset values could fall where they are proven to have poor resilience to windstorm and flooding. Where we own assets in cities, particularly London, we could experience reduced demand for our properties affected by extreme heat and air pollution.
+Due to the extreme temperature and weather patterns associated with this scenario, it is likely that poorly designed, operated and maintained assets will experience more frequent building system and envelope failures. This is likely to lead to higher operational costs, but also reputational risks, where customers begin to rely more on property companies to maintain safe and comfortable spaces for their staff and consumers. More extreme weather could also lead to increasing numbers of building failures and natural catastrophes, leading to rising insurance premiums.
+In this scenario our business could also be affected by higher raw material costs due to increasing fossil fuel and water costs, disruption to logistics and higher cost of production from taxes and levies. Similarly, we would experience higher construction costs arising from climate change-resilient facades and building services with increased capacity.
+In the long term under this scenario, a widespread decrease in combustion engine vehicle use could lead to assets without good public transport links becoming less attractive to consumers. Consumers and our direct customers could develop greater awareness and expectations of property businesses, pressurising them to act on climate-related issues, and creating greater favour for destinations which are sustainable.
+Owing to the nature of this scenario, there are only limited opportunities as the impacts are predominantly negative for most business types. We could experience higher levels of customer and investor demand for resilient assets which can withstand the increasing frequency of windstorm and flooding. In addition, falling asset values and business failures could lead to opportunity for more resilient businesses to gain increasing market share.
+How we’ll need to respond. 
+In this scenario, our analysis demonstrates that changes to our strategy and financial planning will be required. This will include divestment of assets which are less resilient to extreme heat and rainfall, or investment into infrastructure to limit the impact of flooding and coastal surge. We believe our strategy for investing in high-quality assets in primary locations will continue to be resilient in this scenario. However, to maintain an effective strategy we will need to increase our prioritisation of climate change factors in investment, development and divestment decisions.
+This scenario could also result in changes to our customers’ and supply chain partners’ businesses, as well as consumer preferences. To continue to be resilient in this scenario, we will need to constantly reassess the risks posed by climate change to ensure we are not exposed to risk of default from business failures or supply chain disruption. Increased due diligence in supply chain selection will be required, particularly considering the sourcing of construction materials which may be processed or manufactured in countries where the effects of climate change are more extreme.
+36 Sustainability Performance and Data 2020
+
+
+TCFD Metrics and targets Table 32. 
+Financial category Climate related category Metric Unit of measure 2017/18 2018/19 2019/20. 
+Revenues Risk Adaptation & Mitigation Revenues/savings from investments in low-carbon alternatives (e.g. R&D, equipment, products, services) £ 1,538,663 1,918,389 1,611,658. 
+Risk Adaptation & Mitigation Avoided energy consumption costs benefiting customers in year, measured against 2013/14 baseline1 £m – 4.0 5.0. 
+Risk Adaptation & Mitigation Percentage of revenues derived from BREEAM certified assets % 56% 57% 56%
+Expenditures Risk Adaptation & Mitigation Expenditures (OpEx) for low-carbon alternatives (e.g. R&D, technology, products, services) £ 1,716,526 1,457,998 1,500,158. 
+Energy/Fuel Total energy consumption kWh 265,723,992 265,571,274 248,933,695. 
+Energy/Fuel Proportion of energy consumption from renewable sources % 64% 66% 64%
+Energy/Fuel Total electricity consumption kWh 167,507,064 167,590,020 164,673,291. 
+Energy/Fuel Proportion of electricity consumption from renewable sources % 93% 96% 97%
+Energy/Fuel Total fuel consumption (i.e. gas) kWh 86,337,791 81,310,160 71,591,823. 
+Energy/Fuel Proportion of fuel consumption from renewable sources (i.e. green gas) % 17% 16% 0%
+Energy/Fuel Total building energy intensity by floor area kWh/m2 144 142 134. 
+Water Percent of fresh water withdrawn in regions with high or extremely high baseline water stress m3 0 0 0. 
+Water Total building water intensity by floor area m3/m2 0.57 0.56 0.57. 
+GHG Emissions Total GHG emissions intensity by floor area2 tCO2e/m2 0.052 0.043 0.037. 
+Assets Location Percentage floor area of portfolio exposed to a 10-20% risk of inland, coastal and flash flooding in a ten-year period3 % floor area 3.6% 3.6% 3.7%
+Location Percentage value of portfolio exposed to a 10-20% risk of inland, coastal and flash flooding in a ten-year period4 % Value 1.5% 1.4% 1.1%
+Location Insured value of assets exposed to a 10-20% risk of inland, coastal and flash flooding in a ten-year period £m 286.8 264.2 264.2. 
+Risk Adaptation & Mitigation Percentage of portfolio which is BREEAM certified % floor area 40.1% 40.2% 39.9%
+Risk Adaptation & Mitigation Percentage of portfolio which is BREEAM certified % portfolio value 61% 60% 59%
+Risk Adaptation & Mitigation Investment (CapEx) in low-carbon alternatives (e.g. capital equipment or assets) £ 4,402,019 2,377,136 1,454,244. 
+Risk Adaptation & Mitigation Costs of obtaining Energy Performance Certificates for assets which are not currently certified £ – £300,000 £330,000 1. Consumption costs measured in 2019/20, based on comparable floor area from 2013/14 portfolio. 2. Carbon emissions associated with all energy procured by Landsec, including tenant consumption. 3. Figure has been restated for all years due to change in methodology calculation. 4. Based on a return period of 50-100 years meaning there is 1-2% chance every year or 10-20% in the next ten years that flooding would occur.
+37 Sustainability Performance and Data 2020
+
+
+TCFD: Data sources Table 33. 
+Projections Analysis 2017 analysis 2019 analysis Source. 
+Energy Consumption Modelling Now out of date Updated UKCP18 previously CMIP5. 
+Flood Risk Exposure & Scoring Now out of date Updated Swiss Re CatNet; Munich Re NATHAN. 
+Probabilistic Modelling Current No update minimal impact CCRA Report 2017; (Next update 2022)
+Sea Level Rise Exposure & Scoring Now out of date Updated UKCP18 previously CCRA 2017 after UKCP09. 
+Windstorm Probabilistic Modelling Current No update minimal impact ABI Report 2017. 
+Temperature Review Now out of date Updated UKCP18 previously CMIP5. 
+Precipitation Review Now out of date Updated UKCP18 previously CMIP5 38 Sustainability Performance and Data 2020
+
+
+CEO Statement “I am pleased to confirm that Landsec reaffirms its support of the Ten Principles of the United Nations Global Compact in the areas of Human Rights, Labour, Environment and Anti-Corruption. In our annual Communication on Progress (COP), we describe our actions to continually improve the integration of the Global Compact and its principles into our business strategy, culture and daily operations. We also commit to sharing this information with our stakeholders using our primary channels of communication.”
+Mark Allan Chief Executive. 
+Principle Landsec’s approach Find out more. 
+Strategy, governance & engagement. 
+Implementing the Ten Principles into Strategies & Operations. 
+Landsec’s purpose is to provide the right space for our customers and communities so that businesses and people can thrive. We aim to be a sustainability leader by anticipating and responding to the changing needs of our customers, communities, partners and employees. To deliver this we’ve set 12 long-term sustainability commitments, covering each of our three priority areas: creating jobs and opportunities, efficient use of natural resources and sustainable design and innovation. The goal of our sustainability approach is to create long-term financial, physical and social value for our shareholders and society.
+Sustainability is embedded across Landsec. Our Sustainability Committee is the main forum for overseeing the sustainability strategy and targets for the Group. The Committee is chaired by the Chief Executive and is attended by the Group Corporate Affairs & Sustainability Director and Group HR Director together with our Sustainability Director, and senior representation from the property and development teams. The Sustainability Committee meets quarterly and is the senior forum for determining our sustainability strategy and reviewing performance, ensuring its integration with the Group’s overall strategy. Furthermore, the Board receives an annual update on our sustainability programme, which includes discussion of performance in relation to our commitments.
+Landsec recognises that our responsibility extends into our value chain. Consequently, our supplier engagement on sustainability covers supplier selection and management of our operational suppliers. We also encourage innovation with service partners to reduce climate impacts of products and services. Moreover, we support our customers with sustainability-related issues, e.g. helping to drive down their costs through creating energy data insights, seeking opportunities for improvement and helping customers to carry out energy efficiency projects. Working with customers in this way benefits them, but also creates a bottom-line benefit and value to society.
+Furthermore, Landsec is dedicated to working with the real estate industry and government to tackle global environmental and societal problems. We are active members of the UK Green Building Council and Better Buildings Partnership, working with our peers to help the entire industry improve, and we use our expertise to help tackle specific sustainability problems. In addition, we support legislative solutions around sustainability, for instance supporting the Department for Business, Energy and Industrial Strategy (BEIS) with public policy on operational energy and carbon ratings within the commercial property sector.
+Sustainability strategy. 
+Sustainability Charter for suppliers. 
+Working with our supply partners. 
+Sustainability Brief. 
+Corporate governance. 
+Annual Report pages 18-21. 
+Human Rights 1. Businesses should support and respect the protection of internationally proclaimed human rights 2. Make sure that they are not complicit in human rights abuses.
+Landsec embraces our responsibility to respect human rights, which includes respecting human rights expressed in the UN Declaration of Human Rights (UNDHR) and by the International Labour Organization (ILO). Our approach to human rights is fully described in our Human Rights Policy.
+We work in collaboration with our supply partners to prevent modern slavery and promote fair, ethical treatment of everyone working across our sites on our behalf. In 2019, we again carried out due diligence to assess workforce-related risks on our sites and understand how our corporate commitments and policies are being embedded in practice. The surveys covered a range of issues including labour exploitation, fair payment, health and safety, right to work and discrimination. No cases of modern slavery were found, but we did identify areas for improvement including a requirement for increased guidance on right to work checks. We have extended due diligence activities for 2020 to increase focus on the modern slavery risk across our construction activity and to our delivery partners outside the UK.
+Human Rights Policy. 
+Slavery & human trafficking statement. 
+Sustainability Policy. 
+Sustainability Charter for suppliers. 
+Annual Report pages 42-47. 
+UN Global Compact Communication on Progress 2020 39 Sustainability Performance and Data 2020
+
+
+Principle Landsec’s approach Find out more. 
+Labour 3. Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining 4. The elimination of all forms of forced and compulsory labour 5. The effective abolition of child labour 6. The elimination of discrimination in respect of employment and occupation. 
+Landsec supports the principles set out within both the UNDHR and the ILO’s Declaration on Fundamental Principles and Rights at Work. Our Human Rights Policy is built on these foundations including, without limitation, the principles of equal opportunities, collective bargaining, freedom of association and protection from forced or child labour.
+Landsec is an equal opportunities employer, complying with equal opportunities legislation in the UK and working to ensure that no employee or other worker or job applicant receives less favourable treatment, directly or indirectly, on the grounds of age, disability, gender, gender reassignment, marriage and civil partnership, pregnancy and maternity, religion or belief, or sexual orientation. Workplace fairness forms a critical part of our sustainability programme. For us, fairness is about upholding human rights, celebrating individuality and making sure everyone feels safe and respected in the workplace. Our commitment is to ensure that everyone working on our behalf, in an environment we control, is given equal opportunities, protected from discrimination and paid at least the Foundation Living Wage.
+Last year we engaged our supply chain partners to check whether our policies are effective on the ground. We carried out engagement surveys and visited offices, retail destinations and development sites to speak in confidence with supply chain employees. The surveys confirmed that we still have progress to make but we’re working closely with partners to ensure that they have the right procedures, support and training in place, and we have extended our whistleblowing hotline to supply partners and their staff.
+Furthermore, one of the three priority areas of our sustainability programme is creating jobs and opportunities. We have developed programmes to deliver on our ambitions to support people furthest from the job market into employment, create opportunities for young people, enable our staff to champion causes that are important to them and engage with local charities. We measure our impact in order to inform us which of our activities add the most value, meaning that we can do more in the years ahead. Since 2011, we have helped over 1,400 people furthest from the job market into employment, and last year we set a new commitment to create £25m of social value through our community programmes by 2025, of which we have already achieved over £4.8m.
+Human Rights Policy. 
+Sustainability Charter for suppliers. 
+Slavery & human trafficking statement. 
+Equal opportunities policy. 
+Sustainability policy. 
+Fairness commitment. 
+Community employment programme. 
+Diversity. 
+Health & wellbeing policy. 
+Maternity Leave Policy. 
+Annual Report pages 42-47. 
+Environment 7. Businesses should support a precautionary approach to environmental challenges 8. Undertake initiatives to promote greater environmental responsibility 9. Encourage the development and diffusion of environmentally friendly technologies. 
+Efficient use of natural resources is the second core area of our sustainability programme. By using natural resources efficiently, we not only minimise our environmental impact, but we also improve our resilience as a business and lower our costs. We are constantly monitoring and evaluating our policies, governance and targets regarding environmental issues which are pertinent to our business.
+Following the two-degree pledge made at the COP21 Convention on Climate Change in Paris, in 2016 we became the first commercial property company in the world to have its carbon emissions target approved by the Science Based Targets initiative. In November 2019, we announced our commitment to becoming a net zero carbon business by 2030 and we increased the ambition level of our sciencebased target (SBT), aligning it with a 1.5°C scenario. Our science-based carbon reduction target is a key part of our net zero carbon strategy. In addition to reducing our operational emissions and committing to the procurement of renewable electricity, we’re implementing an internal shadow carbon price to drive investment towards cleaner projects. We’re also reducing carbon emissions across our construction activities by carefully selecting every raw material we use. Lastly – and this really is the last resort – we’ll offset the remaining carbon from our construction impacts.
+We were also one of the first companies globally to join all three of The Climate Group’s RE100, EP100 and EV100 campaigns, a series of commitments for businesses to procure renewable energy, improve energy productivity and invest in electric transport infrastructure. In addition, we are committed to implementing the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), assessing and mitigating climate change risks across our portfolio, as well as providing our stakeholders and investors accurate data and insight about the climate-related risks and opportunities which are relevant to our business.
+The third pillar of our sustainability programme is sustainable design and innovation. At Landsec, we are committed to understanding the impacts of our buildings so as to ensure that we build and run them as efficiently as possible. We therefore undertake lifecycle assessments on all development projects, considering both the embodied carbon emissions from our supply chain and construction activities, as well as anticipated emissions from a building’s operations and the embodied carbon associated with maintenance and repairs over the lifetime of the building. To minimise our construction impacts, we set targets on our embodied carbon emissions from the supply chain on a project-by-project basis and track these through to the completion of our buildings. We also carefully design our buildings to minimise the energy demand of our operations and meet the remaining demand through renewable energy contracts. Our approach effectively embeds resilience into the foundations of our business, ensuring that we continue to be relevant in the long term and deliver on the high expectations of all our customers.
+Efficient use of natural resources. 
+Climate change & carbon. 
+Renewable energy. 
+Energy management. 
+Waste management. 
+Sustainability policy. 
+Environment and energy policy. 
+Responsible property investment policy. 
+Sustainability brief for developments. 
+Annual Report pages 38-41 40 Sustainability Performance and Data 2020
+
+
+Principle Landsec’s approach Find out more. 
+Anti-corruption 10. Businesses should work against corruption in all its forms, including extortion and bribery. 
+The Board has a zero-tolerance policy for bribery and corruption of any sort. We provide regular training to staff on the procedures, highlighting areas of vulnerability, and the policy was reinforced last year through the launch of our Code of Conduct. Our principal suppliers are required to have similar policies and practices in place within their own businesses. Furthermore, the Committee reviews the Group’s whistleblowing policy which allows employees to report concerns about suspected impropriety or wrongdoing (whether financial or otherwise) on a confidential basis, and anonymously if preferred. This includes an independent third-party reporting facility comprising a telephone hotline and an alternative online process. Any matters reported are investigated by the Company Secretary and escalated to the Committee, as appropriate. During the year, no whistleblowing incidents were reported through the hotline but some HR grievances were received through other channels. Each year we run a whistleblowing awareness campaign, and the arrangements also form part of the new employee induction programme. The whistleblowing hotline has been included in our Landsec Sustainability Charter for suppliers and is included within our procurement tender documentation. In 2019, we actively sought to increase awareness of our whistleblowing hotline amongst our suppliers.
+Risk management. 
+Code of conduct. 
+Sustainability Charter for suppliers. 
+Annual Report pages 78-82. 
+Women’s Empowerment. 
+In 2019, we set ourselves new and challenging diversity targets, starting with the ambition for us to have a 50-50 gender balance across the whole organisation by 2025, including our Board and Executive Committee. The Board is supportive of the Lord Davies report and Landsec continues to meet the voluntary targets set by the Hampton/Alexander Review, which requires the representation of women on FTSE 350 Boards and 33% representation on Executive Committee and their direct reports by 2020. We continue to make good progress in terms of diversity. Our percentage of women on the Board stands at 40% (2018: 36%). Further diversity data can be found on pages 29-31 of this report.
+During the year we launched the ‘Landsec Includes’ forum. This brings together representatives from our three employee networks (Women, BAME and LGBT) and our Disability Forum. Landsec Includes enables employees to share their experiences working at Landsec and exchange ideas that can enhance Landsec’s role as an inclusive employer. To support our approach to inclusive recruitment, this year members of our Executive Committee received unconscious bias training. Working with our Women’s network, this year we piloted new training to help employees with their confidence and impact and to manage the conflicting priorities that can occur in modern working life. As with our mentoring programme, this training has been developed with women in mind but will be available to support all employees. Furthermore, we promote women’s empowerment and advancing gender equality in the community through our Build Your Future programme, which encourages girls to consider a career in the property and construction industry.
+Diversity. 
+Maternity Leave Policy. 
+Annual Report pages 42-47. 
+Through our sustainability programme, we are confident that we are playing our role in addressing the following UN Sustainable Development Goals (SDGs): 41 Sustainability Performance and Data 2020
+
+
+We have performed a limited assurance engagement on selected performance data and qualitative statements in the Physical and Social sections of the Strategic Report, the sustainability content in the ‘Additional Information’ section of the Land Securities Group PLC (“the Group”) 2020 Annual Report and Accounts and the online Landsec Performance Data Report 2020 (collectively referred to as “the Report”).
+Respective responsibilities. 
+The Group’s management are responsible for the collection and presentation of the information within the Report. Management are also responsible for the design, implementation and maintenance of internal controls relevant to the preparation of the Report, so that it is free from material misstatement, whether due to fraud or error.
+Our responsibility, in accordance with management’s instructions, is to carry out a ‘limited level’ assurance engagement on selected performance data and performance claims in the Report (the ‘Subject Matter Information’) set out below. We do not accept or assume any responsibility for any other purpose or to any other person or organisation. Any reliance any such third party may place on the Report is entirely at its own risk.
+What we did to form our conclusions. 
+Our assurance engagement has been planned and performed in accordance with ISAE3000 (Revised)1. Landsec’s Sustainability Reporting Methodology has been used as the criteria against which to evaluate the ‘Subject Matter Information’ defined below. The ‘Subject Matter Information’ comprises the following data sets and selected statements and assertions in the Report regarding the sustainability performance of the Group: — Greenhouse gas emissions: Direct GHG emissions (MtCO2e), indirect GHG emissions (MtCO2e), and GHG intensity (tCO2e/m2/year) — Energy: Energy consumption (kWh) and energy intensity (kWh/m2/year) — Waste: Waste diverted from landfill (tonnes) and percentage of waste recycled — Safety: Number of RIDDOR incidents for Landsec’s managed portfolio and development assets — Social value: Social value created during the year (£) — EPRA, TCFD and UN Global Compact: Selected content disclosures relating to EPRA guidelines, UN Global Compact and TCFD metrics (Energy/Fuel and GHG emissions categories) that are aligned to the ‘Subject Matter Information’ identified above. 
+The procedures we performed were based on our professional judgement and included the steps outlined below: 1. Interviewed a selection of the Group’s management to understand the progress made in the area of sustainability during the reporting period and to test the coverage of topics within the Report.
+2. Conducted a site visit at 21 Moorfields and interviews with Westgate Oxford management to understand how the sustainability agenda is being managed at development and site level.
+3. Reviewed the coverage of key issues within the Report against the topics discussed in our management interviews and site visits.
+4. Interviewed staff responsible for data reporting and carried out the following activities to review the ‘Subject Matter Information’: i. Reviewed the guidance on data reporting, key processes and quality assurance performed.
+ii. Selected a sample of data points from across the business and sought documentary evidence to support the data.
+iii. Conducted a walk-through of data reported from a sample of sites to test consolidation.
+iv. Reviewed any explanations provided for significant variances.
+v. Reviewed the Report for the appropriate presentation of the data including limitations and assumptions.
+5. Reviewed information or explanation about selected statements and assertions regarding the sustainability performance of the Group.
+Independent Assurance Statement to the Management of Land Securities Group PLC 42 Sustainability Performance and Data 2020
+
+
+The limitations of our review. 
+Our evidence gathering procedures were designed to obtain a ‘limited level’ of assurance (as set out in ISAE3000 Revised) on which to base our conclusions. The extent of evidence gathering procedures performed is less than that of a reasonable assurance engagement (such as a financial audit) and, therefore, a lower level of assurance is provided.
+Completion of our testing activities has involved placing reliance on the Group’s controls for managing and reporting sustainability information, with the degree of reliance informed by the results of our review of the effectiveness of these controls. We have not sought to review systems and controls at the Group level beyond those used for the ‘Subject Matter Information’ (as presented above).
+We have only sought evidence to support the 2019/2020 performance data. We do not provide conclusions on any other data from prior years.
+Our conclusions. 
+Based on the scope of our review, our conclusions are outlined below:
+Completeness and accuracy of performance information How complete and accurate is the ‘Subject Matter Information’ presented in the Report? — With the exception of the limitations identified in the Report, we are not aware of any material reporting units that have been omitted from the selected performance data relating to the topics above.
+— Nothing has come to our attention that causes us to believe that the ‘Subject Matter Information’ was not prepared, in all material respects, in accordance with the criteria, which were applied by management.
+How plausible are the statements and claims within the Report? — We have reviewed information or explanation on selected statements regarding the Group’s sustainability activities presented in the Report and we are not aware of any misstatements in the assertions made.
+Observations and areas for improvement. 
+Our observations and areas for improvement will be raised in a report to the Group’s management. Selected observations are provided below. These observations do not affect our conclusions on the Report set out above.
+— Social value: This is the first year that Landsec has sought assurance over its total social value (£). While there are clear processes and controls that support this KPI, there is an opportunity for Landsec to provide greater transparency on the calculation methodology and disclose the underlying assumptions and proxy values used by its third-party data provider. As this is an evolving field, Landsec may consider expanding its measurement efforts to include additional aspects of social value in the future.
+— Safety: Landsec continues to streamline incident reporting through the use of an online compliance system, RiskWise. While this has helped to enhance the accuracy of reporting, Landsec should consider reviewing its internal quality review process to ensure that incidents that may qualify as RIDDOR incidents are thoroughly investigated by local site personnel in a timely manner to improve Landsec’s safety reporting processes.
+Our independence. 
+We have implemented measures to comply with the applicable independence and professional competence rules as articulated by the IFAC Code of Ethics for Professional Accountants and ISQC1.2 Ernst & Young’s independence policies apply to the firm, partners and professional staff. These policies prohibit any financial interests in our clients that would or might be seen to impair independence. Each year, partners and staff are required to confirm their compliance with the firm’s policies.
+We confirm annually to the Group whether there have been any events including the provision of prohibited services that could impair our independence or objectivity. There were no such events or services in 2019/20. Our assurance team has been drawn from our global Climate Change and Sustainability Services Practice, which undertakes engagements similar to this with a number of significant UK and international businesses.
+Ernst & Young LLP, London 8 June 2020 1. International Federation of the Accountants’ International Standard for Assurance Engagements (ISAE3000) Revised, Assurance Engagements Other Than Audits or Reviews of Historical Financial Information. 2. Parts A and B of the IESBA Code; and the International Standard on Quality Control 1 (ISQC1).
+43 Sustainability Performance and Data 2020

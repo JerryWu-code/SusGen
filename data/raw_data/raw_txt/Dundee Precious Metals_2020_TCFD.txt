@@ -1,0 +1,593 @@
+RISKS AND OPPORTUNITIES RELATED TO CLIMATE CHANGE. 
+Report following the recommendations of the Task Force for Climate-related Financial Disclosures (TCFD) December 2020
+
+
+CEO’s Message to Stakeholders 3. 
+About Dundee Precious Metals (DPM) 4. 
+Approach and Structure of the Report 5. 
+Risks Associated With Climate Change 6. 
+Opportunities Associated With Climate Change 6. 
+GOVERNANCE 8. 
+STRATEGY 10. 
+Policy and legal implications 11. 
+Market implications for our commodities: outlook for gold 13. 
+Market implications for our commodities: outlook for copper 16. 
+Reputational implications 18. 
+Technological implications 18. 
+Physical risks: Chelopech mine, Bulgaria 19. 
+Physical risks: Ada Tepe mine, Bulgaria 20. 
+Physical risks: Smelter in Tsumeb, Namibia 21. 
+RISK MANAGEMENT 22. 
+METRICS & TARGETS 25. 
+Our greenhouse gas emissions 27. 
+Contents 2 DUNDEE PRECIOUS METALS | Our approach to climate change. 
+This report contains forward-looking statements that involve a number of risks and uncertainties. Often, but not always, forward-looking statements can be identified by the use of words such as “plans”, “expects”, or “does not expect”, “is expected”, “budget”, “scheduled”, “estimates”, “forecasts”, “intends”, “anticipates”, or “does not anticipate”, or “believes”, or variations of such words and phrases or that state certain actions, events, or results “may”, “could”, “would”, “might” or will” be taken, occur or be achieved. Forward-looking statements are based on the opinions and estimates of management as of the date such statements are made and they involve known and unknown risks, uncertainties and other factors that may cause the actual results, performance, or achievements of the company to be materially different from any other future results, performance, or achievements expressed or implied by the forward-looking statements. Accordingly, readers are cautioned not to place undue reliance on forward-looking statements.
+
+
+We are pleased to share with you our first report on the impact of climate change on DPM’s business based on the recommendations of the Task Force for Climate-related Financial Disclosures (TCFD).
+Since the inception of our business in 2004, DPM has recognized the importance of environmental stewardship and other sustainability factors on the overall success of our business. In fact, the very essence of our business strategy is to acquire under-capitalized assets and turn them into world class facilities that meet stringent international best practice guidelines. This approach is evident at all of our operating assets in Bulgaria and Namibia.
+Mining, together with the agricultural sector, remains the cornerstone of our modern societies and economies. Despite advances in recycling technologies and an increased awareness of the benefits of the “circular economy”, the demand for mined raw material and commodities continues to grow. In short, it is difficult to envision the world we live in and the products we rely on without a consistent and reliable supply of mined materials. Yet, there is little doubt that the mining industry is facing many complex challenges today. Among them are the quality and scarcity of new mineral resources, water and energy scarcity, resource nationalization, geopolitical crises, migration and displacement of peoples, and more recently, pandemics. At the same time, the private sector is expected to operate responsibly and contribute more to the achievement of global and national government objectives and policies, particularly those focused on climate change, such as the Paris Agreement.
+Part of DPM’s normal course operating model takes account of how efficiencies can be achieved through reductions in energy and water use, emissions and raw materials. We have made considerable strides on these fronts over the years, which have all been well documented in our externally assured Sustainability Reports dating back to 2014.
+The TCFD disclosure recommendations add a new level of complexity to this work and has required us to incorporate both physical and transition climate change risks into our internal risk management processes in 2020. This work will continue in 2021 and beyond. It has also allowed us to better understand the opportunities that will be available to our industry and DPM as the world transitions to a low carbon economy. We continue to be committed to managing our climate impact, the importance of which has been reaffirmed by TCFD.
+This report presents the outcome of those efforts and outlines the major identified risks and opportunities related to climate change. As always, we welcome your feedback and look forward to continuing this important dialogue with our stakeholders in the future. David Rae President and Chief Executive Officer. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 3. 
+CEO Message to Stakeholders
+
+
+DPM is a Canadian-based, international gold mining company engaged in the acquisition, exploration, development, mining and processing of precious metals. Our principal operating assets include the Chelopech underground copper-gold mine (DPM Chelopech), the Ada Tepe open-pit gold mine (DPM Krumovgrad), both located in Bulgaria, and a toll smelting facility in Namibia (DPM Tsumeb). DPM also holds interests in various exploration and development projects worldwide.
+Since the inception of DPM in 2004, the Company has understood the importance and impact of Environmental, Social and Governance factors (ESG) on the success of its business. At DPM, the approach to ESG, including the topic of climate change, begins with the way we think, the way we behave as individuals and as a company, and the way we operate. This is achieved through an integrated approach to ESG, which is one of the Company’s four “Strategic Pillars” – together with Innovation, Portfolio Optimization and Growth – embedded into all aspects of the business over the lifecycle of our activities. Additionally, the entire foundation of the Company and its approach to ESG is built on our six Core Values: Safety & well-being, Environmental stewardship, Transparency & accountability, Respect & inclusion, Innovation & courage, and Partnership with communities, all of which support the Company’s overall purpose: Unlocking resources and generating value to thrive & grow together. DPM’s approach to ESG was further strengthened in 2005 with the start of its lending relationship with the European Bank for Reconstruction and Development (EBRD), and a subsequent equity investment by the EBRD in DPM in 2016. The EBRD’s focus on ESG aligned well with DPM’s strategic vision – this has led to the Company integrating further internationally recognized ESG Performance Requirements, which are in line with the Equator Principles and the Performance Standards of the International Finance Committee (IFC)1. As such the EBRD relationship has enabled DPM to integrate international ESG Best Practice into its day-to-day operations, strategic planning, budgeting, human development, and capital allocation processes. ESG integration has also significantly strengthened the knowledge and experience of DPM’s sustainability personnel, its ability to attract high-quality employees and improved retention rates throughout the organization. This rigorous approach has been extended to identifying and managing the risks and opportunities related to climate change as detailed in this report.
+DPM reports on its progress and performance on ESG matters in its externally assured biennial Sustainability Reports, which are published in accordance with the Global Reporting Initiative. The next report covering calendar year 2020 will be published in May 2021.
+DPM is widely recognized for its innovation in the mining process. It was one of the first companies in Europe to introduce WIFI connectivity in its underground mining operations in Bulgaria and has continued to make great strides in improving the efficiency and safety of its operations through the application of advanced technology and the digitalization of its day-to-day operations.
+1 DPM’s internal management systems and policy frameworks are informed by a variety of external frameworks, including the United Nations Sustainable Development Goals, UN General Principles on Business and Human Rights, UN Global Compact, UN Principals for Responsible Investing, Equator Principles, International Council on Mining and Metals - Mining Principles, Initiative for Responsible Mining Assurance Standard, World Gold Council - Responsible Gold Mining Principles, Extractive Industries Transparency Initiative, Global Reporting Initiative, Sustainability Accounting Standards Board, European Bank of Reconstruction and Development - Performance Standards, and Good International Practice, among others.
+DUNDEE PRECIOUS METALS | Our approach to climate change 4. 
+About DPM. 
+Nunavut, Canada: 9.4% Sabina Gold & Silver Corp. (Back River project) Serbia: 100% Avala Resources Ltd. (Timok gold project)
+Bulgaria: 9.9% Velocity Minerals (Canadian gold exploration company)
+Bulgaria: 100% DPM Chelopech & 100% DPM Krumovgrad (mining operations)
+Namibia: 92% DPM Tsumeb (complex smelter)
+Quebec, Canada: 51% Pershimex Resources (Malartic gold property)
+Ecuador: 19.4% INV Metals Inc. (Loma Larga gold property)
+South Africa: 78% MineRP (mining software vendor)
+Legend:
+Bold: Principal operating assets Italics: Exploration properties and/or strategic investments
+
+
+The scientific consensus is clear - climate change is the imperative challenge of our times. In 2015, global governments adopted the Paris Agreement with the goal of limiting global warming to well below 2°C, required in order to stave off the most severe impacts of climate change. Achieving this goal implies wide-spanning societal transformation, likened in scale by some as the 4th industrial revolution2. We are committed to supporting this effort. As indicated previously, sustainability has been a core consideration at DPM since the Company’s inception. The TCFD provides a timely and necessary framework for disclosing the risks and opportunities related to climate change for DPM’s business.
+The structure of this report follows the four disclosure categories outlined in the TCFD: Governance, Strategy, Risk Management, Metrics and Targets.
+As recommended by the TCFD, we have used scenario analysis to explore a range of possible futures, using data from the International Energy Agency’s World Energy Outlook 2020, as well as projections by the Intergovernmental Panel of Climate Change (IPCC). We consider three time horizons when it comes to climate change planning: • Short-term: Relevant to implications and actions for the current reporting cycle. This corresponds to our operations-level and corporate-level yearly action planning. It applies to all current operations.
+• Medium-term: Defined as implications and actions toward 2030, which corresponds to the expected lifetime of our current mining assets. It applies to all current operations.
+• Long-term: Defined as implications and actions toward 2040. This corresponds to DPM’s strategic planning horizon. As DPM is actively looking into new brownfield opportunities and potential acquisitions, we have also developed an internal toolbox for integrating an assessment of climate risk and opportunities into any future merger and acquisition (M&A) due diligence procedures.
+2 Jackson T (2009). Prosperity without Growth: Economics for a Finite Planet. In addition, multiple other authors since then.
+DUNDEE PRECIOUS METALS | Our approach to climate change 5. 
+Approach and Structure of the Report. 
+Governance. 
+Strategy. 
+Risk Management. 
+Metrics and Targets. 
+Section 1 “Governance” summarises how climate risks and opportunities are integrated in DPM’s overall management approach (p. 8).
+Section 2 “Strategy” discusses how climate issues relate to our business – both for the company overall, as well as for our individual operations (p. 10).
+Section 3 “Risk management” outlines what we have done in order to evaluate climate issues and how we have integrated them in company risk management (p. 22).
+Section 4 “Metrics & Targets” illustrates how we track climate-related issues in line with our strategy and risk management process. It further presents our performance in terms of GHG emissions, as well as in terms of water management - an important physical factor for our operations (p. 25).
+
+
+Risks Associated With Climate Change. 
+Climate change risks can be classified as “Transition Risks” (the impact of efforts to meet global decarbonization goals) and “Physical Risks” (stemming from climate change itself).
+With regard to Transition Risks, the global policy landscape is changing. The European Union has pledged to achieve carbon neutrality by 2050, and countries such as China and Japan have made similar commitments. The same increasingly holds true for some of the world’s largest private sector companies. Policy shifts have implications for our operating environment and is something that we are following closely through membership in industry organizations such as Euromines. What is more, climate change presents potential legal and reputational risks. Legislative action against mining companies on climate grounds is on the rise, and so are regulatory changes mandating climate-related disclosure3. At the same time, ESG investing and shareholder activism are also becoming more prominent. Climate risks also add an extra dimension in the management of DPM’s reputation and its ability to secure a license to operate.
+Decarbonization goals also imply pricing of carbon. While DPM’s operations do not currently fall within any carbon pricing scheme directly, we are indirectly exposed to carbon pricing risks through the fuels and materials that we use. We have used data from the International Energy Agency’s World Energy Outlook 2020 to assess potential carbon pricing risks for our operations at Chelopech, Ada Tepe and Tsumeb. The results of this assessment has been incorporated into our site-level planning, and enterprise risk management processes.
+Climate change also implies physical risks. We have performed site-specific physical risks scenario analysis for our operations at Chelopech, Ada Tepe and Tsumeb, using data sourced from the IPCC for a business-as-usual (or “worst-case”) scenario. With the help of external consultants, we have conducted workshops with engineering and site leads in order to translate possible climate trends into concrete operational risks, which have been further prioritized and integrated as part of our standard enterprise risk management process. Physical climate risks have implications not just for our technical preparedness, but also for our relationships with the local communities where we operate.
+Opportunities Associated With Climate Change Тhe TCFD has also highlighted some opportunities that might exist as the world transitions to a low carbon future. For example: • Third-party analyses show that DPM’s current mining operations are amongst the very best performers in terms of GHG emissions intensity globally4. This, combined with gold’s relatively low emissions intensity as a long-term investment5, puts us in a good position in a future low-carbon world.
+• Third-party analyses show that a low-carbon world will demand significant amounts of copper. DPM’s Tsumeb smelter is one of the few in the world that has the ability to process complex gold-copper concentrates. This places DPM in a good strategic business position, as decreasing ore grades and increasing future demand can be expected to increase the demand for toll smelter services such as ours. Copper is also a significant by-product of our gold production, offering additional upside potential.
+• Decarbonization – it is an imperative, and it may also be an opportunity. Throughout the development of our current operations, we have learned a lot about how to manage energy use and emissions whilst also expanding production. The implications of future carbon pricing, however, shine a new light on potential investments in renewables and energy efficiency. This, combined with the falling prices of renewables globally, gives further credence to our work for managing emissions, included the assessment of transition (as well as physical) climate risks into our M&A due diligence procedures.
+• Digitalization for increased efficiency – digital innovation is a key focus for DPM and is one of the Company’s Strategic Pillars. We have successful digital initiatives in both Bulgaria and Namibia, and believe that the power of IT and real-time data can be fur- ther harnessed toward increased energy efficiency and improved emissions management. The risks and opportunities for DPM stemming from climate change are summarized on the following page.
+3 Setzer, J. and Byrnes, R., 2020. Global trends in climate change litigation: 2020 snapshot. Policy report. Grantham Research Institute on Climate Change and the Environment. While such trends have so far primarily targeted coal mining companies in particular, they nevertheless indicate a general direction of travel for the wider sector as a whole.
+4 Ulrich, Trench & Hagemann (2020): Greenhouse Gas Emissions in Gold Mining. Analysis by CSA Global. Paper to be published.
+5 World Gold Council (2018): Gold and climate change: an introduction.
+DUNDEE PRECIOUS METALS | Our approach to climate change 6. 
+Risks and Opportunities Associated With Climate Change
+
+
+DUNDEE PRECIOUS METALS | Our approach to climate change 7. 
+Risks and Opportunities Associated With Climate Change. 
+Chelopech (2030 horizon) Ada Tepe (2030 horizon) Tsumeb (2040 horizon)
+Transition risks. 
+Policy & legal: carbon pricing. 
+Indirect exposure to EU ETS influencing prices of energy and materials. Emissions have remained relatively flat since 2013, emissions intensity has decreased by 29%.
+Indirect exposure to EU ETS influencing prices of energy and materials, expected to be less than Chelopech[6].
+Indirect exposure to the recently adopted South African carbon tax, due to Namibia’s dependence on energy imports. Tax levels are currently low and are not expected to increase significantly in the medium term.
+Policy & legal: regulatory changes. 
+The EU Green Deal may bring policy changes in multiple areas, including potentially tightening permitting, operational and decommissioning requirements. Monitoring of compliance & policy development is part of our ongoing risk management process.
+Namibia has an ambitious climate pledge but almost entirely contingent on access to international finance. Strong energy dependence on South Africa, where stated climate ambition is weak.
+Market Тhird-party analyses show that the outlook for gold and copper is neutral-to-positive in a low-decarbonization scenario, and consistently positive for high decarbonization ambition. Тhird-party analyses show that DPM’s Bulgarian mining assets are amongst the least CO2 -intensive mines in the world. Our Tsumeb smelter is one of the few in the world that can handle complex gold-copper concentrates - with growing demand & falling ore grades, we expect growing demand for the smelting of complex concentrates.
+Technology Digital innovation is among DPM’s core Strategic Pillars. We are recognized as frontrunners with a proven track record for employing digital technologies at our sites. We see further opportunity to leverage digital innovation to increase operational efficiency, including the use of energy, water and resources.
+Reputation Blocking of mining projects has been observed on GHG grounds. Although currently limited to coal projects, which is outside of DPM’s business, this is indicative of the overall direction for the mining sector as a whole. Good relations with local communities, government authorities, and NGOs is a core part of DPM’s ongoing risk management process, and the company has had significant success in this regard.
+Physical Risks. 
+Temperature change Preparedness for expected changes in climate is deemed sufficient, with risks having limited implications for current production process or requiring minor investments.
+Potential short-term production disruptions due to smoke from potential wildfires. Minor investments would be required to procure redundant machinery.
+Water use & droughts Potential production disruptions due to lack of process water.
+Some investments will be required to maintain recultivated vegetation and to improve wildlife management for animals seeking drinking water.
+Extreme rainfall. 
+Potential short-term production disruptions due to landslides. Some need for expansion of aboveground drainage infrastructure.
+Potential short-term production disruptions due to landslides. Some need for expansion of aboveground drainage infrastructure.
+Potential delays in outbound transport could cause financial costs. Short-term risk for part of tailings deposition area, which is being upgraded.
+Climate-related diseases risk. 
+Not currently exposed to climate-related diseases but warming may increase the range of disease vectors further north & potentially reach Southern Bulgaria (where Ada Tepe is located). The outlook is uncertain, and infectious diseases are included in our ongoing risk management process (updated post-COVID).
+While Namibia has made strides in tackling climate-related disease exposure, the country is historically exposed to such risks, amplified by existing problems in the health system. We have ongoing risk management procedures for infectious diseases (updated post-COVID), including continuous monitoring.
+6 As Ada Tepe has so far operated for less than 1 year, we do not yet have a full year of data on which to base a complete greenhouse gas inventory. Information cited is based on preliminary data that has not undergone third-party auditing. We will be publishing a complete inventory of Ada Tepe’s GHG emissions in 2021 as part of our annual sustainability report.
+Outlook uncertain, monitoring continuously Risk expected to increase Opportunity outweighs risk
+
+
+The Role of the Board of Directors. 
+As a publicly traded, international mining company, DPM recognizes the importance of good corporate governance and the need to adopt risk management best practices.
+The Board of Directors of DPM oversees the Company’s approach to risk management, which is designed to support the achievement of organizational objectives, including strategic objectives, to improve longterm performance and enhance stakeholder value. A fundamental part of risk management is not only understanding the risks the Company faces and what steps management is taking to manage those risks, but also understanding what level of risk is appropriate for the Company. The involvement of the full Board in setting the Company’s business strategy is a key part of its process in determining what constitutes an appropriate level of risk for the Company.
+While the Board has the ultimate oversight responsibility for the risk management process, various committees have responsibility for particular risk management areas: • The Health, Safety and Environment Committee focuses on risks related to health, safety and environmental matters in the operations as well as the Company’s sustainability practices and the implementation of appropriate mitigation strategies. On an ongoing basis, the HSE committee is directly responsible for the oversight of the Company’s initiatives related to managing climate-related risks (see below). • The Compensation Committee assesses potential risks facing the Company arising from its compensation policies and practices and considers ways to address those risks. The Company uses a Balanced Scorecard (BSC) methodology as part of its compensation assessment process. To date, the BSC has included, amongst other measures, specific objectives related to safety performance, water use, improved efficiencies (including energy efficiencies) and positive stakeholder grievance resolution. Going forward, more specific climate-related objectives will be included in the BSC. • The Audit Committee focuses on financial risk, including internal controls, and periodically discusses with the external auditor, management, and the Director, Internal Audit the Company’s policies regarding financial risk assessment and financial risk management. This includes identified financial risks related to climate change that require disclosure in the Company’s financial statements and regulatory filings. The Audit Committee, together with the CGN Committee, also oversees the establishment and implementation of a comprehensive compliance program, which includes the Company’s Code of Ethics, the Speak Up (Whistleblower) Policy and various other measures to mitigate potential ethics and compliance risks in accordance with applicable international conventions, local legislation in the countries where DPM operates and international best practices. • The Corporate Governance and Nominating Committee oversees the management of governance-related risks, including risks relating to ethics and compliance (as noted above), succession-planning for the Board and senior management and Board practices and procedures.
+Board committee mandates are reviewed and updated periodically, and topics such as climate change are becoming increasingly topical and relevant in these updated mandates.
+DPM’s Board of Directors has endorsed the inclusion of climate-related topics as part of the Company’s Corporate Responsibility Policy. Specifically, DPM has committed to building resiliency into the business by taking into account the impact of climate change on its business.
+This TCFD report has been reviewed and approved by DPM’s Board of Directors.
+Full disclosure of our corporate governance practices is contained in the latest management information circular that is available on DPM’s corporate website (www.dundeeprecious.com) and on the SEDAR website at www.sedar.com.
+The Role of Management. 
+DPM’s business model embeds risk and performance management, transparent reporting, and continuous improvement into every aspect and level of the business. It is management’s responsibility to assess a wide array of risks and opportunities, including those related to climate change.
+The management process begins with an overall Purpose statement that defines why and for what reason the Company exists. DPM’s Strategic Objectives define how the overall purpose will be achieved, together with a corresponding business strategy that supports those objectives. Supporting these Objectives are four Strategic Pillars, of which ESG is one, together with Innovation, Optimize Portfolio and Growth. Within each of the Pillars, specific objectives are set based on measurable Key Performance Indicators (KPIs) and improvements initiatives. These KPIs and initiatives are included in the Company’s BSC (see previous section) and approved by the Board. Underpinning this structure are the Company’s Core Values that define how each and every person associated with the Company behaves.
+DUNDEE PRECIOUS METALS | Our approach to climate change 8. 
+GOVERNANCE. 
+Audit Committee Oversees financial reporting, financial and compliance and ethical risks Compensation Committee Oversees compensation relates risks. 
+Corporate Governance and Nominating Committee Oversees compliance and ethical risks, governance programs to support risk management and leadershиip development and succession risk. 
+Health, Safety and Environment Committee Oversees health, safety and sustainable operations risks. 
+Board Oversees overall risk
+
+
+It is the management’s responsibility to manage the business accordingly, report to the Board on a regular basis, provide transparent and appropriate external stakeholder disclosure, and ensure that risk is managed and mitigated throughout the organization.
+To assist management in this role, DPM has developed a set of Policies and Standards that ensure appropriate resources are allocated and the management and accountability for those resources is appropriately assigned, monitored and reviewed at every level of the organization. Additionally, our goal is to ensure that everyone across the organization is made aware of their responsibilities and accountabilities.
+In addition, a comprehensive Enterprise Risk Management (ERM) system has been developed in order to manage risk throughout the organization, which includes the risks and opportunities relating to climate change. This is reflected in policies, procedures and guidance documents at both the enterprise and operational levels. In 2020, our TCFD assessment was used in order to update our ERM system, reflecting what we’ve learned through this exercise.
+More specifically, the Sustainability functions within DPM, both at the enterprise and operational levels, are responsible for monitoring societal, regulatory and other relevant developments that influence the Company’s guiding policies and standards, including those related to climate change. This is achieved through a variety of corporate memberships to knowledge-based organizations and ensuring that the Company’s framework outlined above is continually informed by international Best Practice through its network of partners and stakeholders.
+At least twice a year, senior management conducts a dedicated meeting to review the continued relevancy of its strategic objectives and strategy in light of shifting demands of society-at-large, legislative and regulatory changes, and any significant trends that are brought to their attention of the Company by its stakeholders. The work included in this report is an example of how DPM has adapted to the demands of society and government in response to issues relating to climate change.
+DUNDEE PRECIOUS METALS | Our approach to climate change 9. 
+GOVERNANCE. 
+STRATEGIC OBJECTIVES. 
+VALUES • Total long-term shareholder returns in the top quartile in the industry • Sustainable mid-tier producer • Generate net positive impact from our operations • All-in sustaining cost in the bottom half of industry • Leader in mining innovation and operating excellence. 
+STRATEGIC PILLARS. 
+PURPOSE Unlocking resources and generating value to thrive & grow together. 
+ESG Innovation Growth Optimize Portfolio. 
+We put safety & wellbeing of people first We are stewards of the environment We are transparent and accountable. 
+We respect each other and embrace inclusion We innovate with courage We partner with our communities
+
+
+Part of DPM’s normal course operating model takes account of how efficiencies can be achieved through reductions in energy and water use, emissions and raw materials use. It is something the Company has had to become very good at, in order to be successful at acquiring under-capitalized assets and transforming them into world-class operations that meet the most stringent international Best Practice standards.
+For example, DPM has been accounting for GHG since 2011 and has published its performance in its biennial Sustainability Reports. At Tsumeb, the Company achieved a 53% reduction in Scope 1 & 2 GHG emissions intensity between 2012 and 2019. At Chelopech, an energy and GHG reduction plan was developed in 2011 and updated in 2014. The goal to reduce relative GHG emissions by 20% by 2020 was achieved in 2013. From the beginning, Ada Tepe was designed with climate change in mind. Please see Metrics and Targets section for further details.
+As previously mentioned, the Company’s approach to environmental responsibility has been aided and supported by its relationship with the EBRD. Complying with EBRD’s rigorous Performance Requirements, particularly those relating to environmental responsibility and stewardship, is by no means a simple task. It takes commitment from the highest levels of the organization, substantial financial and intellectual capital, and a trusting relationship built over time with all stakeholders. Amongst other things, the relationship with EBRD has resulted in DPM having some of the most knowledgeable sustainability personnel in the industry for a company its size.
+The transition to a low carbon economy is another layer of complexity that the Company is committed to embedding into its corporate structure and associated frameworks, policies, standards and guidance documents throughout the organization. As with all the Company’s environmental responsibility initiatives, we have applied and will continue to apply the best science to support and inform the Company’s objectives and decisions.
+In essence, the main pillars of DPM’s climate change strategy are: • Account for and be aware of DPM’s contribution to climate change; • Prioritize financial, intellectual, and human capital to minimize the identified contribution; • Apply Science-based targets to set objectives, where possible; • Apply rigor when identifying and managing the risks and opportunities related to climate change; • Collaborate with others in DPM’s value chain in order to achieve optimal results; and • Continue to be transparent with our stakeholders on the Company’s approach, objectives, methodologies and performance.
+The following section summarizes DPM’s position with regards to climate risks and opportunities.
+We have carried out scenario analysis reflecting the state of DPM as of 2020. Thus, our statement of position with regard to climate risks reflects our current operations and does not yet consider future capital allocation decisions. While this report currently focuses on DPM’s principal operating assets, we have developed the necessary tools to screen potential future projects for climate risks at the appropriate stage of their development.
+While this report notes high-level climate opportunities, it addresses only risks in detail. Our 2020 TCFD assessment has been conducted in parallel to the updating of DPM’s corporate risk management process. The risks elaborated further in this document have been integrated into our enterprise risk management (ERM) systems. For 2021, we plan to extend our TCFD assessment to cover climate-related opportunities in detail, as well as develop site level action plans for risk mitigation.
+DUNDEE PRECIOUS METALS | Our approach to climate change 10. 
+STRATEGY: Summary. 
+Risks. 
+Strategic Planning and Risk Management. 
+Transition risks. 
+Policy and Legal. 
+Market implications for our commodities. 
+Reputational implications. 
+Technological implications. 
+Physical risks. 
+Temperature change. 
+Water use & droughts. 
+Extreme rainfall. 
+Climate-related diseases. 
+Opportunities. 
+Resource efficiency. 
+Energy source. 
+Products/Services. 
+Market implications. 
+Resilence. 
+Opportunities. 
+Source: Adapted from the Task-Force for Climate-related Financial Disclosures
+
+
+Policy and legal implications. 
+We consider three time horizons – the short-term (with implications in the current reporting cycle), the medium-term (implications toward 2030), and the long-term (toward 2040). The scenarios of the IEA’s World Energy Outlook 2020 have been used as a basis for assessing risk – including a 2-degree scenario, and a COVID-19 recovery scenario. For details, refer to section Risk Management (page 25) This has been combined with a dedicated review of the policy landscape in countries where we have business interests. We discuss potential transition risks below.
+Carbon pricing risk. 
+We are indirectly exposed to carbon pricing for both our Bulgarian and Namibian operations.
+ETS prices have increased approximately 5 fold since 2017. While this has been felt through electricity prices, the effect has been buffered due to the free allocation of emissions quotas, meaning that costs for emitters have been partially offset. Our internal analysis of the effect of carbon pricing on Bulgarian operations indicates that the risk of indirect exposure to carbon pricing is likely to increase in the medium-term (toward 2030). We have not considered a long-term (2040) horizon for Bulgarian assets as this is beyond their current planned life-of-mine. In any case, risk toward 2040 is likely to increase even further, though buffered by potential greening of the Bulgarian electricity mix.
+For our smelter in Namibia, the country imports a significant share of its electricity, primarily from South Africa, where carbon taxation was introduced in 2019. Current carbon tax levels in South Africa are low - nominally 8.5 $/tonne7. The IEA projects a 2x increase in carbon pricing for both a “Delayed Recovery” and “Stated Policies” scenario and a further substantial increase in a Paris-aligned (Sustainable Development) scenario. Our internal analysis of the effect of carbon pricing on Tsumeb operations indicates that while carbon pricing risk exposure exists, it is currently small and its future development is uncertain. Future growth of carbon pricing risk is highly dependent on South African climate policy in the medium and long-term, which at present is seen by third party organizations as highly insufficient (discussed further in the next section).
+7 Without accounting for tax breaks in place until 2022, meaning current de-facto prices are effectively less. Sources: EU ETS spot prices; IEA World Energy Outlook 2020. All prices in $2019/tonne CO2. N.b.: 2030 prices linearly interpolated between 2025 and 2040.
+Bulgaria: 9.9% Velocity Minerals (Canadian gold exploration company)
+Namibia: 92% DPM Tsumeb (complex smelter)
+Ecuador: 19.4% INV Metals Inc. (Loma Larga gold property)
+Bold: Principal operating assets Italics: Exploration properties. 
+Legend:
+Carbon pricing in place. 
+Carbon pricing under consideration. 
+Nunavut, Canada: 9.4% Sabina Gold & Silver Corp. (Back River project)
+Quebec, Canada: 51% Pershimex Resources (Malartic gold property)
+Serbia: 100% Avala Resources Ltd. (Timok gold project) Bulgaria: 100% DPM Chelopech & 100% DPM Krumovgrad (mining operations)
+South Africa: 78% MineRP (mining software vendor)
+Source: World Bank Carbon Pricing Dashboard (2020) 31 40 52 89 140 2020 2030 2040. 
+EU ETS price (Oct 2020)
+IEA Stated Policies & Delayed Recovery IEA Sustainable Development 8.5 15 24 70 125 2020 2030 2040. 
+South Africa carbon price (2019)
+IEA Stated Policies & Delayed Recovery. 
+IEA Sustainable Development. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 11. 
+STRATEGY: Context on transition risks & opportunities
+
+
+Developments that we are watching out for. 
+Decarbonization commitments imply potentially significant policy changes going forward. We are continuously monitoring regulatory developments in the countries where we have business interests.
+Developments in the European Union are important for our current mining operations. The EU has already committed to a net-zero target for 2050, and has put in place legislation to reduce overall emissions by 40% toward 2030. There are ongoing efforts for revising this target, with goals ranging from 55% to 60% reductions toward 2030 – a decision of the final goal is expected in the first half of 2021. The European Green Deal sets an ambitious and cross-cutting policy agenda, which includes: • The EU Sustainable Finance Taxonomy - this is expected to be a key instrument for steering green investment, as it outlines concrete “technical screening criteria” for determining whether economic activities contribute to ESG goals such as a low-carbon and resource-efficient economy. The Sustainable Finance Taxonomy has been hailed as a necessary step forward by both private and public investors, including the European Bank for Reconstruction and Development (EBRD) and the European Investment Bank (EIB). The mining sector is currently not included in the Taxonomy, which may limit access to finance from such investors. As noted previously, DPM has benefited greatly from its investment (lending and equity) relationship with the EBRD since 2009. We support the inclusion of mining in the Taxonomy as an enabler of the low-carbon transition (see also Market implications for our commodities) and are following this issue closely.
+• The EU Circular Economy Action Plan – this outlines the EU’s policy roadmap for increasing recycling and reuse in a range of waste streams, including electronics and construction waste. Increased secondary materials recycling may have implications for the demand for primary gold and copper. We discuss this further under Market implications for our commodities.
+• The Carbon Border Adjustment mechanism (expected to be in place by 2022), which intends to levy a carbon tax on imports into the EU internal market. While details of its implementation are currently open, we recognize that such a tax may have impacts on the price of materials we import for our Bulgarian operations. Inversely, a carbon border adjustment may “level the playing field” versus non-EU competitors, as it would subject them to comparable carbon taxation that DPM is indirectly exposed to (see Carbon pricing risk).
+• A range of other planned or indicated initiatives which may introduce new or tightened environmental compliance criteria.
+In summary, the EU Green Deal may present potential implications for our operations in the short-to-medium term, but the scope and magnitude of these are contingent on the way intended policies are implemented. Continuous monitoring of regulatory developments is an integral part of DPM’s ERM framework and we are strengthening our efforts towards this in light of our increased understanding of climate-related issues gained via the TCFD implementation process (see section Governance).
+Developments in Namibia are important for our Tsumeb smelter. Namibia has pledged an 89% reduction of GHG emissions toward 2030, including increasing electricity production from renewables from 33% to 70%, in order to counter its strong reliance on electricity imports. Furthermore, as 47% of Namibia’s population lacks access to electricity, significant energy-related investments are required to ensure universal access to affordable, reliable, and modern energy services by 2030 (SDG 7). 90% of Namibia’s GHG reduction commitments are, however, conditional on access to international climate finance, making the outlook uncertain. We expect business implications to be further influenced by developments in South Africa (for carbon pricing) and broader Africa as a whole. South Africa’s GHG reduction pledge has been rated as “highly insufficient for meeting the goals of the Paris Agreement8. At present, this outlook is uncertain, but South Africa has signalled a reliance on carbon-intensive sectors (in lieu of previously planned renewables investment) for its current recovery measures9. We continue to actively monitor policy developments as part of our existing risk management procedures.
+Canada Canada has committed to a 30% unconditional reduction in GHG emission toward 2030 as part of the Paris Agreement, and the current government has pledged carbon neutrality by 2050, though this is yet to be enshrined into law10. Canada has had mandatory carbon pricing in effect across the country since 2019, either at the provincial or at the federal level. DPM owns interest in two exploration projects in Canada “Sabina” in Nunavut, and “Malartic” in Quebec. These projects are currently not in active development, due to which we have not yet scrutinized potential carbon pricing effects. If these projects are to undergo further develop- ment, scenario analysis would be conducted using the same approach as for current operations.
+Canada has also published its own set of sustainable finance recommendations, which may point the way forward for increasing corporate sustainability efforts. These recommendations include reporting following TCFD on a “comply or explain” basis, and TCFD reporting has been further bundled into requirements for receiving government support for COVID-19 recovery. At the time of writing this document, whether Canada will focus on “green recovery” from COVID-19 is still uncertain, though the federal government has expressed its intent for this in its September 2020 throne speech. Policy developments and potential legal requirements are actively monitored as part of our existing risk management procedures.
+Rest of the world In relation to DPM’s projects in Serbia and Ecuador, both countries do not currently have carbon pricing in place. However, for our Canadian projects, we plan to include potential carbon pricing undertake scenario analysis of potential climate risks in the event that these projects undergo further development.
+8 https://climateactiontracker.org/countries/south-africa/ 9 https://climateactiontracker.org/countries/south-africa/ 10 https://climateactiontracker.org/countries/canada/
+DUNDEE PRECIOUS METALS | Our approach to climate change 12. 
+STRATEGY: Context on transition risks & opportunities
+
+
+Market implications for our commodities: outlook for gold. 
+Gold is distinct compared to most other metals due to its widespread use as a store of value and risk-hedge. Gold demand is highly diverse and not concentrated in a particular sector, and supply is similarly diverse – spread across all continents and including not just newly-mined, but also recycled gold. As global gold demand is driven primarily by luxury goods and investment, it can be expected to be somewhat decoupled from climate-driven market uncertainties. Furthermore, compared to other asset classes, gold has historically performed well in times of market uncertainty, including in the ongoing COVID-19 pandemic. This implies that gold may in fact benefit from climate-driven volatility.
+Our assessment on gold’s market outlook in the face of transition and physical risks is informed by a dedicated analysis by the World Gold Council11, which compares the sensitivity of annual returns from gold and other assets across a range of timescales and global warming scenarios. This analysis’ overarching conclusion is that gold is likely to exhibit relatively robust performance across all climate scenarios analyzed (including both Paris-aligned and business-as-usual). In particular: • In the medium-term (2030s), outlook is expected to be neutral-to-positive across scenarios, apart from limited potential downside in a 4°C (i.e. business-as-usual) scenario. This finding underscores the importance of managing physical risks from climate change (we discuss this for our assets in particular in Section Physical risks on p. 22).
+• In the longer-term (2050s and beyond), gold shows consistent upside across all climate scenarios, which is opposite to all other asset classes analyzed.
+11 World Gold Council (2019): Gold and climate change: Current and future impacts. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 13. 
+STRATEGY: Context on transition risks & opportunities. 
+Chart 1: Global gold supply Chart 2: Global gold demand. 
+Tonnes 5,000. 
+Source: GFMS, Thomas Reuters; Metals Focus; World Gold Council Notes: Data prior to 1995 may refer to fabrication demand. *Investment demand includes central bank purchases and sales, net ETF investment and OTC investment flows. 
+Mine production 4,000 3,000 2,000 1,000 4,500 3,500 2,500 1,500 500 0 1980 1985 1990 1995 2000 2005 2010 2015. 
+Recycled gold Technology demand Jewellery demand Investment demand*
+Tonnes 5,000 4,000 3,000 2,000 1,000 4,500 3,500 2,500 1,500 500 0 1980 1985 1990 1995 2000 2005 2010 2015. 
+Crisis Period Start End S&P 500 TR Index U.S. Treasures Gold Bullion 2008 Global Financial Crisis 10/11/2007 3/6/2009 54.46% 15.80% 25.61% 2010 Eurozone Crisis/Flash Crash 4/20/2010 7/1/2010 -14.53% 4.47% 5.44% 2011 U.S. Sovereign Debt Downgrade 7/25/2011 8/9/2011 -12.27% 3.64% 7.86% 2015 China Yuan Devaluation 8/18/2015 2/11/2016 -11.85% 3.50% 11.54% 2018 Fed Hike/U.S. China Trade War 9/20/2018 12/24/2018 19.34% 2.45% 5.14% 2020 COVID-19 Pandemic 12/31/2019 9/30/2020 5.57% 8.90% 24.29%
+Average Return -17.81% 6.46% 13.31%
+Source: World Gold Council (2018): Gold and climate change: an introduction.
+Performance of gold compared to other asset classes in previous crises and current COVID-19 Pandemic. Source: Sprott Inc. (Sept 2020): The Case for Gold. 
+Data as of 9/30/2020. Source: Sprott Asset Management. Dates used: Global Financial Crisis: 10/11/2007-3/6/2009; Eurozone Crisis: 4/20/2010-7/1/2010; U.S. Sovereign Debt Downgrade: 7/25/20118/9/2011; China Yuan Devaluation: 8/18/2015-2/11/2016; Fed Rate Hike & China Trade War: 9/20/2018-12/24/2018; COVID-19 Pandemic: 12/31/2019-9/30/2020. S&P 500 TR Index is measured by the SPXTR; U.S. Treasuries are measured by Bloomberg Barclays US Treasury Total Return Unhedged USD (LUATTRUU); and Gold Bullion is measured by spot gold.
+
+
+Gold’s relative robustness to climate risks is also a potential opportunity. Gold has a relatively low GHG intensity per unit of value compared to other metals - an order of magnitude smaller than steel and aluminium, and similar to that of copper (which we discuss separately in this report).
+The majority of gold’s GHG footprint stems from its primary production (mining, milling and smelting), with emissions from downstream refining and processing into final products being negligible (less than 1% of total)12. In terms of transition risks and, in particular, carbon pricing, what this means for the primary gold sector is that lower GHG emissions per unit mass would also mean higher competitiveness due to lower carbon costs. A separate analysis compares the emissions intensity of gold mining in different countries globally – this analysis shows that DPM’s mining in Bulgaria is uniquely placed as a low-carbon source of gold (see graphic on next page).
+DUNDEE PRECIOUS METALS | Our approach to climate change 14. 
+STRATEGY: Context on transition risks & opportunities. 
+Sensitivity of annual returns 2030 2050 2100 1.5 °C 2 °C 3 °C 4 °C 1.5 °C 2 °C 3 °C 4 °C 1.5 °C 2 °C 3 °C 4 °C. 
+US Bond Aggregate. 
+US Stocks. 
+EAFE Stocks. 
+Emerging Market Stocks. 
+Commodities. 
+Gold. 
+Real Estate. 
+Assets that are relatively neutral in the context of a particular scenario, and may be expected to deliver similar annual average returns to those expected under current/ historical market conditions.
+Assets that may be more robust and benefit from specific factors or opportunities associated with a scenario, potentially delivering increased returns.
+Assets that are more vulnerable to scenario ‘downside’ risks, less likely to deliver expected returns and more likely to be loss-making.
+Outlook for gold compared to other asset classes under different levels of climate change. Source: Anthesis; World Gold Council 12 Ulrich, Trench & Hagemann (2020): Greenhouse Gas Emissions in Gold Mining. Analysis by CSA Global. Paper to be published.
+S&P 500. 
+Chart 9: Estimated annualised GHG footprint of an investment in gold and S&P 500 over different investment lifetimes. 
+Tonnes CO2e per $1mn (log scale)
+Investment lifetime (years) 1000 100 10 1 3 5 7 9 11 13 15 17 19. 
+Note: This does not depict estimates of the future emissions profile of gold producton or of the S&P 500. Rather, the chart illustrates the annuaI GHG footprint of a US$1mn invesiment in the S&P 500, and compares this with the GHG footprint of a US$1mn investment in gold, quantified on an annualised basis over different investment lifetimes, and with a range of emissions intensity estimates for gold. Range values far gold are based on high and low estimates of the GHG emissions intensily per tonne of god as reported in academic Iiterature.
+GHG footprint of gold investment over time compared to the S&P 500. Source: WGC analysis based on Baur & Oil (2017)
+Gold (highest estimate) Gold (lowest estimate) Gold (WGC estimate) Gold (Baur 2017)
+
+
+On average, holding an investment in newly-mined gold for 9 years or more has lower GHG emissions than an equivalent investment in a broad-base market index (in this case S&P 500, analysis by the World Gold Council). Bottom: Mines in Bulgaria have the 2nd lowest GHG emissions intensity out of the gold mining sector globally. As this analysis is based on data from listed companies, the value for Bulgaria is entirely represented by DPM’s activities, as the country does not have any other gold mining companies (listed or otherwise).
+A key uncertainty in future prospects for gold is the relative upside of newly mined gold compared to recycled gold (which the WGC analysis cited above does not differentiate). According to the World Gold Council (2018), newly-mined gold accounts for approximately 70-80% of global gold supply, which is not enough to meet annual demand. The remaining 20-30% of demand is met through recycling. The circular economy is a key component for meeting the goals of the Paris agreement, and a component of this is recycling of electronic waste, of which gold is the most valuable constituent per unit mass. According to the WGC, 90% of gold recycling stems from jewellery, while 10% comes from electronic waste.
+As jewellery and investment gold are commonly used as stores of value, it can be expected that expansion of recycled gold supply would be contingent on increasing e-waste recycling. The theoretical stock of gold in e-waste is estimated at approximately 1,200 tonnes, roughly equal to current total recycled gold suppy13. Currently however, gold accounts for 10% of recycled supply, which equates to 3% of total supply, i.e. an order of magnitude lower quantity. The extent to which this supply can be expanded will depend on the strength of policy efforts for e-waste recycling over the coming years. As discussed in Section Policy outlook (p. 11 in this document), the European Union’s Green Deal already emphasizes recycling as part of the EU’s climate and raw materials sufficiency goals, and indeed Europe has the highest rate of formal e-waste recycling globally. Nearly 80% of e-waste, however, is generated outside Europe, where e-waste recycling rates are far smaller, and where commitments for increased circularity similar to the EU Green Deal have yet to be made. Due to the above, we view the extent for recycled gold to substitute newly mined gold to be limited, at the very least in the shorter term.
+DUNDEE PRECIOUS METALS | Our approach to climate change 15. 
+STRATEGY: Context on transition risks & opportunities 12 Ulrich, Trench & Hagemann (2020): Greenhouse Gas Emissions in Gold Mining. Analysis by CSA Global. Paper to be published.
+13 Forti V., Baldé C.P., Kuehr R., Bel G. The Global E-waste Monitor 2020: Quantities, flows and the circular economy potential. United Nations University (UNU)/United Nations Institute for Training and Research (UNITAR) – co-hosted SCYCLE Programme, International Telecommunication Union (ITU) & International Solid Waste Association (ISWA), Bonn/ Geneva/Rotterdam.
+1. Finland, 2. Bulgaria, 3. Canada, 4. Armenia, 5. Argentina, 6. Brazil, 7. New Zealand, 8. Democratic Republic of the Congo, 9. Tanzania, 10. Chile, 11. Indonesia, 12. Senegal, 13. Peru, 14. Laos, 15. Suriname, 16. Ghana, 17. Turkey, 18. Philippines, 19. Guinea, 20. Côte d’Ivoire, 21. United States of America, 22. Mexico, 23. Burkina Faso, 24. Mali, 25. Australia, 26. Papua New Guinea, 27. Kyrgyz Republic, 28. Namibia, 29. Egypt, 30. Russian Federation, 31. Dominican Republic, 32. Mauritania, 33. Greece, 34. Kazakhstan, 35. South Africa.
+0 500 1 2 3 4 5 6 10 20 21 22 23 25 30 31 32 33 34 35 26 29 28 27 24 12 13 15 16 17 1819 11 14 8 9 7 1,000 2,000 3,000 1,500 2,500 0
+0% 5 10 15 25 25% Production (%)
+Cumulative Gold Produced (Moz)
+GHG Emissions Data Availability Extensive. 
+GHG Emissions intensity (kg CO2-e/oz)
+Bulgaria Canada. 
+Ghana. 
+USA. 
+Australia. 
+Russia 75% 50% 100% 35 45 20 30 40. 
+Good Reasonable Weak Poor. 
+South Africa. 
+GHG intensity of gold mining around the world12 22% 24% 46% 5% 1% 43% 9% 12% 1% 9%
+Europe Americas Asia Africa Oceania % of global e-waste generation % formal e-waste recycling. 
+Distribution of global e-waste generation and formal recycling13
+
+
+Market implications for our by-product commodities: outlook for copper. 
+Copper is a key constituent in the global economy – it is an excellent conductor of both heat and electricity, it is corrosion resistant, antibacterial, and highly recyclable. According to the International Copper Association, it is widely used in power generation and transmission, electronics, construction and transport, which cumulatively lead to approximately 28 million tonnes of copper demand per annum. 65% of this comes from new mine production, while 35% is sourced through recycling. For DPM, copper is a significant by-product from our gold business and its importance as a key material may offer additional upside in light of future decarbonization goals.
+Meeting the goals of the Paris Agreement requires substantial deployment of renewable energy technologies, energy efficiency, as well as electrification of heating, transport and industry. The IEA Sustainable Development Scenario projects that energy efficiency and renewables account for approximately 70% of GHG reductions toward 2050.
+We have reviewed a range of third-party sources, with the majority supporting the growth of copper demand in-line with decarbonization efforts. This growth is due to copper’s essential use as a conductive material (among others).
+Depending on the scenario, global renewables capacity is expected to grow 1 to 1.5 times toward 2030, and approximately 2 to 3 fold toward 2040, leading to near-doubling of demand for copper in this sector14. Alternative source estimate additional growth, including a 10% CAGR in copper demand due to energy-efficiency retrofits15, and 2.5x increase in demand due to charging infrastructure by 2030 (in addition to additional demand from electric vehicles themselves)16. Some sources estimate that primary demand may double overall toward 2050, in line with decarbonization goals17.These projections are, however, mostly developed in pre-COVID-19 times – the extent to which they will be realized depends on the strength and shape of global economic recovery going forward.
+Another key uncertainty in future copper upside is the growth in secondary copper supply in-line with circular economy goals. As discussed in Section Policy outlook (p. 12 in this document), the European Union’s Green Deal emphasizes recycling as part of the EU’s climate and raw materials sufficiency goals approximately 50% of the EU’s copper demand is already met through recycling, and this figure stands at 33% globally. While future copper recycling may indeed be expected to grow, it should be noted that the majority of global copper stocks are held in high-value durable assets, of which only a small share ultimately becomes waste and enters the scrap market (see graphic on next page). Given this, and the expectation for substantial increases in copper demand going forward, it is unlikely that scrap supply would be able to keep up, thus necessitating primary production to meet the gap in supply.
+DUNDEE PRECIOUS METALS | Our approach to climate change 16. 
+STRATEGY: Context on transition risks & opportunities 14 World Bank: The Growing Role of Minerals and Metals for a Low Carbon Future (June 2017) 15 International Copper Association: Climate-based retrofitting in the built environment (March 2020) 16 Wood Mackenzie: Copper: Powering up the electric vehicle (August 2019) 17 Elshkaki, A., Graedel, T.E., Ciacci, L. and Reck, B.K., 2016. Copper demand, supply, and associated energy use to 2050. Global Environmental Change, 39, pp.305-315. We note that such projections are inherently uncertain and it is not necessarily the case that DPM relies on these projections developing as described.
+Power Generation Distribution & Transmission, 45%
+Appliances & Electronics, 12.5%
+Transport, 12.5%
+Construction, 20%
+Other, 10%
+Global copper demand by final use 2,516 +99% +187% 2,516 +153% +322% 2018 2030 2040. 
+Gigawatts renewables installed capacity. 
+Stated Policies Sustainable Development 5.5 3.5 9.5. 
+Solar power Wind onshore Wind offshore. 
+Tonne Cu requirements per MW installed capacity. 
+Source: International Copper Association. Source: Copper Development Association Inc. Source: World Energy Outlook 2019
+
+
+DUNDEE PRECIOUS METALS | Our approach to climate change 17. 
+STRATEGY: Context on transition risks & opportunities. 
+Stocks and flows of copper globally. Source: Fraunhofer Institute, for the International Copper Association (2018)
+Smelting & refining / SXEW. 
+Permanent losses during smelting. 
+Losses during separation EoL scrap unaccounted for. 
+Collected & separated EoL Scrap. 
+Copper in use: 450,000 kilo tonnes. 
+Dissipation / Abandoned in place. 
+Scrap stock. 
+Stock change refined copper Low grade copper scrap for smelting & refining (including around 100 kilo tonnes of losses during scrap smelting and refining)
+Directly melted high grade copper scrap. 
+Scrap from fabrication. 
+Global mining 3,290 kt 3,990 kt 4,540 kt 1,680 kt 6,730 kt 510 kt Stock in use 5,660 kt 5,430 kt 410 kt 190 kt 0 kt 50 kt 150 kt 140 kt (b) (k) (i) (h) (f) (g) (e) (c) (d) (j) (b) (b)
+Total refined copper Semi-finished goods production. 
+Permanent losses during semis production Fabrication of end-use products. 
+Permanent losses during fabrication
+
+
+Reputational implications. 
+The recognition of climate change’s urgency is growing. Globally, climate-motivated litigation is a growing trend – this is particularly strong in the USA, followed by Australia, Canada and Western Europe3. For the mining sector, this legislation has focused almost entirely on coal mining projects. Nevertheless, while our business has not yet been exposed to such litigation, the direction of travel for the sector given climate’s importance to stakeholders is clear. Outside litigation, climate change is seeing increasing recognition in investor circles18, and shareholder activism is becoming more common19. Finally, climate change is likely to become an increasingly salient issue in securing a license to operate in local communities, given that its effects will become increasingly felt in the future.
+Community-focused project development is a core aspect of DPM’s risk management activities, and it is an area where we have had significant success. We are cognizant of climate’s growing importance, which is why we plan to conduct a dedicated climate risk assessment for all future projects (see section Risk management).
+Our community-first approach to stakeholder management: the Ada Tepe example. 
+ESG and securing a social license to operate are one of DPM’s four Strategic Pillars. From its onset, our Ada Tepe mining project in Krumovgrad, Bulgaria was intended as a model of best practice in social and environmental management. During project development, stakeholders expressed concerns about the project, including the use of cyanide leaching, as well as for potential biodiversity impacts (as the site lies within the footprint of a protected area under Natura2000).
+DPM consider extensive stakeholder campaign, directly engaging with residents from Krumovgrad and nearby villages in order to understand their concerns. DPM also worked closely with local environmental NGOs to understand potential biodiversity impacts.
+DPM reflected the outcomes of these engagement activities by substantially revising the original project proposal. Cyanide leaching was suspended with the Company electing to process concentrate off-site. To address concerns regarding biodiversity, DPM commissioned a detailed biodiversity study, which led to the tagging and relocation of over 2,000 protected tortoises, and the reduction of the site’s footprint by over 30%.
+We continue our efforts in building strong partnerships with our host communities. Currently, 90% of Ada Tepe employees are local residents. In partnership with the municipality of Krumovgrad, we have established a start-up fund for supporting local business, and have committed to providing $5 million in financial resources through to the end of Ada Tepe’s mine life.
+Technological implications. 
+Digital innovation is a key focus at DPM and is one of the Company’s Strategic Pillars. Using wireless technologies for communications and location tracking, along with smart connected equipment and sensors, and extensive data mining capabilities, DPM has created the ability to know what is happening throughout our operations, even at 600 metres underground. This allows for far better decisions to be made about the use of resources to improve overall mine safety and operational efficiency, including the use of energy, water and the management of emissions.
+Industry 4.0 in the mining sector. 
+In 2010, DPM set the goal of increasing the productivity of our Chelopech mine by 300%. Thanks to the internet-of-things, we managed to achieve 400%.
+The Chelopech mine is one of the very few in the world that employs a wireless IP network at a large scale – in our case, over 600 metres underground. In essence, this means that mine managers no longer have to wait for paper reports to find out about production. This is monitored and managed in real-time thanks to ubiquitous connectivity of machines, people and processes.
+To achieve this, we partnered with Cisco to deploy 280 wireless access points along 50 kilometres of mining tunnels, as well as deployed a custom 2.4-GHz antenna, allowing wireless coverage underground. IP phones, in-vehicle tablets, surveillance cameras, and RFID tags are used to track and report movement and condition underground, which is superimposed by DPM’s custom software on a 3D map. This enables monitoring safety in real-time, but also predictive maintenance of machinery. Ultimately, we achieve lower costs, higher asset utilization, enhanced collaboration and vastly improved productivity.
+We have learned much from this project in Chelopech – know-how that we continue to build and also transfer to our Tsumeb and Ada Tepe operations.
+Improvements in efficiency are one part of the solution toward decarbonization. The other part is, of course, the use of low-carbon energy sources. Currently, our operations primarily rely on grid energy. There is a significant potential opportunity to increase the use of renewables at our operations.
+• Bulgaria (where our mines are located) is among the EU countries with the highest share of renewable energy consumption – upcoming EU decarbonization targets, rising carbon prices, as well as increasing liberalization of the EU electricity market means that renewables will continue increasing in competitiveness and attractiveness. For DPM, this presents an opportunity for deploying PV power for own use, or purchasing 100% green electricity from a growing list of potential providers.
+• Namibia (where our Tsumeb smelter is located) is considered the country with the highest solar PV potential in the world20. Namibia has a goal of increasing its share of renewables from 33% to 70% toward 2030, though conditional on access to international finance. DPM has previously explored potential deployment of solar PV for our Tsumeb smelter, but this has been so far hampered by existing issues in the country’s energy sector, including regulatory uncertainty concerning feed-in tariffs.
+Our assessment of carbon pricing exposure lends additional credence to the potential of renewable energy for improving both operational efficiency and self-sufficiency. We continue to monitor trends (including regulatory changes) in the renewables space, and plan to undertake a more detailed assessment of transition opportunities in 2021.
+18 TCFD Status Report 2020 19 Climate Action 100+: 2019 Progress Report 20 Energy Sector Management Assistance Program (2020). Global Photovoltaic Power Potential by Country. Washington, DC: World Bank.
+DUNDEE PRECIOUS METALS | Our approach to climate change 18. 
+STRATEGY: Context on transition risks & opportunities
+
+
+Physical risks: Chelopech mine, Bulgaria. 
+Site characteristics. 
+Our Chelopech operation is an underground gold-copper mine with a strong track record of delivering strong, consistent operational performance. The operation is located in central-western Bulgaria, approximately 70 km east of Sofia (the nation’s capital) on the southern flank of the Balkan Ranges, with good accessibility by road and rail. The local climate is moderately continental, owing to the site being located in a valley between two mountain ranges. Summers are thus relatively colder than in other regions of Bulgaria, and winters relatively milder. Annual rainfall totals are around 600 mm – around 10% lower than average for the country.
+Risk drivers. 
+Temperature change Precipitation change Droughts Extreme rainfall Climate-related diseases. 
+Extreme temperatures Water use & droughts Extreme rainfall Climate-related diseases. 
+Underground mining. 
+Minor reorganization of work & minor investments infrastructure such as HVAC may be required.
+The site is well-prepared in terms of water availability, with multiple water sources available. Process water use is well-optimized, with 90% of process water being reused.
+Potential for minor localized flooding of galleries.
+Bulgaria is currently not exposed to climate-related disease vectors. However, studies show that the risk of infectious disease vectors for Bulgaria as a whole can be expected to increase with rising global temperatures.
+Future exposure for Chelopech is uncertain, but less likely due to the site’s climate - located in a valley between two mountain ranges.
+Nevertheless, DPM Chelopech has infectious disease management & response procedures in place, updated in light of the COVID-19 pandemic.
+Processing plant Need for expansion of water drainage infrastructure.
+Paste fill plant. 
+Tailings management facility. 
+TMF engineered to withstand significantly higher rainfall than currently expected flood risk.
+Supporting services. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 19. 
+STRATEGY: Context on physical risks for our operations. 
+Legend: Increase from current climate Small increase from current climate Direction of change uncertain. 
+Key processes for the operation
+
+
+Physical risks: Ada Tepe mine, Bulgaria. 
+Site characteristics. 
+Our Ada Tepe operation in Krumovgrad commenced production in 2019, and is the first greenfield mine in Bulgaria in the last 40 years. While employing a conventional open-pit mining, crushing, milling and flotation circuit, production employs innovative methods for water management and mining waste management. The operation is located in the south of Bulgaria, 3 km from the town of Krumovgrad. The local climate lies in the Continental-Mediterranean transitional climate zone, characterized by relatively mild winters and hot summers. Annual rainfall totals are around 700 mm – average for Bulgaria, with bulk of rainfall occurring in autumn/winter.
+Risk drivers. 
+Temperature change Precipitation change Droughts Extreme rainfall Climate-related diseases. 
+Extreme temperatures Water use & droughts Extreme rainfall Climate-related diseases. 
+Open-pit mining Production delays due to gassing from wildfires, up to 1 week. Production delays of up to 3-15 days due to localized landslides. Bulgaria is currently not exposed to climate-related disease vectors. However, studies show that the risk of infectious disease vectors for Bulgaria as a whole can be expected to increase with rising global temperatures.
+Future exposure for Krumovgrad is uncertain, but possible due to its climate and proximity to the Bulgarian-Greek border.
+DPM Krumovgrad has infectious disease management & response procedures in place, updated in light of the COVID-19 pandemic.
+Processing plant Small investment in HVAC may be required. Increased risk of production delays due to water shortages Need for expansion of water drainage infrastructure.
+Integrated Mine Waste Facility. 
+Small reorganization of outdoor work may be required. Some increased investment in recultivation due to lower plant survival. Small risk of discharge of clarified water before entering treatment plant.
+Water reservoirs Some increased fire risk, with limited implications for operation. Operation of reservoirs itself not affected. Minor risk of discharge of clarified water to treatment plant.
+Supporting services Some additional spraying of roads may be required to limit dust resuspension.
+DUNDEE PRECIOUS METALS | Our approach to climate change 20. 
+STRATEGY: Context on physical risks for our operations. 
+Legend: Increase from current climate Small increase from current climate Direction of change uncertain. 
+Key processes for the operation
+
+
+Physical risks: Smelter in Tsumeb, Namibia. 
+Site characteristics. 
+Our smelting operation in Namibia is located in Tsumeb – a town with a population of 45 000 people. It is located 430 km north of the country’s capital city Windhoek, and linked by rail to the Atlantic port of Walvis Bay. The smelter plant was build in the early 1960s, and acquired by DPM in 2010, upon which the Company implemented an ambitious plan for its modernization and bringing the operation in line with good industry practice and standards. Today, Tsumeb is one of the few smelters in the world that can treat complex copper concentrates, and employs approximately 800 people. Tsumeb has a subtropical desert climate, with a pronounced Dry (May-Oct) and Wet season (Nov - Apr), corresponding to winter and summer. Highest recorded temperatures are ~39 °C, and annual rainfall is around 520 mm.
+Risk drivers. 
+Temperature change Precipitation change Droughts Extreme rainfall Climate-related diseases. 
+Extreme temperatures Water use & droughts Extreme rainfall Climate-related diseases. 
+Inbound & outbound transport. 
+Likely no significant direct risk, additional measures could be put in place to minimize transport losses. Potential flooding of rail and road tracks.
+While Namibia has made strides in tackling climate-related diseases such as malaria, the country is exposed to such hazards, and wider issues such as access to potable water and malnutrition. Such issues are likely to be exacerbated by climate change.
+Tsumeb has infectious disease management & response procedures in place, updated in light of the COVID-19 pandemic.
+Concentrate handling. 
+Some increase in fuel consumption of machinery.
+Some reorganization of outdoor work may be required.
+Extra mobile machinery may be required for reserve capacity.
+Some improvements in surface water management to minimize risk of localized flooding.
+Furnace and converters Likely no significant direct risk Minor investments in water drainage infrastructurе.
+Post-production handling. 
+Some increase in fuel consumption.
+Some reorganization of outdoor work may be required.
+Extra mobile machinery may be required for reserve capacity.
+Potential delays due to localized rainfall.
+Waste handling. 
+Some reorganization of outdoor work may be required plus minor additional investment for shading and maintenance of the dust suppression system.
+Fire risk matrix may need to be updated to include additional areas.
+Wildlife mortalities as a result of birds resorting to drinking from the waste water ponds due to unavailability of natural water sources as a result of drought.
+Some increased investments in recultivation due to lower plant survival.
+Implications for dam stability.
+Minor investment needs for extra standby pumps.
+DUNDEE PRECIOUS METALS | Our approach to climate change 21. 
+STRATEGY: Context on physical risks for our operations. 
+Legend: Increase from current climate Small increase from current climate Direction of change uncertain. 
+Key processes for the operation
+
+
+Scenario analysis approach. 
+For evaluating climate risks and opportunities, we have undertaken climate scenario analysis. While accurately predicting how future policies and climate impacts would unfold is challenging, scenario analysis can help to highlight the range of risks that climate change may present.
+We have used the International Energy Agency’s World Energy Outlook (WEO) 2020 scenarios, particularly for assessing the financial impacts of increasing future CO2 prices. The IEA has updated its 2020 scenarios to take into account COVID-19’s impacts on the global economy. These scenarios include: • The Stated Policies scenario – a look into how the world may develop given current climate pledges made by governments. This includes Nationally Determined Contributions under the Paris Agreement, and also much more. The Stated Policies scenario shows the potential consequences of current climate ambition, but understanding that current pledges made by governments are not sufficient for meeting the goals of the Paris Agreement for limiting global warming to well below 2°C above pre-industrial levels.
+• The Sustainable Development scenario – a look into what is required in order to meet the goals of the Paris Agreement. This scenario necessitates further changes beyond what is included under Stated Policies, bringing with this substantial implication for future energy use and carbon pricing. It also includes the government stimulus packages required for COVID-19 recovery planned for 2021-2023.
+• The Delayed Recovery scenario – the COVID-19 crisis has led to widespread economic disruption and a (at least temporary) slowdown of global growth and emissions. While the Stated Policies and Sustainable Development scenarios assume that the pandemic’s spread is brought under control over the course of 2021, the Delayed Recovery scenario considers the implications for energy and emissions if these assumptions turn out to be too optimistic.
+In order to assess the exposure of our main commodities (gold and copper), we have supplemented the analysis with additional information from reputable sources. We have also carried out a review of current and up- coming climate policies in our main operating regions, as well as trends in legal and reputational implications of climate change. These are elaborated in respective sections under Strategy. For assessing physical risks for our operations, we have used data on local-scale climate change projections by the Intergovernmental Panel on Climate Change (IPCC). Specifically, we use the IPCC’s RCP8.5 projections, which correspond to a “business-as-usual” case with uncontrolled emissions increases toward the future21. This is a worst-case assumption, which we have used in order to most conservatively assess potential risks. Where necessary, we further looked into local-level studies for our operating regions, in particular taking into account local adaptation capacity of local stakeholders who we may rely on for essential services.
+Enterprise Risk Management. 
+DPM operates a formal Enterprise Risk Management (ERM) process. The ERM process is led by the Vice-President Sustainability and External Relations, as well as dedicated sustainability functions for each of our operating sites. The process is facilitated by Risk Owners and Risk Leads. Senior management is responsible for monitoring and managing risks on an ongoing basis and identifying changes to the external environment that may impact risk mitigation activities.
+Risk updates are carried out formally on an annual basis, and informally on a quarterly basis, led by Risk Owners and Risk Leads. Risk scanning focuses on political, economic, social, and technological, and environmen- tal trends that may influence DPM’s business, including issues stemming for climate change. The process of risk assessment includes: • Evaluating inherent risks, reflecting the effect of uncertainty on the Company’s objectives, without accounting for internal risk management • Evaluation of residual risk, reflecting the effect of risk once internal controls and risk mitigation strategies are implemented.
+• Risks are prioritized based on their Impact and Likelihood, with concrete criteria for their scoring, which are aligned between different corporate functions.
+20 25 30 35 40 2015 2020e 2025 2030. 
+Gigatonnes CO2 emissions. 
+Delayed Recovery. 
+Pre-crisis Stated Policies. 
+Sustainable Development. 
+Trajectory of CO2 emissions under different scenarios (World Energy Outlook 2020)
+Establish the Context. 
+Risk Assessment. 
+Communicate and Consult. 
+Monitor and Review. 
+Communicate and Consult. 
+Manage the Risk. 
+Identify & Analyze the Risks. 
+Evaluate the Risks. 
+Yes. 
+No. 
+Accept Risks. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 22. 
+RISK MANAGEMENT 21 For this, we have used the World Bank’s Climate Change Knowledge Portal: https://climateknowledgeportal.worldbank.org/.
+
+
+Risks are summarized annually and reported to the Board, focusing on such where Management is required to respond with additional risk mitigation actions. The role of the Board is elaborated under section Governance (page 23).
+DUNDEE PRECIOUS METALS | Our approach to climate change 23. 
+RISK MANAGEMENT. 
+Likelihood. 
+Likelihood of risk is rated on а scale of 1 – 5 (Rare – Expected) based on past occurrence/ possibility of occurrence of a risk event. 
+Impact of a risk is rated on a scale of 1 – 5 (Minor – Critical) based on effect that the occurrence of a risk event will have. 
+Rated on a scale of 1 – 5 (Rare – Expected)
+Rated on a scale of 1 – 5 (Minor – Critical)
+Residual risk rating = residual likelihood x residual impact. Its value lies between 1 – 25 (Low – Critical)
+X = Impact Inherent Risk rafting 4 5 20. 
+Residual Likelihood X = Residual Impact Residual Risk Rafting 3 4 12. 
+NOW CONSIDERING MANAGEMENT CONTROLS. 
+Note: Numbers given are illustrative only
+
+
+Integration of climate risks in ERM. 
+Consideration of climate-related risks in DPM is an ongoing process, being part of our overall management of sustainability & ESG themes, under the remit of our Vice-President Sustainability and External Relations. We have tracked and reported metrics & targets on environmental issues (including climate) since our first sustainability report in 2011. This is elaborated under section Metrics & Targets (page 25).
+Our TCFD assessment has allowed us to further strengthen this work, and scenario analysis has provided us with a structured tool for additional insights. We have employed external consultants to assist in evaluating climate scenarios, which we have translated into operations-relevant risks by conducting risk assessment workshops with relevant experts from our individual sites (finance, engineering, health and safety, legal, etc.). In 2020, we have evaluated the inherent risks stemming from climate change for our operations, and this is integrated in our ERM framework. For 2021, this analysis will be extended by considering potential risk management options in order to arrive at a final residual risk score for all identified climate risks. This will also result in the integration of climate risks in operations’ annual improvement targets.
+0.0 0.5 1.0 1.5 2.0 2.5. 
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec. 
+Degrees Celsius. 
+Expected change in monthly average temperatures toward 2030 1. Evaluate climate change scenarios. 
+Extreme temperatures Water use & droughts Extreme rainfall Disease risk. 
+Process 1 2.1. Risk identification 2.2. Workshops with process owners in operations (financial, engineering, H&S, etc.) 2.3. Likelihood & impact scoring for each risk --> Inherent risk 2.4. Establish risk control measures --> Residual risk (planned 2021)
+Process 2. 
+Process 3. 
+Process 4. 
+Process 5 …
+2. Translate into specific risks for key processes in operations. 
+DUNDEE PRECIOUS METALS | Our approach to climate change 24. 
+RISK MANAGEMENT. 
+Risk Rating Guideline. 
+Rating Risk Score (Impact x Likelihood)
+Critical 20 – 25. 
+High 10 – 16. 
+Moderate 4 – 9. 
+Low 1 – 3. 
+Heat Map. 
+Impact. 
+Minor (1) Low (2) Moderate (3) High (4) Critical (5)
+Likelihood. 
+Expected (5) 5 10 15 20 25. 
+Likely (4) 4 8 12 16 20. 
+Possible (3) 3 6 9 12 15. 
+Unlikely (2) 2 4 6 8 10. 
+Rare (1) 1 2 3 4 5
+
+
+Key metrics and targets. 
+What we currently measure • GHG emissions: - Chelopech and Ada Tepe: Scope 1, 2, 3 - Tsumeb: Scope 1, 2 • Energy use: all sites • Water use: all sites. 
+Targets included in 2021 work plan • GHG emissions: - Update Scope 3 for Chelopech and Ada Tepe - Tsumeb: include Scope 3 • Plan the transition to Low Carbon Economy: - Develop plan to further optimize company’s GHG footprint - Commit to a clear long-term GHG reduction target. 
+Long-term targets • Transition to Low Carbon Economy • Consider Science-Based Targets to define optimization requirements - Deploy intellectual and financial capital to drive innovative solutions towards achieving the targets - Effectively manage climate risks and utilize the opportunities - Collaborate with others to achieve maximum effect and ensure transparent disclosure on effort and performance. 
+DPM has actively managed greenhouse gas and energy use and intensity since 2011. For our TCFD assessment, we have used scenario analysis to evaluate the potential impacts of future carbon pricing on our bottom line, which we are now actively tracking and plan to incorporate as part of our procedures for future projects, including any potential future M&A activities. TCFD assessment has also reaffirmed the importance of water use in our operations, which we have measured and reported since our very first sustainability report in 2011.DPM Chelopech set its first decarbonization target in 2011, with the goal of achieving 20% reduction in emissions intensity by 2020 compared to 2009. This goal was achieved in 2013.
+Going forward, we will continue to improve our climate disclosures & risk management, and continue working toward integrating climate change into our core activities.
+Historic performance. 
+DPM’s ongoing investment in plant upgrades and modernization at all sites is resulting in incremental improvements in energy efficiency and a reduction in GHG intensity. At Tsumeb and Chelopech, we are assessing both Scope 1 and Scope 2 GHG emissions following the requirements of the Greenhouse Gas Protocol. Scope 3 emissions are assessed for Chelopech, and the same is planned for Tsumeb starting 2021. Ada Tepe will provide its first full scope 1, 2 and 3 inventory in our next sustainability report in May 2021.
+Chelopech GHG emissions grew from 2009 to 2012, driven by a planned expansion of the site’s production. Since 2012, emissions have remained flat, while production has grown by 130% and the depth of underground mining has reached 600 m. Emissions intensity per tonne concentrate produced have declined by 42%, made possible as a result of the continuous process optimizations and investments in energy efficiency, such as controlled ventilation of mining shafts, and the relocation of the ore crushing process from above to below ground.
+Chelopech’s direct (Scope 1) GHG emissions are much lower compared to indirect (Scope 2 and 3) emissions, a trend which has been driven by the implementation of a mine conveyor belt system for transporting mined material, displacing diesel use (for mobile machinery) with electricity. As half of Chelopech’s total emissions are related to electricity consumption, this poses a significant emission reduction potential related to the transition to renewable energy sources. It should be noted that third party analysis shows that Chelopech is amongst the best performing mines in terms of GHG intensity globally (See section Market implications for our commodities: outlook for gold).
+DPM acquired our Tsumeb operation in 2010, at which point the smelter was in an outdated state and with heavy reliance on coal. The majority of emissions reductions achieved since then are a result of major reductions in use of coal, driven by process optimization and substitution with lower-emissions fuels.
+Indirect (Scope 2) emissions from electricity consumption have increased over time as a result of the emission factor of the electricity mix in Namibia, and the internalization of some of the processes which were previously outsourced. Given that electricity accounts for the majority of Tsumeb’s direct emissions, this presents a significant emissions reduction potential via the transition to renewable energy sources.
+As a result of the plant modernization, compared to 2012 we have currently achieved a 53% decrease of our Scope 1 and Scope 2 emissions from our Tsumeb operation, mirrored by a similar decrease in overall energy use intensity.
+DUNDEE PRECIOUS METALS | Our approach to climate change 25. 
+METRICS & TARGETS 0
+20,000 40,000 60,000 80,000 100,000 120,000 140,000 2012 2013 2014 2015 2016 2017 2018 2019. 
+Chelopech GHG emissions (t CO2)
+Scope 1 Scope 2 Scope 3 0
+50,000 100,000 150,000 200,000 250,000 2012 2013 2014 2015 2016 2017 2018 2019. 
+Tsumeb GHG emissions (t CO2)
+Scope 1 Scope 2
+
+
+Water use intensity in Chelopech decreased by more than 50% in 2012 and has remained stable since then, even though we have introduced pyrite concentrate flotation in 2014. This has been driven by dedicated investments in process optimisation and water reuse. Since 2012, Chelopech has utilized new concentrate and flotation tailings thickeners, together with a filter press that enables water recovery and recycling. This not only minimizes makeup water requirements but also reduces the electricity costs of return water pumps from the site’s TMF due to reduced operational need. Overall, Chelopech currently recycles 90% of all process water used.
+At Tsumeb, we have continuously implemented an extensive surface water management program, including measures related to refurbishment of existing water canals, construction of new water canals, bunds and sumps, construction of a pollution control dam and construction of oil/ water separation systems, pipelines and drainage spines. As a result of these efforts, in 2019 we have achieved 57% reduction in our water intensity compared to 2012. The site currently recycles approximately 45% of its process water.
+DUNDEE PRECIOUS METALS | Our approach to climate change 26. 
+METRICS & TARGETS 0
+0.2 0.4 0.6 0.8 1
+1.2 1.4 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Chelopech GHG intensity (t CO2 / t concentrate)
+Scope 1 Scope 2 Scope 3 0.00 0.10 0.20 0.30 0.40 0.50 0.60 0.70 0.80 0.90 1.00 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019. 
+Chelopech water use intensity (m3/t concentrate) 0.0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 2012 2013 2014 2015 2016 2017 2018 2019. 
+Tsumeb GHG intensity (t CO2/t blister)
+Tsumeb - Scope 1 & 2 0
+10 20 30 40 50 60 70 2012 2013 2014 2015 2016 2017 2018 2019. 
+Tsumeb water use intensity (m3/t blister)
+
+
+DUNDEE PRECIOUS METALS | Our approach to climate change 27. 
+METRICS & TARGETS 2019 2018 2017 2016 2015. 
+Direct GHG emissions – Scope 1 Chelopech (tonnes of CO2) 9,554 9,556 9,765 9,914 10,121. 
+Tsumeb (tonnes of CO2e) 30,504 29,559 41,878 50,577 45,641. 
+Indirect GHG emissions – Scope 2 Chelopech (tonnes of CO2) 64,995 58,401 60,694 62,370 61,683. 
+Tsumeb (tonnes of CO2e) 147,158 114,081 103,982 86,388 75,677. 
+All other indirect GHG emissions – Scope 3 Chelopech (tonnes of CO2) 55,169 61,064 56,876 63,889 55,202 2019 2018 2017 2016 2015. 
+Scope 1 & 2 Chelopech per tonne of Cu concentrate equivalent 0.53 0.49 0.52 0.53 0.49. 
+Tsumeb per tonne of Cu blister produced 3.87 2.93 3.20 3.36 2.70. 
+Scope 3 (Chelopech only) Chelopech per tonne of Cu concentrate equivalent 0.39 0.44 0.42 0.47 0.38. 
+GHG Emissions. 
+GHG Emissions Intensity 2019 2018 2017 2016 2015. 
+Direct Chelopech – per tonne of Cu concentrate equivalent 0.90 0.90 0.95 0.96 0.91. 
+Tsumeb – per tonne of Cu blister produced 7.98 7.32 10.46 13.17 9.72. 
+Indirect Chelopech – per tonne of Cu concentrate equivalent 3.26 3.19 3.25 3.25 3.00. 
+Tsumeb – per tonne of Cu blister produced 12.68 12.96 12.71 14.06 11.17. 
+Energy Use Intensity
+
+
+DUNDEE PRECIOUS METALS | Our approach to climate change 28. 
+METRICS & TARGETS 2019 2018 2017 2016 2015. 
+Total water withdrawn from ANY source Chelopech 1,199,809 1,138,946 951,351 1,100,116 1,328,694. 
+Tsumeb 1,224,027 1,048,615 1,632,455 1,099,101 1,429,746. 
+Water Use 2019 2018 2017 2016 2015. 
+Chelopech per tonne of Cu concentrate equivalent 8.55 8.20 7.08 8.09 9.12. 
+Tsumeb 26.64 21.41 35.86 26.94 31.77. 
+Water Use Intensity
+
+
+dundeeprecious.com. 
+Unlocking resources and generating value to thrive & grow together.
+Contact Us. 
+We welcome feedback on any aspect of our climate-related disclosure. Please share your comments by contacting:
+Nikolay Hristov Vice-President Sustainability and External Relations Tel: +1 416-365-5094 Email: nikolay.hristov@dundeeprecious.com. 
+Jennifer Cameron Director, Investor Relations Tel: +1 416-365-2549 Email: jcameron@dundeeprecious.com. 
+This report has been prepared with the consultancy support of

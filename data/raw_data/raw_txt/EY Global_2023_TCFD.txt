@@ -1,0 +1,829 @@
+Taskforce on ClimateRelated Financial Disclosures Report. 
+EY Global. 
+Calendar Year 2022
+
+
+Contents. 
+EY Global leadership message .................................................. 01. 
+Introduction ............................................................................ 02. 
+Governance ............................................................................ 08. 
+Strategy ................................................................................. 17. 
+Risk management.................................................................... 35. 
+Metrics and targets ................................................................. 37. 
+Appendices ............................................................................. 43 i. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Letter from EY Global Chairman and CEO. 
+On behalf of the EY global organization, we are pleased to present our 2022 report for the Task Force on Climate-Related Financial Disclosures (TCFD).
+Given the global EY presence — nearly 400,000 people and offices in over 130 countries — and the role we’re privileged to play in serving clients in every sector, both private and public, it’s clear that one of our biggest opportunities for activating our purpose and strategy is to be a catalyst for climate action, working with EY clients, peers, people and the communities we share. EY is committed to this role, because this is the only way we can move toward net zero and a future fit for all our stakeholders.
+The TCFD’s foundational framework has enabled this essential collaboration by providing a common approach for climate-related disclosures to the public and private sectors and civil society. It has been adopted by influential jurisdictions, such as the EU, UK, Brazil, and Japan, and informed the work of key standardsetting organizations, such as the US Securities and Exchange Commission (SEC) and the International Sustainability Standards Board (ISSB).
+EY has long championed common, comparable metrics for corporate longterm value creation. We joined with over 100 of our global peers in the World Economic Forum’s International Business Council (WEF-IBC) to develop a set of metrics aligned to the UN Sustainable Development Goals that would enable consistent and comparable ESG disclosures across industries and geographies. As part of the WEF-IBC, we have engaged with the ISSB, SEC and other organizations to offer a private sector perspective on how our proposed metrics could support reporting on a broader spectrum of value in a clear and comparable way.
+The TCFD is also the model for the Taskforce on Nature-related Financial Disclosures (TNFD). COP 15, the United Nations Conference on Biodiversity, underscored that we won’t be successful in tackling climate change and realizing a just transition without also addressing biodiversity loss and damage to our natural systems. This, too, is a complex challenge that will require new public- and private-sector commitments, new forms of collaboration and timely action.
+EY is proud to be participating in the establishment of the TNFD and actively contributing to the development of its nature-based disclosures framework. Just as EY set our Carbon Ambition to be net zero by 2025, we plan to have a similar strategy for nature.
+In keeping with the spirit of the TCFD, this report seeks to demonstrate transparency, illustrating how we are living our purpose through integrated climate action, while candidly acknowledging where we can improve.
+Carmine Di Sibio EY Global Chairman and CEO. 
+April 2023. 
+Steve Varley EY Global Vice Chair – Sustainability Commitment, collaboration and action. 
+We are proud to have completed an assessment in alignment with the TCFD recommendations, allowing us to understand and disclose climate-related risk and opportunity for EY, how that impacts our strategy, and the importance of setting and monitoring climate targets. We recognize that this exercise is critical to understanding if our organization is future-fit and how we’re creating longterm value for our stakeholders – people, clients and society.
+That’s why we are working to integrate our climate goals into our business strategy and use them as a measure of progress on our ambition to create long-term value as the world’s most trusted, distinctive professional services organization. Achieving net zero by 2025 and positively impacting a billion lives by 2030 are goals central to our sustainability ambition.
+Business understands the ‘why’ and the ‘what’ of the climate imperative, but we all seek new pathways to address the ‘how’ of achieving the urgent systemic transformations we need in an ever-diminishing time frame. One thing is clear: No company can do it alone. At EY, we believe climate change is everyone’s business; achieving systems change will require businesses to step outside our company and sector silos to work together in unprecedented ways.
+EY Global leadership message 1. 
+EY Global leadership message Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Introduction. 
+Understanding climaterelated risks and opportunities is crucial to better decision-making and strategy development.
+2. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Elements of TCFD. 
+The TCFD recommendations are structured around four themes that reflect core elements of how organizations operate — governance, strategy, risk management, and metrics and targets (see figure below).
+Source: “Final Report: Recommendations of the TCFD on Climate-related Financial Disclosures,” TCFD website, https://www.fsb-tcfd.org/wp-content/uploads/2017/06/FINAL-TCFD-Report-062817.pdf, accessed 10 June 2019.
+Climate change presents financial risk to the global economy. Investors and shareholders require forward-looking assessments of climate-related issues, including information on how vulnerable organizations may be to climate risks and advice on how they could mitigate these vulnerabilities. Similarly, organizations require a framework for disclosure of climate-related financial information to decide what information should be reported and how it should be presented.
+In response, the Financial Stability Board (FSB) created the industry-led Task Force on Climate-related Financial Disclosures (“Task Force” or “TCFD”) in 2015 to establish a set of recommendations for consistent “disclosures that will help financial market participants understand their climate risks.” In 2017, the Task Force issued a series of recommendations to address gaps in the information disclosed on the financial impact of climate risk across the investment chain. Since then, companies around the world have increasingly embraced these recommendations.
+Still, the latest EY Global Climate Risk Disclosure Barometer shows that there is work to do. While companies continue to improve the coverage and quality of their climate disclosures, many are not considering a holistic view of their physical and transition risks, as well as the opportunities that can arise from these risks. The research also highlights that companies are not sufficiently revealing the financial impact of climate change in their financial statements.
+What is TCFD?
+Metrics and targets. 
+The metrics and targets used by the organization to assess and manage relevant climate-related risks and opportunities.
+Governance. 
+The organization’s governance around climate-related risks and opportunities.
+Risk management. 
+The processes used by the organization to identify, assess and manage climate-related risks.
+Strategy. 
+The actual and potential impacts of climate-related risks and opportunities for the organization’s businesses, strategy and financial planning.
+• Board oversight • Management’s role • Climate-related risks and opportunities • Impact on the organization’s businesses, strategy and financial planning • Resilience of the organization’s strategy • Risk identification and assessment processes • Risk management process • Integration into overall risk management • Climate-related metrics in line with strategy and risk management process • Scope 1, 2, 3 GHG metrics and the related risks • Climate-related targets and performance against targets. 
+TCFD recommended disclosures The TCFD provides a taxonomy for climate-related risks and opportunities 3. 
+What is TCFD? Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Elements of TCFD. 
+TCFD guidelines encourage companies to use climate scenario analysis to investigate and disclose three categories of climate-related information: physical risks, transition risks, and opportunities (see below).
+The TCFD provides a taxonomy for climate-related risks and opportunities. 
+Physical risks. 
+Acute risk Acute physical risks refer to those that are eventdriven, including increased severity of extreme weather events, such as cyclones, hurricanes, or floods.
+Chronic risk Chronic physical risks refer to longer-term shifts in climate patterns (e.g., sustained higher temperatures) that may cause sea level rise or chronic heat waves.
+Transitional risks. 
+Policy and legal risks Policy actions that attempt to constrain actions that contribute to the adverse effects of climate change or policy actions that seek to promote adaptation to climate change.
+Increase in climate related litigation claims being brought before the courts.
+Market risk Shifts in supply and demand for certain commodities, products, and services.
+Technology risk Technological improvements or innovations that support the transition to a lower-carbon, energy efficient economic system.
+Reputation risk Changing customer or community perceptions of an organization’s contribution to or detraction from the transition to a lower-carbon economy.
+Opportunities. 
+Resource efficiency Use of more efficient processes, reduced energy and water consumption, less waste resulting in reduced operating costs. 
+Energy source Use of lower emission sources of energy or decentralized energy sources providing reduced operational costs. 
+Products and services Development and/or expansion of low emission goods and services to increase revenue and expand market share. 
+Markets Increased revenues through access to new and emerging markets (e.g., partnerships with governments)
+Resilience Increased market valuation through resilience planning 4. 
+What is TCFD? Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY support of the TCFD framework and other reporting efforts. 
+Addressing the climate crisis requires decarbonizing a US$100t global economy in what will be one of the largest economic transformations in history.
+Paramount to this transition is providing market participants with relevant climate information that allows them to assess climate risk and encourages investment in adaptation and mitigation efforts. Only by measuring can we benchmark progress, improve decision-making and accountability, and increase trust.
+EY recognized the importance of the TCFD recommendations to achieving this market transparency by becoming a supporter in 2017, the year of their publication. EY is delighted to have the EY Oceania Chief Sustainability. 
+Officer, Mat Nelson, as a member of the TCFD Task Force.
+We continue to engage with standard setters on the measurement and reporting of sustainability, such as the Financial Accounting Standards Board (FASB) and the Global Reporting Initiative (GRI). EY is proud to have Alexis Gazzo, a partner in the Climate Change and Sustainability Services (CCaSS) practice of EY France, participating in the establishment of the Taskforce on Nature-related Financial Disclosures (TNFD) and actively contributing to the ongoing development of the TNFD’s first nature-based disclosures framework.
+We strongly support the work of the International Sustainability Standards Board (ISSB) and the development of robust, globally consistent sustainability reporting standards, including full implementation of the recommendations of the TCFD. We believe these standards should be anchored in a broader climate information architecture, including a globally agreed set of principles for climate finance taxonomies.
+At the same time, we support efforts within the European Union, the US, and other jurisdictions to develop regional standards that respond to local stakeholder needs and expectations. Like the IFRS Foundation, we recognize the need to instill regional flexibility alongside a global standard.
+As sustainability reporting standards evolve, a new, globally consistent assurance standard for sustainability reporting is needed to prevent standards fragmentation and promote consistency, which will be expected, and assumed, by users of the reporting. Providers of assurance — including EY teams — should be subject to robust professional standards, including high ethical standards — including independence — quality and external supervision.
+EY has long been a supporter of evolving the corporate reporting model to better reflect the different forms of value that companies create beyond solely financial value.
+We were a founding member of the Embankment Project for Inclusive Capitalism and are a member of the World Economic Forum’s International Business Council (WEF-IBC).
+As part of WEF-IBC, EY contributed to the collaborative effort to bring a private-sector voice to the importance of reporting on ESG topics — in a consistent and comparable way — and evolving the way we understand how business creates and protects value.
+The EY journey 2017 2018 2019 2020 2021 2022. 
+First EY materiality assessment. 
+TCFD supporter. 
+Long-term value EPIC project. 
+Ripples launch. 
+Launched the Embankment Project for Inclusive Capitalism framework with the Coalition for Inclusive Capitalism. 
+EY NextWave strategy. 
+Set our ambition across long term value dimensions of customer, people, societal and financial – progress measured quarterly. 
+WEF-IBC Stakeholder Capitalism project. 
+Contributed to the development of the WEF-IBC stakeholder capitalism framework. 
+Ongoing support to the Sustainability Markets Initiative & S30. 
+Value Realized report. 
+Carbon Ambition announced. 
+First Global CDP response and internal TCFD analysis. 
+Integrated WEF-IBC metrics into reporting. 
+Preparing for direction of travel. 
+Refreshed materiality assessment. 
+Quantitative TCFD analysis looking at client risks and opportunities. 
+Onboarded 650 offices in our global environmental management system. 
+EY continues to consult with clients, employees, academia, policymakers and broader societal stakeholders on evolving sustainability issues to shape the future EY sustainability journey.
+5. 
+What is TCFD? Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+The process of preparing the research and analysis for the TCFD report provokes self-reflection. Taking stock of our climate governance, considering our climate strategy and risk, and tracking progress against our GHG goals highlights both the achievements for which we can be justifiably proud and where we need to focus our efforts to move faster.
+Where we are today • Acute and chronic physical risks: As one of world’s leading and largest professional services organizations, with offices in nearly every country, our physical climate risks are broadly reflective of the distribution of anticipated climate impacts globally. Given that a degree of climate change is locked in, our physical risks vary little between a business-as-usual (BAU) scenario and a low-carbon economy (LCE) scenario.
+• Served emissions: EY teams serve clients in every sector and every geography, including many of the largest organizations. In this respect, the risks EY clients face become our climate risks as well. These risks are concentrated in six key sectors, based on our calculation of their weighted average carbon intensity and their proportion to our overall revenues.
+• Market demand risk: Clients in many sectors face substantial transition risks, which could significantly affect their demand for EY expertise across a range of services in either scenario. This presents a cross-cutting risk: If EY clients. 
+EY Global TCFD report: an assessment in carbon-intensive sectors fail to decarbonize quickly enough for evolving public opinion, EY could face reputational risks. On the other hand, existing business relationships with carbon-intensive players could mean significant opportunities to aid and accelerate the transformation of these clients and sectors.
+• Reputation risk: Our reputation as a leader on climate action is a key market differentiator and a key factor influencing revenue growth. In either the LCE or BAU scenario, EY could experience significant advantages or disadvantages with talent retention, as well as significant revenue gains or losses, depending on the maintenance or loss of its market-leading climate reputation.
+• Sustainability opportunity: We expect demand for EY sustainability-related services to grow rapidly in both the BAU and LCE scenarios, as the world adapts to climate change and mitigates climate risk. This presents an exciting opportunity to grow our business as we build a better working world.
+EY Carbon Ambition. 
+EY launched our Carbon Ambition in January 2021: to reach net zero in 2025 with a 40% reduction in our absolute GHG emissions across Scopes 1, 2 and 3 emissions (against an FY19 baseline). This is consistent with a 1.5°C reduction pathway approved by SBTi1. This target aligns with what climate science deems necessary to meet the goals of the Paris Agreement to limit global warming to 1.5°C degrees.
+We reached the major milestone of becoming carbon negative globally in FY21. To achieve our ambition of becoming net zero in 2025, we will continue to deliver on our seven-point plan to reduce our greenhouse gas emissions in line with our Science Based Targets initiative (SBTi)-validated 1.5°C degree pathway.
+6. 
+EY Global TCFD report: an assessment Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+What we’re doing well • Progressing the seven actions of our Carbon Ambition: Achievement of our goal of being net zero in 2025, with a 40% reduction in our absolute GHG emissions across Scopes 1, 2 and 3 emissions against an FY19 baseline, is driven by measurable actions in seven key areas. These targets focus on the most important dimensions of EY business activities ranging from business travel to electricity sourcing, offsets and removals, and suppliers. We reached the major milestone of becoming carbon negative globally in our 2021 fiscal year and are making the needed investments to achieve our targets in all seven areas (see Metrics and targets, p. 37).
+• Educating and upskilling: We are equipping EY people with the knowledge and skills needed to understand and respond to both EY climate risks and opportunities and those of EY clients. Our initiatives draw on a variety of strategies, including offering a formal sustainability MBA, engaging EY people in supporting climate positive entrepreneurship, and facilitating employee-led internal sustainability networks (see Climate and sustainability training and engagement, p. 14).
+• Bolstering our climate risk assessment: Our Climate Change and Sustainability (CCaSS) sub-service line worked together with our Quantitative Economics and Statistics group to develop robust modeling to provide the basis for this TCFD report. This market-leading analysis provides us with valuable new insights into our physical and financial climate risks, which we are sharing with stakeholders and incorporating into our strategy. It also provides the foundation for deeper and more comprehensive analysis in future reporting (see Climate-related risks and opportunities, p. 19).
+• Acting as a catalyst for sector transformation: Our cross-service line teams are supporting clients in every sector to achieve their own carbon ambitions and transform their businesses to thrive in a low-carbon economy. Working with a broad ecosystem of EY Alliance Partners, our teams are helping clients reframe their strategies, accelerate their net-zero transitions, govern and operate more effectively, and build stakeholder trust (see Strategy, p. 17).
+• Positioning our sustainability practice for growth: We are investing in the talent and capabilities needed to pursue the sustainability-related service opportunities presented in both the BAU and LCE scenarios in coming years. Our investments include upskilling and headcount, building and acquiring new capabilities, and building an extensive ecosystem of business partners who can help us deliver leading sustainability services to our clients (see Sustainability services opportunities driven by EY’s purpose, p. 34).
+Where we need to focus • Governance: Compensation at EY is not currently directly linked to the achievement of our climate goals. We could increase global and regional climate accountability by directly linking compensation to progress on specific metrics related to our Carbon Ambition and the seven supporting actions we have defined, particularly for senior global executives.
+• Strategy: While climate objectives are a core part of our overall corporate strategy, and we track our progress against our climate ambition, we don’t consistently incorporate sustainability metrics into strategy processes across all functions. Increasing comprehensive sustainability metrics monitoring would allow for more strategic decision-making. The market transition and reputation risks, and the potential sustainability services upside, underscores the continuing need to prioritize key recruitment activities across climate change and sustainability expertise.
+• Risk: This analysis highlighted the breadth of potential risks to EY people, office operations and markets globally, underscoring the need to continue to develop and deploy organization-wide and regional tools, checklists, and training scenarios for climate change-related natural disasters as such events become more frequent and severe. Risk will continue to build out Key Risk Indicators for ESG and climate change-related risks as part of the broader enterprise risk management process.
+Looking ahead. 
+Our TCFD analysis highlights the physical risks EY people and offices face regardless of the decarbonization scenario. It also brings into focus the downside risks and upside opportunities which will depend on EY’s climate reputation and, relatedly, demand for EY services in the coming market transition, whether BAU or LCE.
+Accelerating and catalyzing a low carbon transition would help to mitigate our risks, present substantial business opportunities, and promote the long-term viability of EY clients.
+Over the next year, we will work through the implications of the potential impacts under the two scenarios and develop a plan for addressing the focus areas highlighted by this assessment. We will also consider how we could bring additional depth and rigor to our TCFD analysis.
+We will continue collaborating with clients, peers, governments, civil society, and other stakeholders to help realize the low-carbon transition we need.
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients.
+7. 
+EY Global TCFD report: an assessment Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+At EY, we recognize that our responsibility to minimize the environmental impact of EY business operations extends to EY people and clients and to the wider communities in which we all live.
+Governance 8. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY’s commitment to sustainability and long-term value includes an ambition to become net zero by 2025. On this journey, we became carbon neutral in 2020 and carbon negative in 2022, by offsetting more emissions than we emit.
+Our system of governance allows executive committees and senior management to evaluate the climate-related business requirements and integrate risks and opportunities into strategy and decision-making. Our internal quarterly reporting process drives progress as we track our Carbon Ambition in near real time and make any needed adjustments accordingly.
+EY is the network of member firms on Ernst & Young Global Limited (EYG). Each of the member firms of EYG is a separate legal entity.
+Oversight and coordination of climate-related risks and opportunities is conducted at two levels within EY — at the Global Executive of EYG and at the member-firm level.
+Our responsibility. 
+Collaborating is essential in order to innovate and accelerate towards a more sustainable future. Every organization has a critical and positive role to play, and we’re inspired by those already driving sustainable change.
+Carmine Di Sibio EY Global Chairman and CEO “
+Global Executive (GE) Global Chairman and CEO. 
+Corporate Responsibility Governance Council (CRGC)
+Global Vice Chair Sustainability. 
+Climate Change and Sustainability Services (CCaSS)
+Coordinates EY corporate responsibility ambitions including EY Ripples and non-financial reporting. 
+Oversees EY corporate responsibility ambitions, including the EY Ripples volunteer program and implementation of the Responsible Business Agenda. 
+Provides technical expertise and insights on sustainability, environmental, health and safety and climate change for senior leadership, strategy development and tactical support on projects. 
+Supports the EY Global Chairman and CEO in establishing the climate strategy. 
+Global Corporate Responsibility (GCR)
+EY climate governance structure. 
+Our responsibility 9. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Senior management responsibilities. 
+EY Global Executive. 
+The EY Global Executive (GE) is the highest leadership body of EYG and brings together the pillars of the EY global organization, including the leaders of EY geographic areas, service lines and functions. The GE is chaired by the EY Global Chairman and CEO and comprises the following EY leaders: • Global Managing Partners of Client Service and Business Enablement • Area Managing Partners • Global functional leadership for Talent, Markets, Transformation and Technology • Leaders for Assurance, Consulting, Strategy and Transactions, and Tax service lines • Committee members for Global Accounts and Emerging Markets • One EYG member-firm partner on rotation. 
+GE members are measured against several key performance indicators (KPIs), including execution of the EY NextWave strategy which incorporates goals related to diversity and inclusion, lives impacted through the EY Ripples program, and carbon emissions reduction.
+the GE established to coordinate corporate responsibility across EY. This body includes members of the EY Global Executive and provides senior leadership representation from across EY services lines, functions, and geographic areas.
+The CRGC supports the EY Global Chairman and CEO and oversees the EY Carbon Ambition, including implementation of the EY Global Environmental Statement. The role of the CRGC is to operationalize the global vision, drive global consistency, and share leading practices. It is chaired by the Global Managing Partner – Business Enablement.
+For example, the decision to become carbon negative in 2021 and net zero by 2025 was sponsored by the EY Global Chairman and CEO and approved by the CRGC and the GE.
+Global Chairman and CEO. 
+The EY Global Chairman and CEO is responsible for the EY global corporate responsibility strategy, including climate change and biodiversity. This executive sponsors corporate responsibility initiatives at GE meetings and, once they are approved by the GE, is ultimately responsible for coordinating their implementation.
+This role has ultimate responsibility for assessing and coordinating climaterelated risks and opportunities across the global EY network. The current Global Chairman and CEO, Carmine Di Sibio, launched the EY Carbon Ambition in January 2021 to reach net zero in 2025 with a 40% reduction in our absolute GHG emissions across Scopes 1, 2 and 3 emissions.
+Member firm climate governance. 
+The EY Environmental Statement commits all EY member firms to building a better working world and creating sustainable and inclusive economic growth. It aligns environmental sustainability actions at a member-firm level with those of EY Global and promotes the sharing of leading practices on ESG matters.
+Member firms have a governance structure in place to oversee the management of Carbon Ambition targets related to their local circumstances. Member firms individually develop annual environmental action plans to achieve carbon emission reductions and manage the plans through an internal environmental management system. Actions can span multi-year efforts and can range from retrofitting offices with LED lights, to country- or office-level renewable energy procurement, to finding less carbon intensive travel alternatives.
+Climate KPIs are also included in the scorecards used to inform the performance of EY regions under each Regional Managing Partners (RMPs) quarterly. RMPs oversee the member firm progress year over year.
+Corporate Responsibility Governance Committee (CRGC) Overseeing the EY Carbon Ambition The EY Corporate Responsibility Governance Council (CRGC) is a committee of. 
+Climate change roles and responsibilities. 
+Collaboration is the lifeblood of real progress on mitigating climate risk and achieving the ambition set out in the TCFD. EY has both the responsibility and insights to support accelerating action, whether through engagements at the employee, community, national or international levels. Our role in the S30 is a prime example. We convene chief sustainability officers to share their experiences addressing urgent challenges in health, climate and biodiversity because no one company or industry can do this alone.
+Steve Varley Global Vice Chair — Sustainability “
+10. 
+Climate change roles and responsibilities Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Global Vice Chair — Sustainability. 
+Driving internal and external climate action The EY Global Vice Chair – Sustainability reports to the EY Global Chairman and CEO and leads the overall EY go-to-market sustainability strategy and the strategy to achieve our Carbon Ambition, working with member firms to reduce their carbon footprints. These internal responsibilities include setting climate goals, tracking the progress of the strategy, and refreshing it as needed.
+The Global Vice Chair – Sustainability contributes to the GE agenda annually and connects regularly with other senior leaders. This executive sponsors quarterly sustainability leadership meetings to assess EY’s market position and progress toward achieving our Carbon Ambition.
+This role also drives climate change action beyond EY by supporting EY clients in achieving their own sustainability goals. By collaborating across EY service lines to spearhead the EY global sustainability strategy, the executive in this role helps clients adopt innovations and technologies which create long-term value by enabling environmentally sustainable growth.
+The Global Vice Chair – Sustainability also drives climate action by engaging with corporate peers and civil society. The current executive in this role is a founding co-chair of the S30, a group of 30 chief sustainability officers from some of the world’s leading businesses, which was launched in 2020 in collaboration with the Sustainable Markets Initiative, an initiative launched by His Majesty King Charles III when in his prior role as The Prince of Wales.
+Various other functions across EY support this role in coordinating the identification, assessment and management of risks and opportunities related to climate change.
+Global Corporate Responsibility — Responsible Business. 
+Responsible Business operationalizes our Carbon Ambition and other sustainability-related initiatives globally and reports to the CRGC. This function collaborates with local member firms to translate global initiatives into local opportunities across the three EY geographic areas: Asia-Pacific (APAC); Americas; and Europe, the Middle East, India, Africa (EMEIA). This helps to embed social and environmental value creation across the business and drives global consistency on leading practices.
+Responsible Business also manages nonfinancial reporting processes. This includes the EY annual report, all voluntary nonfinancial reporting, such as CDP, and reporting to the market on declared commitments. This function also manages internal quarterly processes for nonfinancial reporting across a range of metrics.
+Global Vice Chair — Assurance. 
+Climate Change and Sustainability Services The Global Vice Chair – Assurance, who sits on the GE, is an important driver of sustainability at EY and continually seeks to integrate leading practices across the member-firm network. Part of this position’s remit is ultimate responsibility for EY Climate Change and Sustainability Services (CCaSS), a subservice line of the global Assurance practice. CCaSS offers deep technical skills across a breadth of climate-related issues to help businesses protect and create value from sustainability.
+Global CCaSS Leader The Global CCaSS leader is responsible for a multidisciplinary global practice that helps companies understand and respond to risks and stakeholder concerns related to sustainability, environment, health and safety, and climate change. This executive collaborates with EY executive leadership to develop climate and sustainability initiatives, such as the EY Carbon Ambition, and identifying and assessing climate-related risks and opportunities for EY globally and its member firms.
+11. 
+Climate change roles and responsibilities Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Functional group responsibilities. 
+Sustainability is integrated into different business units across EY. In addition to senior management, many teams work to advance our sustainability through a range of strategic and tactical initiatives.
+EY people play an important role in crowdsourcing innovation and climate-related opportunities to the organization. They also are a critical stakeholder in how EY responds to climate change and other sustainability issues.
+Global Sustainability. 
+Develops global sustainability strategies for the network in consultation with Strategy, Risk, CCaSS and other key functions.
+Strategy. 
+Examines global market intelligence and shapes the strategic direction of the network including on climate-related strategy development.
+Business Enablement. 
+Oversees the responsibilities of other functions to make sure climate change is properly integrated across each area of the network.
+Risk Management. 
+Enables responsible growth and consistency across geographies through the management of 15 risk categories, including ESG and climate change.
+Brand, Marketing and Communications (BMC)
+Develops and publishes EY thought leadership on all issues related to capital markets and specifically on the risks and opportunities of climate change across stakeholder groups.
+Responsible Business. 
+Operationalizes the climate change and sustainability strategies for the network including through member firm enablement and manages internal and external nonfinancial reporting processes.
+GCO. 
+Works with all functions to advise on climate related risks and opportunities across the network.
+Talent. 
+Executes recruitment and retention strategy that aligns with EY climate specific ambitions. Ensures EY people have required skillsets to address sustainability issues.
+Service lines, Sectors & Markets. 
+Coordinate the EY market position with clients and broader stakeholders as it relates to a range of industry topics including climate change.
+Strategy and implementation. 
+Corporate Responsibility. 
+Offers EY people and select external Alliance Partners volunteer opportunities that help address climate-related physical risks and respond to real-time events like natural disasters.
+Finance. 
+Manages important financial data and disclosures related to the network’s response to climate-related risks and opportunities.
+Travel, Meetings and Events. 
+Manages the oversight of business travel related emissions through technology solutions and dashboards that are available to everyone across EY member firms.
+Technology. 
+Assesses climate-related risks to EY technology infrastructure and recommends mitigation strategies to risk owners.
+Security. 
+Oversees the business resilience, crisis management and business continuity responsibilities related to all crises, including natural disasters and other climate-related events.
+Supply Chain Services ESG Services. 
+Sets the EY supply chain ESG strategy, including policies, supplier due diligence and SBT learning and engagement. Works with global EY suppliers to ensure 75% have an SBT by 2025.
+Infrastructure Advisory. 
+Identifies and scales renewable energy opportunities for the EY network through existing and emerging energy sources by 2025 as part of RE100.
+Real Estate. 
+Negotiates and structures renewable energy agreements as part of RE100 by 2025. Collaborates with landlords to increase sustainability initiatives across the real estate portfolio through a robust strategy.
+Workplace Services. 
+Engages internal and external stakeholders on the day-to-day operations for EY offices, including when natural disasters occur. Coordinates sustainability data collection at the office level.
+Technical expertise across initiatives. 
+Global Executive Coordinates the global strategy and ensures climate considerations are embedded into the business.
+Motivational drivers — EY People. 
+Technical drivers — CCaSS. 
+CCaSS supports strategy and implementation across all functions. 
+Illustrative examples of EY climate-related roles and responsibilities 12. 
+Climate change roles and responsibilities Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Climate linked remuneration. 
+At EY, sustainability and climate-related goals are indirectly considered in several executive performance evaluations at different levels of seniority.
+As part of the NextWave strategy, carbon reduction targets for executive leadership have been aligned with the EY Carbon Ambition. By including these metrics in leadership performance reviews, this approach encourages the organization to meet the EY Carbon Ambition targets, which are reviewed quarterly. Integrating these metrics into direct remuneration could further increase global and regional accountability at the executive level.
+Many EY member firms offer employees recognition and monetary awards linked to positive action on sustainability and climate change. Awards are given for both direct and indirect contributions to the sustainability program and carbon reduction activities, such as managing a successful staff engagement campaign or implementing a process or behavioral change program with positive environmental impact.
+13. 
+Climate change roles and responsibilities Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+We believe that understanding the issues at the heart of sustainability is critical to achieving real change. That’s why we continue to invest in EY people to build their understanding of the risks and opportunities associated with a net-zero future, the environmental and social impacts of climate change, biodiversity, and other key issues. We are activating an organization-wide upskilling program through a range of initiatives and formats.
+Sustainability & ESG EY badges. 
+EY badges are a domain-based, guided learning program for employees in a wide range of areas. Sustainability badges are designed to help employees learn about the environmental, social, and economic concepts underlying sustainability and give opportunities to apply learning through client engagements, internal projects and beyond. The badges equip employees with the strategies and tools to recommend sustainable solutions and create longterm value for EY clients, people, and society.
+Currently, EY offers sustainability badges in the areas of: • Climate change • Creating long-term value through ESG • Circular economy • Impact entrepreneurship • Responsible and inclusive business • Sustainable finance. 
+Sustainability goals are a core part of our strategy, so whether our people plan on pursuing a career in the field or not, everyone can benefit from learning the skills needed to help advance this work. From short modules to the full EY Masters in Sustainability, we are upskilling to translate a vital range of institutional and industry knowledge into sustainability relevant skills. Our EY Masters in Sustainability is a great resource in particular, working alongside existing roles and experiences, and is the first of its kind.
+Amy Brachio Global Deputy Vice Chair - Sustainability “
+In FY22, EY people began more than 8,000 sustainability-related EY Badges and achieved 5,000 of these sustainability credentials. In addition, business leaders across EY earned about 1,000 badges as part of a leadership education program focusing on key sustainability themes and client issues.
+EY Masters in Sustainability. 
+EY launched the EY Masters in Sustainability by Hult in FY22. It is now available to all employees. The program aims to significantly expand sustainability and climate literacy among EY people and help them apply those skills in recommending sustainable choices and creating long-term value for EY clients, people, and society.
+The program requires completing an EY Ripples Sustainability Design Capstone project. Through the Capstone projects, participants design transformational EY Ripples offerings with the potential to accelerate social and environmental sustainability globally and catalyze EY’s ambition to positively impact one billion lives by 2030.
+SustainabilityNow!
+SustainabilityNow! is a bite-sized introductory learning module designed for anyone who would like to build their confidence and understanding of the major topics in sustainability and climate change. The short module introduces the key issues at the heart of sustainability, describes EY’s sustainability journey, offers ways to engage clients in conversation, and shares how individuals can act to make a difference.
+Climate and sustainability training and engagement 14. 
+Climate and sustainability training and engagement Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Sustainability@EY. 
+EY launched Sustainability@EY in early FY23 as a community-led approach to help EY people grow their knowledge of important climate-related issues, understand how we are helping clients create value from sustainability, and encourage personal and collective action that makes a difference. The program aims to: • Bring EY people together to inspire positive action in a supportive environment • Build knowledge and understanding of key issues, our sustainability ambitions, and our work to help clients create value from sustainability • Build pride and power in our position as a sustainability leader • Support and amplify the work of individuals, teams, and networks around EY that are already taking inspiring action. 
+Employee-led sustainability networks. 
+EY is proud to support employee-led networks focused on the sustainability and ESG agenda. The Eco-Innovators, an employee-led network, is staffed by passionate volunteers whose mission is to use smart thinking and smart technology to solve the climate and ecological crisis. Eco-Innovators connects EY people from all service lines to share ideals and ideas related to climate change and broader sustainability.
+The Sustainable Supply Chain Global Community of Interest is a community of practitioners with experience and interest in sustainable supply chains focused on enabling knowledge-sharing, developing go-to-market capabilities, and driving integration between teams.
+The EY Oceania Sustainability Action Network aims to inspire and empower people in EY Oceania, both as individuals and collectively, to protect and restore our planet by reducing our environmental footprint through making socially and environmentally responsible choices.
+15. 
+Climate and sustainability training and engagement Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Through the EY Ripples program, EY people are devoting their time to SDGfocused projects, bringing together the combined skills, knowledge and experience of the global EY network in pursuit of one shared vision: to positively impact one billion lives by 2030.
+EY Climate Ideation Clinics provide an example of EY Ripples programming focused on combating climate change. Conducted globally, the 2.5-hour virtual or in-person clinics connect with students and mobilize them to harness their energy and creativity to address the climate crisis.
+During the clinics, students think about better answers to the climate emergency through case studies of sector-specific challenges. Participants ideate on a challenge using design-thinking methods facilitated by EY discussion leaders and then vote for the best solutions. The ideas from the EY Climate Ideation Clinics feed into EY insights (e.g., thought leadership, blogs, articles) to help inspire and influence businesses to accelerate sustainability.
+At the same time, across the global EY network, we continue to challenge ourselves to embed responsibility, inclusiveness, and sustainability more deeply in everything we do. This includes participating in global commitments to uphold and promote human rights, and to innovate toward a net-zero future.
+By engaging with environmentally-focused nonprofits and impact enterprises, EY Ripples gives thousands of EY people direct experience with the real-world challenges and opportunities of climate action every year.
+EY Ripples: Ambition and focus areas. 
+Together with EY clients, suppliers, people and alumni, we aim to directly and indirectly positively impact:
+Mobilize people, ecosystems and networks. 
+Impact 250 million lives by 2025. 
+Impact 1 billion lives by 2030. 
+Examples. 
+Supporting the next-generation workforce. 
+Supporting young and underserved people to develop the mindsets and skills they’ll need to find and sustain meaningful work 1 Empowering the next generation of girls in STEM through the gamified EY STEM App. 
+Working with impact entrepreneurs. 
+Helping scale small and growing businesses that are driving progress toward the UN Sustainable Development Goals (SDGs) 2 Immersive project to help M-KOPA to connect the disconnected with pollution-free lighting. 
+Accelerating environmental sustainability. 
+Driving the adoption of behaviors, technologies and business models that protect and regenerate the environment, while unlocking economic opportunity 3. 
+Challenging students to ideate better answers to the climate crisis through Climate Ideation Clinics. 
+EY Ripples. 
+EY Ripples 16. 
+EY Ripples Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Aligning on the needs and interests of all stakeholders is fundamental to executing on the EY NextWave strategy and achieving our ambition to deliver longterm value to EY people, clients, and society.
+Strategy 17. 
+In pursuit of reducing the environmental footprint of offices, the EY Real Estate Services team looks for alternative building materials for office design projects. In the EY Doberman Stockholm office, mycelium wall panels grown from forest fungus line the workspace as shown above. This also incorporates waste products from agriculture, paper production, and other sources with soundproofing and natural fire resistant qualities, while also being 100% compostable.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY conducts formal materiality assessments to prioritize topics that are both most important to our business performance and ones where we can have the greatest impact on stakeholders.
+Our most recent materiality assessment, based on the concept of double materiality, was conducted in FY22 by EY CCaSS professionals guided by the GRI framework and considering future reporting requirements. The robust process included: • Senior leadership input • External stakeholder interviews with clients, regulators, and academics • Industry and peer analyses • Employee focus groups • Internal and external media and communication reviews • Impact analysis. 
+The results of the most recent assessment are indicated in the materiality matrix on the right.
+All topics indicated are material to EY. The topics in the upper-right quadrant are the most material to EY stakeholders and EY business performance, and with opportunity for greatest impact.
+While we have prioritized the most material topics, we acknowledge the interconnected nature of ESG topics and consider all topics listed on the matrix as areas of importance.
+Aligning to our materiality assessment. 
+The topic of climate change and sustainability impact through client service emerged as the most material for EY in our assessment, including: • Integration of sustainability into EY systems, processes, and delivery models • Client services and advice aligned to the scientific imperative • Building sustainability capability across partners and people • Evolving existing services and innovating new services, including developing tools and methodologies • Contribution to methodologies, standards, and policies • Impacts on key global challenges including, but not limited to, biodiversity, circular economy, water, education, human rights, water, and food security. 
+Material theme: People value Societal value Client value Financial value. 
+Increasing impact. 
+Importance to business performance. 
+Climate change and sustainability impact through client service. 
+Trust in capital markets and audit quality. 
+Employee health and wellbeing, compensation and benefits Operational environmental footprint. 
+Informing public discourse Integrity, ethics and independence. 
+Diversity, equity and inclusiveness. 
+Tax strategies. 
+Global governance and geopolitics. 
+Responsible and sustainable supply chain. 
+Economic contribution. 
+Community engagement and contribution. 
+Privacy and data security Digital technology. 
+Client and engagement choice Talent attraction and retention Workplace culture, purpose and engagement. 
+Learning and development. 
+EY materiality assessment matrix 18. 
+Aligning to our materiality assessment Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+For this TCFD assessment, EY undertook a substantive analysis of the climate risks and opportunities faced by EY employees, operations, clients, and society. We applied a people-centered approach in recognition of the essential nature of EY people, talent, and community to high-quality service delivery, effective business continuity, and long-term value creation.
+An EY steering group representing key areas of the business, including global and regional leadership, real estate, procurement, risk management, talent, technology and sustainability guided the analysis. This group provided qualitative feedback and generated quantitative rankings of risks and opportunities based on their financial materiality.
+These top risks and opportunities were further refined and prioritized for risk and financial impact modeling based on stakeholder priorities, data availability and supporting literature (see table top right).
+Some risks identified were designated for future assessment, given data and analysis requirements (see table bottom right).
+Climate risks and opportunities prioritized for the EY TCFD assessment. 
+Category Type Risk/opportunity description Primary impact. 
+Physical Chronic Business interruption caused by rising mean temperatures, changes in precipitation patterns and variability in weather patterns, and sea level rise Operations. 
+Physical Acute Business interruption caused by increased frequency of hurricanes, wildfires and flooding events Operations. 
+Transition Reputation Increased stakeholder concern (clients and customers) due to reputational damage, including new disclosure and compliance requirements related to climate related disclosure and reporting Services. 
+Transition Market Market demand changes as energy transition progresses, driven by changing policies and regulations Clients/Services. 
+Opportunity Services Increased demand for sustainability-focused services Services. 
+Opportunity Market Enhanced brand value if climate leadership position is maintained and grown Services. 
+Risks for future consideration. 
+Category Type Risk/opportunity description Primary impact. 
+Physical Chronic Labor productivity changes due to impact of rising mean temperatures Operations. 
+Transition (Physical) Market (Chronic) Market demand changes due to impacts of extreme temperatures Clients. 
+Transition (Physical) Market (Acute) Market demand changes due to impacts of increased frequency of extreme weather events Clients. 
+Opportunity Resource Efficiency Increased uptake of new technologies to reduce reliance on air travel for internal and/or client meetings Operations. 
+Climate related risks and opportunities 19. 
+Climate related risks and opportunities Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY conducted a TCFD-aligned quantitative scenario modeling of the prioritized list of physical risks, transition risks, and opportunities under “business-as-usual” (BAU) and “low-carbon economy” (LCE) scenarios for multiple future time horizons.
+The BAU and LCE scenarios are aligned with IPCC AR6 Shared SocioEconomic Pathways (SSPs) to understand the range of potential financial impacts and how various socio-economic factors will influence risks and opportunities in the future.
+BAU is representative of current levels of inaction regarding decarbonization, while LCE presents a more realistic and practical low-carbon scenario than the increasingly improbable SSP1-RCP1.9.
+BAU: Business-as-usual or high-emissions scenario (SSP5-RCP8.51) LCE: Low-carbon economy scenario (SSP1-RCP2.6)
+Degrees of global warming 4-5°C by end of the century Below 2°C by end of the century. 
+Importance to EY • Selected to show the maximum climate impacts possible for EY based on the network’s current operational footprint and revenue • Selected to show the potential impacts for EY from a sharp pivot toward aggressive decarbonization and climate change mitigation. 
+Primary impact • Physical risks are more pronounced • Increasing frequency and intensity of acute risks such as floods, cyclones and wildfires • Increased chronic risks from rising temperatures and changing precipitation patterns • Transition risks are more pronounced • Market shifts quickly to renewables and away from fossil fuels • Risk of noncompliance to new climate-related disclosure requirements • High reputational risks due to greater stakeholder pressure and expectations. 
+Socioeconomic and policy factors • SSP5: Fossil Fueled Development (Taking the highway) • Current emissions double by 2050 with low priority for environmental issues • Global economy grows quickly, with energy-intensive lifestyles, strong globalization and weak international climate regulations • Low-income regions start linear transition to global carbon pricing • SSP1: Sustainability (Taking the green road) • Inclusive development and strong, swift action on climate, via global carbon pricing regulation, high stakeholder pressure regarding ESG and rapid technological innovation to decarbonize sectors • Mandatory climate-related disclosures for public companies, high voluntary adoption by private entities, and rapid increase in number of organizations seeking climate-related audit and sustainability services 1 SSP = Shared Socio-economic Pathway, the scientific socioeconomic scenarios paired with the Representative Concentration Pathway (RCP) models from the Intergovernmental Panel on Climate Change (IPCC), the UN body for assessing climate science; Shared Socio-economic Pathways: An Overview. 
+Our climate scenario analysis. 
+EY TCFD assessment scenarios 20. 
+Our climate scenario analysis Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+The analysis of physical risks focused on potential impacts to the 200 largest offices within the EY real estate portfolio, with consideration of revenue and staff exposed to various future climate hazards. The analysis of transition risks and opportunities considered potential revenue implications of various market, policy, and reputational factors.
+As a professional services organization, some of EY’s direct physical and transition risks are lower than those of many other companies. But in some ways, the risks clients face become our climate risks as well. This approach, therefore, models the expected shifts that clients could experience in a lowcarbon or business-as-usual future, to examine the resilience of the EY business model and sustainability strategy, under either scenario.
+Overall, the modeling takes a broader lens: rather than modeling climate impacts solely based on the value of EY physical assets, EY has sought to analyze risks to employees, client businesses, communities, and economic sectors due to climate change and associated societal transitions. • Five risks and two opportunities were prioritized • Chosen based on qualitative feedback and quantitative rankings of financial materiality • Used input from EY stakeholders in Workshop 1 plus sectoral interviews • Examined a BAU and a LCE scenario • Utilized commonly used socioeconomic assumptions to build two distinct scenarios • Used qualitative insights to provide a high-level narrative comparison between scenarios • For physical risks, we analyzed the top 200 largest EY offices • Leveraged EY-specific data, proprietary modeling tools, highquality publicly available data and academic literature • Ability to model certain risks and opportunities depended on data provided by EYG and state of current research • Where possible, risks were modeled quantitatively to assess direct financial impact and potential revenue implications for EY • Highlighted a range of possible financial outcomes under short, medium and long-term timeframes • Normalized risk and opportunity scores were developed to more easily compare the relative magnitude of impacts • Full TCFD assessment and modeling results were presented to EY stakeholders in Workshop 3 • EY stakeholders agreed the proposed disclosure topics and next steps for additional analysis • Results of the assessment will cascade through the network to be leveraged across interested member firms. 
+Approach to assessing climate-related risks, opportunities and financial impact. 
+A five-step approach was carried out to quantitatively evaluate climate-related risks, opportunities and financial impact. The results of the scenario analysis approach are in the following section of this report.
+Prioritized top risks and opportunities 1. 
+Developed scenario narratives and assumptions 2. 
+Gathered data 3. 
+Developed quantitative models 4. 
+Presentation of results 5
+21. 
+Our climate scenario analysis Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Risk score 1 50. 
+Revenue (US$b) 1 70. 
+WACI (tCO2e/US$m) 1 200. 
+Risk or opportunity type Description Impact area Metric (unit)
+Scenario analysis results. 
+BAU scenario LCE scenario. 
+Current 2030 2050 Current 2030 2050. 
+Physical risk. 
+Chronic. 
+Business interruption and employee health and safety impacts caused by rising mean temperatures, changes in precipitation patterns, variability in weather patterns and sea level rise. 
+Operations Risk score. 
+Acute. 
+Business interruption and employee health and safety impacts caused by increased frequency of hurricanes, wildfires, flooding and other severe weather events. 
+Operations Risk score. 
+Transition risk. 
+Market risk Market demand changes as energy transition progresses, driven by changing policies and regulations. 
+Clients/ Services WACI (tCO2e/US$m)
+Reputation opportunity/risk. 
+Enhanced brand value if climate leadership position is maintained and grown/ reputational damage if seen as a laggard Services. 
+Difference in annual revenue (US$b), leading vs. laggard — —
+Services opportunity Increased demand for sustainabilityfocused services Services Projected annual revenue (US$b)
+Heatmap of global risks BAU vs. LCE 22. 
+Our climate scenario analysis. 
+The EY Real Estate Services team has developed a Sustainability Checklist embedding sustainable practices in the end-to-end delivery process for offices, including selecting sustainable buildings. The EY Drammen Norway office is housed in a world-leading wooden building, the third-tallest globally, constructed without steel and concrete to minimize embodied carbon. The heavy timber also helps sequester carbon dioxide. Built with locally sourced Norwegian wood and other environmentally-conscious materials, the project saved 78,000 litres of diesel, corresponding to approximately 200tCO2e.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Long-term, chronic changes in climate patterns already affect the health, safety, and quality of life of people around the world. Chronic climate effects include decreasing electric grid reliability and more frequent power outages, water and food insecurity, damage to critical infrastructure, and changes in the incidence of diseases. Sectors vulnerable to temperature and precipitation variability, such as agriculture, increasingly suffer negative economic impacts.
+Current impacts to EY. 
+With nearly 400,000 people and member firm operations in over 130 countries, EY is already seeing notable impacts to people, clients, and operations due to chronic climate change, including rising mean temperatures, changes in precipitation patterns, variability in weather patterns, and sea level rise.
+For instance, in 2022 we experienced employee and service delivery disruptions due to prolonged high temperatures in India, Pakistan, and Europe, and extreme drought conditions in many regions globally.
+Growing risks. 
+Reflecting the built-in nature of climate change regardless of mitigation efforts, chronic physical risks to EY increase markedly in both the BAU and LCE scenarios, with only moderately greater potential impacts under business as usual.
+Chronic physical risks Our modeling indicates that: • Up to 90 of our top 200 offices are currently most exposed to chronic climate risks: 17 to drought, 30 to sea level rise, and 86 to increasing temperatures.
+• Up to 44% of current revenues are particularly exposed to chronic climate risks: 10% to drought, 14% from sea level rise, and 43% to increasing temperatures.
+• Under both scenarios, EY chronic physical risks continue to increase markedly through 2050.
+• Approximately 50,000 more EY employees could be exposed to risks from drought conditions.
+• Revenue exposed to sea-level rise and high temperatures could increase 5X, on average, under either scenario.
+• Sea level rise could threaten the viability of continuing EY operations in certain coastal locations (e.g., Bangkok, Thailand).
+• Revenue exposed to drought conditions could increase by more than 7X under either scenario.
+Our response. 
+EY maintains a flexible property leasing strategy to mitigate the risk of sea level rise to EY offices on coastlines. Agile leases allow EY to focus on three- to fiveyear terms instead of traditional 10- to 15-year leases. Our global real estate policies address a range of factors when determining locations for new facilities, including energy cost, availability, and climate change risks.
+The global real estate function requires each potential new office site to properly address a series of environmental sustainability-related concerns in the request for proposal process, while continually reassessing the risk to existing offices and acting when necessary.
+For example, in 2018, EY US moved the Miami, US, office inland from a location on the coast due in part to sea level rise concerns. Siting considerations also include temperature rise, given the potential health impacts for EY people, and the emissions and costs associated with cooling buildings.
+For the security of EY people, Global Security is further developing agile solutions for teams to manage climate-related crises beyond what is already in place, as events increase in frequency and severity globally.
+Next steps. 
+Given the magnitude of chronic risk to our people, clients, and our business under both scenarios, we plan to take the following steps: • Develop additional materials to train our Crisis Management and Business Continuity Teams on climate-related crisis scenarios • Enhance our Business Resilience Framework to manage climate-related crises • Mitigate significant chronic physical risk in the near- and medium-term, regardless of future climate scenario • Set a region-specific high-exposure threshold for each physical hazard • Conduct further analysis of high-opportunity (high-risk) offices, and offices that serve highly vulnerable sectors, and develop office- or region-level plans to improve resilience to chronic physical impacts • Further develop our building selection criteria to include more sustainabilityrelated factors into the location recommendations 23. 
+Chronic physical risks Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Interactive map. 
+The interactive map on this page indicates the climate physical risk to EY offices in two views: • The first view shows overall physical risk levels by EY geographic region.
+• The second view highlights the individual EY offices with the overall highest physical risk scores.
+In the regional view, India emerges as one of the most important centers of physical risk due to its exposure to climate effects and the large number of EY people employed there. Greater China, Japan, ASEAN, and the US regions also have high EY workforce levels and high physical risk scores.
+The locations of individual offices at overall greatest physical risk reflect the regional risk profiles. They are offices in the same high climate risk regions – and nearly all of them in coastal cities.
+Note: Only the first regional view will be visible when printed.
+24. 
+Chronic physical risks. 
+Physical risk landscape by EY region EY offices at highest overall physical risk. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Acute climate hazards are ones of relatively short, discrete duration, such as floods, wildfires and severe storms. The impacts of acute hazards include the short-term inability to reach the office or deliver work; harm to employee health, safety and homelife; and shocks to affected economic sectors.
+Acute hazards often also cause broader socioeconomic disruptions: employee displacement and migration, destruction of infrastructure, power outages, lack of potable water and inability to access health care, among others.
+Current impacts to EY. 
+EY people, clients, and operations are experiencing considerable impacts from acute physical risks from climate events. Recent examples of events that disrupted employee lives and interrupted our ability to deliver services include: • Hurricane Maria in 2017, the unusual winter storm in Texas in 2021 and Tropical Cyclone Batsirai in 2022 • Multiple intense Australian wildfires in recent years • Outbreaks of waterborne and other diseases following intense monsoon flooding in Pakistan in 2022. 
+Acute physical risks Growing risks. 
+Climate change is expected to increase the frequency and intensity of severe weather events, which could threaten the health and safety of EY employees, leading to potential business continuity, employee support, and disaster response implications for the organization. Additionally, these events could threaten EY operations and clients by disrupting access to critical infrastructure, including power, telecommunications, water, and transportation.
+Acute climate events also have the potential to disrupt client operations and business models, which could have negative impacts to EY in the long-term, particularly for client sectors that are vulnerable to physical climate changes (e.g., agribusiness, power and utilities, government and infrastructure.)
+These effects will increase in both scenarios, with greater impacts in a BAU scenario: • Many important EY offices, representing 50,000 to 100,000 employees and up to one-third of EY global revenues, are already highly exposed to acute physical climate risks.
+• Revenue exposure to acute risks could increase by 5X by 2050 in either scenario.
+• The number employees exposed to acute risk is projected to increase by up to 10% in an LCE scenario and up to 25% in a BAU scenario.
+Our response. 
+We recognize that extreme weather events can harm our people and impair our ability to serve clients. Having assessed acute physical climate risks at the office level, EY employs a flexible work strategy to accommodate personnel when a member firm’s operating capacity is threatened or damaged by an extreme climatic event.
+Our strategy includes several measures to mitigate their effects and enable operations to continue without the need for our people to be on site to work in teams or provide service to clients, such as: • Promoting a strong culture of remote and flexible working • Leasing of co-working spaces, which can be used to accommodate personnel when an office building faces risks from a climate event or other natural disaster • Deploying online working and mobile communications technologies • Maintaining robust emergency response, crisis management and business continuity plans that are reviewed and tested frequently across EY member firms. 
+Next steps. 
+We are aware of how acute physical risk can disrupt the lives of EY employees, clients, and EY member firms’ businesses. In the coming years, EY expects to embed a more formal risk assessment for building locations to incorporate climate-related risks into our overall enterprise risk management process. Our current physical risk analysis equips us to plan more strategically for acute risk mitigation, employee assistance resources, and possible office relocation.
+Our next steps include: • Setting a region-specific high-exposure threshold for each physical hazard • Conducting further analysis of high-opportunity (high-risk) offices and offices that serve highly vulnerable sectors, and develop office- or region-level plans to improve resilience to acute physical impacts • Assessing the cost of relocating an office within a city or region (from proposal through implementation) and considering establishing a formal climate riskrelated office relocation protocol 25. 
+Acute physical risks Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Having a granular understanding of each risk by office is critical to developing effective mitigation strategies.
+The chart on the right indicates the headcount (bubble size) and physical climate risk profile (color) of each of the largest 200 EY offices in terms of number of people, grouped by geographic area.
+Overall physical risk scores for regions and areas can mask important differences between offices within geographies so we have analyzed this data across multiple risk categories, time horizons and other datasets.
+Physical risk scores are for the low carbon economy scenario/SSP1-RCP2.6 (1.8°C) for 2020. 
+Climate-related physical risk by EY office. 
+Americas Asia Pacific EMEIA. 
+Staff (% of total) 0.25% 1% 1 100. 
+Physical risk score 26. 
+Acute physical risks Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Accelerating the low carbon transition through sectors. 
+Client climate risks are our risks. 
+EY member firms’ global presence and their role in capital markets mean that EY clients’ climate risks and opportunities in the transition to a low carbon economy become our own.
+Our transition risks and opportunities arise primarily from clients in six sectors due to their carbon intensity and their proportion to our overall revenues: • Advanced Manufacturing & Mobility • Consumer Products & Agribusiness • Financial Services • Government & Public Sector • Energy & Resources • Technology, Media & telecommunications. 
+Our sector teams are helping our clients to mitigate climate risks and seize new opportunities with value-led sustainability.
+EY is also building a global ecosystem bringing together the private sector, government, and civil society to catalyze the collaborations in all sectors needed to accelerate achievement of climate ambitions.
+Building a global ecosystem. 
+Creating and protecting value through value-led sustainability Moving further, faster, toward net zero • Reframe strategy • Accelerate transition • Build trust • Govern and operate. 
+Key sector focus to create and protect value. 
+Four strategic priorities, around decarbonization and climate change, that help our sector clients respond to the drivers.
+Sustainable finance and government policy underpin these four dimensions.
+Stakeholder expectations. 
+Regulatory change. 
+New business models. 
+Changing markets. 
+Climate risk. 
+Risks and opportunities in the low carbon transition. 
+Transformation Long-term value Drivers • Resilience • Decarbonization • Sustainable stakeholder impact • Measurable value • Better working world. 
+The Sustainable Markets Initiative, ISSB, GRI, CDP, FCLT Global, TCFD, TNFD, WBCSD, RE100 and the WEF (notably in the Alliance of CEO Climate Leaders, the First Movers Coalition and the WEF-IBC Stakeholder Capitalism Metrics initiative) 27. 
+Accelerating the low carbon transition through sectors Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Consumer. 
+Helping sector clients: • Transform their business to create long-term value from sustainability • Select and scale the right technologies to deliver innovative and sustainable packaging solutions • Operationalize a sustainable and responsible supply chain with data and analytics • Decarbonize the food supply chain. 
+Case study: Developed a decarbonization logistics roadmap to support a $61b multinational manufacturer in achieving carbon zero logistics operations in North America and Europe.
+Advanced Manufacturing & Mobility. 
+Helping sector clients: • Accelerate their business transformation journey to eMobility • Reimagine the sustainability experience along their entire value chain and the customer journey • Set actionable net-zero carbon goals and milestones, and achieve them • Identify the policy levers required to enable intelligent mobility in their jurisdictions. 
+Case study: Provided holistic consulting to a global automotive company concerning the mobility implications of the worldwide regulatory shift towards the Paris-aligned objective of net zero by 2050. These comprehensive insights made it possible to align the board’s new strategy to these relevant mobility topics.
+In addition to providing assurance on all aspects of emissions reporting, and helping clients prepare for upcoming mandatory non-financial reporting, EY sector teams are helping EY clients to mitigate climate risks and seize new opportunities with valueled sustainability.
+Sector team case studies. 
+Energy & Resources. 
+Helping sector clients: • Set their corporate sustainability strategies and build the operating models, skills and workforce required to deliver it • Build accurate and reliable climate models, including scenario modeling, which support the development and execution of their climate strategies • Leverage digital, data, analytics and technology solutions to develop robust reporting and performance tracking systems. 
+Case study: Supported a Malaysian energy company in determining the climaterelated risks and opportunities for its business model and existing strategy; helped the client to develop a new net-zero emissions strategy and pathway.
+28. 
+Sector team case studies. 
+The mycelium wall is not only an art installation that captures attention, but also goes beyond sustainable to being regenerative and makes a net positive impact to the environment.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Financial Services. 
+Helping sector clients: • Define the role they want to play in the transition, and how they can best support their clients and retail customers to change, including creating new products and better ways of doing business that are relevant for the new markets and new kinds of consumers that will emerge • Measure comprehensive long-term value, so they can support the right projects and innovations, and tell a compelling, credible story about the difference they are making. 
+Case study: Built an evidence-based business case for integrating climate and ESG factors into the investment decision-making process of a leading UK based asset owner. This enabled the client to respond to evolving market pressures including from peers, regulators and clients.
+Government & Public Sector. 
+Helping sector clients: • Accelerate diffusion of low-carbon technologies and infrastructure-based solutions by recommending specific policy interventions and regulations • Assess the investments needed and capital available to achieve a green transition across sectors and countries • Facilitate involvement of institutional investors, corporations and other private sector capital sources in low-carbon investments • Identify and implement the technological drivers which will have the greatest potential impact to accelerate the transition towards the green economy. 
+Case study: Developed the strategy and led the execution for a significant renewable energy plant that is scaling business, manufacturing and engineering skills and capabilities for a large North African country.
+Technology, Media & Telecommunications. 
+Helping sector clients: • Review the current state of circular economy and GHG emissions reporting and initiatives, identify roadblocks and develop a roadmap for implementation • Develop strategic options for integrated energy and carbon management • Design and deploy products and services that help consumers and businesses be more sustainable. 
+Case study: Developed an electrification strategy to transition a leading telecommunications company’s fleet of over 25,000 vehicles to zero-emissions vehicles by 2035.
+29. 
+Sector team case studies. 
+Biophilia is a part of Workplace Guidelines for EY offices. The use of natural plants improves air quality by sequestering carbon dioxide in the EY Stockholm office along with many others since the program started in 2019.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+As the world moves to a low-carbon economy in response to the climate crisis the businesses seen as leading the transition through enabling products and services, and their own purpose-driven climate mitigation initiatives, will benefit from significant market upsides. Greater access and retention of talent, lower capital costs, new revenue opportunities, and enhanced stakeholder relationships and other upsides will accrue to climate leaders. Climate laggards, in contrast, will be seen as “part of the problem” and experience reduced value creation opportunities.
+Reputation: impacts for EY. 
+EY’s reputation as a leader on climate action is currently a key differentiator in the market among competitors, and a key factor influencing revenue growth. EY clients increasingly see environmental responsibility as an important factor in selecting organizations with which to do business, as demonstrated by their requests for information about our environmental programs and performance. Similarly, attracting and retaining the best talent depends on demonstrating both commitment and action on climate.
+In either the LCE or BAU scenario, EY could face significant advantages or disadvantages with talent retention, as well as significant revenue gains or losses, depending on maintenance of or failure to maintain a market-leading climate reputation.
+Compliance with changing and emerging climate-related regulation could influence EY’s reputation. Since market-leading regulatory compliance is inherent to EY values, EY is unlikely to face substantial direct compliance risk from increasing climate-related regulations. However, sustainability audit and assurance engagements are expected to increase substantially in either scenario, potentially leading to an increased risk of regulatory exposure in a very small percentage of such engagements, with minimal financial impact.
+Our projections of revenues to 2050 in the LCE and BAU scenarios as either “climate leaders” or “climate laggards” indicates: • Reputational impacts could be upwards of $100 billion in cumulative revenues between 2020 and 2050 to be gained or missed as a leader or laggard, respectively.
+• The biggest upside and downside reputational risks do not lie between leader and laggard status within scenarios; rather they lie between leader and laggard status across scenarios.
+• In both the LCE and BAU scenarios, the difference in projected 2050 revenues between leader and laggard status is about 3%.
+• However, being a leader in the LCE scenario yields annual revenues 9% higher than being a leader in the BAU scenario, and 11% higher than being a BAU laggard.
+Transition risks and opportunities: reputation 30. 
+Transition risks and opportunities: reputation. 
+The use of local furniture brands lowers the office carbon footprint by reducing transportation. Additionally, our Office Design Guidelines specify using products with a high percentage of postconsumer recycled content by weight, a high percentage of recyclability by weight, and low embodied carbon. Re-used and re-purposed furniture pieces are also part of the new office design standards.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Our response. 
+A positive reputation on climate depends on establishing trust with stakeholders through transparency, demonstrated impact and challenging ourselves to go further, faster in decarbonization. To this end, we have taken the following steps: • Committing to becoming carbon negative in 2021 and achieving net zero in 2025. We became carbon negative in calendar year 2021. We will reduce our absolute emissions by 40% across Scopes 1, 2 and 3 by 2025, against an FY19 baseline, consistent with a 1.5°C science-based target approved by the SBTi, enabling EY to reach net zero in 2025.
+• Publishing Value Realized, our annual report on the impact we have on our stakeholders — EY people, clients and society — as we execute on the EY NextWave strategy and ambition to create long-term value as the world’s most trusted, distinctive professional services organization.
+• Engaging our people in global corporate responsibility initiatives, including EY Ripples and Eco-Innovators, our employee-driven sustainability initiative designed to realize our NextWave ambitions including carbon reduction.
+• The EY public policy function monitors international, national, and local legislative and regulatory developments that impact member firms. In the climate space, this may include a variety of energy, tax, supply chain and climate finance-related legislation or regulations, for example. Our teams work with experts throughout the businesses to closely monitor developments and analyze proposals and legislative text for potential impacts to the EY network and its clients.
+Revenue risk from reputation decline 80 70 60 50 40 30 20 10 0
+2030 2040 2050. 
+RCP 2.6 RCP 8.5. 
+Sustainability services opportunity 2030 2040 2050. 
+RCP 2.6. 
+RCP 8.5. 
+LCE BAU. 
+Transition risks and opportunities vary significantly based on global climate scenario. 
+Leading to average climate reputation scenario Scenarios for non-audit sustainability services opportunity 31. 
+Transition risks and opportunities: reputation Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+The transitions to a low-carbon economy will likely result in sizeable shifts in market demand for professional services in the near- to medium-term, driven by changing international frameworks, national low-carbon policies, public pressure, and shifting corporate priorities.
+For example, potential SEC regulations in the United States and the imminent implementation of new sustainability reporting requirements in the EU are expected to alter the sustainability ecosystem dramatically.
+Yet, market demand transition risks are difficult to quantify, as they entail largescale, long-term projections that are projected to reshape complex economic systems and require nuanced assumptions about how economic and sociocultural systems interact with markets, public policy, and social pressure.
+As a professional services organization, our own operational carbon emissions are relatively low, which means EY is unlikely to face substantial direct transition risks from policy or regulatory actions, such as carbon pricing. However, EY clients in many sectors face substantial transition risks, which could affect their demand for EY expertise across a range of services.
+Since our clients’ transition risks are our transition risks, EY conducted this analysis of projected macroeconomic shifts in carbon intensity out to 2050 to investigate our indirect transition risks in a LCE or BAU scenario. We modeled the weighted average carbon intensity (WACI, measured in tCO2e/$m) of our leading sectors by proportion of revenue and aggregated the results based on our specific client and revenue portfolio.
+. Transition risk: market demand. 
+This approach provides a hotspot analysis of expected transition risks associated with EY client sectors under either scenario, which will help EY focus our decarbonization and transformation services on the highest-risk and highestopportunity client sectors.
+Transition risks and impacts. 
+Although market demand transition risks are higher in the LCE scenario, EY client carbon intensity is projected to decrease by at least ~40% by 2050, even in BAU scenario. This means that EY should be prepared for substantial shifts in demand for services, due to increasing regulatory, client, and stakeholder pressures, in either scenario.
+Expected transition impacts would likely affect all EY service lines and offerings, with the largest impacts foreseen for CCaSS, Audit, FAAS, Tax, and carbonintensive industry account teams. In either scenario, the carbon intensity of EY clients should decline noticeably by 2050: either by ~40% in a BAU future, or by ~98% in a LCE scenario, to almost zero.
+Market transition risks under BAU. 
+The primary sectors driving EY client WACI values fall within Energy & Resources, including Power & Utilities, Mining & Metals, and Oil & Gas. In a BAU world, EY’s continued relationships with carbon-intensive clients mean that EY’s global WACI would decline more gradually, from about 180 tCO2e/$m currently to about 100 tCO2e/$m /$m in 2050. In 2050, highest BAU WACI values by sector include Power & Utilities at ~1,135 tCO2e /$m, Mining & Metals at ~615 tCO2e /$m, and Oil & Gas at ~290 tCO2e/$m.
+The Americas and EMEIA areas would be projected to decarbonize by about two-thirds and one-third, respectively, by 2050, while the Asia-Pacific area WACI would remain at approximately its current levels. The Africa, MENA, and Greater China regions would be the main geographic drivers of high WACI values under BAU.
+Market transition risks under LCE. 
+In a LCE scenario, the overall EY client WACI would decline much more rapidly, falling to one-third of the current level by 2030. By 2050, most sectors would reach a WACI near zero, although the Mobility subsector would remain at ~20 tCO2e /$m, Oil & Gas at ~7 tCO2e /$m, Mining & Metals at ~4 tCO2e /$m, and Advanced Manufacturing & Mobility at ~4 tCO2e /$m.
+All EY areas and sectors would experience rapid decarbonization, with the largest decreases in WACI driven by the MENA, Africa, India, CESA, and Greater China regions.
+Even though working with carbon-intensive clients could pose reputational risks, these engagements also present an opportunity to contribute to the low-carbon transition by accelerating sustainability-led transformation and and actively decarbonizing carbon-intensive sectors.
+Our analysis includes the following EY sectors and subsectors: • Advanced Manufacturing & Mobility • Agribusiness • Banking & Capital Markets • Consumer Products • Government & Infrastructure • Insurance • Mining & Metals • Power & Utilities • Oil & Gas • Technology, Media & Telecommunications • Wealth & Asset Management 32. 
+Transition risk: market demand Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Cross-cutting risk and opportunity. 
+One key risk worth noting cuts across the risk (and opportunity) categories established for this report. If EY clients in carbon-intensive sectors fail to decarbonize quickly enough for evolving public opinion, EY could face reputational risks. Depending on the presence or absence of low-carbon policies, EY could also face compliance risks due to not meeting (or being perceived to not meet) our Carbon Ambition.
+On the other hand, existing business relationships with carbon-intensive organizations could mean significant opportunities to aid and accelerate the transformation of these clients and sectors such as in data analytics, technology solutions and investment management.
+Our response. 
+If we do not continue to provide exceptional client service in this space, we could potentially lose revenue or new business opportunities. To mitigate this risk and pursue the associated opportunities, we have expanded our Sustainability solution set and global delivery capabilities in all service lines and sectors. The includes expanding the EY CCaSS teams in Assurance, who collaborate across service lines to help clients find solutions to environmental and sustainability challenges.
+As described elsewhere (see Climate and sustainability training and engagement, above), we have implemented many initiatives to upskill our people in sustainability, such as offering a free sustainability MBA, promoting engagement with EY Ripples programming, and empowering grassroots sustainability initiatives through employee-led sustainability networks.
+Next steps. 
+For this quantitative assessment, it was not feasible to gather detailed carbon intensity for every EY client to directly model the actual WACI of delivered EY services. Instead, the team used peer-reviewed and publicly available macroeconomic data to build average sector-by-country decarbonization pathways, and then weighted the results according to EY sectoral and national breakdown of revenue. Our future risk modeling will aim to improve on this foundational work by: • Further investigating the number of current clients with a climate strategy, with GHG emissions reduction targets, with a net-zero goal, and/or with an SBTI-aligned goal, to better anticipate possible transition risk hotspots and opportunities • Further investigating the linkage between the percentage decrease in client WACI and an associated percentage increase or decrease in EY revenue by service line • Studying selected high-opportunity offices or regions that serve carbonintensive sectors, and develop office- or region-specific transition risk management plans. 
+LCE. 
+Carbon intensity (tCO2e/Sm) 200 180 160 140 120 100 80 60 40 20 0. 
+Current 2025 2030 2035 2040 2045 2050. 
+EY client weighted average carbon intensity (global)
+BAU. 
+Weighted average carbon intensity by sector (2030), under either scenario. 
+Scenario LCE (1.8°C) BAU (4.4°C)
+Sector. 
+Carbon intensity (tCO2e/Sm) 2K 1K 0K. 
+Power & Utilities. 
+Mining & Metals. 
+Agribusiness. 
+Advanced Manufacturing. 
+Consumer Products. 
+Banking & Capital Markets. 
+Wealth & Asset Management. 
+Insurance. 
+Government & Infrastructure. 
+Technology, Media & Telecommunications. 
+Oil & Gas. 
+Mobility 33. 
+Transition risk: market demand Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+We expect demand for EY sustainability-related services to grow rapidly in both the BAU and LCE scenarios as the world adapts to climate change and mitigates climate risk. These services, and the climate change mitigation which they yield, aligns with EY’s purpose of building better working world and our NextWave ambition of creating long-term stakeholder value.
+From our analysis, the sustainability opportunity is almost 2X as large under LCE compared to BAU (tens of billions of USD). It demonstrates the importance of leading decarbonization efforts for ourselves and with clients, national governments, international frameworks, and across entire economic sectors.
+The models project that global EY sustainability-related revenues could reach approximately US$10 billion by 2030 and tens of billions of dollars by 2050, even under BAU. For this analysis, the team defined EY “sustainability-related services” as including, but not limited to, all CCaSS engagements, sustainabilityrelated audit and assurance, sustainable supply chain work, sustainable tax, sustainability consulting and operations transformation, sustainable finance advisory, sustainable risk management, digital ESG enablement, and ESG-related people advisory services.
+Sustainability services opportunities driven by EY’s purpose. 
+Based on projecting the EY current sustainability-related market share into the future, EY global sustainability-related revenues could grow ~65X by 2050, in a low-carbon economy. Even under BAU, the EY sustainability revenues might increase by ~35X by 2050. In the medium-term, EY sustainability revenues could increase by ~10X and 20X by 2030 in a BAU or LCE scenario, respectively.
+Audit-related LCE sustainability growth would be primarily driven by EMEIA, while non-audit growth under LCE would be driven by projects in the Americas. Since LCE will benefit employee health and safety, as well as planetary wellbeing, EY should keep encouraging aggressive climate mitigation efforts and should fulfill our Carbon Ambition in the short-term as we seek to develop longer-term commitments beyond 2025.
+Our response. 
+EY will continue to fulfill our Carbon Ambition while working with our broader business ecosystem to realize a low carbon transition. We have the ability to make a difference through our work helping clients to achieve their own carbon ambitions.
+Excitingly, this presents an opportunity to grow our business as we build a better working world. This opportunity encompasses engaging with clients, national governments, international standard setters, and civil society to help ensure a sustainable future for our clients, people, and the communities in which we live and work.
+EY member firms are recruiting more sustainability professionals at all levels to significantly invest in EY service offerings related to climate risks and opportunities. This includes providing clients with insights and advice on understanding their energy footprint, designing sustainability strategies and governance structures, mapping impacts on their value chains and developing strategies to manage the transition to a low-carbon economy. In addition, EY member firms have been assisting clients with their climate risk disclosures and alignment with TCFD. The CCaSS teams continue to actively promote their services within the other service lines of Assurance, Consulting, Strategy and Transactions, and Tax.
+Next steps • Further modeling refinement could be achieved by attempting to explicitly assess EY projected sustainability market share from 2025 to 2050, rather than applying a constant market share percentage across all five-year increments. Such projections are difficult to perform and highly uncertain, but further refinements can be made as updated data becomes available.
+• Additionally, linking cross-cutting variables, such as market share and reputational impacts, within the BAU or LCE scenario will automatically update risk and opportunity findings, as a specific assumption changes.
+• This would improve stakeholders’ understanding of the linkages between each risk and opportunity and would highlight the compounding effects of seizing a specific opportunity, and mitigating (or not mitigating) a particular risk.
+34. 
+Sustainability services opportunities driven by EY’s purpose Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+The EY Risk Management function contributes to long-term value and trust creation through enabling responsible growth in a fast-changing world within EY leadership’s appetite for growth.
+Risk management 35. 
+Bees are a valuable and necessary contributor to promoting biodiversity. In recent years the world has seen a decline in the honeybee population, raising concerns about long-term biodiversity and its impact on climate change. The EY Real Estate Services team has successfully engaged landlords at six EY US offices to implement rooftop beehives, at no cost. The Houston and Chicago offices serve honey harvested from the landlord provided beehives. In Houston, employees also benefit from having access to a rooftop garden and outdoor art installation as additional enhancements to the beehive installation.
+Photo credit: Urban beekeeper August Stubler @alveolebuzz. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+In FY21, global risk categories were identified based on the potential impact to the EY NextWave strategy and span aspects of EY operations including: • Ability to deliver multi-disciplinary services to clients while considering independence requirements • Creating and maintaining a culture aligned to our values • Maintaining innovation and access to technology while considering data and cyber security risks. 
+The EY global risk categories are determined via regular discussion with senior business leadership and are reviewed by the GE, the governance body of EYG that brings together EY leadership functions, services, and geographies.
+The first line of defense is comprised of front-line business leadership supported by service line quality and risk management teams. Key activities include client and engagement acceptance, as well as risk ownership and management during project and audit delivery.
+The second line of defense is experienced risk management professionals supporting the first line. Policy development, frameworks, tools, advice, guidance and monitoring are provided by the second line.
+The third line of defense is an annual global internal audit program. In addition to individual member firm sustainability goals, EY has globally coordinated sustainability goals, including our net zero goal. Similarly, the climaterelated risk management process will be assessed globally.
+1 2 3. 
+The Risk Management Executive Committee (RMEC) provides oversight over the effectiveness and operation of the key risk mitigation activities. The RMEC’s primary mandate is to support the assessment and management of risk. As such, it meets regularly, with an agenda covering both risk and assurance activity.
+The environment in which EY member firms operate creates a broad range of diverse risks. Effective management of these risks is critical to safeguarding the EY network and delivering on our purpose, NextWave strategy and ambition. EY has a robust enterprise risk management program to identify, assess, mitigate, and monitor the risks it faces.
+We follow a ‘three lines of defense’ model.
+EYG has undertaken this first assessment of climate-related risks and opportunities, utilizing leading methodologies aligned with TCFDs, and informed by the global risk management process described above.
+The TCFD assessment provides a macro view of EY’s climate change risks and opportunities, looking at physical and transitional categories across operations and the market. EY is embedding these findings into our broader enterprise risk management process to track these risks and opportunities.
+36. 
+Risk management. 
+Bees pictured here are from the Houston office rooftop beehive. Photo credit: Urban beekeeper August Stubler @alveolebuzz. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+We are proud to be carbon negative globally for the second year running. Being carbon negative means we offset or remove more carbon from the atmosphere than we emit, which has been a significant component of our Carbon Ambition.
+Metrics and targets 37. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+In FY22, our GHG emissions totaled 597,000 tonnes of carbon dioxide equivalent (tCO2e). While this represents a 56% reduction from FY19, it also reflects a 53% increase from FY21 — a year that saw a significant drop in our Scope 3 travel emissions and Scope 2 office electricity usage due to reduced travel and work from home as COVID-19 precautions.
+This was not unexpected, as many EY businesses resumed more normal business practices, and our 1.5°C pathway factors in an expected increase in GHG emissions in the post-COVID-19 environment. We also recognize that business growth — including a 29% FTE increase since FY19 — further increases emissions.
+To offset the FY22 emissions we have not yet eliminated, EY invested in a diverse portfolio of nature and technology-based offset projects. These include forest protection, wind and solar renewable energy, clean cookstoves, peatland protection, regenerative agriculture, blue carbon and biochar.
+Combined, they offset 723,000 tCO2e, representing 121% of EY’s FY22 emissions — enabling our carbon negative position for FY22. Offsetting should never replace organic emission reductions, but it is nonetheless a key part of the solution to direct private capital towards emissions removal and innovative new technologies that enable low carbon economic development, and target adaptation in developing and developed economies.
+We set strict standards for our project selection. Projects must be independently verified, additional, permanent, not used for other purposes, not result in leakage, and have a positive impact on the community.
+A global sustainability data management system. 
+Like our clients, EY strives to improve our processes around measuring and reporting GHG emissions. Through the implementation of a software solution from Enablon, an EY Alliance Partner, we can now more precisely track our emissions across Scopes 1 and 2. This includes data points like energy usage, fuel data and more from approximately 650 offices across the EY network.
+Collecting this data monthly will deliver more insights about our emissions and enable a faster response where required. We also continue to closely track our Scope 3 emissions through analysis of our travel bookings and spend across air, rail, and car.
+We have reduced our carbon emissions globally by 56% from our FY19 baseline. 
+EY greenhouse gas emissions FY20 FY21 FY22. 
+Total emissions (tCO2e) 976,000 394,000 597,000. 
+Emissions per employee (tCO2e/FTE) 3.3 1.3 1.7. 
+Scope 1 GHG protocol (tCO2e) 9,000 10,000 18,000. 
+Scope 2 GHG protocol (tCO2e) 132,000 106,000 148,000. 
+Scope 3 GHG protocol (tCO2e) 835,000 278,000 431,000. 
+Emissions per dollar of revenue (tCO2e/US$000) 0.0263 0.0099 0.0131. 
+Note: GHG emissions are calculated in line with the EY global carbon footprint methodology. This is based on the Greenhouse Gas Protocol developed by the World Resources Institute and World Business Council for Sustainable Development, using its “location-based” approach to reporting Scope 2 emissions. Emissions calculations use 2021 conversion factors published by the UK Department for Business, Energy & Industrial Strategy, or locally published factors where appropriate. Conversion factors used to calculate emissions from air travel include the impact of “radiative forcing.” Emissions from office energy consumption are estimated using activity data representing 91% of the global office portfolio. Figures for each of the four reported years above include emissions relating to the following Scope 3 categories: business travel; employee commuting; remote working; waste generated in operations; and fuel and energy related activities.
+38. 
+We have reduced our carbon emissions globally by 56% from our FY19 baseline. 
+EY currently has three virtual power purchase agreements in place in two EY member firms, EY US and EY UK. Pictured here is one of the wind farm projects in Texas, which generated 515,226 MWh of renewable energy to the Texas grid during FY22. This is more than enough to cover 500% of EY US and EY Canada annual office energy consumption, and equivalent to avoiding over 200,000tCO2e.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY launched its Carbon Ambition in January 2021 to reach net zero in 2025 with a 40% reduction in our absolute GHG emissions across Scopes 1, 2 and 3 emissions (against an FY19 baseline). This is consistent with a 1.5°C reduction pathway approved by SBTi.1 This target aligns with what climate science deems necessary to meet the goals of the Paris Agreement to limit global warming to 1.5°C degrees.
+We reached the major milestone of becoming carbon negative globally in FY21. To achieve our ambition of becoming net zero in 2025, we will continue to deliver on our seven-point plan to reduce our greenhouse gas emissions in line with our Science Based Targets initiative (SBTi)-validated 1.5°C degree pathway.
+1. 
+Business travel emissions: achieve a 35% reduction by 2025 (against our FY19 baseline)
+In FY22, our business travel emissions represented a 74% decrease compared to our FY19 baseline. More people chose to travel by rail in FY22 (20% vs. 10% in FY19) and fewer took same-day trips (3% vs. 18% in FY19).
+Our air travel emissions limit for FY23 is 6% lower than FY22. We will continue to decrease this limit by 6% annually to meet our target of a 35% reduction by FY25.
+2. 
+Energy: reduce overall office electricity use and procure 100% renewable energy for our remaining needs. 
+Forty-seven percent of our current global electricity consumption comes from renewable energy sources. This includes 100% renewable energy supply in the US, UK and Germany, and a significant proportion of renewable energy in India, Japan and several countries across South America. We continue to engage with existing and prospective landlords to switch to renewable energy.
+In 2022, EY joined RE100, a global initiative bringing together the world’s most influential businesses committed to 100% renewable electricity, as a Gold Member.
+Since office energy usage is the second largest portion of our total emissions, EY’s Real Estate Services has been driving overall office electricity use reduction through our EY@Work workplace program, where we developed a sustainability checklist embedding sustainable practices in our end-to-end delivery process for office locations.
+By implementing the EY@Work workplace program, Real Estate Services has reduced the global office footprint consistently over the last 13 years and, along with other real estate initiatives, further reduced our consumption of resources. Over 750,000 square meters of workplace occupancy has been avoided compared to FY19 baseline density, resulting in approximately 55,000+ tCO2e avoided (based on FY22 emissions factor) – equivalent to the emissions from approximately 10,000 residential home electricity usage for one year.
+3. 
+Contracts: structure electricity supply contracts through virtual power purchase agreements (vPPAs), to add more renewable electricity than EY consumes to national grids. 
+EY currently has three vPPAs in two EY member firms. We will continue to work with other member firms to explore vPPA feasibility in additional markets. Two wind vPPAs in Texas, US generated 515,226 MWh of renewable energy to the Texas grid during FY22. This is equivalent to avoiding over 200,000tCO2e.
+4. 
+Measurement: enable EY teams to calculate and reduce the amount of carbon emitted during client work. 
+Four key tools managed by EY teams give our management, teams and individuals the ability to monitor emissions related to business travel and client engagements to help achieve our emissions goal: • Organization-wide travel emissions dashboard which tracks progress against EY travel emissions targets and is open to everyone across EY member firms • Traveler dashboard providing employees insights into their booking behaviors and how the decisions they make impact their wellbeing, costs, and the environment • EY STAT, a new travel decision tool built in collaboration with IBM, that displays the carbon emissions for each travel mode to a destination – ensuring EY people have the right information to make a considered decision • Engagement carbon calculator used to calculate the travel emissions for client and internal projects, which can be used in conversations with clients about the right amount of travel to support business needs and climate objectives. 
+Progressing our sevenpoint plan toward net zero by 2025 47% of our current global electricity consumption comes from renewable energy sources.
+1 The EY net-zero pathway was validated by SBTi in 2020. We continue to follow the latest SBTi developments on net-zero standards.
+39. 
+Progressing our seven-point plan toward net zero by 2025 Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+5. 
+Nature- and science-based projects that remove or offset more carbon than we emit, every year. 
+We continue to invest in nature and technology-based projects to offset the emissions we have not yet eliminated, such as the 10 projects in FY22 that represented 121% of our FY22 emissions and confirmed our carbon negative position for the second year.
+Early-adopter support of innovative removal projects is essential to the development and scale-up of critical climate technologies needed to meet global climate goals. In 2021, EY signed a letter of intent to join the Lowering Emissions by Accelerating Forest Finance (LEAF) Coalition, a ground-breaking public-private coalition to provide finance for tropical and subtropical forest conservation, offering invaluable support for countries and benefitting hundreds of millions of people.
+We continue to work with LEAF to source innovative projects for our future portfolio. EY has also signed a memorandum of understanding for the future offtake of direct air capture carbon removals from a pioneering project in the UK.
+6. 
+Suppliers: require 75% of EY suppliers, by spend, to set sciencebased targets no later than FY25. 
+We encourage our suppliers to drive change by supporting them to set sciencebased targets for their organizations. We provide helpful training to encourage their own decarbonization journeys. To date, 54% have set a target. Our aim is that 75% will have a target in place by FY25.
+7. 
+Clients: invest in services and solutions that help clients create value from decarbonizing their businesses and provide solutions to other sustainability challenges and opportunities. 
+We help clients with their journey to sustainability ambitions and commitments. Our innovative solutions and technologies address the top sustainability issues for organizations and their sectors. This includes collaboration with our Alliance Partners Microsoft, IBM, SAP, Enablon and ServiceNow, who we work with to develop technology, products and services that will help our clients further embed sustainability into their strategy.
+Progressing a seven-point plan toward net zero in 2025 40. 
+As an RE100 member, EY continues to assess additional renewable energy projects across the global network such as this wind farm in Jumbo Hill, Texas. In FY22, 47% of electricity consumed at EY globally was supplied from renewable energy sources. This includes 100% renewable energy supply in the UK, US, Canada and Germany, and a significant proportion of energy from renewable sources in India, Japan as well as a number of countries across South America.
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+At EY, we use carbon credits to reduce our impact and accelerate the wider transition to net zero, tackling residual emissions we have been unable to avoid to date.
+Offsetting cannot replace organic emission reductions as a lasting solution to climate change. Still, offsetting is a key part of interim market solutions while new technologies and approaches for difficult-to-abate emissions are being developed.
+Our approach recognizes the need to support both decarbonization — removal and reduction — and the opportunity to direct private capital to wider sustainable development through offsetting.
+EY Global offset projects. 
+Global offset projects in FY22. 
+Type Project Name Country Credits volume Registry. 
+Forest Kariba REDD+ (VCS 902) Zimbabwe 141,418 Verra. 
+Farming CarboCert for Living Soils (CSA 2962-2913) Germany 1,000 ISO on GHG Clean Project Registry. 
+Cookstoves Gyapa Cookstoves (GS 407) Ghana 50,000 Gold Standard. 
+Peatland Sumatra Merang Peatland Project (VCS 1899) Indonesia 1,000 Verra. 
+Energy Gansu Guazhou Daliangxi Wind Power Project (VCS 544) China 98,000 Verra. 
+Energy VTRM Renewable Energy 2 (VCS 1903) Brazil 117,665 Verra. 
+Energy Grouped Project for Renewable Power Generation (VCS 1497) India 212,500 Verra. 
+Forest Guanaré Forest Plantations (VCS 959) Uruguay 100,000 Verra. 
+Blue Carbon Delta Blue Carbon (VCS 2250) Pakistan 1,000 Verra. 
+Biochar Freres Biochar (Puro 100042) USA 1,000 Puro Standard on Puro Registry 30% 56% 14%
+Volume by EY Area. 
+Americas 218,665 Asia-Pacific 99,000. 
+EMEIA 405,918 723,583 Total volume. 
+Global offset projects in FY22 by EY area. 
+The long-term decarbonization of the global economy needs near-term investment. Carbon credits are an essential part of the business toolkit, supporting earlier and more ambitious net-zero commitments. While the markets are still evolving, and would benefit from greater standardization and regulation, carbon credits can direct private capital towards emissions removal projects including both nature-based solutions (e.g., reversing deforestation) and innovative engineered solutions (e.g., direct air capture). We support initiatives such as the Integrity Council for the Voluntary Carbon Market and the Voluntary Carbon Markets Integrity Initiatives which aim to improve transparency and integrity of corporate offsetting claims.
+EY follows industry standards for quality assurance practices in selecting and monitoring offsetting projects. In FY22, we changed our procurement approach to obtain high-quality carbon credits from a panel of suppliers rather than a single source. We added clean cookstoves, peatland protection, blue carbon, reforestation/afforestation and protection, biochar, and renewable energy in our carbon credit portfolio. We continue to talk to clients and suppliers who are planning to bring new Carbon Dioxide Removal (CDR) credits to market in hopes of adding more in FY23. We also recognize EY has an important role to play in building trust and promoting assurance for our stakeholders across myriad issues in the market and continue to explore opportunities to provide this in carbon markets around the world.
+41. 
+EY Global offset projects Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+Looking ahead. 
+We come away from this TCFD assessment with a deeper understanding of the impacts climate change will have on the global EY member firm network and the clients EY teams serve all over the world. This has given us a renewed commitment to achieving our Carbon Ambition of becoming net zero by 2025.
+The process of developing the point of view and analysis shared in this TCFD report engaged over 50 EY leaders and professionals, representing all our service lines, geographies and key business functions. The interviews, workshops and quantitative analysis which informed this assessment strengthened existing organizational relationships around climate and created valuable new ones. As a result, we look forward to further progressing on our existing climate targets over the next year with enhanced agility and effectiveness.
+We also look forward to building on the foundational risk analysis and scenario modeling presented in the assessment. This will help us both to deepen our reporting for TCFD and lay the groundwork for a global TNFD assessment in due course as we bring an increased focus on biodiversity.
+Above all, we look forward to activating our strategy and purpose by being a catalyst for climate action, working with EY clients, peers, people and the communities we share.
+42. 
+Looking ahead Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+To examine the full range of climate-related risks and opportunities, we collaborated with teams across the global EY network to develop a robust approach for this assessment. We will continue to build on this first report in the coming years.
+Appendices 43. 
+Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+To examine possible acute climate risks, the team modeled the risk profiles of the top 200 EY offices by headcount, which cover 70 countries, all EY regions and about 87% of employees (using FY22 data). For duplicate offices (those located on the same block or lot as one another), the team aggregated the overall headcount of that office complex, removed the duplicate entries and added the next-largest office(s) to the top 200 list. Physical climate risks were modeled by providing latitude and longitude data to a leading third-party climate risk analysis platform. For each hazard, an appropriate “high exposure” threshold was determined, according to the hazard type and applicable literature.
+For example, locations exposed to over two meters of flood depth during a 500year storm were marked as highly exposed to flooding risk. All physical risks were modeled from present day until 2100, with the assumption that EY office locations remain static through that time period. Projected future revenue was estimated by applying EY historical revenue growth rates dating back to FY14 to future years.
+Since the impacts of acute hazards are not only felt at physical EY offices, but also disrupt clients, society and employees, the team expanded the analytic lens to also model the number of employees and amount of revenue potentially exposed to various hazards. This method seeks to more accurately investigate impacts to employee health, safety and wellbeing, as well as EY service delivery and client activity. Since EY people are our greatest asset, and our collective ability to deliver client services is worth far more than the physical buildings, the value of each physical location was estimated by multiplying the number of employees by an area-specific statistic for average revenue per employee. These acute risks compound with the chronic ones, since chronic climate changes will make the acute issues more frequent and more intense.
+To examine possible chronic climate risks, the team modeled the risk profiles of the top 200 EY offices by headcount, which cover 70 countries, all EY regions and about 87% of EY employees (using FY22 data). For duplicate offices (those located on the same block or lot as one another), the team aggregated the overall headcount of that office complex, removed the duplicate entries and added the next-largest office(s) to the top 200 list. Physical climate risks were then modeled in collaboration with a leading third-party climate risk analytics platform. All physical risks were modeled from present day until 2100, with the assumption that EY office locations remain static through that time period. Projected future revenue was estimated by applying EY historical revenue growth rates dating back to FY14 to future years.
+For each hazard, an appropriate “high exposure” threshold was determined, according to the hazard type and applicable literature. For example, locations projected to experience over 20 days per year of temperatures exceeding 35°C (95°F) were marked as being highly exposed to heat impacts. Impacts from sea level rise were modeled using coastal flood metrics, which include both storm surge and high tide effects.
+Since the impacts of chronic hazards are not only felt at physical EY offices, but also disrupt society, clients and employees, the team expanded the analytic lens to model the number of employees and amount of revenue potentially exposed to various hazards. This method seeks to more accurately evaluate impacts to employee health, safety and wellbeing, as well as EY service delivery and client activity. Because EY people are our greatest asset, and our collective ability to deliver client services is worth far more than our physical buildings, the value of each physical location was estimated by multiplying the number of employees by an area-specific estimate of average revenue per employee.
+Acute physical risks methodology. 
+Chronic physical risks methodology 44. 
+Assessment methodology Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+By re-using applicable assumptions (i.e., similar growth rates and market share targets) across different risk/opportunity modeling calculations within the same scenario, the team deliberately built cohesiveness into the modeling effort, strengthening the linkages between different facets of the same scenario. Note that the current opportunity modeling projects values out to 2050, not to 2100, since macroeconomic, social and geopolitical climate trends become increasingly uncertain at such long timescales, and EY wanted to focus on what is actionable today. Thus, transition risks/opportunities and physical risks should only be compared out to 2050. To project future EY revenue based on climate reputation, the team reviewed approximately 100 relevant academic papers, and focused on “E” and climate-related ratings as available. To simplify the vast landscape of ESG ratings into useful parameters, the team modeled the effect of maintaining a “leading” reputational status, and of falling from a “leading” climate company to “average,” or from “leading to “lagging.” Although it is difficult to model clear-cut causation between an increase or decrease in ESG rankings and a corresponding increase or decrease in corporate financial performance, there is strong evidence in the applicable academic literature that these two variables are currently measurably correlated in specific countries and regions, including the US, Australia, Canada and the EU. As of the time of modeling in 2022, studies show less strong correlation between ESG rankings and corporate financial performance in other countries and regions.
+To project EY revenue under various reputational conditions, the team first grew the EY addressable market according to existing EY projections from 2023 to 2026. Next, the team projected EY FY22 P12 revenue data through 2050, assuming EY revenue will grow at the same rate by EY region and sector that the total addressable market grows. To distinguish between BAU and LCE, we applied the same scenario-specific projected growth rates used in other facets of this modeling. For the BAU scenario, we assumed that ESG rankings will continue to affect financial performance at similar rates by region, as currently determined in the applicable literature. For the LCE scenario, the team assumed that ESG ratings will start to affect company financial performance in all other regions as much as they currently affect performance in countries and regions such as the US, Australia, Canada and the EU.
+Reputational risk and opportunity methodology. 
+Market demand transition risks are difficult to quantify, as they entail large-scale, long-term projections that are projected to reshape complex economic systems and require nuanced assumptions about how economic and socio-cultural systems interact with markets, public policy and social pressure. Additionally, as a professional services organization, our own carbon emissions are relatively low, which means EY is unlikely to face substantial direct transition risks from policy or regulatory actions, such as carbon pricing. However, EY clients may face substantial transition risks, which would impact their ability to leverage EY expertise across a range of services.
+Since our clients’ transition risks are our transition risks, EY conducted a marketleading analysis of projected macroeconomic shifts in carbon intensity out to 2050, to investigate our indirect transition risks in a LCE or BAU scenario. The team modeled the weighted average carbon intensity (WACI, measured in. 
+Market demand transition risk methodology tCO2e/$m) of each of the EY client sectors and aggregated the results based on EY specific client and revenue portfolio.
+To calculate client WACI, EY first modeled country-level decarbonization paths, using outputs from three prominent Integrated Assessment Models (IAMs). Next, the team constructed sector-level decarbonization paths using sector-specific marginal abatement cost curves from the central tendency of leading energyenvironmental models. The team then integrated country-by-sector emissions data and sector-specific economic outputs to create sector-by-country pathways to a low-carbon economy. Finally, WACI findings were weighted based on the EYspecific breakdown of revenue by sector and country to calculate transition risk scores applicable to our own regions and client sectors.
+For the LCE scenario, estimated country-level decarbonization paths assumed global net-zero CO2 emissions by 2050 and assumed that all countries with a clear commitment to a specific net-zero policy meet their target. The modeling also assumed a cost-minimizing decarbonization trajectory was used to reach net-zero emissions. For the BAU scenario, projections assume that each EY sector/subsector and region’s emissions evolve at the same average annual rate as they have historically from 2008 to 2018.
+The current analysis includes the following EY sectors/subsectors, selected as being most relevant to a low-carbon transition: Advanced Manufacturing & Mobility, Agribusiness, Consumer Products, Energy & Resources, Mining & Metals, Oil & Gas, Power & Utilities, Banking & Capital Markets, Insurance, Wealth & Asset Management, Government & Public Sector, and Technology, Media & Telecommunications. Results were aggregated and weighted based on EY’s standard regional breakdown.
+45. 
+Assessment methodology Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+To calculate projected growth in sustainability-related revenues under each scenario, the modeling team first estimated the total addressable sustainability market per EY region for professional services under a BAU and LCE scenario, and then assigned EY a share of that total addressable market. As mentioned in the Opportunity Description section, projected revenues from audit and nonaudit sustainability work were calculated separately and then aggregated, since audit and non-audit practices experience different growth rates and market share percentages.
+For BAU non-audit, the team took total addressable sustainability marketsizing estimates through 2026 – calculated by a third party in an independent quantitative analysis — and projected the growing market size using regionspecific growth rates, projected (in this effort) from the reputational transition risk modeling. The team then assigned EY a share of the total addressable BAU market, according to the market share through 2025 implied by EY sustainability ambition. The total addressable market share after 2025 was held constant at the 2025 level.
+For the LCE non-audit future, the EY total addressable market under LCE was projected by applying the percentage change between carbon-emission factors calculated in the policy and legal transition risk, by EY region under BAU and LCE to the total addressable market projection obtained for BAU. The team then assigned EY a share of the total LCE addressable sustainability market, using the same internal market share (for 2020 to 2025, and 2025 onward).
+Sustainability services opportunity methodology. 
+By re-using applicable assumptions (i.e., similar growth rates and market share targets) across different risk/opportunity modeling calculations within the same scenario, the team deliberately built cohesiveness into the modeling effort, strengthening the linkages between different facets of the same scenario. For instance, using the same percentage growth differentiation between scenarios calculated for EY transition risks to model this opportunity helps us build a coherent, plausible story within the separate BAU and LCE futures.
+The current opportunity modeling projects values out to 2050, not to 2100, because macroeconomic, social and geopolitical climate trends become increasingly uncertain at such long-time horizon, and EY wanted to focus on what is actionable today. Thus, transition opportunities and physical risks should only be compared out to 2050. Additionally, market size projections more than five years into the future are difficult to develop and have a high degree of uncertainty. Therefore, the underlying market-size projections used in this modeling should be updated on a regular basis to incorporate up-to-date data.
+46. 
+Assessment methodology Leadership message Introduction Governance Strategy Risk management Metrics and targets Appendices
+
+
+EY | Building a better working world. 
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. Information about how EY collects and uses personal data and a description of the rights individuals have under data protection legislation are available via ey.com/privacy. EY member firms do not practice law where prohibited by local laws. For more information about our organization, please visit ey.com.
+© 2023 EYGM Limited. All Rights Reserved.
+EYG no. 003007-23Gbl CSG no. 2211-4143935. 
+ED None. 
+This material has been prepared for general informational purposes only and is not intended to be relied upon as accounting, tax, legal or other professional advice. Please refer to your advisors for specific advice. ey.com. 
+EY TCFD Contacts. 
+For a conversation about your sustainability strategy, please contact us:
+Steve Varley EY Global Vice Chair – Sustainability savarley@uk.ey.com +44 20 7951 6174. 
+Matthew Bell EY Global Climate Change and Sustainability Services Leader matthew.bell@uk.ey.com +44 20 7197 7755. 
+Gillian Hinde EY Global Corporate Responsibility Leader gillian.hinde@uk.ey.com +44 20 7951 7903

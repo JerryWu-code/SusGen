@@ -1,0 +1,820 @@
+Climate Action Report 1 May 2019 “ Our ambition is to significantly reduce our carbon footprint.”
+
+
+“ Central to a successful transition will be supportive policy to ensure a global level playing field, access to renewable energy at affordable prices and access to finance.”
+ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Contents. 
+SECTION 1 INTRODUCTION 02. 
+SECTION 2 CLIMATE ACTION REPORT 04. 
+SECTION 3 ANNEXES 41 04 Chapter 1: Our climate action at a glance 06 Chapter 2: The future of materials: growing, circular, sustainable 10 Chapter 3: The carbon challenge for steel 14 Chapter 4: Low-emissions technology pathways and policy scenarios 20 Chapter 5: ArcelorMittal strategy towards low-emissions steelmaking 30 Chapter 6: Policy recommendations 32 Chapter 7: Carbon performance and targets 36 Chapter 8: Governance and risk 40 Chapter 9: Alignment with TCFD recommendations 02 Introduction from our. 
+Chairman and CEO 41 Annex 1: The steelmaking process 44 Annex 2: Glossary. 
+About this report. 
+This report outlines the analysis behind ArcelorMittal’s strategy on climate action, summarised in its Integrated Annual Review 2018. As such it is the company’s first comprehensive response to the recommendations of the TCFD for climate disclosures. It reflects the views of the ArcelorMittal group in May 2019. Data on ArcelorMittal’s carbon emissions are for financial years up to and including 2018. All financial values given in dollars are US dollars, and those given in Euros are where funding has been received in that currency.
+Our reporting. 
+Our portfolio of corporate reports aims to engage stakeholders on material aspects of our financial and non-financial performance. In addition to our statutory requirements, we publish an Integrated Annual Review and a Fact Book containing in-depth data on our business. Our Basis of Reporting explains the methodology behind our metrics, and our Reporting Index references a range of different frameworks we use in preparing our reports. These reports can be downloaded from annualreview2018.arcelormittal.com. 
+Reporting Index Basis of Reporting Integrated Annual Review. 
+Fact Book Annual Report 20F 1 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Introduction from our Chairman and CEO. 
+Welcome to ArcelorMittal’s first Climate Action report. We are publishing this because we understand the enormity of the climate challenge for society and the responsibility of ArcelorMittal as an emitter of CO2 to reduce our carbon footprint. We also acknowledge the interest of our stakeholders in understanding how we plan to do so and the requirement for additional disclosure in line with TCFD.
+In December 2015, world leaders adopted the Paris Agreement, which aims to keep the global average temperature increase to well below 2ºC and pursue efforts to hold the increase to 1.5ºC. Clearly, success will require unprecedented levels of coordination on a global level. There are no borders in the sky, so every region and country will need to make a meaningful contribution.
+The industrialisation of the world has been powered by fossil fuels. In the steel industry this has involved using coal-based products, such as coke, to reduce iron ore in the blast furnace. While steel may have a lower carbon intensity than many other materials, the large volumes of steel produced globally mean that the industry emits over three gigatons of CO2 annually.
+Dear stakeholders,
+Now that the unintended consequences of using fossil fuels have become clear, the world needs to find a new way of doing things that enables further economic and social development while minimising environmental damage. Steel is prevalent in our society because it has a combination of properties that make it ideal for building much of the infrastructure we need. As the world continues to develop, with an increasing population aspiring to achieve improved living standards, demand for steel and materials generally is only expected to further increase. Indeed, our forecast indicates demand rising from 1.7 billion tonnes in 2018 to 2.6 billion tonnes in 2050.
+This means we need to significantly reduce the carbon footprint of steel, which requires finding new ways to make steel in a less emissions-intensive process. Scrap, unfortunately, is not a sufficient answer as there is not enough scrap available in the world to simply make all steel through the electric arc furnace process.
+Our work on low-emissions technologies underpins our ambition to significantly reduce our carbon footprint by 2050 in line with our commitment to the Paris Agreement.
+2 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+So, we need to develop breakthrough low-emissions steelmaking technologies. We are working on the technologies for several potential pathways including circular carbon and clean power, and these underpin our ambition to significantly reduce our carbon footprint by 2050. We are in the process of running pilots of these different technologies at various plants in Europe, where regulation today is most advanced, and where we have an ambition to reach carbon neutrality by 2050. This work will enable us next year to publish a more specific 2030 reduction target.
+The suite of technologies we are developing gives us confidence that we are well positioned to align with the science-based trajectory for our sector. But we cannot solve the problem by ourselves. Central to a successful transition will be supportive policy to ensure a global level playing field, access to renewable energy at affordable prices and access to finance. The dynamics of the global steel industry need to be fully understood, and support provided at levels similar to those which have enabled the growth of renewables in the energy sector.
+This report does not have all the answers because we do not yet have all the answers. But as the world’s leading steel company, we are committed to the objectives of the Paris Agreement and I want to reassure our stakeholders that we will do our best to contribute effectively to a low-carbon world and, in doing so, help them manage their own risks and ambitions.
+
+Lakshmi N. Mittal, Chairman and Chief Executive. 
+May 2019 3 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+1 Our climate action at a glance. 
+Circular carbon technologies. 
+In 2018, we launched a €40 million Torero demonstration project at Ghent, Belgium, to convert 120,000 tonnes of waste wood into biocoal for use in iron ore reduction in place of fossil fuels. The technology has the potential to work with a variety of society’s waste streams. We’ve also been running an industrial pilot of IGAR technology in Dunkirk, France since 2017 to reform waste carbon gases so they too can be reused for iron ore reduction. Both technologies will reduce the amount of coal and coke needed in the blast furnace and lower associated CO2 emissions.
+At our steelworks in Ghent, Belgium, we are building a €120 million industrial-scale demonstration plant for technologies developed with LanzaTech1 to both capture carbon offgases and convert them into the Carbalyst® range of products. Capable of producing 80 million litres of ethanol per year, this project alone has the potential to annually reduce CO2 equivalent to 600 transatlantic flights.2. 
+See chapter 5 2050 Carbon ambition Our ambition is to significantly reduce our CO2 emissions by 2050 and, in Europe, to achieve carbon neutrality by this date, in line with the objectives of the Paris Agreement and the science-based trajectory for our sector. Supportive policies will be central to achieving this ambition. We are building a strategic roadmap based on potential improvements and our suite of breakthrough technologies, and in 2020 we will set a 2030 reduction target.
+ArcelorMittal’s readiness to advance the low-carbon economy can be seen throughout its operations, from the breakthrough technologies it is demonstrating to the solutions it offers its customers.
+Clean power technologies. 
+ArcelorMittal is exploring iron ore reduction technologies using hydrogen and electrolysis, both of which could deliver significant carbon reductions if powered with clean electricity. In March 2019, we launched a €65 million pilot project in Hamburg, Germany to test hydrogen steelmaking on an industrial scale, with an annual production of 100,000 tonnes of steel. At the same time, we have been exploring direct iron ore reduction using electrolysis for a number of years. We lead the EU-funded Siderwin project, which is now constructing an industrial cell to pilot the technology.
+See chapter 5 1 This project is also known as Steelanol. 2 https://corporate.arcelormittal.com/news-and-media/our-stories/capturing-and-utilising-waste-carbon-from-steelmaking 4 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+S-in motion®
+S-in motion® is a set of advanced high-strength steels launched by ArcelorMittal in 2010. Since then, S-in motion® steels have been providing the lightness and strength carmakers need to make mobility solutions ever more sustainable. It enables a reduction in vehicle lifecycle emissions of 14.5%,3 while at the same time ensuring the safety of vehicle users at an affordable cost.
+Green border adjustment. 
+ArcelorMittal has been publicly calling for a green border adjustment since early 2017. We believe it is an essential policy that needs to be applied wherever carbon policy exists to ensure that steelmakers bearing the structurally higher costs of low-emissions technologies can compete on a level playing field with imports from higher-emissions steelmakers. This forms a central part of our policy scenario analysis.
+See chapter 6. 
+Comprehensive climate-related disclosure. 
+We have been making annual climate change disclosures to CDP since 2010, and in 2018 our disclosure was rated B. We report comprehensively on the methodology and scope of our CO2 emissions, and ensure that we measure the carbon intensity of our steel in a way that includes all the processes involved in steelmaking rather than simply those we own and operate. In 2018, we became a supporter of the Task Force on Climate-related Financial Disclosures’ (TCFD) recommendations. This Climate Action Report represents our first comprehensive response to these recommendations.
+See chapter 7. 
+Steligence®
+In 2018, ArcelorMittal launched the Steligence® concept to facilitate the next generation of high-performance buildings and construction techniques for our customers. Built into the holistic Steligence® approach is a broad range of thinner, lighter, high-performance steel solutions. Demonstrating the potential to reduce the embedded carbon footprint of a building by 38%, the Steligence® approach can also enhance its flexibility and economics. Considering the share of global emissions from the built environment, the impact of Steligence® could be particularly significant.
+$728m. 
+Energy efficiency. 
+Each year we spend large amounts of capex to modernise our plants with the latest technology. $728 million has been allocated in the past three years alone.
+3 https://corporate.arcelormittal.com/news-and-media/our-stories/cutting-carbon-ensuring-safety-serving-customers-s-in-motion 5 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+2 The future of materials: growing, circular, sustainable. 
+Our world, and our lifestyles, have been built around the use of a variety of materials. All industries making these materials face the same issue: meeting the global demands of a growing population while significantly reducing their climate impact.
+The world’s materials challenge. 
+Materials are an integral part of modern society, human development and well-being. Global consumption of materials has grown significantly over the past 30 years (see box 1), and has been instrumental in the economic development which has lifted over one billion people out of poverty. Today, the production of the main material groups globally account for over 19% of global CO2 emissions.4 The majority of these emissions come from using mostly fossil fuel-based energy to transform primary raw material sources into the materials we use (iron ore for steel, bauxite for aluminium, oil for plastics, etc.). Producing materials from secondary sources (i.e. recycling materials at their end of life) represents a small proportion of material production today, mainly because the strong growth of demand for materials outstrips the stock available for recycling, but also due to the fact that most materials – steel being an exception – cannot be fully recycled (see box 1).
+Materials demand is forecast to continue growing for several decades as emerging economies pursue the infrastructure needed to achieve the United Nations’ Sustainable Development Goals, and as the world transitions to low-emissions sources of energy. In this context, primary sources will continue to be essential to meet the world’s material needs. Therefore, the challenge for materials producers is to lower the carbon footprint of materials production whilst meeting continuing demand growth. Contributions will come from improvements in energy efficiencies and production yields, and the move from today’s prevalent linear use-and-dispose model towards a circular reduce-reuse-recycle model. What will be critical, however, is to develop and deliver low-emissions technologies for materials production.
+In the long term, the world will transition towards a stable demand for materials in a fully circular economy, where efficiently designed products are reused repeatedly, and ultimately recycled into new products. This means for each application, manufacturers and designers will increasingly choose materials based not only on their physical characteristics such as weight, strength and flexibility, but also for their ease of reuse, recovery and recyclability. This will be enabled by policies aimed at restricting landfill and incineration. Effective recovery and recycling of materials from different waste streams at their end of life will be vital to the transition to a circular economy. In addition, segregation of materials to avoid degradation and loss of recycling capability will be important.
+4 ArcelorMittal estimates of main material groups’ CO2 emissions as percentage of World Bank reported global CO2 emissions; material groups included: cement, steel, aluminium, other metals, plastics and fibres, glass, bricks, and cardboard and paper.
+Materials production. 
+Circular materials. 
+Materials world. 
+Materials recovery. 
+R
+E. 
+U
+SI. 
+N
+G. 
+R
+E. 
+C
+Y. 
+C
+L. 
+I
+N. 
+G
+R. 
+E
+D. 
+U
+C. 
+I
+N. 
+G 6 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Box 1: materials production and recyclability. 
+Global materials production has grown significantly over the past three decades; steel is the only manufactured material that can be fully recycled.
+400 300 200 100 0. 
+Figure 1: global production (1990=100) 1990 1995 2005 2000 2010 2015 1
+2 3
+4 5. 
+Table 1. 
+Recyclability*
+Made from end-of-life material Material group 1 Plastics and synthetic fabrics 5-10% 2 Cement5 0% 3 Aluminium 21% 4 Steel 22% 5 Paper and cardboard 50-60% *Ability to make same material again at end of life. 
+Fully recyclable, low risk of downcycling. 
+Highly recyclable, risk of downcycling. 
+Partially recyclable, risk of downcycling. 
+Little or no recyclability. 
+Source: ArcelorMittal corporate strategy 5 Concrete, made from cement, is recyclable to a limited extent in the form of aggregate.
+7 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+The future of materials: growing, circular, sustainable. 
+With its high rate of recyclability, steel is the ideal material for a sustainable, circular economy. It is also a key enabler for CO2 emission reductions.
+Bright future for steel. 
+We believe that steel is the only major material group today that can meet tomorrow’s challenge of a fully circular economy. Steel’s recyclability is unmatched by any other major material group. Today, up to 85-90% of steel products are recovered at their end of life and recycled to produce new steel. The magnetic properties of steel make it easy to segregate from other materials, so whereas other materials are often downcycled, steel retains all of its original properties, making it stand out as one of the most easily recycled materials.
+In the very long term beyond 2070, once there is a sufficient stock of steel to meet the needs of a fully developed world, the majority of steel products will be made from recycled end-of-life steel. We believe that as societies transition towards a sustainable circular economy, steel will be increasingly favoured over other less circular materials in overlapping applications.
+Even today, there are fewer CO2 emissions embedded in the production of steel in many applications in comparison with other materials. For example in the automotive sector, for the structural ‘body-in-white’ of a vehicle, the CO2 emissions associated with an automotive part made of advanced highstrength steel are less than half of those associated with an equivalent aluminium automotive part, and less than a third of those associated with a part made of carbon fibre reinforced plastic.
+Steel is also a key enabler as a core material in many leading technologies for global CO2 emissions reductions. These technologies include offshore wind turbines, efficient transformers and motors, and lighter-weight vehicles. A study by BCG and VDEh found that on average, the CO2 emissions reductions enabled by steel outweigh emissions from steel production by 6 to 1.6 It is hard to imagine a future where steel is not a critical material in a sustainable circular economy.
+6 BCG and VDEh (2013), Steel’s Contribution to a Low-Carbon Europe 2050.
+8 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Figure 1: comparative CO2 emissions from production of steel vs other materials for selected applications*
+Icons represent the level of recyclability as in Table 1 on page 7.
+*Figures relate only to emissions from production of material from primary (virgin) sources, not lifecycle CO2 emissions of different materials. Source: ArcelorMittal corporate strategy. 
+Steel vs other materials. 
+BOTTLE 0.75l. 
+Glass 420g 1,800g CO2 350g CO2. 
+Steel 177g. 
+PIPING SYSTEM 3 metres of 6” schedule 80. 
+Plastic (PVC) 27kg 60kg CO2 260kg CO2. 
+Steel 130kg. 
+YACHT 46’ trawler. 
+Fibreglass 10.4 tonnes 27t CO2 33t CO2. 
+Steel 16.3 tonnes. 
+BUILDING STRUCTURE One storey 5x8m. 
+Concrete 32 tonnes 5t CO2 5t CO2. 
+Steel 2.6 tonnes. 
+AUTOMOBILE Body in white (advanced C segment)
+Aluminium 215kg 3.3t CO2 1.1t CO2. 
+Steel 270kg 9 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+3 The carbon challenge for steel. 
+The steel industry currently generates approximately 7% of the world’s CO2 emissions. With demand for steel forecast to continue growing for several decades to come, the carbon challenge is significant.
+Continuing need for primary steel production. 
+Global steel demand has more than doubled since 1990 as societies across the world (China and the developing world especially) have increased their steel stocks in products, equipment, buildings and infrastructure. Steel can essentially be made using either primary sources or secondary sources. Today the majority of steel is made via the primary (iron ore based) route, the first step of which is to smelt or reduce iron ore. Nature has dictated that separating oxygen from iron requires a substantial amount of energy, because there are strong chemical bonds between oxygen and iron in iron ore. That energy today comes primarily in the form of carbon. Carbon dioxide, or CO2 emissions are the result.
+Steel produced via the secondary (scrap based) route, which uses electricity as the main energy input to melt end-of-life scrap, and has lower CO2 emissions, has increased in recent decades. However, although steel stock in maturing economies has plateaued, the strong demand growth for steel in the developing world means that end-of-life scrap is only sufficient for a modest share (approximately 22%) of metallic input for global steel production. The availability of end-of-life scrap is forecast to grow, and this will support the increased use of scrap-based steelmaking. When powered with clean electricity, this will further reduce the carbon intensity of steelmaking. However, the availability of end-of-life scrap lags demand for steel by several decades, typically 10-50 years or more after production depending upon application. This means the world will still be reliant on primary steelmaking from iron ore until nearer the end of this century.
+Although steel is less carbon-emitting per application than many other materials from primary sources, the sheer scale of global steel production means the industry contributes over three gigatons of CO2 to global emissions annually. Global steel demand is forecast to increase from 1.7 billion tonnes in 2018 to over 2.6 billion tonnes by 2050 under current consumption patterns. This will be driven primarily by continued growth in the developing world, as well as increased steel demand to support the global energy transition, since more steel will be needed per unit of renewable electricity than conventional technologies.7. 
+Time for transition. 
+The global steel industry therefore faces the challenge of reducing CO2 emissions in line with the ambition of the Paris Agreement whilst at the same time responding to the growing demand for steel. According to the Intergovernmental Panel on Climate Change (IPCC), in order to limit global warming to 2ºC or less, the world needs to reach net zero CO2 emissions around 2070. Achieving a limit of 1.5ºC brings this date forward to around 2050.8 While help will come from continued energy efficiency gains and yield improvements in steel production, as well as society’s shift to a circular economy, achieving this ambitious goal will require a fundamental transition to lowemissions technologies. This essentially means either capturing and storing the emissions, or utilising a different, lower-emission energy source to extract the iron from the iron ore.
+7 Source: ArcelorMittal global R&D 8 IPCC (2018), Summary for Policymakers. In: Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emissions pathways, in the context of strengthening the global response to the threat of climate change, sustainable development and efforts to eradicate poverty.
+10 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Box 2: growing demand for steel. 
+Construction. 
+A significant share of growth in steel demand will come from the construction sector, particularly in developing countries for new buildings and infrastructure.
+Packaging. 
+Pressure to reduce plastic waste and use more recyclable materials is leading to growth in demand for steel in the packaging sector.
+Energy. 
+As the transition to a low-emissions economy unfolds, reduced steel demand from the oil and gas sector will be more than offset by growth from the renewable energy sector.
+500 1,000 1,500 2,000 3,000 2,500 1990 2050 2040 2030 2020 2010 2000 1995 2045 2035 2025 2015 2005. 
+Yield improvement. 
+Business as usual – BAU. 
+Circular economy (see page 11)
+Adjusted steel demand. 
+Figure 2: steel demand outlook (million tonnes)
+Global demand is forecast to increase from 1.7 billion tonnes in 2018 to over 2.6 billion tonnes by 2050 under current consumption patterns. Yield improvements and circular economy dynamics are likely to moderate this growth.
+Transport. 
+Steel use for transport will significantly increase due to economic growth in developing countries. The use of high-strength steels for lightweighting helps automakers improve vehicle emissions while maintaining safety standards. We take a neutral view on the impact of electric vehicles (EVs) on steel demand. We see significant opportunities for steel in EVs due to additional uses and recovery in traditional ones, given the cost and lifecycle CO2 advantages of steel. Growth in the automotive sector may be moderated by the emergence of automated vehicles in the long term.
+11 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+The carbon challenge for steel. 
+Box 3: the role of end-of-life scrap in low-emissions steel transition. 
+Global steel production will continue to rely on primary sources (iron ore) until around 2100.
+Today, most primary sources of iron (iron ore) used to make steel are processed through a blast furnace (BF) for ironmaking and subsequently through a basic oxygen furnace (BOF) for steelmaking, using coal-based products such as pulverised coal and coke as energy inputs to reduce the iron ore. To a lesser extent, steel from iron ore is also produced via the direct reduced iron (DRI) process using natural gas or gasified coal. Although both these routes partially add scrap to make steel, most scrap used globally is processed into steel directly through an electric arc furnace (EAF), using electricity as the main energy input (see annex 1).
+Scrap used in steelmaking comes from two different sources: • Pre-consumer scrap, arising from yield losses in iron and steelmaking and manufacturing of steel-based products. • End-of-life scrap, arising from the recovery of steel-based products at the end of their operational life, typically 10-50 years or more after production, depending upon application. As a result, the availability of end-of-life scrap lags steel demand by several decades.
+Although the availability of end-of-life scrap is forecast to grow (see graph below), global steel demand growth means end-of-life scrap will meet less than 50% of steel needs by 2050. As living standards improve and infrastructure across the globe matures, demand for steel will eventually plateau. After that, enough end-of-life scrap will be available to meet the bulk of steel demand, leading to a fully circular steel value chain. Since this transition is unlikely to become reality much before the end of the century, iron and steelmaking from iron ore will continue to play an important role in meeting global steel demand well beyond 2050.
+500 1,000 1,500 2,000 3,000 2,500 1990 2050 2040 2030 2020 2010 2000 1995 2045 2035 2025 2015 2005. 
+End-of-life scrap. 
+Business as usual – BAU. 
+Iron ore. 
+Steel demand outlook (million tonnes)
+End-of-life scrap. 
+Iron ore. 
+DRI-EAF. 
+EAF. 
+Steel. 
+Global steelmaking by (1) production route, (2) metallic input, (3) source of iron. 
+Scrap. 
+DRI. 
+BF-BOF. 
+Pig iron 1
+2 3. 
+Source: ArcelorMittal Corporate Strategy 12 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Figure 2: Indicative CO2 emissions outlook for steel 9 World Steel Association (2019), Steel’s Contribution to a Low Carbon Future and Climate Resilient Societies.
+Business as usual (BAU)
+This projection of CO2 emissions shown in figure 2 below is based on the BAU steel demand outlook, which includes the increasing volumes of end-of-life scrap forecast shown in box 3 on page 12.
+Steelmaking yield improvement. 
+Continued improvements in the steel supply chain, particularly through the digital revolution and evolving manufacturing technologies, will drive continued yield improvement from crude steel production to final steel in products, equipment, buildings and infrastructure. This will reduce the amount of steel production needed for the same products, equipment, building and infrastructure under a BAU scenario.
+Circular economy. 
+Products, equipment, buildings and infrastructure designed to use less steel will all moderate the growth rate of steel demand compared to a BAU scenario. The transition to a circular economy – with new business models focused on greater sharing of our material world (homes, cars, etc.), extended product longevity and reuse at end of life – will also reduce demand for steel compared to a BAU scenario.
+Energy efficiency. 
+Over the last 50 years, the steel industry has reduced its energy consumption per tonne of steel by 61%.9 A recent World Steel Association study shows potential for a further 15-20% reduction in energy intensity.
+Adoption of low-emissions technologies. 
+Steel production will continue to depend on primary sources (iron ore) to meet future demand, as shown in figure 4. To achieve the Paris Agreement objectives, this primary steel production will have to transition to low-emissions technologies for iron ore reduction. This will entail a transition to low-emissions energy sources through a combination of use of clean power, circular carbon (see box 4 on page 15), and continued use of fossil fuels with carbon capture and storage. Detailed descriptions of low-emissions technology pathways for the steel industry are given in chapter 4, and ArcelorMittal’s innovation programme to demonstrate such technologies is described in chapter 5.
+2050 2040 2030 2020 2045 2035 2025. 
+Energy efficiency. 
+Business as usual – BAU. 
+Yield improvement. 
+Circular economy. 
+Adoption of low-emissions technologies. 
+Remaining CO2. 
+Meeting the carbon challenge for steel will require continued energy and yield improvements, a shift to a circular economy, and the adoption of low-emissions technologies.
+13 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+4 Low-emissions technology pathways and policy scenarios. 
+Low-emissions steelmaking will be achieved through the use of a combination of clean power, circular carbon, and fossil fuels with capture and storage (CCS).
+Future energy inputs for primary steelmaking. 
+The steel industry has made significant improvements in energy and yield efficiency, reducing the emissions intensity of steel production during recent decades. Further technological innovation should lead to continued reductions in emissions intensity over the next decade.
+However, to accelerate emissions reduction and align with the demanding objectives of the Paris Agreement, the steel industry will have to transition to one or more low-emissions technology pathways. These are illustrated on pages 14-15. They include transitioning to new energy inputs in the form of a) clean power, b) circular carbon and c) fossil fuels with carbon capture and storage.
+a) Clean power used as the energy source for hydrogen-based ironmaking, and longer term for direct electrolysis ironmaking, and also contributing to other low-emissions technologies.
+b) Circular carbon energy sources including bio-based and plastic wastes from municipal and industrial sources and agricultural and forestry residues (see box 4).
+c) Fossil fuels with carbon capture and storage (CCS) enabling the continued use of the existing iron and steelmaking processes while transforming them to a low-emissions pathway. This shift would require national and regional policies to create the necessary large-scale infrastructure network for the transport and storage of CO2.
+14 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Circular Carbon. 
+Low-emissions steelmaking. 
+Fossil Fuels with CCS Clean Power. 
+Box 4: the importance of circular carbon. 
+While climate change needs to tackle the increased concentration of carbon-based gases in our atmosphere, carbon is and will remain an essential building block of nature and our material world. Circular carbon treats carbon as a renewable resource that can be reused indefinitely.
+Today over half of the renewable energy used in Europe already comes from circular carbon in the form of renewable biomass and bio-waste. Increased use of renewable biomass globally is also a critical enabler to three of the four IPCC pathways to 1.5ºC in their latest report.10. 
+More of society’s waste – including construction wood, agricultural and forestry residues, and plastic waste – can potentially be used sustainably as a valuable source of circular carbon. The steel sector has the potential to be one of the most efficient users of the limited quantity of circular carbon available in society.
+Furthermore, the carbon gases that result from iron and steelmaking with circular carbon can be captured and converted into recyclable products. At the end of their use, these products will themselves become sources of circular carbon, closing the loop and creating an endless cycle of carbon.
+10 IPCC (2018), Summary for Policy Makers 15 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Box 5: possible low-emissions technology pathways using different energy sources. 
+All technology pathways to low-emissions steelmaking entail higher costs and require time, investment and clean energy infrastructure.
+Energy sources Low-emissions steelmaking technology pathways. 
+Iron electrolysis. 
+Develop iron ore electrolysis from clean electricity. 
+Green hydrogen DRI. 
+Develop hydrogen-based DRI production from clean electricity. 
+Smart carbon. 
+Produce steel with circular carbon and hydrogen, and manufacture carbon-based products from waste gases. 
+Blue hydrogen DRI. 
+Develop hydrogen-based DRI production from reformed natural gas. 
+DRI with carbon capture. 
+Use existing technology incorporating carbon capture and storage. 
+Blast furnace with carbon capture. 
+Use existing technology incorporating carbon capture and storage. 
+A successful transition to low-emissions steelmaking will require policies that offset higher costs, provide access to sufficient clean energy and financial support to accelerate technology innovation.
+• National and regional policies regarding energy infrastructure and allocation by sector. These may affect the availability of green and blue hydrogen, circular carbon (bio-waste, waste plastic, and agricultural and forestry residues), and large-scale carbon transport and storage infrastructure.
+Low-emissions technology pathways and policy scenarios. 
+Policy needs. 
+The viability of different low-emissions steel technology pathways at each steelmaking site is likely to differ by region, depending on three aspects of policy: • Policies to ensure steelmakers compete on a level playing field. Where carbon policy drives steelmakers to adopt low-emissions technologies, involving structurally higher operating costs, mechanisms such as a green border adjustment enable steel from these producers to compete fairly with imports from higher emitting steelmakers.
+H2 CO. 
+H2. 
+H2 e-
+H2. 
+H2. 
+H2 CO. 
+H2 CO. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Circular Carbon. 
+Iron electrolysis. 
+Water electrolysis. 
+EAF. 
+H2 DRI-EAF. 
+DRI-EAF. 
+CCS. 
+CCS. 
+H2 DRI-EAF. 
+CCS. 
+BF-BOF. 
+BF-BOF. 
+CCS. 
+Plastic. 
+Chemicals Fabrics. 
+Fuel 16 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Incremental costs to produce steel* (OPEX and CAPEX)
+Commercial horizon. 
+Energy infrastructure challenge. 
+Energy technology challenge. 
+Steel technology challenge. 
+To be determined 20-30 years. 
+Power infrastructure exists – to be expanded to accommodate steelmaking needs. 
+Electrolysis ironmaking +60-90% 10-20 years. 
+Green hydrogen economy needs to be created – can be done incrementally. 
+Lowering green hydrogen production costs. 
+Hydrogen ironmaking +20-35% 5-10 years. 
+Circular carbon and hydrogen economy expansion – can be done incrementally. 
+Develop commercial bio-coals, bio-cokes and bio-gases for steelmaking. 
+Commercial combined carbon and hydrogen steelmaking; upside of carbon capture and use +35-55% 10-20 years. 
+Develop large commercial natural gas-based hydrogen and carbon storage projects. 
+Hydrogen ironmaking +35-55% 5-10 years. 
+Develop economy-wide commercial carbon transport and storage infrastructure. 
+Commercial CO2 capture technologies +30-50% 5-10 years. 
+Develop economy-wide commercial carbon transport and storage infrastructure. 
+Commercial CO2 capture technologies • The level of private and public investment support.
+This will dictate the speed of development of low-emissions innovation projects in order to assess their commercial viability; and, where such projects are successful, for the roll out of low-emissions technologies across different steel plants.
+In view of these needs, we believe steel companies need to maintain a flexible technology innovation roadmap to adapt to the various technology development timelines, clean energy and policy landscapes of the future. Conversely, policy certainty from national and regional governments and institutions will be instrumental in supporting the steel industry to decarbonise at a pace commensurate with supporting the objectives of the Paris Agreement.
+Source: ArcelorMittal internal estimates for transition to low-emissions steelmaking in Europe based on current factor prices. *Compared with average annual net income of steel industry, which between 2010-2017 was 2% of revenues.
+17 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Low-emissions technology pathways and policy scenarios. 
+We have developed four policy scenarios to assess the implications of different levels of policy commitment for the steel industry’s ability to meet the carbon challenge. We have used this analysis to inform our policy recommendations presented in chapter 6.
+Policy scenarios: driving the transition to low-emissions steel. 
+A concerted public and private investment effort is essential to accelerate the pace of development and roll out of commercial low-emissions technologies and advance the timeline to make the steel industry ‘technology ready’ to meet the objectives of the Paris Agreement.
+Steel is a global material traded directly across countries and continents in the form of sheets and bars for steel products, equipment, buildings and infrastructure. It is also embedded in the imported goods consumers buy, such as cars, appliances, etc.
+Countries and regions that introduce a cost of CO2 emissions, but with neither supportive energy policies nor effective mechanisms to maintain the competitiveness of low-emissions versus higher-emissions steel, will fail to decarbonise their steel. What is more, it may in fact disadvantage their steel industry as production will migrate to other countries and regions that do not support decarbonisation, thereby exacerbating the carbon challenge globally (Stagnate scenario).
+Even in jurisdictions actively providing financial support to develop and roll out low-emissions technologies, the steel industry will need further support. Without effective mechanisms to offset the structurally higher operating costs of deploying these technologies, and affordable access to the clean energy they need, the steel industry will be unable to make the necessary shift needed to meet the goals of the Paris Agreement (Wait scenario).
+Countries and regions developing supportive energy policies, and establishing a fair mechanism to offset the structurally higher costs of low-emissions steel producers, will succeed in transitioning to low-emissions steelmaking (Accelerate scenarios). They will reap the benefits of a positive steel industry that contributes to their economies and to the carbon challenge. But only if such mechanisms are applied globally can this acceleration take place on a global scale and the steel industry become a successful partner in meeting the objectives of the Paris Agreement.
+STAGNATE • Lack of access to sufficient and affordable clean energy • No mechanism to address high risk that steel production is made structurally uncompetitive across countries/regions • Slow development of low-emissions steelmaking technologies • No meaningful reduction in global steel CO2 emissions as production shifts to less carbon-regulated jurisdictions • Insignificant global progress to goals of Paris Agreement. 
+WAIT • Technology makes encouraging progress and is potentially ready for significant deployment within 10-20 years • But only fragmented access to affordable clean energy • No mechanism to address high risk of steel production being structurally uncompetitive in affected countries/regions • Marginal steel CO2 reductions globally as production shifts to less carbon-regulated jurisdictions • Limited progress towards goals of Paris Agreement. 
+ACCELERATE regionally • Technology makes encouraging progress and is potentially ready for significant deployment within 10-20 years • Access to sufficient and affordable clean energy in supportive countries/regions • Regions with more active climate legislation ensure mechanisms are in place to enable steel production to remain competitive, e.g. green border adjustment • Significant reductions in steel CO2 in supportive countries/regions • Partial global progress to goals of Paris Agreement. 
+ACCELERATE globally • Technology makes encouraging progress and is potentially ready for significant deployment within 10-20 years • Access to sufficient and affordable clean energy globally • Low-carbon legislation in place in the majority of countries, ideally with a common global framework or mechanism to ensure steel production remains competitive globally • Significant global reductions in steel CO2 • Global industry alignment with goals of Paris Agreement 18 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Box 6: policy scenarios and their effectiveness in driving de-carbonisation of the steel industry. 
+Figure 3. 
+Table 2. 
+Policy challenge. 
+Structurally higher operating costs of low-emissions steelmaking. 
+Ineffective mechanism in place to offset structurally higher operating costs of low-emissions steelmakers versus higher-emissions steelmakers. 
+Ineffective mechanism in place to offset structurally higher operating costs of low-emissions steelmakers versus higher-emissions steelmakers. 
+Mechanisms to maintain competitive market by offsetting structurally higher operating costs of low-emissions steelmakers versus higher-emissions steelmakers and imports set in some countries and regions, e.g. green border adjustment. 
+Common global framework is implemented to maintain competitive market to offset structurally higher operating costs of low-emissions steelmakers versus higher-emissions steelmakers. 
+Clean energy infrastructure and allocation by sector. 
+No concerted policy in any market to incentivise and allocate clean energy to steel sector. 
+No concerted policy in any market to incentivise and allocate clean energy to steel sector. 
+Support for clean energy to steelmaking industry from clean power, circular carbon and carbon capture and storage infrastructure provided in only some countries and regions. 
+Support for clean energy to steelmaking industry from clean power, circular carbon and carbon capture and storage infrastructure provided globally. 
+Investment in low-emissions steelmaking technologies (development and roll out)
+Limited public support for R&D to bring technologies to commercialisation maturity. 
+Accelerated public support for R&D to bring technologies to commercialisation maturity; some investment support for roll out of technologies. 
+Accelerated public support for R&D to bring technologies to commercialisation maturity; high levels of investment support for roll out of technologies. 
+Accelerated public support for R&D to bring technologies to commercialisation maturity; high levels of investment support for roll out of technologies. 
+Pace of deployment of low-emissions technologies. 
+Level of policy RESPONSE LOW HIGH. 
+HIGH. 
+STAGNATE. 
+WAIT. 
+ACCELERATE. 
+Regionally. 
+ACCELERATE. 
+Globally 19 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+5 ArcelorMittal strategy towards low-emissions steelmaking. 
+Energy efficiency, increased use of scrap, technology innovation and policy engagement are the four components of our climate action strategy.
+Over the last 150 years, the steel industry has seen significant energy efficiency and yield improvements.11 While incremental improvements will continue, far more is needed to meet the objectives of the Paris Agreement.
+Significant emissions reduction requires creative and innovative thinking, which is at the heart of our €250 million low-emissions steelmaking innovation programme.12. 
+ArcelorMittal’s low-emissions strategy has four components: 1. Energy efficiency in our steelmaking operations across the globe to help meet our medium-term emissions reduction targets.
+2. Consideration of opportunities for further steel production using end-of-life scrap based on its availability in the regions where we operate.
+3. A flexible, integrated innovation programme to develop the technologies for steelmaking in a low-emissions circular future.
+4. Policy analysis and engagement to understand and advocate for the policies that will support the transition to a low-emissions future in the different geographies where we operate.
+1. Energy efficiency programme. 
+Over the last decades, the steel industry has significantly reduced the carbon intensity of steel, by focusing on energy efficiency gains and yield improvements.
+For example, ArcelorMittal is today a leader in industrial gasinjection technology. This has enabled us to increasingly replace metallurgical coke with alternative sources of carbon such as pulverised coal or natural gas. Some of our most advanced blast furnaces are now injecting 50% of the total carbon required for the process using this technology – with the effect of reducing the total amount of fossil fuels required. This capability to use the blast furnace as a large-scale ‘gasifier’ in industry puts us in a good position for the adoption of low-emissions technologies for steelmaking.
+Our business segments are now required to prepare CO2 reduction plans as part of the annual planning cycle, making use of a range of existing and innovative approaches.
+To support them, our global R&D team is continually innovating to deliver energy efficiency and yield improvements. In 2018, we deployed 19 new processes to this end. However, many plants are approaching the physical limits of energy efficiency, and a transition to low-emissions technologies is needed to deliver further substantial emissions reductions.
+Each year our Investment Allocation Committee (IAC) allocates capital to investment projects that improve energy performance. Proposals to the IAC are required to assess the CO2 benefit of the project, enabling an assessment with a suitable carbon price to reflect the local context.
+In 2018, ArcelorMittal made capital allocations totalling $247 million for 26 projects aimed at improving energy efficiency, bringing the three-year total to $728 million.
+11 By 50% in about 75 years, based on DEH data of consumption of reducing agents used in blast furnaces in Germany (including Eastern Germany from 1991). 12 This is the multi-year budget covering our low-carbon development and demonstration programme with partners, aimed at building industrial pilots and demonstrations and is additional to our annual R&D expenditure.
+$728m Capex allocated to energy efficiency improvements in the last three years 20 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+2. Further opportunities for secondary steelmaking. 
+The availability of end-of-life scrap is projected to increase globally over the coming decades as increasing amounts of building structures and equipments approach their end of life. By 2050, there will be sufficient supplies to feed some 50% of global steel production. As this availability increases in regions where we operate, we will consider creating additional opportunities for secondary steelmaking in electric arc furnaces.
+ArcelorMittal currently operates 32 electric arc furnaces across the world, of which 13 are located in Europe. In 2018 we produced 19% of our steel from these furnaces.
+Blast furnace facilities and electric arc furnaces *The 2018 BF footprint presented above is not including the Ilva remedies (Ostrava and Galati). Including these assets the total number of BFs is 58.
+12 2
+6 7
+22 13 11 10. 
+Blast furnaces*
+Electric arc furnaces. 
+NAFTA Brazil Europe ACIS 21 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+ArcelorMittal strategy towards low-emissions steelmaking 3. Flexible, integrated, circular approach to innovation. 
+The global challenge posed by the transition to low-emissions steelmaking is large and complex, and will require multiple solutions. Our innovation approach is focused on providing flexibility to adapt to different possible clean energy futures in different regions and countries, whether it is clean power, circular carbon, or fossil fuels with CCS, or a combination of all three.
+The strength of our €250 million research and demonstration programme is its breadth and flexibility. While each of our technologies can be stand alone and scaled up individually, we can also integrate them to deliver significant advantages for the various low-emissions steelmaking pathways.
+The key technologies in this programme are represented in Figure 4.
+In addition, our innovation approach supports three key underlying principles of a low-emissions circular economy: • Supporting the advancement of renewable energy by developing technologies that can make use of intermittent renewable power from wind and solar (either directly or indirectly through hydrogen), thus helping to reduce grid instabilities. • Accelerating the circular economy by developing technologies that enable waste streams to be reused commercially, turning them into materials and feedstock for other industries and sectors. • Creating industrial symbiosis between the steel, chemicals and cement industries through a logistics network to share and reuse CO2 as a feedstock for the production of chemicals. The logistics network can be expanded further to transport and store CO2 , for example in depleted oil fields.
+4. Policy analysis and engagement. 
+We have analysed the energy resources, costs and infrastructure needed for each low-emissions technology pathway and assessed the implications of different policy scenarios on the pace of deployment of these technologies (see chapter 4).
+This analysis forms the basis for our policy recommendations to accelerate the transition to low-emissions steelmaking, which are presented in chapter 6.
+To build an understanding of the need for policy support, ArcelorMittal engages with customers and investors as well as policymakers and global organisations regarding our outlook for low-emissions steelmaking. This includes organisations such as the We Mean Business coalition, the World Business Council for Sustainable Development, CDP, the Science-Based Targets Initiative and the International Energy Association.
+Low-emissions steelmaking. 
+Circular Carbon. 
+IGAR. 
+Torero. 
+Carbon2value. 
+Carbalyst®
+H2 Hamburg. 
+Siderwin. 
+Fossil Fuels with CCS Clean Power. 
+Figure 4 22 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+There is no ‘one size fits all’ solution to move away from emissions-intensive steelmaking. Our technology portfolio enables us to pursue the full range of possible technology pathways, depending on which becomes the most viable in the countries and regions where we operate.
+ArcelorMittal’s low-emissions innovation programme. 
+Today, the reduction of iron ore to iron is predominantly achieved using high temperature carbon monoxide (CO), sourced from fossil fuels – coke and pulverised coal – which is also used as an affordable source of energy.
+Science has given us three alternatives to this: deriving CO from circular forms of carbon, applying the process of electrolysis, or using high-temperature hydrogen gas.
+The latter two pathways require vast amounts of electrical energy, which would all need to come from clean sources. Such quantities of clean power will not become available to the steel industry overnight at affordable prices.
+To reduce emissions within the timeframe needed, therefore, ArcelorMittal is exploring opportunities to combine technologies that use more clean power with those that involve circular sources of carbon, alongside carbon capture, carbon utilisation and carbon storage.
+Our portfolio of technologies offers us the ability to respond to whichever energy sources are made affordable by the policy frameworks in place. Our key projects are outlined in detail over the pages that follow.
+Figure 5: From iron ore to iron for primary steelmaking. 
+CO H2. 
+High-temperature gas Electricity. 
+Iron. 
+Iron ore. 
+Hydrogen gas reduction Reduction by electrolysis. 
+Carbon monoxide gas reduction 23 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+ArcelorMittal strategy towards low-emissions steelmaking. 
+Torero: reducing iron ore with waste carbon. 
+Today, most blast furnaces reduce iron ore using a hightemperature, synthetic gas derived from coal and coke. This makes the modern blast furnace with its high-tech gasification technology ideal for replacing fossil fuels with ‘circular carbon’ inputs, such as bio-waste, including agricultural and forestry residues, and even waste plastics.
+Our Torero project targets the production of bio-coal from waste wood to displace the fossil fuel coal that is currently injected into the blast furnace. We are developing our first large-scale Torero demonstration plant in Ghent, Belgium. In this €40 million project (with €12 million funding from EU Horizon2020) we aim to convert 120,000 tonnes of waste wood annually into bio-coal. This source of waste wood is considered hazardous material if burnt in an incinerator as harmful gases would be emitted, but in the blast furnace no such pollutants can be formed.
+Future projects would see expansion of sources of circular carbon to other forms of bio-based and plastic waste.
+With its high-tech gasification technology, the modern steel industry is the ideal sector to advance the circular economy by reusing bio-waste, plastic waste, and agricultural and forestry residues.
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Figure 6: the Torero process. 
+Blast furnace. 
+Torrefaction. 
+Waste biomass. 
+Biocoal 24 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+IGAR: reforming carbon to reduce iron ore. 
+The IGAR13 project aims to capture waste CO2 from the blast furnace and convert it into a synthetic gas (syngas) that can be reinjected into the blast furnace in place of fossil fuels to reduce iron ore. Since the amount of coal and coke needed in steelmaking is reduced, this process helps to reduce CO2 emissions.
+The syngas we need is made up of carbon monoxide (CO) and hydrogen (H2). To form this, waste CO2 is heated with natural gas (CH4) to very high temperatures using a plasma torch – a process called dry reforming.
+In future, we hope to use bio-gas or waste plastics in place of natural gas, furthering the use of circular carbon. And with the plasma torch running on clean power, the entire process enables substantial emissions reductions.
+The IGAR project has seen a number of phases. Last year, to overcome the corrosive effects of the high-temperature syngas involved, our R&D labs in Maizières, France, developed both the specialist metals and refractories needed.
+Today in Dunkirk, France, ArcelorMittal is running a €20 million project, supported by the French ADEME, to construct a plasma torch. To test-use the hot syngas created by the plasma torch, a pilot project is also running at the same plant.
+Waste CO2 can be reformed into a synthetic gas suitable for reducing iron ore, giving it a second life. Our ultimate goal is to use clean power and waste plastics for low-emissions circular carbon steelmaking.
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Figure 7: IGAR process. 
+CO+H2 CO2. 
+Biogas. 
+Plastics. 
+Electricity. 
+Blast furnace. 
+Plasma torch 13 Injection de Gaz Réformé 25 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+ArcelorMittal strategy towards low-emissions steelmaking. 
+Carbalyst®: capturing carbon gas and recycling into chemicals. 
+The waste gases that result from iron and steelmaking are composed of the same molecular building blocks – carbon and hydrogen – used to produce the vast range of chemical products our society needs. Today most waste gas is incinerated, resulting in CO2 emissions.
+With our partner Lanzatech, supported by the EU Horizon2020 Steelanol project, we are building the first large-scale plant to capture the waste gas and biologically convert it into bio-ethanol, the first commercial product of our Carbalyst® family of recycled carbon chemicals. Thanks to a lifecycle analysis study, we can predict a CO2 reduction of up to 87% compared with fossil transport fuels, so this bio-ethanol can be used to support the decarbonisation of the transport sector as an intermediate solution during the transition to full electrification. In the future, we will expand the family of Carbalyst® products to other biochemicals and biomaterials.
+Construction started recently on a €120 million demonstration facility in Ghent, Belgium. Once completed in 2020, the facility will capture around 15% of the available waste gases at the plant and convert them into 80 million litres of ethanol per year. This result will be a CO2 reduction equivalent to 100,000 electric vehicles or 600 transatlantic flights per year.
+The carbon-intensive gas produced in ironmaking is an ideal feedstock for biotechnology. With our partner Lanzatech we are working on a family of novel recycled chemicals: Carbalyst®
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Figure 8: Carbalyst® technology. 
+CO. 
+Carbalyst® process. 
+Plastic Chemicals Fabrics Fuel. 
+Blast furnace. 
+Ethanol 26 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Carbon2Value: capturing fossil fuel carbon for storage or reuse. 
+Developing cost-effective technologies to capture and separate CO2 from our waste gases, and liquefy it for subsequent transport and storage or reuse, could be key to the transition to low-emissions steelmaking. Combining this with a circular carbon energy input would further reduce CO2 emissions.
+A pilot plant to capture CO2 has been built in Ghent, Belgium, together with Dow Chemicals as part of the Carbon2Value project supported by INTERREG2Seas.14. 
+Additionally, at Dunkirk, France, a €20 million industrial pilot to capture CO2 using only low-temperature waste heat is under construction with our partner IFPen, supported by the French administration ADEME. This pilot project is aimed at achieving the cost reductions required to make such processes commercially viable.
+We are integrating breakthrough technologies to bring down the costs of capturing, purifying and liquefying CO2 from our waste gases. Liquid CO2 can be made available to other industries for reuse, or transported for storage underground.
+14 Interreg2Seas: North of France, Flanders, South of Netherlands and UK. 
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Figure 9: fossil fuel carbon capture and storage. 
+Transportation. 
+Blast furnace. 
+CARBON CAPTURE. 
+CO2. 
+CO2. 
+CO2. 
+CO2 CO2. 
+CO2. 
+Storage 27 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+ArcelorMittal strategy towards low-emissions steelmaking. 
+Figure 10: reducing iron ore with hydrogen H2 Hamburg: reducing iron ore with hydrogen. 
+Today, in a Direct Reduced Iron (DRI) furnace fed with natural gas (CH4), approximately 50% of the reaction comes from hydrogen (H2), and the remainder from carbon monoxide. Technologies can be developed to increase the proportion of hydrogen used up to 100%.
+We are planning a new project at our Hamburg site to use hydrogen on an industrial scale for the direct reduction of iron ore in the steel production process. Project costs amount to around €65 million.
+The project will allow us to develop an understanding of how our existing DRI plants could take advantage of green hydrogen (generated from renewable sources), should this become available and affordable at some point in the future. While theoretically the reduction of iron ore with pure hot hydrogen is understood, a large number of practical roadblocks still exist. These can only be studied when the process is running on a large scale, which has until now not been done due to the lack of hydrogen infrastructure.
+The process of reducing iron ore with hydrogen will first be tested using hydrogen generated from gas separation. We aim to achieve the separation of H2 with a purity of more than 95% from the waste gas of the existing plant, using a process known as ‘pressure swing absorption’. In the future, the plant should also be able to run on green hydrogen when it is available in sufficient quantities at affordable prices.
+The experimental installation at the Hamburg DRI plant will demonstrate the technology with an annual production of 100,000 tonnes.
+Abundant and affordable clean power would also enable low-emissions steelmaking with ‘green hydrogen’. We are preparing a demonstration project in Hamburg to test this on a large scale.
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+H2. 
+H2. 
+Iron (DRI)
+Green hydrogen. 
+Waste gas processing. 
+Iron ore. 
+Hydrogen gas reduction 28 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Figure 11: the Siderwin process Siderwin: reducing iron ore via electrolysis. 
+In principle, iron can be reduced from iron ore (Fe2O3 or Fe3O4) through direct electrolysis. When iron ore is introduced into an electrolytic bath (a bath with an electrical current running through two electrodes), the iron (Fe) will be attracted to one electrode and the oxygen (O) to the other.
+Our R&D laboratories in Maizières, France, have developed the first electrolytic cell prototype, proving the viability of iron electrolysis. It also showed that the process can operate in a highly flexible start/stop mode, ideal for power grids dependent on large amounts of intermittent renewable power. Moreover, our tests have shown that less power is required than is needed to make hydrogen from water using electrolysis.
+ArcelorMittal is the lead company of the Siderwin project, which is further developing this technology. Together with 11 partners and with €7 million funding from EU Horizon2020, a threemetre industrial cell is under construction and various types of iron ore sources (including waste sources) will be tested.
+With sufficient access to affordable clean power, the development of this process will pave the way to zeroemissions iron ore reduction.
+Once affordable clean power is abundantly available, direct electrolytic iron ore reduction becomes a very attractive route. With the Siderwin project, we are building an industrial pilot.
+Circular Carbon. 
+Low-emissions steelmaking. 
+Clean Power. 
+Fossil Fuels with CCS. 
+Electricity. 
+Iron. 
+Iron ore. 
+Electrolytic bath + –
+Fe O2 29 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+6 Policy recommendations. 
+ArcelorMittal advocates the development and implementation of carbon regulations and market mechanisms to enable the rapid deployment of low-emissions steelmaking that will deliver the global objectives of the Paris Agreement.
+Global recommendations 1. Global level playing field. A global framework to create a level playing field is needed to avoid the risk of carbon leakage, for example, through green border adjustments. This is to ensure that steelmakers bearing the structurally higher operating capital costs of low-emissions technology can compete with imports from higher-emissions steelmakers.
+2. Access to abundant and affordable clean energy. Policies giving the steel industry access to abundant and affordable renewable electricity will be key to scaling up the Clean Power pathway. For acceleration of the circular carbon pathway, the steel industry requires priority access to biomass and waste.
+3. Facilitating necessary energy infrastructure. In addition to abundant renewable electricity, policies to support investments in hydrogen infrastructure will be needed to advance large-scale hydrogen-based processes. Similarly, for the Fossil Fuels with CCS pathway, enabling policies are also important to accelerate the development of carbon transport and storage infrastructure and services.
+4. Access to sustainable finance for low-emissions steelmaking. The scale of the challenge requires an acceleration of technology development and roll out. Breakthrough steelmaking technologies need to be identified as a key priority area for public funding.
+5. Accelerate transition to a circular economy. Materials policy should divert waste streams from landfill and incineration. It should focus on driving recycling and reuse of all waste streams and incentivise the use of waste streams as inputs in manufacturing processes. It should reward products for their reusability and recyclability.
+Given that our most substantial climate-related risks are located in the EU, we present specific policy recommendations for this region in box 8.
+Box 7: ResponsibleSteel™
+ArcelorMittal has taken a leading role in forming ResponsibleSteel™, the steel industry’s first multistakeholder global certification initiative. ResponsibleSteel™ aims to give businesses and consumers confidence that steel certified under this standard has been sourced and produced responsibly at all levels of the supply chain: from mining to production processes, to final stage sales and distribution. The certification standard includes requirements on carbon alongside other air emissions, water responsibility, biodiversity, human rights, labour laws, local communities, business integrity and supply chain management.
+The carbon standards within ResponsibleSteel™ are undergoing consultation in 2019 and are expected to be in line with the Paris Agreement. So whilst this initiative will not compensate steelmakers for the structurally higher costs of low-emissions steelmaking, it could play an important role in driving the commitment of steel companies to achieving the Paris objectives.
+30 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Box 8: long-term EU climate policy recommendations for steel. 
+To reduce the risk of carbon leakage, the EU Emissions Trading Scheme (ETS) includes a system of free allocation of emissions allowances. The amount of allowances allocated to each facility is based on a benchmark, which should mean that the top 10% best performing plants are not faced with additional carbon costs. However, the benchmark currently determined for integrated steel plants means that even the best performing plant in the world must purchase emissions allowances.
+In Phase 4 of the EU ETS, we could face an increase in marginal production costs by around €50 per tonne of steel15 with €5 billion in potential cumulative costs as a result (see chapter 8).
+At the same time, steel is also imported into Europe, often from countries without a comparable carbon cost. This means that EU producers absorbing the structurally higher structural costs of breakthrough technologies are competing against more carbon-intensive manufacturers with lower operating costs. A recent study estimated that about a quarter of global CO2 emissions are embedded in products that are traded across national boundaries, a substantial share of which contain steel.16. 
+Without a green border adjustment, the lowest-cost approach to reduce GHG emissions within the EU ETS is to import steel from outside the EU (carbon leakage).
+In addition to the global policy recommendations, therefore, the following are needed in the European context: 1. Green border adjustment to ensure level playing field. To incentivise long-term investments in carbon efficiency and low-emissions technologies, a level playing field is an essential first step. The best way to do this in the framework of the EU ETS is to implement a green border adjustment, where steel importers pay for the embedded CO2 emissions of imported steel at the same rate as European manufacturers. This would safeguard the competitiveness of the European steel industry. We are engaging with European governments on the implementation of a green border adjustment, a position also supported by the European Steel Association (Eurofer).
+2. Access to abundant and affordable clean energy. This is currently not available nor economically viable in Europe. Improvements are therefore needed in the EU state aid rules for energy and environment to enable the roll out of low-emissions steelmaking.
+3. Access to sustainable finance for low-emissions steelmaking. Some of our current R&D projects are funded by EU Horizon 2020. Accelerating and rolling out low-emissions steelmaking will need further public funding through, for example, the EU ETS Innovation Fund. Definitions of projects eligible under the draft EU Sustainable Finance legislation should consider their contributions to the low-carbon circular economy. In particular, the development of smart circular carbon loops should be incentivised.
+4. Update the benchmark methodology for free allocation in Phase 4 of the EU ETS to make it technically feasible.
+5. Accelerate transition to a circular economy. EU climate and materials policy should be integrated, taking a lifecycle perspective to ensure that materials are used in as circular way as possible.
+15 Assuming an EU Emissions Allowance price of €25/t CO2 and a carbon intensity of about 2 tonnes of CO2/t primary steel. 16 KGM, GEI and ClimateWorks Foundation (2018), The Carbon Loophole in Climate Policy.
+31 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+7 Carbon performance and targets. 
+ArcelorMittal is making more primary steel, but emissions intensity remains constant.
+Carbon intensity improvements. 
+The overall average carbon footprint intensity of all our steelmaking routes was 2.12 tCO2 per tonne of crude steel in 2018.17 As shown in figure 14, this has remained relatively stable since 2007 (although when looking at the sites we own today that we operated in 2007, there is a 6% improvement over the same period). During this period, the share of primary steelmaking in our production increased from 73% to 78% as we responded to changes in structural market demand.18. 
+Primary steelmaking using coke and coal to reduce iron ore is more carbon-intensive than secondary steelmaking using scrap powered with electricity. The increase in the primary:secondary production ratio would, other things being equal, lead to an increase in the average carbon intensity of our steel. However, as shown in figure 14, this is not the case, and our carbon intensity has remained relatively constant. During this period, we have seen improvements in energy and yield efficiencies in our primary steelmaking plants, and a reduction in the carbon intensity of the electricity grid used in our EAF plants. These two factors are effectively negated by the increased proportion of primary steelmaking, leaving the overall average carbon intensity of our steel in 2018 at a similar level to 2007.
+By comparison, the global average carbon footprint intensity is 1.83 tCO2 per tonne of crude steel.19 ArcelorMittal’s higher average intensity is due to our higher use of the emissionsintensive primary steelmaking route: in 2018, we used this route for 78% of our steelmaking, compared to a global average of about 72%.20 17 This carbon intensity covers all plants which were in our operational control in the reporting year. Using worldsteel methodology, data covers scope 1 and scope 2 CO2 emissions, as well as those scope 3 emissions covering purchased pre-processed materials or intermediate products. Comparison is thus of CO2 emitted for each tonne of steel made within a uniform boundary, and may relate to a broader perimeter than is represented in other steel company data.
+18 The financial crisis in 2007/8 led to a protracted decline in demand for steel, particularly from the construction industry in developed countries. In response, we gradually reduced our steel production from EAFs in Europe and North America, which serve these markets. We have also seen a relative rise in the demand for flat products over this time, which are mainly made from the primary BF-BOF route.
+19 World Steel Association, Sustainable Steel: Indicators 2018 and industry initiatives. 20 World Steel Association, World Steel in Figures 2018.
+Figure 13: carbon emissions and our changing portfolio 20 40 60 80 100 120 2.5. 
+Average CO2 intensity 2.0 0 0 2007 2008 2009 2010 2011 2012 2013 2014 2015 2017 2018 2016. 
+Steel Production (million tonnes of crude steel) Average CO2 intensity (tCO2/tonne of crude steel)
+BF-BOF DRI-EAF EAF 32 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Our total CO2 footprint across our steelmaking sites was 194 million tonnes of CO2 in 2018. ArcelorMittal also has mining activities which had a carbon footprint of nearly 9 million tonnes of CO2 equivalent in 2018.
+Scope 1: 167.35 Scope 2: 12.12 Scope 3: 14.65. 
+Figure 14: CO2 emissions from steelmaking 2018 (million tonnes)
+Total 194.12 1
+2 3. 
+Our carbon target. 
+ArcelorMittal’s current target is to reduce our average carbon footprint intensity by 8% by 2020 against a 2007 baseline. This target relates to those sites we operate today that we owned back in 2007, and therefore excludes acquisitions and divestments.
+Our pursuit of this target since 2007 has focused on efficiency and process improvements, many of which have been capitalintensive (see chapter 5). By the end of 2018, we had achieved a 6% reduction since 2007.
+Towards a new carbon target. 
+We are now focusing on building a roadmap which will underpin a new 2030 carbon reduction target for our steelmaking operations. This will incorporate both the potential for further technical efficiencies across our portfolio and a limited deployment of breakthrough technologies from our innovation programme.
+33 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Carbon performance and targets. 
+Figure 15: carbon efficiency improvement per tonne hot rolled coil (2007=100) 21 NB This is a different metric to that used for our carbon intensity target.
+ArcelorMittal’s underlying carbon efficiency is improving.
+105 100 95 90 85 80 2007 2008 2009 2010 2011 2012 2013 2014 2016 2018 2015 2017. 
+Carbon efficiency 100=2007 level -9%
+Carbon efficiency. 
+Steelmaking is dependent on a number of external factors influencing the carbon footprint intensity of steel. In order to understand the underlying carbon performance of our sites, ArcelorMittal created an internal metric in 2007.21 This normalises the carbon inputs and outputs of each process to understand the performance gaps between our different sites. The sheer number of sites in our portfolio enables us to use this metric to benchmark the carbon efficiency of each one.
+This process standardises the major external factors that influence carbon emissions such as raw material quality, scrap and slag reuse, and the emissions intensity of national electricity grids. These factors are mainly related to market forces and government policies, which we have limited ability to change while remaining competitive in the global steel market.
+In the absence of these factors, our carbon efficiency metric allows us to monitor the performance of our sites in relation to those factors which we do directly control, such as the way our staff manage and reuse energy and carbon onsite, and the technologies we deploy.
+The metric shows a 9% improvement in the carbon efficiency of our sites since 2007, as shown in figure 16. This is mainly due to our continued investment in process and efficiency improvements. It is notably greater than the progress we have made in our overall average carbon footprint intensity, which is influenced by the external factors described above.
+34 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Summary of key metrics. 
+Metric 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018. 
+Steel production (Mt crude steel) 113.9 102.3 73.1 92.5 92.2 88.6 90.9 93.4 92.7 90.4 92.9 91.5. 
+BF-BOF / DRI-EAF / scrap-EAF ratio 77:8:15 77:8:15 79:7:15 78:7:15 79:8:14 79:8:13 79:8:13 80:8:12 81:7:11 85:6:9 84:7:9 83:7:10. 
+Total CO2 emissions (MtCO2) – steel only22,23 244 227 164 201 194 189 195 196 198 193 196 194. 
+Scope 1 203 189 135 167 163 159 162 167 168 167 170 167. 
+Scope 2 24 23 18 19 18 17 18 14 14 12 13 12. 
+Scope 3 17 15 11 15 13 13 16 14 15 14 13 15. 
+Avoided CO2 emissions from slag used in cement (MtCO2) 11 10 7 8 9 9 10 10 10 10 11 11. 
+Avoided CO2 emissions from use of scrap steel (MtCO2) 53 44 33 41 40 38 40 40 38 35 38 37. 
+Average CO2 intensity (tCO2 / t crude steel)24 2.14 2.22 2.25 2.18 2.10 2.14 2.14 2.10 2.14 2.14 2.12 2.12. 
+Average BF-BOF CO2 intensity (tCO2 / t crude steel) 2.44 2.54 2.57 2.48 2.38 2.40 2.41 2.35 2.37 2.33 2.31 2.33. 
+Average scrap-EAF CO2 intensity (tCO2 / t crude steel) 0.74 0.67 0.65 0.66 0.67 0.66 0.70 0.63 0.61 0.53 0.60 0.66. 
+Change in crude steel carbon intensity since 2007 (target – 8% by 2020) 0.0% 3.3% 2.6% 0.3% -4.3% -4.1% -3.3% -5.8% -4.1% -5.2% -6.2% -5.6% % sites below ArcelorMittal carbon efficiency benchmark 13% 19% 22% 28% 31% 33% 30% 38% 38% 42% 50% 44%
+Approvals for energy efficiency capital investment projects (million USD)25 – – – – – – – 180 11 108 373 247 
+22 Using worldsteel methodology, which ensures that CO2 emissions for each tonne of steel are measured for the same set of steelmaking processes, whether or not they are owned by the reporting company.
+23 Our mining footprint was under 9 million tonnes CO2 equivalent in 2018. 24 The boundary for this metric covers all of our sites; it is different to the boundary for our carbon reduction target, which only includes sites we have owned since 2007.
+25 Before 2014, reporting on capex approvals was not broken down by type.
+35 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+8 Governance and risk. 
+Risk identification and reporting. 
+ArcelorMittal identifies, assesses and manages risks – including climate-related risks – on an ongoing basis. The group level strategy, R&D and sustainable development functions, and segment level experts where appropriate, assess social, environmental, regulatory, stakeholder and technological trends on an ongoing basis. In the medium to long term, climate change poses a number of risks to the business, as identified on pages 34-35. Key risks are analysed by building models and developing scenarios to understand potential financial impacts, such as our exposure to the EU ETS in Phase 4.
+Short-term risks within a 12-month timeframe are identified through a bottom-up process by site management teams. Business segments consolidate the identified risks and report the top risks to the CEO office quarterly.
+The company uses a risk management framework based on a blend of a COSO, ISO 31000 and an in-house model. Sites assess risks by assigning them a probability of occurrence and a potential financial impact and/or non-financial consequence such as environmental harm. The corporate risk officer works with the environment team to track and strengthen site-level understanding of environmental risks. The corporate risk officer uses Monte Carlo simulations to conduct a stress-testing exercise for the consolidated top ten short-term risks above a $50 million materiality threshold. This exercise quantifies the financial impacts for each top risk to an appropriate confidence level, and the outcome is shared with the Audit & Risk Committee.
+Board of Directors. 
+Chaired by CEO and Chairman Lakshmi Mittal.
+The Board and Chairman have overall responsibility for the governance and strategic direction of ArcelorMittal, which includes taking into account the effects of climate change. The Board has two committees with further oversight and responsibilities on climate-related issues. Risks are also considered by boards of subsidiaries worldwide.
+Appointments, Remuneration, Corporate Governance and Sustainability (ARCGS) Committee. 
+Chaired by lead independent director Bruno Lafont.
+The ARCGS oversees the implications of sustainability issues under five sustainability pillars, of which one is climate change. The chair of the ARCGS also liaises closely with the chair of the Audit & Risk Committee.
+The Committee considers the implications of climate change for the business and oversees the company’s strategic planning in response to the risks and opportunities that arise. It receives regular reports from senior management, led by executive officer Brian Aranha, on stakeholder expectations, the company’s low-emissions technology strategy, climate-related policy engagement and carbon performance.
+Audit & Risk Committee Chaired by non-executive independent director Karyn Ovelmen.
+The Audit & Risk Committee ensures that the interests of the company’s shareholders are properly protected in relation to risk management, internal control and financial reporting. It oversees both the identification of risks to which the ArcelorMittal group is exposed, via regular senior management reports, and the management response to these risks.
+36 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Risk management and strategic planning. 
+Climate-related trends and risks identified by management are used to inform the company’s strategic outlook, led by executive officer Brian Aranha. This is discussed on a regular basis by the Group management committee.
+To develop our response to our longer-term climate-related risks and opportunities, we assess long-term market trends such as scrap metal availability, develop alternative lowemissions technologies, undertake cost analysis of these technologies, engage continuously with key stakeholders, and analyse the implications of different levels of policy support through the scenario analysis outlined in this report.
+Central to our approach to mitigating our key climate-related risk – policy risk – is our adoption of a low-emissions technology strategy. Integral to this is our work to engage policymakers on supportive frameworks to enable significant emissions reductions to be viable, as outlined in this report. At the same time, all our business segments are required to prepare CO2 reduction plans as part of the annual planning cycle.
+This report, and the assessment of the resilience of our business to the transition and physical risks described in this report, has been discussed and approved by executive officer Brian Aranha; president, group CFO and CEO ArcelorMittal Europe Mr. Aditya Mittal; lead independent director and ARCGS committee chair Bruno Lafont; and chairman and CEO Mr. Lakshmi N. Mittal.
+Group executive management. 
+The CEO office (chief executive officer, Mr. Lakshmi N. Mittal, and president and chief financial officer, Mr. Aditya Mittal) works closely with relevant executive officers and members of the senior management on key strategic issues.
+Executive officer Brian Aranha oversees the Group’s strategy on climate change and emissions reporting, as well as relevant corporate functions covering strategy, technology, R&D, communications and corporate responsibility.
+Climate-related risks and group-level strategy are discussed regularly at the group-wide management committee. Responses are determined by each business segment, on the basis of the markets they serve and national or regional regulatory trends.
+Business segment CEOs report quarterly to the CEO office on climate change. Europe Flat Products currently faces the most significant climate-related regulatory risk due to its exposure to the EU ETS. Executive vice-president and CEO ArcelorMittal Europe Flat Products, Geert Van Poelvoorde reports on the strategy and performance of this business segment.
+Investment Allocations Committee. 
+Chaired by executive officer Brian Aranha.
+This committee also includes VP technology strategy and VP head of strategy. This committee makes capex decisions, which includes investment to improve environmental performance, energy and carbon efficiencies.
+Global Breakthrough Technology Council (GBTC) Chaired by Carl de Mare, VP, technology strategy.
+The GBTC consists of regional/project based R&D officers. GBTC coordinates progress on the low-emissions technology programme.
+Climate & Environment Working Group. 
+Chaired by executive officer Brian Aranha.
+The group is responsible for informing and shaping the company’s climate change strategy. Members of the group include VP government affairs, VP corporate communications & CR; VP head of strategy; VP technology strategy; GM, head of SD.
+This group links to the GBTC via VP technology strategy.
+Government Affairs Council. 
+Chaired by Frank Schulz, VP government affairs.
+This group is responsible for aligning local climate change policy strategies with the overall Group strategy. This ensures consistent engagement activities on climaterelated issues across the Group.
+37 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Governance and risk. 
+Managing climate-related risks. 
+At ArcelorMittal, we review our risk universe regularly, including specific climate-related risks. In summary, we have identified and are managing the following top climate-related risks:
+TRANSITION RISKS Type & status Response. 
+Policy & Regulation. 
+Our most substantial climate-related policy risk is the EU ETS, which applies to all our European plants, making up 44% of our total capacity. The risk concerns our primary steelmaking plants which are exposed to this regulation and yet unprotected against competition from imported steel. We have evaluated this risk against a carbon price of €15 per tonne of CO2, and the cumulative risk exposure26 for our European business over 2021 to 2030 stands at more than €3 billion, rising to €5 billion under a carbon price of €25 per tonne of CO2.
+We are also tracking carbon market policy developments in South Africa, Mexico, Brazil, Kazakhstan and Canada, where a further 30% of our production capacity resides. We consider that the financial risks arising from these are less immediate. Furthermore, we are also closely monitoring policy developments in the United States, which has shifted from federal climate policy to more decentralised policies at the state and local levels.
+We are developing a range of low-emission technologies, and many of these to demonstration stage. However, significant longterm mitigation requires supportive policies to ensure the roll out of our lowemissions technologies is viable. We have analysed the implications of different policy and technology scenarios (see chapter 4) and this has informed our policy positions outlined in chapter 6.
+In the medium term, we are developing an emissions reduction roadmap to support a new 2030 carbon target.
+Reputation Our stakeholders’ views on our response to the climate challenge affect the ratings we receive from investors. In the context of the transition to a low-emissions economy, our social licence to operate is defined by several key factors including: our transparency on carbon emissions, our ability to communicate on a complex subject, and our ability to make a credible commitment to meeting the objectives of the Paris Agreement.
+We respond to CDP annually. We also engage with stakeholders on climate risk issues and we hope that this Climate Action Report helps to build further understanding of our climate-related commitments and current constraints.
+Technology As the world acts to mitigate GHG emissions, investments in technological innovations such as Carbalyst® and Torero are vital to our long-term resilience and competitiveness. The risk of these technologies not becoming viable for us in the medium to long term is dependent on the development of the technologies, the availability of investment to implement them, access to sufficient renewable energy to support them, and policies that promote these conditions. Novel technologies require a long timeline to be scaled up. The risk is increased by the slow and uncertain development of policies needed to create sufficient incentives to exploit these opportunities. A key problem is that current policies are based on a linear economic model; by contrast, the novel technologies we are already advancing adopt a circular approach to reusing resources and so both energy and materials policies need to be integrated.
+See chapter 4 on lowemissions technology pathways and policy scenarios.
+See chapter 5 on ArcelorMittal’s low-emissions innovation programme.
+26 Non discounted with current technologies 38 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+TRANSITION RISKS Type & status Response. 
+Market We have faced the risk of substitution from competing materials displacing steel in particular applications. We have seen this from aluminium and cement due to an excessive focus on emissions from products in their use phase only (where the lightest weight wins) rather than on a whole lifecycle basis (cradle to grave). However, as customers deepen their understanding of embedded and lifecycle emissions of the materials, steel compares favourably, and so we see this risk diminishing.
+With the switch to electric vehicles, we see opportunities for high-strength steels for battery protection and electrical steels. We also project that the move to wind and solar power generation will require more steel per unit of electricity generated compared to conventional technologies.
+We continue to grow opportunities in all these markets, for example via our S-in motion® and Steligence programmes (see page 5).
+PHYSICAL RISKS Type & status Response. 
+Acute physical risks. 
+Adverse weather events, such as extreme low temperatures in North America, very high winds in Europe and flooding in Spain have on occasion hampered our supply and distribution routes. Our Calvert JV plant is in an area prone to hurricanes and tornadoes, and wildfires are a risk to our sites in Kazakhstan and South Africa. With 3 to 4°C of warming, hurricanes are projected to increase in intensity – along with associated increases in heavy precipitation – but not in frequency.
+Our risk management process enables us to build resilience at our plants and in supply chains where extreme events already occur; this may need further development where extreme events are currently rare, but may be more frequent or intense in the future.
+Chronic physical risks. 
+Water is crucial to our steelmaking processes and where plants are in areas of water stress, this is even more important. Some facilities are at risk of being affected by long periods of drought conditions.
+Where these risks exist, such as in South Africa and Brazil, we have developed local resource management plans to ensure that operational water requirements can be met. We are fully engaged with local stakeholders on this issue.
+39 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+9 Alignment with TCFD recommendations. 
+TCFD Recommended Disclosures Chapter. 
+Further information (where applicable)
+Governance. 
+A) Describe the board’s oversight of climate-related risks and opportunities.
+8. 
+B) Describe management’s role in assessing and managing risks and opportunities.
+8 2018 CDP Climate Change response C1.2. 
+Strategy. 
+A) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.
+2, 3, 8 2018 CDP Climate Change response C2.1, C2.2c, C2.3a, C2.4a. 
+B) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+5, 8 P13 – 15 Form 20f Item 3 Section D. Risk Factors 27 2018 CDP response C2.3, C2.5, C2.6. 
+C) Describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
+4 2018 CDP response C3.1. 
+Risk Management. 
+A) Describe the organisation’s processes for identifying and assessing climate-related risks.
+8 2018 CDP response C2.2b. 
+B) Describe the organisation’s processes for managing climate-related risks.
+8 2018 CDP response C2.2d. 
+C) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management.
+8. 
+Metrics and Targets. 
+A) Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.
+7 2018 CDP response C4.1b. 
+B) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+7 2018 CDP response C5.1, C6.1, C6.3, C6.5. 
+C) Describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.
+7 2018 CDP response C4.1b 27 https://corporate.arcelormittal.com/~/media/Files/A/ArcelorMittal/investors/20-f/2018/form-20f-2018.pdf 40 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+10 Annex 1: The steelmaking process. 
+We use an integrated steel plant to make primary steel (i.e. virgin steel) mostly from iron ore, which is extracted from mines, and a small share of scrap steel. As iron ore – a compound made up of iron and oxygen – is found in nature, it is chemically a very stable compound. Iron is not alone in this respect – most metals from aluminium to uranium are found in nature bound to oxygen. In primary steelmaking, we use energy and carbon to separate iron from oxygen in a blast furnace, and in subsequent steps, we adjust the product chemically and physically into the final desired form with characteristics such as strength, flexibility and corrosion tailored to the needs of the end user.
+In contrast, in an electric arc furnace (EAF), we use scrap steel and/or scrap substitutes such as direct reduced iron (DRI). We melt these materials using electrical energy, thus entirely replacing all of the steps up to and including the energyintensive blast furnace. Similar to the integrated steel plant route, we cast, and then shape or roll the liquid steel produced from the EAF into its final form.
+These two steelmaking routes are outlined in more detail on the following two pages.
+Steel is a material that consists almost completely of iron, with small shares of carbon and even smaller shares of other elements such as manganese and nickel. Today, steel is primarily made using two different technologies: the integrated steel plant and the electric arc furnace (EAF).
+41 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Figure 16: steelmaking at an integrated steel plant (using iron ore)
+The steelmaking process. 
+Integrated steel plant. 
+Preparation of materials for the blast furnace. 
+The first steps in the primary steelmaking route are to prepare the materials used in the blast furnace – coke and sinter. Coke is a material high in carbon made by heating metallurgical coal at high temperatures in a coke oven in the absence of oxygen. The process of making coke also results in the production of a hydrogen-rich synthetic gas (coke oven gas) which we can use as an energy source to heat coke ovens. Alternatively, we can use blast furnace gas to heat the coke oven. Combustion of these gases in the coke oven creates CO2.
+Sinter is an agglomeration which is produced from a mixture of all kinds of iron ores, coal and coke particles. We ignite the coal/coke particles in the mixture using coke oven gas, blast furnace gas or natural gas. This results in sinter cake, which we later crush and cool. CO2 is a by-product of the sinter plant. Sinter accounts for about 70 to 90% of the metals loaded into the blast furnace; the remaining part of the burden consists of pellets and lump ore.
+Ironmaking in the blast furnace. 
+In the blast furnace, we load sinter, coke and lime into the top, and we inject hot air from the bottom. We also inject pulverized coal into the blast furnace to reduce the amount of coke used, which reduces costs as well as CO2 emissions. The hot air reacts with the coke and coal to form carbon monoxide (CO), which is the reducing agent that separates the elements of iron ore: iron and oxygen. When CO extracts oxygen from iron ore, CO2 is formed. Carbon is therefore essential in the integrated steel plant and CO2 is an inevitable by-product of the chemical reactions. The waste gases from the process contain equal amounts of CO and CO2, as well as hydrogen and nitrogen.
+Heat is also generated in the blast furnace, which is essential to melting the reduced iron ore to form liquid hot metal (molten iron). The impurities react with lime to produce slag, which floats on top of the liquid hot metal and contains impurities in the iron ore, coke and coal ash. Slag has a chemical composition similar to clinker, which is used to make cement. This means that slag can be used as a substitute for clinker.
+Steelmaking in a basic oxygen furnace. 
+To make steel, we need to adjust the chemical composition of the liquid hot metal in a basic oxygen furnace (BOF). We charge the furnace with 15-25% scrap steel and 75-85% liquid hot metal. We also inject oxygen into the furnace, which reacts with carbon and other impurities in the liquid hot metal. In the BOF, the process converts the impurities into slag, which floats on top of the liquid steel, and into waste gases (or BOF gas), which mostly consists of CO.
+We tap the liquid purified steel into a steel ladle, where we can further adjust the steel chemistry. We then transport it to a continuous caster for casting and we further shape or roll the steel into its final form. Various finishing or coating processes may follow this casting and rolling. The steel slag is tapped into another vessel to be cooled down and prepared for external use.
+CO2 CO. 
+CO CO2. 
+Scrap. 
+Coke oven Coal. 
+Coke. 
+Pulverised coal. 
+Iron ore Sintering plant. 
+Sinter. 
+Hot metal. 
+Oxygen furnace. 
+Blast furnace. 
+Main inputs Main outputs 1 tonne steel 2.3 tonne CO2* * Source: Energy Transitions Commission. 
+Waste gases. 
+Slag 42 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Figure 17: EAF steelmaking (using scrap or DRI)
+Electric arc furnace. 
+Most electric arc furnaces (EAFs) are charged with scrap steel to make secondary or recycled steel. As the process is mainly one of melting scrap steel using electricity and not separating iron from oxygen, carbon’s role is not as dominant as it is in the integrated steel plant. In an EAF, direct CO2 emissions are mainly associated with the consumption of the carbon electrodes, and indirect CO2 emissions are produced from the carbon intensity of the electricity grid. As with the integrated route, slag is also a by-product of EAF steelmaking.
+The quality of secondary steel produced by the EAF route is primarily limited by the quality of the metallic raw materials used in steelmaking, which in turn is affected by the availability of high-quality scrap. As described in chapter 3, we currently do not have enough scrap to meet demand for steel. This means that today, it is most efficient to make lower grades of steel in an EAF, which have fewer constraints on impurities.
+We can also charge EAFs with DRI. DRI is made by reducing iron ore (i.e. separating iron and oxygen) using natural gas; by-products of the process include CO2. Steel made using this route can reach the qualities obtained by an integrated steel plant, since DRI has fewer impurities than scrap steel. In 2017, DRI accounted for about 7% of primary iron production, with the remainder of iron produced via the blast furnace route.28 28 World Steel Association (2018), Steel Statistical Yearbook 2018.
+CO2 CO2. 
+Scrap Direct reduced iron. 
+Iron ore. 
+Electric arc furnace Electric arc furnace. 
+Main inputs Main inputs Main outputs Main outputs 1 tonne steel 1.5 tonne CO2*
+Slag. 
+Natural gas 1 tonne steel 0.4 tonne CO2*
+Slag. 
+Electricity * Source: Energy Transitions Commission 43 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+11 Annex 2: Glossary. 
+Basic oxygen steelmaking The process whereby hot metal and steel scrap are charged into a Basic oxygen furnace (BOF). High purity oxygen is then blown into the metal bath, combining with carbon and other elements to reduce the impurities in the molten charge and convert it into steel.
+Blast furnace (BF) A large cylindrical structure into which iron ore is combined with coke and limestone to produce molten iron.
+Circular carbon Circular carbon energy sources include bio-based and plastic wastes from municipal and industrial sources and agricultural and forestry residues. The term may also refer to the reuse of carbon in circular flows throughout the economy, for example, in the production of plastics made from waste carbon.
+Coal The primary fuel used by integrated iron and steel producers.
+Coke A form of carbonised coal burned in blast furnaces to reduce sinter, iron ore pellets or other iron-bearing materials to molten iron.
+Coke ovens Ovens where coke is produced. Coal is usually dropped into the ovens through openings in the roof, and heated by gas burning in flues in the walls between ovens within the coke oven battery. After heating for about 18 hours, the end doors are removed and a ram pushes the coke into a quenching car for cooling before delivery to the blast furnace.
+Crude steel Steel in the first solid state after melting, suitable for further processing or for sale. Synonymous with raw steel.
+Direct reduction A family of processes for making iron from ore without exceeding the melting temperature. No blast furnace is needed.
+Electric arc furnace (EAF) A furnace used to melt steel scrap or direct reduced iron.
+Iron ore The primary raw material in the manufacture of steel made up of iron and oxygen.
+Limestone Used by the steel industry to remove impurities from the iron made in blast furnaces. Magnesium-containing limestone, called dolomite, is also sometimes used in the purifying process.
+Pellets An enriched form of iron ore shaped into small balls.
+Pig iron High carbon iron made by the reduction of iron ore in the blast furnace.
+Sintering A process which combines ores too fine for efficient blast furnace use with flux stone. The mixture is heated to form lumps, which allow better draught in the blast furnace.
+44 ARCELORMITTAL CLIMATE ACTION REPORT 1 CONTENTS PREVIOUS BACK FORWARD
+
+
+Designed and produced by Falcon Windsor www.falconwindsor.com
+
+
+Published in May 2019. 
+ArcelorMittal 24-26, Boulevard d’Avranches L-1160 Luxembourg Grand Duchy of Luxembourg corporate.arcelormittal.com. 
+We welcome your feedback on this report. Please send it to investor.relations@arcelormittal.com
