@@ -1,69 +1,5 @@
-// dict for TCFD recommendation
-// each file conetent have 4 sections: Governance, Strategy,Risk Management, Metrics and Targets
-// each section have a list of questions and answers
 [
-    {
-        "file": "xxx.pdf",
-        "content": {
-            "Governance":[
-                {
-                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
-                    "A": "xxx."
-                },
-                {
-                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
-                    "A": "xxx."
-                
-                }
-            ],
-            "Stategy":[
-                {
-                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
-                    "A": "xxx."
-                },
-                {
-                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
-                    "A": "xxx."
-                
-                },
-                {
-                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
-                    "A": "xxx."
-                
-                }
-            ],
-            "Risk Management":[
-                {
-                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
-                    "A": "xxx."
-                },
-                {
-                    "Q": "Describe the organization’s processes for managing climate-related risks.",
-                    "A": "xxx."
-                },
-                {
-                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
-                    "A": "xxx."
-                }
-            ],
-            "Metrics and Targets":[
-                {
-                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
-                    "A": "xxx."
-                },
-                {
-                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
-                    "A": "xxx."
-                
-                },
-                {
-                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
-                    "A": "xxx."
-                
-                }
-            ]
-        }
-    },
+    
     {
         "file": "HSBC_2022_TCFD.pdf",
         "content": {
@@ -128,7 +64,7 @@
         }
     },
     {
-        "file": "HSBC_2021_TCFD.pdf",
+        "file": "Mizuho Financial Group_2020_TCFD.pdf",
         "content": {
             "Governance":[
                 {
@@ -164,30 +100,385 @@
                 },
                 {   
                     "Q": "Describe the organization’s processes for managing climate-related risks.",
-                    "A": "xxx."
+                    "A": "Management of top risks - Until recently, we have monitored financing and investment from the perspective of environmental and social responsibility in our management of “top risks”, which are risks recognized by management as having major potential impact on the group. We now position climate change risks as “emerging risks”, which we define as major risks that must be addressed in the next few years despite the fact that materialization of the risks will occur over a medium- to long-term time frame, and we have begun periodic monitoring of related indicators."
                 },
                 {
                     "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
-                    "A": "xxx."
+                    "A": "Reviewing our policies in light of climate change risks - We managed relevant risks through reviewing our Environmental and Social Management Policy for Financing and Investment Activity (e.g. tightening our policy on coal-fired power generation), conducting due diligence based on the Equator Principles5, and through engagement with clients."
                 }
             ],
             "Metrics and Targets":[
                 {
                     "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
-                    "A": "xxx."
+                    "A": " Targets - Sustainable finance & Environmental finance targets - Target to reduce the outstanding credit balance for coal-fired power generation facilities - Target to reduce our own environmental footprint"
                 },
                 {
                     "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
-                    "A": "xxx."
+                    "A": "Monitoring indicators - Scope 1 (direct) and Scope 2 (indirect) CO2 emissions and energy usage; Scope 3 environmental footprint from business trip-related CO2 emissions and new large-scale power generation projects (amount of contribution to CO2 emissions) - Environmental conservation associated with new large-scale power generation projects (amount of contribution to CO2 emission reductions)"
                 
                 },
                 {
                     "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
-                    "A": "xxx."
+                    "A": " We are continuing discussions on the setting of Science Based Targets(SBTs). "
                 
                 }
 
             ]
+        }
+    },
+    {
+        "file": "NatWest_2020_TCFD.pdf",
+        "content": {
+            "Governance":[
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "Activities during 2020 have focused on building Board and Board Committee members’ knowledge, clarifying roles and responsibilities, as well as incorporating climate in strategic and risk appetite discussions, aligned to NatWest Group’s climate ambition. • A review of the terms of reference for Board Committees was conducted to ensure appropriate oversight of climate across the Committees in support of the Purpose-led strategy. • Operating rhythm for review of climate risks and opportunities reporting has been established."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "During 2020, work progressed to adopt an integrated climate governance model. The Board approved the allocation of Senior Management Function responsibility for identifying and managing financial risks from climate change jointly to the Group Chief Executive Officer (CEO) and the Group Chief Risk Officer (CRO). • Group Climate Change programme coordinated delivery of climate-related risks and opportunities initiatives across the Bank, including those related to the delivery of the climate ambition."
+                
+                }
+            ],
+            "Stategy":[
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "Climate-related opportunities linked to NatWest Group’s climate ambition have been identified and progressed to support customers’ transition to low carbon economy through various initiatives, including NatWest Group's £20 billion climate and sustainable funding and financing commitment. • Preliminary assessment of climate-related risks over short, medium and long term was performed."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "NatWest Group’s climate ambition, announced in February 2020, recognises various climate-related risks and opportunities to embed climate in our business and culture, as well as support customers’ transition to low carbon economy. • Progress made on 2020 climate ambition announcements include achieving the target of making our own operations Net Zero Carbon in 2020, £12 billion climate and sustainable funding and financing, issuance of NatWest Group Green Bonds $600 million USD. • During 2020, climate considerations were included in existing processes and new products launched to help customers transition to low carbon economy. • Qualitative considerations related to climate were included in the 2021 financial planning cycle."
+                
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "During 2020, we have developed and tested a methodology to use scenario analysis to quantify the size of a range of climate-related risks and opportunities for our commercial and retail customers. Preliminary insights from this analysis will be used to support strategy, business decision making and development of management actions."
+                
+                }
+            ],
+            "Risk Management":[
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "Work during 2020 focused on incorporating climate risk considerations within NatWest Group’s Enterprise Wide Risk Management Framework (EWRMF). In addition, to provide immediate focus, climate risk has also been recognised as a principal risk. • Preliminary assessment of climate-related risks over short, medium and long term was performed and potential impacts and linkage to existing risk categories developed."
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "Recognising the cross-cutting causal nature of climate risk, we have continued to incorporate climate considerations within risk management. • For the residential mortgage portfolio, analysis was completed at a property level to assess transition risk by reviewing energy efficiency of properties, and physical risk through exposure to flood risk. • Climate risk has been included as a factor in setting sector oversight classifications for wholesale customers. Thirteen wholesale sectors, in addition to residential mortgages, were identified as exposed to heightened climate risk based on this initial analysis of transition and physical risks. • Within operational risk, a scenario analysis pilot was performed on the Group's operations in India to assess the potential effects of climate driven events including disruption to business services, damage to physical assets and, health and safety."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "• As part of the Environmental, Social and Ethical Framework (ESE Framework), coal lending thresholds for the mining and metals, and power generation sectors were reduced from 40% to 15%. In addition, prohibitions on project financing for new exploration in the oil and gas sector, including fracking, were put in place. • Guidance was issued to ensure appropriate consideration of climate-related risks in internal risk and control assessments. • Work is on-going to develop plans to implement updates in the risk frameworks and tools, within franchises and business processes."
+                }
+            ],
+            "Metrics and Targets":[
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "Metrics and targets developed and disclosed include: • Exposures to heightened climate-related risk sectors identified based on physical and transition risk assessment. • Energy efficiency and flood risk assessment for Retail Banking residential mortgage portfolio. • Progress on climate and sustainable funding and financing. • NatWest Group green bond issuance."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "We have continued to develop and enhance capabilities to measure our carbon footprint both related to own operations as well as financed emissions. This is aligned with our climate ambition: • Make our own operations Climate Positive by 2025: Disclosures have been included for own operations (Scope 1 and 2), as well as Scope 3 (business travel, paper, waste and water). Also, updates on progress made towards Climate Group Initiative commitments. • Halve the climate impact of our financing activity by 2030: We have developed and disclosed preliminary financed emissions estimates for four high climate impact sectors, and emissions intensity estimates for 2030 and 2050 for three of those four sectors"
+                
+                }
+            ]
+        }
+    },
+    {
+        "file": "CPP Investments_2020_ESG.pdf",
+        "content": {
+            "Governance": [
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "CPP Investments’ Board of Directors oversees enterprise-wide efforts to understand and manage climate-related risks and opportunities. At least once a year, Management provides a comprehensive report to the Board about our activities related to climate change, including the most material investment risks and opportunities. Our Chief Financial and Risk Officer (CFRO) and our Risk Group report regularly to the Risk Committee of the Board on climate-related risks, with updates that include carbon footprint metrics and scenario analysis results. The Investment Committee of the Board also reviews and approves our most significant investments, which, where material, include an assessment of climate-related risks and opportunities."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "Our President & CEO sets Management’s overall approach for governance and risk management. Our CFRO is accountable to recommend to the Board the risk appetite and limits of the Fund across all dimensions of risk, consistent with the Integrated Risk Framework having specific regard for CPP Investments’ unique objectives. In 2018, we launched the Climate Change Program, a cross-departmental, multi-year initiative designed to position us as a leader in understanding the investment risks and opportunities presented by climate change. The Program is overseen by the Climate Change Steering Committee (CCSC), made up mostly of Senior Managing Directors who lead our various investment and operations departments."
+                }
+            ],
+            "Stategy": [
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "CPP Investments has dedicated resources to understand, top-down and bottom-up, the risks and opportunities brought on by climate change from a financial point of view. Our enterprise-wide approach integrates climate change considerations across relevant investment activities and into our risk framework to build and protect long-term investment values. This includes scenario analysis to make forward-looking assessment of risks and opportunities, and the Total Portfolio Management (TPM) approach to factor climate-related risks and opportunities into CPP Investments’ investment strategy and portfolio design."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "Scenario analysis and Total Portfolio Management (TPM) are integral to understanding the economic and financial market impacts of climate change and energy transition pathways, which in turn informs our investment strategy and financial planning. TPM assesses risks and opportunities related to climate change and the energy transition, focusing on the impact on long-term returns and asset allocation. Our Risk Group uses stress testing to assess the impact and resilience of the investments under a range of plausible scenarios, including the financial impact and compliance with CPP Investments’ risk appetite statements."
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "Through the use of scenario analysis and stress testing, CPP Investments evaluates the resilience of our investments and strategy against various climate-related scenarios, including a 2°C or lower scenario. This includes assessing both physical and transition risks, with scenarios and signposts focusing on the materiality of energy transition and climate change for potential investments. The results of this assessment, including the potential financial impact to the Fund under different scenarios, are reviewed and discussed periodically to ensure they are within our risk appetite."
+                }
+            ],
+            "Risk Management": [
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "CPP Investments is in the process of identifying and monitoring climate-related factors that may impact our investment portfolio, with an emphasis on managing risk as central to our legislative objectives. This includes a broad array of complex interrelated risks such as physical and transition risks, for which there is no established historical fact set. Our Risk Group uses various approaches including scenario analysis and 'bow-tie' risk & control assessments to assess climate change risk."
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "To manage climate-related risks, CPP Investments implements controls to reduce risks and considers various time horizons to assess potential financial and reputation impacts. This includes setting risk policies, standards, and guidelines, independently assessing risks, and challenging the first line’s management of risks. Our Security Selection Framework requires investment teams to include descriptions of relevant climate change-related risks and opportunities at the initial screening and final investment approval stages."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "Climate change is integrated into CPP Investments’ overall risk management through our Integrated Risk Framework, promoting clear lines of accountability across front-line investment and operations management, oversight functions including Risk, and Assurance and Advisory. This framework ensures climate change-related risks are identified, assessed, and managed through appropriate controls, with independent assessment and assurance over the adequacy of risk governance and internal controls."
+                }
+            ],
+            "Metrics and Targets": [
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "CPP Investments considers key performance indicators for GHG emissions, water consumption, and energy efficiency in our individual investments. We also produce a carbon footprint for our portfolio, and track signposts that help us understand the potential pathways of the energy transition and climate change."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "CPP Investments developed an in-house methodology to estimate metrics and published the first carbon footprint of our public equities portfolio, including total carbon emissions and carbon intensity. This has been expanded to include both public and private investments, and further enhanced to estimate government issued securities, cash, and all derivatives, covering all holdings."
+                },
+                {
+                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+                    "A": "CPP Investments actively works with companies to improve climate change-related disclosures and uses its voting power to support shareholder proposals that encourage companies to improve disclosure of climate change-related risks. This includes pressing large GHG emitters for improved disclosure and supporting over 130 climate change-related shareholder resolutions since July 2015, seeking deeper disclosure on climate-related risk and opportunity management."
+                }
+            ]
+        }
+    },
+    
+    {
+        "file": "TD Bank_2020_TCFD.pdf",
+        "content": {
+            "Governance": [
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "Integrated climate considerations into governance structures: Risk Committee of the Board, Corporate Governance Committee of the Board, Senior Executive Environmental Champion, Corporate Environmental Affairs, Corporate Citizenship Council, Sustainable Finance Executive Council. Established TCFD Executive Steering Committee and Working Groups. Conducted Board educational session on managing climate risk and related investment strategies."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "Future priorities include establishing an ESG Senior Executive Team Forum to oversee and execute the key climate priorities of TD’s ESG strategy and Climate Action Plan. Establish an ESG Centre of Expertise and a Sustainable Finance Executive Council to oversee TD’s sustainable products and services. Continue integration of regular climate risk assessment and monitoring responsibilities into existing executive committees."
+                }
+            ],
+            "Strategy": [
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "Launch of TD Ready Commitment in 2018. Carbon neutral since 2010. Joined UN Principles for Responsible Investment, UNEP FI PSI, Equator Principles, RE100. Published studies on assessing and measuring physical climate risk in equity and lending portfolios."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "Future priorities: Operationalize 2050 climate target from TD’s Climate Action Plan. Establish a Sustainable Finance and Corporate Transitions Group. Continue progress towards $100 billion by 2030 for the transition to a low-carbon economy. Issued a US $500 million sustainability bond. Launched new ESG-oriented mutual funds."
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "Future priorities include continuing to participate in industry initiatives like the Bank of Canada and OSFI's scenario analysis pilot program. Continue advancing scenario analysis to understand climate-related risks and develop strategic responses. Engage with clients and investment community on climate issues."
+                }
+            ],
+            "Risk Management": [
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "Introduced environmental and climate change considerations into existing risk management processes and governance. Created a dedicated E&S Risk Management unit. Identified E&S risk, including climate-related risk, as one of TD’s top and emerging risks."
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "Future priorities: Continue integrating E&S risk into the enterprise risk management process. Implement Enterprise E&S Risk Framework. Update risk inventory to include E&S risk. Incorporate climate change into Industry Reviews. Escalate material E&S risks to Risk Committees for additional review."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "Future priorities: Embed E&S risks in all relevant enterprise risk management processes. Develop an enterprise-wide view to inform and evaluate TD’s position on evolving climate-related issues. Continue development of key E&S risk metrics in 2021."
+                }
+            ],
+            "Metrics and Targets": [
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "Quantified scope 1 and 2 and select operational categories of scope 3 emissions since 2006. Measured gross credit risk exposure to carbon-related assets relative to total assets. Measured gross credit risk exposure by industry sector and focus on power generation by energy source."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "Future priorities: Introduce new climate-related metrics. Calculate scope 3 financed emissions where methodologies exist and work with others to develop new methodologies to establish GHG baselines across operations and financing portfolio."
+                },
+                {
+                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+                    "A": "Set target of net-zero GHG emissions associated with our operations and financing activities by 2050. Joined the Partnership for Carbon Accounting Financials (PCAF). Future priorities: Set interim goals for reducing TD’s direct and indirect carbon emissions. Further explore key climate risk and opportunity metrics."
+                }
+            ]
+        }
+    },
+    
+    {
+        "file": "TSMC_2022_TCFD.pdf",
+        "content": {
+            "Governance":[
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "TSMC advocates and acts upon the principles of operational transparency and respects shareholder rights, believing that the basis for successful corporate governance is a sound and effective Board of Directors. The Board of Directors oversees and instructs the Company's climate change and sustainable management strategies, and delegates three Board Committees: the Audit and Risk Committee, the Compensation and People Development Committee, and Nominating, Corporate Governance and Sustainability Committee to supervise corporate sustainability and climate management. Each Committee's chairperson regularly reports to the Board on the activities and resolutions of the relevant committees."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "The ESG Steering Committee is TSMC's top organization of climate change management. The ESG Steering Committee is chaired by the Chairman of TSMC, and the chair of the ESG Committee serves as the executive secretary. It reviews TSMC's climate change strategies and goals and reports quarterly to the Board of Directors. Annually, the Risk Management Steering Committee reports to the Audit and Risk Committee on the risk environment facing TSMC, focus of the Company's enterprise risk management (ERM), risk assessment and mitigation efforts. The chairperson of the Audit and Risk Committee briefs on the key risks and risk mitigations to the Board. Under oversight from the ESG Steering Committee and the RM Steering Committee, TSMC manages climate-related action plans through the ESG Committee, Energy Saving and Carbon Reduction Committee, and Risk Management Executive Council."
+                
+                }
+            ],
+            "Stategy":[
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "In compliance with the TCFD framework, members of the ESG Committee identify and evaluate climate change risks and response measures every two years on behalf of TSMC to uncover potential crises and opportunities. In 2022, TSMC added one transition risk (renewable energy regulations and procurement) and one opportunity (improve company reputation) and removed one physical risk (higher natural disaster insurance premium). The top three risks are net zero emissions, impact on company reputation, and uncertainties in the development of new energy saving/carbon reduction technologies. The top three opportunities are developing lowcarbon products and services/increasing energy efficiency in customer products, driving low-carbon manufacturing, and improving company reputation. Transition risks such as Environmental Impact Assessment (EIA) commitment and company reputation were previously short-term and mid-term risks, but have now been changed to mid-term and long-term risks, respectively. Opportunities such as increasing fab energy efficiency, promoting low-carbon green manufacturing were modified from short-term to mid-term."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "TSMC conducts financial impact analysis on the top three physical risks, transition risks, and climate opportunities in compliance with TCFD recommendations to formulate strategies to mitigate risks and explore opportunities for the Company's reference. Financial impact analysis of climaterelated risks focuses mainly on marketand technology-related costs to remove carbon emissions along the pathway to Net Zero Emissions by 2050. For example, expenses on energy conservation or carbon reduction facilities, paying for more expensive renewable energy or RECs, buying carbon credits, and additional expenses on renewable energy or carbon credits because of uncertainties in the development of new energy saving and carbon reduction technologies. Physical risks mainly focus on growing electricity costs because of chronic climate changes from rising temperatures and investments in strengthening the Company's climate resilience. For example, the costs to combat drought include expenses for building water reclamation systems, using reclaimed water, and purchasing backup water sources. As for floods and strong wind, also considered acute climate change disasters, TSMC has already designed flood prevention systems into new TSMC facilities and will therefore not be calculating its financial impact. TSMC has also estimated the cost of the Company's reputation from failing to meet net zero emission targets though there is no globally recognized approach to estimate such financial impact. The financial impact of 1% revenue was a consensus reached by experts after discussions and assessments. The estimated financial impact from climate opportunities includes reduced costs from increased energy and water use efficiency and diverse water sources as well as additional income from providing low-carbon products and services such as 7nm or more advanced processes, Power Management IC (PMICs), and ultralow power (ULP) ICs. Analysis results show that developing low-carbon products and services presents the greatest opportunity for positive financial impacts as demands for low-carbon products of 7nm and more advanced manufacturing process continue to grow."
+                
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "In compliance with TCFD recommendations, TSMC has evaluated the impact of various GHG emission controls on TSMC operations and the supply chain for certain transition and physical risks. TSMC has considered the outcomes when determining the resiliency of strategies and has also referred to the latest physical science basis, published by the International Energy Agency (IEA) and Intergovernmental Panel on Climate Change (IPCC), to develop its own climate scenarios. In addition, TSMC has also included potential growth in carbon emissions from growing TSMC operations and new facilities as well as existing carbon reduction actions into general evaluations to analyze the potential financial impacts of climate risks. In the past, TSMC evaluated climate risks solely using the worst-case scenario, but the future of climate change is highly unpredictable. As such, TSMC has opted to evaluate climate risks across several scenarios this year to help map out and communicate operations strategies internally and give comprehensive insights into climate trends over the mid-tolong term. Climate Scenario Selection In terms of transition risks, countries have now reached a consensus, agreeing that carbon pricing schemes are a necessary policy to achieve net zero emissions. TSMC referenced World Energy Outlook 2022 (WEO), an IEA report commonly used by companies around the world, and selected the Net-Zero Emissions by 2050 Scenario (NZE) and Stated Policies Scenario (STEPS) to conduct climate scenario analysis on future carbon pricing. The resulting carbon pricing then serves as the basis for TSMC to evaluate the impacts of carbon pricing schemes on TSMC locations in different countries. In terms of physical risks, TSMC referenced the Sixth Assessment Report (AR6) published by IPCC in 2021 and the latest Global Climate Model (GCM) to estimate long-term climate changes in the future. TSMC also adopted the Shared Socioeconomic Pathway (SSP) to derive GHG emissions under different social and economic landscapes. TSMC's impact analysis on physical risks covers climate change evaluations across every region of the globe and provides detailed impact analysis to TSMC locations and suppliers around the world through downscaling analysis."
+                
+                }
+            ],
+            "Risk Management":[
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "TSMC Climate Risks and Opportunities Identification Process List and implement responses to risks and opportunities and continue to monitor performance and outcomes; conduct financial impact analysis for material risks and opportunities Related TSMC business divisions will host group discussions and identify risks and opportunities that need attention Filter risks and opportunities related to TSMC according to external trends and internal operational changes Use ERM impact evaluation framework to calculate probability and impactNote and rank risks and opportunities Collect Identify Identify Materiality Response Measures & Financial Impacts Note: Impact includes impact on TSMC's finance, operations, employee safety, and reputation and can be categorized into five levels - high, medium-high, medium, medium-low, and low - by level of impact. Probability is caculated based on incidence rate and time, short or long, between incidences and can be categorized into five levels as well - almost certain, very likely, likely, unlikely, and very unlikely List related risks/ opportunities Determine material risks/ opportunities Develop risk and opportunity matrix Formulate and review response measures and evaluate financial impacts of material issues"
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "TSMC manages key climate-related risks and opportunities through a holistic and balanced risk-reward approach. The Audit and Risk Committee, authorized by the Board of Directors, oversees TSMC's Enterprise Risk Management (ERM) framework and risk profile, ensuring key risks are within the acceptable risk appetite. At the management level, the Risk Management Division collaborates with business teams and various committees, including the Risk Management Steering Committee, Risk Management Executive Council, and Risk Management Taskforces. This collaboration applies the ERM framework to assess and mitigate climate-related risks adequately. These risks include, but are not limited to, net zero emission challenges, reputation impact, business interruptions from water/energy shortages or disruptions, and natural disasters threatening TSMC's operations and supply chain. Annually, the Environmental, Social, and Governance (ESH) Division reports assessment results, financial impacts, and countermeasures against climate-related risks and opportunities to the ESG Committee. The Risk Management (RM) Division updates the Audit and Risk Committee on the assessment of climate risks and the mitigation plan taken."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "The integration of climate-related risk management into TSMC's overall risk management framework is structured through its ERM framework, guided by the Audit and Risk Committee. This integration ensures that climate-related risks are identified, assessed, and managed in alignment with the company's strategic objectives and risk appetite. The ERM framework is applied across the organization by the Risk Management Division in collaboration with various business teams and specialized committees. This structured approach ensures a comprehensive assessment of risks and the implementation of adequate mitigation strategies. The annual reporting mechanism through the ESH Division to the ESG Committee, followed by updates to the Audit and Risk Committee, further integrates climate risk management with corporate governance. This systematic process ensures that TSMC's approach to climate risk is both holistic and embedded in the company's overall risk management and strategic planning processes."
+                }
+            ],
+            "Metrics and Targets":[
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "As the technology provider in dedicated IC foundry, TSMC is deeply aware of its responsibilities to areas where TSMC operates and the global environment. In addition to setting mid and longterm goals for the four major management initiatives, TSMC also reviews progress each year and makes rolling adjustments based on external landscapes and trends, hoping to mitigate climate impacts through management by objectives and ensure business continuity. In response to rising carbon costs from the global lowcarbon transitions, TSMC has started building an internal carbon pricing scheme, considering factors such as regulations, fines, market pricing, and cost of carbon reduction. The carbon pricing scheme reflects carbon costs in impact valuations of daily reduction measures and includes it when deciding whether to invest in a new facility. For example, TSMC implemented 684 energy conservation measures across eight categories in 2022 under the energy conservation program, saving 700 GWh in energy in 2022 alone. Evaluations using TSMC's internal carbon pricing scheme show that the potential external carbon costs from reducing carbon emissions are NT$530 million."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "TSMC is committed to achieving net zero emissions. Every year, the Company evaluates progress in carbon reduction through an annual GHG emissions inventory and formulates carbon reduction strategies. In 2022, direct emissions from processes (Scope 1) accounted for 11% and were primarily from F-GHGs and nitrous oxide in processes; indirect GHG emissions from purchased energy (Scope 2) accounted for 50%; and indirect GHG emissions from the value chain (Scope 3) accounted for 39%, which were primarily from producing raw materials, energy-related activities in the upstream, and transportation."
+                
+                },
+                {
+                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+                    "A": "TSMC works with upstream suppliers (raw materials and equipment), design ecosystem partners, and downstream businesses (packaging and testing) to consider the full product life cycle and take real action to reduce product carbon footprint. With its innovative leading semiconductor process technologies, TSMC also helps customers produce more advanced, energy-efficient, and eco-friendly products. Examples of TSMC's green products include ultra-low power (ULP) and low operating voltage (low Vdd) wearable devices, IoT chips, low-power phone chips, LED driver chips for backlight systems in flat panel displays, LED driver chips for indoor and outdoor solid-state lighting, low standby power AC/DC transformer chips certified by Energy Star, high-performance brushless DC motor chips, EV chips, and low-power server chips. Chips produced by TSMC's high-performance and energy-efficient technologies can support infrastructure for sustainable cities, energyefficient transportation, smart grids, and energy-efficient servers and data centers.TSMC is committed to reducing its supply chain's impact on climate change with the core strategies of develop and purchase energy-efficient green tools and low-carbon supply chain management. TSMC will also continue to optimize management and actions based on its Net Zero Emissions goal and carbon emissions hotspot analysis on the supply chain, helping suppliers allocate resources efficiently, strengthen carbon reduction capabilities, and build a green low-carbon supply chain."
+                
+                }
+            ]
+        }
+    },
+    {
+        "file": "Standard Chartered_2020_TCFD.pdf",
+        "content": {
+            "Governance":[
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "Process and frequency of communication to Board • The Board and its supporting committees, including the Board Risk Committee and Culture and Sustainability Committee, are responsible for the oversight of climaterelated risks and opportunities. They receive regular Climate Risk updates to guide them when reviewing and making strategic decisions.Incorporation of climaterelated issues into Board and Board Committee planning and decisions Climate Risk was considered as part of our formal annual corporate strategy and financial planning process. • In 2022 we developed management scenarios with an aim to strengthen business strategy and financial planning to support the Group’s net zero ambition. • The Board reviewed and approved our approach to reach net zero financed emissions by 2050. • Regional and client-segment Chief Risk Officers review revenue reliance from clients in high-carbon sectors and/or locations in regions most exposed to Physical Risk.Board oversight of climate-related goals and targets • The Board oversees the Group’s overall net zero plan, and in 2022 reviewed progress on delivery against the Group’s net zero plan and approved the Group Climate Risk Appetite Statement and related Board-level metrics."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "Roles and responsibilities for climate-related risks and opportunities • Specific roles and responsibilities for the oversight of climate change have been delegated to management. These are defined within the ‘Governance committees and steering groups with responsibility for climate-related issues’ section. Climate-related agenda frequency and inputs are also set out for these bodies. • The Chief Sustainability Office as led by the CSO is responsible for creating and executing the Group-wide sustainability strategy, including delivery against our net zero pathway. • Responsibility for identifying and managing financial risks from climate change sits with the Group Chief Risk Officer (Group CRO) as the appropriate Senior Management Function (SMF) under the Senior Managers Regime (SMR). • The Group CRO is supported by the Global Head, Enterprise Risk Management who has day-to-day oversight and central responsibility for the Group’s second line of defence against Climate Risk. • The organisation structure associated with climate change has also been set out in the ‘Governance of our Sustainability Agenda’ chapter of our annual report.A description of the associated organisational structures and their monitoring of climaterelated issues. Processes used to inform management • Management is informed by several committees and forums, with climate-related information communicated via channels including our Group CRO and Climate Risk Information Reports."
+                
+                }
+            ],
+            "Stategy":[
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "Relevant short-, medium-, and long-term time horizons • In our strategic business planning, we consider ‘short-term’ to be less than two years, ‘medium-term’ to be two to five years and ‘long-term’ to be beyond this. For climate scenario analysis we can run 30-year scenarios for both Physical and Transition Risk. Some elements of our Physical Risk scenario analysis can also extend to 2100.Processes used to determine material risks and opportunities • We utilise a range of tools and methodologies, to assess Transition and Physical Climate Risk, which we apply to our clients, portfolios and our own operations. These includes: scenario analysis, location-based hazard and risk scores, temperature alignment scores and Munich Re's NATHAN tool (acute physical risk impact assessments). • In addition, we engage with our corporate clients to understand their transition and physical risks, as well as their plans to prepare for climate change. • In 2022, we continued to enhance our understanding of climate-related risks, and significantly strengthened our stress testing and scenario analysis abilities for a range of management scenarios that are more plausible.Climate-related risk and opportunities identified • We have assessed the impact of Climate Risk to the banking book using scenario analysis over a 30-year time horizon, which has enabled us to identify and mitigate climate risks which may manifest. • In addition, sustainability and climate change have moved from being predominantly risk-based initiatives to becoming a value driver. This gives us an opportunity to deploy our market and industry knowledge to advise our clients on their individual sustainability journeys. • Sustainable finance is an opportunity to both defend our existing business from Transition Risk, and to fund our clients' transition from a high-carbon present to a low carbon future. Through supporting clients on their net zero journeys, and providing further finance to clients as they adapt to be less carbon intensive and emitting over time, we help mitigate their, and our, Transition Risk. Our aim to achieve Sustainable Finance income of $1 billion by 2025 and to mobilise $300 billion of Sustainable Finance by 2030 are measures of this success. • We do not fully disclose impacts on financial planning and performance (including proportions of income, costs and balance sheet related to climate-related opportunities), detailed Climate Risk exposures for all sectors and geographies or physical risk metrics. Data limitations, and our plans to mitigate these, are discussed in greater detail in the report.Significant concentrations of credit exposure to carbon-related assets • We have disclosed our exposures to high-carbon sectors which includes the expected credit losses on these balances as well as the maturity profiles associated with them. Our exposure to high-carbon sectors makes up 14.4% of our CCIB loan balances. • We aim to become net zero in our financed emissions by 2050, with interim 2030 targets for our highest emitting sectors. • In 2022, we made progress towards this goal, and set out to measure, manage and reduce emissions starting with our most carbon-intensive sectors, in line with our net zero roadmap."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "Impact of climate-related risks and opportunities on business areas The specific areas impacted by climate issues include: Operations • We have measured and reduced our greenhouse gas (GHG) emissions since 2008 and since 2018 we have been actively targeting a reduction in our Scope 1 and 2 emissions towards a well-below two degrees Celsius scenario. • We intend to optimise our office and branch network, continually maximising efficiency while leveraging clean and renewable power where appropriate, in line with our commitment to the global corporate renewable initiative, RE100, and to help us meet our own challenging targets. Suppliers • Through our Supplier Charter, we encourage our suppliers to support and promote standards in environmental protection and to manage and mitigate environmental risks. • In 2022, we launched a global project to define strategies to address emissions related to Scope 3 Category 1, 2, 4 and 6. Our internal targets cover reducing our emissions related to Upstream transportation and distribution and Business travel by 28 per cent against 2019 levels over the next seven years. Simultaneously, for Purchased goods and services and Capital goods categories, we plan to engage our suppliers (covering circa 67 per cent of spend) to set science-based targets in the next five years. Products and services • We have set targets to achieve $1 billion of Sustainable Finance income by 2025, to mobilise $300 billion of Sustainable Finance by 2030, and to launch and grow green mortgages in key markets across our footprint. • In 2022, we made progress against these targets, reporting $0.5 billion Sustainable Finance income, mobilising $23.4 billion through our Sustainable Finance activities, and launching green mortgages in three new markets. Investment in research and development • Our four-year partnership with Imperial College London covers long-term research on Climate Risk, advisory on shorter-term, internally focused projects to enhance Climate Risk capabilities and training of our colleagues, Management Team and Board."
+                
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "Approach to scenario analysis • Over recent years, we have progressively strengthened our scenario analysis capabilities and developed our infrastructure and capabilities to incorporate Climate Risk into data, modelling, and analysis. • Our work to date, using current assumptions and proxies, indicates that our business is resilient to all Network of Central Banks and Supervisors for Greening the Financial System (NGFS) and International Energy Agency (IEA) scenarios that were explored. • In 2021, we recognised Sustainability as a core component of our strategy, elevating it to a pillar of our Group Strategy. In July 2022, we formalised this further and appointed our inaugural Chief Sustainability Officer (CSO), to help drive our sustainability agenda and bring together our existing Sustainable Finance, Sustainability Strategy, and Net Zero Programme Management, teams.Scenarios used • In 2022 we engaged a third-party vendor to begin development of bespoke internal modelling capabilities to provide greater transparency. • In 2022, we assessed the impact on our CCIB corporate client portfolio based on three IEA scenarios and three Phase 2 scenarios from the NGFS. • We also assessed the impact of sea-level rises under various Intergovernmental Panel on Climate Change (IPCC) Representative Concentration Pathways (RCP) scenarios to explore the Physical Risk impact on the CPBB residential mortgage portfolio over shortand long-term time horizons for internal risk management purposes.Impact of climate-related risks and opportunities on business strategy • We are working to reduce our exposure to high carbon emitting activities and are supporting clients in these industries to transition to lower carbon technologies. • Our sustainable finance priorities, including new emerging products such as sustainable deposits, carbon trading and ESG Advisory, and dedicated transition frameworks, are a robust response to transition risks in the short term, strengthening our resilience towards a 2°C or lower transition scenario."
+                
+                }
+            ],
+            "Risk Management":[
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "Processes for identifying and assessing risk • To support the management and monitoring of Physical and Transition risks, we continue to conduct case level reviews for enhanced due diligence on high ‘Climate Credit’ and ‘Climate and Reputational and Sustainability Risk’ for our corporate clients. • The toolkits are used to identify and assess: – Physical Risk: current-day and longer-term time horizons (2050, 2100) representative concentration pathway (RCP) scenarios 2.6, 4.5 and 8.5, for acute weather events (e.g. storms, floods or earthquakes) and chronic sea-level rise. – Transition Risk: translates Orderly, Disorderly and ‘Hot-House’ world transition scenario variables from NGFS and Net Zero Emissions by 2050, and Sustainable Development and Announced Pledges scenario variables from IEA to financial impact at a client level. Further information on client level assessments can be found on page 102 and the limitations of our methodology on page 94. – Temperature alignment: provides a temperature score to indicate client- and portfolio-level global warming potential up to 2030. – We define Climate Risk as the potential for financial loss and non-financial detriments arising from climate change and society’s response to it. Within this, we assess and define sub-risk types in the form of a climate risk taxonomy which includes: – Physical Risk: Risk arising from increasing severity and frequency of climate and weather-related events. – Transition Risk: Risks arising from the adjustment towards a carbon-neutral economy, which will require significant structural changes to the economy.Existing and emerging regulatory requirements related to climate change • We have established a process for tracking various Climate Risk-related regulatory developments and obligations set by both financial and non-financial service regulators at Group and regional/country level, with roles and responsibilities set out in the Climate Risk Policy. • Regulatory requirements or enhancements needed are recorded through workplans across various teams. The workplans are coordinated and monitored through various working groups by having the relevant accountable executives participate in the relevant forums.Characterising climaterelated risks in the context of traditional banking industry risk categories • We have identified seven Principle Risk Types (PRT) that are most materially impacted by potential climate risks and describe transmission channels for Climate Risk manifesting as financial and non-financial risk."
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "Processes for managing and mitigating risks • We manage Climate Risk according to the characteristics of these PRTs and are embedding climate-risk considerations into the relevant frameworks and processes as well as setting risk appetites for each. • Our Climate Risk Appetite Statement (RAS) is approved annually by the Board and is supported by Board and Management Team level risk appetite metrics across Credit – CCIB and CPBB, Reputational and Sustainability Risk (RSR), Traded Risk and Country Risk. • We regularly review the scope and coverage of our risk appetite metrics for enhanced risk identification and management. Additional metrics to address our public targets across key sectors and a stress loss metric built on scenario outcomes have been identified and are being monitored for inclusion in risk appetite reporting in 2023. • We have toolkits to quantitatively measure climate-related Physical and Transition Risks to determine if they should be prioritised for risk management purposes."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "Integration into Enterprise Risk Management Framework • Climate Risk is recognised in the Group Enterprise Risk Management Framework (ERMF) as an integrated risk type, i.e. it manifests through existing risk types and is managed in line with the impacted risk type frameworks. We manage Climate Risk according to the characteristics of these PRTs and are embedding climate-risk considerations into the relevant frameworks and processes for each. In 2022, we have continued to build Climate Risk into existing risk-management processes, focusing on identifying, assessing, and monitoring across risk types."
+                }
+            ],
+            "Metrics and Targets":[
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "Key metrics used to measure and manage climate-related risks and opportunities as well as metrics used to assess the impact of (transition and physical) climate-related risks on their lending and other financial intermediary business activities We disclose the following metrics in order to measure and manage climate-related risks and opportunities: GHG emissions: • Absolute Scope 1, Scope 2, and Scope 3; financed emissions intensity Climate-related transition risks: • Temperature Alignment score • Client-level Climate Risk assessment scores by region • Projected potential average minor notch credit grade downgrade by 2050 • Exposure to high-emitting sectors • Increase in Counterparty Credit Risk (CCR) stress exposures from physical climate event Climate-related physical risks: • Location-based hazard and risk scores • Outstanding exposure at very high gross Physical Risk % • Outstanding exposure subject to very high gross Flood Risk • Market Risk stress loss from physical climate event Climate-related opportunities: • Green and social assets • Sustainable finance income Capital deployment: • $300 billion mobilisation progress. Climate-related incentive structures • Selected sustainability targets, including those with a climate change dimension, are incorporated into our annual Group Scorecard which informs variable remuneration for all colleagues under our Target Total Variable Compensation plan, including executive directors and Group Management Team. Sustainability has also been included in the 2022–2024 Long-Term Incentive Plan performance measures."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "Our own operations • Despite only a 5 per cent reduction in our measured real estate, we reduced our Scope 1 and 2 emissions by more than 42 per cent to 49,434 tonnes during 2022. This has been possible through a consumption reduction of 3 per cent to 177.3 GWh through energy-efficient investment, plus a 12 per cent increase in renewable energy across the portfolio.In our supply chain • In partnership with an independent climate consultancy, we continued improving the accuracy of our methodology and estimated our supplier emissions. • The process for Scope 3 upstream vendor emissions measurement is being embedded into our wider annual reporting process and is expected to be executed in the first quarter of each year based on the previous year’s vendor spend.Measuring our financed emissions • Analysing our exposure to high-carbon sectors (i.e. sectors that are responsible for the majority of the GHG emissions in the atmosphere) is the starting point of our financed emission calculations. • We built on our progress in 2021 where we baselined our emissions for five of our high-emitting sectors namely Oil and gas, Power, Coal mining, Steel and other Metals and mining to include three additional transport sectors in 2022 being Automotive manufacturers, Aviation and Shipping."
+                
+                },
+                {
+                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+                    "A": "Details of targets set and whether they are absolute or intensity based • The targets we have set for climate-related risks are primarily our net zero, across Scopes 1, 2 and specifically 3 financed emissions, starting in 2030, with thermal coal targets in the shorter term from 2024. Our progress is set out in the Financed emission section. • On climate-related opportunities, we have a $1 billion of Sustainable Finance income and $300 billion mobilisation of Sustainable Finance targets to 2025 and 2030 respectively. • During the year, we revised the measurement of our Oil and gas sector emissions from an income-based carbon intensity to absolute financed emissions to better reflect the sector emission profile, effectively creating a carbon budget for the sector which is intended to decrease over time. • In 2022, we continued to expand the coverage of our financed emissions calculations and this report announces three further sectoral targets covering transportation. By 2030, we aim to reduce emissions in the transportation sector: – 34% in aviation (production intensity) – Reduce our alignment delta in shipping from +2.6% to 0% – 49% in automotive manufacturers (production intensity).A description of the methodologies used to calculate targets and measures • The methodologies used to calculate baseline emissions are set out in the Our Clients – reducing our financed emissions section.Other key performance indicators used • In 2021, we set our Sustainability Aspirations to include an interim target to aim to reach net zero in our operations by 2030 and in our financed emissions by 2050. In 2022, we updated our target for reaching net zero in our operations by 2030 and brought it forward to 2025."
+                
+                }
+            ]
+        }
+    },
+    {
+        "file": "Nedbank_2020_TCFD.pdf",
+        "content": {
+            "Governance":[
+                {
+                    "Q": "Describe the board’s oversight of climate-related risks and opportunities.",
+                    "A": "GCRC, a board subcommittee, effective from Q1 2021. z CRC, a subcommittee of Group Exco, chaired by the CRO. Effective Q4 2019. z CTT – multidisciplinary team across Nedbank, effective from Q4 2019."
+                },
+                {
+                    "Q": "Describe management’s role in assessing and managing climate-related risks and opportunities.",
+                    "A": "Climate Risk/Resilience function established in Group Risk, effective from Q1 2021. z Continuous upskilling of our board, management, employees and clients."
+                
+                }
+            ],
+            "Strategy": [
+                {
+                    "Q": "Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.",
+                    "A": "We conducted a detailed analysis of carbon budgets corresponding to the Paris Agreement temperature thresholds, focusing on the implications for energy system transformation. This analysis helped inform the Nedbank Energy Policy, which aligns with a planned withdrawal from fossil fuels and focuses on financing renewable and embedded energy solutions. Additionally, we are identifying potential climate-change-related business opportunities through the UN SDGs, specifically targeting SDG 6, 7, 9, 11, 12, and 15."
+                },
+                {
+                    "Q": "Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.",
+                    "A": "Our strategy incorporates a transition to financing renewable and embedded energy solutions, aiming to accelerate socioeconomic development while planning a withdrawal from fossil fuels. This strategic shift is also influenced by our commitment to the UN SDGs, guiding us to focus on sustainable and impactful investments. The establishment of a dedicated Sustainable Finance Unit underscores our commitment to integrating climate-related considerations into our business and financial planning."
+                },
+                {
+                    "Q": "Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.",
+                    "A": "The resilience of our strategy in the face of climate-related scenarios, including a 2°C or lower scenario, is demonstrated by our proactive approach to understanding the implications of various Paris Agreement temperature thresholds on the energy system. This understanding, gained through detailed carbon budget analyses and scenario analyses focusing on power generation and upstream fossil fuels, informs our Nedbank Energy Policy and guides our efforts in transitioning towards renewable energy financing, thus ensuring our strategy's alignment with global climate goals."
+                }
+            ],
+            "Risk Management": [
+                {
+                    "Q": "Describe the organization’s processes for identifying and assessing climate-related risks.",
+                    "A": "Our Climate Risk Management Framework (CRMF) was approved in 2020, marking a significant step in formally recognizing climate risk within our risk management processes. We are integrating climate risk as a systemic risk across the 17 identified risk types within the three lines of defense (3LoD) model. This integration is carried out with ongoing coordinated assurance as part of our Enterprise Risk Management Framework (ERMF), ensuring that climate risk is systematically identified and assessed across all areas of the organization."
+                },
+                {
+                    "Q": "Describe the organization’s processes for managing climate-related risks.",
+                    "A": "To manage climate-related risks, we have integrated our Social, Environmental, and Ethical Risk Management (SEMS) and climate risk processes in the Corporate and Investment Banking (CIB) sector. This integration ensures that climate-related considerations are embedded in our decision-making processes. Furthermore, the approval of an Energy Policy that includes the financing of fossil-fuel-related and renewable and embedded energy solutions, alongside an internal climate risk appetite, signifies our commitment to managing climate-related risks by aligning our financing activities with our climate risk management objectives."
+                },
+                {
+                    "Q": "Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.",
+                    "A": "The integration of climate risk into our overall risk management is evidenced by our approach to treating climate risk as a systemic factor across the 17 risk types within our 3LoD model. This approach ensures that climate risk is not treated in isolation but as an integral part of our broader Enterprise Risk Management Framework (ERMF). The coordination between our CRMF, SEMS, and the inclusion of climate risk in our Corporate and Investment Banking (CIB) processes demonstrate a comprehensive and integrated strategy for managing climate-related risks within the organization."
+                }
+            ],
+            "Metrics and Targets": [
+                {
+                    "Q": "Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.",
+                    "A": "We are committed to decreasing thermal-coal metrics to 0.5% of the group's total advances by 2030, demonstrating a focused effort to reduce exposure to high carbon-emitting activities. Furthermore, we disclose energy lending portfolio metrics, including detailed breakdowns of fossil-fuel-related activities (specifically thermal coal and upstream oil) as well as renewable and embedded energy solutions, showcasing our commitment to transparency and the management of climate-related risks and opportunities."
+                },
+                {
+                    "Q": "Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks.",
+                    "A": "Our own operations have achieved carbon neutrality since 2010, underscoring our commitment to minimizing our environmental footprint. We have set revised operational reduction targets with 2019 as a new base year, aligning our efforts with global climate action by reducing Scope 1 and Scope 2 emissions, and focusing on the continuous improvement of our environmental performance."
+                },
+                {
+                    "Q": "Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.",
+                    "A": "In our investing activities, we became the first commercial bank in South Africa to launch a R1.7bn green bond on the JSE in 2019, followed by the approval of a US$200m loan from the IFC for renewable energy projects and the launch of South Africa's first R2bn green tier 2 capital instrument in 2020. These milestones reflect our strategic targets to support and finance the transition to a low-carbon economy, facilitating investments in renewable energy and green projects as pivotal components of our approach to managing climate-related risks and seizing opportunities."
+                }
+            ]   
         }
     }
     
