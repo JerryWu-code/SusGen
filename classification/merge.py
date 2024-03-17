@@ -1,6 +1,3 @@
-# SusGen Project for A* and NUS
-# 2024-03-15: Xuan W.
-
 # This is the SusGen project for NUS and A*
 # 17-03-2024: Xaun.W
 
