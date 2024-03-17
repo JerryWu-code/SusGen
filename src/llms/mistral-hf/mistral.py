@@ -1,3 +1,8 @@
+# Author: "WHATX" -- Wu Qilong
+# Institute: National University of Singapore, A Star IHPC
+# Description: Use this script to do inference of the Mistral.
+
+#############################################################################
 import torch
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM
