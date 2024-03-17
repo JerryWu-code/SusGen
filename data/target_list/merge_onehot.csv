@@ -50,8 +50,8 @@ Landsec,https://landsec.com/sites/default/files/2020-06/Sustainability%20Perform
 Landsec,https://landsec.com/sites/default/files/2019-06/Landsec_Sustainability_Performance_Data_2019.pdf,TCFD,2019,Real Estate Management and Development,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
 JP Morgan Chase,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-esg-report-2020.pdf,"GRI,SASB,TCFD",2020,Banks,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
 JP Morgan Chase,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/documents/jpmc-cr-esg-report-2019.pdf,"GRI,SASB,TCFD",2019,Banks,United States of America,1,0,0,1,1,0,0,0,0,0,1,0
-Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2020/eng/Consolidated_Non_Financial_Statement_2020.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,1
-Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2019/eng/DCNF%202019_en.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,1
+Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2020/eng/Consolidated_Non_Financial_Statement_2020.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,0
+Intesa Sanpaolo,https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/dcnf-2019/eng/DCNF%202019_en.pdf,"TCFD, GRI, SASB",2020,Banks,Italy,1,0,0,1,1,0,0,0,0,0,1,0
 Hitachi,https://www.hitachi.com/sustainability/download/pdf/en_sustainability2020_print.pdf,GRI,2020,IT and Communications Services,Japan,1,0,0,0,1,0,0,0,0,0,0,0
 Hitachi,https://www.hitachi.com/sustainability/download/pdf/en_sustainability2019.pdf,GRI,2020,IT and Communications Services,Japan,1,0,0,0,1,0,0,0,0,0,0,0
 Hera Group,https://eng.gruppohera.it/group_eng/sustainability/sustainability-report/sr,GRI,2020,Multi-Utilities,Italy,1,0,0,0,1,0,0,0,0,0,0,0
@@ -116,7 +116,7 @@ Société Générale,https://www.societegenerale.com/sites/default/files/documen
 SK hynix,https://mis-prod-koce-homepage-cdn-01-blob-ep.azureedge.net/web/attach/4325948666031769.pdf,TCFD,2022,Manufacturing,South Korea,1,0,0,1,0,0,0,0,0,0,0,0
 Santander Group,https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2020/ias-2020-climate-finance-2020-21-en.pdf,TCFD,2021,Banks,Spain,1,0,0,1,0,0,0,0,0,0,0,0
 Santander Group,https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2019/ias-2019-climate-finance-2019-20-en.pdf,TCFD,2020,Banks,Spain,1,0,0,1,0,0,0,0,0,0,0,0
-Salesforce,https://s23.q4cdn.com/574569502/files/doc_downloads/2021/10/Salesforce-TCFD-Report.pdf,TCFD,2021,IT and Communications Services,United States of America,1,0,0,1,0,0,0,0,0,0,0,1
+Salesforce,https://s23.q4cdn.com/574569502/files/doc_downloads/2021/10/Salesforce-TCFD-Report.pdf,TCFD,2021,IT and Communications Services,United States of America,1,0,0,1,0,0,0,0,0,0,0,0
 Royal Bank of Canada,https://www.rbc.com/community-social-impact/_assets-custom/pdf/RBC-TCFD-Report-2020.PDF,TCFD,2020,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,0
 Royal Bank of Canada,https://www.rbc.com/community-social-impact/_assets-custom/pdf/RBC-TCFD-Report-2019.PDF,TCFD,2019,Banks,Canada,1,0,0,1,0,0,0,0,0,0,0,0
 Rio Tinto,https://www.riotinto.com/-/media/Content/Documents/Invest/Reports/Climate-Change-reports/RT-climate-report-2020.pdf?rev=c415a8138bd7408496ccb3834511abc0,TCFD,2020,Metals and Mining,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
@@ -169,8 +169,8 @@ AXA,https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2F667045c2-cc3c-4
 AXA,https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2Fcf61ff6c-ee1d-4dcb-92ba-ed243ae7f2fb_2018+tcfd+full+report+-+final+-+b.pdf,TCFD,2018,Insurance,France,1,0,0,1,0,0,0,0,0,0,0,0
 AXA,https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2Ff570ad25-6178-47a0-afb9-59a5b7d3d70a_changementclimatique_rapport_risqueinvestissement_vf_30.08.17-b.pdf,TCFD,2017,Insurance,France,1,0,0,1,0,0,0,0,0,0,0,0
 AXA,https://axa-prod.s3.amazonaws.com/www-axa-com%2Fcb46e9f7-8b1d-4418-a8a7-a68fba088db8_axa_investor_climate_report.pdf,TCFD,2016,Insurance,France,1,0,0,1,0,0,0,0,0,0,0,0
-Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2022,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
-Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2021,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,1
+Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2022,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
+Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2021,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
 Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2020,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
 Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2019,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
 Aviva,https://www.aviva.com/sustainability/reporting/climate-related-financial-disclosure/,TCFD,2018,Insurance,United Kingdom,1,0,0,1,0,0,0,0,0,0,0,0
@@ -178,8 +178,8 @@ Australia and New Zealand Banking Group,https://www.anz.com.au/about-us/esg-prio
 ATP,https://www.atp.dk/en/dokument/climate-2020,TCFD,2020,Asset Owners,Denmark,1,0,0,1,0,0,0,0,0,0,0,0
 ATP,https://www.atp.dk/en/dokument/climate-change-2019,TCFD,2019,Asset Owners,Denmark,1,0,0,1,0,0,0,0,0,0,0,0
 ATP,https://www.atp.dk/en/dokument/responsibility-report-2018,TCFD,2018,Asset Owners,Denmark,1,0,0,1,0,0,0,0,0,0,0,0
-ArcelorMittal,https://corporate-media.arcelormittal.com/media/hs4nmyya/am_climateactionreport_1.pdf,TCFD,2019,Construction Materials,Luxembourg,1,0,0,1,0,0,0,0,0,0,0,1
-ArcelorMittal,https://corporate-media.arcelormittal.com/media/ob3lpdom/car_2.pdf,TCFD,2021,Construction Materials,Luxembourg,1,0,0,1,0,0,0,0,0,0,0,1
+ArcelorMittal,https://corporate-media.arcelormittal.com/media/hs4nmyya/am_climateactionreport_1.pdf,TCFD,2019,Construction Materials,Luxembourg,1,0,0,1,0,0,0,0,0,0,0,0
+ArcelorMittal,https://corporate-media.arcelormittal.com/media/ob3lpdom/car_2.pdf,TCFD,2021,Construction Materials,Luxembourg,1,0,0,1,0,0,0,0,0,0,0,0
 American Electric Power,http://aepsustainability.com/performance/report/docs/AEPs-Climate-Impact-Analysis-2021.pdf,TCFD,2021,Electric and Gas Utilities,United States of America,1,0,0,1,0,0,0,0,0,0,0,0
 Alecta,https://www.alecta.se/globalassets/dokument/finansiella-rapporter/klimatredovisning/alecta-klimatredovisning-2020.pdf,TCFD,2020,Asset Owners,Sweden,1,0,0,1,0,0,0,0,0,0,0,0
 Alecta,https://www.alecta.se/globalassets/dokument/finansiella-rapporter/klimatredovisning/alecta-klimatredovisning-2019.pdf,TCFD,2019,Asset Owners,Sweden,1,0,0,1,0,0,0,0,0,0,0,0
