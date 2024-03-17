@@ -5,6 +5,7 @@ import os
 import csv
 import torch
 import numpy as np
+import pandas as pd
 import sklearn
 import pickle
 import sys
@@ -175,15 +176,30 @@ def lr_train(pretrained_path, data_path, tsne_name, save_path):
         pickle.dump(lr, file)
     print(f"Successuflly save the text classification model into {save_path}")
 
-def lr_predict(model, pred_x, save_csv):
+def lr_predict(model_path, data_path, save_path, pretrained_path):
     """
     predict the zero.csv file, save to zero_predict.csv
     args:
-        model: trained classification model
-        pred_x: for zero.csv
-        save_csv: path for zero_predict.csv
+        model_path: trained classification model  .pickle
+        save_path: path for zero_predict.csv
+        data_path: input csv file for prediction
+        pretrained_path: llm ckpts
     """
-    pass
+    pretrained_model, tokenizer = load_model(pretrained_path) # 77%
+    pred_data, data_class =  load_data(data_path, name="predict")
+    pred_embeddings = emb_data(pred_data, pretrained_model, tokenizer)
+
+    with open(model_path, 'rb') as file:
+        model = pickle.load(file)
+
+    predictions = model.predict(pred_embeddings)
+
+    # save text, lable and preditions
+    init_data = pd.read_csv(data_path)
+    init_data["predictions"] = predictions
+    init_data.to_csv(save_path, index=False) 
+    print(f"Predictions successfully saved to {save_path}")
+
 
 if __name__ == "__main__":
     # pretrained_path = "../../ckpts/Mistral-7B-Instruct-v0.2-origin/" # 74%
@@ -198,13 +214,11 @@ if __name__ == "__main__":
     save_path = os.path.join(model_save_path, model_name)
     print(f"save path: {save_path}")
 
-    # LR train and model save
-    lr_train(pretrained_path, data_path, tsne_name, save_path)
+    # # LR train and model save
+    # lr_train(pretrained_path, data_path, tsne_name, save_path)
 
     # LR predict
-    pred_x = "./data/zero.csv"
-    # data to emb
-    pretrained_model, tokenizer = load_model(pretrained_path) # 77%
-    pred_data, data_class =  load_data(data_path, name="predict")
-    pred_embeddings = emb_data(predict_data, pretrained_model, tokenizer)
-    # lr_predict(save_path, pred_x)
+    pred_path = "../data/zero.csv"
+    pred_save = "../data/zero_predict.csv"
+    model_path = save_path
+    lr_predict(model_path, pred_path, pred_save, pretrained_path)
