@@ -4,7 +4,6 @@
 
 #############################################################################
 import torch
-import json
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import warnings
 warnings.filterwarnings("ignore")
