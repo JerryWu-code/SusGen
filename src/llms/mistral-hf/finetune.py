@@ -186,7 +186,7 @@ def main():
     hparams = {
         # start config the model
         "lora": True,
-        "quantization": 'bf16', # 'int4' or 'int8' or 'bf16' or None
+        "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
         "model_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
 
@@ -201,7 +201,7 @@ def main():
         "pad_token": "</s>",
         "padding": True,
         "truncation": True,
-        "max_length": 640, # set to None to use the max length of the dataset
+        "max_length": 1024, # set to None to use the max length of the dataset
     }
 
     # Set up the wandb login
@@ -212,7 +212,7 @@ def main():
 
     # Set up the model and the tokenizer
     model = setup_model(hparams)
-    # model = accelerator.prepare_model(model)   # require more memory to accelerate
+    model = accelerator.prepare_model(model)   # require more memory to accelerate
     if torch.cuda.device_count() > 1: # If more than 1 GPU
         model.is_parallelizable = True
         model.model_parallel = True
