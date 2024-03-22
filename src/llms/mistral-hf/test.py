@@ -19,18 +19,20 @@ def test():
     user_instruction = (
         "You are a senior equity analyst with expertise in climate science "
         "evaluating a company 's sustainability report, "
-        "you will answer the question in detail."
+        "Please concentrate on the organizations governance around climate-related risks and opportunities."
     )
-    question = "What is the tcfd format sustainability report?"
+    question = ("Text: Our Board of Directors is responsible for all sustainability matters at Wolfspeed, including climate change, through our Governance and Nominations Committee. Further information about our Board’s oversight of sustainability can be found in the Sustainability Oversight section of this report.\n Our CEO, who is also the Company’s President and a Board member, is also responsible for climate-related issues impacting the company because he has oversight of departments within Wolfspeed, including those that manage climate-related issues (e.g., environment, health and safety, sustainability, emergency management, product development, operations, etc.). More information about our CEO’s role with the Board of Directors can be found in the Board of Directors and Committee Composition section of this report and on our Board of Directors web page.\n Sustainability-related information is presented to our Board of Directors at least once per year, which covers a range of topics, including environmental performance (GHG emissions/climate change, water, etc.) and social responsibility efforts.\n Our Board of Directors also discusses climate change risks as important matters arise because our manufacturing facilities are not located in areas that are typically directly impacted by climate- related events (e.g., tropical storms, droughts, etc.). Indirectly, our Board discusses climate-related opportunities offen, as our business, and more speciffcally our products, are designed to reduce energy usage, and therefore greenhouse gas emissions, which directly affect climate change. For example, our Board helps guide our business strategy, part of which focuses on the development of Silicon Carbide products that enable auto manufacturers to reach their goals of electric vehicle production and adoption around the world. Our Board of Directors also help guide our Sustainability strategy, including goals and targets development. Refer to the Sustainability Goals section of this report for more information about our current sustainability goals and targets. Our climate-related risks and opportunities over the short-, medium-, and long-term can be found in the Our Climate Change Risks and Our Climate Change Opportunities subsection. The risks and opportunities reported here refer to those that could have a substantive ffnancial or strategic impact to our business.\n We define a substantive ffnancial or strategic impact as something that will cause signiffcant impact to our business both internally (i.e., our direct operations) or externally (i.e., our upstream and downstream value chain). We use $1million USD to establish a threshold for substantive ffnancial impact when determining potential impacts due to climate change.\n Our short-term horizon was chosen to be 0-1 years because our budgets are currently established on a shorterterm timeframe. Our medium-term horizon was chosen to be 1-10 years based on our anticipated timeline for our current capacity expansion efforts that are planned to be completed in 2024. Our long-term horizon of 10-100 years is not currently aligned with other business practice time horizons."
+                "Describe the organization's governance around climate-related risks and opportunities"
+    )
     prompt2 = f"{user_instruction}\n Question: {question}"
 
     prompt2 = instr_prompt(prompt2)
 
     # Define args
     args = {
-        "max_length": 300,
+        "max_length": 1024,
         "do_sample": True,
-        "temperature": 0.5,
+        "temperature": 0.2,
         "top_p": 0.9,
         "top_k": 40,
         "num_return_sequences": 1
