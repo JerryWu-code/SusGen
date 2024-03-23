@@ -5,7 +5,7 @@
 #    2. Turn the weights into consolidated format for deployment.
 
 #############################################################################
-from template import *
+from template import load_model, generate_text, instr_prompt
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -14,7 +14,7 @@ def test():
     model, tokenizer, device, _ = load_model(model_path)
 
     # Case 1
-    prompt1 = instr_prompt("What is the capital of France?")
+    prompt1 = instr_prompt("What is tcfd format in the context of climate change?")
     # Case 2
     user_instruction = (
         "You are a senior equity analyst with expertise in climate science "
@@ -26,18 +26,16 @@ def test():
     )
     prompt2 = f"{user_instruction}\n Question: {question}"
 
-    prompt2 = instr_prompt(prompt2)
-
     # Define args
     args = {
-        "max_length": 1024,
+        "max_length": 512,
         "do_sample": True,
         "temperature": 0.2,
         "top_p": 0.9,
         "top_k": 40,
         "num_return_sequences": 1
     }
-    _, answer = generate_text(model, tokenizer, device, prompt=prompt2, args=args)
+    _, answer = generate_text(model, tokenizer, device, prompt=prompt1, args=args)
 
 def main():
     test()

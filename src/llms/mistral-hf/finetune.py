@@ -5,7 +5,11 @@
 #############################################################################
 # Package for fine-tuning the Mistral-7B model with Lora
 import torch, os, json, wandb, warnings, transformers
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from transformers import (
+    AutoModelForCausalLM, 
+    AutoTokenizer, 
+    BitsAndBytesConfig, TrainingArguments, 
+    get_linear_schedule_with_warmup)
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from datetime import datetime
 import matplotlib
@@ -83,8 +87,8 @@ def setup_model(hparams):
         peft_config = LoraConfig(
             task_type="CAUSAL_LM",
             inference_mode=False,
-            r=8, # low rank, goes as the dataset
-            lora_alpha=16, # delta_W scaled by alpha/r, set the rate to 2 or 4
+            r=16, # low rank, goes as the dataset
+            lora_alpha=32, # delta_W scaled by alpha/r, set the rate to 2 or 4
             lora_dropout=0.1,
             bias="none",
             target_modules=[
@@ -116,6 +120,8 @@ def setup_tokenizer(hparams):
         add_eos_token=hparams["add_eos_token"],
         add_bos_token=hparams["add_bos_token"],
         pad_token=hparams["pad_token"], # or use the comment below
+        truncation=hparams["truncation"],
+        padding=hparams["padding"],
     )
     # tokenizer.pad_token = tokenizer.eos_token # "</s>"
     return tokenizer
@@ -151,7 +157,7 @@ def get_tokenized_prompt(tokenizer, hparams):
         else:
             result = tokenizer(
                 text=data_2_prompt(record),
-                padding=hparams["padding"],
+                padding="max_length",
                 truncation=hparams["truncation"],
                 max_length=hparams["max_length"],
             )
@@ -201,7 +207,7 @@ def main():
         "pad_token": "</s>",
         "padding": True,
         "truncation": True,
-        "max_length": 1024, # set to None to use the max length of the dataset
+        "max_length": 512, # set to None to use the max length of the dataset
     }
 
     # Set up the wandb login
@@ -212,10 +218,12 @@ def main():
 
     # Set up the model and the tokenizer
     model = setup_model(hparams)
+    model.config.window = 256 # set the window size for the PEFT model
     model = accelerator.prepare_model(model)   # require more memory to accelerate
     if torch.cuda.device_count() > 1: # If more than 1 GPU
         model.is_parallelizable = True
         model.model_parallel = True
+        print("Model is parallelizable")
     tokenizer = setup_tokenizer(hparams)
     # print(model.config, '\n')
     # print(model)
@@ -224,7 +232,7 @@ def main():
     # load the dataset
     # alpaca = load_json("../../../data/susgen/alpaca/alpaca_data.json")
     alpaca = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
-    train_alpaca, val_alpaca = split_data(alpaca, split_ratio=0.1)
+    train_alpaca, val_alpaca = split_data(alpaca, split_ratio=0.002)
     # print(alpaca[0])
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
@@ -243,19 +251,21 @@ def main():
         eval_dataset=tokenized_val_alpaca,
         args=transformers.TrainingArguments(
             output_dir=output_dir,
-            warmup_steps=50,                # Number of steps for the warmup phase
-            per_device_train_batch_size=2,
-            gradient_accumulation_steps=1,
-            max_steps=200,
-            learning_rate=2.5e-5,           # Want a small lr for finetuning
-            bf16=True,
+            warmup_steps=100,               # Number of steps for the warmup phase
+            # max_steps=7000,                 # Total number of training steps
+            num_train_epochs=1,             # Number of epochs to train the model
+            per_device_train_batch_size=16,
+            gradient_accumulation_steps=1,  # Accumulate gradients before backpropagation
+            learning_rate=5e-5,             # Want a small lr for finetuning
+            lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
+            bf16=True,                      # Use bfloat16 for training
             optim="paged_adamw_8bit",
-            logging_steps=25,               # When to start reporting loss
+            logging_steps=10,               # Log every 25 step
             logging_dir=logging_dir,        # Directory for storing logs
             save_strategy="steps",          # Save the model checkpoint every logging step
-            save_steps=25,                  # Save checkpoints every 25 steps
+            save_steps=200,                 # Save checkpoints every ... steps
             evaluation_strategy="steps",    # Evaluate the model every logging step
-            eval_steps=25,                  # Evaluate and save checkpoints every 25 steps
+            eval_steps=200,                 # Evaluate and save checkpoints every ... steps
             do_eval=True,                   # Perform evaluation at the end of training
             report_to="wandb",              # Comment this out if you don't want to use weights & baises
             run_name=f"{project_name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}"   
@@ -264,6 +274,21 @@ def main():
             data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
+
+    # set up another trainer SFT for the SFT training
+    # from trl import SFTTrainer
+    # trainer = SFTTrainer(
+    #     model=model,
+    #     train_dataset=train_dataset,
+    #     eval_dataset=eval_dataset, 
+    #     peft_config=peft_config,
+    #     dataset_text_field="text",
+    #     max_seq_length=script_args.max_seq_length,
+    #     tokenizer=tokenizer,
+    #     args=training_arguments,
+    #     packing=script_args.packing,
+    # )
+
     trainer.train()
     trainer.save_model(output_dir)
 

@@ -9,8 +9,9 @@ __pycache__/
 # ignore PDFs inside raw_data
 # data/raw_data/*.pdf
 
-# ignore the wget logs
+# ignore the logs
 wget-*
+src/llms/mistral-hf/wandb/
 
 # ignore the checkpoint files
 /ckpts
@@ -20,6 +21,7 @@ llama-2-7b/consolidated.00.pth
 !llama-2-7b/params.json
 Mistral-7B-Instruct-v0.2-origin
 !Mistral-7B-Instruct-v0.2-origin/params.json
+src/llms/mistral-hf/results/
 
 # ignore the .gitignore itself
 # .gitignore*

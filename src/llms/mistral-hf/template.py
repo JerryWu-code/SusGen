@@ -6,7 +6,7 @@
 
 #############################################################################
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig
+from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -16,16 +16,22 @@ def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
 
     # 2.Load the model and move to GPU
     config = AutoConfig.from_pretrained(model_path)
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_use_double=True,
+        bnb_quant_type="nf4"
+    )
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
-        torch_dtype=torch.float16, 
+        torch_dtype=torch.float16,
+        quantization_config=bnb_config,
         low_cpu_mem_usage=True
     )
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = model.to(device)
-    # if torch.cuda.device_count() > 1:
-    #     print(f"Using {torch.cuda.device_count()} GPUs!")
-    #     model = torch.nn.DataParallel(model)
+    if bnb_config:
+        device = None
+    else:
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model = model.to(device)
 
     return model, tokenizer, device, config
 
@@ -33,7 +39,7 @@ def generate_text(model, tokenizer, device, prompt, args):
     input_ids = tokenizer.encode(prompt, return_tensors="pt").to(device)
     
     with torch.no_grad():
-        output = model.generate(  # Use model.module to access the wrapped model
+        output = model.generate(
             input_ids=input_ids,
             max_length=args["max_length"],
             do_sample=args["do_sample"],
