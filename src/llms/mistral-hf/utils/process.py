@@ -35,11 +35,22 @@ def append_to_jsonl(data, file_path):
             json.dump(data, file)
             file.write('\n')
 
-def concat_jsonl(file_list, output_file="../../../data/susgen/tcfd_qa/v2_concat.json"):
+def concat_jsonl(target_path, output_file="../../../data/susgen/tcfd_qa/v2_concat.json"):
+    file_list = [os.path.join(target_path, file) for file in os.listdir(
+        target_path) if file.endswith(".jsonl")]
     final = []
+    num = 0
     for file in file_list:
-        data = load_jsonl(file)
-        final.extend(data)
+        data_ = load_jsonl(file)
+        for data in data_:
+            temp = {
+                "instruction": data['instruction'],
+                "input": data['input'],
+                "output": data['answer']
+            }
+            final.append(temp)
+            num += 1
+    print(f"Total records: {num}")
     save_json(final, output_file)
 
 def denoise_text():
@@ -111,7 +122,7 @@ def task2(model, tokenizer, device, args, times):
             temp = {
                 "instruction": answer1,
                 "input": "",
-                "output": answer2
+                "answer": answer2
             }
             append_to_jsonl(temp, "../../../data/susgen/tcfd_qa/cache/diverse_v2_+4.jsonl")
             final.append(temp)
@@ -121,10 +132,9 @@ def task2(model, tokenizer, device, args, times):
             print("="*50)
             data.append(temp)
     
-    save_json(final, "../../../data/susgen/tcfd_qa/tcfd_qa_v2_+4.json")
+    # save_json(final, "../../../data/susgen/tcfd_qa/tcfd_qa_v2_+4.json")
 
 def main():
-    model, tokenizer, device, _ = load_model()
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -134,14 +144,12 @@ def main():
         "num_return_sequences": 1
     }
 
+    # model, tokenizer, device, _ = load_model()
     # task1(model, tokenizer, device, args)
     # denoise_text()
-    # task2(model, tokenizer, device, args, 2)
-    file_list = [
-        "../../../data/susgen/tcfd_qa/cache/diverse_v2_+4.jsonl", #...
-    ]
-    # concat_jsonl(file_list, output_file="../../../data/susgen/tcfd_qa/tcfd_v2_concat.json")
-    
+    # task2(model, tokenizer, device, args, 1)
+    target_path = "../../../data/susgen/tcfd_qa/cache"
+    concat_jsonl(target_path, output_file="../../../data/susgen/tcfd_qa/tcfd_qa_v2.json")
 
 if __name__ == "__main__":
     main()

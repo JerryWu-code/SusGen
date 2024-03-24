@@ -10,7 +10,7 @@ from transformers import (
     AutoTokenizer, 
     BitsAndBytesConfig, TrainingArguments, 
     get_linear_schedule_with_warmup)
-from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training, PeftModel
 from datetime import datetime
 import matplotlib
 matplotlib.use('Agg')
@@ -82,8 +82,11 @@ def setup_model(hparams):
             hparams["model_path"],
             quantization_config=bnb_config, # int8 quantization
         )
-
-    if hparams["lora"]:
+    if hparams["lora_path"]:
+        model.gradient_checkpointing_enable()
+        model = prepare_model_for_kbit_training(model, peft_config)
+        model = PeftModel.from_pretrained(model, hparams["lora_path"])
+    elif hparams["lora"]:
         peft_config = LoraConfig(
             task_type="CAUSAL_LM",
             inference_mode=False,
@@ -107,6 +110,8 @@ def setup_model(hparams):
         model = prepare_model_for_kbit_training(model, peft_config)
         # Get the PEFT model
         model = get_peft_model(model, peft_config)
+    else: # no lora
+        model.gradient_checkpointing_enable()
 
     return model
 
@@ -195,6 +200,7 @@ def main():
         "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
         "model_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
+        "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final",
 
         # start config the tokenizer
         "tokenizer_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
@@ -212,7 +218,7 @@ def main():
 
     # Set up the wandb login
     base_model = "Mistral-7B"
-    project = "alpaca-lora"
+    project = "susgenv1-lora"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
 
@@ -230,15 +236,15 @@ def main():
     print_tranable_params(model) # model.print_trainable_parameters()
 
     # load the dataset
-    # alpaca = load_json("../../../data/susgen/alpaca/alpaca_data.json")
-    alpaca = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
-    train_alpaca, val_alpaca = split_data(alpaca, split_ratio=0.002)
+    # data = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
+    data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/data.json")
+    train_data, val_data = split_data(data, split_ratio=0.005)
     # print(alpaca[0])
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
-    tokenized_train_alpaca = train_alpaca.map(get_tokenized_prompt(tokenizer, hparams))
-    tokenized_val_alpaca = val_alpaca.map(get_tokenized_prompt(tokenizer, hparams))
-    print(tokenized_train_alpaca)
+    tokenized_train_data = train_data.map(get_tokenized_prompt(tokenizer, hparams))
+    tokenized_val_data = val_data.map(get_tokenized_prompt(tokenizer, hparams))
+    print(tokenized_train_data)
     # plot_data_lengths(tokenized_train_alpaca, tokenized_val_dataset=tokenized_val_alpaca,
     #                   save_name="figs/alpaca_gpt4.png")
 
@@ -247,25 +253,25 @@ def main():
     logging_dir = os.path.join("results", project_name, "logs")
     trainer = transformers.Trainer(
         model=model,
-        train_dataset=tokenized_train_alpaca,
-        eval_dataset=tokenized_val_alpaca,
+        train_dataset=tokenized_train_data,
+        eval_dataset=tokenized_val_data,
         args=transformers.TrainingArguments(
             output_dir=output_dir,
-            warmup_steps=100,               # Number of steps for the warmup phase
-            # max_steps=7000,                 # Total number of training steps
-            num_train_epochs=1,             # Number of epochs to train the model
+            warmup_steps=50,                # Number of steps for the warmup phase
+            # max_steps=7000,               # Total number of training steps
+            num_train_epochs=3,             # Number of epochs to train the model
             per_device_train_batch_size=16,
             gradient_accumulation_steps=1,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
             lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
             bf16=True,                      # Use bfloat16 for training
             optim="paged_adamw_8bit",
-            logging_steps=10,               # Log every 25 step
+            logging_steps=10,               # Log every ... step
             logging_dir=logging_dir,        # Directory for storing logs
             save_strategy="steps",          # Save the model checkpoint every logging step
-            save_steps=200,                 # Save checkpoints every ... steps
+            save_steps=50,                  # Save checkpoints every ... steps
             evaluation_strategy="steps",    # Evaluate the model every logging step
-            eval_steps=200,                 # Evaluate and save checkpoints every ... steps
+            eval_steps=50,                  # Evaluate and save checkpoints every ... steps
             do_eval=True,                   # Perform evaluation at the end of training
             report_to="wandb",              # Comment this out if you don't want to use weights & baises
             run_name=f"{project_name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}"   

@@ -16,6 +16,7 @@ def merge_json(target_path, output_file):
             final.extend(data)
     with open(output_file, 'w') as f:
         json.dump(final, f, indent=4)
+    print(f"Merge {len(file_list)} files to {output_file}")
 
 def csv_2_json(csv_file, json_file, target_num=100):
     df = pd.read_csv(csv_file)
@@ -30,7 +31,7 @@ def sample_task(csv_list, target_num_list, target_path, cache_path):
         print(f"Convert {file} to {json_file}")
 
 def main():
-    target_num_list = [3000, 500, 500]
+    target_num_list = [3000, 250, 250]
     target_path = "history"
     cache_path = "cache"
     merge_out = f"fingpt_v1_{sum(target_num_list)//1000}k.json"
