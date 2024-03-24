@@ -35,6 +35,13 @@ def append_to_jsonl(data, file_path):
             json.dump(data, file)
             file.write('\n')
 
+def concat_jsonl(file_list, output_file="../../../data/susgen/tcfd_qa/v2_concat.json"):
+    final = []
+    for file in file_list:
+        data = load_jsonl(file)
+        final.extend(data)
+    save_json(final, output_file)
+
 def denoise_text():
     data = load_json("../../../data/susgen/tcfd_qa/tcfd_qa_v1.json")
     final = []
@@ -104,7 +111,7 @@ def task2(model, tokenizer, device, args, times):
             temp = {
                 "instruction": answer1,
                 "input": "",
-                "answer": answer2
+                "output": answer2
             }
             append_to_jsonl(temp, "../../../data/susgen/tcfd_qa/cache/diverse_v2_+4.jsonl")
             final.append(temp)
@@ -129,7 +136,12 @@ def main():
 
     # task1(model, tokenizer, device, args)
     # denoise_text()
-    task2(model, tokenizer, device, args, 2)
+    # task2(model, tokenizer, device, args, 2)
+    file_list = [
+        "../../../data/susgen/tcfd_qa/cache/diverse_v2_+4.jsonl", #...
+    ]
+    # concat_jsonl(file_list, output_file="../../../data/susgen/tcfd_qa/tcfd_v2_concat.json")
+    
 
 if __name__ == "__main__":
     main()
