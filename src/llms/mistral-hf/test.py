@@ -26,16 +26,24 @@ def test():
     )
     prompt2 = f"{user_instruction}\n Question: {question}"
 
+    # for test
+    text = "CPP Investments is in the process of identifying and monitoring climate-related factors that may impact our investment portfolio, with an emphasis on managing risk as central to our legislative objectives. This includes a broad array of complex interrelated risks such as physical and transition risks, for which there is no established historical fact set. Our Risk Group uses various approaches including scenario analysis and 'bow-tie' risk & control assessments to assess climate change risk."
+    p3 = instr_prompt(
+        "Process the text following the instructions below:\n"
+        "1.Replace all the specific company entity name with \"we\" or \"our company\""
+        "2.Replace other private information with generic terms\n"
+        f"\nText:\n{text}")
+
     # Define args
     args = {
-        "max_length": 512,
+        "max_length": 8096,
         "do_sample": True,
         "temperature": 0.2,
         "top_p": 0.9,
         "top_k": 40,
         "num_return_sequences": 1
     }
-    _, answer = generate_text(model, tokenizer, device, prompt=prompt1, args=args)
+    _, answer = generate_text(model, tokenizer, device, prompt=p3, args=args)
 
 def main():
     test()
