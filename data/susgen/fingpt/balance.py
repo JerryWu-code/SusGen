@@ -31,10 +31,10 @@ def sample_task(csv_list, target_num_list, target_path, cache_path):
         print(f"Convert {file} to {json_file}")
 
 def main():
-    target_num_list = [3000, 250, 250]
+    target_num_list = [3000, 220, 260]
     target_path = "history"
     cache_path = "cache"
-    merge_out = f"fingpt_v1_{sum(target_num_list)//1000}k.json"
+    merge_out = f"fingpt_v1_{sum(target_num_list)}.json"
     csv_list = [os.path.join(target_path, file) for file in os.listdir(target_path) if file.endswith(".csv")]
 
     sample_task(csv_list, target_num_list, target_path, cache_path)

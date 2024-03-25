@@ -10,7 +10,8 @@ from transformers import (
     AutoTokenizer, 
     BitsAndBytesConfig, TrainingArguments, 
     get_linear_schedule_with_warmup)
-from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training, PeftModel
+from peft import (
+    LoraConfig, get_peft_model, prepare_model_for_kbit_training, PeftModel, PeftConfig)
 from datetime import datetime
 import matplotlib
 matplotlib.use('Agg')
@@ -69,9 +70,10 @@ def setup_model(hparams):
             bnb_4bit_compute_dtype=torch.bfloat16,
         )
         model = AutoModelForCausalLM.from_pretrained(
-            hparams["model_path"],
-            quantization_config=bnb_config, # int4 quantization
+                hparams["model_path"],
+                quantization_config=bnb_config, # int4 quantization
         )
+
     elif hparams["quantization"] == 'int8':
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=False,
@@ -82,11 +84,13 @@ def setup_model(hparams):
             hparams["model_path"],
             quantization_config=bnb_config, # int8 quantization
         )
+
     if hparams["lora_path"]:
-        model.gradient_checkpointing_enable()
-        model = prepare_model_for_kbit_training(model, peft_config)
-        model = PeftModel.from_pretrained(model, hparams["lora_path"])
-    elif hparams["lora"]:
+        peft_config = PeftConfig.from_pretrained(hparams["lora_path"])
+        base_with_adapters_model = PeftModel.from_pretrained(model, hparams["lora_path"])
+        model = base_with_adapters_model.merge_and_unload()
+
+    if hparams["lora"]:
         peft_config = LoraConfig(
             task_type="CAUSAL_LM",
             inference_mode=False,
@@ -110,8 +114,6 @@ def setup_model(hparams):
         model = prepare_model_for_kbit_training(model, peft_config)
         # Get the PEFT model
         model = get_peft_model(model, peft_config)
-    else: # no lora
-        model.gradient_checkpointing_enable()
 
     return model
 
@@ -233,11 +235,11 @@ def main():
     tokenizer = setup_tokenizer(hparams)
     # print(model.config, '\n')
     # print(model)
-    print_tranable_params(model) # model.print_trainable_parameters()
+    model.print_trainable_parameters()
 
     # load the dataset
     # data = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
-    data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/data.json")
+    data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     train_data, val_data = split_data(data, split_ratio=0.005)
     # print(alpaca[0])
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
@@ -259,14 +261,14 @@ def main():
             output_dir=output_dir,
             warmup_steps=50,                # Number of steps for the warmup phase
             # max_steps=7000,               # Total number of training steps
-            num_train_epochs=3,             # Number of epochs to train the model
+            num_train_epochs=5,             # Number of epochs to train the model
             per_device_train_batch_size=16,
             gradient_accumulation_steps=1,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
             lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
             bf16=True,                      # Use bfloat16 for training
             optim="paged_adamw_8bit",
-            logging_steps=10,               # Log every ... step
+            logging_steps=5,                # Log every ... step
             logging_dir=logging_dir,        # Directory for storing logs
             save_strategy="steps",          # Save the model checkpoint every logging step
             save_steps=50,                  # Save checkpoints every ... steps
@@ -296,7 +298,13 @@ def main():
     # )
 
     trainer.train()
+    # trainer.train(resume_from_checkpoint=path_to_checkpoint)
     trainer.save_model(output_dir)
 
+def test():
+    data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
+    data_.train_test_split(test_size=0.1)
+
 if __name__ == "__main__":
+    # test()
     main()

@@ -20,7 +20,7 @@ def save_json(data, file_path):
         json.dump(data, f, indent=4)
 
 def main():
-    target_num = 1480
+    target_num = 1000
     file = "alpaca_data_gpt4.json"
     out_file = f"alpaca_gpt4_{target_num // 1000}k.json"
     data = sample_json(file, target_num=target_num)
