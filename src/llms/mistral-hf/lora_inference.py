@@ -39,10 +39,6 @@ base_model = AutoModelForCausalLM.from_pretrained(
     torch_dtype=torch.float16,
 )
 
-test_prompt = "What is tcfd format in the context of climate change?"
-test_prompt = instr_prompt(test_prompt)
-model_input = tokenizer(test_prompt, return_tensors="pt").to(device)
-
 def load_alpaca():
     # lora_config = PeftConfig.from_pretrained(lora_alpaca)
     model = PeftModel.from_pretrained(base_model, lora_alpaca, torch_dtype=torch.bfloat16)
@@ -56,7 +52,7 @@ def load_susgenv1():
 
     return model
 
-def inference(model, model_input):
+def inference(model, model_input, mode="alpaca"):
     model.eval()
     with torch.no_grad():
         result = tokenizer.decode(
@@ -66,13 +62,29 @@ def inference(model, model_input):
                 repetition_penalty=1.15)[0], 
                 skip_special_tokens=True
             )
-        question = result.split("[/INST]")[0].split("[INST] ")[1]
-        answer = result.split("[/INST] [/INST] ")[1]
-        return question, answer
+        if mode == "alpaca":
+            question = result.split(" [/INST]")[0].split("[INST] ")[1]
+            answer = result.split("[/INST] [/INST] ")[1]
+            return question, answer
+        elif mode == "susgenv1":
+            question = result.split(" [/INST]")[0].split("[INST] ")[1]
+            answer = result.split("[/INST] ")[1]
+            return question, answer
+        else:
+            print(result)
+            return result
     
 def main():
-    model = load_alpaca()
-    question, answer = inference(model, model_input)
+    mode = "susgenv1" # or "alpaca"
+    test_prompt = "What is tcfd format in the context of climate change?"
+
+    if mode == "alpaca":
+        model = load_alpaca()
+    elif mode == "susgenv1":
+        model = load_susgenv1()
+    
+    model_input = tokenizer(instr_prompt(test_prompt), return_tensors="pt").to(device)
+    question, answer = inference(model, model_input, mode=None)
     print(f"Question: {question}")
     print(f"Answer: {answer}")
 
