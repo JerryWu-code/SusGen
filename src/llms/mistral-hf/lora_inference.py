@@ -5,7 +5,7 @@
 #############################################################################
 import torch, warnings
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-from peft import PeftModel, PeftConfig
+from peft import PeftModel
 from template import instr_prompt
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.*")
@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 device = torch.device("cuda")
 model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
 lora_alpaca = "results/Mistral-7B_alpaca-lora/ckpts/final"
-lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900"
+lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -58,35 +58,66 @@ def inference(model, model_input, mode="alpaca"):
         result = tokenizer.decode(
             model.generate(
                 **model_input, 
-                max_new_tokens=512, 
+                max_new_tokens=1024, 
                 repetition_penalty=1.15)[0], 
                 skip_special_tokens=True
             )
-        if mode == "alpaca":
-            question = result.split(" [/INST]")[0].split("[INST] ")[1]
-            answer = result.split("[/INST] [/INST] ")[1]
-            return question, answer
-        elif mode == "susgenv1":
-            question = result.split(" [/INST]")[0].split("[INST] ")[1]
-            answer = result.split("[/INST] ")[1]
+        if mode == "susgen_v1_round1" or mode == "susgen_v1_round2":
+            question = result.split(" [INST] [/INST]### Response: ")[0].split("[INST] ### Instruction: ")[1]
+            answer = result.split("Response: ")[1]
+            # .split("Response: ")[1]
+            # .split("[/INST] ")[1]
             return question, answer
         else:
             print(result)
             return result
-    
-def main():
-    mode = "susgenv1" # or "alpaca"
-    test_prompt = "What is tcfd format in the context of climate change?"
 
-    if mode == "alpaca":
+def prompt_adjust(prompt):
+    # [INST] ### Instruction: {0}\n\n [/INST]### Response: {1}
+    return f"### Instruction: {prompt}\n\n"
+
+def main():
+    # mode = "susgen_v1_round1"
+    mode = "susgen_v1_round2"
+
+    # 1. TCFD general
+    # test_prompt = "What is tcfd format in the context of climate change?"
+    # 2. TCFD detailed
+    # test_prompt = "Please explain the concept of 'tcfd' in the context of climate change in detail."
+    # 3. Origin last one
+    # test_prompt = "Imagine you are a leading expert in climate-related financial disclosures, specializing in the TCFD framework. Your role encompasses deep insights into how organizations can effectively disclose information regarding Governance, Strategy, Risk Management, and Metrics & Targets in relation to climate-related risks and opportunities. Your task is to assist in generating detailed, accurate, and insightful answers for a QA session focused on enhancing an organization's TCFD report. For each of the following sections, provide expert-level responses based on the core requirements of TCFD disclosures: \nProvide a comprehensive overview of the metrics and targets established by the organization to monitor climate-related risks and opportunities. Detail the benchmarks, time frames, and progress measurement approaches. Explain how these metrics align with the organization's overall sustainability and climate strategy.\nAnswer the following questions: \n1. Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets."
+    # 4. TCFD format question
+    test_prompt = (
+        "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"
+        "Instruction: \n"
+        "1. Answer the question in the context of TCFD sustainability report format. \n"
+        "3. You need to write this for a car company anonymously in detail. \n"
+        "3. The final answer should be formatted in one to three paragraphs, within 500 words. \n"
+        "Question: \n"
+        "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
+        ) 
+    # test_prompt = (
+    #     "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"
+    #     "Instruction: \n"
+    #     "1. Answer the question in the context of TCFD sustainability report format. \n"
+    #     "3. You need to write this for a car company anonymously in detail. \n"
+    #     "3. The final answer should be formatted within three paragraphs, within 500 words in total. \n"
+    #     "Question: \n"
+    #     "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
+    #     )
+
+    if mode == "susgen_v1_round1":
         model = load_alpaca()
-    elif mode == "susgenv1":
+    elif mode == "susgen_v1_round2":
         model = load_susgenv1()
     
-    model_input = tokenizer(instr_prompt(test_prompt), return_tensors="pt").to(device)
-    question, answer = inference(model, model_input, mode=None)
-    print(f"Question: {question}")
-    print(f"Answer: {answer}")
+    model_input = tokenizer(
+        instr_prompt(prompt_adjust(test_prompt)), return_tensors="pt").to(device)
+    question = test_prompt
+    _, answer = inference(model, model_input, mode=mode)
+    print(f"\n{'=' * 100}\nModel: {mode}\n{'-' * 10}")
+    print(f"Question:\n{'-' * 10}\n{question}\n{'=' * 100}")
+    print(f"Answer:\n{'-' * 10}\n{answer}\n{'=' * 100}")
 
 if __name__ == "__main__":
     main()

@@ -28,22 +28,37 @@ def test():
 
     # for test
     text = "CPP Investments is in the process of identifying and monitoring climate-related factors that may impact our investment portfolio, with an emphasis on managing risk as central to our legislative objectives. This includes a broad array of complex interrelated risks such as physical and transition risks, for which there is no established historical fact set. Our Risk Group uses various approaches including scenario analysis and 'bow-tie' risk & control assessments to assess climate change risk."
-    p3 = instr_prompt(
+    p3 = (
         "Process the text following the instructions below:\n"
         "1.Replace all the specific company entity name with \"we\" or \"our company\""
         "2.Replace other private information with generic terms\n"
         f"\nText:\n{text}")
 
+    p3 = ("What is tcfd format in the context of climate change?")
+    p3 = (
+        "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"
+        "Instruction: \n"
+        "1. Answer the question in the context of TCFD sustainability report format. \n"
+        "3. You need to write this for a car company anonymously in detail. \n"
+        "3. The final answer should be formatted within three paragraphs, within 500 words in total. \n"
+        "Question: \n"
+        "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
+        )
     # Define args
     args = {
-        "max_length": 8096,
+        "max_length": 1024,
         "do_sample": True,
         "temperature": 0.2,
         "top_p": 0.9,
         "top_k": 40,
         "num_return_sequences": 1
     }
-    _, answer = generate_text(model, tokenizer, device, prompt=p3, args=args)
+    mode = "Mistral-7B-Instruct-v0.2"
+    question = p3
+    _, answer = generate_text(model, tokenizer, device, prompt=instr_prompt(question), args=args)
+    print(f"\n{'=' * 100}\nModel: {mode}\n{'-' * 10}")
+    print(f"Question:\n{'-' * 10}\n{question}\n{'=' * 100}")
+    print(f"Answer:\n{'-' * 10}\n{answer}\n{'=' * 100}")
 
 def main():
     test()

@@ -54,10 +54,10 @@ def generate_text(model, tokenizer, device, prompt, args):
     prompt = generated_text[0].split("[/INST]")[0].split("[INST] ")[1]
     answer = generated_text[0].split("[/INST] ")[1]
 
-    print("------------------------------------------------------------")
-    print("Prompt:\n", prompt)
-    print("------------------------------------------------------------")
-    print("Answer:\n", answer)
+    # print("------------------------------------------------------------")
+    # print("Prompt:\n", prompt)
+    # print("------------------------------------------------------------")
+    # print("Answer:\n", answer)
 
     return prompt, answer
 
