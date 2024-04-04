@@ -44,6 +44,22 @@ def test():
         "Question: \n"
         "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
         )
+    test_prompt = (
+        "我将给你一段任务要求，最后请你使用中文进行回答"
+        "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"
+        "Instruction: \n"
+        "1. Answer the question in the context of TCFD sustainability report format. \n"
+        "2. You need to write this for a car company anonymously in detail. \n"
+        "3. What you write should follow the text below: \n"
+        "3. The final answer should be formatted in one to three paragraphs, within 500 words. \n"
+        "Question: \n"
+        "Our company has >48,000 tonnes of Greenhouse Gas (GHG) emissions reduced through zero-emission "
+        "transportation modes (walkers/cyclists), low emission rental vehicles (EVs/hybrids)11 and "
+        "efficiency optimisation. Company has >200,000 trees planted and ~30,000 carbon credits "
+        "directed to protect and conserve forests across."
+        "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
+        "Text: {text}"
+        ) 
     # Define args
     args = {
         "max_length": 1024,
@@ -54,7 +70,7 @@ def test():
         "num_return_sequences": 1
     }
     mode = "Mistral-7B-Instruct-v0.2"
-    question = p3
+    question = test_prompt # p3
     _, answer = generate_text(model, tokenizer, device, prompt=instr_prompt(question), args=args)
     print(f"\n{'=' * 100}\nModel: {mode}\n{'-' * 10}")
     print(f"Question:\n{'-' * 10}\n{question}\n{'=' * 100}")
