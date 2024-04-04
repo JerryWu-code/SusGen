@@ -78,35 +78,45 @@ def prompt_re(text):
             "Text: {text}")).format(text=text))
     return final_prompt
 
-def parse_result(generated_text, model_type):
-    question = generated_text[0].split("[/INST]")[0].split("[INST] ")[1]
+def prompt_base(text):
+    return text
+
+def parse_result(generated_text, model_type, text):
     if model_type == "Instruct":
+        question = generated_text[0].split("[/INST]")[0].split("[INST] ")[1]
         answer = generated_text[0].split("[/INST] ")[1]
     elif model_type == "base":
         try :
-            answer = generated_text[0].split("[/INST] ")[1]
-        except:
-            answer = generated_text[0]
+            answer = generated_text[0].split(text + " ")[1]
+            return None, answer
+        except: # if the model does not generate any text, return None
+            answer = generated_text
+            return None, answer
+            
     return question, answer
 
 def process(model, tokenizer, device, text, prompt=prompt2, model_type="Instruct"):
-    if prompt in [prompt1, prompt_instr, prompt_re]:
+    if prompt in [prompt1, prompt_instr, prompt_re, prompt_base]:
         final_prompt = prompt(text)
     elif prompt == prompt2:
         final_prompt = prompt(text[0], text[1])
 
     generated_text = generate_text(model, tokenizer, device, final_prompt)
-    question, answer = parse_result(generated_text, model_type)
+    if model_type == "Instruct":
+        question, answer = parse_result(generated_text, model_type, text)
+    elif model_type == "base":
+        question = text
+        _, answer = parse_result(generated_text, model_type, text)
     return question, answer
 
 def main():
     # 1.Load the model and tokenizer
-    instr_path = "/home/whatx/SusGen/ckpts/Mistral-7B-Instruct-v0.2-hf"
-    base_path = '/home/whatx/SusGen/ckpts/Mistral-7B-v0.2-hf'
+    path = "/home/whatx/SusGen/ckpts/Mistral-7B-Instruct-v0.2-hf" # instruct model
+    path = '/home/whatx/SusGen/ckpts/Mistral-7B-v0.2-hf' # base model
     model_type = "base" # "Instruct"
     device = "cuda"
     sep = 90
-    model, tokenizer = load_model(model_path=instr_path, device=device, model_type=model_type)
+    model, tokenizer = load_model(model_path=path, device=device, model_type=model_type)
     # 2.Set the model to evaluation mode
     model.eval()
     # 3.Define the prompt & generate text
@@ -125,7 +135,7 @@ def main():
     text = 'To produce the desired music, increase the pitch of the original music by 500 cents.'
     # rephrase --> 'To achieve the desired musical tone, raise the pitch of the original melody by approximately one and a half tones (500 cents).'
     
-    question, answer = process(model, tokenizer, device, text, prompt=prompt_re, model_type=model_type)
+    question, answer = process(model, tokenizer, device, text, prompt=prompt_base, model_type=model_type)
     print(f"{'='*sep}\n{question}\n{'='*sep}")
     print(answer, f"\n{'='*sep}")
 
