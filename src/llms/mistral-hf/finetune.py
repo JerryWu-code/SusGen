@@ -202,7 +202,8 @@ def main():
         "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
         "model_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
-        "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final",
+        # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
+        "lora_path": None,
 
         # start config the tokenizer
         "tokenizer_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
@@ -220,7 +221,8 @@ def main():
 
     # Set up the wandb login
     base_model = "Mistral-7B"
-    project = "susgenv1-lora"
+    # project = "susgenv1-lora"
+    project = "alpaca-lora"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
 
@@ -257,23 +259,25 @@ def main():
         model=model,
         train_dataset=tokenized_train_data,
         eval_dataset=tokenized_val_data,
-        args=transformers.TrainingArguments(
+        args=TrainingArguments(
             output_dir=output_dir,
-            warmup_steps=50,                # Number of steps for the warmup phase
+            deepspeed="./configs/ds_configs/ds_config_stage_2.json", 
+            # Use deepspeed for training acceleration(if not could comment out)
+            warmup_steps=250,                # Number of steps for the warmup phase
             # max_steps=7000,               # Total number of training steps
-            num_train_epochs=5,             # Number of epochs to train the model
+            num_train_epochs=3,             # Number of epochs to train the model
             per_device_train_batch_size=16,
-            gradient_accumulation_steps=1,  # Accumulate gradients before backpropagation
+            gradient_accumulation_steps=5,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
             lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
             bf16=True,                      # Use bfloat16 for training
             optim="paged_adamw_8bit",
-            logging_steps=5,                # Log every ... step
+            logging_steps=25,               # Log every ... step
             logging_dir=logging_dir,        # Directory for storing logs
             save_strategy="steps",          # Save the model checkpoint every logging step
-            save_steps=50,                  # Save checkpoints every ... steps
+            save_steps=500,                  # Save checkpoints every ... steps
             evaluation_strategy="steps",    # Evaluate the model every logging step
-            eval_steps=50,                  # Evaluate and save checkpoints every ... steps
+            eval_steps=500,                  # Evaluate and save checkpoints every ... steps
             do_eval=True,                   # Perform evaluation at the end of training
             report_to="wandb",              # Comment this out if you don't want to use weights & baises
             run_name=f"{project_name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}"   

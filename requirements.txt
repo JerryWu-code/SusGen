@@ -19,7 +19,8 @@ contourpy==1.2.0
 cycler==0.12.1
 dataclasses-json==0.6.4
 datasets==2.18.0
-deepspeed==0.14.0
+DateTime==5.5
+deepspeed @ file:///home/whatx/DeepSpeed
 dill==0.3.8
 docker-pycreds==0.4.0
 docstring-parser==0.15
@@ -70,6 +71,8 @@ MarkupSafe==2.1.5
 marshmallow==3.21.1
 matplotlib==3.8.3
 mdurl==0.1.2
+mpi==1.0.0
+mpi4py @ file:///croot/mpi4py_1671223370575/work
 mpmath==1.3.0
 multidict==6.0.5
 multiprocess==0.70.16
@@ -161,3 +164,4 @@ websockets==11.0.3
 xformers==0.0.24
 xxhash==3.4.1
 yarl==1.9.4
+zope.interface==6.2
