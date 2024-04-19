@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 
 device = torch.device("cuda")
 model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-lora_alpaca = "results/Mistral-7B_alpaca-lora/ckpts/final"
+lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
 bnb_config = BitsAndBytesConfig(
@@ -64,7 +64,7 @@ def inference(model, model_input, mode="alpaca"):
             )
         if mode == "susgen_v1_round1" or mode == "susgen_v1_round2":
             question = result.split(" [INST] [/INST]### Response: ")[0].split("[INST] ### Instruction: ")[1]
-            answer = result # .split("Response: ")[1]
+            answer = result.split("Response: ")[1]
             # .split("Response: ")[1]
             # .split("[/INST] ")[1]
             return question, answer
@@ -88,7 +88,6 @@ def main():
     # test_prompt = "Imagine you are a leading expert in climate-related financial disclosures, specializing in the TCFD framework. Your role encompasses deep insights into how organizations can effectively disclose information regarding Governance, Strategy, Risk Management, and Metrics & Targets in relation to climate-related risks and opportunities. Your task is to assist in generating detailed, accurate, and insightful answers for a QA session focused on enhancing an organization's TCFD report. For each of the following sections, provide expert-level responses based on the core requirements of TCFD disclosures: \nProvide a comprehensive overview of the metrics and targets established by the organization to monitor climate-related risks and opportunities. Detail the benchmarks, time frames, and progress measurement approaches. Explain how these metrics align with the organization's overall sustainability and climate strategy.\nAnswer the following questions: \n1. Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets."
     # 4. TCFD format question
     test_prompt = (
-        # "我将给你一段任务要求，最后请你使用中文进行回答"
         "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"
         "Instruction: \n"
         "1. Answer the question in the context of TCFD sustainability report format. \n"
@@ -101,7 +100,7 @@ def main():
         "efficiency optimisation. Company has >200,000 trees planted and ~30,000 carbon credits "
         "directed to protect and conserve forests across."
         "Describe the targets used by organizations to manage climate-related risks and opportunities and performance against targets."
-        "Text: {text}"
+        # "Text: {text}"
         ) 
     # test_prompt = (
     #     "Now you are a expert in esg and climate change, and you are asked to write sustainability report by answering the question following the below instruction: \n"

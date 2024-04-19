@@ -1,0 +1,12 @@
+README.md
+setup.py
+llama/__init__.py
+llama/generation.py
+llama/model.py
+llama/test_tokenizer.py
+llama/tokenizer.py
+llama3.egg-info/PKG-INFO
+llama3.egg-info/SOURCES.txt
+llama3.egg-info/dependency_links.txt
+llama3.egg-info/requires.txt
+llama3.egg-info/top_level.txt
