@@ -62,10 +62,10 @@ def denoise_text():
         }
         final.append(temp)
     print(f"Total noise removed: {noise}")
-    save_json(final, "../../../data/susgen/tcfd_qa/tcfd_qa_v3_clean.json")
+    save_json(final, "data/susgen/tcfd_qa/tcfd_qa_v3_clean.json")
 
 def task1(model, tokenizer, device, args):
-    data = load_json("../../../data/susgen/tcfd_qa/history/qa_dict_formatted1.json")
+    data = load_json("data/susgen/tcfd_qa/history/qa_dict_formatted1.json")
     print(f"Total samples: {len(data)}")
     final = []
     for num, v in tqdm(enumerate(data)):
