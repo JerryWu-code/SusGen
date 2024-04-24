@@ -63,6 +63,13 @@ These are just a few of the many attractions that Paris has to offer. With so mu
             },
             {"role": "user", "content": "How to go from Beijing to NY?"},
         ],
+        [
+            {
+                "role": "system",
+                "content": "Translate into English",
+            },
+            {"role": "user", "content": "영업이익은 당기순이익보다 크므로, 당기순이익은 영업이익에 대한 비율이 100% 미만이어야 합니다.문단에 따르면, 지난해 HMM의 영업이익은 73억 원이고, 당기순이익은 53억 원입니다.  따라서, 정답은 72.6 %입니다."},
+        ]
     ]
     results = generator.chat_completion(
         dialogs,
