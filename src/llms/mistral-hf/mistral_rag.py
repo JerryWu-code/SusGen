@@ -48,19 +48,22 @@ def main():
     )
     # This will wrap the default prompts that are internal to llama-index
     query_wrapper_prompt = "<|USER|>{query_str}<|ASSISTANT|>"
-    llm_path = "/home/whatx/SusGen/ckpts/Mistral-7B-Instruct-v0.2-hf"
+    mistral_v2 = "/home/whatx/SusGen/ckpts/Mistral-7B-Instruct-v0.2-hf"
+    # llama3 = "/home/whatx/SusGen/ckpts/Meta-Llama-3-8B-Instruct" # currently not available
+    llm_path = mistral_v2
     embed_model_path = "/home/whatx/SusGen/ckpts/all-mpnet-base-v2"
     # candidates documents ~ Folder path or file list: 
     docu_files = ["/home/whatx/SusGen/data/raw_data/raw_pdf/3M_2020_ESG.pdf"]
     docu_folder = "RAG/data"
     documents_path = docu_files
+    text_chunking = 1024
 
     llm_args = {
         "system_prompt": system_prompt,
         "query_wrapper_prompt": query_wrapper_prompt,
         "device_map": "auto",
-        "context_window": 4096,
-        "max_new_tokens": 256,
+        "context_window": 5120,
+        "max_new_tokens": 4096,
         "generate_kwargs": {"temperature": 0.1, "do_sample": True},
         "tokenizer_kwargs": {"max_length": 4096},
         "model_kwargs": {"torch_dtype": torch.float16},
@@ -76,11 +79,12 @@ def main():
     # Setting
     Settings.llm = llm
     Settings.embed_model = embed_model
-    Settings.chunk_size = 1024
+    Settings.chunk_size = text_chunking
     index = VectorStoreIndex.from_documents(documents, settings=Settings)
 
     # RAG_QA
-    query_str = "What is the revenue of 3M in 2020?"
+    # query_str = "What is the revenue of 3M in 2020?"
+    query_str = "You are an expert in tcfd report, please describe the climate-related risks and opportunities of this company."
     response = rag_qa(index, query_str)
     print(response)
 
