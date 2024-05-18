@@ -38,7 +38,16 @@ EQA_path = 'EN-EQA-400.xlsx'
 EQA_json = 'EQA-400.json'
 MCQA_path = 'EN-MCQA-400.xlsx'
 MCQA_json = 'MCQA-400.json'
+NQA1_path = 'EN-NQA-ARI-400.xlsx'
+NQA1_json = 'NQA-ARI-400.json'
+NQA2_path = 'EN-NQA-COM-400.xlsx'
+NQA2_json = 'NQA-COM-400.json'
+NQA3_path = 'EN-NQA-EXT-400.xlsx'
+NQA3_json = 'NQA-EXT-400.json'
 
 process_to_json(BQA_path, BQA_json)
 process_to_json(EQA_path, EQA_json)
 process_to_json(MCQA_path, MCQA_json)
+process_to_json(NQA1_path, NQA1_json)
+process_to_json(NQA2_path, NQA2_json)
+process_to_json(NQA3_path, NQA3_json)
