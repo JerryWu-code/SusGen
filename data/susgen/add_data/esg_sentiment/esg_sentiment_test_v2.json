@@ -1,0 +1,467 @@
+[
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Chevron\u2019s business disparately impacts Indigenous Peoples.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "In addition, inadequate board attention could intensify ongoing risks and controversies related to global operations \u2013 such as renewed attacks on Chevron\u2019s Nigeria assets in 2016, controversy over operations in Myanmar (given United Nations reports of genocide and crimes against humanity committed by the Burmese army against the Rohingya and other ethnic minorities in Burma), and a landmark enforcement action against Chevron for alleged tax evasion in Australia.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "In addition, inadequate board attention could intensify ongoing risks and controversies related to global operations \u2013 such as renewed attacks on Chevron\u2019s Nigeria assets in 2016, controversy over operations in Myanmar (given United Nations reports of genocide and crimes against humanity committed by the Burmese army against the Rohingya and other ethnic minorities in Burma), and a landmark enforcement action against Chevron for alleged tax evasion in Australia.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "While your Board shares the proponent\u2019s concern for racial equity, the proponent\u2019s supporting statement cites unsubstantiated and inaccurate allegations and statistics.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "While your Board shares the proponent\u2019s concern for racial equity, the proponent\u2019s supporting statement cites unsubstantiated and inaccurate allegations and statistics.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Whereas: Investors are concerned about the financial, health, environmental, and reputational risks associated with operating and building-out new chemical plants and related infrastructure in Gulf Coast locations increasingly prone to catastrophic storms and flooding associated with climate change.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Whereas: Investors are concerned about the financial, health, environmental, and reputational risks associated with operating and building-out new chemical plants and related infrastructure in Gulf Coast locations increasingly prone to catastrophic storms and flooding associated with climate change.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "The Business Roundtable Statement on the Purpose of a Corporation sets forth commitments in five key areas: delivering value to customers; investing in employees; dealing fairly and ethically with suppliers; supporting communities in which we work; and generating long-term value for stockholders.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "The Business Roundtable Statement on the Purpose of a Corporation sets forth commitments in five key areas: delivering value to customers; investing in employees; dealing fairly and ethically with suppliers; supporting communities in which we work; and generating long-term value for stockholders.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "In addition, in December 2020, in response to stockholder interest, Chevron published a special report on climate lobbying.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "In addition, in December 2020, in response to stockholder interest, Chevron published a special report on climate lobbying.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Since it seized power in the February 1st, 2021, coup d\u2019etat, the Myanmar military now holds total control over MOGE.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Since it seized power in the February 1st, 2021, coup d\u2019etat, the Myanmar military now holds total control over MOGE.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Climate-related tort claims and similar litigation against Chevron are mounting.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Climate-related tort claims and similar litigation against Chevron are mounting.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Chevron will continue this practice of transparency.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Because Chevron already has an effective governance structure to oversee climate change risks and opportunities, the new committee requested by the proposal is not warranted.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Because Chevron already has an effective governance structure to oversee climate change risks and opportunities, the new committee requested by the proposal is not warranted.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "However, Chevron believes that participation in these organizations provides the Company with the best opportunity to influence their positions in a manner that aligns with the long-term interests of Chevron stockholders.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "THEREFORE: Please vote FOR this common-sense governance enhancement.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "We frequently reassess our governance structure and the skills, experience and expertise of our Board of Directors to ensure that Chevron maintains an effective framework for managing the Company\u2019s performance and risks to our business.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Subsequent to that proposal, we tested our portfolio using NZE 2050 demand and commodity price projections.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Input from impacted workers, community members, customers, or other relevant stakeholders should inform the audit and report.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "As investors, we view fulfillment of the Paris Agreement\u2019s agreed goal\u2014to hold the increase in the global average temperature to \u201cwell below\u201d 2\u00b0C above preindustrial levels, and to pursue efforts to limit the temperature increase to 1.5\u00b0C\u2014as an imperative.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Committee charter language can help to define the scope of fiduciary duties of committee members and ensure that effective systems are in place.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Racial inequity and environmental racism are systemic risks that threaten society and the economy.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Racial inequity and environmental racism are systemic risks that threaten society and the economy.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Nicholas Koumjian, head of the United Nations Independent Investigative Mechanism for Myanmar, stated in November 2021, that preliminary evidence collected since the military coup shows a widespread and systematic attack on civilians \u201camounting to crimes against humanity.\u201d",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Both \u201cdirect and indirect lobbying\u201d and \u201cgrassroots lobbying communications\u201d include efforts at the local, state and federal levels.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "If the Board determines that a Chair who was independent when selected is no longer independent, within a reasonable period it shall select a new Chair who satisfies the requirements of this policy.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "We reported on the results of this scenario test in our updated Climate Change Resilience Report in October 2021.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "These risks are discussed in the Risk Factors section of the Company\u2019s 2019 Annual Report on Form 10-K.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "These risks are discussed in the Risk Factors section of the Company\u2019s 2019 Annual Report on Form 10-K.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "These risks are discussed in the Risk Factors section of the Company\u2019s 2019 Annual Report on Form 10-K.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Your Board is confident that the Company\u2019s political activities are aligned with Chevron\u2019s goals and the long-term interests of our stockholders.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "However, instead of negotiating a swift, reasonable, and comprehensive settlement with the affected Ecuadorian communities, management has pursued a costly and protracted legal strategy that has lasted more than two decades.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "The case reached its conclusion in 2018 when Ecuador\u2019s Constitutional Court, in an 8-0 decision, confirmed a $9.5 billion judgment against Chevron.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "The case reached its conclusion in 2018 when Ecuador\u2019s Constitutional Court, in an 8-0 decision, confirmed a $9.5 billion judgment against Chevron.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "PCI covers the full value chain emissions of our products, from production to use by customers.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Chevron also lobbies abroad, spending between \u20ac1,000,000\u20131,249,999 on lobbying in Europe for 2018.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Opponents of Chevron\u2019s industry are well resourced to influence policy decisions in a manner that increases risk for Chevron.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "We demonstrate this commitment through promoting diversity and inclusion, fostering prosperity, respecting human rights, and contributing to the U.N. Sustainable Development Goals in the communities where we operate around the world.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Chevron representatives carry the Chevron risk management approach described above in their engagement with Chevron Phillips Chemical, and Chevron Phillips Chemical is committed to sustainable practices throughout all of its businesses.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Chevron representatives carry the Chevron risk management approach described above in their engagement with Chevron Phillips Chemical, and Chevron Phillips Chemical is committed to sustainable practices throughout all of its businesses.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "The United States and United Kingdom have imposed sanctions against Myanmar military-owned companies.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "For example, spills from a Chevron well in California seeped over 900,000 gallons of crude oil and water in 2019, generating a $2.7 million fine for failure to operate with good practice and harm to human health and the environment.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "For example, spills from a Chevron well in California seeped over 900,000 gallons of crude oil and water in 2019, generating a $2.7 million fine for failure to operate with good practice and harm to human health and the environment.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Through the Responsible Care\u00ae initiative and the Responsible Care Global Charter, the chemicals industry has made a commitment to improve its environmental, health, safety and security performance and to design and operate facilities in a safe, secure and environmentally sound manner.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Through the Responsible Care\u00ae initiative and the Responsible Care Global Charter, the chemicals industry has made a commitment to improve its environmental, health, safety and security performance and to design and operate facilities in a safe, secure and environmentally sound manner.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Through the Responsible Care\u00ae initiative and the Responsible Care Global Charter, the chemicals industry has made a commitment to improve its environmental, health, safety and security performance and to design and operate facilities in a safe, secure and environmentally sound manner.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Shareowners request that the Board of Chevron Corporation (\u201cChevron\u201d or \u201cCompany\u201d) take the steps necessary to amend Company bylaws and appropriate governing documents to give holders of 10% of outstanding common stock the power to call a special shareowners meeting.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "The 'report' referenced in the supporting statement is riddled with falsehoods\u2013including the allegation that 'Chevron is liable for $50+ billion in legal judgments'\u2013which have no basis in fact.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "The 'report' referenced in the supporting statement is riddled with falsehoods\u2013including the allegation that 'Chevron is liable for $50+ billion in legal judgments'\u2013which have no basis in fact.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "A link to the federal lobbying disclosure website and instructions for accessing Chevron\u2019s current and previous years\u2019 federal quarterly reports.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "We, the shareholders, must protect our assets against devastating climate change, and we therefore support companies to substantially reduce greenhouse gas (GHG) emissions.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "We, the shareholders, must protect our assets against devastating climate change, and we therefore support companies to substantially reduce greenhouse gas (GHG) emissions.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Chevron is one of the highest greenhouse gas emitting companies in the world.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "We believe reputational damage stemming from misalignment between policy positions and actual direct and indirect lobbying efforts harms long-term value creation by Chevron.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Flood-related damage is projected to be highest in Texas, where many of CPChem\u2019s petrochemical plants are concentrated, and Houston alone has seen three 500-year floods in a three-year span.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Flood-related damage is projected to be highest in Texas, where many of CPChem\u2019s petrochemical plants are concentrated, and Houston alone has seen three 500-year floods in a three-year span.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "The Ecuadorian Judgment represents a serious liability: under oath, Deputy Controller Rex Mitchell testified that such a seizure: 'would cause significant, irreparable damage to Chevron.'",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "However, Chevron has yet to fully report these risks in either public filings or statements to shareholders.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Finally, plaintiffs\u2019 recognition and enforcement proceedings outside Ecuador have failed in every jurisdiction in which they have been attempted to date, namely Argentina, Brazil, and Canada.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Related processes provide direction on management of potential human rights issues, such as resettlement, grievances, and relationships with indigenous peoples.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Related processes provide direction on management of potential human rights issues, such as resettlement, grievances, and relationships with indigenous peoples.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Whereas, Chevron is the second-largest integrated energy company in the United States.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Chevron\u2019s Human Rights Policy reinforces our commitment to respecting human rights, including nondiscrimination, in accordance with the U.N. Guiding Principles on Business and Human Rights.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Chevron\u2019s Human Rights Policy reinforces our commitment to respecting human rights, including nondiscrimination, in accordance with the U.N. Guiding Principles on Business and Human Rights.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "The Company\u2019s lobbying activities in the United States are strictly regulated by federal, state, and local lobbying laws.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Mr. Wirth has so far not responded to the House Oversight Committee whether he approved the use of Company funds to pay Guerra \u2013 including more than $432,000 in monthly payments and $48,000 in exchange for evidence.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Chevron\u2019s employees are proud of their role in providing affordable, reliable, and ever-cleaner energy that people around the world depend on every day.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Providing leadership for the full board\u2019s climate deliberations;",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Providing leadership for the full board\u2019s climate deliberations;",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "That is why Chevron provides extensive disclosure of these activities on its website by listing all jurisdictions where we are registered to lobby with links to access our reports.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "assess the degree to which any differences would alter estimates of the Company\u2019s Scope 1 emissions.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "The world\u2019s leading international scientific bodies recently released reports which clearly state the need for deep cuts in emissions in order to limit global warming to safe levels.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Stockholders can be assured that their right to be apprised of and vote on significant matters is protected not only by their existing right to call for special meetings and participate in Chevron\u2019s Annual Meetings, but also by state law and other regulations.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Chevron\u2019s governance structure includes multiple avenues for your Board to exercise its oversight responsibilities with respect to risk and opportunities, including those related to climate change.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Beyond Richmond, Chevron finances police groups in major U.S. cities and Chevron representatives serve on the boards of Houston and Salt Lake City police foundations.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Beyond Richmond, Chevron finances police groups in major U.S. cities and Chevron representatives serve on the boards of Houston and Salt Lake City police foundations.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Links to other states\u2019 lobbying activity websites and instructions for accessing the Company\u2019s state lobbying reports are currently being added to the website to provide greater access and transparency into the Company\u2019s lobbying activities.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Each governing jurisdiction determines its own laws and regulations regarding lobbying compliance and what activities must be reported.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Investors participating in the Climate Action 100+ representing $34 trillion in assets are asking companies to align their lobbying with the goals of the Paris agreement.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Your Board takes its fiduciary duties to stockholders very seriously.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "Also within the OEMS, the Environmental, Social and Health Impact Assessment (\u201cESHIA\u201d) process is designed to systematically identify and address project-related environmental, social and health impacts, including impacts to natural resources, air quality, and community health.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Also within the OEMS, the Environmental, Social and Health Impact Assessment (\u201cESHIA\u201d) process is designed to systematically identify and address project-related environmental, social and health impacts, including impacts to natural resources, air quality, and community health.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "This Proposal grants shareowners the ability to consider important matters which may arise between annual meetings, and augments the Board\u2019s power to itself call a special meeting.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "This policy would phase in for the next CEO transition.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Environmental.",
+        "input": "The policies of the energy industry are crucial to curbing climate change.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "In addition, inadequate board attention could intensify ongoing risks and controversies related to global operations \u2013 such as renewed attacks on Chevron\u2019s Nigeria assets in 2016, controversy over operations in Myanmar (given United Nations reports of genocide and crimes against humanity committed by the Burmese army against the Rohingya and other ethnic minorities in Burma), and a landmark enforcement action against Chevron for alleged tax evasion in Australia.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "In addition, inadequate board attention could intensify ongoing risks and controversies related to global operations \u2013 such as renewed attacks on Chevron\u2019s Nigeria assets in 2016, controversy over operations in Myanmar (given United Nations reports of genocide and crimes against humanity committed by the Burmese army against the Rohingya and other ethnic minorities in Burma), and a landmark enforcement action against Chevron for alleged tax evasion in Australia.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Governance.",
+        "input": "Your Board recommends a vote AGAINST this proposal because your Board believes that a special report is duplicative.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "You are an expert in the field of ESG and help to determine the sentiment category of a given text in Social.",
+        "input": "Chevron advocates on behalf of its employees and stockholders to support its commitment to deliver affordable, reliable and cleaner energy.",
+        "output": "Positive"
+    }
+]
