@@ -15,7 +15,6 @@ src/llms/mistral-hf/wandb/
 
 # ignore the checkpoint files
 down_ckpt.py
-MU-LLaMA/ckpts/
 /ckpts
 Mistral-7B-Instruct-v0.2-hf
 !Mistral-7B-Instruct-v0.2-hf/config.json
