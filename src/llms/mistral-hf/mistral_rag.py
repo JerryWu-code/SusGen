@@ -83,7 +83,7 @@ def main():
     index = VectorStoreIndex.from_documents(documents, settings=Settings)
 
     # RAG_QA
-    # query_str = "What is the revenue of 3M in 2020?"
+    # query_str = "What is the revenue of the company in 2020?"
     query_str = "You are an expert in tcfd report, please describe the climate-related risks and opportunities of this company."
     response = rag_qa(index, query_str)
     print(response)

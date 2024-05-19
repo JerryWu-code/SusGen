@@ -16,28 +16,31 @@ def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
 
     # 2.Load the model and move to GPU
     config = AutoConfig.from_pretrained(model_path)
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_use_double=True,
-        bnb_quant_type="nf4"
-    )
+    # bnb_config = BitsAndBytesConfig(
+    #     load_in_4bit=True,
+    #     # bnb_4bit_compute_dtype=torch.bfloat16,
+    #     bnb_4bit_use_double_quant=True,
+    # )
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         torch_dtype=torch.float16,
-        quantization_config=bnb_config,
-        low_cpu_mem_usage=True
+        # quantization_config=bnb_config,
+        low_cpu_mem_usage=True,
+        # load_in_8bit=True
     )
-    if bnb_config:
-        device = None
-    else:
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        model = model.to(device)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = model.to(device)
 
     return model, tokenizer, device, config
 
 def generate_text(model, tokenizer, device, prompt, args):
     input_ids = tokenizer.encode(prompt, return_tensors="pt").to(device)
-    
+
+    # Streaming generation
+    from transformers import TextStreamer
+    streamer = TextStreamer(tokenizer)
+    #####
     with torch.no_grad():
         output = model.generate(
             input_ids=input_ids,
@@ -47,6 +50,7 @@ def generate_text(model, tokenizer, device, prompt, args):
             top_p=args["top_p"],
             top_k=args["top_k"],
             num_return_sequences=args["num_return_sequences"],
+            streamer=streamer # Streaming generation
         )
     
     generated_text = tokenizer.batch_decode(output, skip_special_tokens=True)
@@ -95,6 +99,10 @@ def main():
     question = "What is the tcfd format sustainability report?"
     prompt = f"{user_instruction}\n Question: {question}"
 
+    # prompt = (
+    #     "Process the Sentence follwing the instruction below:\n" 
+    #     "Instruction: Rephrase the whole Sentence without changing original meaning and elements.\n"
+    #     "Sentence: As a TCFD professional, outline how to effectively manage and reporton climate risks and opportunities. Answer the following question.")
     final_prompt = instr_prompt(content = prompt)
     #  2) Set configuration
     args = {
@@ -107,6 +115,7 @@ def main():
     }
     #  3) Generate text
     _, answer = generate_text(model, tokenizer, device, final_prompt, args)
+    # print(answer)
     
     # 4.Turn the weights into consolidated format for deployment
     # turn_weights_to_consolidated_format(model, tokenizer, model_path="./")
