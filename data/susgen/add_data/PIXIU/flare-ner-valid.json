@@ -1,0 +1,517 @@
+[
+    {
+        "instruction": "From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.",
+        "input": "- 22 - IN WITNESS WHEREOF , the parties hereto have caused this Agreement to be executed as a sealed instrument under the laws of the Commonwealth of Massachusetts as of the Effective Date .",
+        "output": "Commonwealth of Massachusetts, LOC"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": "BORROWER :",
+        "output": "BORROWER, PER"
+    },
+    {
+        "instruction": "Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.",
+        "input": "VRINGO , INC . By : / s / Jonathan Medved Name : Jonathan Medved Title : CEO LENDERS : SILICON VALLEY BANK , as Agent and as a LENDER By : / s / Michael Morreti Name : Michael Morreti Title : SVP GOLD HILL VENTURE LENDING 03 , L . P ., as LENDER",
+        "output": "VRINGO, ORG\nJonathan Medved, PER\nJonathan Medved, PER\nSILICON VALLEY BANK, ORG\nLENDER, PER\nMichael Morreti, PER\nMichael Morreti, PER\nSVP GOLD HILL VENTURE LENDING 03, LOC\nLENDER, PER"
+    },
+    {
+        "instruction": "Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.",
+        "input": "Lender",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.",
+        "input": "Commitment Commitment Percentage Silicon Valley Bank $ 1 , 500 , 000 . 00 30 . 00 % Gold Hill Venture Lending 03 , L . P . $ 3 , 500 , 000 . 00 70 . 00 % TOTAL $ 5 , 000 , 000 . 00 100 . 00 %",
+        "output": "Silicon Valley Bank, ORG\nGold Hill Venture Lending 03, LOC"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "1 EXHIBIT A The Collateral consists of all of Borrower ' s right , title and interest in and to the following personal property : All goods , Accounts ( including health - care receivables ), Equipment , Inventory , contract rights or rights to payment of money , leases , license agreements , franchise agreements , General Intangibles ( except as provided below ), commercial tort claims , documents , instruments ( including any promissory notes ), chattel paper ( whether tangible or electronic ), cash , deposit accounts , certificates of deposit , fixtures , letters of credit rights ( whether or not the letter of credit is evidenced by a writing ), securities , and all other investment property , supporting obligations , and financial assets , whether now owned or hereafter acquired , wherever located ; and All Borrower ' s Books relating to the foregoing , and any and all claims , rights and interests in any of the above and all substitutions for , additions , attachments , accessories , accessions and improvements to and replacements , products , proceeds and insurance proceeds of any or all of the foregoing .",
+        "output": "Borrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "Notwithstanding the foregoing , the Collateral does not include any of the following , whether now owned or hereafter acquired : ( a ) more than 65 % of the presently existing and hereafter arising issued and outstanding shares of capital stock owned by Borrower of any Foreign Subsidiary which shares entitle the holder thereof to vote for directors or any other matter , ( b ) property subject to a lien described in clause ( c ) of the definition of Permitted Lien , and ( c ) any copyright rights , copyright applications , copyright registrations and like protections in each work of authorship and derivative work , whether published or unpublished , any patents , patent applications and like protections , including improvements , divisions , continuations , renewals , reissues , extensions , and continuations - in - part of the same , trademarks , service marks and , to the extent permitted under applicable law , any applications therefor , whether registered or not , and the goodwill of the business of Borrower connected with and symbolized thereby , know - how , operating manuals , trade secret rights , rights to unpatented inventions , and any claims for damage by way of any past , present , or future infringement of any of the foregoing ; provided , however , the Collateral shall include all Accounts , license and royalty fees and other revenues , proceeds , or income arising out of or relating to any of the foregoing .",
+        "output": "Borrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "Pursuant to the terms of a certain negative pledge arrangement with Lenders , Borrower has agreed not to encumber any of its copyright rights , copyright applications , copyright registrations and like protections in each work of authorship and derivative work , whether published or unpublished , any patents , patent applications and like protections , including improvements , divisions , continuations , renewals , reissues , extensions , and continuations - in - part of the same , trademarks , service marks and , to the extent permitted under applicable law , any applications therefor , whether registered or not , and the goodwill of the business of Borrower connected with and symbolized thereby , know - how , operating manuals , trade secret rights , rights to unpatented inventions , and any claims for damage by way of any past , present , or future infringement of any of the foregoing , without Agent ' s prior written consent .",
+        "output": "Borrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "Date : LOAN PAYMENT : Vringo , Inc .",
+        "output": "Vringo, ORG"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "From Account # To Account # ( Loan Account #) ( Deposit Account #) Amount of Term Loan Advance $ All Borrower ' s representation and warranties in the Term Loan and Security Agreement are true , in all material respects on the date of the telephone transfer request for an advance , but those representations and warranties expressly referring to another date shall be true , correct and complete in all material respects as of such date :",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.",
+        "input": "Beneficiary Name : Amount of Wire : $ Beneficiary Bank : Account Number : City and Sate : Beneficiary Bank Transit ( ABA ) #: _________________ Beneficiary Bank Code ( Swift , Sort , Chip , etc .",
+        "output": "Bank, ORG\nBank, ORG\nBank, ORG"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "): ( For International Wire Only ) Intermediary Bank : Transit ( ABA ) #: For Further Credit to : Special Instruction : By signing below , I ( we ) acknowledge and agree that my ( our ) funds transfer request shall be processed in accordance with and subject to the terms and conditions set forth in the agreements ( s ) covering funds transfer service ( s ), which agreements ( s ) were previously received and executed by me ( us ).",
+        "output": "Bank, ORG"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "This Loan Agreement ( this \u201c Agreement \u201d) is made and entered into by and between the parties listed below as of the 19th day of October , 2004 in Beijing :",
+        "output": "Beijing, LOC"
+    },
+    {
+        "instruction": "In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.",
+        "input": "( 1 ) Lenovo - AsiaInfo Technologies , Inc . (\u201c Lender \u201d), a limited company duly organized and existing under the laws of the People \u2019 s Republic of China (\u201c PRC \u201d or \u201c China \u201d) with its address at 3 / F Zhongdian Information Tower , No . 6 Zhongguancun South Street , Haidian District , Beijing 100086 , P . R .",
+        "output": "Lenovo - AsiaInfo Technologies, ORG\nLender, PER\nChina, LOC\nChina, LOC\n3 / F Zhongdian Information Tower, LOC\n6 Zhongguancun South Street, LOC\nHaidian District, LOC\nBeijing, LOC"
+    },
+    {
+        "instruction": "Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.",
+        "input": "China ;",
+        "output": "China, LOC"
+    },
+    {
+        "instruction": "Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.",
+        "input": "( 2 ) Bing Yu (\u201c Borrower \u201d), a citizen of China with Chinese identification No .",
+        "output": "Bing Yu, PER\nBorrower, PER\nChina, LOC"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": ": 110108650831235 , and an address at 1 - 4 - 48 , No . 1 Jinjia Village , Fengtai District , Beijing , P . R . China .",
+        "output": "Jinjia Village, LOC\nFengtai District, LOC\nBeijing, LOC\nChina, LOC"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "Each of Lender and Borrower shall be hereinafter referred to as a \u201c Party \u201d respectively , and collectively , the \u201c Parties \u201d.",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "Whereas , Lender intends to provide Borrower with a loan to be used under this Agreement .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.",
+        "input": "To further clarify the rights and obligations of both Lender and Borrower , after friendly consultation , the Parties agree as follows :",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.",
+        "input": "1 . 1 In accordance with the terms and conditions of this Agreement , Lender agrees to provide a loan in the amount of RMB6 , 000 , 000 . 00 ( the \u201c Loan \u201d) to Borrower .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "During the term of the Loan or the extended term of the Loan , Borrower shall immediately repay the full amount of the Loan in the event any one or more of the following circumstances occur :",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.",
+        "input": "1 . 1 . 1 30 days elapse after the Borrower receives written notice from the Lender requesting repayment of the Loan ;",
+        "output": "Borrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "1 . 1 . 2 Borrower \u2019 s death , lack or limitation of civil capacity ;",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "1 . 1 . 3 Borrower ceases ( for any reason ) to be an employee of Lender , Borrower Company ( as defined below ) or its affiliated entity ;",
+        "output": "Borrower, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.",
+        "input": "1 . 1 . 4 Borrower engages in criminal conduct or is involved in criminal activities ;",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.",
+        "input": "1 1 . 1 . 5 Any third party filed a claim against Borrower that exceeds RMB1 , 000 , 000 ; or",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "1 . 1 . 6 According to the applicable laws of China , foreign investors are permitted to invest in security service business in China with a controlling stake or in the form of wholly - foreign - owned enterprises , the relevant competent authorities of China begin to approve such investments , and Lender decides to exercise the exclusive option under the Exclusive Option Agreement ( the \u201c Exclusive Option Agreement \u201d) described in Sections 4 . 1 . 1 and 4 . 2 . 5 of this Agreement .",
+        "output": "China, LOC\nChina, LOC\nChina, LOC\nLender, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "1 . 2 Lender agrees to remit the total amount under the Loan to the account designated by Borrower within 10 working days after receiving a written notification from the Borrower regarding the same , provided that all the conditions precedent in Section 2 are fulfilled .",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "Borrower shall provide Lender with a written receipt for the Loan upon receiving the Loan .",
+        "output": "Borrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "The Loan provided by Lender under this Agreement shall inure to Borrower \u2019 s benefit only and not to Borrower \u2019 s successors or assigns .",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.",
+        "input": "1 . 3 Borrower agrees to accept the aforementioned Loan provided by Lender , and hereby agrees and warrants that the Loan shall be used solely to fund its contribution to the registered capital of [ Lenovo Security Technology Ltd . ( hereinafter the \u201c Borrower Company \u201d, a domestic - funded limited liability company in China with registered capital of Renminbi Twenty Four Million ( RMB24 , 000 , 000 . 00 )).",
+        "output": "Borrower, PER\nLender, PER\nLenovo Security Technology Ltd, ORG\nBorrower, PER\nChina, LOC"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "Upon such contribution , Borrower shall own 25 % of the equity interests in Borrower Company ( the \u201c Borrower Equity Interest \u201d).",
+        "output": "Borrower, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.",
+        "input": "Borrower agrees to secure registration of the Borrower Company within 10 working days after receiving the Loan , and provide Lender with copies of the registration documents at the government department for industry and commerce , business licenses , and articles of association .",
+        "output": "Borrower, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "Without Lender \u2019 s prior written consent , Borrower shall not use the Loan for any purpose other than as set forth herein .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.",
+        "input": "1 . 4 Lender and Borrower hereby agree and acknowledge that Borrower \u2019 s method of repayment may at Lender \u2019 s option take the form of Borrower \u2019 s transferring the Borrower Equity Interest to Lender or Lender \u2019 s designated person ( legal or natural person ) pursuant to the Lender \u2019 s exercise of its right to acquire the Borrower Equity Interest under the Exclusive Option Agreement .",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER\nBorrower, PER\nBorrower, PER\nLender, PER\nLender, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.",
+        "input": "1 . 5 Lender and Borrower hereby agree and acknowledge that any proceeds from the transfer of the Borrower Equity Interest ( to the extent permissible ) shall be used to repay the Loan to Lender , in accordance with this Agreement in the manner designated by Lender .",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.",
+        "input": "2 1 . 6 Lender and Borrower hereby agree and acknowledge that to the extent permitted by applicable laws , Lender shall have the right but not the obligation to purchase or designate other persons ( legal or natural persons ) to purchase Borrower Equity Interest in part or in whole at any time , at the price stipulated in the Exclusive Option Agreement .",
+        "output": "Lender, PER\nBorrower, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.",
+        "input": "1 . 7 Borrower also undertakes to execute an irrevocable Power of Attorney ( the \u201c Power of Attorney \u201d, referred to in Section 4 . 2 . 4 ), which authorizes a legal or natural person designated by Lender to exercise all of Borrower \u2019 s rights as a shareholder of Borrower Company .",
+        "output": "Borrower, PER\nLender, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.",
+        "input": "1 . 8 When Borrower transfers Borrower Equity Interest to Lender or Lender \u2019 s designated person , in the event that the transfer price of such equity interest equals or is lower than the principal of the Loan under this Agreement , the Loan under this Agreement shall be deemed an interest - free loan .",
+        "output": "Borrower, PER\nBorrower, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "In the event that the transfer price of such equity interest exceeds the principal of the Loan under this Agreement , the excess over the principal shall be deemed the interest of the Loan under this Agreement payable by Borrower to Lender .",
+        "output": "Borrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "The obligation of Lender to provide the Loan to Borrower contemplated in Section 1 . 1 shall be subject to the satisfaction of the following conditions , unless waived in writing by Lender .",
+        "output": "Lender, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.",
+        "input": "2 . 1 Lender receives the written notification for drawdown under the Loan sent by Borrower according to Section 1 . 2 .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "2 . 2 All the representations and warranties by Borrower in Section 3 . 2 are true , complete , correct and not misleading .",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "2 . 3 Borrower has not violated the covenants in Section 4 of this Agreement , and no event which may affect Borrower \u2019 s performance of its obligations under this Agreement has occurred or is expected to occur .",
+        "output": "Borrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.",
+        "input": "3 . 1 Between the date of this Agreement and the date of termination of this Agreement , Lender hereby makes the following representations and warranties to Borrower :",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "3 . 1 . 1 Lender is a company duly organized and legally existing in accordance with the laws of China ;",
+        "output": "Lender, PER\nChina, LOC"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "3 3 . 1 . 2 Lender has the legal capacity to execute and perform this Agreement .",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.",
+        "input": "The execution and performance by Lender of this Agreement is consistent with Lender \u2019 s scope of business and the provisions of Lender \u2019 s corporate bylaws and other organizational documents , and Lender has obtained all necessary and proper approvals and authorizations for the execution and performance of this Agreement ; and",
+        "output": "Lender, PER\nLender, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "3 . 1 . 3 This Agreement constitutes Lender \u2019 s legal , valid and binding obligations , enforceable in accordance with its terms .",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "3 . 2 Between the date of this Agreement and the date of termination of this Agreement , Borrower hereby makes the following representations and warranties :",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.",
+        "input": "3 . 2 . 1 Borrower has the legal capacity to execute and perform this Agreement .",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "Borrower has obtained all necessary and proper approvals and authorizations for the execution and performance of this Agreement ;",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "3 . 2 . 2 This Agreement constitutes Borrower \u2019 s legal , valid and binding obligations enforceable in accordance with its terms ; and",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.",
+        "input": "3 . 2 . 3 There are no disputes , litigation , arbitrations , administrative proceedings or any other legal proceedings relating to Borrower , nor are there any potential disputes , litigations , arbitrations , administrative proceedings or any other legal proceedings relating to Borrower .",
+        "output": "Borrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "4 Borrower \u2019 s Covenants",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": "4 . 1 As a shareholder of Borrower Company , Borrower covenants that during the term of this Agreement , Borrower shall cause Borrower Company :",
+        "output": "Borrower, PER\nBorrower, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 1 to execute the Exclusive Option Agreement with Borrower and Lender , under which Borrower shall irrevocably grant Lender an exclusive option to purchase all of the Borrower Equity Interest ; to execute an Exclusive Business Cooperation Agreement (\u201c Exclusive Business Cooperation Agreement \u201d) with Lender ( or a party designated by Lender ), under which Lender ( or a party designated by Lender ), as an exclusive service provider , will provide Borrower Company with technical service and business consulting service ; to enter into the Exclusive Option Agreement and the Exclusive Business Cooperation Agreement on the date of issuance of the business license to Borrower Company , and to complete all the related governmental approvals , registrations or fillings ( as applicable );",
+        "output": "Borrower, PER\nLender, PER\nBorrower, PER\nLender, PER\nBorrower, PER\nLender, PER\nLender, PER\nLender, PER\nLender, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.",
+        "input": "4 . 1 . 3 at the request of Lender ( or a party designated by Lender ), to execute contracts or agreements on business cooperation with Lender ( or a party designated by Lender ), and to strictly abide by such contracts or agreements ;",
+        "output": "Lender, PER\nLender, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.",
+        "input": "4 . 1 . 4 without Lender \u2019 s prior written consent , not to supplement , change or amend its articles of association in any manner , increase or decrease its registered capital or change its share capital structure in any manner ;",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 6 without Lender \u2019 s prior written consent , not to sell , transfer , mortgage or dispose of in any other manner its legal or beneficial interest in any of its assets , business or revenue at any time from the date of this Agreement , or permit the encumbrance of any other security interest thereon ;",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 7 without Lender \u2019 s prior written consent , not to incur , inherit , guarantee or otherwise allow for the existence of any debt , except for ( i ) debt incurred in the ordinary course of business other than through loans ; and ( ii ) debt already disclosed to Lender for which Lender \u2019 s written consent has been obtained ;",
+        "output": "Lender, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 9 without the prior written consent of Lender , not to execute any major contract , except for contracts in the ordinary course of business ( for purpose of this subsection , a contract with a value exceeding RMB100 , 000 shall be deemed a major contract );",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 10 without the prior written consent of Lender , not to provide any person with any loan or credit ;",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "4 . 1 . 11 without the prior written consent of Lender , not to merge , consolidate with , acquire , or invest in any person ;",
+        "output": "Lender, PER"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "5 4 . 1 . 13 without the prior written consent of Lender or unless requested by Lender , not to distribute dividends to shareholders ;",
+        "output": "Lender, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.",
+        "input": "4 . 1 . 14 to provide Lender with all of the information on Borrower Company \u2019 s business operations and financial condition at Lender \u2019 s request ;",
+        "output": "Lender, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.",
+        "input": "4 . 1 . 15 to immediately notify Lender of the occurrence or possible occurrence of any litigation , arbitration or administrative proceedings relating to Borrower Company \u2019 s assets , business or income ;",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "4 . 1 . 16 at the request of Lender , to appoint any persons designated by Lender as directors of Borrower Company .",
+        "output": "Lender, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.",
+        "input": "4 . 2 Borrower covenants that during the term of this Agreement , he shall :",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.",
+        "input": "4 . 2 . 1 ensure that Borrower Company shall be set up within 20 working days after receiving the Loan , according to the laws of China , and take all steps necessary to ensure that Borrower Company maintains its legal existence according to the laws of China ; Borrower Company shall be a limited liability company without foreign investment , and its registered capital shall be Renminbi Twenty Four Million ( RMB24 , 000 , 000 . 00 ) and Borrower shall own 25 % of the equity interest of Borrower Company .",
+        "output": "Borrower, PER\nChina, LOC\nBorrower, PER\nChina, LOC\nBorrower, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "4 . 2 . 2 pay its contribution of 25 % of the registered capital of Borrower Company in full in accordance with the laws of China , and provide Lender with the business license and a capital contribution verification report regarding paid - in capital contributions from a qualified accounting firm ;",
+        "output": "Borrower, PER\nChina, LOC\nLender, PER"
+    },
+    {
+        "instruction": "In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.",
+        "input": "4 . 2 . 3 cause Borrower Company to engage in the security service business , and complete all the government approvals , authorizations , licensing , registration and filing required for engaging in the security service business pursuant to the laws of China ; Borrower shall provide Lender with all the said governmental approvals for verification ;",
+        "output": "Borrower, PER\nChina, LOC\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": "4 . 2 . 4 execute an irrevocable Power of Attorney , which authorizes a legal or natural person designated by Lender to exercise all of Borrower \u2019 s rights as a shareholder in Borrower Company , and refrain from exercising any such shareholder rights except to the extent required under this Agreement or the Share Pledge Agreement or as requested by Lender ;",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.",
+        "input": "4 . 2 . 5 execute the Exclusive Option Agreement with Lender and Borrower Company , under which Borrower shall irrevocably grant to Lender an exclusive option to purchase all of the Borrower Equity Interest ;",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.",
+        "input": "6 4 . 2 . 6 execute a Share Pledge Agreement ( the \u201c Share Pledge Agreement \u201d) with Lender , under which Borrower shall pledge the Borrower Equity Interest to Lender ;",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.",
+        "input": "4 . 2 . 7 enter into the aforementioned Power of Attorney , Exclusive Option Agreement and Share Pledge Agreement on the date of the issuance of the business license to Borrower Company , and complete all the related governmental approvals , registrations or fillings ( as applicable );",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.",
+        "input": "4 . 2 . 9 not sell , transfer , mortgage or dispose of in any other manner its legal or beneficial interest in Borrower Equity Interest , or allow the encumbrance thereon of any security interest , except in accordance with the Share Pledge Agreement ;",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.",
+        "input": "4 . 2 . 10 cause any shareholders \u2019 meeting and / or board of directors meeting of Borrower Company not to approve the sale , transfer , mortgage or disposition in any other manner of any legal or beneficial interest in equity interest held by Borrower , or allow the encumbrance thereon of any security interest , except to Lender or Lender \u2019 s designated person ;",
+        "output": "Borrower, PER\nBorrower, PER\nLender, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "4 . 2 . 11 cause any shareholders \u2019 meeting and / or board of directors of the Borrower Company not to approve the merger or consolidation of Borrower Company with any person , or its acquisition of or investment in any person , without the prior written consent of Lender ;",
+        "output": "Borrower, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "4 . 2 . 12 immediately notify Lender of the occurrence or possible occurrence of any litigation , arbitration or administrative proceedings relating to Borrower Equity Interest ;",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "4 . 2 . 13 to the extent necessary to maintain his ownership of the Borrower Equity Interest , execute all necessary or appropriate documents , take all necessary or appropriate actions and file all necessary or appropriate complaints or raise necessary and appropriate defense against all claims ;",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "4 . 2 . 14 without the prior written consent of Lender , refrain from any action / omission that may have a material impact on the assets , business and liabilities of Borrower Company ;",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": "7 4 . 2 . 15 appoint any designee of Lender as director of Borrower Company , at the request of Lender ;",
+        "output": "Lender, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.",
+        "input": "4 . 2 . 16 to the extent permitted by the laws of China , at the request of Lender at any time , promptly and unconditionally transfer all of Borrower Equity Interest to Lender or Lender \u2019 s designated representative at any time , and cause the other shareholders of Borrower Company to waive their right of first refusal with respect to the share transfer described in this section ;",
+        "output": "China, LOC\nLender, PER\nBorrower, PER\nLender, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "4 . 2 . 17 to the extent permitted by the laws of China , at the request of Lender at any time , cause the other shareholders of Borrower Company to promptly and unconditionally transfer all of their equity interest to Lender or Lender \u2019 s designated representative at any time , and Borrower hereby waives his right of first refusal ( if any ) with respect to the share transfer described in this section ;",
+        "output": "China, LOC\nLender, PER\nBorrower, PER\nLender, PER\nLender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.",
+        "input": "4 . 2 . 18 in the event that Lender purchases Borrower Equity Interest from Borrower in accordance with the provisions of the Exclusive Option Agreement , use such purchase price obtained thereby to repay the Loan to Lender ; and",
+        "output": "Lender, PER\nBorrower, PER\nBorrower, PER\nLender, PER"
+    },
+    {
+        "instruction": "Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.",
+        "input": "4 . 2 . 19 without the prior written consent of Lender , not to cause Borrower Company to supplement , change , or amend its articles of association in any manner , increase or decreases its registered capital or change its share capital structure in any manner .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.",
+        "input": "5 . 2 in the event that Borrower fails to perform the repayment obligations set forth in this Agreement , Borrower shall pay overdue interest of 0 . 01 % per day for the outstanding payment , until the day Borrower repays the full principal of the Loan , overdue interests and other payable amounts .",
+        "output": "Borrower, PER\nBorrower, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "Lender : 3 / F Zhongdian Information Tower , No . 6 Zhongguancun South Street , Haidian District , Beijing 100086 , P . R .",
+        "output": "Lender, PER\n3 / F Zhongdian Information Tower, LOC\nZhongguancun South Street, LOC\nHaidian District, LOC\nBeijing 100086, LOC"
+    },
+    {
+        "instruction": "In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.",
+        "input": "China Attn : Legal Department Phone : + 86 - 10 - 6250 1658 Facsimile : + 86 - 10 - 6250 1665",
+        "output": "China, LOC\nLegal Department, ORG"
+    },
+    {
+        "instruction": "In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.",
+        "input": "Borrower : 1 - 4 - 48 , No .",
+        "output": "Borrower, PER"
+    },
+    {
+        "instruction": "In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.",
+        "input": "1 , Jinjia Village , Fengtai District , Beijing , P . R . China Attn : Bing Yu Tel : + 86 - 10 - 6250 1312",
+        "output": "Jinjia Village, LOC\nFengtai District, LOC\nBeijing, LOC\nChina, LOC\nBing Yu, PER"
+    },
+    {
+        "instruction": "From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "8 . 1 The execution , effectiveness , construction , performance , amendment and termination of this Agreement and the resolution of disputes shall be governed by the laws of China .",
+        "output": "China, LOC"
+    },
+    {
+        "instruction": "Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.",
+        "input": "9 8 . 2 Any dispute , controversy or claim arising out of or relating to this Agreement , or the breach termination or invalidity thereof , shall be settled by arbitration at the Hong Kong International Arbitration Center (\u201c HKIAC \u201d) under the UNCITRAL Arbitration Rules as at present in force and as may be amended by the rest of this clause .",
+        "output": "Hong Kong, LOC\nInternational Arbitration Center, ORG"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "The language used in such arbitration shall be English , and the place of arbitration shall be in Hong Kong at HKIAC .",
+        "output": "Hong Kong, LOC"
+    },
+    {
+        "instruction": "In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.",
+        "input": "9 . 3 This Agreement may be amended or supplemented through written agreement by and between Lender and Borrower .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "Such written amendment agreement and / or supplementary agreement executed by and between Lender and Borrower shall form an integral part of this Agreement , and shall have the same legal validity as this Agreement .",
+        "output": "Lender, PER\nBorrower, PER"
+    },
+    {
+        "instruction": "Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.",
+        "input": "10 Lender : Lenovo - AsiaInfo Technologies , Inc .",
+        "output": "Lender, PER\nLenovo - AsiaInfo Technologies, ORG"
+    },
+    {
+        "instruction": "Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.",
+        "input": "/ s / Bing Yu Name :",
+        "output": "Bing Yu, PER"
+    },
+    {
+        "instruction": "From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.",
+        "input": "Bing Yu",
+        "output": "Bing Yu, PER"
+    },
+    {
+        "instruction": "From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.",
+        "input": "Borrower : Bing Yu By :",
+        "output": "Borrower, PER\nBing Yu, PER"
+    },
+    {
+        "instruction": "In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.",
+        "input": "/ s / Bing Yu",
+        "output": "Bing Yu, PER"
+    }
+]
