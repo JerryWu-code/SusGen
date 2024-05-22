@@ -92,12 +92,12 @@ def main():
     # 3.Define the prompt & generate text
     #  1) Prompt
     user_instruction = (
-        "You are a senior equity analyst with expertise in climate science "
+        "Instruction:\nYou are a senior equity analyst with expertise in climate science "
         "evaluating a company 's sustainability report, "
         "you will answer the question in detail."
     )
     question = "What is the tcfd format sustainability report?"
-    prompt = f"{user_instruction}\n Question: {question}"
+    prompt = f"{user_instruction}\n Question:\n{question}"
 
     # prompt = (
     #     "Process the Sentence follwing the instruction below:\n" 

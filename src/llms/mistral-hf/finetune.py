@@ -4,9 +4,7 @@
 
 #############################################################################
 # Package for fine-tuning the Mistral-7B model with Lora
-import torch, os, json, wandb, warnings, transformers
-os.environ['MASTER_PORT'] = '29501'
-
+import torch, json, wandb, warnings, transformers
 from transformers import (
     AutoModelForCausalLM, 
     AutoTokenizer, 
@@ -33,7 +31,7 @@ def load_json(file_path):
     return data
 
 # Set up the wandb login
-def login_wandb(project_name="mistral-7B_alpaca-lora"):
+def login_wandb(project_name=""):
     wandb.login()
     wandb_project = project_name
     if len(wandb_project) > 0:
@@ -62,14 +60,14 @@ def data_2_prompt_formal(record):
         text = (
             "[INST] "
             "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
-            "# Instruction:\n{0}\n\n [/INST]# Response:\n{1}").format(
+            "### Instruction:\n{0}\n\n [/INST]### Response:\n{1}").format(
             record["instruction"], record["output"])
     else:
         text = (
             "[INST] "
             "Below is an instruction that describes a task, paired with an input that provides further context. "
             "Write a response that appropriately completes the request.\n\n"
-            "# Instruction:\n{0}\n\n# Input:\n{1}\n\n [/INST]# Response:\n{2}").format(
+            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n{2}").format(
             record["instruction"], record["input"], record["output"])
     return text
 
@@ -137,18 +135,7 @@ def setup_model(hparams):
 
 # set up the tokenizer
 def setup_tokenizer(hparams):
-    tokenizer = AutoTokenizer.from_pretrained(
-        hparams["tokenizer_path"], 
-        use_fast=hparams["use_fast"],
-        padding_side=hparams["padding_side"], # set to left use less memory
-        truncation_side=hparams["truncation_side"], # close to check distribution of sequence length to set the max_length
-        add_eos_token=hparams["add_eos_token"],
-        add_bos_token=hparams["add_bos_token"],
-        pad_token=hparams["pad_token"], # or use the comment below
-        truncation=hparams["truncation"],
-        padding=hparams["padding"],
-    )
-    # tokenizer.pad_token = tokenizer.eos_token # "</s>"
+    tokenizer = AutoTokenizer.from_pretrained(hparams["tokenizer_path"], **hparams)
     return tokenizer
 
 def tokenize(tokenizer, hparams, prompt="This is a test sentence."):
@@ -174,20 +161,26 @@ def print_tranable_params(model):
 
 def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
     def wrapper(record):
+        input_text = data_2_prompt(record)
+        output_text = input_text.split("### Response:\n")[1]
+        input_prompt = input_text.split("### Response:\n")[0] + "### Response:\n"
         if not hparams["max_length"]:
-            result = tokenizer(
-                text=data_2_prompt(record), 
-                padding=hparams["padding"],
-                truncation=hparams["truncation"])
+            input_ids = tokenizer(input_text, return_tensors="pt", **hparams)["input_ids"]
+            prompt_ids = tokenizer(input_prompt, return_tensors="pt", **hparams)["input_ids"]
         else:
-            result = tokenizer(
-                text=data_2_prompt(record),
-                padding="max_length",
-                truncation=hparams["truncation"],
-                max_length=hparams["max_length"],
-            )
-        result["labels"] = result["input_ids"].copy()
-        return result
+            input_ids = tokenizer(input_text, padding="max_length", return_tensors="pt",
+                truncation=hparams["truncation"], max_length=hparams["max_length"])["input_ids"]
+            prompt_ids = tokenizer(input_prompt, padding="max_length", return_tensors="pt",
+                truncation=hparams["truncation"], max_length=hparams["max_length"])["input_ids"]
+        
+        # input_ids & labels are same when self-supervised learning, here use supervised learning trick
+        input_ids = torch.cat([input_ids, torch.tensor([[2]])], dim=1)
+        labels = input_ids.clone()
+        labels[:, :len(prompt_ids[0])] = -100
+        return {
+            "input_ids": input_ids,
+            "labels": labels,
+        }
     return wrapper
 
 def plot_data_lengths(tokenized_train_dataset=None, tokenized_val_dataset=None, save_name="alpaca.png"):
@@ -222,10 +215,9 @@ def main():
         "model_path": "../../../ckpts/Mistral-7B-v0.2-hf",
         # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
         "lora_path": None,
-
         # start config the tokenizer
         "tokenizer_path": "../../../ckpts/Mistral-7B-v0.2-hf",
-        "use_fast": False,
+        "use_fast": True,
         "padding_side": "left", # set to left use less memory
         "truncation_side": "right", 
         # close to check distribution of sequence length to set the max_length  
@@ -241,7 +233,7 @@ def main():
     base_model = "Mistral-7B-Instruct"
     # base_model = "LLaMA3-Instruct"
     # project = "susgenv1-lora"
-    project = "susgen30k-mistral-int4-adamw32"
+    project = "susgen30k-int4-adamw32"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
 
@@ -263,7 +255,6 @@ def main():
     data = load_dataset("json", data_files="/home/whatx/SusGen/data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json", split="train")
     # data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     train_data, val_data = split_data(data, split_ratio=0.005)
-    # print(alpaca[0])
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
     data_2_prompt = data_2_prompt_formal
@@ -288,15 +279,15 @@ def main():
             # max_steps=7000,               # Total number of training steps
             num_train_epochs=5,             # Number of epochs to train the model
             per_device_train_batch_size=32,
-            gradient_accumulation_steps=5,  # Accumulate gradients before backpropagation
+            gradient_accumulation_steps=4,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
             lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
             bf16=True,                      # Use bfloat16 for training
             optim="paged_adamw_32bit",      # adamw_apex_fused, adamw, paged_adamw_8/32bit
             logging_steps=10,               # Log every ... step
             logging_dir=logging_dir,        # Directory for storing logs
-            # save_strategy="epoch",          # Save the model checkpoint "steps", or "epoch"
-            save_steps=500,                  # Save checkpoints every ... steps
+            save_strategy="epoch",          # Save the model checkpoint "steps", or "epoch"
+            # save_steps=500,                  # Save checkpoints every ... steps
             evaluation_strategy="steps",    # Evaluate the model every logging step
             eval_steps=250,                  # Evaluate and save checkpoints every ... steps
             do_eval=True,                   # Perform evaluation at the end of training
@@ -308,27 +299,50 @@ def main():
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
-    # set up another trainer SFT for the SFT training
-    # from trl import SFTTrainer
-    # trainer = SFTTrainer(
-    #     model=model,
-    #     train_dataset=train_dataset,
-    #     eval_dataset=eval_dataset, 
-    #     peft_config=peft_config,
-    #     dataset_text_field="text",
-    #     max_seq_length=script_args.max_seq_length,
-    #     tokenizer=tokenizer,
-    #     args=training_arguments,
-    #     packing=script_args.packing,
-    # )
-
     trainer.train()
     # trainer.train(resume_from_checkpoint=path_to_checkpoint)
     trainer.save_model(output_dir)
 
 def test():
-    data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
-    data_.train_test_split(test_size=0.1)
+    # data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
+    # data_.train_test_split(test_size=0.1)
+    hparams = {
+        # start config the model
+        "lora": True,
+        "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
+        "accelerator": True,
+        "model_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
+        "lora_path": None,
+        # start config the tokenizer
+        "tokenizer_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        "use_fast": False,
+        "padding_side": "left", # set to left use less memory
+        "truncation_side": "right", 
+        # close to check distribution of sequence length to set the max_length  
+        # "add_eos_token": True,
+        "add_bos_token": True,
+        "pad_token": "</s>",
+        "padding": True,
+        "truncation": True,
+        "max_length": 512, # set to None to use the max length of the dataset
+    }
+    tokenizer = setup_tokenizer(hparams)
+    print(tokenizer.pad_token, tokenizer.eos_token, tokenizer.bos_token, 
+        tokenizer.unk_token, tokenizer.sep_token, tokenizer.mask_token)
+    print(tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
+        tokenizer.unk_token_id, tokenizer.sep_token_id, tokenizer.mask_token_id)
+    # id to token
+    print(tokenizer.decode([tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
+        tokenizer.unk_token_id]))
+    # print the whole tokenizer dict
+    print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
+    # test the tokenizer
+    prompt = "This is a test sentence."
+    print(tokenizer(prompt, return_tensors="pt", max_length=22, truncation=True, 
+        padding="max_length")["input_ids"])
+    print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1))
+    print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
 
 if __name__ == "__main__":
     # test()
