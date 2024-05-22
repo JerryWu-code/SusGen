@@ -1,0 +1,2002 @@
+[
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Piper Sandler\u00a0analyst Harsh Kumar downgraded\u00a0Advanced Micro Devices Inc\u00a0(NASDAQ:AMD) to\u00a0Neutral from Overweight\u00a0with a price target of $130, down from $140.\u00a0 The analyst is cautious on the broader automotive sector, saying the pace of orders and strong pricing \"may come into question\" as supply normalizes in the second half of 2022.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Consumer Insolvencies Approach Record in Debt-Weary Canada",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Robust demand environment for memory chips and strong fundamentals makes Micron Technology (MU) a solid bet amid the current highly volatile equity market.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$TRVN - Trevena refilies U.S. application for IV oliceridine; shares up 6% https://t.co/u9sJLOG5ky",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$TSLA I see more downside in next two weeks be careful -20 dollars drop potential vs +10 up moved",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Buffett's Company Reports 37 Percent Drop in 2Q Earnings",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "INTC's latest earnings release continues to be soft - no major decline or increase in the revenue overall. The continued OPEX and CAPEX investment has not been well received by investors, especially during this liquidity crunch.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Musk claimed to have a \"good conversation\" with Apple CEO Tim Cook on Wednesday, just two days after he trashed Apple in a series of tweets and indicated he would \"go to war\" against the company.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Sales have risen in other export markets .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "( ADP News ) - Feb 4 , 2009 - Finnish broadband data communication systems and solutions company Teleste Oyj ( HEL : TLT1V ) said today its net profit decreased to EUR 5.5 million ( USD 7.2 m ) for 2008 from EUR 9.4 million for 200",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "$ilmn piper Jeffries raises pt.  I remain long",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Australia clears AB Inbev's $100 billion SABMiller buyout plan",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "7-Eleven Inc. SVNDY, -0.54% said Tuesday it's introducing green apple Slurpee flavor for fall. It's now available for a limited time at participating 7-Eleven, Speedway and Stripes stores.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "CoreLogic Reports February Home Prices Increased by 4.1% Year Over Year https://t.co/AfjHcwfb5n https://t.co/DPrLjn1AK8",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Western Digital Corp (NASDAQ: WDC) shares are trading higher Tuesday after\u00a0Elliott Investment Management sent a letter to\u00a0Western Digital's board, calling for a full strategic review of the value that could be created by separating its flash unit. Elliott Investment Management, which.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Nvidia Corp Chief Executive Jensen Huang said Wednesday that he still sees a large market for Nvidia's data center chips in China despite U.S. restrictions on exports of two of its top chips to the country.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$isrg trading at all-time high after strong earnings report with 4 days of short interest.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Cencorp 's net sales in the first quarter is estimated to be EUR0.9-1 .2 m , as compared to EUR4 .5 m in the first quarter 2008 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$TSLA recall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Netflix Inc Co-Chief Executive Ted Sarandos on Tuesday said he sees no sees no current path to profitability by bringing live sports to the streaming service.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Oil prices are soaring higher in 2022 and there's going to be some definite winners and losers as the price of crude continues to rise. The post Soaring Oil Prices 2022: Who Are the Winners and Losers When Crude Climbs?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Apple Inc (NASDAQ: AAPL) is in focus this morning after its biggest iPhone supplier reported a big hit to revenue in November. Foxconn revenue tanks 29% in November Foxconn Technology Co Ltd (TPE: 2354), on Monday, reported a 29% decline on a month-over-month basis.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Microsoft responded to criticism of its cloud licensing policies in Europe with a series of promises to change its licensing practices and overall principles to level the playing field for local cloud providers.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$BXS: BancorpSouth Announces Extension of Merger Agreements with ... http://stks.co/s2PDF",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Retailers Kingfisher and Sports Direct rise in Britain's share index",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Netflix Inc (NASDAQ:NFLX) is raising its United States monthly subscription prices by $1 to $2 per month depending on the plan. The price increase will help Netflix\u00a0pay for new programming in order to remain competitive\u00a0in the increasingly crowded streaming space.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "These businesses continue to perform well in an uncertain economic environment.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Vingroup, the biggest conglomerate in Vietnam, has reached a deal with Intel to develop 5G technology for a range of industries in the fast-developing Southeast Asian country, especially in the hot field of electric vehicle production.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "RECAP: $MSFT rumor this morning had them spinning off XBOX unit, stock grinds up all day to close on highs",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "Tesla shares jump as Musk tweets about Cybertruck preorders https://t.co/nzZHL8rX2F",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$RSH - looking for first profitable quarter in 3 years!!!  ;).  LONG & STRONG",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "ICE Said to Start Lining Up Financing for LSE Bidding War",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$RCON some upside today. This thing is severe low float. If there is catalyst for this guy. It can run.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Costco Wholesale Corp (COST) on Q2 2022 Results - Earnings Call Transcript",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "Facebook, near a buy point last week, faces a different technical test today https://t.co/c72LLMpiNM $FB $AAPL $NFLX https://t.co/fPFbYTYPuY",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Followed the levels I shared with you on $NFLX $GOOGL $TSLA calls for nice gains. Still holding $FB 110 calls. Week made in a morning.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Return on capital employed rose by 4.8 percentage points to 19.6 % .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "It delivers a different user experience and enables us to widen the market we can address . ''",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The company ended fiscal 2021 with 61.7 million paid household memberships, which represents a 13% increase from the same period in 2019.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$AAPL double bottom could be in, keep in mind",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "NEW: Goldman Sachs' fine for its role in the 1MDB scandal could be under $2 billion -- far less than what some anal\u2026 https://t.co/AY59vwz3iW",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Assuming traders have a price target of 85 for Alphabet, they could look at a bearish calendar spread. The post Calendar Spread Works Best With Continued Slump In GOOGL Stock appeared first on Investor's Business Daily.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Amazon is trading at low levels, but experts aren't worried. Here's why several experts think the AMZN stock split is a win for investors.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$KGC http://stks.co/3Qta Oversold, falling wedge and positive divergence place it on the launch pad; looking for a bounce.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "With exceptionally high turnover, the company risks churning though available labor pool by 2024",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Sierra Oncology +10% premarket on launching late-stage Momentum trial",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$TSLA stock gaining steam... Plus other notable moves from this week: https://t.co/Hz0wdp5za1",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$AAPL Dips being bought up real quick. Higher lows fo sho",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Estimates for the last two quarters of this year and full-year 2023 are coming down, even though positive revisions to the Energy sector continue to partly offset estimate cuts elsewhere.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Buyout giants Bain Capital and CVC Capital are preparing a joint bid for high street chemist Boots, according to news reports. Boots owner Walgreens Boots Alliance Inc (NASDAQ:WBA) (WBA)\u00a0has announced a strategic review of the UK business as part of its move to focus on US healthcare.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Apple revealed that it will be expanding its Today at Apple Creative Studios initiative to seven new cities, including Berlin, Miami, Milan, Nashville, Sydney, Taipei, and Tokyo. It will also return for the second time in Bangkok, Beijing, Chicago, London, New York City, Paris, and Washington, D.C.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Intertek swings to \u00c3\u0082\u00c2\u00a3347 mln loss on oil's slump",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "The search giant has fanned the flames of interest regarding its future.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "The high-profile investor has warned the economy has fallen into a recession\u2014and her latest splurge comes after Nvidia warned macroeconomic headwinds led to a revenue shortfall last quarter.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Operating profit was EUR 9.8 mn , compared to a loss of EUR 12.7 mn in the corresponding period in 2009 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Commodity Channel Index Indicator signaled a Oversold for $FB #stockmarket https://t.co/VM32d3M9xi https://t.co/cvkojk05Xn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "By combining its existing solutions into a single platform , Comptel said that it has reduced the cost of deployment .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Operating profit rose to EUR 13.5 mn from EUR 9.7 mn in the corresponding period in 2006 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Stripe \u2014 the payments giant valued at $95 billion \u2014 is on a product sprint to expand its services and functionality beyond the basic payments that form the core of its business today. Today the company took the wraps off Data Pipeline, an infrastructure product that will let its users create links between their Stripe [\u2026]",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "We hope to increase traffic volumes with the opening of Freight One Scandinavia . ''",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$IBM staying strong",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Companies Thetrainline.com announces arrival of London IPO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Off and on the GGPI stock price chart, information is always imperfect but a correction is shaping up for buyers that's worth monitoring. The post Don't Steer Clear of Gores Guggenheim Stock appeared first on InvestorPlace.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Jefferies' Jared Weisfeld on Netflix dealing with subscriber losses. With CNBC's Melissa Lee and the Fast Money traders, Karen Finerman, Guy Adami, Steve Grasso and Pete Najarian.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Apple and Meta are two tech mega caps that have created a lot of value in the past. Over the last year, their performance is very different, however. What does a recession mean for Apple and Meta? Is the market accounting for these risks correctly?",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$ENDP exit reversal .11 X 3K shares = $330 - now Long - not getting follow through, either side of price action",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "The new policy was also aimed at making the companies more profitable and competitive .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Can the e-commerce and cloud giant catch up to the iPhone maker again?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "SKF 6 April 2010 - Alandsbanken has given a `` buy '' recommendation on Swedish industrial company SKF AB ( STO : SKF B ) with a share price target of SEK150 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Occasionally I hear some confusing arguments about corporate debt and bond investment. And I most recently heard them regarding Apple's issuance of $6.5 billion of bonds.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$ZAGG getting ready...Target $15 plus on a close over $13.50 on better than avg daily Volume http://chart.ly/lha44tn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$FB SHIFTING ON THE 15 MINUTE HERE - SUSPECT TO TAKE HIGHS",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "That topped consensus forecasts for earnings of 0.21 euros a share .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Viking Line has canceled some services .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$OMF - OneMain Holdings EPS beats by $0.21, beats on revenue https://t.co/wjkkgO3kFK",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "GSK joins China trade push as UK trumpets healthcare deals",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Stocks, Bond Yields Climb on Strong Jobs Report #SP500 #index #MarketScreener https://t.co/u5BPqfuoLG https://t.co/ZNal260A6P",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "$ES_F. Nice little cup-and-handle shaping up on the 15-minute. End-of-day $SPY $SPX favours a good day for the index. Will we see a gap open",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Ragutis , which is based in Lithuania 's second-largest city Kaunas , boosted its sales last year 22.3 per cent to 36.4 million liters .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "Jan. WTI oil up $1.25, or 2.1%, to $60.43/bbl",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "The stronger-than-expected showing in third quarter reversed two quarters of declines. But the streamer still faces questions over growing competition, password sharing and anemic growth in North America.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$RNN day traders flushed out, it should start going up slowly from now on .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Stock Market Update: Stock market opens slightly higher, retail drags",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "Credit Suisse CDS jump after CEO Thiam quits",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Yahoo Finance anchors Julie Hyman, Brian Sozzi and Brad Smith discuss the athletic apparel sector after a Jefferies analyst downgraded Lululemon and Under Armour.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "NEW YORK \u2014 Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Howard Schultz, taking over the reins of the coffee giant once again, told employees that he would suspend the coffee giant's stock repurchasing program in order to refocus its capital on employees.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Both should have great long-term prospects.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "Walmart Inc.\u2019s Jet subsidiary is ending its fresh-food delivery business just a year after introducing the service\u2026 https://t.co/MpzLxKX3cW",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Buffett's Berkshire builds Deere stake, dumps Exxon",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$GEVO PLUNGING!  Back to $3.55.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Finnish Bank of +\u00e0land +\u00e0landsbanken has issued a profit warning .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "CompaniesKingfisher bid for Mr Bricolage runs into trouble",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$V A potential bearish shark pattern if point B $226 to be taken out. http://stks.co/i0GGH",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Yahoo Finance Live anchors Julie Hyman and Brian Sozzi discuss the latest plant-based jerky from Beyond Meat.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Amazon.com Inc (NASDAQ: AMZN) is down another 5.0% on Thursday after a Needham analyst blasted its management for running a not-for-profit enterprise. Needham analyst lowers estimates Amazon's FY23 Laura Martin forecasts a whopping $510 billion in revenue for the tech behemoth.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "$AMZN long into earnings. looks good over 600",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Compass Group says positive for year ahead",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Bristol-Myers earnings rise due to Celgene deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$DIS (+0.6% pre) \u201cFrozen 2\u201d Walt Disney Animation Studios\u2019 Highest Grossing Debut Ever https://t.co/SksjdnI6s7",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Britain's FTSE forges ahead as Shire surges",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Direxion Daily AMZN Bear 1X Shares (NYSE: AMZD) gapped up over 11% on Friday after a big bullish day on Thursday caused the ETF to rally 4%.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "L3Harris started at buy with $280 stock price target at Benchmark",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$GME - GameStop -15% as sales evaporate https://t.co/vY8yNu0ddk",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$XLF $FAS $FAZ - Banks may face legal actions over margin calls - FT https://t.co/SAACWM7yNa",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Diageo Shares Surge on Report of Possible Takeover by Lemann",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Sales rose 10 pct to 566 mln eur on the back of strong volume and favourable currency effects .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Shareholders of Rakvere Lihakombinaat decided in favor of the buyout of minority shares in mid-July .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "The group 's 12-month operating profit grew 31 percent to 337.8 million euros .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$SPY  still wants higher I think.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Slump in Weir leads FTSE down from record high",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Apple has once again become the top-selling smartphone brand in top market China, along with the rest of the world.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Amazon.com Inc. said more than 25 million people around the world\u00a0sampled the premiere\u00a0of its highly-anticipated series \u201cThe Lord of the Rings: The Rings of Power\u201d on Sept 2., the biggest debut in the streaming service's history.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "Timberrrr $TSLA https://t.co/MRBgfDHHVa",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Don't miss out on these key cloud players.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Validating our fgVoIP client through Symbian Signed represents a significant step forward in accomplishing this goal .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Legal & General arm buys 50 pct stake in MediaCityUK in Manchester",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Yahoo Finance's Brian Sozzi discusses Nvidia stock sinking after Citi lowered its gaming-related estimates.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "These stocks aren't Dividend Aristocrats today, but they could very well end up in that club.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "@Binkster69 Not that. it's just ER's lol. But looking at the correlation of $ARIA and foreign price charts, they are all poised to breakout.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "J.P. Morgan Securities today reiterated its position on Apple Inc\u00a0(NASDAQ:AAPL), maintaining its \"overweight\" rating, $200 price target, and fiscal 2024 estimates.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "After Chuck Smith was laid off on May 30 from his $ 90,000 housing consultant job , he and his wife had to cut spending in half for their family of six , having to rely on his wife 's income -- about the same as his -- alone .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Amazon.com Inc hopes to interest a wider range of industries in the technology it developed for cashier-less checkout at brick-and-mortar shops, a vice president said.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Waymo Via, Waymo's autonomous trucking and cargo unit, has found another long-term strategic partner to see it through to commercialization. The company is gearing up to launch a pilot with C.H.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$CHRM Loooooongggggg base",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "WPP, World's Largest Ad Agency, Reports Strong 2015 Growth",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Whitbread buys 49% stake in Pure food chain",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "$UVXY - UVXY: Sell, And Sell Short. Read more and sign up for updates: https://t.co/UcrJxea8AC #investing #finance #trading",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Bain Capital\u00a0reportedly approached\u00a0Walgreens Boots Alliance Inc\u00a0(NASDAQ: WBA) months ago about taking over Boots, although Walgreens didn't comment on the matter. The Sunday Times said\u00a0Walgreens \u201creceived a takeover approach from Bain Capital more than two months ago\u201d and is \u201cpositioning itself as a frontrunner in a forthcoming auction for Boots after completing months of due diligence.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "The number of permanent reductions of clerical workers is 22 employees , of which 19 in Finland .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Persimmon share price climbs on 23% rise in full-year revenue",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Microsoft Corp (NASDAQ: MSFT) on Tuesday announced that it plans to acquire\u00a0game developer\u00a0and interactive entertainment content publisher\u00a0Activision Blizzard Inc (NASDAQ: ATVI)\u00a0for $95\u00a0per share\u00a0in an all-cash transaction valued at $68.7 billion. The deal is set to include\u00a0Activision's iconic franchises including \"Call of Duty,\"\u00a0\"Warcraft,\"\u00a0\"Diablo,\"\u00a0\"Overwatch\"\u00a0and \"Candy Crush.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "PNC, Goldman Sachs Receive Dividend Hike Green Light (But Don't Act): http://stks.co/2pa7 $PNC $GS",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "City spirits sink after Diageo comes up short with sales slide",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "FCA Investigates Fraud in Collapse of Two Listed Companies",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Nvidia CEO Jensen Huang says Intel wants them as a manufacturing partner and they're \"very interested\" in the prospect amid the chip crisis.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "CNBC's Seema Mody joins 'Squawk on the Street' to break down the latest data from Booking Holdings on room occupancy, which has taken a hit amid Russia's invasion of Ukraine.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Olvi expects sales and market share to increase in the first quarter of 2010 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Finnish office supplies and computer accessories dealer Beltton-Group Plc said its net profit rose to 1.3 mln euro ( $ 1.7 mln ) in 2006 from 1.13 mln euro ( $ 1.5 mln ) in 2005 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "YPF Sociedad Anonima (YPF): Hedge Funds Are Snapping Up",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "FOX Business' Maria Bartiromo, Dagen McDowell and Maslansky + Partners President Lee Carter discuss House Speaker Nancy Pelosi disclosing up to $1.5 million in Apple trades and up to $600K in Microsoft. Subscribe to Fox Business!",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Starbucks executives, including CEO Howard Schultz, are reportedly rethinking store designs and how the company's drinks are made as part of an overall innovation plan.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "New European antitrust regulations could dramatically reshape the business models of technology giants like Meta, Apple, Amazon and Google.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Microsoft's plan to significantly boost merit-based raises and stock-based compensation for its employees and middle managers shows just how challenging it has become to keep a tech workforce intact given the larger dynamics playing out in the global economy and the tech job marketplace.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "`` We are delighted to announce our support for Intel based handheld platforms , the capabilities of which have made our development easier and faster .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "From game-changing products to indisputable growth catalysts, this list of top stocks has something for all.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Alphabet Inc.'s GOOGL, -0.41% GOOG, -0.45% Google Cloud on Tuesday said it has acquired cybersecurity specialist Siemplify, a provider of security orchestration, automation, and response technologies. Under the deal, estimated at about $500 million, Siemplify will be folded into the Google Cloud Platform.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "In the building and home improvement trade , sales decreased by 22.5 % to EUR 201.4 mn .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$TSLA is now up 57% from its February low. Amazing rebound.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA https://t.co/Vt6T5Zp2is",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "$SPY http://stks.co/1MiR We're holding above Wednesday and Thursday closes. I'm leaning bullish. Small postions. Waiting.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Johnson Matthey revs up on clean air drive",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Apple's (AAPL) shares rise on strong pre-order data for iPhone 14 Pro Max, unveiled at the Sep 7 event.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "U.S. Job Report Looks Likely to Show Hot 2020 Start, Cooler Past",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "PG&E nears $1.7B settlement tied to 2017 California wildfires - Bloomberg",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "The tightened competition situation in the production automation market has affected net sales during 2006 , Cencorp said .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Operating margin , however , slipped to 14.4 % from 15.1 % , dragged down by a poor performance in enterprise solutions .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Elisa CEO Sami Seppanen said EMT 's slogan `` Best coverage across Estonia '' clearly gives misleading information to consumers .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "EUR/USD Bearish Impulse And Flag Aims at 1.0940 Target",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "Pot Stock Hits Keep Coming as Biden Knocks Weed Ahead of Meeting",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "RT @joemccann the correleation between the dollar index and $SPY is simply amazing. $DX finds support, $SPY retreats like clockwork",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "This could be one of the best stocks to buy during the market sell-off.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Apple, Amazon, Meta and Google are among the technology giants whose global operations could be forced to change as a result of a landmark new law from the European Union.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Demand for Microsoft's cloud-computing services and work software helped boost its quarterly profits by 21% as the pandemic continued to keep many office workers at home.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Operating profit rose to 22.1 mln eur from 19.9 mln .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Apple Inc (NASDAQ: AAPL) opened lower on Monday, falling 0.75% to start the trading session in tandem with the general market, which saw the S&P 500",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "That topped consensus forecasts for earnings of 0.21 euros a share .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "China suspends planned tariffs scheduled for December 15 on some U.S. goods",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Dollar Tree Inc said on Tuesday the Eastern District of Arkansas issued a federal grand jury subpoena related to a pest and sanitation problem, a month after U.S. health regulators identified a contamination issue at its Family Dollar division.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Apple previously confirmed it will comply with EU rules to make a USB-C iPhone, but we now know it has to launch one by December 28, 2024.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Google has been given the nod by the UK's competition watchdog over its proposed reforms for online advertising, including banning third-party cookies within its web browser Chrome.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Tesco's Sales Pickup Isn't Enough",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Which metaverse stocks do you have on your watchlist right now?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "The diesel margin has remained high .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "`` We are delighted to welcome Elisa to our Board of Directors , '' said Garry McGuire , CEO of RMG Networks .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Proxy advisory firm Institutional Shareholder Services (ISS) urged Apple Inc investors to vote for a resolution demanding greater transparency in the iPhone maker's efforts to protect workers in its supply chain from forced labor.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Britain's FTSE steadies, supported by Dixons Carphone",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "$DMPI DelMar Pharmaceuticals Presents Positive Interim Data of VAL-083 Demonstrating Favorable Outcomes...\u2026 https://t.co/5WbTTriTwV",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Meta Platforms wants to use more GPUs.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "GOOG and GOOGL stock are on investors' watch lists today as the tech industry takes blows from both the Fed and the Russia-Ukraine conflict. The post GOOG and GOOGL Stock Alert: What's Going on with Alphabet Shares Today?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Slump in Weir leads FTSE down from record high",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Operating profit totalled EUR 0.4 mn , up from an operating loss of EUR 0.8 mn year-on-year .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Apple has agreed to pay $50 million to settle a class action lawsuit from customers who say they experienced failures related to the so-called \"butterfly\" keyboards included for years on certain MacBook laptops.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Intel Corp.'s earnings fell last quarter as the company ramped up spending on new facilities and products, part of Chief Executive Officer Pat Gelsinger's efforts to revive the semiconductor giant's fortunes.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Apple CEO Tim Cook said the company's \"constant efforts to innovate\" helped it stay on track in Q2, despite inflation and other economic challenges.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "@harmongreg: $BBRY wkly, Inverse Head and Shoulders forming, triggers over 18.50, PO at least 30.80, watching http://stks.co/iPVJ",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "Tobacco exports from Tanzania-\u009da key crop and source of foreign exchange-\u009dcould drop as much as 20% this year because\u2026 https://t.co/tphI9DEicz",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "Samsung Heavy Industries to pay $75 million to resolve foreign bribery case: U.S. #SamsungHeavyIndustries #Stock\u2026 https://t.co/XgTBQMro1V",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$FB trending nicely, intraday.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Double bottom with handle buy point of 29.51 $IP http://chart.ly/akvujxh",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Finnish steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today its net loss contracted to EUR 49 million ( USD 68.2 m ) for the first nine months of 2010 from EUR 229 million for the same period a year ago .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Royal Mail share price edges lower as group raises stamp price",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Tech stocks got off to a poor start Thursday morning that looks like it will end a four-day winning streak.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "`` Our customer has been satisfied with Basware Invoice Automation solution and extends the implementation to new geographies .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Hedge Funds Have Never Been This Bullish On Satsuma Pharmaceuticals, Inc. (STSA)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Costco (NASDAQ: COST) stock, the second largest warehouse club operator in the U.S. behind only Walmart's Sam's Club, has increased by 13% over the last twenty-one trading days (one month) and currently stands at around $516.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "The long-standing partnership and commitment enable both parties to develop their respective operations , and ESL Shipping will also have the opportunity to update its fleet and improve its efficiency .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "The core of Solidium 's investment strategy is proper , value enhancing asset management of the current holdings .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$AXP Looking for continuation with volume increase http://stks.co/c8sR",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The Oracle of Omaha's largest holding is set for healthy long-term growth.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Apple workers are pushing back against the company's return-to-office mandate, and former Oracle employees criticized the unit's leadership.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "Is Ben & Jerry's misleading consumers? Lawsuit says 'happy cow' representation not quite true",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "They will cover all Forest Industry 's units and employees in Finland and concern temporary and permanent lay-offs .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "GSK joins China trade push as UK trumpets healthcare deals",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Apple Inc\u00a0(NASDAQ: AAPL) proposes to charge developers of dating apps a 27% commission on any in-app purchases made via alternative payment systems in the Netherlands,\u00a0the Verge reports. The Dutch competition regulator, the Authority for Consumers and Markets (ACM), ordered Apple to allow dating app developers to use alternatives to Apple's in-app payment system in the country.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Hedge Funds Are Betting On Aduro BioTech Inc (ADRO)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$IBM staying strong",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "3rd red day in a row ? $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "@TraceyRyniec not just energy, it's so broad. You will see it in WWG and Kaman as well. I'd be short $fast",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "Wall Street set for higher open as trade deal hopes build",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Ragutis , which is based in Lithuania 's second-largest city Kaunas , boosted its sales last year 22.3 per cent to 36.4 million liters .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "The supply chain issues that shook semiconductor stocks are slowly getting better, and the outlook looks much brighter now. The post 7 Semiconductor Stocks Smart Investors Will Buy Before They Rebound appeared first on InvestorPlace.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Elcoteq 's stock of orders has stabilised in the past weeks , Mr Krippl said .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "Assertio to sell Gralise to Alvogen for $127.5M; shares up 40% premarket",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Hedge Funds Are Souring On AMAG Pharmaceuticals, Inc. (AMAG)",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "With high-level net margins, low debt levels and cheap valuation multiples, MU stock is poised to benefit from secular growth trends. The post Micron Is a Great Bargain at Current Prices appeared first on InvestorPlace.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Disney may have overtaken Netflix in terms of total premium streaming subscribers, but it's lagging in just about every category that truly matters.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Apple is expected to unveil the 14th series of its iconic and ubiquitous iPhone on Wednesday at its first in-person product launch event since before the coronavirus pandemic began.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Microsoft's price has declined by 26% since February when I wrote that it was the best stock to buy if its valuation ever ceased to be extreme. Here we review how its earnings forecasts, debt situation, dividends, and P/E ratio have changed over this period to determine if that valuation has improved enough to make it tempting.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Target EPS beats by $0.17, beats on revenue",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Materials Up After Xi's Comments On Trade Relations -- Materials Roundup #economy #MarketScreener\u2026 https://t.co/SSSX4EEXJl",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Microsoft Corporation is ranked amongst Joel Greenblatt's personal favorites for companies with exceptional, consistent ROIC. The company has fallen almost 27% year-to-date.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$IBM staying strong",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Apple: The Best Defensive Stock While Still Playing Offense On The Way To $250",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "EPS dropped to EUR0 .2 from EUR0 .3 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "The fair value change of investment properties was EUR 15.8 mn , compared to EUR 22.9 mn in the third quarter of 2009 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Only the driver was left in the car with the suspect , who was kidnapped and forced at gunpoint to drive to Durham .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$CNP Sell Short Position on CNP,...Closed for Profit $ 59,367.00 (7.75%) http://stks.co/ghjc",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Amazon is already offering early Black Friday deals -- but the big weekend is just ahead.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "Synergy Pharma Soars 67% Today On Positive Phase 3 Results $SGYP http://stks.co/j2awg",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "As consumer spending slows, fuel costs rise, and chances of recession remain high, J.P. Morgan tech analysts moved to lower their financial expectations for all companies in their coverage on Wednesday.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/xDGrAExkKz",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The \u201cSquawk Box\u201d team discusses Netflix second quarter report coming out later today, the company faces strong headwinds including subscriber loss. Johnson & Johnson earnings beat estimates.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "The first quarter of 2022 has signaled an end to the monetary policy-driven bull market that lasted from the Covid-19 market crash in March 2020 all the way through the end of 2021. The combination of low interest rates, heavy money-printing and easy access to corporate debt has finally made its way through the economy to cause inflation the likes of which we haven't seen since the 1980s.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "$Oil slid to a four-year low after #OPEC kept its oil production unchanged  http://stks.co/a1IX4 $USO $WTI $Brent",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "Triumph EPS beats by $0.03, beats on revenue",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Rolls-Royce Wins $9.2 Billion Order From Emirates Airline",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Boeing stock price target raised to $427 from $406 at CFRA",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "After Micron Technology Inc. (NASDAQ: MU) released weak fourth-quarter guidance, Advanced Micro Devices Inc.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Net interest income was EUR 152.2 mn , up from EUR 101.0 mn in 2008 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "In January-November 2009 , the group 's sales totalled EUR 7,801.7 mn , which was a drop of 12.6 % from the same period of 2008 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$XLB the weakest sector this year and possible false breakout  http://stks.co/dL1Z",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Apple Inc. is promising to limit its use of nondisclosure agreements and clarifying its policies on employees' right to speak out in cases of discrimination and harassment after shareholders pressured the company about its practices.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "SABMiller revenue hit by weaker EM currencies",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Finnish industrial group Ruukki Group has brought counter action against Finnish metal company Rautaruukki in the dispute concerning the names of the companies .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Canadian dollar slips to 4-month low as virus worries offset housing gains #economy #MarketScreener\u2026 https://t.co/4feqIgMwiB",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Gold hits 4-month high after U.S. strike kills key Iran military leader https://t.co/zWPGVNbFHn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "Hexo's Q1 Report Could Be Ugly, Says Cantor Fitzgerald",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Sales for the Department Store Division increased by 15 % and sales for the clothing store subsidiary Seppala increased by 8 % Meanwhile sales for Hobby Hall decreased by 12 % .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "The Estonian electronic components factory , Elcoteq , is running out of material because of the closure of air traffic .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Take-Two (TTWO) delivered earnings and revenue surprises of 29.20% and 0.69%, respectively, for the quarter ended December 2021. Do the numbers hold clues to what lies ahead for the stock?",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "`` We are proud to contribute to the creation of a world-class airport facility with KONE 's innovative People Flow TM solutions .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Gas prices are high because refiners are squeezing the market, knowing that their industry has a sell-by date. The post What Drives Gas Prices?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$AIKI bouncing nicely.....",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Stocks turn positive ahead of China press briefing",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Apple Inc (NASDAQ:AAPL) warned that deliveries of its iPhone 14 will be lower than expected as Covid-19 continues to impact operations in China. China's zero Covid policy has meant its Foxconn, Zhengzhou plant has been \u201coperating at significantly reduced capacity\u201d, the Silicon Valley firm said on Sunday.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "However , the growth margin slowed down due to the financial crisis .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Ad sales growth will slow in 2023, but these stocks could all move higher.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "MGM Growth falls 1.1% after starting share offering",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "UPS resorted to asking temp workers to use their own cars to keep up with a record-breaking holiday season https://t.co/PXeXSNB6UA",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "The company behind one of the most popular game development toolsets has entered into an agreement to use Microsoft Azure as its official cloud partner.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Brazil said on Tuesday it is banning the sales of iPhones that don't ship with a charging brick. This decision comes two years after Apple stopped including charging bricks and earphones in the iPhone retail boxes to make them smaller and reduce the carbon footprint.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "HELSINKI ( AFX ) - Retail and wholesale group Kesko reported net sales of 659.4 mln eur for February , an increase of 10.8 pct year-on-year .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Apple is one of Twitter's top advertisers, and spent $48 million on ads in the first quarter of this year.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "The iPhone maker now accounts for 7.3% of the index, ahead of prior market leaders like Exxon Mobil, GE, AT&T, and IBM",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Amazon has been pummeled during the bear market, declining by nearly 50%. At about 1.6 times forward sales and 40 times forward EPS estimates, Amazon is finally cheap again.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Ruukki forecast a 15-20 % annual sales growth and a positive pretax result for 2010 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "This proven technology company should be a haven for investors during these uncertain times.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Severn Trent share price jumps as Canadian investor renews pursuit of utility",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Rumblings in the semiconductor supply chain unnerve investors ahead of earnings.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Qualcomm estimated a first-quarter profit between 46 and 50 cents a share , excluding certain items , below the analyst estimate of 61 cents a share .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "After seeing its Rivian investment gain by $12 billion in the fourth quarter, Amazon had to mark its stake down dramatically due to a slump this year.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Through this transaction we are able to participate in developing the industry .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$RNN More bleeding Monday.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Costco's valuation is at least double where it should be, using history as our guide.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Management believes Amazon Web Services is still in the early stages of growth.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "CNBC's Eunice Yoon reports on Apple's sales in China.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "The company 's consolidated operating profit amounted to EUR 15.86 mn , up from EUR 4.14 mn year-on-year .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "HELSINKI AFX - KCI Konecranes said it has raised its stake in MMH Holdings Inc , the owner of US-based Morris Materials Handling , to 90.9 pct from 74.5 pct .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "RT @ACInvestorBlog $AAPL still on track for $500",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Hyundai Motor, Kia Motors to keep Chinese factories idled until February 16",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "SysOpen Digia Plc , Press release , 7 February 2006 IBM Finland has rewarded its most distinguished partner companies for 2005 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Merged LSE and Deutsche B\u00c3\u0083\u00c2\u00b6rse would be led by Germany's Kengeter",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "And we're still talking about death. And you should be, too.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$IWM buy programs popping $iwm for close print cheap money means higher stock prices $spy robot buying",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$BWLD bearish engulfing candle",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Coronavirus Task Force Declares Public Health Emergency\u00a0https://t.co/lSodhOAQrj",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$TWTR sad the only thing to move this is a takeover rumor only to be sold off next day !",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Orion 's net profit for the third quarter of 2007 decreased to 36.5 mln euro ( $ 52.1 mln ) from 40.3 mln euro ( $ 57.5 mln ) a year earlier .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "ASML Holding NV\u00a0(NASDAQ: ASML)\u00a0reported fourth-quarter\u00a0FY21 revenue of \u20ac4.99 billion, up 17.2% Y/Y and missed the consensus by \u20ac130 million. The Q4 net bookings were \u20ac7.1 billion.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "$PCLN Back to Back intraday reversals look out below. Shorts moving in!",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "CNBC's Julia Boorstin reports on potential costs around Netflix's ad-tier subscription.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "According to Finnish Metso Minerals , the value of the company 's orders has gone up to EUR 1.9 bn in 12 months .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "ArcelorMittal misses on revenue",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Analysts at Wedbush remained confident that Microsoft Corporation (NASDAQ:MSFT)\u00a0can ride out the economic storm after the market gave the thumbs down to Tuesday's first quarter results. However, the broker reduced its price target and lowered estimates after the tech giant gave weaker than expected December guidance across the board with Azure growth expected to be in the 37% constant currency range (vs.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$TWTR The best scenario going forward is this stock slowly falling everyday....Which is quite probable...",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Operating profit fell to EUR 35.4 mn from EUR 68.8 mn in 2007 , including vessel sales gain of EUR 12.3 mn .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "I see a 20 percent upside in $FB shares from here",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "@HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "The tech giant is simplifying a complex takeover with a vague buzzword.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$SNAP - Loop turns bullish on Snap ad growth https://t.co/TekdZS48et",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The offer , deemed too low by Finnlines ' board , stands until 4 pm tomorrow .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "energy still failing to close above the 10D MA.  continues to stand out weak $XLE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "CompaniesNew Aggreko CEO to reshape business, strip costs",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "$TYC just about to break out to new highs, lots of technicals looking great right now.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "Added. Cost now at 1.54. Bounce off of Put OI & S1 pivot. @moteltan BTO $AAPL Apr 27 2012 605.0 Calls @ 1.66 for ride to 609 ish.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Shares of several companies in the broader technology sector, including Amazon.com, Inc. (NASDAQ: AMZN), are trading higher amid overall market strength as stocks rebound from recent weakness. The tech sector at large has experienced volatility amid rate hike concerns.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "$IACI http://stks.co/tJU Looks good on the weekly chart.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Pivotal Research upgrading $GOOGL to buy.  https://t.co/LSahepdqhD    #stocktrading",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Oracle will buy tens of thousands of GPUs from Nvidia.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Google on Wednesday unveiled an expanded lineup of hardware products in the latest sign it remains committed to moving beyond its core advertising business and competing with the likes of Apple.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "A historic day in a hard-fought battle as workers at Amazon's JFK8 fulfillment center have voted to unionize. Counting for the Staten Island, NY warehouse concluded this morning, approving the formation of a union: 2,654 to 2,131.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Frost sold shares for $ 19 million at $ 6.06-7 .12 per share , compared with Friday 's high of $ 11.33 and low of $ 10.14 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "According to Karhinen , OP-Pohjola is an exciting enterprise because the cooperation will bring huge opportunities for customers and the company itself .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "On #FEDDAY looking for a sharp move up in equities $AAPL $HD $LOW $FB seeing $UVXY $TVIX getting hammered, even though market is down.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Long $ENDP @ $26.23 on $AGN b/o rumor",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Tesco sales recover as focus returns to core business",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Toni Sacconaghi, senior research analyst at Bernstein, joins CNBC's 'Squawk Box' to lay out tech stocks to watch amid the recent sell-off of Nasdaq names.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Microsoft Corporation (NASDAQ: MSFT), Nio, Inc (NYSE: NIO) and Snap, Inc (NASDAQ: SNAP) are all trading higher in strong downtrends. A downtrend occurs when a stock consistently makes a series of lower lows and lower highs on the chart.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Apple reports earnings on Thursday for its fiscal third quarter ending in June.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$IWM same conditions that sent markets to tumble all hitting this week",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "E-commerce giant Amazon.com, Inc. (NASDAQ: AMZN) reported mixed earnings Thursday and announced guidance that came in lower than analysts' estimates for the second quarter. Here's why analysts are lowering their price targets and sound more cautious moving forward.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "$CAMT Looks like might break down. I'm out",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Google engineer dismissed after claiming LaMDA AI is sentient. Seven experts told insider it's unlikely \u2014 if not impossible.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "The CL51 is designed to measure cloud base height and vertical visibility in all weather conditions , which makes it an ideal instrument for meteorological applications that rely on reliable cloud height detection .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "In the first half of 2008 , the Bank 's operating profit fell to EUR 11.8 mn from EUR 18.9 mn , while net interest income increased to EUR 20.9 mn from EUR 18.8 mn in the first half of 2007 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Goldman adds Workday to conviction list; shares +1%",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "3 semiconductor stocks to watch on this shortened holiday trading week.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Kazgiprotsvetmet and Outotec Finland have signed an agreement on strategic cooperation in the marketing and providing of minerals processing and metallurgical plants and related services in Kazakhstan and the surrounding countries .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Nvidia could surge again this year based on its huge free cash flow. NVDA stock is still worth at least 51% more based on a 30% FCF margin for 2022 and a market valuation using a 1% FCF yield.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Amazon's grocery deal with Morrisons is only the beginning",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: positive, negative",
+        "input": "Pivotal Research upgrading $GOOGL to buy.  https://t.co/LSahepdqhD    #stocktrading",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Amazon said in a new report that it blocked 4 billion counterfeit listings from being posted last year, and that it got rid of more than 3 million phony products.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "According to Viking Line 's Managing Director , Nils-Erik Eklund , the company 's Board of Directors is very satisfied with Viking Line 's performance .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "Microsoft Corp. has received a pass from regulators keen to take on Big Tech in recent years, but it may have just forfeited that pass by making a run at the biggest tech acquisition in history for a company fraught with issues.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: positive, negative",
+        "input": "$SGH: SMART Global beats by $0.02, beats on revs; guides Q3 EPS in-line, revs in-line https://t.co/dvUyxPP0qW",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "`` The new structure provides better communication , faster decision-making and cost savings , '' Proha said .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "UK's FTSE has worst day so far in 2015 as BG and Prudential fall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this tweet related to finance.\nOptions: negative, positive",
+        "input": "RT @Dasan @TMTanalyst ...since $AAPL mastered their supply chain // in cornering NAND, Apple mastered EVERYONE'S supply chain!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Earnings per share EPS are seen at EUR 0.56 , up from EUR 0.38 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "One of the key indicators investors are looking at these days when deciding where to invest their money is layoffs. The strategy, referred to as a layoff watch, is quietly gaining a niche-following in investing circles.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Aviva Fined $27 Million by U.K. Regulator Over Fee Failings",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair value for shares in four of the largest Nordic forestry groups .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "StanChart and RBS struggle in Bank of England stress tests",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "Intuit CEO Sasan Goodarzi joins Yahoo Finance Live to discuss earnings, recent acquisitions, tax season expectations, and the outlook for growth.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "Tesco sells Blinkbox and broadband service to TalkTalk",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Yahoo Finance Live's Alexis Christoforous speaks with JobsOhio CEO & President J.P. Nauseef to discuss the new Intel chip factory that's projected to bring 10,000 jobs to Ohio.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: positive, negative",
+        "input": "Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: positive, negative",
+        "input": "The third order awarded to Outokumpu Technology is by Shalkiya Zinc of Kazakhstan for the Shalkiya zinc-lead project in Kazakhstan .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The gap between shares' current price and what Microsoft's offering looks too good to pass up.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: positive, negative",
+        "input": "Ruukki forecast a 15-20 % annual sales growth and a positive pretax result for 2010 .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: positive, negative",
+        "input": "Microsoft Corporation (NASDAQ: MSFT)\u00a0shares are trading lower by 1.89% at $269.42. Microsoft is trading lower amid overall weakness in tech names as market indexes are trading lower on continued volatility.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "SABMiller revenue hit by weaker EM currencies",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "DoubleVerify partners with Netflix to enhance digital advertising, lifting both stocks. Netflix earnings on tap.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "The streaming industry has considerable entry barriers, which holds new competitors at bay. A few big players will likely survive and Netflix is one of them. The market likely overdid itself, valuing Netflix below pre-pandemic levels.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the news's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Royal Mail 'breached competition law' over delivery service changes, Ofcom claims",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "energy still failing to close above the 10D MA.  continues to stand out weak $XLE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "A Wall Street Journal report says that Activision Blizzard has allegedly fired or pushed out 37 employees since last July's lawsuit.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "MillerCoors Delivers 2.9% Underlying Net Income Growth for 2014",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the tweet from financial perspective.\nOptions: negative, positive",
+        "input": "longed $AMZN 300 @ 189.82",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input news from financial perspective?\nOptions: negative, positive",
+        "input": "Estonian telecoms company Elisa 's customer numbers cross 400,000 TALLINN , Oct 22 , BNS - The Estonian telecommunications company Elisa won approximately 50,000 new clients in the nine months of this year , bringing the number to 401,800 by the end of September , the company said .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment expressed in the news from financial perspective.\nOptions: negative, positive",
+        "input": "AstraZeneca chases Acerta to secure next cancer drug winner",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input news's emotional tone into one of three groups.\nOptions: negative, positive",
+        "input": "Operating profit was EUR 0.6 mn , up from a loss of EUR 19mn a year earlier .",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the input tweet from financial perspective?\nOptions: negative, positive",
+        "input": "Hedge Funds Have Never Been This Bullish On Diamond Hill Investment Group, Inc. (DHIL)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Categorize the input tweet's emotional tone into one of three groups.\nOptions: positive, negative",
+        "input": "$CE - Celanese Q4 profits almost halved https://t.co/YtgFEn6qWT",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: positive, negative",
+        "input": "Spain's Caixabank launches new takeover bid for Banco BPI",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Shares of Cano Health Inc. CANO, +14.83% , which provides primary care to seniors, soared 17.6% in trading on Monday, while shares of Oak Street Health Inc. OSH, +4.59% , another medical provider for people covered by Medicare, jumped 3.5%. Amazon Inc. AMZN, -3.26% , CVS Health Corp. CVS, -1.51% , and UnitedHealth Group UNH, -0.31% are reportedly in a bidding war to buy Signify Health Inc. SGFY, +36.84% , a home-health provider, according to a report in The Wall Street Journal.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Advertising is one of Amazon's fastest-growing businesses, but other retailers are scrambling to copy its success.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Characterize the tweet's sentiment using the following options.\nOptions: negative, positive",
+        "input": "Vans parent VF Corp. says China stores still open have seen 'significant' declines in retail traffic",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assign a sentiment category to this news related to finance.\nOptions: negative, positive",
+        "input": "Sales of mid-strength beer decreased by 40 % .",
+        "output": "negative"
+    }
+]

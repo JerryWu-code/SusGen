@@ -5,6 +5,8 @@
 #############################################################################
 # Package for fine-tuning the Mistral-7B model with Lora
 import torch, os, json, wandb, warnings, transformers
+os.environ['MASTER_PORT'] = '29501'
+
 from transformers import (
     AutoModelForCausalLM, 
     AutoTokenizer, 
@@ -46,12 +48,28 @@ def accelerator_setup():
     accelerator = Accelerator(fsdp_plugin=fsdp_plugin)
     return accelerator
 
-def data_2_prompt(record):
+def data_2_prompt_short(record):
     if not record["input"]:
         text = "[INST] ### Instruction: {0}\n\n [/INST]### Response: {1}".format(
             record["instruction"], record["output"])
     else:
         text = "[INST] ### Instruction: {0}\n\n### Input: {1}\n\n [/INST]### Response: {2}".format(
+            record["instruction"], record["input"], record["output"])
+    return text
+
+def data_2_prompt_formal(record):
+    if not record["input"]:
+        text = (
+            "[INST] "
+            "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
+            "# Instruction:\n{0}\n\n [/INST]# Response:\n{1}").format(
+            record["instruction"], record["output"])
+    else:
+        text = (
+            "[INST] "
+            "Below is an instruction that describes a task, paired with an input that provides further context. "
+            "Write a response that appropriately completes the request.\n\n"
+            "# Instruction:\n{0}\n\n# Input:\n{1}\n\n [/INST]# Response:\n{2}").format(
             record["instruction"], record["input"], record["output"])
     return text
 
@@ -154,7 +172,7 @@ def print_tranable_params(model):
     print(f"Total parameters: {all_params}")
     print("Trainable parameters ratio: {:.2f}%".format(100 * trainable_params/all_params))
 
-def get_tokenized_prompt(tokenizer, hparams):
+def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
     def wrapper(record):
         if not hparams["max_length"]:
             result = tokenizer(
@@ -201,12 +219,12 @@ def main():
         "lora": True,
         "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
-        "model_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
+        "model_path": "../../../ckpts/Mistral-7B-v0.2-hf",
         # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
         "lora_path": None,
 
         # start config the tokenizer
-        "tokenizer_path": "../../../ckpts/Mistral-7B-Instruct-v0.2-hf",
+        "tokenizer_path": "../../../ckpts/Mistral-7B-v0.2-hf",
         "use_fast": False,
         "padding_side": "left", # set to left use less memory
         "truncation_side": "right", 
@@ -220,9 +238,10 @@ def main():
     }
 
     # Set up the wandb login
-    base_model = "Mistral-7B"
+    base_model = "Mistral-7B-Instruct"
+    # base_model = "LLaMA3-Instruct"
     # project = "susgenv1-lora"
-    project = "alpaca-lora"
+    project = "susgen30k-mistral-int4-adamw32"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
 
@@ -241,13 +260,15 @@ def main():
 
     # load the dataset
     # data = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
-    data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
+    data = load_dataset("json", data_files="/home/whatx/SusGen/data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json", split="train")
+    # data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     train_data, val_data = split_data(data, split_ratio=0.005)
     # print(alpaca[0])
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
-    tokenized_train_data = train_data.map(get_tokenized_prompt(tokenizer, hparams))
-    tokenized_val_data = val_data.map(get_tokenized_prompt(tokenizer, hparams))
+    data_2_prompt = data_2_prompt_formal
+    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
+    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
     print(tokenized_train_data)
     # plot_data_lengths(tokenized_train_alpaca, tokenized_val_dataset=tokenized_val_alpaca,
     #                   save_name="figs/alpaca_gpt4.png")
@@ -263,21 +284,21 @@ def main():
             output_dir=output_dir,
             deepspeed="./configs/ds_configs/ds_config_stage_2.json", 
             # Use deepspeed for training acceleration(if not could comment out)
-            warmup_steps=250,                # Number of steps for the warmup phase
+            warmup_steps=500,               # Number of steps for the warmup phase
             # max_steps=7000,               # Total number of training steps
-            num_train_epochs=3,             # Number of epochs to train the model
-            per_device_train_batch_size=16,
+            num_train_epochs=5,             # Number of epochs to train the model
+            per_device_train_batch_size=32,
             gradient_accumulation_steps=5,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
             lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
             bf16=True,                      # Use bfloat16 for training
-            optim="paged_adamw_8bit",
-            logging_steps=25,               # Log every ... step
+            optim="paged_adamw_32bit",      # adamw_apex_fused, adamw, paged_adamw_8/32bit
+            logging_steps=10,               # Log every ... step
             logging_dir=logging_dir,        # Directory for storing logs
-            save_strategy="steps",          # Save the model checkpoint every logging step
+            # save_strategy="epoch",          # Save the model checkpoint "steps", or "epoch"
             save_steps=500,                  # Save checkpoints every ... steps
             evaluation_strategy="steps",    # Evaluate the model every logging step
-            eval_steps=500,                  # Evaluate and save checkpoints every ... steps
+            eval_steps=250,                  # Evaluate and save checkpoints every ... steps
             do_eval=True,                   # Perform evaluation at the end of training
             report_to="wandb",              # Comment this out if you don't want to use weights & baises
             run_name=f"{project_name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}"   
@@ -312,3 +333,4 @@ def test():
 if __name__ == "__main__":
     # test()
     main()
+    # CUDA_VISIBLE_DEVICES=0,1 python finetune.py

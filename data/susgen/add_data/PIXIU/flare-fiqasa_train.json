@@ -1,0 +1,3752 @@
+[
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Whats up with $LULU?  Numbers looked good, not great, but good.  I think conference call will instill confidence.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "Greene King's third quarter sales boosted by festive season",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "@scottrade Why is $tsla not available for shorting at this time?  Same for $w?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "Infection worries prompt regulatory reviews of Gilead leukaemia drug $GILD https://t.co/H9vqXpZ15G via @YahooFinance",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "I'm liking the price action in $SWKS, currently @21.80 ; my target: 24.00+ before year end.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Dairy Crest loses a third of Morrisons milk contract",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "$V A potential bearish shark pattern if point B $226 to be taken out. http://stks.co/i0GGH",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "$NUAN held up well after the big gains! Maybe we're finally on the move on this!!its still very undervalued and has major upside",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "Irish housebuilder Cairn Homes plans London listing",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "BRIEF-Legal & General's retirement business books 4 billion stg H1 sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "Upside moves in the volatile #mining sector, sending Anglo American PLC $AAL up 6.8% as of 4:30 PM, London time",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "Verizon and AT&T accused of hurting rivals",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "Keith Skeoch to step up as David Nish quits as chief executive of Standard Life",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$FB  rejecting HIGHS shortable...at 109",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "UK's FTSE has worst day so far in 2015 as BG and Prudential fall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Really surprised by how much $FB has now fallen. Thought there'd be some support around the 50d, but I guess not.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$HYG Potential continuation Uptrend on a 60'-15'-4' charts http://stks.co/t1Qp6",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "$NFLX +3% of the lows",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "Word on the street is that Allergen is looking at Endo International after the failed Pfizer merger. May-20 $35 calls active. $ENDP",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "RBS chairman admits surprise at size of regulatory penalties",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Profit taking on $AAPL this morning?  That has to be the pressure on the stock.  I'm still bullish on $AAPL.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Long $ENDP @ $26.23 on $AGN b/o rumor",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "$SLV -4.44% at 18 now AWFUL, down from 42.50",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "Morrisons finance chief to fill gap as CEO leaves early",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "Despite sales growth, UK's Tesco cautions recovery to be bumpy",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "Japan's Nikkei lands Financial Times in $1.3 billion deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "$Oil slid to a four-year low after #OPEC kept its oil production unchanged  http://stks.co/a1IX4 $USO $WTI $Brent",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$FB down 7.5% from this #bearish pattern.  Considering the #bullish sentiment - That's an impressive bearish move https://t.co/TaJF0cH2qh",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Standard Life share price: Insurer buys advice firm Pearson Jones",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "NYSE owner ICE may gatecrash Deutsche Boerse-LSE merger",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$AGN and $PYPL under pressure along with the market, however there were bullish options trades in both this morning https://t.co/9xG5W8nONT",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$LNT Increases Annual Dividend Target to $1.80/Share from $1.70/Share",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "@StockTwits: @Kbkiwi: $TSLA Tesla Model S sales exceed target, profitability guidance amended upward: http://stks.co/jQ0w\"\"",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$AAPL iPhone shipments on track to exceed forecasts - MarketWatch https://t.co/2CXahJIX7d",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "The Boeing Company (NYSE:BA) Bearish Trader bets $550K that Stock Will Sell Off 9.79% by July Expiry $BA http://stks.co/tCSE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "StanChart and RBS struggle in Bank of England stress tests",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "$DDD 3D Systems (DDD) Stock Receives Ratings Downgrade Today at Jefferies http://stks.co/g1cqd",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$AMZN trades in mid to upper range. No break out yet, either direction",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "$WGO's BoD was right to reject the offer. That company is low because of the economy, not because of any type of mismanagement or anything.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Engineering firm Smiths Group confirms CEO appointment",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "EA Launches Origin Online Game Distribution for Mac http://stks.co/aKTU via MacRumors $EA",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "$SPY Long 1/2 position 137.89",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "Germanwings disaster will not affect image of budget air travel - easyJet",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$TSLA recall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Aviva weighs cash handout after beating profit forecast",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Long $TSLA short $MBLY https://t.co/jSpUSzo6na",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "$MOS looking good here at $58.65. Calls are active in this month and weekly",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "@TraceyRyniec not just energy, it's so broad. You will see it in WWG and Kaman as well. I'd be short $fast",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Sanofi poaches AstraZeneca scientist as new research head",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "$vxx adding to position here !",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "$NFLX VISION : short term consolidation then movement higher http://stks.co/j05uu",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$GTE LONG at 7.44",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$DGI technical alerts: Gilligan's Island Buy Setup, Stochastic Buy Signal, Lizard Bullish, Hammer Candlestick, Wid... http://stks.co/c29Nu",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Arm slammed by handset sales outlook",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "$P bull flag on the daily, earnings on the table tomorrow +/-12 move.Will straddle this one into earnings..lots of vol guaranteed here",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "Facebook $FB received a Buy rating from Wells Fargo 5-star Analyst Peter Stabler (Wells Fargo) https://t.co/jnB4c9vdCu",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$UBNT still having some trouble at the resistance line. Should resolve soon.@cheri1 @strattonite   http://stks.co/c0sU4",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$AAPL a new long IF 110.61 is broken. Targets are 112.19, 119.86 & 123.82. Bears must retake 102.77. $QQQ $NQ_F $NDX https://t.co/6l3m1wXChw",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "Short more $FAZ for all who don't know that means markets will tank now :-p",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "$ONTY Continues to base as debate lingers. ONT-10 data next potential catalyst. If positive, stock quickly moves to $10. Downside limited.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$HAL If bulls lucky enuff to get an upside gap fill, better take it. Wouldn't chase it here. http://stks.co/r12Us",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Preparing for a Breakout Trade in Netflix $NFLX  https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "@Intuitiv $CLNE gasoline prices spike in California. http://stks.co/t1bOi",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "Looking for a strong bounce $SPY -- Lunchtime rally coming. $DIA $IWM $QQQ $AA $FB",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$CHRM Loooooongggggg base",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "Tata Steel working with StanChart for UK unit sale - source",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$amzn breaking",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "RT @joemccann the correleation between the dollar index and $SPY is simply amazing. $DX finds support, $SPY retreats like clockwork",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "Spain's CaixaBank Expects To Close Deal For Banco BPI",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "FDA approves AstraZeneca drug for advanced lung cancer",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "UPDATE 5-Barclays Chairman McFarlane axes CEO to speed up strategic change",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "RBI surprises Street; Sensex pares gains after hitting mount 30k",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "CompaniesNew Aggreko CEO to reshape business, strip costs",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Cypress Semiconductor offers to buy Integrated Silicon Solution",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Petrofac share price rises despite \u00c2\u00a330m costs on North Sea project",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "RBS will reportedly appoint Howard Davies as its next chairman",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Royal Mail share price edges lower as group raises stamp price",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "$EDU bouncing nicely after add-on (posted)",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "Entertainment One dispels ITV takeover rumours",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$NUGT Gold above 1400...wow",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "$BBRY nice bounce",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "BG Group appoints new CEO one month early",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Diageo Shares Surge on Report of Possible Takeover by Lemann",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "After Barclays and Bank of America, Citigroup has blockchain in sight",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$AAPL Good time to buy. Will the run come before earnings or after?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "Passengers rise at EasyJet and Aer Lingus",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$HLF shorts made a killing last couple days, might make more if cover and buy back?",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$JE LOOKS like we are bouncing.  Would be nice to finish over $6 today, and make the hammer.  Nice volume from 5.77 bottom.  Fingers crossed",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "$AAPL I'm sure those short are holding their breath hoping for a miracle. lol",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "BULLISH Engulfing of COCA COLA: http://stks.co/fYCo $KO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "$XLB the weakest sector this year and possible false breakout  http://stks.co/dL1Z",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$YHOO fishy action. New party interested (DailyMail) bounce & retreats. Not short by any means, but action questions big up move. Thoughts?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "$GPS Gap September Comparable Store Sales -4%",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$XLF http://stks.co/1KJ9 Bounced off target buy area, bought $skf as a hedge. watch 50ma's slope",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "$GALE Breakout Coming Soon!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "InterContinental Hotels Group share price climbs on $1.5bn special dividend",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "Shell's $70 Billion BG Deal Meets Shareholder Skepticism",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "AB InBev offers SABMiller $3 billion breakup fee",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Whitbread share price climbs on Q4 sales growth",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "Glencore slumps 30 percent as debt fears grow",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/j35FNnx744 $AAPL #APPLE $AXP $BAC",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$ACAD under $2 today?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "Double bottom with handle buy point of 56.49 $WMT http://chart.ly/ml857v3",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$FB trending nicely, intraday.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Hargreaves Lansdown share price falls as costs mount - although pensions ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$AAPL Right back in ... - Buy the dips brought to you by CNBC. LOL",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "$GPRO down 25% since Tue morning.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "BHP Billiton drags FTSE lower after slashing dividend",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "StanChart and RBS struggle in Bank of England stress tests",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Dixons Carphone profit boost on strong sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Tesco share price closes higher as two more directors leave grocer",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$GOOGL is a short below 740 into the upper BB and is overbought",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "Glaxo's ViiV Healthcare Signs China Manufacturing Deal With Desano",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Companies Thetrainline.com announces arrival of London IPO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "FastJet slams EasyJet founder Stelios for going public, is 'taking legal advice' over letter about contractual ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$PCLN Back to Back intraday reversals look out below. Shorts moving in!",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift.  https://t.co/oKTCw4YiB5",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$PRLB hanging tough in down market due to analyst upgrades last week. Up almost 3%.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$FB still a dog going much lower this week",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "$IDCC - $89 share total value of company after crunching #'s. The 4g technology is their diamond in the rough.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "$INTC & $AAPL strong, tech leads DOW higher",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$SPY Less than 0.2% down and people are calling it bearish. Some heading for exits already. Maybe 1% down will be \"the crash\"? Disturbing!",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "Investors Remain Skeptical About Shell-BG Deal",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Citigroup to Sell OneMain to Springleaf for $4.25 Billion",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "@Stockoptionexpert: $MAT - 6%, big trader added 10000 April put contracts 3 days ago  http://stks.co/c1Ols",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty $SBUX https://t.co/Xk6lZ3UI3K",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "$SIGA Bid for Reargument Denied by Judge",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$RUSS Don't catch falling knives, but I think an entry is coming soon on this",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Long $GPRO for a brealout trade",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$GNRC finding support at its 10-day line so far.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$TSLA You have to love these types of articles. SS interest rose on 12/15 on day before we hit our lows. http://stks.co/c1QKr",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$TSLA announces a recall and the stock doesn't sell off. This stock is teflon. Won't last forever.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?",
+        "input": "UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "$TSLA weakest in todays DT watchlist",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "End Of Day Scan: Bullish MA  Crossovers $BBVA $PDS $NTLS $NGL $SBRCY $FGL $MTNOY $TTT  www.dailystockplays.com",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "CompaniesHoward Davies appointment as RBS director delayed",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "$FB gettin in the buy zone soon ;)",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$NFLX small pos, short 180 wkly puts.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "Synergy Pharma Soars 67% Today On Positive Phase 3 Results $SGYP http://stks.co/j2awg",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$REN bottoming out again.. Good time to buy",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$AAPL Taking out the shorts here, a punishing reminder not to spear the  strongest in the herd.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "ITV share price: Group mulls takeover of Canada's Entertainment One",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "It's a bad idea to make 5 min predictions based on faith: RT @dandyduct $AAPL Sell signal hit at 584, it will go down for the next 5 min",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "Glencore fight back over debt fears lifts shares",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "Yahoo stock is up to $36.46 as the bidding war picks up for the company https://t.co/JDNZXDCMkl $YHOO https://t.co/HmOegfHgvn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$ES_F. Nice little cup-and-handle shaping up on the 15-minute. End-of-day $SPY $SPX favours a good day for the index. Will we see a gap open",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "@SOULLOR the regular scrappy Q $SWY usually presents. Sales weak, margins down, debt still way up.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "what is up with $HK..... from Jan to now it's been a sinking ship...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$DISH weakness continues again. 49.43 area resistance after last week",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "GKN to buy Fokker Technologies for 706 mln euros",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Crown Castle buys Tower Development Corp for $461 million",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$SSYS just re-tested lows . Should rise steadily from here. It hit $81 just 21 trading days ago, and $130.86 on Sept 18. It'll do it again.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$AMZN long into earnings. looks good over 600",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Tesla is recalling 2,700 Model X cars: https://t.co/8Z7BkVsTl9 $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "energy still failing to close above the 10D MA.  continues to stand out weak $XLE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "Persimmon share price climbs on 23% rise in full-year revenue",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Royal Dutch Shell profit rises; dividend up 4%",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "$TSLA I see more downside in next two weeks be careful -20 dollars drop potential vs +10 up moved",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "Tesco sales rise shows tentative recovery continues",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "HSBC appoints business leaders to board",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "GlaxoSmithKline targets growth across units, scraps ViiV IPO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "$QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Drugmaker Shire to buy Baxalta for $32 billion after 6-month pursuit",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Petrofac books further \u00c2\u00a330m cost for Shetland gas terminal delays",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Also, BMO had just initiated $incy with an outperform yesterday, while several other firms all reiterated buy ratings.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Tesco sells Blinkbox and broadband service to TalkTalk",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$ACOM http://stks.co/1G6x Downside breakout looks to be coming soon.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$TSLA Wish had my puts back but see if we can find support around 243.39 and pop up so that I can get back in. https://t.co/hFkLq3WObV",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "$FB slight green... May be runner later",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "$AAPL Dips being bought up real quick. Higher lows fo sho",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$SPY  still wants higher I think.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Still short $LNG from $11.70 area...next stop could be down through $9.00. Someone slammed it hard with 230,000 shs this am! More to follow",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "$COST short finally making gains. I will take half my gains at 147",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "MT @TheAcsMan Amazing seeing everyone suddenly touting $MSFT. Long been favorite covered call & double dip dividend play.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$FB (110.20) is starting to show some relative strength and signs of potential B/O on the daily.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "Glencore chief blames rivals' overproduction for share price fall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$IBM staying strong",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$aapl short term fund/redemption liquidations.. Should have the channel cleared soon and on solid footing. $520 is new floor come July! :)",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$AAPL 620 resistance area",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Australia clears AB Inbev's $100 billion SABMiller buyout plan",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Barclays appoints JPMorgan's Paul Compton as new COO",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "$INTU is in the process of streamlining its structure, especially through divestment of non-core businesses   https://t.co/dR5baNun2u",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "$TXRH reports Q1 EPS of $0.37 versus the estimated $0.35, beating by $0.02. EPS were Up 19% from the same quarter last year.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "Nasdaq Sets Up for Breakout Part II | via @AllStarCharts http://stks.co/15Nv  $GOOG $AMZN $QCOM",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$TSLA TO RECALL 2,700 MODEL X SUVS FOR SEAT-BELT FIX",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Reed Elsevier share price slides on underwhelming full-year results",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "FDA approves NPS drug, in move validating Shire takeover deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "Shell share price: Standard Life announce position against BG acquisition",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "Casinos red before the bell: $LVS -0.75%, $WYNN -0.47%, $WYNN -0.47% > unusual comibinations of what's running, what's red before the bell",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "$TSLA <STUDY the CHARTS> Pullback_Time https://t.co/ZMDG0fb3I7",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$IMRS - it's important to be pragmatic in analysis...high prices could offer head-winds....bullish story intact,evenif the market rolls over",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "$AAPL price momentum weakening going into the close.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "Breaking 52 week highs timing looks great now $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$BAC in for swing trade  looks like want go up",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$ETN UPGRADE today by MS to overweight.  Excellent company and leadership",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$PLUG bear raid",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Lloyds to cut 945 jobs as part of three-year restructuring strategy",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "Spain's Caixabank launches new takeover bid for Banco BPI",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL  Autocharts @ https://t.co/nxLx1ES7nY",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "Tesco set to sell Kipa, Giraffe businesses - Sky News",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "FTSE 100 drops 2.5 pct on Glencore, metals price fears",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Novartis buys remaining rights to GSK treatment in deal up to $1 billion",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Pearson expects to grow this year after solid end to 2014",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$BBRY Ready for Take OFF!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "@technik I still have a smaller $GILD pos. Being very tender with cash due to volatility. So reluctant to keep many big positions.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "Sold out $TZA 45 $PUT (down $1), which were hedging my 45 $CALL. Letting the calls ride solo now.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$CNDO 21% short float, shorts likely to take profits into close",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "BG Group Still Happy With Shell's $70 Billion Offer",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "2nd raise this year.  \"@BVHealthcare: $QCOR Questcor Increases Quarterly Cash Dividend 20 Percent.. http://stks.co/goan\"",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$FB bot some @78.47 breakout from the consolidation zone :D",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "Buffett's Berkshire builds Deere stake, dumps Exxon",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "European shares plunge, roiled by BHP and oil; hopes turn to ECB",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "AB InBev ups offer for SABMiller as deadline looms",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "$RNN More bleeding Monday.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "$BONE Earnings Stocks Poised to Pop http://stks.co/2zWE",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "$TSLA stock gaining steam... Plus other notable moves from this week: https://t.co/Hz0wdp5za1",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$PAY 2nd time test of the 21.20-30 b/o zone.  Still not breaking out.  Moved my stop up to 20.80.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$AMCN pushing highs",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$GOOGL is setting up above its 50-day moving average. https://t.co/tTm9RnFoXJ",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "NaturalGas Settles At 3-year Low $DBO $BNO  http://stks.co/d27qX",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Royal Mail chairman Donald Brydon set to step down",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "$SDS +1.46% 15.32, picking up some speed. May 16 calls now +35% .19: http://stks.co/3eiK, Next week $16 calls .11c: http://stks.co/3eiL",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Chime Communications Set To Be Acquired By WPP And Providence",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "@louiebeene vwap is 1.63, held the trend line. Should be on a LOT of radars. $NAVB",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca to Buy ZS Pharma for $2.7 Billion",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/xDGrAExkKz",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "$FB turns back down in early trading.... https://t.co/reuf5PzhBm",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$GS is looking weak while this market is moving higher not a good sign. Unless $gs can get above 157. early short below 154.00 today.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "$AAPL Action into the close indicates that $AAPL probably hit a near term high.  Momentum slowing after a huge run.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "volatility squeeze in $AAPL. I hope it gets resolved to the upside",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "$IBIO  up 10% in premarket ready for lift off",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "$RAD All my charts are flashing oversold.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$ARIA This is the reason why shorts don't show up...long steady small climbs. The best way to accrue value. IMO",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Anheuser-Busch InBev Increases Offer for Rival SABMiller",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "$MA http://stks.co/1CYN continues to consolidate / base here",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Retailers Kingfisher and Sports Direct rise in Britain's share index",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Primark racks up a happy Christmas after strong sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "LSE-Deutsche B\u00c3\u00b6rse dealmakers wrong to ignore Brexit risk",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "SABMiller revenue hit by weaker EM currencies",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "AB InBev to Sell SABMiller Stake in China's Snow Beer",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "Look at that $AMZN > 600",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$CYTX looks like an ascending channel on Finfiz http://stks.co/f26r4",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "pretty steady accumulation off support today.  Purdy. $AGU",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$AAPL afternoon selloff as usual will be brutal. get ready to lose a ton of money.",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$RNN day traders flushed out, it should start going up slowly from now on .",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "Tesco sales recover as focus returns to core business",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "$AAPL 50DMA turned up, MACD crossover a half-a-hair away on the weekly. EOD break out likely.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "$CAT is hangin on my a thread. 1click away from a cliff drop.. Needs follow through (or snap-back on the VIX)",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$AAPL rejected the hod...should head lower. Sitting on the sidelines for now.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$BXS: BancorpSouth Announces Extension of Merger Agreements with ... http://stks.co/s2PDF",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$RNN staying above the open a very good sign!!!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "$SPY c'mon bulls buy DIPS!",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$ESI on lows, down $1.50 to $2.50 BK a real possibility",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$GTAT Will re-enter short on bounce...",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "RT FITZSTOCK2004: $IYT http://stks.co/1NBF the Transports always lead  the way, and  they broke DT  line  1st, MACD cross,  bull  flag=",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$WFM Bought a little yesterday, hoping for an earnings pop.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?",
+        "input": "$PG Ackman making the big added efficiency argument. betting on operational imporvement in a huge conglomerate can go either way imo.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Aviva Fined $27 Million by U.K. Regulator Over Fee Failings",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$SMH got a sell signal on 6/4 and needs to take out 39.28 to go higher otherwise headed lower than 37.60 gap below at 35.38",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "$DARA breaking out",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "Why Alphabet Inc was just upgraded to buy https://t.co/dEVnLKhqtZ $GOOGL",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Aberdeen AM posts H1 outflows, says conditions to remain challenging",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "PNC, Goldman Sachs Receive Dividend Hike Green Light (But Don't Act): http://stks.co/2pa7 $PNC $GS",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Micron Technology Inc #NASDAQ: $MU down 2.3% today and down 8.9% since being put on \"The Short\" https://t.co/EQQLTfUiOU",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "MillerCoors Delivers 2.9% Underlying Net Income Growth for 2014",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca suffers setback after drug fails to treat eye cancer",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$ENB.CA {Head&Shoulders} bullish reversal setup and breakout. Oil and Gas Pipleline stock. $USO",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Whitbread buys 49% stake in Pure food chain",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$ENDP being sued by FTC.....nobody will buy them with that hanging over their heads",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Shell challenges Exxon dominance with 47 billion-pound bid for BG",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$INVE : SEE YA ABOVE $8",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$TSLA gyrating @ S1 above gap. keeping an eye on S2 http://stks.co/jQfB",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$SKH http://stks.co/163e Long setup. Watch for continuation and volume expansion here. Hot sector.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "FTSE rallies off three-month low, boosted by StanChart, Sainsbury",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "$SPY weak close",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$AAPL short some 592.49",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "$AAPL Goldman Sachs reiterates conviction buy on Apple with a $155 PT $SPY $DJIA $GS https://t.co/h5hmXSITwM",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "$spy bumping its head on declining daily 8ma as overhead resistance. Then the big brother 50ma just above that.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "@Megaas2000 $AAPL McDonalds had a big GROWING success for years with the same BigMac and Apple update and improbe Iphone and Ipad",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$KO had missed earnings expectations for the last two quarters, so today\u2019s strong results came as a major surprise http://stks.co/d0RHF",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$spy $vxx $aapl the parties over loaded on $uvxy volatility is back",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$CIEN http://stks.co/dZU CIEN seems to have broken out of a major horizontal resistance. Targets $14.35.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$LSCC Accumulation chart continues to make new highs showing accumulation continuing to take place http://stks.co/aDpO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$AMZN rejected that 604 to the penny. Weak open and it goes r/g within first 30 mins, could have 8-10 points in it. https://t.co/58tEAEXxpE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "Rio Tinto swings to loss, drops dividend policy",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "Severn Trent share price jumps as Canadian investor renews pursuit of utility",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "Standard Chartered Not Raising Capital Yet As Dividend Cut",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "$NVDA sideways",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "$SKX turning. Coming from far could go far. Stock price implies you pay nothing for the business",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Bought some more $CELG as it is ready for a bounce.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "G4S slides on balance sheet worries",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$ARIA Bounce Player! Long above $6.17 http://stks.co/q0WfF",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "$WAC trade continuing very nicely from yesterday, almost up $3 from yesterday entry, deal pricing tonight looking very strong here... $SPY",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "$UTSI http://stks.co/15uR Long setup. Reported very good earnings.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?",
+        "input": "$NEON oversold",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "RT @jan $ARNA Don't think buyout rumor strong enough too be driving this up just yet...when it is this may fly like aapl...// fly how high?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "#Apple breaks major support, here are some levels to watch - http://stks.co/jRmW $AAPL $QQQ",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "FTSE falls to 3-month low on Greek debt concerns, easyJet skids",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$TSLA upgraded to Buy @ Argus w/ $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$FB churning in high volume @ IPO price. Lot's of sellers trying to get out. Might take a while here to consolidate before moving higher.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "CORRECTED-Shire to buy Dyax for about $5.9 bln",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "Intertek Group announces strategic update outlining its plan",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Standard Chartered lags on capital worries",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "$MXWL Oh snap. Just went long again. LT",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "Commodity Channel Index Indicator signaled a Oversold for $FB #stockmarket https://t.co/VM32d3M9xi https://t.co/cvkojk05Xn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Borealis Infrastructure putting together new Severn Trent bid",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$IWM same conditions that sent markets to tumble all hitting this week",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Builder Persimmon hails 6% rise in house sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA https://t.co/Vt6T5Zp2is",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$AAPL http://stks.co/1LDx Clearing this descending trend line / buy area now",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "CompaniesActelion shares hit record on Shire takeover talk",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "$YELP This goes green and so many shorts are toast!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$AMD big dumping... would not touch it for a while",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "Starbucks shares down as much as ~4.2% $SBUX https://t.co/JlgrprR54k",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "$AMZN Trailing 12 months operating cash flow rose 48% to $4.98 billion & free cash flow decreased 63% to $388 million http://stks.co/c06zG",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Buffett's Berkshire builds Deere stake, dumps Exxon",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "$AAPL Nice RSI 33 bounce at 9:58",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "GlaxoSmithKline set to complete $20 billion Novartis asset swap next week",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "RT @StockTwits RT @fallondpicks Breadth Consolidates: After weeks of steady gains,advances in mkt breadth slowe... http://stks.co/2TrG $QQQ",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "$IWM buy programs popping $iwm for close print cheap money means higher stock prices $spy robot buying",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "$DCTH Near HOD",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "TalkTalk hires BAE Systems to investigate cyber attack",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "Stakes High for AstraZeneca Heart Drug Facing Tough Competition",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "$CHKP ABC Bullish Pattern, Targets https://t.co/uVMmRSR5Zy",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$TSLA recalling pretty much every single model X @cnnbrk got to short that even at work you jump in money trade",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Should You Follow Berkshire Hathaway Into Apple Stock?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "Key level to watch in $FB for today is 25.53-- watching to see if it can hold as support http://stks.co/bOH4",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "France raises concerns over proposed LSE-Deutsche Boerse deal",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "Tesla Recalling 2,700 Model X Units, Related to Faulty Latch for Third-Row Seats; Fall To $252.50 Level on Recall, Shares Up 1%  $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "EU regulator backs approval for GSK injectable asthma drug",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "$STX move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "Royal Mail share price rallies amid positive broker comments",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "$CRUS Upgraded to a buy by Alpha Street Research",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Google, Inc. completes acquisition of ICOA, Inc. http://stks.co/nFEI $ICOA $GOOG",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Imperial Tobacco Adds Quarterly Dividends After Profit Rose",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Watch these bancos.they're holding up relatively well compared to the broad market $XLF $BAC $GS $C <--large C buying in $BAC in backburner",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "expecting  $SPY to close above 205.20 $AAPL",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "$YELP wayyy overvalued right now IMO. Should be trading single digits. May take a short pos. into earnings. Near term target 18 ......",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Entering long Lockheed Martin $LMT at Thursday's open. http://stks.co/eXtA",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$SBUX downgraded to neutral at Deutsche Bank. Price target reduced to $64 from $70.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$mako hanging in well today. still in a basing pattern. have eyes on it",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?",
+        "input": "Buyback not trending right ( $CPIX spending more as shares pricier). Hopefully will pull back w 6.87 Q2 closing VWAP",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$FB they are hitting  everything in sight.short it. but twtr",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Costco: A Premier Retail Dividend Play https://t.co/Fa5cnh2t0t $COST",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "Key price to watch in $NFLX, off the previous double top reject, 218.23 http://stks.co/sIYn",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "SAB's Chairman Digs In With Board Divided on InBev Offer",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "RECAP: $MSFT rumor this morning had them spinning off XBOX unit, stock grinds up all day to close on highs",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "@BrooklynBandit: $SIMO Basing nice. A close over 24.18 is bullish $QQQ $SPY $STUDY watch for a close near HOD. Currently up +3%\" up +5%",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$INO Up, up, and away!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$CTRP  breaking out here on good vol and a parser buy signal  ..noticed this on bob langs comments looking for 48 fast",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "i-Grid shows $DIA capped for the long term at range of 123.40- 124.77;any rally beyond today's levels or into this range leads to meltdown.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "FTSE edges up as investors cheer Kingfisher results",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "ESPN Files Lawsuit Against Verizon - http://stks.co/i2Cj1 $VZ",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "DJI overbought: $AAPL, $AXP, $BA, $CVX, $IBM, $INTC, $VZ https://t.co/wMy1PnomJF",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Facebook, near a buy point last week, faces a different technical test today https://t.co/c72LLMpiNM $FB $AAPL $NFLX https://t.co/fPFbYTYPuY",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Rival companies $GWR and WATCO eyeing $RA w take-over interest.  http://stks.co/o0xY",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "Berkshire Hathaway names Kara Raiguel to lead General Re unit",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "LSE-Deutsche B\u00c3\u00b6rse dealmakers wrong to ignore Brexit risk",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Shire share price under pressure after $32bn Baxalta deal",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "$tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$NFLX Easy pop to 500$ by end of feb.. Then steady as she goes for 600 into second earnings report..800$ year end no matter what",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "EU regulators clear $100 billion-plus AB InBev, SABMiller deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Shell challenges Exxon dominance with 47 billion-pound bid for BG",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$GDX $GDXJ $JNUG - strong move today for the Junior Gold Miners - keep an EYE out for a gap fill -",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "BHP Billiton slashes dividend, posts $5.67 billion net loss",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "I see a 20 percent upside in $FB shares from here",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "SiriusXM added 465,000 net new subscribers in the first quarter of 2016 $SIRI #CEO #sales #marketresearch #tech #entrepreneur #Speaker",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "MillerCoors Board Names Gavin Hattersley Interim CEO",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Morrisons and Debenhams surprise City with Christmas bounce back",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "News FeedFTSE 100 movers: Ashtead jumps on strong interims; Glencore, BP in ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "My $DWA play up 6% today. I'm still skeptical. Will take profits. Not a time cheer",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$FB I've been dead on so far. Such a bloated valuation. https://t.co/czCf8Kbrlt",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$TROW Ascending triangle gives a bullish bias to this chart. Breakout above 84 will be positive http://stks.co/g0ls5",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "CompaniesMeggitt profits hit by weak energy and military markets",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Aspen to Buy Anaesthetics From AstraZeneca for $520 Million",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$SPY Don't hang your bull hat yet. Next week we will pop higher on QE3 hope on back of fed's 2 day meeting.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$EXPE working on the second leg of its reversal run as it breaks another down trend and continues higher. https://t.co/76DSJysyR0",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "looks like a big feb 18-22 $put spread on $cree.  Last quarter 0% YoY rev growth trading @ 24x earnings.  I may try a short.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$FB i guess they want it down look at the those sell orders",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$UUP at major resistance right now. Can go much higher if it can break above. May take several attempts - few days to a week",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "Tesco criticised for 'disgraceful' advert showing domestic worker being slapped",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "Most bullish stocks on Twitter during this dip. $YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY more: https://t.co/iuZJelfwt3",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "3-star analyst Joe Wittine from Longbow Research reiterated a HOLD rating on $NTAP.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Long $PCLN",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "CompaniesAB InBev signals it won't go hostile for SABMiller",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "@REC_Zakaria Monday Bulls Are Out! Stock Ticker- Michael James Ent. Other picks $SBUX $GVP $NKE",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$UVXY Put the chum out there at key support then next level down - careful",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "Copper market may get a 2003-style supply shock from Glencore closures",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Intertek swings to \u00c2\u00a3347 mln loss on oil's slump",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$ISR- @IsoRay Up 6% and high on volume http://stks.co/iFpo #biotech",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "Rolls-Royce to Ensure Compliance After Petrobras Bribery Report",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$SPY Tomorrow party time for the Bears!! $GOOG and $MSFT -5.5%",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "Do it for me' trend underpins UK sales growth at Kingfisher",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "$ENDP - we saw a large order in this one last week, someone also accumulating May & Jun 35's Calls today",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "VIVUS $VVUS bear raid in effect. Stock down 12%",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "Standard Chartered, RBS Escape Capital Raising in Stress Test",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "US sanctions put Gazprom-Shell alliance plans in jeopardy",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "$KNDI Break that HOD on volume, and we have a nice consolidation completed for another run.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "$AMRN Got sell signal 7/1/14 still in force with target below 1.50",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "Broker tips: RBS, Croda, Sage",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$YHOO About to break out on the 5-min...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Thank you $GOOG (Google Alphabet) and $FB (Facebook) stocks! What a nice reversal.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$TSLA is now up 57% from its February low. Amazing rebound.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "On #FEDDAY looking for a sharp move up in equities $AAPL $HD $LOW $FB seeing $UVXY $TVIX getting hammered, even though market is down.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "$AXP Looking for continuation with volume increase http://stks.co/c8sR",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 ...",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$NFLX +1% $104.80 LONG streaming services rapidly outpacing traditional cable",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Centrica extends gas deals with Gazprom, Statoil",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "CompaniesTesco off to a bad start over Xmas \u00e2\u20ac\u201c Kantar",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "$AAPL $131 rally mode",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Held its recent double bottom buy point of 56.57 almost to the penny today $WMT http://chart.ly/6nosp5q",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "Rio Tinto CEO says iron ore market at equilibrium",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "ALERT: New RSI signal created on $COST - Buy at 148.78 - Time: 14:19 - Strength: 10. Powered by https://t.co/MhOBzU3Rmx",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "Britain's FTSE forges ahead as Shire surges",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?",
+        "input": "$VRTX early technical BUY signal... for confirmation > 86 it needs some fundam. incentive https://t.co/QuYSrqFo2x",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "what #stocks large players are selling http://stks.co/t0Vel $CROX $GOGO $INO",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Goldman Sachs, Barclays, HSBC downplay Brexit threat",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "Double bottom with handle buy point of 29.51 $IP http://chart.ly/akvujxh",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "Is It Worth Investing In Tesco PLC And Prudential plc Now?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$CTRP breaking out https://t.co/Z2je3rTKch",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Notable gainers among liquid option names this morning include $STX (+7.0%), $NEM (+4.6%), $WDC (+4.2%), $X (+4.1%), and $GME (+3.4%),",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "$GOOGL gets an upgrade price target $970",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Reuters: Green Mountain revenue misses, shares plunge http://stks.co/13mW > $GMCR prints 43.80, market in a foul mood, bad day to disappoint",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$WX Decent pull back . .",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca's Lung Cancer Drug Tagrisso Gets FDA Approval",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$ROST Ross Stores Upgraded to Outperform at RBC Capital Markets http://stks.co/j0Q9t",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "potential defect with third-row seat belts. Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/YVYDncdNdi",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "GlaxoSmithKline starts hunt for successor to CEO Witty",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$FB & $TSLA cracking lower early. $short #correction #stocks",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$INO back in this am small post",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "RT @stockdemons think shorting here into close might be play, $SPY - high beta reversing..looks worth a shot",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "Standard Chartered's Shares Plunge 7% After Fitch Downgrade",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$AAPL AAPL: Gundlach Slams iPad mini, Sees Downside to $425. http://stks.co/bDqV",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$isrg trading at all-time high after strong earnings report with 4 days of short interest.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$GMCR with the way this has been acting, it may fall to 65 today, horrible action since it hit 70 yesterday",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "$AEGN MACD and ADX are crossing over the signal lines! Long Setup http://stks.co/qzzx",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$AAPL at pivot area on intraday chart- break here could send this to 50-day SMA, 457.80 http://stks.co/jPbN",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "took some $ENDP long this am, using VWAP as guide",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "$TSLA steaming up again, this stock is relentless at the moment",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "BHP Billiton share price: Brazil to sue Samarco for \u00c2\u00a33.5bn",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "FTSE 100 flat; Standard Chartered leads risers",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "$DXCM - Making higher highs & higher lows as it consolidates over past several weeks. 26.70 was all time high (2006).",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$PYPL great vol flow trade here.. Love this company long time.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "Brewer AB InBev seeks $275 bln tie-up with SABMiller",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "RT @robbieLOLZ $NFLX A close above here is looking good for the bulls. Will hold my positions to see where we close at. Keep buying here.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "ARM Holdings plc Partners With International Business Machines Corp. To Drive ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Netflix Grows Efforts To Create Loyal Customers $NFLX https://t.co/5QXBkoBphe",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Shares in BAE Systems hit 10-month high on rating upgrade",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "#Apple up almost 20% from its February lows with very little fanfare. $AAPL",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca bags another cancer drug deal, this time with Inovio",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "ACE Limited, which has a 17 year dividend growth streak, plans a 33% dividend hike: http://stks.co/1BUE $ACE",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "$MSFT SQL Server revenue grew double-digit with SQL Server Premium revenue growing over 30% http://stks.co/ir2F",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "long $AAPL",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "GSK and Novartis complete deals to reshape both drugmakers",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Tesco, Asda sales fall as march of the discounters continues-Kantar",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "$SAVE long. https://t.co/yEJuS9cMlC",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "5 Best Analyst Rated Stocks in Last 72hrs: $ORCL $AAPL $CBS $INO $CPXX View all ratings here: https://t.co/IRID6zd5gc",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "$aapl.  Test the high today and probably go beyond after hours...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/F55dx4aegI",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "@sharkbiotech If anyone is selling/shorting $AGN b/c you believe $ENDP rumors to be realistic, then I'll take the other side of that trade",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca profit down as sales of stalwarts fade",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "$DMND green and moving",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "TripAdvisor jumps on M&A rumors https://t.co/O4lwCDXMbr $TRIP",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "Unilever profit rises despite sales slump in China",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Lots of metal stocks look like a 5-10% run awaits. Long $SSRI,$PAAS and $NEM but most high quality names should go if metal prices cooperate",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "$HPQ Says Breakup Will Cost Billions, but Sees Savings Too http://stks.co/p27hZ",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "Shire Sees Baxalta Deal Closing as Expected After New Rules",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Covered my small $MWW short @ 7.99 for a .16 loss. Flat on the day. All cash now.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$KNDI Let's see some higher highs and higher lows rest of the day , slow and steady",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$TSLA not dipping - testing the 200 day ma https://t.co/jEPLmZQKGW",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Valeant Said to Name New CEO With Pearson Still Hospitalized",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "AP: Caterpillar posts 60 percent jump in 4Q profit on steep global sales increase, tops Wall St. view > $CAT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "@asdfLLC. Nice pop today. Told ya we would be green haha. Funny you bring that up. I'm actually working on a story about $NOK at the moment",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Aviva, M&G suspend property funds as investors panic",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "L&G completes UK's largest medically underwritten bulk pension risk deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "BAE Systems's sales boosted by European Typhoon and currencies",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "Kingfisher takeover of Mr Bricolage could hit a brick wall",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Phew! So far good $BBRY did not break 10.40 coz I was told that is key support level.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "Tesco's Sales Pickup Isn't Enough",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "U.S. Debt Lures Schroders as ECB Depresses Rates",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "@Dojiknows th SP and the potential of QNX BES10 and BBM  cross platform will bring good news in time $bbry",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Johnson Matthey revs up on clean air drive",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$ELN longs...congrats...another HOD",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$TSLA lots of green on the 5 min, watch the hourly $259.33 possible resistance currently @ $257.00",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "Barclays poised to replace Sir Mike Rake as he heads for exit",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "$AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "This $BBBY stock options trade would have more than doubled your money https://t.co/Oa0loiRIJL via @TheStreet",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "$ISRG PT raised to $700 from $640 at Leerink - keeps Outperform rated",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "maybe closing all those $AAPL calls i had this morning was a bad idea, money left on the table...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "Sainsbury's says to outperform rivals in tough market",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "$NFLX and $TSLA making all kinds of gains \ud83d\udcc8",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "$aapl high of day just hit. Back at it tomorrow.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Insurer Old Mutual picks Standard Bank's Hemphill as new CEO",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?",
+        "input": "LSE gets Hong Kong regulatory nod to HK firms to become LSE members",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "Philip Morris, BAT Sue Over Law Taking Branding Off Packs",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "BP joins forces with Det Norske in Norway",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$NIHD insiders got this one wrong. Looking for bottom. Rsi under 30",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "$AAPL near a 3% drop thats a lot... now the best i can do is HOLD ER lol",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "Morrisons faces festive sales test",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "Shire says internal synergy goals from Baxalta deal higher",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$VMW  Got a nice push today following small sweepers of May C this morning",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Carnival Corporation and China Merchants Group Sign Memo of Understanding ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$FB SHIFTING ON THE 15 MINUTE HERE - SUSPECT TO TAKE HIGHS",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "After Barclays and Bank of America, Citigroup has blockchain in sight",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "X marks the recall: Tesla recalls #ModelX for faulty 3rd row seat. https://t.co/HSqdoVry07 $TSLA https://t.co/4Cs3CNZEBB",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca to Pay Inovio Up to $700 Million for Cancer Drug",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "Can Christmas Save Sainsbury's plc And Tesco plc?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "Shell to buy BG Group in $69.7 billion takeover",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$AMZN new HOD with conviction keeping $570 on watch for Resistance.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "MarketsShire up 2.5% and Baxalta up 6% on $32bn deal",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$FB watching for bounce tomorrow",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "Tata Steel working with StanChart for UK unit sale - source",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Meggitt share price tumbles as profit falls in 'challenging year'",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "UPDATE: CIB, Legal & General Sell Egyptian Life Joint Venture To AXA",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "I'm no professional ANAL-yst but I DO put my $ where my mouth is. $AAPL will do $575 b4 yr.end\u00e2\u20ac\u201dThat's another hun from here.Long LEAPS =^.^=",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Shire to buy NPS for $5.2 billion to boost rare disease drugs",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "Long $X 24.62",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "Deutsche Bank Downgraded Starbucks Co. $SBUX https://t.co/QqlEvVwPMV https://t.co/f2PdQjuTHa",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "British American Tobacco drops and sues PwC over pollution scandal",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Tesco shareholders back ITV head for chairman",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$EBAY had a nice breakout of the recent consolidation. Congrats to those who had it. http://stks.co/2TAd",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "RT @Dasan @TMTanalyst ...since $AAPL mastered their supply chain // in cornering NAND, Apple mastered EVERYONE'S supply chain!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "Added more $BBBY @jimcramer is wrong about this one. Still a very profitable merchant with profitable stores",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "London Stock Exchange Shareholders Approve Merger With Deutsche B\u00c3\u00b6rse",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "$AXDX I got bored, and took my proprietary profit exit. I didn't like the option liquidity and lousy spreads.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "How Kraft-Heinz Merger Came Together in Speedy 10 Weeks",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$BBRY hearing rumours of a major joint venture announcement.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca shares climb 3% as drug maker ups profits forecasts",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "FDA panel backs safety updates for AstraZeneca, Takeda drugs",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Tullow Oil Suspends Dividend Amid Oil Price Fall",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?",
+        "input": "Buffett's Company Reports 37 Percent Drop in 2Q Earnings",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$NUGT longer term bullish",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "$MFLX up  pre mkt. Looks like GAP has been filled....lookin 4 short opt here",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "easyJet leads Britain's FTSE lower as global bond rout resumes",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$AAPL at resistance right here...sold my shares...will buy back if it dips or if it goes in the 128 gap zone",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "I don't see it. 200 day sma is the big hurdle. There is a good base building. $NFLX  https://t.co/ImKYGO2cyc",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "Slump in Weir leads FTSE down from record high",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "G4S sees profits rise but UK contract problems remain",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "$BAC $ADSK $NFLX long this morning",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$BBRY both 1m/6m trends turn bullish today with a resistance level at $11.31. http://stks.co/j1qt6",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "Tesco shares jump 6% after Christmas sales beat expectations",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "$AAPL long 630.91",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Credit Suisse poaches Prudential's Thiam for Asian push",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "Compass Group says positive for year ahead",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Sheryl Sandberg Sells 109,000 Shares of Facebook Inc $FB Stock https://t.co/3vXT7AMnpk via @RatingsNetwork",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$AAPL is now beaten down, hated, etc. / hhhmm opposite of 700> what happens next?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$ENDP exit reversal .11 X 3K shares = $330 - now Long - not getting follow through, either side of price action",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "$STX long play, another consistent profit zone.. check it out https://t.co/DQfuzOzYlh https://t.co/ggne4ayzqn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "$AAPL AAPL finally breaking under the 49 M.A.. With no buybacks this week, look for AAPL to test the 120 support area.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$PRGN A bottom right here?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Maglan Capital Up +20.84% In February, Long Fairpoint  http://stks.co/s1eQc $$ $FRP",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "Glencore blames rivals for creating metals glut",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "stole my tweet. really wouldn't be surprised if we took out 423 and pinned around it RT @totalguru We could possibly even see425 today $AAPL",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "$FB trend, hits mid 110's and drops",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$SPY Could the pride of social media be gettin ready to fall?  $FB - chart rolling over?",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "@mugatushair Now it is time to short $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Royal Dutch Shell to Buy BG Group for Nearly $70 Billion",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Short on $ATVI from 24.55.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "$WMT BULLISH with MACD CROSSOVER with RSI and STO going up - above 73.4$ MA50 res. could run http://stks.co/gGCq",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Homebuilders - $RYL breaking below support, watch this one.  $SPY",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "$RIMM $spx $nya $compq $djia all going down",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$YHOO making new HOD",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "$AMGN And #UCB Announce Positive Top-Line Results From Ph3 Study Evaluating Romosozumab In Men... https://t.co/4hBoUDR8B8 via @YahooFinance",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "Apple Inc.: The Rip-Roaring Rally Is Just Beginning! (AAPL) | InvestorPlace $AAPL https://t.co/jrcFC8XlY9",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Costco: A Premier Retail Dividend Play https://t.co/J3UhTs022M $COST",
+        "output": "positive"
+    },
+    {
+        "instruction": "Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?",
+        "input": "Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "@catskillfishing  Note the monthly chart of $GDX & how it recaptured support. $GLD possible double bottom set up. http://stks.co/aw6z",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "HSBC Hit by Fresh Details of Tax Evasion Claims",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$DPZ broke out now of his bull flag channel and make new highs, but volume is very poor",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "$HITK  Resuming advance into new historical highs.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "UPDATE 3-Stifel to buy former Lehman brokerage from Barclays",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?",
+        "input": "RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "CompaniesCar insurer Hastings Group driving \u00c2\u00a3180m IPO",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Deutsche Bank cuts $SBUX",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca's patent on asthma drug invalidated by US court",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Goldman Sachs, Barclays, HSBC downplay Brexit threat",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$MTD (Mettler-Toledo) ready for a breakout",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?",
+        "input": "2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "$HSC Receives 7-Year, $50M Contract at New Saudi Arabian Steel Mill",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?",
+        "input": "CRH's concrete bid for Holcim Lafarge assets",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$CRK time to accumulate for a long position with far more upside than downside",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Berkshire seeks to boost its Wells Fargo stake above 10 percent",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "S&P downgrades Barclays and RBS on government bailout fears",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "Broker tips: RBS, Croda, Sage",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "Merkel's Government Said to Support Deutsche Boerse-LSE Merger",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "InterContinental Hotels Denies Reports of Starwood Merger Talks",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "$GLD http://stks.co/jr8 Daily chart - though RSI and Stoch. point at a possible move up, there's a lot of resistance.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?",
+        "input": "Tesco share price down as grocer faces SFO investigation outcome",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?",
+        "input": "CompaniesKingfisher bid for Mr Bricolage runs into trouble",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$AAPL weekly still under the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "$ZNGA http://stks.co/3rdu Looking for a test at 9.25 resistance point. cc @ cfrazierjr @FletchTrade #traders",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this financial comment: Positive, Negative, or Neutral?",
+        "input": "Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "#Fintech provider $CAFN Cachet Financial Solutions Surging Forward today post earnings Up +13.26% https://t.co/9BJ3csk2i9 $JKHY $FISV #Momo",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Market Report: Aviva tops the market as traders approve of its choice of Friends",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "$UGAZ Will this cold put a dent in the massive horizontal rig production. Who knows  http://stks.co/p1V6P",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following investor update: Positive, Negative, or Neutral?",
+        "input": "$FB Nice buyable intraday dip right here",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following investment plan: Positive, Negative, or Neutral?",
+        "input": "$GOOG breakout very likely medium target $700+ http://stks.co/1Lpz http://chart.ly/lgb94rr",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?",
+        "input": "$TSLA 5th wave down on the 1 hour chart, hammer candle developing, close to 200 sma, might be a good spot for calls",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Citigroup to Sell OneMain to Springleaf for $4.25 Billion",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "loading $SPY and $AAPL puts. think were toppy IMHO.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?",
+        "input": "$SINA even though the \"report\" is untrue and has been proven unture, the damage is done. No one wants to touch it now",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "like $T for a breakout long as well. getting through the 100 and 200 MA could see it run.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "CRH adds CR Laurence to acquisitions tally for $1.3bn",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "$SBUX getting sold here.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?",
+        "input": "$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?",
+        "input": "Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Meggitt reiterates annual outlook after tough 2014",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "So as of today's close (8/15/14), I'm long $TSLA $AMTD $TWTR $FB $AAPL $CELG - all on a longer-term, technical swing long basis.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?",
+        "input": "CompaniesTravis Perkins lifts dividend, earnings rise 15%",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "$AMZN Going thru the roof needs a sell!",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following financial update: Positive, Negative, or Neutral?",
+        "input": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "@ACInvestorBlog: $SPY eod run :)",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?",
+        "input": "AstraZeneca share price: Acerta deal pays off with orphan drug status",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$TSLA recall model X https://t.co/b7izYa4BuE",
+        "output": "negative"
+    },
+    {
+        "instruction": "Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?",
+        "input": "Long Position on $GOL,...Updating http://stks.co/fdmm",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Johnson Matthey profit falls but dividend rises",
+        "output": "neutral"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of the following financial column: Positive, Negative, or Neutral?",
+        "input": "$TSLA on fire, what is that 6 up days in a row. Someone neeeeds!! in",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of this financial innovation announcement: Positive, Negative, or Neutral?",
+        "input": "European stocks hover near 3-week low, Dialog and BHP slump",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "$SLW is down, but weekly $34 calls (-28.95%), .23 x .25 have 321 volume. Worth a chance here, jmho: http://stks.co/1Qfg",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following economic report: Positive, Negative, or Neutral?",
+        "input": "Equity indexes working on a positive engulfing for March. $SML $RUT $IWC $SMH $SOX  Small-caps / semis with a fakeout before the b/out.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$RSOL bought 3500 shares today!",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?",
+        "input": "Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "Valeant CEO Pledges to Heed Critics After `Painful' Experience",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Rolls-Royce Wins $9.2 Billion Order From Emirates Airline",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?",
+        "input": "Ocwen Reaches Settlement With California Regulator",
+        "output": "positive"
+    },
+    {
+        "instruction": "Assess the sentiment of the given financial text: Is it Positive, Negative, or Neutral?",
+        "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "Ackman, in email, says supports Valeant CEO Pearson",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Goldman Sachs, Barclays, HSBC downplay Brexit threat",
+        "output": "negative"
+    },
+    {
+        "instruction": "Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?",
+        "input": "Britain's FTSE falls back with Ashtead, commodities under pressure",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Think $FMS will challendge 200-EMA in not distant future.   Look at yesterday's volume",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "$PPG Descending triangle but I am liking it for an upside break http://stks.co/o9nY",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?",
+        "input": "Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?",
+        "input": "#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "$NFLX I say it's time to short at this point.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Renewed AB InBev Bid for SABMiller Ups Stake in Beer Battle",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?",
+        "input": "$HRL ready to pop! http://stks.co/s0Ny4",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$SBUX inverted head & shoulders pattern in the works. bullish.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of the next financial earnings call: Positive, Negative, or Neutral?",
+        "input": "Tesco share price jumps as Q3 sales top estimates",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?",
+        "input": "Last month we added to our $GILD position and started a new one in $BWLD We see slow, steady, unspectacular growth going forward near term",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?",
+        "input": "Arm profits and sales up as shift away from mobile gains pace",
+        "output": "positive"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "RT @Street_Insider The Steve Jobs Effect? Apple $AAPL First Day iPhone 4S Sales Were Off the Charts http://stks.co/YYe",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee",
+        "output": "positive"
+    },
+    {
+        "instruction": "Determine the sentiment tone of this financial forecast: Positive, Negative, or Neutral?",
+        "input": "$AAPL wants lower. up waves getting smaller on the 2 min",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Sainsbury sells unit to LloydsPharmacy",
+        "output": "positive"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",
+        "output": "neutral"
+    },
+    {
+        "instruction": "Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?",
+        "input": "Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo",
+        "output": "negative"
+    },
+    {
+        "instruction": "Analyze the sentiment of this financial seminar feedback: Positive, Negative, or Neutral?",
+        "input": "Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "REFILE-Aviva Investors to move 34 bln euros in assets from AXA fund arm",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?",
+        "input": "$SPY wouldn't be surprised to see a green close",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?",
+        "input": "$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY",
+        "output": "negative"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "Breakingviews: IAG can pay more for Aer Lingus",
+        "output": "positive"
+    },
+    {
+        "instruction": "Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?",
+        "input": "UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan",
+        "output": "negative"
+    },
+    {
+        "instruction": "Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?",
+        "input": "$fb small long 109.25 via calls",
+        "output": "positive"
+    },
+    {
+        "instruction": "What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?",
+        "input": "$EA points to the two Facebook games and accuses $ZNGA of copyright infringement. http://stks.co/g3A1",
+        "output": "negative"
+    },
+    {
+        "instruction": "Classify the sentiment of this financial report as Positive, Negative, or Neutral.",
+        "input": "Tesco PLC's Recovery Continues With A \u00c2\u00a3250m Cash Infusion",
+        "output": "positive"
+    },
+    {
+        "instruction": "Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?",
+        "input": "I am not optimistic about $amzn both fundementals and charts look like poopoo this quarter.",
+        "output": "negative"
+    },
+    {
+        "instruction": "Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?",
+        "input": "Walter Investment Management Corp Receives a Sell from Compass Point $WAC http://stks.co/c1IvX",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of the following market analysis: Positive, Negative, or Neutral?",
+        "input": "Ruling sets lower limit on potential fine for BP",
+        "output": "negative"
+    },
+    {
+        "instruction": "What is the sentiment of this financial product review: Positive, Negative, or Neutral?",
+        "input": "London Stock Exchange seals \u00c2\u00a322 billion merger with Germany's Deutsche B\u00c3\u00b6rse",
+        "output": "positive"
+    },
+    {
+        "instruction": "Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?",
+        "input": "CompaniesFresnillo shares jump 8% as silver price breaks $21",
+        "output": "positive"
+    },
+    {
+        "instruction": "Identify the sentiment of this annual financial summary: Positive, Negative, or Neutral?",
+        "input": "$QCOR a little pullback is fine but if this erases all of todays gains, I cannot believe the manipulation its capable of",
+        "output": "negative"
+    }
+]
