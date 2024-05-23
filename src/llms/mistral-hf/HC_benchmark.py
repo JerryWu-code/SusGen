@@ -11,19 +11,14 @@ def load_json(file_path):
 def evaluate_headline_classification(model_path, test_data_path, args):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
-    # model.eval()
     
     # Load the test dataset
     test_data = load_json(test_data_path)
     
     y_true = []
     y_pred = []
-    count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        count += 1
-        if count > 5:
-            break
         prompt = sample['instruction']+'\n\n'+sample['input']
         final_prompt = instr_prompt(content=prompt)
         
