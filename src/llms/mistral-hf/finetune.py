@@ -299,8 +299,8 @@ def main():
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
-    trainer.train()
-    # trainer.train(resume_from_checkpoint=path_to_checkpoint)
+    # trainer.train()
+    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
     trainer.save_model(output_dir)
 
 def test():
