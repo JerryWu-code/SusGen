@@ -18,17 +18,21 @@ def evaluate_headline_classification(model_path, test_data_path, args):
     
     y_true = []
     y_pred = []
-
+    count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        prompt = sample['instruction']
+        count += 1
+        if count > 5:
+            break
+        prompt = sample['instruction']+'\n\n'+sample['input']
         final_prompt = instr_prompt(content=prompt)
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         
         # Assuming the answer is directly comparable to the true label
-        y_true.append(sample['label'])
-        y_pred.append(answer.strip())
+        y_true.append(sample['output'])
+        # y_pred.append(answer.strip())
+        y_pred.append('Yes' if 'yes' in answer.lower() else 'No')
 
     # Calculate evaluation metrics
     accuracy = accuracy_score(y_true, y_pred)
@@ -47,7 +51,7 @@ def evaluate_headline_classification(model_path, test_data_path, args):
 
 def main():
     model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../../../data/financial/headline_classification/test_data.json"
+    test_data_path = "../../../eval/benchmark/HC/fingpt-headline-cls_test.json"
     args = {
         "max_length": 8096,
         "do_sample": True,
