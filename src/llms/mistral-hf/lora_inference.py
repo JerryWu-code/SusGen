@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 device = torch.device("cuda")
 model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
 lora_susgenv2_1 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/checkpoint-186"
-lora_susgenv2_2 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/tmp-checkpoint-373"
+lora_susgenv2_2 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32/ckpts/tmp-checkpoint-233"
 lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
@@ -29,7 +29,7 @@ bnb_config = BitsAndBytesConfig(
 tokenizer = AutoTokenizer.from_pretrained(
     model_path, 
     add_bos_token=True,
-    add_eos_token=True,
+    # add_eos_token=True,
     padding_side="left",
     padding="max_length",
     use_fast=True,
@@ -79,7 +79,7 @@ def inference(model, tokenizer, prompt, mode="alpaca"):
             return question, answer
         if mode == "susgen_v2":
             question = result.split("[INST] ")[1].split("\n\n [/INST]")[0]
-            answer = result.split("[/INST]")[1]
+            answer = result.split("[/INST]### Response:\n")[1]
             return question, answer
         else:
             print(result)
@@ -99,9 +99,9 @@ def prompt_formal(record):
         text = (
             "[INST] "
             "Below is an instruction that describes a task, paired with an input that provides further context.\n\n"
-            # "Write a response that appropriately completes the request.\n\n"
-            "You are required to answer the following question in one word based on the input provided.\n\n"
-            "# Instruction:\n{0}\n\n# Input:\n{1}\n\n [/INST]").format(
+            "Write a response that appropriately completes the request.\n\n"
+            # "You are required to answer the following question in one word based on the input provided.\n\n"
+            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n").format(
             record["instruction"], record["input"])
     return text
 
@@ -168,7 +168,7 @@ def main():
     elif mode == "susgen_v1_round2":
         model = load_susgenv1()
     elif mode == "susgen_v2":
-        model = load_lora(lora_susgenv2_1)
+        model = load_lora(lora_susgenv2_2)
     
     # model_input = 
         # instr_prompt(prompt_adjust(test_prompt)), return_tensors="pt").to(device)

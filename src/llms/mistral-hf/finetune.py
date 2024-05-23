@@ -4,7 +4,7 @@
 
 #############################################################################
 # Package for fine-tuning the Mistral-7B model with Lora
-import torch, json, wandb, warnings, transformers
+import torch, json, wandb, warnings, transformers, os
 from transformers import (
     AutoModelForCausalLM, 
     AutoTokenizer, 
@@ -178,8 +178,8 @@ def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
         labels = input_ids.clone()
         labels[:, :len(prompt_ids[0])] = -100
         return {
-            "input_ids": input_ids,
-            "labels": labels,
+            "input_ids": input_ids.flatten().tolist(),
+            "labels": labels.flatten().tolist(),
         }
     return wrapper
 
@@ -233,7 +233,7 @@ def main():
     base_model = "Mistral-7B-Instruct"
     # base_model = "LLaMA3-Instruct"
     # project = "susgenv1-lora"
-    project = "susgen30k-int4-adamw32"
+    project = "susgen30k-int4-adamw32_new"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
 
@@ -341,7 +341,7 @@ def test():
     prompt = "This is a test sentence."
     print(tokenizer(prompt, return_tensors="pt", max_length=22, truncation=True, 
         padding="max_length")["input_ids"])
-    print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1))
+    print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1).flatten().tolist())
     print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
 
 if __name__ == "__main__":
