@@ -28,7 +28,7 @@ def evaluate_ner(model_path, test_data_path, args):
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 5:
+        if count > 40:
             break
         count += 1
         prompt = sample['instruction'] + '\n\n' + sample['input']
@@ -38,11 +38,16 @@ def evaluate_ner(model_path, test_data_path, args):
         
         # Split the expected output and the generated answer by comma and newline
         pattern = re.compile(r'[.,;:!?]\s*|\n')
-        true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        predicted_entities = sample['output'].split()
-        
+        #true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
+        true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
+        predicted_entities = re.sub(r"[^\w\s']", ' ', answer).lower().split()
+        print('='*50)
+        print(true_entities)
+        print(predicted_entities)
         true_iter = iter(true_entities)
-        is_correct = all(entity in true_iter for entity in predicted_entities)
+        is_correct = all(entity in predicted_entities for entity in true_iter)
+        print(is_correct)
+        print(true_iter)
 
         y_true.append(1)
         y_pred.append(1 if is_correct else 0)
@@ -64,7 +69,7 @@ def evaluate_ner(model_path, test_data_path, args):
 
 def main():
     model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../../../eval/benchmark/NER/fingpt-ner-cls_test.json"
+    test_data_path = "../../../eval/benchmark/NER/flare-ner-test.json"
     args = {
         "max_length": 8096,
         "do_sample": True,

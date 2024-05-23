@@ -39,7 +39,7 @@ def evaluate_re(model_path, test_data_path, args):
         # Split the expected output and the generated answer
         pattern = re.compile(r'[.,;:!?]\s*|\n')
         true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        predicted_entities = sample['output'].split()
+        predicted_entities = answer.split()
         
         true_iter = iter(true_entities)
         is_correct = all(entity in true_iter for entity in predicted_entities)
