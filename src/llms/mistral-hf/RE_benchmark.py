@@ -16,7 +16,7 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_ner(model_path, test_data_path, args):
+def evaluate_re(model_path, test_data_path, args):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -36,7 +36,7 @@ def evaluate_ner(model_path, test_data_path, args):
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         
-        # Split the expected output and the generated answer by comma and newline
+        # Split the expected output and the generated answer
         pattern = re.compile(r'[.,;:!?]\s*|\n')
         true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
         predicted_entities = sample['output'].split()
@@ -64,7 +64,7 @@ def evaluate_ner(model_path, test_data_path, args):
 
 def main():
     model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../../../eval/benchmark/NER/fingpt-ner-cls_test.json"
+    test_data_path = "../../../eval/benchmark/RE/fingpt-finred-cls_test.json"
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -74,7 +74,7 @@ def main():
         "num_return_sequences": 1
     }
 
-    results = evaluate_ner(model_path, test_data_path, args)
+    results = evaluate_re(model_path, test_data_path, args)
     print(results)
 
 if __name__ == "__main__":
