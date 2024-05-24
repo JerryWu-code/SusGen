@@ -46,7 +46,7 @@ def accelerator_setup():
     accelerator = Accelerator(fsdp_plugin=fsdp_plugin)
     return accelerator
 
-def data_2_prompt_short(record):
+def mistral_short(record):
     if not record["input"]:
         text = "[INST] ### Instruction: {0}\n\n [/INST]### Response: {1}".format(
             record["instruction"], record["output"])
@@ -55,7 +55,7 @@ def data_2_prompt_short(record):
             record["instruction"], record["input"], record["output"])
     return text
 
-def data_2_prompt_formal(record):
+def mistral_formal(record):
     if not record["input"]:
         text = (
             "[INST] "
@@ -68,6 +68,20 @@ def data_2_prompt_formal(record):
             "Below is an instruction that describes a task, paired with an input that provides further context. "
             "Write a response that appropriately completes the request.\n\n"
             "### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n{2}").format(
+            record["instruction"], record["input"], record["output"])
+    return text
+
+def llama3_formal(record):
+    if not record["input"]:
+        text = (
+            "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
+            "### Instruction:\n{0}\n\n ### Response:\n{1}<|end_of_text|>").format(
+            record["instruction"], record["output"])
+    else:
+        text = (
+            "Below is an instruction that describes a task, paired with an input that provides further context. "
+            "Write a response that appropriately completes the request.\n\n"
+            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n ### Response:\n{2}<|end_of_text|>").format(
             record["instruction"], record["input"], record["output"])
     return text
 
@@ -174,7 +188,7 @@ def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
                 truncation=hparams["truncation"], max_length=hparams["max_length"])["input_ids"]
         
         # input_ids & labels are same when self-supervised learning, here use supervised learning trick
-        input_ids = torch.cat([input_ids, torch.tensor([[2]])], dim=1)
+        input_ids = torch.cat([input_ids, torch.tensor([[tokenizer.eos_token_id]])], dim=1)
         labels = input_ids.clone()
         labels[:, :len(prompt_ids[0])] = -100
         return {
@@ -207,35 +221,34 @@ def main():
     # Set up the configuration
     torch.manual_seed(2024)
 
+    ckpt_folder = "../../../ckpts/"
+    base_model = "Meta-Llama-3-8B-hf"
+    # base_model = "Mistral-7B-Instruct"
+    project = "susgen30k-int4-adamw32_new"
+    project_name = f"{base_model}_{project}"
+    # login_wandb(project_name=project_name)
+
     hparams = {
         # start config the model
         "lora": True,
         "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
-        "model_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        "model_path": os.path.join(ckpt_folder, base_model),
         # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
         "lora_path": None,
         # start config the tokenizer
-        "tokenizer_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        "tokenizer_path": os.path.join(ckpt_folder, base_model),
         "use_fast": True,
         "padding_side": "left", # set to left use less memory
         "truncation_side": "right", 
         # close to check distribution of sequence length to set the max_length  
         "add_eos_token": True,
         "add_bos_token": True,
-        "pad_token": "</s>",
+        # "pad_token": "</s>",
         "padding": True,
         "truncation": True,
-        "max_length": 512, # set to None to use the max length of the dataset
+        "max_length": None, # set to None to use the max length of the dataset, 512
     }
-
-    # Set up the wandb login
-    base_model = "Mistral-7B-Instruct"
-    # base_model = "LLaMA3-Instruct"
-    # project = "susgenv1-lora"
-    project = "susgen30k-int4-adamw32_new"
-    project_name = f"{base_model}_{project}"
-    # login_wandb(project_name=project_name)
 
     # Set up the model and the tokenizer
     model = setup_model(hparams)
@@ -246,8 +259,8 @@ def main():
         model.model_parallel = True
         print("Model is parallelizable")
     tokenizer = setup_tokenizer(hparams)
+    tokenizer.pad_token = tokenizer.eos_token
     # print(model.config, '\n')
-    # print(model)
     model.print_trainable_parameters()
 
     # load the dataset
@@ -257,9 +270,9 @@ def main():
     train_data, val_data = split_data(data, split_ratio=0.005)
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
-    data_2_prompt = data_2_prompt_formal
-    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
-    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
+    data_2_prompt = llama3_formal
+    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams), batched=True)
+    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams), batched=True)
     print(tokenized_train_data)
     # plot_data_lengths(tokenized_train_alpaca, tokenized_val_dataset=tokenized_val_alpaca,
     #                   save_name="figs/alpaca_gpt4.png")
@@ -299,48 +312,50 @@ def main():
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
-    # trainer.train()
-    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
+    trainer.train()
+    # trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
     trainer.save_model(output_dir)
 
 def test():
     # data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     # data_.train_test_split(test_size=0.1)
+    ckpt_folder = "../../../ckpts/"
+    model_name = "Meta-Llama-3-8B-Instruct-hf" #"Mistral-7B-v0.2-hf"
+    repo_path = os.path.join(ckpt_folder, model_name)
     hparams = {
         # start config the model
         "lora": True,
         "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
         "accelerator": True,
-        "model_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        "model_path": repo_path,
         # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
         "lora_path": None,
         # start config the tokenizer
-        "tokenizer_path": "../../../ckpts/Mistral-7B-v0.2-hf",
+        "tokenizer_path": repo_path,
         "use_fast": False,
         "padding_side": "left", # set to left use less memory
         "truncation_side": "right", 
         # close to check distribution of sequence length to set the max_length  
-        # "add_eos_token": True,
+        "add_eos_token": True,
         "add_bos_token": True,
-        "pad_token": "</s>",
         "padding": True,
         "truncation": True,
         "max_length": 512, # set to None to use the max length of the dataset
     }
     tokenizer = setup_tokenizer(hparams)
+    tokenizer.pad_token = tokenizer.eos_token
     print(tokenizer.pad_token, tokenizer.eos_token, tokenizer.bos_token, 
         tokenizer.unk_token, tokenizer.sep_token, tokenizer.mask_token)
     print(tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
         tokenizer.unk_token_id, tokenizer.sep_token_id, tokenizer.mask_token_id)
     # id to token
-    print(tokenizer.decode([tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
-        tokenizer.unk_token_id]))
+    print(tokenizer.decode([tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id]))
+        # tokenizer.unk_token_id]))
     # print the whole tokenizer dict
     print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
     # test the tokenizer
     prompt = "This is a test sentence."
-    print(tokenizer(prompt, return_tensors="pt", max_length=22, truncation=True, 
-        padding="max_length")["input_ids"])
+    print(tokenizer.decode(tokenizer(prompt, max_length=22, truncation=True, padding="max_length")["input_ids"]))
     print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1).flatten().tolist())
     print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
 

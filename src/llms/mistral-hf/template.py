@@ -84,7 +84,7 @@ def instr_prompt(content):
 
 def main():
     # 1.Load the model and tokenizer
-    path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    path = "../../../ckpts/Mistral-7B-Instruct-v0.3"#2-hf"
     model, tokenizer, device, config = load_model(model_path=path)
     # 2.Set the model to evaluation mode
     model.eval()

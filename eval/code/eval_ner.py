@@ -1,5 +1,5 @@
-import json
-import re
+import json, sys, os, re
+sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
@@ -68,8 +68,8 @@ def evaluate_ner(model_path, test_data_path, args):
     return results
 
 def main():
-    model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../../../eval/benchmark/NER/flare-ner-test.json"
+    model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    test_data_path = "../benchmark/NER/flare-ner-test.json"
     args = {
         "max_length": 8096,
         "do_sample": True,

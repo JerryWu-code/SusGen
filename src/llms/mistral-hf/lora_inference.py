@@ -15,7 +15,10 @@ warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 device = torch.device("cuda")
 model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
 lora_susgenv2_1 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/checkpoint-186"
-lora_susgenv2_2 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32/ckpts/tmp-checkpoint-233"
+lora_susgenv2_2_1epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
+lora_susgenv2_2_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
+lora_susgenv2_2_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
+lora_susgenv2_2_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
 lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
@@ -168,11 +171,11 @@ def main():
     elif mode == "susgen_v1_round2":
         model = load_susgenv1()
     elif mode == "susgen_v2":
-        model = load_lora(lora_susgenv2_2)
+        model = load_lora(lora_susgenv2_2_5epoch)
     
     # model_input = 
         # instr_prompt(prompt_adjust(test_prompt)), return_tensors="pt").to(device)
-    question, answer = inference(model, tokenizer, prompt=test_sa, mode=mode)
+    question, answer = inference(model, tokenizer, prompt=test_ner_cls, mode=mode)
     print(f"\n{'=' * 100}\nModel: {mode}\n{'-' * 10}")
     print(f"Question:\n{'-' * 10}\n{question}\n{'=' * 100}")
     print(f"Answer:\n{'-' * 10}\n{answer}\n{'=' * 100}")

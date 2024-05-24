@@ -1,22 +1,15 @@
-import json
-import re
+import json, sys, os
+sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
-
-ent_dict = {
-    'PER': 'person',
-    'ORG': 'organization',
-    'LOC': 'location',
-}
-ent_dict_rev = {v: k for k, v in ent_dict.items()}
 
 def load_json(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data
 
-def evaluate_re(model_path, test_data_path, args):
+def evaluate_headline_classification(model_path, test_data_path, args):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -25,33 +18,23 @@ def evaluate_re(model_path, test_data_path, args):
     
     y_true = []
     y_pred = []
-    count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 5:
-            break
-        count += 1
-        prompt = sample['instruction'] + '\n\n' + sample['input']
+        prompt = sample['instruction']+'\n\n'+sample['input']
         final_prompt = instr_prompt(content=prompt)
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         
-        # Split the expected output and the generated answer
-        pattern = re.compile(r'[.,;:!?]\s*|\n')
-        true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        predicted_entities = answer.split()
-        
-        true_iter = iter(true_entities)
-        is_correct = all(entity in true_iter for entity in predicted_entities)
-
-        y_true.append(1)
-        y_pred.append(1 if is_correct else 0)
+        # Assuming the answer is directly comparable to the true label
+        y_true.append(sample['output'])
+        # y_pred.append(answer.strip())
+        y_pred.append('Yes' if 'yes' in answer.lower() else 'No')
 
     # Calculate evaluation metrics
     accuracy = accuracy_score(y_true, y_pred)
-    precision = precision_score(y_true, y_pred)
-    recall = recall_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred)
+    precision = precision_score(y_true, y_pred, average='weighted')
+    recall = recall_score(y_true, y_pred, average='weighted')
+    f1 = f1_score(y_true, y_pred, average='weighted')
     
     results = {
         'accuracy': accuracy,
@@ -63,8 +46,8 @@ def evaluate_re(model_path, test_data_path, args):
     return results
 
 def main():
-    model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../../../eval/benchmark/RE/fingpt-finred-cls_test.json"
+    model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    test_data_path = "../benchmark/HC/fingpt-headline-cls_test.json"
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -74,8 +57,7 @@ def main():
         "num_return_sequences": 1
     }
 
-    results = evaluate_re(model_path, test_data_path, args)
+    results = evaluate_headline_classification(model_path, test_data_path, args)
     print(results)
-
 if __name__ == "__main__":
     main()
