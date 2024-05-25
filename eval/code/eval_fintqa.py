@@ -1,4 +1,4 @@
-# cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_ner.py
+# cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_fintqa.py
 import json, sys, os, re
 sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
@@ -6,19 +6,12 @@ from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
 from collections import Counter
 
-ent_dict = {
-    'PER': 'person',
-    'ORG': 'organization',
-    'LOC': 'location',
-}
-ent_dict_rev = {v: k for k, v in ent_dict.items()}
-
 def load_json(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data
 
-def evaluate_ner(model_path, test_data_path, args):
+def evaluate_fintqa(model_path, test_data_path, args):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -30,7 +23,7 @@ def evaluate_ner(model_path, test_data_path, args):
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 20:
+        if count > 10:
             break
         count += 1
         prompt = "Please strictly format your answer:" + sample['instruction'] + '\n\n' + sample['input']
@@ -48,18 +41,6 @@ def evaluate_ner(model_path, test_data_path, args):
         print(predicted_entities)
         true_idx = 0
         is_correct = True
-        # check if per, org, loc are in true entities, if so, we need to check if the count of these entities are matched in the predicted entities
-        entity_types = ['per', 'org', 'loc']
-
-        true_entity_counts = Counter(true_entities)
-        predicted_entity_counts = Counter(predicted_entities)
-
-        for entity_type in entity_types:
-            true_count = true_entity_counts.get(entity_type, 0)
-            predicted_count = predicted_entity_counts.get(entity_type, 0)
-            if true_count != predicted_count:
-                is_correct = False
-                break
         
         for pred_entity in predicted_entities:
             if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
@@ -89,8 +70,7 @@ def evaluate_ner(model_path, test_data_path, args):
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../benchmark/NER/flare-ner-test.json"
-    # test_data_path = "../benchmark/NER/fingpt-ner-cls_test.json"
+    path_li = ["../benchmark/FINQA/flare-convfinqa_test.json", "../benchmark/FINQA/flare-convfinqa_test.json"]
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -99,9 +79,10 @@ def main():
         "top_k": 40,
         "num_return_sequences": 1
     }
-
-    results = evaluate_ner(model_path, test_data_path, args)
-    print(results)
+    for path in path_li:
+        test_data_path = path
+        results = evaluate_fintqa(model_path, test_data_path, args)
+        print(results)
 
 if __name__ == "__main__":
     main()

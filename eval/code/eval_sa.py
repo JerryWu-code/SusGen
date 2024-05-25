@@ -49,7 +49,7 @@ def evaluate_sa(model_path, test_data_path, args):
     return results
 
 def main():
-    model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    model_path = "../../ckpts/Mistral-7B-Instruct-v0.3-hf"
     test_data_path = "../benchmark/SA/esg_sentiment_test_final.json"
     args = {
         "max_length": 8096,

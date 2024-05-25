@@ -1,15 +1,10 @@
+# cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_re.py
 import json, sys, os, re
 sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
 
-ent_dict = {
-    'PER': 'person',
-    'ORG': 'organization',
-    'LOC': 'location',
-}
-ent_dict_rev = {v: k for k, v in ent_dict.items()}
 
 def load_json(file_path):
     with open(file_path, 'r') as f:
@@ -28,7 +23,7 @@ def evaluate_re(model_path, test_data_path, args):
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 5:
+        if count > 10:
             break
         count += 1
         prompt = sample['instruction'] + '\n\n' + sample['input']
@@ -38,11 +33,25 @@ def evaluate_re(model_path, test_data_path, args):
         
         # Split the expected output and the generated answer
         pattern = re.compile(r'[.,;:!?]\s*|\n')
-        true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        predicted_entities = answer.split()
+        # true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
+        true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
+        predicted_entities = re.sub(r"[^\w\s]", ' ', answer).lower().split()
+        print('='*50)
+        print(true_entities)
+        print(predicted_entities)
+        true_idx = 0
+        is_correct = True
         
-        true_iter = iter(true_entities)
-        is_correct = all(entity in true_iter for entity in predicted_entities)
+        for pred_entity in predicted_entities:
+            if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
+                true_idx += 1
+            if true_idx == len(true_entities):
+                break
+        if true_idx != len(true_entities):
+            is_correct = False
+        print(is_correct)
+        y_true.append(1)
+        y_pred.append(1 if is_correct else 0)
 
         y_true.append(1)
         y_pred.append(1 if is_correct else 0)

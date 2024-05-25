@@ -244,7 +244,6 @@ def main():
         # close to check distribution of sequence length to set the max_length  
         "add_eos_token": True,
         "add_bos_token": True,
-        # "pad_token": "</s>",
         "padding": True,
         "truncation": True,
         "max_length": 512, # set to None to use the max length of the dataset, 512
@@ -290,7 +289,8 @@ def main():
             # Use deepspeed for training acceleration(if not could comment out)
             warmup_steps=500,               # Number of steps for the warmup phase
             # max_steps=7000,               # Total number of training steps
-            num_train_epochs=5,             # Number of epochs to train the model
+            num_train_epochs=10,             # Number of epochs to train the model
+            num_train_epochs=10,             # Number of epochs to train the model
             per_device_train_batch_size=32,
             gradient_accumulation_steps=4,  # Accumulate gradients before backpropagation
             learning_rate=5e-5,             # Want a small lr for finetuning
@@ -312,10 +312,15 @@ def main():
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
-    trainer.train()
-    # trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
+    # trainer.train()
+    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
     trainer.save_model(output_dir)
+    trainer.train()
+    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-1165"))
+    # trainer.save_model(output_dir)
 
+"""
+"""
 def test():
     # data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     # data_.train_test_split(test_size=0.1)
@@ -365,8 +370,12 @@ def test():
     print(tokenizer.decode(tokenizer(prompt, max_length=22, truncation=True, padding="max_length")["input_ids"]))
     print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1).flatten().tolist())
     print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
+"""
+"""
 
 if __name__ == "__main__":
-    test()
-    # main()
+    # test()
+    main()
+    # test()
+    main()
     # CUDA_VISIBLE_DEVICES=0,1 python finetune.py
