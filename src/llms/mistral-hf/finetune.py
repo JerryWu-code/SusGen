@@ -222,8 +222,8 @@ def main():
     torch.manual_seed(2024)
 
     ckpt_folder = "../../../ckpts/"
-    base_model = "Meta-Llama-3-8B-hf"
-    # base_model = "Mistral-7B-Instruct"
+    # base_model = "Meta-Llama-3-8B-hf"
+    base_model = "Mistral-7B-Instruct-v0.3-hf"
     project = "susgen30k-int4-adamw32_new"
     project_name = f"{base_model}_{project}"
     # login_wandb(project_name=project_name)
@@ -247,7 +247,7 @@ def main():
         # "pad_token": "</s>",
         "padding": True,
         "truncation": True,
-        "max_length": None, # set to None to use the max length of the dataset, 512
+        "max_length": 512, # set to None to use the max length of the dataset, 512
     }
 
     # Set up the model and the tokenizer
@@ -270,9 +270,9 @@ def main():
     train_data, val_data = split_data(data, split_ratio=0.005)
     # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
 
-    data_2_prompt = llama3_formal
-    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams), batched=True)
-    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams), batched=True)
+    data_2_prompt = mistral_formal
+    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
+    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
     print(tokenized_train_data)
     # plot_data_lengths(tokenized_train_alpaca, tokenized_val_dataset=tokenized_val_alpaca,
     #                   save_name="figs/alpaca_gpt4.png")
@@ -320,7 +320,7 @@ def test():
     # data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
     # data_.train_test_split(test_size=0.1)
     ckpt_folder = "../../../ckpts/"
-    model_name = "Meta-Llama-3-8B-Instruct-hf" #"Mistral-7B-v0.2-hf"
+    model_name = "Mistral-7B-v0.3-hf" #  "Meta-Llama-3-8B-Instruct-hf" #
     repo_path = os.path.join(ckpt_folder, model_name)
     hparams = {
         # start config the model
@@ -352,14 +352,21 @@ def test():
     print(tokenizer.decode([tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id]))
         # tokenizer.unk_token_id]))
     # print the whole tokenizer dict
-    print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
+    # print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
     # test the tokenizer
     prompt = "This is a test sentence."
+    prompt = {
+        "instruction": prompt,
+        "input": "",
+        "output": "Sure."
+    }
+    print(prompt)
+    prompt = mistral_formal(prompt)
     print(tokenizer.decode(tokenizer(prompt, max_length=22, truncation=True, padding="max_length")["input_ids"]))
     print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1).flatten().tolist())
     print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
 
 if __name__ == "__main__":
-    # test()
-    main()
+    test()
+    # main()
     # CUDA_VISIBLE_DEVICES=0,1 python finetune.py

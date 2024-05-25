@@ -5,7 +5,7 @@
 #    2. Turn the weights into consolidated format for deployment.
 
 #############################################################################
-import torch
+import torch, os
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig
 import warnings
 warnings.filterwarnings("ignore")
@@ -16,21 +16,23 @@ def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
 
     # 2.Load the model and move to GPU
     config = AutoConfig.from_pretrained(model_path)
-    # bnb_config = BitsAndBytesConfig(
-    #     load_in_4bit=True,
-    #     # bnb_4bit_compute_dtype=torch.bfloat16,
-    #     bnb_4bit_use_double_quant=True,
-    # )
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        # load_in_8bit=True,
+        bnb_4bit_compute_dtype=torch.bfloat16,
+        bnb_4bit_use_double_quant=True,
+    )
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         torch_dtype=torch.float16,
-        # quantization_config=bnb_config,
+        quantization_config=bnb_config,
         low_cpu_mem_usage=True,
-        # load_in_8bit=True
+        # load_in_8bit=True,
+        # load_in_4bit=True,
     )
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = model.to(device)
+    # model = model.to(device)
 
     return model, tokenizer, device, config
 
@@ -84,8 +86,9 @@ def instr_prompt(content):
 
 def main():
     # 1.Load the model and tokenizer
-    path = "../../../ckpts/Mistral-7B-Instruct-v0.3"#2-hf"
-    model, tokenizer, device, config = load_model(model_path=path)
+    ckpt_folder = "../../../ckpts"
+    base_model = "Mistral-7B-Instruct-v0.3-hf"
+    model, tokenizer, device, config = load_model(model_path=os.path.join(ckpt_folder, base_model))
     # 2.Set the model to evaluation mode
     model.eval()
 
@@ -99,10 +102,6 @@ def main():
     question = "What is the tcfd format sustainability report?"
     prompt = f"{user_instruction}\n Question:\n{question}"
 
-    # prompt = (
-    #     "Process the Sentence follwing the instruction below:\n" 
-    #     "Instruction: Rephrase the whole Sentence without changing original meaning and elements.\n"
-    #     "Sentence: As a TCFD professional, outline how to effectively manage and reporton climate risks and opportunities. Answer the following question.")
     final_prompt = instr_prompt(content = prompt)
     #  2) Set configuration
     args = {
