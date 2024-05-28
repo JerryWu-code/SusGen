@@ -27,8 +27,6 @@ def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
         torch_dtype=torch.float16,
         quantization_config=bnb_config,
         low_cpu_mem_usage=True,
-        # load_in_8bit=True,
-        # load_in_4bit=True,
     )
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -52,6 +50,7 @@ def generate_text(model, tokenizer, device, prompt, args):
             top_p=args["top_p"],
             top_k=args["top_k"],
             num_return_sequences=args["num_return_sequences"],
+            repetition_penalty=1.2,
             streamer=streamer # Streaming generation
         )
     
@@ -88,6 +87,10 @@ def main():
     # 1.Load the model and tokenizer
     ckpt_folder = "../../../ckpts"
     base_model = "Mistral-7B-Instruct-v0.3-hf"
+    # base_model = "Meta-Llama-3-8B-Instruct-hf"
+
+    ckpt_folder = "../../../results"
+    base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
     model, tokenizer, device, config = load_model(model_path=os.path.join(ckpt_folder, base_model))
     # 2.Set the model to evaluation mode
     model.eval()

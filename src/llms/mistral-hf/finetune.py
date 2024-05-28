@@ -4,7 +4,9 @@
 
 #############################################################################
 # Package for fine-tuning the Mistral-7B model with Lora
-import torch, json, wandb, warnings, transformers, os
+import torch, json, wandb, warnings, transformers, os, yaml
+from torch import multiprocessing as mp
+from torch import bfloat16, float16, float32
 from transformers import (
     AutoModelForCausalLM, 
     AutoTokenizer, 
@@ -18,12 +20,15 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from datasets import load_dataset
 # Package for accelerating the fine-tuning process
-from accelerate import FullyShardedDataParallelPlugin, Accelerator
+from accelerate import FullyShardedDataParallelPlugin, Accelerator, DistributedType
 from torch.distributed.fsdp.fully_sharded_data_parallel import (
     FullOptimStateDictConfig, 
     FullStateDictConfig)
 # Filter out the warnings
 warnings.filterwarnings("ignore")
+from prompt_template import mistral_formal,llama3_formal
+from argparse import ArgumentParser
+from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
 
 def load_json(file_path):
     with open(file_path, "r") as f:
@@ -46,119 +51,51 @@ def accelerator_setup():
     accelerator = Accelerator(fsdp_plugin=fsdp_plugin)
     return accelerator
 
-def mistral_short(record):
-    if not record["input"]:
-        text = "[INST] ### Instruction: {0}\n\n [/INST]### Response: {1}".format(
-            record["instruction"], record["output"])
-    else:
-        text = "[INST] ### Instruction: {0}\n\n### Input: {1}\n\n [/INST]### Response: {2}".format(
-            record["instruction"], record["input"], record["output"])
-    return text
-
-def mistral_formal(record):
-    if not record["input"]:
-        text = (
-            "[INST] "
-            "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n [/INST]### Response:\n{1}").format(
-            record["instruction"], record["output"])
-    else:
-        text = (
-            "[INST] "
-            "Below is an instruction that describes a task, paired with an input that provides further context. "
-            "Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n{2}").format(
-            record["instruction"], record["input"], record["output"])
-    return text
-
-def llama3_formal(record):
-    if not record["input"]:
-        text = (
-            "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n ### Response:\n{1}<|end_of_text|>").format(
-            record["instruction"], record["output"])
-    else:
-        text = (
-            "Below is an instruction that describes a task, paired with an input that provides further context. "
-            "Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n ### Response:\n{2}<|end_of_text|>").format(
-            record["instruction"], record["input"], record["output"])
-    return text
-
 # Set up model
 def setup_model(hparams):
+    if hparams["acceleration"]:
+        accelerator = accelerator_setup()
+
     if not hparams["quantization"]:
         model = AutoModelForCausalLM.from_pretrained(hparams["model_path"])
     elif hparams["quantization"] == 'bf16':
         model = AutoModelForCausalLM.from_pretrained(hparams["model_path"], torch_dtype=torch.bfloat16)
-    elif hparams["quantization"] == 'int4':
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            load_in_8bit=False,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=torch.bfloat16,
-        )
-        model = AutoModelForCausalLM.from_pretrained(
-                hparams["model_path"],
-                quantization_config=bnb_config, # int4 quantization
-        )
-
-    elif hparams["quantization"] == 'int8':
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=False,
-            load_in_8bit=True,
-            bnb_8bit_compute_dtype=torch.bfloat16,
-        )
-        model = AutoModelForCausalLM.from_pretrained(
-            hparams["model_path"],
-            quantization_config=bnb_config, # int8 quantization
-        )
+    else: 
+        if hparams["quantization"] == 'int4':
+            bnb_config = BitsAndBytesConfig(**hparams["int4_config"])
+        if hparams["quantization"] == 'int8':
+            bnb_config = BitsAndBytesConfig(**hparams["int8_config"])
+        model = AutoModelForCausalLM.from_pretrained(hparams["model_path"], quantization_config=bnb_config)
 
     if hparams["lora_path"]:
         peft_config = PeftConfig.from_pretrained(hparams["lora_path"])
-        base_with_adapters_model = PeftModel.from_pretrained(model, hparams["lora_path"])
+        base_with_adapters_model = PeftModel.from_pretrained(model, ["lora_path"])
         model = base_with_adapters_model.merge_and_unload()
 
     if hparams["lora"]:
-        peft_config = LoraConfig(
-            task_type="CAUSAL_LM",
-            inference_mode=False,
-            r=16, # low rank, goes as the dataset
-            lora_alpha=32, # delta_W scaled by alpha/r, set the rate to 2 or 4
-            lora_dropout=0.1,
-            bias="none",
-            target_modules=[
-                "q_proj",
-                "k_proj",
-                "v_proj",
-                "o_proj",
-                "gate_proj",
-                "up_proj",
-                "down_proj",
-                "lm_head",
-            ]
-        )
+        peft_config = LoraConfig(**hparams["lora"])
         # Used for gradient_check and preparing the model for kbit training (save memory)
         model.gradient_checkpointing_enable()
         model = prepare_model_for_kbit_training(model, peft_config)
         # Get the PEFT model
         model = get_peft_model(model, peft_config)
 
+    model.config.window = hparams["window"]
+    if hparams["acceleration"]:
+        # Set up the accelerator
+        model = accelerator.prepare_model(model)
+    if torch.cuda.device_count() > 1: # If more than 1 GPU
+        model.is_parallelizable = True
+        model.model_parallel = True
+        print("Model is parallelizable")
+    if hparams["show_config"]:
+        print(model.config, '\n')
+    model.print_trainable_parameters()
+
     return model
 
-# set up the tokenizer
-def setup_tokenizer(hparams):
-    tokenizer = AutoTokenizer.from_pretrained(hparams["tokenizer_path"], **hparams)
-    return tokenizer
-
 def tokenize(tokenizer, hparams, prompt="This is a test sentence."):
-    result = tokenizer(
-        text=prompt,
-        padding=hparams["padding"],
-        truncation=hparams["truncation"],
-        max_length=hparams["max_length"],
-    )
+    result = tokenizer(text=prompt, **hparams)
     return result["input_ids"]
 
 def print_tranable_params(model):
@@ -178,19 +115,16 @@ def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
         input_text = data_2_prompt(record)
         output_text = input_text.split("### Response:\n")[1]
         input_prompt = input_text.split("### Response:\n")[0] + "### Response:\n"
-        if not hparams["max_length"]:
-            input_ids = tokenizer(input_text, return_tensors="pt", **hparams)["input_ids"]
-            prompt_ids = tokenizer(input_prompt, return_tensors="pt", **hparams)["input_ids"]
-        else:
-            input_ids = tokenizer(input_text, padding="max_length", return_tensors="pt",
-                truncation=hparams["truncation"], max_length=hparams["max_length"])["input_ids"]
-            prompt_ids = tokenizer(input_prompt, padding="max_length", return_tensors="pt",
-                truncation=hparams["truncation"], max_length=hparams["max_length"])["input_ids"]
+
+        input_ids = tokenizer(input_text, **hparams)["input_ids"]
+        prompt_ids = tokenizer(input_prompt, **hparams)["input_ids"]
         
         # input_ids & labels are same when self-supervised learning, here use supervised learning trick
-        input_ids = torch.cat([input_ids, torch.tensor([[tokenizer.eos_token_id]])], dim=1)
+        # input_ids = torch.cat([input_ids, torch.tensor([[tokenizer.eos_token_id]])], dim=1)
         labels = input_ids.clone()
-        labels[:, :len(prompt_ids[0])] = -100
+        # print(prompt_ids.shape, input_ids.shape, labels.shape)
+        # print(len(prompt_ids[0]), len(input_ids[0]), len(labels[0]))
+        # labels[:, :len(prompt_ids[0])] = -100
         return {
             "input_ids": input_ids.flatten().tolist(),
             "labels": labels.flatten().tolist(),
@@ -215,167 +149,126 @@ def split_data(data, split_ratio=0.1):
     data_split = data.train_test_split(test_size=split_ratio)
     return data_split["train"], data_split["test"]
 
-def main():
-    # Set up the accelerator
-    accelerator = accelerator_setup()
+def main(config):
     # Set up the configuration
-    torch.manual_seed(2024)
+    torch.manual_seed(config["model"]["seed"])
+    # login_wandb(name)
 
-    ckpt_folder = "../../../ckpts/"
-    # base_model = "Meta-Llama-3-8B-hf"
-    base_model = "Mistral-7B-Instruct-v0.3-hf"
-    project = "susgen30k-int4-adamw32_new"
-    project_name = f"{base_model}_{project}"
-    # login_wandb(project_name=project_name)
-
-    hparams = {
-        # start config the model
-        "lora": True,
-        "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
-        "accelerator": True,
-        "model_path": os.path.join(ckpt_folder, base_model),
-        # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
-        "lora_path": None,
-        # start config the tokenizer
-        "tokenizer_path": os.path.join(ckpt_folder, base_model),
-        "use_fast": True,
-        "padding_side": "left", # set to left use less memory
-        "truncation_side": "right", 
-        # close to check distribution of sequence length to set the max_length  
-        "add_eos_token": True,
-        "add_bos_token": True,
-        "padding": True,
-        "truncation": True,
-        "max_length": 512, # set to None to use the max length of the dataset, 512
-    }
-
-    # Set up the model and the tokenizer
-    model = setup_model(hparams)
-    model.config.window = 256 # set the window size for the PEFT model
-    model = accelerator.prepare_model(model)   # require more memory to accelerate
-    if torch.cuda.device_count() > 1: # If more than 1 GPU
-        model.is_parallelizable = True
-        model.model_parallel = True
-        print("Model is parallelizable")
-    tokenizer = setup_tokenizer(hparams)
+    # # Set up the model and the tokenizer
+    model = setup_model(config["model"])#.to(config["local_rank"])
+    tokenizer = AutoTokenizer.from_pretrained(**config["tokenizer"])
     tokenizer.pad_token = tokenizer.eos_token
-    # print(model.config, '\n')
-    model.print_trainable_parameters()
 
     # load the dataset
-    # data = load_dataset("json", data_files="../../../data/susgen/alpaca/alpaca_data_gpt4.json", split="train")
-    data = load_dataset("json", data_files="/home/whatx/SusGen/data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json", split="train")
-    # data = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
-    train_data, val_data = split_data(data, split_ratio=0.005)
-    # print(tokenize(tokenizer, hparams, alpaca[0]["instruction"])) # test the tokenizer
+    data = load_dataset("json", data_files=config["data"]["train"], split="train")
+    if config["data"]["val"]:
+        train_data = data
+        val_data = load_dataset("json", data_files=config["data"]["val"], split="train")
+    else:
+        train_data, val_data = split_data(data, split_ratio=config["data"]["val_split_ratio"])
+    
+    # test the tokenizer
+    # print(tokenize(tokenizer, config["tokenizer"]["encode"], train_data[0]["instruction"]))
+    # input_ids = tokenizer(train_data[0]["instruction"], return_tensors='pt')["input_ids"]
+    # print("="*20, "\n", input_ids)
 
-    data_2_prompt = mistral_formal
-    tokenized_train_data = train_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
-    tokenized_val_data = val_data.map(get_tokenized_prompt(data_2_prompt, tokenizer, hparams))
-    print(tokenized_train_data)
-    # plot_data_lengths(tokenized_train_alpaca, tokenized_val_dataset=tokenized_val_alpaca,
-    #                   save_name="figs/alpaca_gpt4.png")
+    prompt = eval(config["data"]["prompt"])
+    def formatting_prompts_func(example):
+        output_texts = []
+        for i in range(len(example['instruction'])):
+            temp = {
+                "instruction": example['instruction'][i],
+                "input": example['input'][i],
+                "output": example['output'][i]
+            }
+            output_texts.append(prompt(temp))
+        return output_texts
+
+    # train_data_ = train_data.select([0, 1])
+    # tokenized_train_data = train_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))#, batched=True, batch_size=512, num_proc=20).shuffle()
+    # tokenized_val_data = val_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
+    
+    # print(tokenized_train_data[0])
+    # plot_data_lengths(tokenized_train_data, tokenized_val_data, "figs/alpaca_gpt4.png")
 
     # Set up the training arguments
-    output_dir = os.path.join("results", project_name, "ckpts")
-    logging_dir = os.path.join("results", project_name, "logs")
-    trainer = transformers.Trainer(
+    output_dir = config["output_dir"]
+    logging_dir = os.path.join(output_dir, "logs")
+
+    response_template = "### Response:"
+    data_collator = DataCollatorForCompletionOnlyLM(response_template, tokenizer=tokenizer)
+
+    training_args = TrainingArguments(
+        output_dir=output_dir,
+        logging_dir=logging_dir,
+        local_rank=config["local_rank"],
+        run_name="{name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}",
+        **config["training"]
+    )
+    training_args.distributed_type = DistributedType.DEEPSPEED
+
+    # trainer = transformers.Trainer(
+    trainer = SFTTrainer(
         model=model,
-        train_dataset=tokenized_train_data,
-        eval_dataset=tokenized_val_data,
-        args=TrainingArguments(
-            output_dir=output_dir,
-            deepspeed="./configs/ds_configs/ds_config_stage_2.json", 
-            # Use deepspeed for training acceleration(if not could comment out)
-            warmup_steps=500,               # Number of steps for the warmup phase
-            # max_steps=7000,               # Total number of training steps
-            num_train_epochs=10,             # Number of epochs to train the model
-            num_train_epochs=10,             # Number of epochs to train the model
-            per_device_train_batch_size=32,
-            gradient_accumulation_steps=4,  # Accumulate gradients before backpropagation
-            learning_rate=5e-5,             # Want a small lr for finetuning
-            lr_scheduler_type="cosine",     # Scheduler with warmup, or use "linear"
-            bf16=True,                      # Use bfloat16 for training
-            optim="paged_adamw_32bit",      # adamw_apex_fused, adamw, paged_adamw_8/32bit
-            logging_steps=10,               # Log every ... step
-            logging_dir=logging_dir,        # Directory for storing logs
-            save_strategy="epoch",          # Save the model checkpoint "steps", or "epoch"
-            # save_steps=500,                  # Save checkpoints every ... steps
-            evaluation_strategy="steps",    # Evaluate the model every logging step
-            eval_steps=250,                  # Evaluate and save checkpoints every ... steps
-            do_eval=True,                   # Perform evaluation at the end of training
-            report_to="wandb",              # Comment this out if you don't want to use weights & baises
-            run_name=f"{project_name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}"   
-                                            # Name of the W&B run (optional)
-        ),
-            data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
+        train_dataset=data,
+        # eval_dataset=tokenized_val_data,
+        formatting_func=formatting_prompts_func,
+        args=training_args,
+        # args=TrainingArguments(
+        #     output_dir=output_dir,
+        #     logging_dir=logging_dir,
+        #     run_name="{name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}",
+        #     **config["training"]
+        # ),
+        data_collator=data_collator,
+        # data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
-    # trainer.train()
-    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-233"))
+    if config["training"]["resume_from_checkpoint"]:
+        trainer.train(resume_from_checkpoint=config["training"]["resume_from_checkpoint"])
+    else:
+        trainer.train()
     trainer.save_model(output_dir)
-    trainer.train()
-    trainer.train(resume_from_checkpoint=os.path.join(output_dir, "checkpoint-1165"))
-    # trainer.save_model(output_dir)
 
-"""
-"""
-def test():
-    # data_ = load_dataset("json", data_files="../../../data/susgen/mid_term_version/susgen_6k.json", split="train")
-    # data_.train_test_split(test_size=0.1)
-    ckpt_folder = "../../../ckpts/"
-    model_name = "Mistral-7B-v0.3-hf" #  "Meta-Llama-3-8B-Instruct-hf" #
-    repo_path = os.path.join(ckpt_folder, model_name)
-    hparams = {
-        # start config the model
-        "lora": True,
-        "quantization": 'int4', # 'int4' or 'int8' or 'bf16' or None
-        "accelerator": True,
-        "model_path": repo_path,
-        # "lora_path": "results/Mistral-7B_alpaca-lora/ckpts/final", # set to None if not using pre-adapter
-        "lora_path": None,
-        # start config the tokenizer
-        "tokenizer_path": repo_path,
-        "use_fast": False,
-        "padding_side": "left", # set to left use less memory
-        "truncation_side": "right", 
-        # close to check distribution of sequence length to set the max_length  
-        "add_eos_token": True,
-        "add_bos_token": True,
-        "padding": True,
-        "truncation": True,
-        "max_length": 512, # set to None to use the max length of the dataset
-    }
-    tokenizer = setup_tokenizer(hparams)
+def test(config):
+    tokenizer = AutoTokenizer.from_pretrained(**config["tokenizer"])
     tokenizer.pad_token = tokenizer.eos_token
     print(tokenizer.pad_token, tokenizer.eos_token, tokenizer.bos_token, 
         tokenizer.unk_token, tokenizer.sep_token, tokenizer.mask_token)
     print(tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
         tokenizer.unk_token_id, tokenizer.sep_token_id, tokenizer.mask_token_id)
     # id to token
-    print(tokenizer.decode([tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id]))
-        # tokenizer.unk_token_id]))
-    # print the whole tokenizer dict
+    print(tokenizer.decode([29473, tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id]))
     # print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
-    # test the tokenizer
-    prompt = "This is a test sentence."
     prompt = {
         "instruction": prompt,
         "input": "",
         "output": "Sure."
     }
-    print(prompt)
     prompt = mistral_formal(prompt)
-    print(tokenizer.decode(tokenizer(prompt, max_length=22, truncation=True, padding="max_length")["input_ids"]))
-    print(torch.cat([tokenizer(prompt, prompt, return_tensors="pt")["input_ids"], torch.tensor([[2]])], dim=1).flatten().tolist())
-    print(len(tokenizer(prompt, return_tensors="pt")["input_ids"][0]))
-"""
-"""
+    print(tokenizer.decode(tokenizer(prompt)["input_ids"]))
+    # print(torch.cat([tokenizer(prompt, return_tensors="pt")["input_ids"], torch.tensor([[tokenizer.eos_token_id]])], dim=1).flatten().tolist())
+    print(len(tokenizer(prompt, return_tensors="pt", max_length=100, truncation=True, padding=True)["input_ids"][0]))
 
 if __name__ == "__main__":
-    # test()
-    main()
-    # test()
-    main()
-    # CUDA_VISIBLE_DEVICES=0,1 python finetune.py
+    mp.set_start_method("spawn")
+
+    parser = ArgumentParser(description="Fine-tune LLM with Lora using a config file")
+    parser.add_argument("--config", type=str, help="Path to the config file", default="configs/finetune_config.yaml")
+    args = parser.parse_args()
+
+    with open(args.config, "r") as f:
+        config = yaml.safe_load(f)
+
+    torch.distributed.init_process_group(backend='nccl', init_method='env://')
+    local_rank = config["local_rank"]
+    # torch.cuda.set_device(local_rank)
+
+    # test(config
+    main(config)
+    # CUDA_VISIBLE_DEVICES=1 torchrun --nproc_per_node=1 --master_port=29501 finetune.py
+
+    # CUDA_VISIBLE_DEVICES=0,1 deepspeed finetune.py --config=configs/finetune_config.yaml
+    # python -m torch.distributed.launch --nproc_per_node 1 finetune.py --config=configs/finetune_config.yaml
+    # master_port=$(shuf -n 1 -i 10000-65535) deepspeed --include localhost:0,1 --master_port "${master_port}" finetune.py --config=configs/finetune_config.yaml

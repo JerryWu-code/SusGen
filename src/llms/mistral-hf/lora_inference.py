@@ -3,7 +3,7 @@
 # Description: Use this to do the inference mistral-7B with lora
 
 #############################################################################
-import torch, warnings
+import torch, warnings, os
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, TextStreamer
 from peft import PeftModel
 warnings.filterwarnings("ignore")
@@ -21,6 +21,12 @@ lora_susgenv2_3_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral
 lora_susgenv2_3_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
 lora_susgenv2_3_4epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
 lora_susgenv2_3_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
+lora_susgenv2_3_10epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-2330"
+lora_susgenv2_b1_1epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
+lora_susgenv2_b1_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
+lora_susgenv2_b1_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
+lora_susgenv2_b1_4epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
+lora_susgenv2_b1_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
 lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
@@ -63,28 +69,29 @@ def prompt_formal(record):
 
 def inference(model, tokenizer, prompt, prompt_template, mode):
     model.eval()
-    input_ids = tokenizer(prompt_template(prompt), return_tensors="pt").to(device)
+    input_ids = tokenizer.encode(prompt_template(prompt), return_tensors="pt").to(device)
     # Streaming generation
     streamer = TextStreamer(tokenizer)
     with torch.no_grad():
-        result = tokenizer.decode(
+        result = tokenizer.batch_decode(
             model.generate(
-                **input_ids, 
+                input_ids=input_ids, 
                 max_new_tokens=512, 
                 repetition_penalty=1.3,
-                streamer=streamer # Streaming generation
-                )[0], 
+                streamer=streamer, # Streaming generation
+                num_return_sequences=1
+                ), 
                 skip_special_tokens=True,  
-            )
+            )[0]
         if mode == "susgen_v1":
             question = result.split(" [INST] [/INST]### Response: ")[0].split("[INST] ### Instruction: ")[1]
             answer = result.split("Response: ")[1]
             return question, answer
-        if mode == "susgen_mistral_v0.2":
+        if mode == "SusGen_GPT_Mistral_Instruct_v0.2":
             question = result.split("[INST] ")[1].split("\n\n [/INST]")[0]
             answer = result.split("### Response:\n")[1]
             return question, answer
-        if mode == "susgen_mistral_v0.3":
+        if mode == "SusGen_GPT_Mistral_Instruct_v0.3":
             question = result.split("### Response:")[0]
             answer = result.split("### Response:\n")[1]
             return question, answer
@@ -146,6 +153,11 @@ def main():
         "input": "Subordinated Loan Agreement - Silicium de Provence SAS and Evergreen Solar Inc . 7 - December 2007 [ HERBERT SMITH LOGO ] ................................ 2007 SILICIUM DE PROVENCE SAS and EVERGREEN SOLAR , INC .",
         "output": "organization"
     }
+    test_sa_cls = {
+        "instruction": "What is the sentiment of this tweet? Please choose an answer from {negative/neutral/positive}.",
+        "input": "$PYPL great vol flow trade here.. Love this company long time.",
+        "output": "positive"
+    }
 
     bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -154,8 +166,11 @@ def main():
     bnb_4bit_compute_dtype=torch.bfloat16
     )
 
-    mode = "susgen_mistral_v0.3"
+    mode = "SusGen_GPT_Mistral_Instruct_v0.3"
     model_path = "../../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+    result_path = "../../../results"
+    save_name = mode + "_30k_3epoch"
+
     tokenizer = AutoTokenizer.from_pretrained(
         model_path, 
         add_bos_token=True,
@@ -165,20 +180,26 @@ def main():
     )
     base_model = AutoModelForCausalLM.from_pretrained(
         model_path,
-        quantization_config=bnb_config,
+        # quantization_config=bnb_config,
         torch_dtype=torch.float16,
     )
-    if mode == "susgen_mistral_v0.2":
-        model = load_lora(base_model, lora_susgenv2_2_5epoch)
-    elif mode == "susgen_mistral_v0.3":
-        model = load_lora(base_model, lora_susgenv2_3_5epoch)
+    if mode == "SusGen_GPT_Mistral_Instruct_v0.2":
+        model = load_lora(base_model, lora_susgenv2_2_5epoch).to(device)
+    elif mode == "SusGen_GPT_Mistral_Instruct_v0.3":
+        model = load_lora(base_model, lora_susgenv2_3_3epoch).to(device)
 
-    # model_input = instr_prompt(prompt_adjust(test_prompt)), return_tensors="pt").to(device)
     question, answer = inference(
-        model, tokenizer, prompt=test_qa, prompt_template=prompt_short, mode=mode)
-    print(f"\n{'=' * 100}\nModel: {mode}\n{'-' * 10}")
+        model, tokenizer, prompt=test_ner_cls, prompt_template=prompt_formal, mode=mode)
+    print(f"\n{'=' * 100}\nModel: {save_name}\n{'-' * 10}")
     print(f"Question:\n{'-' * 10}\n{question.strip()}\n{'=' * 100}")
     print(f"Answer:\n{'-' * 10}\n{answer.strip()}\n{'=' * 100}")
+
+    # commit_message = "Initial commit of the model"
+    # model.save_pretrained(os.path.join(result_path, "adapters", save_name))
+    # model.push_to_hub(f"WHATX/{save_name}", private=True, commit_message=commit_message)
+    # model = model.merge_and_unload()
+    # model.save_pretrained(os.path.join(result_path, "merged_model", save_name + "_merged"))
+    # tokenizer.save_pretrained(os.path.join(result_path, "merged_model", save_name + "_merged"))
 
 if __name__ == "__main__":
     main()
