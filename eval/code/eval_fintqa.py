@@ -5,13 +5,35 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
 from collections import Counter
+import pandas as pd
 
 def load_json(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data
+def extract_numbers(true_value, predicted_text, threshold=0.01):
+    
+    def convert_to_decimal(value):
+        if value.endswith('%'):
+            return round(float(value[:-1]) / 100, 5)
+        return round(float(value), 5)
+    
+    true_value = convert_to_decimal(true_value)
+    
+    pattern = re.compile(r'-?\d+\.?\d*%?')
+    predicted_numbers = pattern.findall(predicted_text)
+    predicted_numbers = [convert_to_decimal(num) for num in predicted_numbers]
+    
+    for num in predicted_numbers:
+        if abs((num - true_value) / true_value) < threshold:
+            return True
+    return False
 
-def evaluate_fintqa(model_path, test_data_path, args):
+def is_number(s):
+    pattern = re.compile(r'^-?\d+(\.\d+)?$')
+    return bool(pattern.match(s))
+
+def evaluate_fintqa(model_path, test_data_path, args, output_csv_path, output_txt_path):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -20,10 +42,11 @@ def evaluate_fintqa(model_path, test_data_path, args):
     
     y_true = []
     y_pred = []
+    eval_results = []
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 10:
+        if count > 50:
             break
         count += 1
         prompt = "Please strictly format your answer:" + sample['instruction'] + '\n\n' + sample['input']
@@ -31,27 +54,44 @@ def evaluate_fintqa(model_path, test_data_path, args):
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         
-        # Split the expected output and the generated answer by comma and newline
-        pattern = re.compile(r'[.,;:!?]\s*|\n')
-        #true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
-        predicted_entities = re.sub(r"[^\w\s]", ' ', answer).lower().split()
-        print('='*50)
-        print(true_entities)
-        print(predicted_entities)
-        true_idx = 0
-        is_correct = True
+        if is_number(sample['output']):
+            print('='*50)
+            print(sample['output'])
+            y_true.append(1)
+            y_pred.append(1 if extract_numbers(sample['output'], answer) else 0)
+            print('True' if y_pred[-1] else 'False')
+        else:
+            # Split the expected output and the generated answer by comma and newline
+            pattern = re.compile(r'[.,;:!?]\s*|\n')
+            #true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
+            true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
+            predicted_entities = re.sub(r"[^\w\s]", ' ', answer).lower().split()
+            print('='*50)
+            print(true_entities)
+            print(predicted_entities)
+            true_idx = 0
+            is_correct = True
+            
+            for pred_entity in predicted_entities:
+                if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
+                    true_idx += 1
+                if true_idx == len(true_entities):
+                    break
+            if true_idx != len(true_entities):
+                is_correct = False
+            print(is_correct)
+            y_true.append(1)
+            y_pred.append(1 if is_correct else 0)
+            
+        eval_results.append({
+            'prompt': prompt,
+            'generated': answer,
+            'target': sample['output'],
+            'is_correct': y_pred[-1]
+        })
         
-        for pred_entity in predicted_entities:
-            if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
-                true_idx += 1
-            if true_idx == len(true_entities):
-                break
-        if true_idx != len(true_entities):
-            is_correct = False
-        print(is_correct)
-        y_true.append(1)
-        y_pred.append(1 if is_correct else 0)
+    df = pd.DataFrame(eval_results)
+    df.to_csv(output_csv_path, index=False)
 
     # Calculate evaluation metrics
     accuracy = accuracy_score(y_true, y_pred)
@@ -66,11 +106,18 @@ def evaluate_fintqa(model_path, test_data_path, args):
         'f1_score': f1
     }
     
+    with open(output_txt_path, 'w') as f:
+        f.write(f"Accuracy: {accuracy}\n")
+        f.write(f"Precision: {precision}\n")
+        f.write(f"Recall: {recall}\n")
+        f.write(f"F1 Score: {f1}\n")
     return results
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    path_li = ["../benchmark/FINQA/flare-convfinqa_test.json", "../benchmark/FINQA/flare-convfinqa_test.json"]
+    path_li = ["../benchmark/FINTQA/flare-convfinqa_test.json", "../benchmark/FINTQA/flare-convfinqa_test.json"]
+    output_csv_path = "../results/Mistral-v0.2/FINTQA/fintqa_eval_results.csv"
+    output_txt_path = "../results/Mistral-v0.2/FINTQA/fintqa_eval_results.txt"
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -81,7 +128,7 @@ def main():
     }
     for path in path_li:
         test_data_path = path
-        results = evaluate_fintqa(model_path, test_data_path, args)
+        results = evaluate_fintqa(model_path, test_data_path, args, output_csv_path, output_txt_path)
         print(results)
 
 if __name__ == "__main__":

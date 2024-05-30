@@ -186,10 +186,11 @@ def main():
     if mode == "SusGen_GPT_Mistral_Instruct_v0.2":
         model = load_lora(base_model, lora_susgenv2_2_5epoch).to(device)
     elif mode == "SusGen_GPT_Mistral_Instruct_v0.3":
-        model = load_lora(base_model, lora_susgenv2_3_3epoch).to(device)
+        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.3/checkpoint-468").to(device)
+        # model = load_lora(base_model, lora_susgenv2_3_3epoch).to(device)
 
     question, answer = inference(
-        model, tokenizer, prompt=test_ner_cls, prompt_template=prompt_formal, mode=mode)
+        model, tokenizer, prompt=test_qa, prompt_template=prompt_formal, mode=mode)
     print(f"\n{'=' * 100}\nModel: {save_name}\n{'-' * 10}")
     print(f"Question:\n{'-' * 10}\n{question.strip()}\n{'=' * 100}")
     print(f"Answer:\n{'-' * 10}\n{answer.strip()}\n{'=' * 100}")

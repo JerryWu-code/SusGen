@@ -113,11 +113,11 @@ def print_tranable_params(model):
 def get_tokenized_prompt(data_2_prompt, tokenizer, hparams):
     def wrapper(record):
         input_text = data_2_prompt(record)
-        output_text = input_text.split("### Response:\n")[1]
-        input_prompt = input_text.split("### Response:\n")[0] + "### Response:\n"
+        # output_text = input_text.split("### Response:\n")[1]
+        # input_prompt = input_text.split("### Response:\n")[0] + "### Response:\n"
 
         input_ids = tokenizer(input_text, **hparams)["input_ids"]
-        prompt_ids = tokenizer(input_prompt, **hparams)["input_ids"]
+        # prompt_ids = tokenizer(input_prompt, **hparams)["input_ids"]
         
         # input_ids & labels are same when self-supervised learning, here use supervised learning trick
         # input_ids = torch.cat([input_ids, torch.tensor([[tokenizer.eos_token_id]])], dim=1)
@@ -185,8 +185,8 @@ def main(config):
         return output_texts
 
     # train_data_ = train_data.select([0, 1])
-    # tokenized_train_data = train_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))#, batched=True, batch_size=512, num_proc=20).shuffle()
-    # tokenized_val_data = val_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
+    tokenized_train_data = train_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))#, batched=True, batch_size=512, num_proc=20).shuffle()
+    tokenized_val_data = val_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
     
     # print(tokenized_train_data[0])
     # plot_data_lengths(tokenized_train_data, tokenized_val_data, "figs/alpaca_gpt4.png")
@@ -195,33 +195,30 @@ def main(config):
     output_dir = config["output_dir"]
     logging_dir = os.path.join(output_dir, "logs")
 
-    response_template = "### Response:"
-    data_collator = DataCollatorForCompletionOnlyLM(response_template, tokenizer=tokenizer)
-
     training_args = TrainingArguments(
         output_dir=output_dir,
         logging_dir=logging_dir,
         local_rank=config["local_rank"],
-        run_name="{name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}",
+        run_name=f"{config['name']}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}",
         **config["training"]
     )
     training_args.distributed_type = DistributedType.DEEPSPEED
 
-    # trainer = transformers.Trainer(
-    trainer = SFTTrainer(
+    # trainer = SFTTrainer(
+    #     model=model,
+    #     train_dataset=data,
+    #     formatting_func=formatting_prompts_func,
+    #     args=training_args,
+    #     data_collator=DataCollatorForCompletionOnlyLM(
+    #          response_template=""### Response:", tokenizer=tokenizer),
+    # )
+
+    trainer = transformers.Trainer(
         model=model,
-        train_dataset=data,
-        # eval_dataset=tokenized_val_data,
-        formatting_func=formatting_prompts_func,
+        train_dataset=tokenized_train_data,
+        eval_dataset=tokenized_val_data,
         args=training_args,
-        # args=TrainingArguments(
-        #     output_dir=output_dir,
-        #     logging_dir=logging_dir,
-        #     run_name="{name}_{datetime.now().strftime('%Y-%m-%d-%H-%M')}",
-        #     **config["training"]
-        # ),
-        data_collator=data_collator,
-        # data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
+        data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
     )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 

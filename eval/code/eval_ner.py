@@ -4,6 +4,7 @@ sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
+import pandas as pd
 from collections import Counter
 
 ent_dict = {
@@ -18,7 +19,7 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_ner(model_path, test_data_path, args):
+def evaluate_ner(model_path, test_data_path, args, output_csv_path, output_txt_path):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -27,13 +28,14 @@ def evaluate_ner(model_path, test_data_path, args):
     
     y_true = []
     y_pred = []
+    eval_results = []
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 20:
-            break
-        count += 1
-        prompt = "Please strictly format your answer:" + sample['instruction'] + '\n\n' + sample['input']
+        # if count > 50:
+        #     break
+        # count += 1
+        prompt = "Please strictly format your answer with instructions:" + sample['instruction'] + '\n\n' + sample['input']
         final_prompt = instr_prompt(content=prompt)
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
@@ -71,6 +73,17 @@ def evaluate_ner(model_path, test_data_path, args):
         print(is_correct)
         y_true.append(1)
         y_pred.append(1 if is_correct else 0)
+        
+        eval_results.append({
+            'prompt': prompt,
+            'generated': answer,
+            'target': sample['output'],
+            'is_correct': 'Yes' if is_correct else 'No'
+        })
+        
+    df = pd.DataFrame(eval_results)
+    df.to_csv(output_csv_path, index=False)
+    
 
     # Calculate evaluation metrics
     accuracy = accuracy_score(y_true, y_pred)
@@ -85,12 +98,18 @@ def evaluate_ner(model_path, test_data_path, args):
         'f1_score': f1
     }
     
+    with open(output_txt_path, 'w') as f:
+        for key, value in results.items():
+            f.write(f"{key}: {value}\n")
+            
     return results
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
     test_data_path = "../benchmark/NER/flare-ner-test.json"
     # test_data_path = "../benchmark/NER/fingpt-ner-cls_test.json"
+    output_csv_path = "../results/Mistral-v0.2/NER/ner_eval_results.csv"
+    output_txt_path = "../results/Mistral-v0.2/NER/ner_eval_results.txt"
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -100,7 +119,7 @@ def main():
         "num_return_sequences": 1
     }
 
-    results = evaluate_ner(model_path, test_data_path, args)
+    results = evaluate_ner(model_path, test_data_path, args, output_csv_path, output_txt_path)
     print(results)
 
 if __name__ == "__main__":

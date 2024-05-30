@@ -1,5 +1,5 @@
-name: "SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.2"
-output_dir: "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.2"
+name: "SusGen30k-int4-adamw32_Mistral-7B-v0.2"
+output_dir: "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.2"
 local_rank: 
 
 data:
@@ -9,23 +9,23 @@ data:
   prompt: mistral_formal
 
 tokenizer:
-  pretrained_model_name_or_path: "../../../ckpts/Mistral-7B-Instruct-v0.2-hf" # Meta-Llama-3-8B-Instruct-hf
+  pretrained_model_name_or_path: "../../../ckpts/Mistral-7B-v0.2-hf" # Meta-Llama-3-8B-Instruct-hf
   use_fast: True
   padding_side: "left" # left use less memory
   truncation_side: "right"
   add_bos_token: True
   add_eos_token: False # Different version will conflict, so set it to False and manually add eos token
   add_prefix_space: False
-  model_max_length: 512
+  model_max_length: 1024
   encode:
     padding: "max_length" # True, max_length, longest, None
     truncation: True
-    max_length: 512 # None to use the maximum length, set after checking the dataset
+    max_length: 1024 # None to use the maximum length, set after checking the dataset
     return_tensors: "pt" # pt for pytorch, tf for tensorflow, np for numpy, default is list
 
 model:
   show_config: False
-  model_path: "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+  model_path: "../../../ckpts/Mistral-7B-v0.2-hf"
   lora_path: False # set to False if base model without lora
   seed: 2024
   window: 256 # set the window size for the PEFT model
@@ -64,7 +64,7 @@ model:
 
 training:
   num_train_epochs: 5
-  per_device_train_batch_size: 8
+  per_device_train_batch_size: 16
   learning_rate: 0.00005
   gradient_accumulation_steps: 8
   warmup_steps: 200

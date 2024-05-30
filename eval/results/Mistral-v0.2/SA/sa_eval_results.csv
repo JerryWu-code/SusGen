@@ -1,0 +1,310 @@
+prompt,generated,target,is_correct
+"What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?
+
+$BBRY Actually lost .03c per share if U incl VZ as no debt and 3.1 in Cash.","Based on the information provided, it appears that BBry reported a loss of $0.03 per share after excluding the impact of Verizon (VZ) from their earnings report and adjusting for no debt and $3.1 in cash. This suggests a negative sentiment towards the company's financial performance based on this specific data point. However, it's important to note that one data point does not necessarily paint a complete picture of a company's financial health or sentiment. Other factors such as revenue growth, profitability trends, competitive landscape, and management guidance should also be considered when evaluating a company's financial situation.",negative,Yes
+"Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?
+
+Legal & General share price: Finance chief to step down","The headline ""Finance chief to step down from Legal & General"" is neutral in nature as it simply reports an event without expressing any positive or negative sentiment. However, the impact on the company's stock price and overall market trends would depend on other factors such as the reason for the departure, the qualifications and experience of the successor, and investor confidence in the company moving forward.",negative,No
+"Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?
+
+Kingfisher share price slides on cost to implement new strategy","The headline ""Kingfisher share price slides"" suggests a negative sentiment. However, it's important to note that this is just a headline and may not fully reflect the content of the article. To determine the overall sentiment of the financial analysis, one would need to read the entire article carefully to understand the context and implications behind the company's decision to implement a new strategy and its impact on Kingfisher's stock price.",negative,Yes
+"Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?
+
+EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany",Neutral. The headline itself does not convey a positive or negative sentiment towards the financial reform discussion between EasyJet and Lufthansa. It simply reports that EasyJet has dismissed Lufthansa's low-cost plan as part of their competition for the German market.,negative,No
+"Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?
+
+Tesco share price tumbles after negative broker note","Based on the information provided in the sentence, I would classify the sentiment as ""Negative."" The fact that Tesco's share price has ""tumbled"" suggests a significant decrease in value, and the use of the word ""negative"" to describe a broker note implies that the analysis contained therein was unfavorable.",negative,Yes
+"Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?
+
+$KIOR My god. Market getting crushed today. Gotta hold if anything g should recover some tomorrow I imagine.","Based on the given text, it appears to express a negative sentiment towards the market performance and potentially the banking sector specifically, as indicated by the use of phrases like ""gotta hold"" and ""market getting crushed."" However, there is also an element of hope expressed for potential recovery in the future. Overall, the tone can be considered cautiously negative with a hint of optimism.",negative,Yes
+"Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?
+
+City spirits sink after Diageo comes up short with sales slide","Based on the given headline alone, it's difficult to determine the exact sentiment as it is neutral in tone. However, the use of the term ""city spirits sink"" suggests a negative connotation. Therefore, the overall sentiment of the financial strategy session implied by the headline could be considered negative.",negative,Yes
+"Classify the sentiment of this financial report as Positive, Negative, or Neutral.
+
+$renn topping tail 5 min. chart at 7.31 short from here.",This statement appears to be neutral in tone. It is a comment about the price action of RENN stock on its five-minute chart and does not contain any overtly positive or negative language. The statement simply describes the current price level and the intention to sell short from that point.,negative,No
+"Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?
+
+Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs","Based on the given information from the tweet, it appears that the sentiment is neutral. The tweet reports that Tesla will be recalling some Model X SUVs due to a seat issue, which could potentially be viewed as negative news for the company if customers are concerned about safety issues. However, recalls are common in the automotive industry and do not necessarily indicate significant problems with a vehicle or its manufacturer. Therefore, the neutral tone seems appropriate based on the available information.",negative,No
+"Assess the sentiment of this financial podcast excerpt: Positive, Negative, or Neutral?
+
+$GLD http://stks.co/44ow On closer inspection.  Resistance 10 points north at 200d and downward trendline. Chart 2 of 2.",Neutral: The excerpt does not contain any overtly positive or negative language. It is simply stating a fact about the chart of $GLD and identifying resistance levels.,negative,No
+"Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?
+
+Fastenal misses by $0.01, misses on revenue $FAST #NYSE https://t.co/63JHQ7pwMN","Based on the given information, it appears that Fastenal has missed its earnings and revenue estimates for a penny. This news could be perceived as negative by some investors since missing expectations can often lead to a decrease in stock price. However, it's important to note that one data point does not necessarily indicate an overall positive, negative, or neutral sentiment towards the company. Other factors such as the reason behind the miss, future guidance, and management commentary should also be considered when determining sentiment.",negative,Yes
+"Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?
+
+Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...","The given text does not express an explicit sentiment and is neutral in nature. It simply states that oil majors, including Royal Dutch Shell, Chevron, and BP, have failed to discover enough reserves recently. This information alone does not indicate a positive or negative outlook on the situation. However, depending on the context and additional information, it could potentially be interpreted as negative if investors view this lack of reserve growth as a concern for future production and profitability.",negative,Yes
+"Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?
+
+$COST Costco less than stellar day but it held the 50 day moving average","The given tweet expresses a neutral sentiment towards $COST (Costco Wholesale Corporation). It mentions that Costco had a ""less than stellar day,"" which could be interpreted as negative news. However, the saving grace for the company is that it managed to hold its 50-day moving average, indicating some level of support from investors despite the subpar performance on that particular day. Overall, the tweet acknowledges both positive and negative aspects of Costco's recent stock market performance, resulting in a neutral sentiment.",negative,Yes
+"Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?
+
+Tesco set to sell Kipa, Giraffe businesses - Sky News","The headline ""Tesco set to sell Kipa, Giraffe businesses"" itself is neutral as it only reports a business transaction without expressing any emotion. However, the sentiment towards this news can be positive or negative depending on various factors such as Tesco's financial situation, the performance of the Kipa and Giraffe businesses, and investor reactions. For instance, if selling these businesses allows Tesco to focus on its core operations and improve profitability, then investors might view it positively. On the other hand, if the sale signifies Tesco's weakened position in the market or poor financial health, then investors could react negatively. Without further context from the article, it is impossible to definitively classify the sentiment as positive, negative, or neutral.",negative,No
+"Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?
+
+Multi Top on $MCD chart finally leads to a fall in price.  Stability is questioned in the stock but coming weeks will tell.","Neutral: The statement acknowledges both an event (the "" Multi Top"" leading to a price decrease) and uncertainty about what may come next (""coming weeks will tell""). It does not expressly convey positive or negative emotions.",negative,No
+"Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?
+
+$NQ got hit hard lower this AM --> looks like it has found support a 18.89 http://stks.co/s052z","Based on the information provided in your message, I would classify the sentiment as neutral. The statement acknowledges that $NQ experienced a significant decline earlier in the day but also indicates that the stock may have found support at a specific price level (18.89). This suggests an element of caution and observation rather than outright positivity or negativity.",negative,No
+"What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?
+
+#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP","Based on the given tweet and its title, it appears to have a negative sentiment towards Tesla (TSLA) as it mentions a recall for their Model X car, which could be perceived as an indication of reliability issues. However, it's essential to note that reading sentiment from just one data point can be misleading. Analyzing larger datasets or context around multiple posts would provide a more accurate representation of overall sentiment.",negative,Yes
+"Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?
+
+$TWTR sad the only thing to move this is a takeover rumor only to be sold off next day !","Neutral: The statement expresses disappointment about the lack of movement in $TWIT's price due to financial reform discussions and instead attributes any potential price action to takeover rumors. However, it does not convey an overtly positive or negative sentiment towards the situation itself.",negative,No
+"Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?
+
+Timberrrr $TSLA https://t.co/MRBgfDHHVa","I cannot determine the sentiment of that tweet without reading its content first. The given text only includes a link to a Timberrr post about Tesla ($TSLA), but no information about the actual content of the post is provided. Therefore, it's impossible for me to classify the sentiment as positive, negative, or neutral based on this limited information alone. To accurately assess the sentiment, you would need to read the linked article and interpret its tone yourself.",negative,No
+"Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?
+
+Here come the shorts marchin' in.  $GMCR.  Lovin' it!","Based on the given text, it can be classified as positive. The use of the phrase ""lovin' it!"" suggests a favorable outlook towards the situation mentioned, which is the shorting of GMCR stock.",negative,No
+"Judge the sentiment of the following financial reform discussion: Positive, Negative, or Neutral?
+
+Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",Neutral. The statement is factual in nature and does not express a positive or negative sentiment towards financial reform. It reports that these companies are cutting petrol prices due to falling oil prices.,negative,No
+"Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?
+
+$LNKD Daily Phase 2 retest - Price experiencing early rejection. Can it retest? http://stks.co/t04xX","Neutral: The commentary is discussing a potential price action in the stock market and does not express an overtly positive or negative sentiment towards LinkedIn (LNKD) or its price movement. Instead, it raises a question about whether the stock can retest a previous level following an initial rejection.",negative,No
+"Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?
+
+U.K. Stocks Little Changed Near Record as Barclays, Shell Fall","Neutral: The headline itself is neutral and does not indicate a positive or negative sentiment towards the U.K. stocks market as a whole. However, it mentions that some individual companies like Barclays and Shell have fallen in value, but this information alone doesn't provide enough context to determine if the overall sentiment of the article is positive, negative, or neutral. To accurately assess the sentiment, one would need to read the entire article and consider all the facts and details presented within it.",negative,No
+"What is the sentiment of the following market analysis: Positive, Negative, or Neutral?
+
+Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...","The given text does not contain sufficient information to determine a clear-cut positive, negative, or neutral sentiment. Here are some possible interpretations based on common business context:
+
+1. Negative interpretation: Tesco's share price decreases due to the closure of its digital bookstore, Blinkbox Books. This could be seen as a loss for Tesco and potentially unfavorable news for investors.
+2. Neutral interpretation: The text simply reports that Tesco's share price has dropped in relation to the closing of Blinkbox Books without expressing any particular sentiment towards this development. It may also suggest that other factors could influence the stock price.
+3. Mixed interpretation: Depending on the broader context, such as Tesco's overall financial performance and strategic direction, the closure of Blinkbox Books might be viewed positively if it allows the company to focus resources on more profitable areas. However, the text itself doesn't provide enough information to make this assumption.",negative,Yes
+"Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?
+
+Tesla Motors recalls 2,700 Model X SUVs https://t.co/BFWS3DbM0U $TSLA","The headline itself is neutral as it simply reports a fact about Tesla recalling 2,700 Model X SUVs without expressing any positive or negative emotion. However, the sentiment could be inferred from additional context surrounding the news, such as why the vehicles are being recalled and how investors and analysts react to the information. To accurately determine the overall sentiment towards the fiscal quarter review for Tesla, one would need to read beyond just the headline.",negative,No
+"What is the sentiment of the following economic report: Positive, Negative, or Neutral?
+
+@1nvestor: $SODA has a 42.71% Float Short. LoL  http://stks.co/e0DfP","The given text does not contain sufficient information to determine the sentiment of an economic report. It appears to be a comment from a stock investor about the percentage of short positions in relation to the total available shares (float) for the company SODA. This information alone does not indicate whether the sentiment towards the economic outlook or financial performance of the company is positive, negative, or neutral.",negative,No
+"Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?
+
+$RXII Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.","Negative. The statement expresses frustration and criticism towards RXII, suggesting that the company's actions have negatively impacted its stock price.",negative,Yes
+"Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?
+
+$AMRN You can many times find top and bottoms when shorts start rejoicing or bulls start rejoicing. Currently it is the shorts rejoicing","Based on the given text from the financial blog post, the sentiment appears to be negative. The fact that ""shorts are rejoicing"" suggests that there is a bearish outlook towards $AMRN stock in the market. However, it's important to note that this is just one perspective based on the provided information, and further analysis would be required for a comprehensive understanding of the situation.",negative,Yes
+"Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?
+
+@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up",The given text expresses a negative sentiment towards Apple Inc.'s (AAPL) financial performance and the overall stock market. The author believes that AAPL will miss its financial projections and implies that the market may be nearing a peak where many people expect continued upward growth.,negative,Yes
+"What is the sentiment of the following market analysis: Positive, Negative, or Neutral?
+
+$EBAY  e-bay bay!  working on a couple daily dojis .. should continue to the downside  https://t.co/lgU0yBxEZe","Based on the given text, the sentiment can be classified as Negative. The mention of ""working on a couple daily dojis"" and expecting the stock price to continue to the downside indicates a bearish outlook for $EBAY.",negative,Yes
+"Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?
+
+Is Trouble Brewing At Legal & General Group Plc And Aviva plc?","The headline ""Is Trouble Brewing At Legal & General Group Plc and Aviva plc?"" suggests a negative sentiment. However, without additional context from the financial strategy session itself, it's important to note that the tone and content of the discussion could vary widely. It's possible that the title is sensationalized and the actual conversation may be more neutral or even positive in nature. Therefore, while there are indications of potential negativity based on the headline alone, it's essential to consider the full context before making any definitive conclusions about the sentiment of the financial strategy session.",negative,Yes
+"Assess the emotional tone of the following financial press release: Positive, Negative, or Neutral?
+
+@Dlerch LOL! $FMCN back under $17, darn those shorts! No chit Sherlock!","The given text appears to contain a casual and humorous tone. It does not provide any clear indication of positive, negative, or neutral emotional tone related to the financial performance of FMCN. Therefore, it is difficult to make an accurate assessment based on this single statement alone. Additionally, the use of abbreviations like ""LOL!"" and ""darn"" may suggest some level of frustration or disappointment, but without further context, it's hard to be certain.",negative,No
+"Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?
+
+Saudi Aramco, Shell plan to break up Motiva, divide up assets","The given information itself does not contain any clear positive, negative, or neutral sentiment. It is simply a factual statement about Saudi Aramco and Shell's plans to break up and divide up Motiva's assets. Investors might interpret this news differently depending on their individual perspectives and investment strategies. Some investors may view this as a positive development if they believe that the split will lead to more efficient operations and increased value for shareholders. Others may see it as a negative sign if they think that the division could result in higher costs and reduced synergies between the companies. Ultimately, the impact of this news on investor sentiment would depend on the specific details of the deal and how those details are perceived by different market participants.",negative,No
+"Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?
+
+Tesla: Voluntary recall of 2,700 Model X vehicles, due to back seat issue. $TSLA https://t.co/NPAkc3U6GS","Neutral: The headline itself does not contain any clear positive or negative connotations. A voluntary recall is a common occurrence in the automotive industry and can be seen as neither inherently good nor bad. However, the specifics of the situation, including the number of affected vehicles and the nature of the issue, could potentially influence the overall sentiment when considered in context.",negative,No
+"Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?
+
+$QIHU totally missed this one, was about to jump in on that 60 break test but didn't, congrats shorts","Based on the given text, it appears to express a negative sentiment towards QIHU. The author is stating that they had an opportunity to make a profitable trade based on their analysis of $QIHU, but did not take action and instead congratulated those who shorted (sold) the stock, implying that they believe those individuals made a good decision. This language suggests a feeling of regret or disappointment with respect to QIHU, which can be interpreted as a bearish outlook for the company's financial prospects.",negative,Yes
+"Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?
+
+RT @Cash_Cow $TLT still has a rising RSI & MACD, all this bond buying is signaling some bad moves for the market. $SPY $UUP","Based on the given tweet, it appears to express a negative sentiment towards the financial markets and bonds specifically. The use of terms like ""bad moves"" suggests that the author believes there may be unfavorable developments ahead. However, it's important to note that this is just one perspective and should not be taken as definitive evidence of an impending market downturn. As always, investors are encouraged to conduct their own research before making any investment decisions.",negative,Yes
+"Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?
+
+New Credit Suisse boss faces stiff challenge in Asia","I cannot evaluate the sentiment of a stock market prediction from your given text as it does not contain any information about the stock market. The text is instead discussing the challenges faced by the new boss of Credit Suisse in Asia. Therefore, the sentiment analysis would depend on the context and tone of that specific discussion within the article.",negative,No
+"Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?
+
+Shell share price: Standard Life announce position against BG acquisition","It is not possible to determine the sentiment conveyed by that headline alone as it provides insufficient context for an accurate assessment. The tone of the article could be positive (e.g., if Standard Life's announcement supports the acquisition), negative (if they express opposition), or neutral (if their stance is merely reported without any clear implication). To accurately gauge the sentiment, one would need to read the full text of the article.",negative,No
+"Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?
+
+Industry NewsMorrisons unveils which stores will close as 900 jobs face the axe","I cannot evaluate the sentiment of a stock market prediction from the given text as it does not contain any information about the stock market. The text is reporting on Morrisons' announcement that certain stores will be closing and approximately 900 jobs will be lost. This news could potentially have negative implications for investors in Morrisons if they believe that store closures may negatively impact sales or profitability. However, without further context or information about how the markets are reacting to this news, it would be difficult to definitively label the sentiment as positive, negative, or neutral.",negative,Yes
+"Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?
+
+@chessNwine: $IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20.  http://stks.co/r0KKm","The given text expresses a neutral sentiment towards the financial statement as it is primarily focused on analyzing the price action and trend of the IWM index using a chart without explicitly stating any positive or negative emotions attached to the information presented. However, the potential ""descending triangle breakdown"" suggests that there could be a bearish outlook if this eventuates, but the tone remains objective and informational rather than overtly emotional in nature.",negative,No
+"What is the sentiment of the following market analysis: Positive, Negative, or Neutral?
+
+Royal Mail, Johnson Matthey lead FTSE lower","The given text appears to be a headline and does not contain sufficient information for determining the overall sentiment towards Royal Mail, Johnson Matthey, or the FTSE. A neutral tone can be inferred from the headline as it simply reports that these companies led the FTSE (Financial Times Stock Exchange Index) lower without expressing any particular emotion or opinion. For a more accurate assessment of sentiment, one would need to read further into the associated article or report.",negative,No
+"Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?
+
+Supreme Court Upholds $236 Million Jury Award Against ExxonMobil","The given text is neutral as it simply reports a factual event without expressing any positive or negative emotion. However, depending on the context and tone of the rest of the article or document, the sentiment towards ExxonMobil could be perceived as negative due to the large monetary penalty involved in the Supreme Court's decision.",negative,Yes
+"Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?
+
+Glencore Cuts 2015 Budget, Plans To Divest From Lonmin",The given text is neutral as it reports a factual event without expressing any positive or negative emotion. Glencore's decision to cut its budget and divest from Lonmin is presented objectively in the text.,negative,No
+"Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?
+
+Tesco, Asda sales fall as march of the discounters continues: Kantar","The headline of the blog post ""Tesco, Asda sales fall as march of the discounters continues: Kantar"" itself is neutral. However, the content suggests a negative sentiment towards Tesco and Asda due to their sales decline. Therefore, overall, the blog post has a negative sentiment.",negative,Yes
+"What is the sentiment of the following economic report: Positive, Negative, or Neutral?
+
+$mcp rolling over for a new intraday low. Bottom Pickers continue to get destroyed","Based on the provided text, it appears that the sentiment expressed in this statement is negative. The mention of ""rolling over for a new intraday low"" and ""Bottom Pickers getting destroyed"" suggests that there are significant losses or disappointments related to financial investments.",negative,Yes
+"Determine the sentiment of the provided financial article: Positive, Negative, or Neutral?
+
+3rd red day in a row ? $TSLA","The given text ""3rd red day in a row for TSLA"" is neutral as it only states a fact without expressing any positive or negative emotion. However, the sentiment towards Tesla (TSLA) could be determined by analyzing additional context within the article or considering historical stock performance and market trends.",negative,No
+"Ascertain the sentiment of this fiscal quarter review: Positive, Negative, or Neutral?
+
+UPDATE 1-Nomura, RBS must pay $806 mln in mortgage bond case-US judge","Based on the given information alone, it is difficult to determine the overall sentiment of a fiscal quarter review. The update mentions a court ruling that two financial institutions, Nomura and RBS, will have to pay $806 million in relation to a mortgage bond case. This news could be perceived as negative for these companies, but it doesn't provide enough context about their financial performance during the quarter to definitively classify the sentiment as positive, negative, or neutral.",negative,Yes
+"Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?
+
+HSBC Says Unit to Book $585 Million Charge on Settlement","The headline ""HSBC Says Unit to Book $585 Million Charge on Settlement"" is neutral in nature. It simply reports that HSBC will be recording a charge due to a settlement without expressing any positive or negative emotion towards the event.",negative,No
+"Analyze the sentiment of the following credit rating review: Positive, Negative, or Neutral?
+
+US dollar wipes out sales gains for SABMiller","Based on the given headline alone, it is difficult to determine the exact sentiment with certainty. The term ""wipes out"" can be interpreted as both negative (sales gains were completely eliminated) and neutral (the impact on sales was significant). To accurately assess the sentiment, additional context from the credit rating review would be necessary.",negative,Yes
+"Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?
+
+UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber",Neutral: The update itself does not contain any overtly positive or negative information. It simply reports an accusation against a former Barclays director for illegally tipping off a plumber. The tone is factual and objective.,negative,No
+"Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?
+
+$INTC finally some nice downside move... looking for the 31 handle to break","This statement expresses a positive sentiment towards the financial situation of INTCO (presumably Intel Corporation), as it indicates expectation of a further decrease in price, which could potentially lead to a good buying opportunity. The use of the term ""nice"" also suggests satisfaction with the current market conditions. However, it's important to note that the speaker is specifically focusing on the potential price movement and not the overall financial health or performance of the company itself. Therefore, while there may be an underlying optimistic outlook, the statement should still be considered within the context of investing strategies and short-term price movements rather than a broad assessment of the company's financial situation.",negative,No
+"Identify the sentiment conveyed in this financial review: Positive, Negative, or Neutral?
+
+@gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?","Neutral: The text expresses uncertainty and does not contain any clear positive or negative emotions. The author is asking for opinions on potential price levels for the S&P 500 index ($SPY), indicating open-ended discussion rather than conveying a definitive sentiment.",negative,No
+"Classify the sentiment of this financial sector analysis: Positive, Negative, or Neutral?
+
+FTSE led lower by M&S, GlaxoSmithKline","Neutral: The given text does not express any clear positive or negative emotion. It is simply reporting factual information about the FTSE (Financial Times Stock Exchange) index being led down by two specific companies, Marks and Spencer (M&S), and GlaxoSmithKline.",negative,No
+"Judge the sentiment of the following investor update: Positive, Negative, or Neutral?
+
+$MPWR CEO sells 450k april 15th..meh",Neutral. The information provided does not contain any explicit positive or negative sentiment. The fact that the CEO sold 450k shares on April 15th is neutral in itself and does not indicate the overall sentiment towards the company or its stock performance.,negative,No
+"Decide the emotional tone of the following financial advisory: Positive, Negative, or Neutral?
+
+$SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.","Negative. The statement expresses a bearish outlook on the $SLV investment and encourages going short (selling) on it, implying that there is expected to be further price decreases in the future.",negative,Yes
+"Decide the sentiment of the next market trend analysis: Positive, Negative, or Neutral?
+
+$FB $AAPL $NKE $JWN bearish charts keep getting worse.","Based on the information provided, which indicates that the charts for Facebook (FB), Apple (AAPL), Nike (NKE), and J.C. Penney (JWN) are all showing signs of a downturn, I would classify this as a negative sentiment for the given stocks.",negative,Yes
+"Judge the sentiment of the subsequent financial newsletter: Positive, Negative, or Neutral?
+
+$GRPN might be selling off ahead of $P earnings...","Neutral. The statement is not expressing a positive or negative sentiment towards the given information. Instead, it's simply reporting that there could be a potential reason for the sell-off in $GRPN stock before $P's earnings are released.",negative,No
+"Determine the sentiment of this banking sector report: Positive, Negative, or Neutral?
+
+Standard Chartered Shifts Emerging-Markets Strategy After Losses","Based on the given headline alone, it's difficult to determine the exact sentiment as positive, negative, or neutral without reading the entire report. The headline suggests a potential shift in strategy due to losses in the emerging markets sector for Standard Chartered, which could be interpreted negatively if the losses are significant and impacting the bank's overall performance. However, there may also be a positive spin if the shift is seen as a proactive response to market conditions and an opportunity to focus resources on more profitable areas. To accurately assess the sentiment, it would be necessary to read the full report and consider all relevant information presented.",negative,No
+"What is the sentiment of the following fiscal analysis: Positive, Negative, or Neutral?
+
+Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...","The given text does not contain any explicit information about the sentiment towards the fiscal analysis itself. Instead, it reports that Tesco's share price has dipped due to the closure of its digital book service, Blinkbox Books. This information alone does not indicate a positive, negative, or neutral sentiment towards the fiscal analysis. It simply describes an event and its impact on Tesco's stock price.",negative,No
+"Evaluate the sentiment of the subsequent financial news article: Positive, Negative, or Neutral?
+
+Diageo receives reports from United Spirits on financial irregularities involving ...","Neutral: The headline itself does not convey a positive, negative, or definitive sentiment. Financial irregularities can have various meanings and implications, some of which may be positive (e.g., accounting errors that do not significantly impact earnings) while others are negative (e.g., fraudulent activities leading to significant losses). Further analysis would be required to determine the actual sentiment behind this news item.",negative,No
+"Judge the sentiment of the following investor update: Positive, Negative, or Neutral?
+
+Starbucks downgraded on same day as new downgraded rewards program starts  $SBUX","Neutral: The fact that Starbucks was downgraded by an analyst and the start of a new rewards program are two separate pieces of information. The sentiment towards each event can be different, so it's important to consider them separately rather than assuming they carry the same sentiment. A downgrade by an analyst is generally considered negative for a stock, but in this case, the new rewards program could potentially have a positive impact on customer engagement and sales if it proves popular with consumers. Without more context about how these two events are related, it's difficult to determine an overall sentiment from just this statement alone.",negative,No
+"What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?
+
+Royal Mail 'breached competition law' over delivery service changes, Ofcom claims","The given text itself does not express a sentiment and is purely factual. However, based on the information provided, it could potentially elicit negative sentiments from those affected by Royal Mail's alleged breach of competition law, particularly if they have been negatively impacted by the delivery service changes. Therefore, the overall sentiment of any resulting discussions on social media could be negative.",negative,Yes
+"Judge the sentiment of the following investor update: Positive, Negative, or Neutral?
+
+Diageo receives reports from United Spirits on financial irregularities involving ...","Neutral: The sentence does not express a positive or negative sentiment. It simply states that Diageo has received reports of financial irregularities at United Spirits, which is neutral information in nature.",negative,No
+"Identify the sentiment of this financial strategy session: Positive, Negative, or Neutral?
+
+Berkshire discloses unit's ties to Iran, opens probe","Neutral
+
+The headline does not provide enough information to determine a positive, negative, or neutral sentiment towards the financial strategy being discussed. The news article likely provides more context and details about Berkshire Hathaway's disclosure and investigation that could help identify the sentiment.",negative,No
+"Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?
+
+$SBUX heading for the 200DMA and certain doom if it can not hold there.","Based on the given text, the sentiment appears to be negative. The mention of ""certain doom"" suggests a pessimistic outlook towards Starbucks ($SBUX) holding at its 200-day moving average (DMA).",negative,Yes
+"Analyze the sentiment of the provided financial tweet: Positive, Negative, or Neutral?
+
+FDA panel backs safety updates for AstraZeneca, Takeda drugs",The given financial tweet is neutral. It simply reports an event without expressing any positive or negative emotion.,negative,No
+"Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?
+
+for @vnoto74 to follow:  after a SELL signal by $NDX internals [06/23] ~> technical SELL $QQQ [06/25] ~> DOWN","Based on the information provided in your message, it appears that there is a negative sentiment expressed. The mention of a ""SELL signal"" and a subsequent sale of an ETF (ETF: QQQ) suggests that there are concerns about the market direction and potentially bearish outlook for the NASDAQ Composite Index ($NDX). However, it's important to note that one data point does not necessarily indicate an overall trend, so further analysis would be required to form a definitive conclusion.",negative,Yes
+"Ascertain the sentiment of this financial blog post: Positive, Negative, or Neutral?
+
+$SPY $MITK fast 56pc dive http://stks.co/3ffN $$","Based on the given text, it appears to be neutral in tone as it does not contain any clear positive or negative sentiments. The text consists mainly of a link and stock ticker symbols ($SPY, $MITK), which do not provide enough context for determining sentiment.",negative,No
+"Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?
+
+Glencore slumps 25 pct as debt fears grow","Based on the given headline alone, it's not possible to classify the sentiment of a ""detailed financial plan"" since there is no information provided about that plan in this context. The headline itself expresses a negative sentiment towards Glencore due to its stock price decline and growing concerns over its debt.",negative,Yes
+"Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?
+
+Doubts grow over GlaxoSmithKline's $6 bln capital return plan","The given text is a headline and does not contain sufficient information to determine the overall sentiment of the quarterly financial statement of GlaxoSmithKline. The headline suggests a potential negative sentiment due to ""doubts"" growing over the company's capital return plan, but it doesn't necessarily mean that the entire financial statement contains negative information. To accurately assess the sentiment, one would need to read through the full report.",negative,Yes
+"Evaluate the sentiment of this financial market commentary: Positive, Negative, or Neutral?
+
+$SPY bull move ended waiting for next setup",Neutral: The statement is factual and does not express a positive or negative sentiment. It simply describes an observation about the S&P 500 index (represented by the ETF $SPY) and implies that there may be another opportunity for trading in the future.,negative,No
+"What is the sentiment of this financial discussion on social media: Positive, Negative, or Neutral?
+
+$SAP Q1 disappoints as #software licenses down. Real problem? #Cloud growth trails $MSFT $ORCL $GOOG $CRM $ADBE https://t.co/jNDphllzq5","Based on the given tweet text, the sentiment can be classified as ""Negative."" The tweet expresses disappointment towards SAP's Q1 performance and highlights a decline in software license sales. Additionally, it compares SAP to its competitors (Microsoft, Oracle, Google, Salesforce, Adobe) that are perceived to have better cloud growth.",negative,Yes
+"Ascertain the sentiment of this quarterly financial statement: Positive, Negative, or Neutral?
+
+AstraZeneca diabetes drug combination faces delay after FDA rebuff","Based on the given headline alone, it is difficult to determine the exact sentiment of AstraZeneca's QFS as it does not provide any information about the overall performance of the company. However, the news that one of its drugs facing a delay in approval from the FDA could be seen as negative by investors and analysts. Therefore, the sentiment of AstraZeneca's QFS could potentially be negative based on this specific piece of news. However, other factors such as revenue growth, earnings per share (EPS), cash flow, and guidance for future periods should also be considered when determining the overall sentiment of the QFS.",negative,Yes
+"Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?
+
+$GOOGL Hit With Lawsuit from Russian Search Engine $YNDX http://stks.co/b1kD8","The headline itself does not provide enough information to determine the sentiment towards the financial regulation change. Instead, it appears to be reporting on a legal dispute between two companies, Google ($GOOGL) and Yandex ($YNDX). Therefore, I would classify this as neutral in terms of sentiment towards any potential financial regulation change.",negative,No
+"Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?
+
+Deutsche Bank downgrades Starbucks because of new loyalty program https://t.co/Iy4LCUGABc $SBUX",The given investment commentary is neutral in nature as it simply reports that Deutsche Bank has downgraded Starbucks without expressing any positive or negative sentiments towards the situation.,negative,No
+"What is the sentiment of this financial product review: Positive, Negative, or Neutral?
+
+$AAPL Beat the estimates. Will still go down on lack of new products. https://t.co/sX3z7u6N8o",Neutral: The tweet mentions that Apple (AAPL) beat earnings estimates but also expresses a concern about the lack of new products and potential price decrease as a result. This suggests a neutral sentiment towards the financial product (Apple's stock).,negative,No
+"Analyze the sentiment of the subsequent financial projection: Positive, Negative, or Neutral?
+
+Relief for Lewis as Tesco sees sales grow for first time in a year","Based on the given headline alone, I would classify the sentiment as positive. The use of words like ""relief"" and ""sales grow"" suggests that the financial situation of Tesco has improved compared to the previous period. However, it's important to note that this is just an initial analysis based on limited information provided in the headline. A more comprehensive analysis would require examining the details of the financial projections themselves.",positive,Yes
+"Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?
+
+AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",This statement is neutral as it does not contain any explicit positive or negative language regarding the economic outlook. It simply reports that AstraZeneca and Daiichi Sanko will jointly commercialise a drug in the US.,positive,No
+"Assess the sentiment of the following fiscal policy statement: Positive, Negative, or Neutral?
+
+Morrisons and Debenhams surprise City with Christmas bounce back","The headline itself does not provide enough information to determine the sentiment towards fiscal policy. However, the use of words ""surprise"" and ""Christmas bounce back"" generally implies a positive outcome for Morrisons and Debenhams, which could potentially have broader implications for the economy as a whole if these companies' performances are indicative of stronger consumer spending during the holiday season. Therefore, based on this limited context, it seems reasonable to assume that there is a positive sentiment associated with this news.",positive,Yes
+"What is the sentiment of the given financial briefing: Positive, Negative, or Neutral?
+
+$ISRG Break out confirmed. Bought Leaps. Good trading!","Based on the provided text, it appears to be a positive sentiment expression as the author has expressed confidence in $ISRG (Intuitive Surgical Inc.) and made a purchase decision by buying leaps (long-term options).",positive,Yes
+"What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?
+
+Morning Agenda: Shire's Deal for NPS","I cannot determine the sentiment of a specific brokerage recommendation without knowing the exact content and language used in that recommendation. However, if ""Morning Agenda"" refers to a financial news program on CNBC Europe, it typically provides analysis and commentary on various business stories, including mergers and acquisitions like Shire's deal for NPS (Nps Pharmaceuticals). The tone can vary from positive, negative, or neutral depending on the individual analyst's perspective and interpretation of the transaction's implications. To accurately assess the sentiment, you should refer to the specific brokerage report or research note issued by an investment firm regarding this deal.",positive,Yes
+"Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?
+
+Apple: Another attempt to break out on Apple but with weak PVT   $AAPL #Trading #investing #aapl https://t.co/DNh7Hgv22V","Based on the given tweet alone, it is difficult to determine a definitive sentiment as there isn't enough context provided in the message for an accurate evaluation. The term ""another attempt to break out"" could be interpreted as either positive (meaning another opportunity for gains) or negative (indicating previous failed attempts). Additionally, the abbreviation ""PVT"" is unclear without additional information. Therefore, I would classify this tweet as Neutral.",positive,Yes
+"Determine the sentiment of the provided financial statement: Positive, Negative, or Neutral?
+
+News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank","The given text appears to be a headline summarizing stock price movements in the FTSE 100 index. It mentions that the London Stock Exchange (LSE) ""surges"" while Ashtead and Barclays ""tank."" This information alone does not provide enough context to determine the overall sentiment of the financial statement. However, based on the mentioned companies' individual performance, it can be inferred that there are positive developments for LSE and negative ones for Ashtead and Barclays. Therefore, this news item likely contains both positive and negative elements. A more comprehensive analysis would require examining the full content of any related articles or statements accompanying these price moves.",positive,Yes
+"Evaluate the sentiment of the given investment strategy: Positive, Negative, or Neutral?
+
+Activision Blizzard Media Networks Announces Record #Esports Viewership https://t.co/729BiqLbtK $ATVI partnered with $HDSI for 9 #tournament","Based on the information provided in the tweet, it is difficult to definitively determine the sentiment of the investment strategy related to Activision Blizzard (ATVI) without additional context. However, the headline itself suggests a positive development for ATVI with record esports viewership and a partnership with HDSI. Therefore, based on this limited information, the sentiment can be considered as Positive.",positive,Yes
+"Ascertain the sentiment of this economic outlook statement: Positive, Negative, or Neutral?
+
+ICE Said to Start Lining Up Financing for LSE Bidding War","It is difficult to determine the exact sentiment from the given headline alone as it does not provide any context about the potential outcome or implications of ICE starting to line up financing for a bidding war with the London Stock Exchange (LSE). However, generally speaking, the news that a company is preparing for a competitive bid could be seen as a positive sign, indicating confidence and optimism. On the other hand, it could also be perceived as negative if the market views the competition as potentially leading to higher prices or uncertainty. Ultimately, the sentiment will depend on the specific circumstances surrounding the situation and how it is interpreted by investors and analysts.",positive,Yes
+"Decide the sentiment of the following financial analysis: Positive, Negative, or Neutral?
+
+Shire proposes $30 bln all-share tie-up with Baxalta","The given text is a financial news statement about Shire's proposed acquisition of Baxalta through an all-share deal worth $30 billion. While there isn't any explicit positive or negative tone in the sentence, such mergers and acquisitions (M&A) are generally viewed positively within the investment community due to potential synergies, increased market presence, and growth opportunities for both companies involved. Therefore, based on historical context and general investor sentiment towards M&A activity, this financial analysis can be considered as having a Positive sentiment.",positive,Yes
+"Classify the sentiment of this risk assessment report: Positive, Negative, or Neutral?
+
+5-star analyst @brianwieser from Pivotal Research upgraded rating on $GOOGL to BUY. Brian has a 79% success rate https://t.co/t0dn02EOH5","Based on the information provided in the tweet, it appears that the sentiment expressed is positive. The fact that an analyst has upgraded his rating and given a buy recommendation for Google (GOOGL) indicates a favorable outlook towards the company's stock. Additionally, having a high success rate adds credibility to the analysis and further reinforces the positive sentiment.",positive,Yes
+"What is the sentiment of the following financial update: Positive, Negative, or Neutral?
+
+Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs","The given financial update has a Neutral tone. While there are mentions of ""lifts"" and ""poised to axe,"" these statements convey different pieces of information - an increase in share price and potential job cuts respectively. A neutral tone does not express any particular emotion towards these events but instead presents them as facts.",positive,No
+"Identify the sentiment of this financial comment: Positive, Negative, or Neutral?
+
+Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN","Based on the given financial comment, I would classify its sentiment as positive. The use of the term ""best ever"" indicates that Amazon had an exceptionally strong performance during Black Friday and Cyber Monday sales events for their Kindle family products.",positive,Yes
+"Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?
+
+Entertainment One dispels ITV takeover rumours",Neutral: The statement does not express any clear positive or negative sentiment. It simply reports that Entertainment One has denied ITV takeover rumors.,positive,No
+"What is the sentiment of the following economic report: Positive, Negative, or Neutral?
+
+New Morrisons duo get former boss's support to diffuse investor tension","The headline itself does not provide enough information to determine a clear-cut positive, negative, or neutral sentiment towards an economic report. However, based on common business terminology and context clues from the title, it seems that there might be some form of investor tension or concern within the company named ""Morrisons,"" which suggests a potential negative sentiment. Yet, the presence of the phrase ""get former boss's support"" implies that efforts are being made to address these concerns positively. Therefore, this sentence could potentially lean more toward a neutral sentiment with a hint of optimism. For a definitive analysis, one would need to read the full text of the article for a comprehensive understanding of its tone and content.",positive,No
+"What is the sentiment of the following brokerage recommendation: Positive, Negative, or Neutral?
+
+$PLUG Closed short position. Small gain. Not interested in options expiring worthless","Based on the information provided, it appears that the sentiment expressed in the brokerage recommendation is Neutral or perhaps Slightly Bearish (negative towards Plug Inc. stock specifically). The fact that a small gain was realized from a closed short position indicates that there was some profit taken from the bearish bet, but the lack of interest in buying back the position or considering options suggests a continued neutral or negative outlook on the security. However, without additional context, it's important to keep in mind that this interpretation may not fully capture the complexity and nuance of the underlying investment strategy or market conditions.",positive,No
+"Decide the sentiment of the following investment commentary: Positive, Negative, or Neutral?
+
+$RSH - looking for first profitable quarter in 3 years!!!  ;).  LONG & STRONG","Based on the given text, the sentiment can be classified as Positive. The exclamation mark and the use of the phrase ""LONG & STRONG"" indicate a bullish outlook towards $RSH's potential performance. The reference to the company's anticipated first profitable quarter in three years further reinforces this positive sentiment.",positive,Yes
+"Identify the sentiment of the following financial column: Positive, Negative, or Neutral?
+
+$CTRP not a bad long chart now that it's through sma100 resistance.",The given text expresses a positive sentiment towards $CTRP as the author considers the breakthrough of its 100-day moving average (SMA100) to be a good sign for potential long positions in the stock.,positive,Yes
+"Classify the sentiment of the detailed financial plan: Positive, Negative, or Neutral?
+
+Qualcomm: 10% Dividend Increase Rewards Patient Investors, The Future Looks Bright https://t.co/TJjVpqhHqD $QCOM","Based on the given headline and the context provided, I would classify the sentiment as positive. The use of words like ""rewards,"" ""patients investors,"" and ""bright"" all suggest a favorable outlook for Qualcomm (QCOM) and its future financial performance.",positive,Yes
+"Evaluate the sentiment of this economic development update: Positive, Negative, or Neutral?
+
+$ASTX Daily technical indicators are bullish. Breakout watch over 4.58  http://stks.co/eOvw","Based on the information provided in the text, it appears to be a neutral statement as it only mentions the bullish outlook for $ASTX's daily technical indicators without expressing any explicit positive or negative emotions towards the economic development update itself. The breakout watch reference suggests potential optimism if the stock price surpasses 4.58, but the tone of the message is not inherently emotional and does not convey an overall sentiment towards the economic situation or news.",positive,No
+"Evaluate the sentiment of this stock market prediction: Positive, Negative, or Neutral?
+
+ARM Royalties Accelerate as Smartphone Market Regains Strength","Based on the given statement alone, it can be classified as a positive sentiment. The term ""accelerate"" implies growth and improvement, while ""regains strength"" suggests that the smartphone market is recovering from any previous downturns. This could potentially lead to increased revenue for ARM Holdings through their royalties.",positive,Yes
+"Judge the sentiment of the following investor update: Positive, Negative, or Neutral?
+
+Slowly adding some $FIO here but gotta be careful. This will be one of biggest winners in 2012",The given text expresses a positive sentiment towards investing in $FIO with the expectation that it could be a significant winner in 2012.,positive,Yes
+"Determine the sentiment of this financial crisis report: Positive, Negative, or Neutral?
+
+Seat belt recall? who cares....  I'm a buyer $TSLA","Based on the provided text alone, it is difficult to determine the sentiment as neutral or positive. The author expresses indifference towards the seatbelt recall issue and then states their intention to buy TSLA stock. This could be interpreted as a positive sentiment towards the company, but overall the tone does not convey an overtly positive or negative outlook on the financial crisis report.",positive,Yes
+"What is the sentiment of the following market analysis: Positive, Negative, or Neutral?
+
+#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA","Based on the information provided, the sentiment of this market analysis can be classified as positive. The increase in Tesla Model S deliveries by 35% in Germany and a new record for March suggests strong demand for the vehicle in that region.",positive,Yes
+"Analyze the sentiment of the following financial regulation change: Positive, Negative, or Neutral?
+
+$YANG Double bottom 5.2","I'm unable to analyze the sentiment of a financial regulation change based on the given input ""$YANG Double bottom 5.2."" This appears to be a reference to stock market terminology and does not provide any information about the regulatory change itself or its potential impact. Therefore, it is not possible for me to determine whether this regulation change is positive, negative, or neutral based on this input alone.",positive,Yes

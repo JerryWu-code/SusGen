@@ -23,7 +23,7 @@ def evaluate_re(model_path, test_data_path, args):
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 10:
+        if count > 50:
             break
         count += 1
         prompt = sample['instruction'] + '\n\n' + sample['input']
