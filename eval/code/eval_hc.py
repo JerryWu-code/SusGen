@@ -14,14 +14,15 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_headline_classification(model_path, test_data_path, args, prompt_type='mistral'):
+def evaluate_headline_classification(model_path, test_data_path, args, prompt_type='mistral', lora_path=False, quantization='int4', random_count=100):
     # Load the model and tokenizer
-    model, tokenizer, device, _ = load_model(model_path)
+    model, tokenizer, device, _ = load_model(model_path, lora_path, quantization)
     
     # Load the test dataset
     test_data = load_json(test_data_path)
-    random.seed(42)  # For reproducibility
-    test_data = random.sample(test_data, 50)
+    if random_count < len(test_data):
+        random.seed(42)  # For reproducibility
+        test_data = random.sample(test_data, random_count)
     y_true = []
     y_pred = []
     eval_results = []
@@ -68,7 +69,7 @@ def evaluate_headline_classification(model_path, test_data_path, args, prompt_ty
             'prompt': final_prompt,
             'generated': answer,
             'target': sample['output'],
-            'is_correct': 'Yes' if is_correct else 'No'
+            'is_correct': 'Yes' if y_pred[-1] else 'No'
         })
         
     df = pd.DataFrame(eval_results)
@@ -78,12 +79,14 @@ def evaluate_headline_classification(model_path, test_data_path, args, prompt_ty
     precision = precision_score(y_true, y_pred, average='weighted')
     recall = recall_score(y_true, y_pred, average='weighted')
     f1 = f1_score(y_true, y_pred, average='weighted')
+    micro_f1 = f1_score(y_true, y_pred, average='micro')
     
     results = {
         'accuracy': accuracy,
         'precision': precision,
         'recall': recall,
-        'f1_score': f1
+        'f1_score': f1,
+        'micro_f1': micro_f1
     }
     
     return results, df
