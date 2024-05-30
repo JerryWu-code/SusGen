@@ -1,6 +1,8 @@
 name: "SusGen30k-int4-adamw32_Mistral-7B-v0.2"
 output_dir: "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.2"
-local_rank: 
+local_rank: 0
+device: "cuda"
+trainer: "Trainer" # Trainer, SFTTrainer
 
 data:
   train: "/home/whatx/SusGen/data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json"
@@ -20,7 +22,7 @@ tokenizer:
   encode:
     padding: "max_length" # True, max_length, longest, None
     truncation: True
-    max_length: 1024 # None to use the maximum length, set after checking the dataset
+    max_length: 30 # None to use the maximum length, set after checking the dataset
     return_tensors: "pt" # pt for pytorch, tf for tensorflow, np for numpy, default is list
 
 model:

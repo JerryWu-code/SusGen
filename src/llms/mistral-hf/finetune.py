@@ -8,10 +8,10 @@ import torch, json, wandb, warnings, transformers, os, yaml
 from torch import multiprocessing as mp
 from torch import bfloat16, float16, float32
 from transformers import (
-    AutoModelForCausalLM, 
-    AutoTokenizer, 
+    AutoModelForCausalLM, AutoTokenizer, 
     BitsAndBytesConfig, TrainingArguments, 
-    get_linear_schedule_with_warmup)
+    get_linear_schedule_with_warmup,
+    Trainer, DataCollatorForLanguageModeling)
 from peft import (
     LoraConfig, get_peft_model, prepare_model_for_kbit_training, PeftModel, PeftConfig)
 from datetime import datetime
@@ -22,8 +22,7 @@ from datasets import load_dataset
 # Package for accelerating the fine-tuning process
 from accelerate import FullyShardedDataParallelPlugin, Accelerator, DistributedType
 from torch.distributed.fsdp.fully_sharded_data_parallel import (
-    FullOptimStateDictConfig, 
-    FullStateDictConfig)
+    FullOptimStateDictConfig, FullStateDictConfig)
 # Filter out the warnings
 warnings.filterwarnings("ignore")
 from prompt_template import mistral_formal,llama3_formal
@@ -149,52 +148,39 @@ def split_data(data, split_ratio=0.1):
     data_split = data.train_test_split(test_size=split_ratio)
     return data_split["train"], data_split["test"]
 
+def formatting_prompts_func(example):
+    output_texts = []
+    for i in range(len(example['instruction'])):
+        temp = {
+            "instruction": example['instruction'][i],
+            "input": example['input'][i],
+            "output": example['output'][i]
+        }
+        output_texts.append(prompt(temp))
+    return output_texts
+
 def main(config):
     # Set up the configuration
     torch.manual_seed(config["model"]["seed"])
-    # login_wandb(name)
+    login_wandb(config["name"])
 
     # # Set up the model and the tokenizer
-    model = setup_model(config["model"])#.to(config["local_rank"])
+    model = setup_model(config["model"]) #.to(config["device"])
     tokenizer = AutoTokenizer.from_pretrained(**config["tokenizer"])
     tokenizer.pad_token = tokenizer.eos_token
 
-    # load the dataset
+    ### load the dataset & get the prompt template
     data = load_dataset("json", data_files=config["data"]["train"], split="train")
     if config["data"]["val"]:
         train_data = data
         val_data = load_dataset("json", data_files=config["data"]["val"], split="train")
     else:
         train_data, val_data = split_data(data, split_ratio=config["data"]["val_split_ratio"])
-    
-    # test the tokenizer
-    # print(tokenize(tokenizer, config["tokenizer"]["encode"], train_data[0]["instruction"]))
-    # input_ids = tokenizer(train_data[0]["instruction"], return_tensors='pt')["input_ids"]
-    # print("="*20, "\n", input_ids)
-
     prompt = eval(config["data"]["prompt"])
-    def formatting_prompts_func(example):
-        output_texts = []
-        for i in range(len(example['instruction'])):
-            temp = {
-                "instruction": example['instruction'][i],
-                "input": example['input'][i],
-                "output": example['output'][i]
-            }
-            output_texts.append(prompt(temp))
-        return output_texts
-
-    # train_data_ = train_data.select([0, 1])
-    tokenized_train_data = train_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))#, batched=True, batch_size=512, num_proc=20).shuffle()
-    tokenized_val_data = val_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
-    
-    # print(tokenized_train_data[0])
-    # plot_data_lengths(tokenized_train_data, tokenized_val_data, "figs/alpaca_gpt4.png")
 
     # Set up the training arguments
     output_dir = config["output_dir"]
     logging_dir = os.path.join(output_dir, "logs")
-
     training_args = TrainingArguments(
         output_dir=output_dir,
         logging_dir=logging_dir,
@@ -204,22 +190,27 @@ def main(config):
     )
     training_args.distributed_type = DistributedType.DEEPSPEED
 
-    # trainer = SFTTrainer(
-    #     model=model,
-    #     train_dataset=data,
-    #     formatting_func=formatting_prompts_func,
-    #     args=training_args,
-    #     data_collator=DataCollatorForCompletionOnlyLM(
-    #          response_template=""### Response:", tokenizer=tokenizer),
-    # )
+    if config["trainer"] == "Trainer":
+        tokenized_train_data = train_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
+        #, batched=True, batch_size=512, num_proc=20).shuffle()
+        tokenized_val_data = val_data.map(get_tokenized_prompt(prompt, tokenizer, config["tokenizer"]["encode"]))
+        trainer = Trainer(
+            model=model,
+            train_dataset=tokenized_train_data,
+            eval_dataset=tokenized_val_data,
+            args=training_args,
+            data_collator=DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False),
+        )
+    elif config["trainer"] == "SFTTrainer":
+        trainer = SFTTrainer(
+            model=model,
+            train_dataset=data,
+            formatting_func=formatting_prompts_func,
+            args=training_args,
+            data_collator=DataCollatorForCompletionOnlyLM(
+                response_template="### Response:", tokenizer=tokenizer),
+        )
 
-    trainer = transformers.Trainer(
-        model=model,
-        train_dataset=tokenized_train_data,
-        eval_dataset=tokenized_val_data,
-        args=training_args,
-        data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),
-    )
     model.config.use_cache = False          # silence the warnings. Re-enable for inference!
 
     if config["training"]["resume_from_checkpoint"]:
@@ -228,25 +219,42 @@ def main(config):
         trainer.train()
     trainer.save_model(output_dir)
 
-def test(config):
+def test_tokenizer(config):
+    ### set up the tokenizer
     tokenizer = AutoTokenizer.from_pretrained(**config["tokenizer"])
     tokenizer.pad_token = tokenizer.eos_token
+
+    ### find out the special tokens
     print(tokenizer.pad_token, tokenizer.eos_token, tokenizer.bos_token, 
         tokenizer.unk_token, tokenizer.sep_token, tokenizer.mask_token)
     print(tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id,
         tokenizer.unk_token_id, tokenizer.sep_token_id, tokenizer.mask_token_id)
-    # id to token
+    
+    ### check id to token mapping
     print(tokenizer.decode([29473, tokenizer.pad_token_id, tokenizer.eos_token_id, tokenizer.bos_token_id]))
-    # print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
-    prompt = {
-        "instruction": prompt,
+    print([{i:v} for i,v in tokenizer.get_vocab().items() if v<10])
+
+    ### check the tokenizer encoding & decoding for easy prompt
+    prompt_template = eval(config["data"]["prompt"])
+    easy_prompt = {
+        "instruction": "This is a test sentence.",
         "input": "",
         "output": "Sure."
     }
-    prompt = mistral_formal(prompt)
-    print(tokenizer.decode(tokenizer(prompt)["input_ids"]))
-    # print(torch.cat([tokenizer(prompt, return_tensors="pt")["input_ids"], torch.tensor([[tokenizer.eos_token_id]])], dim=1).flatten().tolist())
-    print(len(tokenizer(prompt, return_tensors="pt", max_length=100, truncation=True, padding=True)["input_ids"][0]))
+    easy_prompt = prompt_template(easy_prompt)
+    print(tokenizer.decode(tokenizer(easy_prompt)["input_ids"]))
+    print(torch.cat([tokenizer(easy_prompt, return_tensors="pt")["input_ids"], torch.tensor([[tokenizer.eos_token_id]])], dim=1).flatten().tolist())
+    print(len(tokenizer(easy_prompt, return_tensors="pt", max_length=50, truncation=True, padding=True)["input_ids"][0]))
+
+    ### check the tokenizer encoding & decoding for dataset, and plot the data lengths
+    train_data = load_dataset("json", data_files=config["data"]["train"], split="train")
+    train_data_head = train_data.select([100, 101, 102, 103, 104, 105, 106, 107, 108, 109])
+    tok_train_data_head = train_data_head.map(get_tokenized_prompt(prompt_template, tokenizer, config["tokenizer"]["encode"]))
+    print(train_data_head[1])
+    print(tokenize(tokenizer, config["tokenizer"]["encode"], train_data_head[1]["instruction"]))
+    input_ids = tokenizer(train_data_head[1]["instruction"], **config["tokenizer"]["encode"])["input_ids"]
+    print("="*20, "\n", input_ids)
+    # plot_data_lengths(tok_train_data, tokenized_val_data, "figs/alpaca_gpt4.png")
 
 if __name__ == "__main__":
     mp.set_start_method("spawn")
@@ -260,12 +268,12 @@ if __name__ == "__main__":
 
     torch.distributed.init_process_group(backend='nccl', init_method='env://')
     local_rank = config["local_rank"]
-    # torch.cuda.set_device(local_rank)
+    torch.cuda.set_device(local_rank)
 
-    # test(config
-    main(config)
+    test_tokenizer(config)
+    # main(config)
     # CUDA_VISIBLE_DEVICES=1 torchrun --nproc_per_node=1 --master_port=29501 finetune.py
+    # CUDA_VISIBLE_DEVICES=3 /home/.../anaconda3/envs/llm/bin/torchrun --nproc_per_node=1 --master_port=29501 finetune.py
 
-    # CUDA_VISIBLE_DEVICES=0,1 deepspeed finetune.py --config=configs/finetune_config.yaml
     # python -m torch.distributed.launch --nproc_per_node 1 finetune.py --config=configs/finetune_config.yaml
     # master_port=$(shuf -n 1 -i 10000-65535) deepspeed --include localhost:0,1 --master_port "${master_port}" finetune.py --config=configs/finetune_config.yaml
