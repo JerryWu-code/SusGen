@@ -3,6 +3,7 @@ import json, sys, os, re
 sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
+from prompt_template import mistral_formal_infer, llama3_formal_infer
 from tqdm import tqdm
 
 
@@ -11,7 +12,7 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_re(model_path, test_data_path, args):
+def evaluate_re(model_path, test_data_path, args, prompt_type='mistral'):
     # Load the model and tokenizer
     model, tokenizer, device, _ = load_model(model_path)
     
@@ -23,11 +24,17 @@ def evaluate_re(model_path, test_data_path, args):
     count = 0
     # Generate predictions
     for sample in tqdm(test_data):
-        if count > 50:
-            break
-        count += 1
-        prompt = sample['instruction'] + '\n\n' + sample['input']
-        final_prompt = instr_prompt(content=prompt)
+        # if count > 50:
+        #     break
+        # count += 1
+        # prompt = sample['instruction'] + '\n\n' + sample['input']
+        # final_prompt = instr_prompt(content=prompt)
+        if prompt_type == 'mistral':
+            final_prompt = mistral_formal_infer(sample)
+        elif prompt_type == 'llama3':
+            final_prompt = llama3_formal_infer(sample)
+        else:
+            raise ValueError("Invalid prompt type")
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         

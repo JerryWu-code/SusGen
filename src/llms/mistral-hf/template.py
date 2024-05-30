@@ -10,25 +10,34 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAn
 import warnings
 warnings.filterwarnings("ignore")
 
-def load_model(model_path="../../../ckpts/Mistral-7B-Instruct-v0.2-hf"):
+def load_model(model_path, lora_path, quantization='int4'):
     # 1.Load the tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
 
-    # 2.Load the model and move to GPU
+    if quantization == 'int4':
+        bnb_config = BitsAndBytesConfig(load_in_4bit=True)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_path,
+            torch_dtype=torch.float16,
+            quantization_config=bnb_config,
+            low_cpu_mem_usage=True,
+        )
+    elif quantization == 'int8':
+        bnb_config = BitsAndBytesConfig(load_in_8bit=True)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_path,
+            torch_dtype=torch.float16,
+            quantization_config=bnb_config,
+            low_cpu_mem_usage=True,
+        )
+    if quantization == 'bf16':
+        model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.float16)
     config = AutoConfig.from_pretrained(model_path)
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        # load_in_8bit=True,
-        bnb_4bit_compute_dtype=torch.bfloat16,
-        bnb_4bit_use_double_quant=True,
-    )
-    model = AutoModelForCausalLM.from_pretrained(
-        model_path,
-        torch_dtype=torch.float16,
-        quantization_config=bnb_config,
-        low_cpu_mem_usage=True,
-    )
 
+    if lora_path:
+        model = PeftModel.from_pretrained(base_model, lora_path, torch_dtype=torch.bfloat16)
+
+    # 2.Load the model and move to GPU
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     # model = model.to(device)
 
@@ -54,17 +63,12 @@ def generate_text(model, tokenizer, device, prompt, args):
             streamer=streamer # Streaming generation
         )
     
-    generated_text = tokenizer.batch_decode(output, skip_special_tokens=True)
+    result = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
 
-    prompt = generated_text[0].split("[/INST]")[0].split("[INST] ")[1]
-    answer = generated_text[0].split("[/INST] ")[1]
+    question = result.split("### Response:")[0]
+    answer = result.split("### Response:\n")[1]
 
-    # print("------------------------------------------------------------")
-    # print("Prompt:\n", prompt)
-    # print("------------------------------------------------------------")
-    # print("Answer:\n", answer)
-
-    return prompt, answer
+    return question, answer
 
 def turn_weights_to_consolidated_format(model, tokenizer, model_path):
     if hasattr(model, 'module'):
@@ -87,11 +91,15 @@ def main():
     # 1.Load the model and tokenizer
     ckpt_folder = "../../../ckpts"
     base_model = "Mistral-7B-Instruct-v0.3-hf"
+
     # base_model = "Meta-Llama-3-8B-Instruct-hf"
 
-    ckpt_folder = "../../../results"
-    base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
-    model, tokenizer, device, config = load_model(model_path=os.path.join(ckpt_folder, base_model))
+    # ckpt_folder = "../../../results"
+    # base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
+    model, tokenizer, device, config = load_model(
+        model_path=os.path.join(ckpt_folder, base_model),
+        lora_path="../../../results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699",
+        quantization='int4')
     # 2.Set the model to evaluation mode
     model.eval()
 
@@ -102,10 +110,10 @@ def main():
         "evaluating a company 's sustainability report, "
         "you will answer the question in detail."
     )
-    question = "What is the tcfd format sustainability report?"
+    question = "What is the tcfd format sustainability report? Only output one sentence."
     prompt = f"{user_instruction}\n Question:\n{question}"
 
-    final_prompt = instr_prompt(content = prompt)
+    final_prompt = instr_prompt(content = prompt) + "### Response:\n"
     #  2) Set configuration
     args = {
         "max_length": 512,
@@ -116,8 +124,9 @@ def main():
         "num_return_sequences": 1
     }
     #  3) Generate text
-    _, answer = generate_text(model, tokenizer, device, final_prompt, args)
-    # print(answer)
+    question, answer = generate_text(model, tokenizer, device, final_prompt, args)
+    print(f"Question:\n{'-' * 10}\n{question.strip()}\n{'=' * 100}")
+    print(f"Answer:\n{'-' * 10}\n{answer.strip()}\n{'=' * 100}")
     
     # 4.Turn the weights into consolidated format for deployment
     # turn_weights_to_consolidated_format(model, tokenizer, model_path="./")

@@ -6,6 +6,7 @@
 import torch, warnings, os
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, TextStreamer
 from peft import PeftModel
+from prompt_template import *
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.*")
 warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
@@ -43,30 +44,6 @@ def load_susgenv1():
 
     return model
 
-def prompt_short(record):
-    if not record["input"]:
-        text = (
-            "[INST] ### Instruction:\n{0}\n\n [/INST]").format(record["instruction"])
-    else:
-        text = ("[INST] ### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n").format(
-            record["instruction"], record["input"])
-    return text
-
-def prompt_formal(record):
-    if not record["input"]:
-        text = (
-            "[INST] "
-            "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n [/INST]### Response:\n").format(record["instruction"])
-    else:
-        text = (
-            "[INST] "
-            "Below is an instruction that describes a task, paired with an input that provides further context.\n\n"
-            "Write a response that appropriately completes the request.\n\n"
-            "### Instruction:\n{0}\n\n### Input:\n{1}\n\n [/INST]### Response:\n").format(
-            record["instruction"], record["input"])
-    return text
-
 def inference(model, tokenizer, prompt, prompt_template, mode):
     model.eval()
     input_ids = tokenizer.encode(prompt_template(prompt), return_tensors="pt").to(device)
@@ -77,7 +54,7 @@ def inference(model, tokenizer, prompt, prompt_template, mode):
             model.generate(
                 input_ids=input_ids, 
                 max_new_tokens=512, 
-                repetition_penalty=1.3,
+                repetition_penalty=1.5,
                 streamer=streamer, # Streaming generation
                 num_return_sequences=1
                 ), 
@@ -87,11 +64,11 @@ def inference(model, tokenizer, prompt, prompt_template, mode):
             question = result.split(" [INST] [/INST]### Response: ")[0].split("[INST] ### Instruction: ")[1]
             answer = result.split("Response: ")[1]
             return question, answer
-        if mode == "SusGen_GPT_Mistral_Instruct_v0.2":
-            question = result.split("[INST] ")[1].split("\n\n [/INST]")[0]
-            answer = result.split("### Response:\n")[1]
-            return question, answer
-        if mode == "SusGen_GPT_Mistral_Instruct_v0.3":
+        # if mode == "SusGen_GPT_Mistral_v0.2":
+        #     question = result.split("[INST] ")[1].split("\n\n [/INST]")[0]
+        #     answer = result.split("### Response:\n")[1]
+        #     return question, answer
+        if mode == "SusGen_GPT_Mistral_v0.3" or mode == "SusGen_GPT_Mistral_v0.2":
             question = result.split("### Response:")[0]
             answer = result.split("### Response:\n")[1]
             return question, answer
@@ -166,31 +143,30 @@ def main():
     bnb_4bit_compute_dtype=torch.bfloat16
     )
 
-    mode = "SusGen_GPT_Mistral_Instruct_v0.3"
-    model_path = "../../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+    # model_path = "../../../ckpts/Mistral-7B-v0.2-hf"
+    # model_path = "../../../ckpts/Mistral-7B-v0.3-hf"
+    model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    # model_path = "../../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+    if 'v0.2' in model_path:
+        mode = "SusGen_GPT_Mistral_v0.2"
+    elif 'v0.3' in model_path:
+        mode = "SusGen_GPT_Mistral_v0.3"
     result_path = "../../../results"
-    save_name = mode + "_30k_3epoch"
+    save_name = mode + "_30k_epoch"
 
-    tokenizer = AutoTokenizer.from_pretrained(
-        model_path, 
-        add_bos_token=True,
-        padding_side="left",
-        padding="max_length",
-        use_fast=True,
-    )
-    base_model = AutoModelForCausalLM.from_pretrained(
-        model_path,
-        # quantization_config=bnb_config,
-        torch_dtype=torch.float16,
-    )
-    if mode == "SusGen_GPT_Mistral_Instruct_v0.2":
-        model = load_lora(base_model, lora_susgenv2_2_5epoch).to(device)
-    elif mode == "SusGen_GPT_Mistral_Instruct_v0.3":
-        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.3/checkpoint-468").to(device)
+    tokenizer = AutoTokenizer.from_pretrained(model_path, add_bos_token=True, padding_side="left", padding="max_length", use_fast=True)
+    base_model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.float16,
+        quantization_config=bnb_config,)
+
+    if mode == "SusGen_GPT_Mistral_v0.2":
+        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699").to(device)
+        # model = load_lora(base_model, lora_susgenv2_2_5epoch).to(device)
+    elif mode == "SusGen_GPT_Mistral_v0.3":
+        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.3/checkpoint-1406").to(device)
         # model = load_lora(base_model, lora_susgenv2_3_3epoch).to(device)
 
     question, answer = inference(
-        model, tokenizer, prompt=test_qa, prompt_template=prompt_formal, mode=mode)
+        model, tokenizer, prompt=test_qa, prompt_template=mistral_formal_infer, mode=mode)
     print(f"\n{'=' * 100}\nModel: {save_name}\n{'-' * 10}")
     print(f"Question:\n{'-' * 10}\n{question.strip()}\n{'=' * 100}")
     print(f"Answer:\n{'-' * 10}\n{answer.strip()}\n{'=' * 100}")

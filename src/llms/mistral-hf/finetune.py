@@ -178,9 +178,12 @@ def main(config):
         train_data, val_data = split_data(data, split_ratio=config["data"]["val_split_ratio"])
     prompt = eval(config["data"]["prompt"])
 
-    # Set up the training arguments
-    output_dir = config["output_dir"]
+    # Set up the training arguments and save the configuration
+    output_dir = os.path.join(config["output_dir"], config["name"])
     logging_dir = os.path.join(output_dir, "logs")
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "config.yaml"), "w") as f:
+        yaml.safe_dump(config, f)
     training_args = TrainingArguments(
         output_dir=output_dir,
         logging_dir=logging_dir,
