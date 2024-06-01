@@ -21,13 +21,13 @@ pip install transformers accelerate bitsandbytes trl torch vllm tiktoken gradio
 You could download the data in our huggingface repository via this [link](https://huggingface.co/datasets/WHATX/susgen-30k), and put it under the folder /data/susgen/.
 
 ### Training
-
+Description to be finished.
 ```
 
 ```
 
 ### Evaluation
-
+Description to be finished.
 ```
 
 ```
@@ -35,7 +35,7 @@ You could download the data in our huggingface repository via this [link](https:
 ## About Team
 
 <p align="center">
-  <img src="assets/team_logo.jpg" width="240" height="240" alt="Team Logo">
+  <img src="assets/team_logo.png" width="240" height="240" alt="Team Logo">
 </p>
 
 | Team Leader                             | Team Member (Alphabet Order)                                 | Mentor                                                       |
