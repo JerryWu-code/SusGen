@@ -1,0 +1,29 @@
+Model 0:
+model_path = "../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+lora_path = False
+quantization = 'int4'
+# 原始的Mistral-7B-Instruct-v0.3
+
+Model 1:
+model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+lora_path = "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699"
+quantization = 'int4'
+# 3个epoch，base的lora使用Trainer训练，不mask Instruction，加到instruct v0.2上
+
+Model 2:
+model_path = "../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+lora_path = "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.3/checkpoint-1406"
+quantization = 'int4'
+# 3个epoch，base的lora使用SFTTrainer训练，进行mask Instruction，加到instruct v0.3上
+
+Model 3:
+model_path = "../../ckpts/Meta-Llama-3-8B-hf"
+lora_path = "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_LLaMA3-8B/checkpoint-233"
+quantization = 'int8'
+# 1个epoch，base的lora使用Trainer训练，不maskInstruction，加到base上
+
+Model 4:
+model_path = "../../ckpts/Meta-Llama-3-8B-hf"
+lora_path = "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_LLaMA3-8B/checkpoint-466"
+quantization = 'int8'
+# 2个epoch，base的lora使用Trainer训练，不maskInstruction，加到base上

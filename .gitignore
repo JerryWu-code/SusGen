@@ -6,19 +6,20 @@
 # ignore the python package cache
 */__pycache__
 __pycache__/
+.ipynb_checkpoints/
 
 # ignore PDFs inside raw_data
 # data/raw_data/*.pdf
 
 # ignore the logs
 wget-*
-src/llms/mistral-hf/wandb/
+src/wandb/
 
 # ignore the checkpoint files
 down_ckpt.py
 /ckpts
-src/llms/mistral-hf/results/
 /results
+src/results/
 
 # ignore the .gitignore itself
 # .gitignore*
@@ -26,3 +27,6 @@ src/llms/mistral-hf/results/
 # ignore some original files from llama repo
 llama/Responsible-Use-Guide.pdf
 llama/download.sh
+
+# ignore the evaluation results
+eval/results/

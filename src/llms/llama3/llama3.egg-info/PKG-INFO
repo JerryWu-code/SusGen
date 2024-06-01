@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: llama3
-Version: 0.0.1
-Requires-Dist: torch
-Requires-Dist: fairscale
-Requires-Dist: fire
-Requires-Dist: tiktoken==0.4.0
-Requires-Dist: blobfile
