@@ -38,7 +38,8 @@ Description to be finished.
   <img src="assets/team_logo.png" width="240" height="240" alt="Team Logo">
 </p>
 
-<table id="Team" width="100%">
+
+<table id="Team" style="margin: 0 auto; width:100%;">
   <tr>
     <th>Team Leader</th>
     <th>Team Member</th>

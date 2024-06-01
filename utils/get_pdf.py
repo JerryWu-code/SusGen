@@ -3,17 +3,9 @@
 # Description: Use this script to download pdfs from the excel file and put into the folder.
 
 #############################################################################
-import os
-import sys
-import subprocess
-import shlex
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(project_root)
-
+import os, sys, subprocess, shlex
 import pandas as pd
 from tqdm import tqdm
-from src.config import *
-
 
 # use wget to download the pdfs and rename them
 def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=None):
@@ -66,7 +58,13 @@ def download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=N
         df.to_csv(updated_list, index=False)
 
 def main():
-    # download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
+    raw_data_path = "../data/raw_data"
+    tcfd_list = os.path.join(raw_data_path, "target_list", "tcfd.csv")
+    esg_list = os.path.join(raw_data_path, "target_list", "esg.csv")
+    updated_tcfd_list = os.path.join(raw_data_path, "target_list", "tcfd_new.csv")
+    updated_esg_list = os.path.join(raw_data_path, "target_list", "esg_new.csv")
+
+    download_pdfs(target_list=tcfd_list, data_path=raw_data_path, updated_list=updated_tcfd_list)
     download_pdfs(target_list=esg_list, data_path=raw_data_path, updated_list=updated_esg_list)
 
 if __name__ == "__main__":

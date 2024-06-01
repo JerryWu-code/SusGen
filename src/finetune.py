@@ -1,9 +1,8 @@
 # Author: "WHATX" -- Wu Qilong
 # Institute: National University of Singapore, A Star IHPC
-# Description: Use this to finetune the mistral-7B with lora
+# Description: Use this to finetune the 7B Mistral & LLaMA3 with lora
 
 #############################################################################
-# Package for fine-tuning the Mistral-7B model with Lora
 import torch, json, wandb, warnings, transformers, os, yaml
 from torch import multiprocessing as mp
 from torch import bfloat16, float16, float32
@@ -19,11 +18,9 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from datasets import load_dataset
-# Package for accelerating the fine-tuning process
 from accelerate import FullyShardedDataParallelPlugin, Accelerator, DistributedType
 from torch.distributed.fsdp.fully_sharded_data_parallel import (
     FullOptimStateDictConfig, FullStateDictConfig)
-# Filter out the warnings
 warnings.filterwarnings("ignore")
 from prompt_template import mistral_formal,llama3_formal
 from argparse import ArgumentParser
@@ -214,7 +211,7 @@ def main(config):
                 response_template="### Response:", tokenizer=tokenizer),
         )
 
-    model.config.use_cache = False          # silence the warnings. Re-enable for inference!
+    model.config.use_cache = False # silence the warnings. Re-enable for inference!
 
     if config["training"]["resume_from_checkpoint"]:
         trainer.train(resume_from_checkpoint=config["training"]["resume_from_checkpoint"])

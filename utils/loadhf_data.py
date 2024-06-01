@@ -3,11 +3,7 @@
 # Description: Use this script to load financial instruction tuning dataset from huggingface.
 
 #############################################################################
-import os, sys
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(project_root)
-
-from src.config import cache_dir, example_path
+import os
 from huggingface_hub import snapshot_download
 from datasets import load_dataset
 
@@ -30,15 +26,18 @@ def load_datasets(repo_ids, cache_dir):
     return datasets
 
 def main():
+    # Define the cache directory & example path
+    cache_dir = "..."
+    example_path = "..."
     repo_ids = [
         "FinGPT/fingpt-finred", 
         "FinGPT/fingpt-finred-re", 
         "FinGPT/fingpt-fiqa_qa",
         "climatebert/tcfd_recommendations",
-        "rexarski/TCFD_disclosure",
+        "rexarski/TCFD_disclosure", # ...
     ]
     # 1. Download the datasets
-    # download_datasets(repo_ids, repo_type, cache_dir)
+    download_datasets(repo_ids, repo_type, cache_dir)
 
     # 2. Load the datasets
     datasets = load_datasets(repo_ids, cache_dir)

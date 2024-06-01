@@ -1,4 +1,4 @@
-# cd /home/whatx/SusGen/src/llms/mistral-hf && CUDA_VISIBLE_DEVICES=0 python utils/processv2.py
+# cd /home/whatx/SusGen/utils/ && CUDA_VISIBLE_DEVICES=0 python processv2.py
 
 import json, os, sys, time
 from tqdm import tqdm
@@ -30,7 +30,7 @@ def append_to_jsonl(data, file_path):
             json.dump(data, file)
             file.write('\n')
 
-def concat_jsonl(target_path, output_file="../../../data/susgen/tcfd_qa/v2_concat.json"):
+def concat_jsonl(target_path, output_file="../data/susgen/tcfd_qa/v2_concat.json"):
     file_list = [os.path.join(target_path, file) for file in os.listdir(
         target_path) if file.endswith(".jsonl")]
     final = []
@@ -49,7 +49,7 @@ def concat_jsonl(target_path, output_file="../../../data/susgen/tcfd_qa/v2_conca
     save_json(final, output_file)
 
 def denoise_text():
-    data = load_json("./../../../data/susgen/tcfd_qa/tcfd_qa_v4.json")
+    data = load_json("../data/susgen/tcfd_qa/tcfd_qa_v4.json")
     final = []
     noise = 0
     for _, v in tqdm(enumerate(data)):
@@ -65,10 +65,10 @@ def denoise_text():
         }
         final.append(temp)
     print(f"Total noise removed: {noise}")
-    save_json(final, "./../../../data/susgen/tcfd_qa/tcfd_qa_v4_clean.json")
+    save_json(final, "../data/susgen/tcfd_qa/tcfd_qa_v4_clean.json")
 
 def task1(model, tokenizer, device, args):
-    data = load_json("../../../data/susgen/tcfd_qa/tcfd_qa_v3.json")
+    data = load_json("../data/susgen/tcfd_qa/tcfd_qa_v3.json")
     print(f"Total samples: {len(data)}")
     final = []
     for num, v in tqdm(enumerate(data)):
@@ -85,16 +85,16 @@ def task1(model, tokenizer, device, args):
             "input": "",
             "answer": answer
         }
-        append_to_jsonl(temp, "../../../data/susgen/tcfd_qa/cache/de_privacy.jsonl")
+        append_to_jsonl(temp, "../data/susgen/tcfd_qa/cache/de_privacy.jsonl")
         final.append(temp)
         print("="*50)
         print(f"Processed {num} samples.")
         print("="*50)
-    save_json(final, "../../../data/susgen/tcfd_qa/tcfd_qa_v1.json")
+    save_json(final, "../data/susgen/tcfd_qa/tcfd_qa_v1.json")
     print('Task 1 completed.')
 
 def task2(model, tokenizer, device, args, times):
-    data = load_json("./../../../data/susgen/tcfd_qa/history/tcfd_qa_v4_clean.json")
+    data = load_json("../data/susgen/tcfd_qa/history/tcfd_qa_v4_clean.json")
     print(f"Total new records will be created: {len(data) * times}")
     prompt1_versions = [
         "Rephrase this text carefully without altering its original meaning or elements, adjust to the original length, and ensure it is coherent and fluent:",
@@ -140,7 +140,7 @@ def task2(model, tokenizer, device, args, times):
                 "input": v['input'],
                 "answer": answer2
             }
-            append_to_jsonl(temp, "./../../../data/susgen/tcfd_qa/cache/v4/diverse_v4_8.jsonl")
+            append_to_jsonl(temp, "../data/susgen/tcfd_qa/cache/v4/diverse_v4_8.jsonl")
             final.append(temp)
             print("="*50)
             state += 1
@@ -148,7 +148,7 @@ def task2(model, tokenizer, device, args, times):
             print("="*50)
             data.append(temp)
     print('Task 2 completed.')
-    # save_json(final, "../../../data/susgen/tcfd_qa/cache/tcfd_qa_v2_+4.json")
+    # save_json(final, "../data/susgen/tcfd_qa/cache/tcfd_qa_v2_+4.json")
 
 def main():
     args = {
@@ -165,8 +165,8 @@ def main():
     # task1(model, tokenizer, device, args)
     # denoise_text()
     # task2(model, tokenizer, device, args, 1)
-    target_path = "./../../../data/susgen/tcfd_qa/cache/v4"
-    concat_jsonl(target_path, output_file="./../../../data/susgen/tcfd_qa/tcfd_qa_v4_final_.json")
+    target_path = "../data/susgen/tcfd_qa/cache/v4"
+    concat_jsonl(target_path, output_file="../data/susgen/tcfd_qa/tcfd_qa_v4_final_.json")
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,6 @@
 # cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_sa.py
 import json, sys, os, re
-sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
+sys.path.append("/home/whatx/SusGen/src/")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
 from prompt_template import mistral_formal_infer, llama3_formal_infer

@@ -48,12 +48,12 @@ def main():
     )
     # This will wrap the default prompts that are internal to llama-index
     query_wrapper_prompt = "<|USER|>{query_str}<|ASSISTANT|>"
-    mistral_v2 = "/home/whatx/SusGen/ckpts/Mistral-7B-Instruct-v0.2-hf"
-    llama3 = "/home/whatx/SusGen/ckpts/Meta-Llama-3-8B-Instruct-hf"
+    mistral_v2 = "../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    llama3 = "../ckpts/Meta-Llama-3-8B-Instruct-hf"
     llm_path = llama3
-    embed_model_path = "/home/whatx/SusGen/ckpts/all-mpnet-base-v2"
+    embed_model_path = "../ckpts/all-mpnet-base-v2"
     # candidates documents ~ Folder path or file list: 
-    docu_files = ["/home/whatx/SusGen/data/raw_data/raw_pdf/3M_2020_ESG.pdf"]
+    docu_files = ["../data/raw_data/raw_pdf/3M_2020_ESG.pdf"]
     docu_folder = "RAG/data"
     documents_path = docu_files
     text_chunking = 1024

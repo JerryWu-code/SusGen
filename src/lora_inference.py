@@ -6,28 +6,28 @@
 import torch, warnings, os
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, TextStreamer
 from peft import PeftModel
-from prompt_template import *
+from utils.prompt_template import *
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.*")
 warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 
 device = torch.device("cuda")
-lora_susgenv2_1 = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/checkpoint-186"
-lora_susgenv2_2_1epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_2_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_2_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_2_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
-lora_susgenv2_3_1epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_3_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_3_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_3_4epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
-lora_susgenv2_3_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
-lora_susgenv2_3_10epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-2330"
-lora_susgenv2_b1_1epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_b1_2epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_b1_3epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_b1_4epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
-lora_susgenv2_b1_5epoch = "/home/whatx/SusGen/src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
+lora_susgenv2_1 = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/checkpoint-186"
+lora_susgenv2_2_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
+lora_susgenv2_2_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
+lora_susgenv2_2_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
+lora_susgenv2_2_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
+lora_susgenv2_3_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
+lora_susgenv2_3_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
+lora_susgenv2_3_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
+lora_susgenv2_3_4epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
+lora_susgenv2_3_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
+lora_susgenv2_3_10epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-2330"
+lora_susgenv2_b1_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
+lora_susgenv2_b1_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
+lora_susgenv2_b1_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
+lora_susgenv2_b1_4epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
+lora_susgenv2_b1_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
 lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
@@ -138,20 +138,18 @@ def main():
 
     bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_use_double=True,
-    bnb_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16
+    load_in_8bit=False,
     )
 
-    # model_path = "../../../ckpts/Mistral-7B-v0.2-hf"
-    # model_path = "../../../ckpts/Mistral-7B-v0.3-hf"
-    model_path = "../../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    # model_path = "../../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+    # model_path = "../ckpts/Mistral-7B-v0.2-hf"
+    # model_path = "../ckpts/Mistral-7B-v0.3-hf"
+    model_path = "../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    # model_path = "../ckpts/Mistral-7B-Instruct-v0.3-hf"
     if 'v0.2' in model_path:
         mode = "SusGen_GPT_Mistral_v0.2"
     elif 'v0.3' in model_path:
         mode = "SusGen_GPT_Mistral_v0.3"
-    result_path = "../../../results"
+    result_path = "../results"
     save_name = mode + "_30k_epoch"
 
     tokenizer = AutoTokenizer.from_pretrained(model_path, add_bos_token=True, padding_side="left", padding="max_length", use_fast=True)
@@ -159,10 +157,10 @@ def main():
         quantization_config=bnb_config,)
 
     if mode == "SusGen_GPT_Mistral_v0.2":
-        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699").to(device)
+        model = load_lora(base_model, "../results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699").to(device)
         # model = load_lora(base_model, lora_susgenv2_2_5epoch).to(device)
     elif mode == "SusGen_GPT_Mistral_v0.3":
-        model = load_lora(base_model, "/home/whatx/SusGen/results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.3/checkpoint-1406").to(device)
+        model = load_lora(base_model, "../results/SusGen30k-int4-adamw32_Mistral-7B-Instruct-v0.3/checkpoint-1406").to(device)
         # model = load_lora(base_model, lora_susgenv2_3_3epoch).to(device)
 
     question, answer = inference(

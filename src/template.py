@@ -89,7 +89,7 @@ def instr_prompt(content):
 
 def main():
     # 1.Load the model and tokenizer
-    ckpt_folder = "../../../ckpts"
+    ckpt_folder = "../ckpts"
     base_model = "Mistral-7B-Instruct-v0.3-hf"
 
     # base_model = "Meta-Llama-3-8B-Instruct-hf"
@@ -98,7 +98,7 @@ def main():
     # base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
     model, tokenizer, device, config = load_model(
         model_path=os.path.join(ckpt_folder, base_model),
-        lora_path="../../../results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699",
+        lora_path="../results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699",
         quantization='int4')
     # 2.Set the model to evaluation mode
     model.eval()

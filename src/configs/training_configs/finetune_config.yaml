@@ -1,18 +1,18 @@
 name: "SusGen30k-int4-adamw32_Mistral-7B-v0.3"
-output_dir: "/home/whatx/SusGen/results/"
+output_dir: "../results/"
 local_rank: 0
 device: "cuda"
 trainer: "SFTrainer" # Trainer, SFTTrainer
 instruct_mask: True
 
 data:
-  train: "/home/whatx/SusGen/data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json"
+  train: "../data/susgen/FINAL/PER_3500/FINAL_PER3500_30k.json"
   val: 
   val_split_ratio: 0.005
   prompt: mistral_formal
 
 tokenizer:
-  pretrained_model_name_or_path: "../../../ckpts/Mistral-7B-v0.3-hf" # Meta-Llama-3-8B-Instruct-hf
+  pretrained_model_name_or_path: "../ckpts/Mistral-7B-v0.3-hf" # Meta-Llama-3-8B-Instruct-hf
   use_fast: True
   padding_side: "left" # left use less memory
   truncation_side: "right"
@@ -28,7 +28,7 @@ tokenizer:
 
 model:
   show_config: False
-  model_path: "../../../ckpts/Mistral-7B-v0.3-hf"
+  model_path: "../ckpts/Mistral-7B-v0.3-hf"
   lora_path: False # set to False if base model without lora
   seed: 2024
   window: 256 # set the window size for the PEFT model

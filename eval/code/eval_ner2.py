@@ -1,6 +1,6 @@
 # cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_ner2.py
 import json, sys, os, re
-sys.path.append("/home/whatx/SusGen/src/llms/mistral-hf")
+sys.path.append("/home/whatx/SusGen/src/")
 from sklearn.metrics import precision_score, recall_score, f1_score
 from seqeval.metrics import f1_score as entity_f1_score, precision_score as entity_precision_score, recall_score as entity_recall_score
 from template import load_model, generate_text, instr_prompt
