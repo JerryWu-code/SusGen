@@ -1,4 +1,4 @@
-# SusGen
+# SusGen-GPT
 
 We curated a **well-balanced high-quality dataset in the financial & esg domain** and developed a suite of **data-centric Open-Source Large Language Models** for financial NLP tasks which are able to generate great sustainability report and perform multi financial tasks.
 
@@ -38,9 +38,27 @@ Description to be finished.
   <img src="assets/team_logo.png" width="240" height="240" alt="Team Logo">
 </p>
 
-| Team Leader                             | Team Member (Alphabet Order)                                 | Mentor                                                       |
-| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Wu Qilong](mailto:qilong_wu@u.nus.edu) | [Huang Hejia](mailto:e1124197@u.nus.edu)<br />[Wang Xuan](mailto:e1124070@u.nus.edu)<br />[Xiang Xiaoneng](mailto:e1124255@u.nus.edu) | [Dr. Satapathy Ranjan](mailto:satapathy_ranjan@ihpc.a-star.edu.sg)<br />[Prof. Bharadwaj Veeravalli](mailto:elebv@nus.edu.sg) |
+<table id="Team" width="100%">
+  <tr>
+    <th>Team Leader</th>
+    <th>Team Member</th>
+    <th>Mentor</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:qilong_wu@u.nus.edu)">Wu Qilong</a></td>
+    <td>
+      <a href="mailto:e1124197@u.nus.edu">Huang Hejia</a><br>
+      <a href="mailto:e1124255@u.nus.edu">Xiang Xiaoneng</a>
+      <a href="mailto:e1124070@u.nus.edu">Wang Xuan</a><br>
+    </td>
+    <td>
+      <a href="mailto:satapathy_ranjan@ihpc.a-star.edu.sg">Dr. Satapathy Ranjan</a> (A*STAR)<br>
+      <a href="mailto:elebv@nus.edu.sg">Prof. Bharadwaj Veeravalli</a> (NUS)
+    </td>
+  </tr>
+</table>
+
 
 ## Acknowledgement
 
