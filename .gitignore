@@ -1,6 +1,7 @@
-# ignore the MacOS system cache file
+# ignore the system cache file
 .DS_Store
 */.DS_Store
+.vscode/
 
 # ignore the python package cache
 */__pycache__
