@@ -2,7 +2,7 @@ import json, sys, os
 sys.path.append("/home/whatx/SusGen/src/")
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from template import load_model, generate_text, instr_prompt
-from prompt_template import mistral_formal_infer, llama3_formal_infer
+from utils.prompt_template import mistral_formal_infer, llama3_formal_infer
 from tqdm import tqdm
 import re
 import pandas as pd

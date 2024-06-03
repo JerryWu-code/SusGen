@@ -6,7 +6,7 @@ from seqeval.metrics import f1_score as entity_f1_score, precision_score as enti
 from template import load_model, generate_text, instr_prompt
 from tqdm import tqdm
 from collections import Counter
-
+from utils.prompt_template import mistral_formal_infer, llama3_formal_infer
 
 def load_json(file_path):
     with open(file_path, 'r') as f:

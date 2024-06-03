@@ -1,7 +1,7 @@
 import json, sys, os
 sys.path.append("/home/whatx/SusGen/src/")
 from template import load_model, generate_text, instr_prompt
-from prompt_template import mistral_formal_infer, llama3_formal_infer
+from utils.prompt_template import mistral_formal_infer, llama3_formal_infer
 import pandas as pd
 from tqdm import tqdm
 import evaluate
@@ -19,7 +19,7 @@ def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistra
     
     test_data = load_json(test_data_path)
     random.seed(42)  # For reproducibility
-    test_data = random.sample(test_data, 50)
+    test_data = random.sample(test_data, 10)
     predictions = []
     references = []
     eval_results = []
@@ -55,7 +55,7 @@ def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistra
     rouge = evaluate.load('rouge')
     rouge_results = rouge.compute(predictions=predictions, references=references)
 
-    bertscore_results = bert_score(predictions, references, lang='en', model_type="bert-base-multilingual-cased", rescale_with_baseline=True)
+    bertscore_results = bert_score(predictions, references, lang='en', model_type="roberta-large", rescale_with_baseline=True)
     bertscore_f1 = bertscore_results[2].mean().item()
 
     # bart_scorer = BARTScorer(device=device, checkpoint="facebook/bart-large-cnn")

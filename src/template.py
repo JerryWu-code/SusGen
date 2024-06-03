@@ -8,6 +8,7 @@
 import torch, os
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig
 import warnings
+from peft import PeftModel
 warnings.filterwarnings("ignore")
 
 def load_model(model_path, lora_path, quantization='int4'):
@@ -35,7 +36,7 @@ def load_model(model_path, lora_path, quantization='int4'):
     config = AutoConfig.from_pretrained(model_path)
 
     if lora_path:
-        model = PeftModel.from_pretrained(base_model, lora_path, torch_dtype=torch.bfloat16)
+        model = PeftModel.from_pretrained(model, lora_path, torch_dtype=torch.bfloat16)
 
     # 2.Load the model and move to GPU
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -98,7 +99,7 @@ def main():
     # base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
     model, tokenizer, device, config = load_model(
         model_path=os.path.join(ckpt_folder, base_model),
-        lora_path="../results/SusGen30k-int4-adamw32_Mistral-7B-v0.2/checkpoint-699",
+        lora_path="../results/SusGen30k-int4-adamw32_Mistral-7B-v0.3/checkpoint-1406",
         quantization='int4')
     # 2.Set the model to evaluation mode
     model.eval()
