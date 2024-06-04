@@ -6,13 +6,16 @@
 
 #############################################################################
 import torch, os
+# reload transformers
+from importlib import reload
+import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig
 import warnings
 from peft import PeftModel
 warnings.filterwarnings("ignore")
 
-def load_model(model_path, lora_path, quantization='int4'):
-    # 1.Load the tokenizer
+def load_model(model_path, lora_path=False, quantization='int4'):
+    # 1.Load the tokenizer and device
     tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
 
     if quantization == 'int4':
@@ -22,7 +25,6 @@ def load_model(model_path, lora_path, quantization='int4'):
             torch_dtype=torch.float16,
             quantization_config=bnb_config,
             low_cpu_mem_usage=True,
-            attn_implementation="flash_attention_2",
         )
     elif quantization == 'int8':
         bnb_config = BitsAndBytesConfig(load_in_8bit=True)
@@ -31,12 +33,10 @@ def load_model(model_path, lora_path, quantization='int4'):
             torch_dtype=torch.float16,
             quantization_config=bnb_config,
             low_cpu_mem_usage=True,
-            attn_implementation="flash_attention_2", 
         )
     if quantization == 'bf16':
         model = AutoModelForCausalLM.from_pretrained(
             model_path, torch_dtype=torch.float16,
-            attn_implementation="flash_attention_2",
         )
     config = AutoConfig.from_pretrained(model_path)
 
@@ -44,8 +44,8 @@ def load_model(model_path, lora_path, quantization='int4'):
         model = PeftModel.from_pretrained(model, lora_path, torch_dtype=torch.bfloat16)
 
     # 2.Load the model and move to GPU
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # model = model.to(device)
+    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+    model = model.to(device)
 
     return model, tokenizer, device, config
 
@@ -96,7 +96,7 @@ def instr_prompt(content):
 def main():
     # 1.Load the model and tokenizer
     ckpt_folder = "../ckpts"
-    base_model = "Mistral-7B-Instruct-v0.3-hf"
+    base_model = "Mistral-7B-Instruct-v0.3"
 
     # base_model = "Meta-Llama-3-8B-Instruct-hf"
 
@@ -104,8 +104,8 @@ def main():
     # base_model = "SusGen_GPT_Mistral_Instruct_v0.3_30k_10epoch_merged"
     model, tokenizer, device, config = load_model(
         model_path=os.path.join(ckpt_folder, base_model),
-        lora_path="../results/SusGen30k-int4-adamw32_Mistral-7B-v0.3/checkpoint-1406",
-        quantization='int4')
+        # lora_path="../results/SusGen30k-int4-adamw32_Mistral-7B-v0.3/checkpoint-1406",
+        quantization='bf16')
     # 2.Set the model to evaluation mode
     model.eval()
 

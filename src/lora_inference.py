@@ -11,30 +11,14 @@ warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.*")
 warnings.filterwarnings("ignore", category=UserWarning, module="torch.*")
 
-device = torch.device("cuda")
-lora_susgenv2_1 = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-mistral-int4-adamw32/ckpts/checkpoint-186"
-lora_susgenv2_2_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_2_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_2_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_2_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
-lora_susgenv2_3_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_3_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_3_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_3_4epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
-lora_susgenv2_3_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
-lora_susgenv2_3_10epoch = "../src/llms/mistral-hf/results/Mistral-7B-Instruct-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-2330"
-lora_susgenv2_b1_1epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-233"
-lora_susgenv2_b1_2epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-466"
-lora_susgenv2_b1_3epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-699"
-lora_susgenv2_b1_4epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-933"
-lora_susgenv2_b1_5epoch = "../src/llms/mistral-hf/results/Mistral-7B-v0.3-hf_susgen30k-int4-adamw32_new/ckpts/checkpoint-1165"
+device = torch.device("mps")
 lora_alpaca = "results/Mistral-7B_alpaca-lora_early/ckpts/final"
 lora_susgenv1 = "results/Mistral-7B_susgenv1-lora/ckpts/checkpoint-900" # 200, 550, 900
 
 def load_lora(base_model, lora_path):
     # lora_config = PeftConfig.from_pretrained(lora_alpaca)
     model = PeftModel.from_pretrained(base_model, lora_path, torch_dtype=torch.bfloat16)
-    return model
+    return model.to(device)
 
 def load_susgenv1():
     # lora_config = PeftConfig.from_pretrained(lora_susgenv1)
@@ -143,7 +127,7 @@ def main():
 
     # model_path = "../ckpts/Mistral-7B-v0.2-hf"
     # model_path = "../ckpts/Mistral-7B-v0.3-hf"
-    model_path = "../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    model_path = "../ckpts/Mistral-7B-Instruct-v0.3-hf"
     # model_path = "../ckpts/Mistral-7B-Instruct-v0.3-hf"
     if 'v0.2' in model_path:
         mode = "SusGen_GPT_Mistral_v0.2"
