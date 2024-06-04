@@ -36,14 +36,14 @@ def is_number(s):
     pattern = re.compile(r'^-?\d+(\.\d+)?$')
     return bool(pattern.match(s))
 
-def evaluate_fintqa(model_path, test_data_path, args, prompt_type='mistral'):
+def evaluate_fintqa(model_path, test_data_path, args, prompt_type='mistral', lora_path=False, quantization='int4', random_count=100):
     # Load the model and tokenizer
-    model, tokenizer, device, _ = load_model(model_path)
+    model, tokenizer, device, _ = load_model(model_path, lora_path, quantization)
     
     # Load the test dataset
     test_data = load_json(test_data_path)
     random.seed(42)  # For reproducibility
-    test_data = random.sample(test_data, 50)
+    test_data = random.sample(test_data, random_count)
     y_true = []
     y_pred = []
     eval_results = []
@@ -144,7 +144,7 @@ def main():
     results, df = evaluate_fintqa(model_path, test_data_path, args)
     df.to_csv(output_csv_path, index=False)
     with open(output_txt_path, 'w') as f:
-        f.write(f"Accuracy: {results['accuracy']}\n")
+        f.write(f"EmAccuracy: {results['accuracy']}\n")
         f.write(f"Precision: {results['precision']}\n")
         f.write(f"Recall: {results['recall']}\n")
         f.write(f"F1 Score: {results['f1_score']}\n")

@@ -1,3 +1,4 @@
+# cd /home/whatx/SusGen/eval/code && CUDA_VISIBLE_DEVICES=1 python eval_sum.py
 import json, sys, os
 sys.path.append("/home/whatx/SusGen/src/")
 from template import load_model, generate_text, instr_prompt
@@ -14,12 +15,12 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistral'):
-    model, tokenizer, device, _ = load_model(model_path)
+def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistral', lora_path=False, quantization='int4', random_count=20):
+    model, tokenizer, device, _ = load_model(model_path, lora_path, quantization)
     
     test_data = load_json(test_data_path)
     random.seed(42)  # For reproducibility
-    test_data = random.sample(test_data, 10)
+    test_data = random.sample(test_data, random_count)
     predictions = []
     references = []
     eval_results = []
@@ -40,8 +41,8 @@ def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistra
         
         _, summary = generate_text(model, tokenizer, device, final_prompt, args)
         
-        predictions.append(summary.strip())
-        references.append(sample['output'].strip())
+        predictions.append(summary)
+        references.append(sample['output'])
         
         eval_results.append({
             'prompt': final_prompt,
@@ -55,7 +56,7 @@ def evaluate_summarization(model_path, test_data_path, args, prompt_type='mistra
     rouge = evaluate.load('rouge')
     rouge_results = rouge.compute(predictions=predictions, references=references)
 
-    bertscore_results = bert_score(predictions, references, lang='en', model_type="roberta-large", rescale_with_baseline=True)
+    bertscore_results = bert_score(predictions, references, lang='en', model_type="microsoft/deberta-v3-base", rescale_with_baseline=True)
     bertscore_f1 = bertscore_results[2].mean().item()
 
     # bart_scorer = BARTScorer(device=device, checkpoint="facebook/bart-large-cnn")
@@ -82,9 +83,9 @@ def main():
     output_csv_path = "../results/Mistral-v0.2/SUM/sum_eval_results.csv"
     output_txt_path = "../results/Mistral-v0.2/SUM/sum_eval_results.txt"
     args = {
-        "max_length": 16192,
+        "max_length": 8192,
         "do_sample": True,
-        "temperature": 0.2,
+        "temperature": 0.5,
         "top_p": 0.9,
         "top_k": 40,
         "num_return_sequences": 1

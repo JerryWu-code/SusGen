@@ -21,14 +21,14 @@ def load_json(file_path):
         data = json.load(f)
     return data
 
-def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral'):
+def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral', lora_path=False, quantization='int4', random_count=100):
     # Load the model and tokenizer
-    model, tokenizer, device, _ = load_model(model_path)
+    model, tokenizer, device, _ = load_model(model_path, lora_path, quantization)
     
     # Load the test dataset
     test_data = load_json(test_data_path)
     random.seed(42)  # For reproducibility
-    test_data = random.sample(test_data, 50)
+    test_data = random.sample(test_data, random_count)
     y_true = []
     y_pred = []
     eval_results = []
@@ -87,7 +87,7 @@ def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral'):
             'prompt': final_prompt,
             'generated': answer,
             'target': sample['output'],
-            'is_correct': 'Yes' if is_correct else 'No'
+            'is_correct': 'Yes' if y_pred[-1] else 'No'
         })
         
     df = pd.DataFrame(eval_results)
@@ -104,7 +104,7 @@ def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral'):
         'accuracy': accuracy,
         'precision': precision,
         'recall': recall,
-        'f1_score': f1
+        'EntityF1_score': f1
     }
     
     # with open(output_txt_path, 'w') as f:
