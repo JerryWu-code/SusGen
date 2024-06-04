@@ -64,11 +64,12 @@ def evaluate_fintqa(model_path, test_data_path, args, prompt_type='mistral', lor
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
         
-        if is_number(sample['output']):
+        output = sample['output'].replace(',', '').replace('$', '')
+        if is_number(output):
             print('='*50)
-            print(sample['output'])
+            print(output)
             y_true.append(1)
-            y_pred.append(1 if extract_numbers(sample['output'], answer) else 0)
+            y_pred.append(1 if extract_numbers(output, answer) else 0)
             print('True' if y_pred[-1] else 'False')
         else:
             # Split the expected output and the generated answer by comma and newline
@@ -125,7 +126,8 @@ def evaluate_fintqa(model_path, test_data_path, args, prompt_type='mistral', lor
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../benchmark/FINTQA/ConvFinQA.json"
+    # test_data_path = "../benchmark/FINTQA/ConvFinQA.json"
+    test_data_path = "../benchmark/FINTQA/TATQA.json"
     # path_li = ["../benchmark/FINTQA/flare-convfinqa_test.json", "../benchmark/FINTQA/flare-convfinqa_test.json"]
     output_csv_path = "../results/Mistral-v0.2/FINTQA/fintqa_eval_results.csv"
     output_txt_path = "../results/Mistral-v0.2/FINTQA/fintqa_eval_results.txt"

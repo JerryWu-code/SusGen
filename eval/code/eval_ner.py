@@ -48,40 +48,47 @@ def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral', lora_p
             raise ValueError("Invalid prompt type")
         
         _, answer = generate_text(model, tokenizer, device, final_prompt, args)
-        
-        # Split the expected output and the generated answer by comma and newline
-        pattern = re.compile(r'[.,;:!?]\s*|\n')
-        #true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
-        true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
-        predicted_entities = re.sub(r"[^\w\s]", ' ', answer).lower().split()
-        print('='*50)
-        print(true_entities)
-        print(predicted_entities)
-        true_idx = 0
-        is_correct = True
-        # check if per, org, loc are in true entities, if so, we need to check if the count of these entities are matched in the predicted entities
-        entity_types = ['per', 'org', 'loc']
+        if 'noise' or 'causal' in sample['output'].lower():
+            predicted_anwser = 'noise' if 'noise' in answer.lower() else 'causal'
+            print('='*50)
+            print('true_answer: ', sample['output'])
+            print('predicted_answer: ', predicted_anwser)
+            y_true.append(1)
+            y_pred.append(1 if predicted_anwser == sample['output'].lower() else 0)
+        else:
+            # Split the expected output and the generated answer by comma and newline
+            pattern = re.compile(r'[.,;:!?]\s*|\n')
+            #true_entities = [entity.strip() for entity in pattern.split(sample['output']) if entity.strip()]
+            true_entities = re.sub(r"[^\w\s']", ' ', sample['output']).lower().split()
+            predicted_entities = re.sub(r"[^\w\s]", ' ', answer).lower().split()
+            print('='*50)
+            print(true_entities)
+            print(predicted_entities)
+            true_idx = 0
+            is_correct = True
+            # check if per, org, loc are in true entities, if so, we need to check if the count of these entities are matched in the predicted entities
+            entity_types = ['per', 'org', 'loc']
 
-        true_entity_counts = Counter(true_entities)
-        predicted_entity_counts = Counter(predicted_entities)
+            true_entity_counts = Counter(true_entities)
+            predicted_entity_counts = Counter(predicted_entities)
 
-        for entity_type in entity_types:
-            true_count = true_entity_counts.get(entity_type, 0)
-            predicted_count = predicted_entity_counts.get(entity_type, 0)
-            if true_count != predicted_count:
+            for entity_type in entity_types:
+                true_count = true_entity_counts.get(entity_type, 0)
+                predicted_count = predicted_entity_counts.get(entity_type, 0)
+                if true_count != predicted_count:
+                    is_correct = False
+                    break
+            
+            for pred_entity in predicted_entities:
+                if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
+                    true_idx += 1
+                if true_idx == len(true_entities):
+                    break
+            if true_idx != len(true_entities):
                 is_correct = False
-                break
-        
-        for pred_entity in predicted_entities:
-            if true_idx < len(true_entities) and true_entities[true_idx] == pred_entity:
-                true_idx += 1
-            if true_idx == len(true_entities):
-                break
-        if true_idx != len(true_entities):
-            is_correct = False
-        print(is_correct)
-        y_true.append(1)
-        y_pred.append(1 if is_correct else 0)
+            print(is_correct)
+            y_true.append(1)
+            y_pred.append(1 if is_correct else 0)
         
         eval_results.append({
             'prompt': final_prompt,
@@ -115,7 +122,9 @@ def evaluate_ner(model_path, test_data_path, args, prompt_type='mistral', lora_p
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../benchmark/NER/NER.json"
+    # test_data_path = "../benchmark/NER/NER.json"
+    test_data_path = "../benchmark/NER/SC.json"
+
     output_csv_path = "../results/Mistral-v0.2/NER/ner_eval_results.csv"
     output_txt_path = "../results/Mistral-v0.2/NER/ner_eval_results.txt"
     args = {

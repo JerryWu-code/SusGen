@@ -1,0 +1,12 @@
+Model,Benchmark,Metric,Score
+model_test_2,FINQA,FinQA,"{'accuracy': 0.5, 'precision': 1.0, 'recall': 0.5, 'f1_score': 0.6666666666666666}"
+model_test_2,FINQA,flare-cfa-test,"{'accuracy': 0.5, 'precision': 1.0, 'recall': 0.5, 'f1_score': 0.6666666666666666}"
+model_test_2,FINTQA,ConvFinQA,"{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1_score': 1.0}"
+model_test_2,FINTQA,TATQA,"{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1_score': 1.0}"
+model_test_2,HC,MultiFin,"{'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0, 'micro_f1': 0.0}"
+model_test_2,HC,MLESG,"{'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'f1_score': 0.0, 'micro_f1': 0.0}"
+model_test_2,NER,NER,"{'accuracy': 0.0, 'precision': 0.0, 'recall': 0.0, 'EntityF1_score': 0.0}"
+model_test_2,NER,SC,"{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'EntityF1_score': 1.0}"
+model_test_2,SA,FiQA-SA,"{'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1_score': 1.0}"
+model_test_2,SA,FOMC,"{'accuracy': 0.5, 'precision': 1.0, 'recall': 0.5, 'f1_score': 0.6666666666666666}"
+model_test_2,SUM,EDTSum,"{'rouge1': 0.10087149116471665, 'rouge2': 0.04560986480463527, 'rougeL': 0.06673407482305359, 'bertscore': 0.39890986680984497}"

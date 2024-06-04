@@ -45,21 +45,33 @@ def evaluate_sa(model_path, test_data_path, args, prompt_type='mistral', lora_pa
         # Normalize the outputs for case insensitivity
         true_sentiment = sample['output'].strip().lower()
         predicted_sentiment = re.sub(r"[^\w\s]", ' ', answer).lower().split()
-        # count number of positive, negative, neutral in predicted_sentiment
+        # predicted_sentiment
         sentiment_counts = Counter(predicted_sentiment)
         
         print('='*50)
         print(true_sentiment)
-        print(predicted_sentiment)
-        print(f"Positive: {sentiment_counts['positive']}, Negative: {sentiment_counts['negative']}, Neutral: {sentiment_counts['neutral']}")
+        print(predicted_sentiment)            
         most_common_sentiment = None
-        if sentiment_counts['positive'] == sentiment_counts['negative'] == sentiment_counts['neutral']:
-            for word in predicted_sentiment:
-                if word in ['positive', 'negative', 'neutral']:
-                    most_common_sentiment = word
-                    break
+
+        # new condition for hawkish, dovish, neutral
+        if true_sentiment in ['hawkish', 'dovish', 'neutral']:
+            print(f"Hawkish: {sentiment_counts['hawkish']}, Dovish: {sentiment_counts['dovish']}, Neutral: {sentiment_counts['neutral']}")
+            if sentiment_counts['hawkish'] == sentiment_counts['dovish'] == sentiment_counts['neutral']:
+                for word in predicted_sentiment:
+                    if word in ['hawkish', 'dovish', 'neutral']:
+                        most_common_sentiment = word
+                        break
+            else:
+                most_common_sentiment = max(['hawkish', 'dovish', 'neutral'], key=lambda x: sentiment_counts[x])
         else:
-            most_common_sentiment = max(['positive', 'negative', 'neutral'], key=lambda x: sentiment_counts[x])
+            print(f"Positive: {sentiment_counts['positive']}, Negative: {sentiment_counts['negative']}, Neutral: {sentiment_counts['neutral']}")
+            if sentiment_counts['positive'] == sentiment_counts['negative'] == sentiment_counts['neutral']:
+                for word in predicted_sentiment:
+                    if word in ['positive', 'negative', 'neutral']:
+                        most_common_sentiment = word
+                        break
+            else:
+                most_common_sentiment = max(['positive', 'negative', 'neutral'], key=lambda x: sentiment_counts[x])
         print(f"Most common sentiment: {most_common_sentiment}")
         y_true.append(1)
         y_pred.append(1 if true_sentiment == most_common_sentiment else 0)
@@ -94,9 +106,11 @@ def evaluate_sa(model_path, test_data_path, args, prompt_type='mistral', lora_pa
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
-    test_data_path = "../benchmark/SA/FiQA-SA.json"
-    output_csv_path = "../results/Mistral-v0.2/SA/sa_eval_results.csv"
-    output_txt_path = "../results/Mistral-v0.2/SA/sa_eval_results.txt"
+    # test_data_path = "../benchmark/SA/FiQA-SA.json"
+    test_data_path = "../benchmark/SA/FOMC.json"
+    
+    output_csv_path = "../results/Mistral-v0.2/SA/sa_eval_results_FOMC.csv"
+    output_txt_path = "../results/Mistral-v0.2/SA/sa_eval_results_FOMC.txt"
     args = {
         "max_length": 8096,
         "do_sample": True,

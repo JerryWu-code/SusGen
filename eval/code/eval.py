@@ -8,11 +8,21 @@ from eval_re import evaluate_re
 from eval_sa import evaluate_sa
 from eval_sum import evaluate_summarization
 
-def save_results_to_csv(results, df, output_dir, benchmark_name):
-    csv_path = os.path.join(output_dir, f"{benchmark_name}_eval_results.csv")
+# def save_results_to_csv(results, df, output_dir, benchmark_name):
+#     csv_path = os.path.join(output_dir, f"{benchmark_name}_eval_results.csv")
+#     df.to_csv(csv_path, index=False)
+
+#     txt_path = os.path.join(output_dir, f"{benchmark_name}_eval_results.txt")
+#     with open(txt_path, 'w') as file:
+#         # file.write(f"Benchmark: {benchmark_name}\n")
+#         for metric, score in results.items():
+#             file.write(f"{metric}: {score}\n")
+            
+def save_results_to_csv(results, df, output_dir, benchmark_name, test_data_path):
+    csv_path = os.path.join(output_dir, f"{benchmark_name}_{os.path.basename(test_data_path)[:-5]}_eval_results.csv")
     df.to_csv(csv_path, index=False)
 
-    txt_path = os.path.join(output_dir, f"{benchmark_name}_eval_results.txt")
+    txt_path = os.path.join(output_dir, f"{benchmark_name}_{os.path.basename(test_data_path)[:-5]}_eval_results.txt")
     with open(txt_path, 'w') as file:
         # file.write(f"Benchmark: {benchmark_name}\n")
         for metric, score in results.items():
@@ -30,7 +40,12 @@ def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
     prompt_type = 'mistral' # {'mistral', 'llama3}
     model_name = model_path.split('/')[-1]
+    model_name = 'model_test_2'
     summary_csv_path = f"../results/evaluation_summary_{model_name}.csv"
+    lora_path = False
+    quantization = 'int4' # {'int4', 'int8'}
+    random_count = 2
+    
     args = {
         "max_length": 8096,
         "do_sample": True,
@@ -42,37 +57,43 @@ def main():
 
     # Test data paths
     test_data_paths = {
-        # 'FINQA': "../benchmark/FINQA/FinQA.json",
-        'FINTQA': "../benchmark/FINTQA/ConvFinQA.json",
-        # 'HC': "../benchmark/HC/MultiFin.json",
-        # 'NER': "../benchmark/NER/NER.json",
-        # # 'RE': "../benchmark/RE/fingpt-re_test.json",
-        # 'SA': "../benchmark/SA/FiQA-SA.json",
-        # 'SUM': "../benchmark/SUM/EDTSum.json"
+        'FINQA': ["../benchmark/FINQA/FinQA.json", "../benchmark/FINQA/flare-cfa-test.json"],
+        'FINTQA': ["../benchmark/FINTQA/ConvFinQA.json", "../benchmark/FINTQA/TATQA.json"],
+        'HC': ["../benchmark/HC/MultiFin.json","../benchmark/HC/MLESG.json"],
+        'NER': ["../benchmark/NER/NER.json","../benchmark/NER/SC.json"],
+        # 'RE': ["../benchmark/RE/fingpt-re_test.json"],
+        'SA': ["../benchmark/SA/FiQA-SA.json", "../benchmark/SA/FOMC.json"],
+        'SUM': ["../benchmark/SUM/EDTSum.json"]
     }
 
     evaluation_functions = {
-        # 'FINQA': evaluate_finqa,
+        'FINQA': evaluate_finqa,
         'FINTQA': evaluate_fintqa,
-        # 'HC': evaluate_headline_classification,
-        # 'NER': evaluate_ner,
-        # # 'RE': evaluate_re,
-        # 'SA': evaluate_sa,
-        # 'SUM': evaluate_summarization
+        'HC': evaluate_headline_classification,
+        'NER': evaluate_ner,
+        # 'RE': evaluate_re,
+        'SA': evaluate_sa,
+        'SUM': evaluate_summarization
     }
 
     results_summary = {}
 
-    for benchmark_name, test_data_path in test_data_paths.items():
+    for benchmark_name, test_data_paths_list in test_data_paths.items():
         output_dir = f"../results/{model_name}/{benchmark_name}"
         os.makedirs(output_dir, exist_ok=True)
 
-        evaluate_function = evaluation_functions[benchmark_name]
-        results, df = evaluate_function(model_path, test_data_path, args, prompt_type)
+        # evaluate_function = evaluation_functions[benchmark_name]
+        # results, df = evaluate_function(model_path, test_data_path, args, prompt_type, lora_path, quantization, random_count)
 
-        results_summary[benchmark_name] = results
-        save_results_to_csv(results, df, output_dir, benchmark_name)
-        
+        # results_summary[benchmark_name] = results
+        # save_results_to_csv(results, df, output_dir, benchmark_name)
+        results_summary[benchmark_name] = {}
+        for test_data_path in test_data_paths_list:
+            evaluate_function = evaluation_functions[benchmark_name]
+            results, df = evaluate_function(model_path, test_data_path, args, prompt_type, lora_path, quantization, random_count)
+
+            results_summary[benchmark_name][os.path.basename(test_data_path)[:-5]] = results
+            save_results_to_csv(results, df, output_dir, benchmark_name, test_data_path)
         # append summary to temp csv
         save_summary_to_csv(results_summary, f'temp_evaluation_summary_{model_name}.csv', model_name)
 

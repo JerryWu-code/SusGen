@@ -1,812 +1,1133 @@
 prompt,generated,target,is_correct
-"Please strictly format your answer with instructions:Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.
-
-Subordinated Loan Agreement - Silicium de Provence SAS and Evergreen Solar Inc . 7 - December 2007 [ HERBERT SMITH LOGO ] ................................ 2007 SILICIUM DE PROVENCE SAS and EVERGREEN SOLAR , INC .","""Silicium de Provence SAS and Evergreen Solar, Inc."", ORG (Organization).
-
-The provided text is the name of the two parties involved in the Subordinated Loan Agreement mentioned in the given document from the US Securities and Exchange Commission (SEC) filing. These names are identified as organizations based on their nature as legal entities.","Silicium de Provence SAS, ORG
-Evergreen Solar Inc, ORG
-HERBERT SMITH, PER
-SILICIUM DE PROVENCE SAS, ORG
-EVERGREEN SOLAR, ORG",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-SUBORDINATED LOAN AGREEMENT HERBERT SMITH LLP Page 1 of 12 7 - December 2007 TABLE OF CONTENTS Clause Headings Page 1 .","""Herbert Smith LLP, ORG.""","HERBERT SMITH, PER",No
-"Please strictly format your answer with instructions:In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.
-
-DISPUTES 10 Page 2 of 12 7 - December 2007 SUBORDINATED LOAN AGREEMENT THIS LOAN AGREEMENT is made on 7th December , 2007 BETWEEN : ( 1 ) SILICIUM DE PROVENCE S . A . S ., a private company with limited liability , incorporated under the laws of France , whose registered office is situated at Usine de Saint Auban , 04 600 Saint Auban , France , represented by Mr . Frank Wouters , hereinafter referred to as the "" Borrower "", and ( 2 ) EVERGREEN SOLAR , INC ., a company incorporated in Delaware , U . S . A ., with registered number 2426798 , whose registered office is situated at 138 Bartlett Street , Marlboro , Massachusetts 01752 , U . S . A . represented by Richard Chleboski , hereinafter referred to as the "" Lender "", Hereinafter referred to severally each as a "" Party "" and jointly as the "" Parties "".","1. Silicium Dé Provence S.A.S., ORG (French private company)
-2. Sainte Auban, LOC (registered office address for Borrower in France)
-3. Evergreen Solar, Inc., ORG (Delaware company)
-4. Marlboro, LOC (registered office address for Lender in the United States)","SILICIUM DE PROVENCE, ORG
-France, LOC
-Usine de Saint Auban, LOC
-04 600 Saint Auban, LOC
-France, LOC
-Frank Wouters, PER
-Borrower, PER
-EVERGREEN SOLAR , INC, ORG
-138 Bartlett Street, LOC
-Marlboro, LOC
-Massachusetts 01752, LOC
-Richard Chleboski, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-WHEREAS : ( A ) The Borrower intends to develop a plant in France for the production of solar grade silicon .","""France, LOC""
-
-Please note that since there are no specific named entities representing persons or organizations mentioned in this sentence, I have identified only the location where the development is intended to take place.","Borrower, PER
-France, LOC",No
-"Please strictly format your answer with instructions:Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.
-
-( B ) Lender and Borrower have entered into an agreement for the sale and purchase of solar grade silicon on the same date hereof ( the "" Silicon S & P Agreement "").","Lender, ORG; Borrower, ORG; Silicon S&P Agreement, LOC (assuming ""hereof"" refers to the filing)","Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.
-
-( C ) Lender and Borrower have agreed that in consideration for the Borrower entering into the Silicon S & P Agreement with the Lender , the Lender shall make available to the Borrower , by way of a subordinated loan , an amount of thirty million Euros ( EUR 30 , 000 , 000 ) ( the "" Loan "").","Lender, ORG.
-Borrower, PER or ORG (depending on the context if it's an individual or an organization).
-Silicon S & P Agreement, ORG.","Lender, PER
-Borrower, PER
-Borrower, PER
-Lender, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-LOAN 2 . 1 The Lender grants the Borrower a loan of a total principal amount of thirty million Euros ( EUR 30 , 000 , 000 ) to be disbursed to the Borrower in two instalments , as follows : 2 . 1 . 1 A first instalment of fifteen million Euros ( EUR 15 , 000 , 000 ) to be paid no later than 30 November 2007 ; and 2 . 1 . 2 A second instalment of fifteen million Euros ( EUR 15 , 000 , 000 ) to be paid no later than 31 January 2008 .","Entities identified:
-
-1. Borrower, PER.
-2. Lender, ORG.","Lender, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-2 . 2 The actual disbursement date of the last instalment of the Loan to the Borrower shall be the "" Effective Date "".",No identified entities in this excerpt.,"Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.
-
-2 . 3 The Loan is to be paid by the Lender into the Borrower ' s account in immediately available cleared funds as follows : Bank : ING Belgium S . A ., Succursale en France Branch : Immeuble Les Caryatides , 24 / 26 boulevard Carnot , 59042 Lille cedex Account Number : 30438 IBAN number : FR76 3043 8000 0836 8300 3000 905 BIC Number : INGBFRPP Code Guichet : 00008 No du Compte : 36830 03 0009 Cle RIB : 05 or to such other bank account as may be nominated from time to time by the Borrower to the Lender pursuant to Article 14 .","Entity 1: ING Belgium S.A., ORG
-Entity 2: Immeuble Les Caryatides, LOC (address)
-Entity 3: 24/26 boulevard Carnot, LOC (street address)
-Entity 4: 59042 Lille cedex, LOC (zip code and city)
-Entity 5: FR76 3043 8000 0836 8300 3000 905, PER (IBAN number for individual's account)
-Entity 6: INGBFRPP, ORG (Swift/BIC code)
-Entity 7: 00008, ORG (Code Guichet)
-Entity 8: 36830 03 0009, PER (No du Compte for individual's account)
-Entity 9: 05, ORG (RIB - Recherche d'Identifiants Bancaires)","Lender, PER
-Borrower, PER
-Bank, ORG
-Belgium, LOC
-France, LOC
-Immeuble Les Caryatides, LOC
-24 / 26 boulevard Carnot, LOC
-59042 Lille cedex, LOC
-bank, ORG
-Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-2 . 4 The Loan shall be used by the Borrower solely to finance the works arising out of and relating to the construction of the Borrower ' s plant ( the "" Works "").","Borrower, ORG.
-""Borrower's plant"", LOC.","Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-For the avoidance of doubt , the Loan shall not be used to increase management remuneration , for the repayment of any indebtedness for borrowed money or for any capital distribution to the Borrower ' s equity holders .","Entities identified:
-
-1. Borrower, ORG.","Borrower, PER",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-INTEREST AND REPAYMENT 3 . 1 The Borrower shall , from the Effective Date , pay interest in arrears to the Lender on the Loan outstanding from time to time , such interest calculated at a rate of three percent ( 3 %) per Calendar Year compounded annually on the actual outstanding amount of the Loan plus any accrued interest and any other amounts due hereunder ; provided that upon a failure to repay a part of the Loan when due or any other default by Borrower set forth in Page 4 of 12 7 - December 2007 Clause 18 under this Loan Agreement , the foregoing rate shall increase to an amount equal to ( a ) the twelve - month EURIBOR rate determined on the business day preceding the default as reported in the Wall Street Journal , plus ( b ) three ( 3 %) on the unpaid amount only .","1. Borrower, PER
-2. Lender, ORG
-3. Loan, ORG (representing the debt instrument)
-4. Effective Date, LOC (representing the date of the agreement)
-5. Calendar Year, LOC (representing the yearly period for calculating interest)
-6. Three percent (3%), ORG (assuming it's a reference to an interest rate-setting entity; otherwise, it could be considered a numerical value)
-7. Twelve-month EURIBOR rate, ORG (European Interbank Offered Rate setting entity)
-8. Wall Street Journal, ORG","Borrower, PER
-Lender, PER
-Borrower, PER
-Wall Street, LOC",No
-"Please strictly format your answer with instructions:In sentences from financial agreements found within U.S. SEC filings, pinpoint named entities that represent either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Submit your findings in the format: 'entity name, entity type'.
-
-3 . 3 The Borrower shall repay the Loan and interest and accrued hereunder , on the date falling five ( 5 ) years after the Effective Date ( the "" Repayment Date ""), save that the Borrower may prepay all or part of the Loan in accordance with Article 4 and provided that in the event that the Lender terminates the Silicon S & P Agreement pursuant to Article 11 . 1 thereof , the Repayment Date shall be the effective date of such termination .","1. Borrower, PER.
-2. Lender, ORG.
-3. Effective Date, LOC (representing the date when the agreement becomes binding).
-4. Silicon S & P Agreement, ORG.
-5. Article 4, Article 11, ORG (representing the specific articles of the agreement referenced for prepayment terms and termination provisions respectively).","Borrower, PER
-Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-3 . 5 For the purposes of Articles L . 313 - 1 et seq ., R . 313 - 1 and R . 313 - 2 of the French Code de la Consommation , the Lender hereby informs the Borrower that the all - in rate ( taux effectif global ) of the Loan is three percent ( 3 %).","""French Code de la Consummation"", ORG.
-""Articles L. 313-1 et seq."", ORG.
-""R. 313-1 and R. 313-2"", ORG.
-""Lender"", PER.
-""Borrower"", PER.","Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-3 . 6 All payments made by the Borrower to the Lender shall be in Euros in immediately available cleared funds by electronic transfer to an account held by Silicon Valley Bank , account number [�], swift code [�], for the credit of [�].","Entity name 1: Silicon Valley Bank, entity type: ORG.
-
-Entity names 2-3 (incomplete due to missing information): [Silicon Valley Bank account holder's name], entity type: PER or ORG. (Without this information it's impossible to determine if it represents a person or an organization.)","Borrower, PER
-Lender, PER
-Silicon Valley, LOC
-Bank, ORG",No
-"Please strictly format your answer with instructions:Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.
-
-EARLY REPAYMENT 4 . 1 The Borrower shall at all times be allowed to prepay the Loan in whole or in part , without premium or penalty , provided it does so in whole multiples of EUR 100 , 000 and that ten ( 10 ) days prior written notice has been delivered to the Lender .","Borrower, PER
-Lender, ORG","Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-REPRESENTATIONS Except as otherwise stated below , each of the Lender and the Borrower hereby represents and warrants that : ( A ) It is a company duly incorporated and validly existing under the laws of its jurisdiction of incorporation ; ( B ) The obligations expressed to be assumed by it are valid and binding obligations ; ( C ) The entry into and performance by it of this Loan Agreement do not and will not conflict with ( a ) any provision of any law or regulation applicable to it , ( b ) its constitutional documents , and ( c ) any agreement which is binding upon it or any of its assets ; and ( D ) It has the power to enter into , perform and deliver this Loan Agreement and the transactions contemplated therein .","1. Lender, PER (legal entity)
-2. Borrower, PER (legal entity)
-3. Laws of its jurisdiction of incorporation, LOC (geographical area)
-4. Constitutional documents, ORG (organizational structure)
-5. Any agreement which is binding upon it or any of its assets, ORG (organizational structure)","Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-UNDERTAKINGS Except as otherwise stated below , each of the Lender and the Borrower hereby undertakes : ( A ) To do all such things as are necessary to maintain its corporate existence ; Page 5 of 12 7 - December 2007 ( B ) To obtain , maintain and comply with the terms of any authorisation required under any applicable law or regulation to ( i ) enable it to carry out its activities and ( ii ) perform its obligations under this Loan Agreement ; and ( C ) To comply with all applicable laws and regulations .","Entities identified and their types:
-
-1. Lender, PER (legal entity)
-2. Borrower, PER (legal entity)
-3. Applicable law or regulation, LOC (location-based; refers to various legal frameworks)","Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-SUBORDINATION 7 . 1 In the event that insolvency proceedings are initiated against the Borrower or that it is unable to pay its debts as they fall due or in the event of any moratorium on its debts or if the Borrower has proposed any composition , assignment or arrangement to its creditors , the obligation to repay the outstanding amount of the Loan : 7 . 1 . 1 shall be subordinated to any indebtedness of the Borrower to any lending or financial institution in any way related to the Works , both present and future notwithstanding whether such indebtedness is recoverable by process of law or is conditional or unconditional ("" Financial Loans ""); 7 . 1 . 2 shall rank pari passu with the rights of ( i ) any other lender under other loans similar to the Loan , entered into ( or to be entered into ) between the Borrower and any other silicon processor or photovoltaic items manufacturer ("" Manufacturer Loans ""), and ( ii ) the Borrower ' s shareholders under shareholders ' loans entered into ( or to be entered into ) between the Borrower and any of its shareholders ("" Shareholder ' s Loans "").","1. Borrower, ORG
-2. Lending or financial institution, ORG
-3. Silicon processor or photovoltaic items manufacturer, ORG
-4. Manufacturer Loans, ORG (representing multiple entities)
-5. Shareholders, PER (plural, representing multiple individuals)
-6. Shareholders' Loans, ORG (representing potential multiple loans between Borrower and individual shareholders)","Borrower, PER
-Borrower, PER
-Borrower, PER
-lender, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.
-
-7 . 2 The Borrower undertakes not to grant any security interest of any kind in respect of any Manufacturer Loan or Shareholder ' s Loan unless the Loan benefits from similar security of the same rank .","""Borrower"" - PER (Person)
-
-This sentence does not contain any clear reference to specific organizations or locations that can be definitively labeled as ORGs or LOCs based on the information provided. However, it mentions two types of loans (""Manufacturer Loans"" and ""Shareholder's Loans""), but no further details about these loans are given, so they cannot be classified as ORGs or LOCs either.","Borrower, PER",Yes
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-7 . 3 The Lender undertakes , and acknowledges that it is a condition of this Loan Agreement , that it shall not grant any mortgage , charge , pledge , lien or other security interest of any kind or arrangement that would adversely effect the rights of the Borrower under this Loan Agreement , whether to its creditors or any other third party .","No new named entities are identified in this section of the text. Therefore, there's no response for this part.","Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-Without prejudice to the foregoing , the Borrower acknowledges and accepts that the assets of the Lender , including without limitation Lender ' s rights under this Loan Agreement , are currently and are expected to continue to be subject to liens in favour of Lender ' s creditors .","""Lender, ORG.""","Borrower, PER
-Lender, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-7 . 4 The Lender undertakes that , on the written request of the Borrower , the Lender shall cooperate with the Borrower and any creditor providing a Financial Loan , Manufacturer Loan or Shareholder ' s Loan to the Borrower , by entering , in a timely manner , into such inter - creditor agreement as may reasonably be necessary and customary for the implementation of Articles 7 . 1 and 7 . 2 above .","Entities mentioned:
-
-1. The Lender, ORG.
-2. The Borrower, PER or ORG (depending on the context).
-3. Any creditor, PER or ORG.","Lender, PER
-Borrower, PER
-Lender, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-COSTS The Lender and the Borrower shall each pay their own respective costs , taxes and fees in connection with the implementation of this Loan Agreement .","""Lender, PER; Borrower, PER"".","Lender, PER
-Borrower, PER",Yes
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-PARTIAL PAYMENTS If the Lender receives a payment that is insufficient to discharge all the amounts then due and payable by the Borrower under this Loan Agreement , the Lender shall apply that payment towards the obligations of the Borrower in the following order : ( A ) in or towards payment of any unpaid fees , costs and expenses ; ( B ) in or towards payment of accrued interest ; and Page 6 of 12 7 - December 2007 ( C ) in or towards payment of any principal due but unpaid under this Loan Agreement .","Based on the provided text from the financial agreement in the US Sec filing, I have identified the following named entities and their types:
-
-1. Lender, ORG
-2. Borrower, PER
-3. This Loan Agreement, ORG
-4. Payment, LOC (representing the location where the payment is made)
-5. Unpaid fees, COSTS (a type of expense represented as a LOC within the context of this agreement)
-6. Costs, EXPENSES (a type of expense, ORG)
-7. Accrued interest, DEBT (a type of financial obligation represented as a LOC within the context of this agreement)
-8. Principal, DEBT (a type of financial obligation).","Lender, PER
-Borrower, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Identify and classify named entities in sentences from financial agreements in U.S. SEC filings as either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your responses in this format: 'entity name, entity type'.
-
-ASSIGNMENT 10 . 1 Subject to ( A ) � ( D ) below and 10 . 2 neither Party may , or may purport to , assign , transfer , mortgage , charge , pledge or otherwise encumber all or any portion of its rights , interests or obligations arising under this Loan Agreement without the prior written consent of the other Party , except that : ( A ) The Borrower may freely assign , transfer , mortgage , charge , pledge or otherwise encumber all or any portion of its rights and obligations under this Loan Agreement ( or any document or legal instrument referred to in this Loan Agreement ), ( i ) to any shareholder of the Borrower or Affiliate of such shareholder or ( ii ) to any Creditor .","1. ""the other Party"", ORG
-2. ""this Loan Agreement"", PER (as a contract)
-3. ""the Borrower"", PER
-4. ""any shareholder of the Borrower or Affiliate of such shareholder"", ORG (plural entities)
-5. ""any Creditor"", ORG.","Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.
-
-"" Creditor ( s )"" means any bank , special purpose project company , trust company , mortgage company , insurance company , pension fund , real estate investment trust , or other lending or financial institutions ( including indirect lenders and loan participants ) providing debt , equity , lease and / or bond financing or financial services , or credit support or other credit enhancement in any way related to the construction of the Works ( B ) If the Borrower does not obtain the Lender ' s prior written consent to any such assignment , transfer , mortgage , charge , pledge or other encumbrance under sub - clause ( A ) above the Borrower shall not be released from any obligation hereunder unless and until Borrower provides an unconditional repayment guarantee to Lender in a form acceptable to Lender in its sole discretion .","1. ""any bank"": Bank, ORG.
-2. ""special purpose project company"": Special Purpose Project Company, ORG.
-3. ""trust company"": Trust Company, ORG.
-4. ""mortgage company"": Mortgage Company, ORG.
-5. ""insurance company"": Insurance Company, ORG.
-6. ""pension fund"": Pension Fund, ORG.
-7. ""real estate investment trust"": Real Estate Investment Trust, ORG.
-8. ""lending or financial institutions"": Lending or Financial Institutions, ORG.
-9. ""including indirect lenders and loan participants"": Indirect Lenders and Loan Participants, ORG.
-10. ""Borrower"": PER.
-11. ""Lender"": PER.","bank, ORG
-Borrower, PER
-Lender, PER
-Borrower, PER
-Borrower, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-( C ) If the Borrower obtains the Lender ' s prior written consent to any such assignment , transfer , mortgage , charge , pledge or other encumbrance under sub - clause ( A ) above assignment the Borrower shall not have to provide a repayment guarantee to Lender and the Borrower shall be released from any obligation hereunder upon the execution of an assignment and assumption agreement whereby Borrower assigns all of its rights to the assignee and the assignee assumes all of the obligations of Borrower under this Loan Agreement .","1. Borrower, PER
-2. Lender, ORG
-3. Assignee, PER (if an individual) or ORG (if an organization).","Borrower, PER
-Lender, PER
-Borrower, PER
-Lender, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.
-
-( D ) Successive assignments of Borrower ' s rights under this Loan Agreement shall remain subject to this Article 10 . 1 provided that Silicium de Provence S . A . S .","Entity name: Silicium de Provence S.A.S., ORG.","Borrower, PER
-Silicium de Provence, ORG",No
-"Please strictly format your answer with instructions:Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.
-
-shall not be released from a guarantee provided in satisfaction of its obligations under this Article 10 . 1 as a result of an assignment that occurs after the initial assignment by the Borrower unless the Lender ' s consent is obtained in which case the Borrower shall be released and item ( C ) above shall apply .","""Lender, ORG.""","Borrower, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-10 . 2 The Lender may assign or transfer this Loan Agreement without the consent of the Borrower in the event of a change of control of the Lender or the sale of all or substantially all the assets of the Lender to which this Loan Agreement relates .","""Lender"", ORG.","Lender, PER
-Borrower, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.
-
-Page 7 of 12 7 - December 2007 10 . 3 Any assignment , transfer , mortgage , charge , pledge or other giving of security by one Party hereunder shall not in any way diminish the other Party ' s rights and obligations or the giving Parties successor ' s rights and obligations under this Loan Agreement , including any amendments hereto 10 . 4 On the written request of the Borrower , the Lender shall cooperate with the Borrower and any Creditors , by entering , in a timely manner , into such direct agreements as may reasonably be necessary and customary for project financing of the Works .","1. One Party, PER (Party to the Loan Agreement)
-2. Other Party, PER (The counterparty to the agreement)
-3. Borrower, PER (Specific party making the request)
-4. Lender, PER (Specific party agreeing to cooperate)
-5. The Borrower, PER
-6. Any Creditors, ORG (Organizations acting as creditors)
-7. This Loan Agreement, ORG (Legal document governing the loan)
-8. Project financing, ORG (Type of financing being arranged)
-9. The Works, LOC (Location related to the project financing)","Borrower, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-Such agreements may include provisions which permit the Creditors , in the event of a breach of the Loan Agreement or the Silicon S & P Agreement that would permit the Lender to terminate the Loan Agreement , to : ( i ) Take - over the Loan Agreement ; ( ii ) step - in , rectify or otherwise cure any breach of this Loan Agreement ; ( iii ) assign or otherwise transfer this Loan Agreement .","1. Creditors, ORG
-2. Lender, PER or ORG (depends on context)
-3. Loan Agreement, ORG
-4. Silicon S & P Agreement, ORG
-5. This Loan Agreement, ORG
-6. Breach of the Loan Agreement, EVENT
-7. Breach of the Silicon S & P Agreement, EVENT
-8. Terminate the Loan Agreement, ACTION
-9. Take-over the Loan Agreement, ACTION
-10. Step-in, PROCESS
-11. Rectify or otherwise cure, PROCESS
-12. Assign or otherwise transfer, ACTION","Lender, PER",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-NOTICES 14 . 1 Any notice or other communication required to be given under this Loan Agreement shall be in writing and shall be delivered to the Party required to receive the notice or communication at its address as set out below : Borrower Usine de Saint Auban , Page 8 of 12 7 - December 2007 04 600 Saint Auban , France .","USine de Saint Auban, LOC.","Borrower, PER
-Saint Auban, LOC
-Saint Auban, LOC
-France, LOC",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-Attention : Frank Wouters , CEO Lender 138 Bartlett Street Marlboro , Massachusetts , 01752 U . S . A .","""Frank Wouters, PER
-Lender, ORG
-138 Bartlett Street, Marlboro, Massachusetts, 01752 U.S.A., LOC""","Frank Wouters, PER
-CEO, LOC
-Lender, PER
-138 Bartlett Street Marlboro, LOC
-Massachusetts, LOC",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-Attention : Richard Chleboski , Vice President or at such other address as the relevant Party may specify by notice in writing to the other Parties .","""Richard Chleboski, PER""
-
-This identification assumes that ""Richard Chleboski"" refers to a person based on the use of the pronoun ""he"" and the definite article ""the"" before ""other Parties,"" suggesting that there are multiple parties involved in this agreement and Mr. Chleboski is one of them. Additionally, the phrase ""or at such other address"" implies a physical location associated with Mr. Chleboski, but no specific LOC was mentioned in the provided text.","Richard Chleboski, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-The arbitration shall be conducted in English and the seat shall be Paris .","PARIS, LOC.","Paris, LOC",Yes
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-The following events shall be considered events of default with respect to this Loan Agreement : 18 . 1 . 1 The Borrower shall default in the payment of any part of the principal or unpaid accrued interest on the Loan [ for more than [ thirty ( 30 )] days ] after the same shall become due and payable , whether at maturity or at a date fixed for prepayment or by acceleration or otherwise ; 18 . 1 . 2 The Borrower is unable or admits its inability to pay its debts as they fall due , by reason of actual or anticipated financial difficulties or suspends making payments on any of its debts or commences negotiations with one or more of its creditors with a view to rescheduling any of its indebtedness ; 18 . 1 . 3 The Borrower is in a state of suspension of payments ( cessation des paiements ) within the meaning of article L . 631 - 1 of the French Commercial Code ; 18 . 1 . 4 Any corporate action , legal proceedings or other procedures or steps are taken by reason of the Borrower ' s financial difficulties , in relation to : ( A ) The suspension of payments , a moratorium of any indebtedness , winding - up , dissolution administration or reorganisation ( other than a solvent winding - up , dissolution or reorganisation carried out with the prior written consent of the Lender , such consent not to be unreasonably withheld or delayed ) of the Borrower ; ( B ) A composition , compromise , assignment or arrangement with any creditor of the Borrower ; Page 10 of 12 7 - December 2007 ( C ) The appointment of a liquidator , receiver , administrator , administrative receiver , compulsory manager or other similar officer in respect of the Borrower or any of its assets ; Or any analogous procedure or step is taken in any jurisdiction .","1. Borrower, PER
-2. French Commercial Code, LOC (referring to a specific law or regulation)
-3. Lender, ORG
-4. Debts, ORG (representing various debts owed by the Borrower)
-5. Creditors, PL (plural form for PER)
-6. Winding-up, Dissolution, Administration, Reorganization, ORG (collectively representing different types of insolvency proceedings)
-7. Administrative receiver, Compulsory manager, Other similar officers, ORG (representing various roles appointed during insolvency proceedings)","Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Lender, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-18 . 1 . 5 The Borrower commences proceedings for conciliation in accordance with articles L . 611 - 4 to L . 611 - 15 of the French Commercial Code or any analogous procedure or step is taken in any jurisdiction ; 18 . 1 . 6 A judgment for sauvegarde , redressement judiciaire or liquidation judiciaire is entered in relation to the Borrower under articles L . 620 - 1 to L . 644 - 6 of the French Commercial Code or any analogous judgment is entered in any jurisdiction ; 18 . 1 . 7 The Borrower shall fail to observe or perform any other obligation to be observed or performed by it under this Loan Agreement within thirty ( 30 ) days after written notice from the Lender to perform or observe the obligation ; and 18 . 1 . 8 The Borrower stops construction of the Works or acknowledges that it will be unable or is unwilling to complete construction of the works .","18 . 1 . 5 ""Borrower"", PER
-18 . 1 . 6 ""French Commercial Code"", ORG (government body)
-18 . 1 . 6 ""articles L . 611 - 4 to L . 611 - 15"", ORG (legislation)
-18 . 1 . 6 ""jurisdiction"", LOC
-18 . 1 . 6 ""Borrower"", PER
-18 . 1 . 7 ""Lender"", PER
-18 . 1 . 8 ""Loan Agreement"", ORG
-18 . 1 . 8 ""Borrower"", PER
-18 . 1 . 8 ""works"", LOC (""construction of the works"" implies a physical location)","Borrower, PER
-Borrower, PER
-Borrower, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-Upon the occurrence of an event of default under Article 18 . 1 hereof , at the option and upon the declaration of the Lender , the entire unpaid principal and accrued and unpaid interest on the Loan shall without formal notice of default ( mise en demeure ) or any other judicial or extra - judicial step ,, be forthwith due and payable , and the Lender may , immediately and without expiration of any period of grace , enforce payment of all amounts due and owing under this Loan Agreement and exercise any and all other remedies granted to it .","Entities identified in the given text from USSEC filings:
-
-1. Lender, ORG.","Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-From time to time , the Borrower shall execute and deliver to the Lender such additional documents and shall provide such additional information to the Lender as the Lender may reasonably require to carry out the terms of this Loan Agreement .","No named entities are identified in the given text for PER, ORG, or LOC types. Therefore, there is no response according to the required format.","Borrower, PER
-Lender, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-22 . 1 Subject to Article 22 . 2 the Borrower shall indemnify and hold the Lender harmless from any reasonable loss , cost , liability and legal or other expense , including reasonable attorneys ' fees of the Lender ' s counsel , which the Lender may directly or indirectly suffer or incur by reason of the failure of the Borrower to perform any of its obligations under this Loan Agreement or exercise of remedies ( collectively , "" Costs ""), provided , however , the indemnity agreement contained in this Article shall not apply to liabilities which the Lender may directly or indirectly suffer or incur by reason of the Lender ' s own negligence or misconduct .","Entities and their types in the given text:
-
-1. Borrower, PER
-2. Lender, ORG
-3. Counsel of the Lender, ORG (implied)","Borrower, PER
-Lender, PER
-Lender, PER
-Lender, PER
-Borrower, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-/ s / Frank Wouters SIGNED by Frank Wouters for and on behalf of SILICIUM DE PROVENCE S . A . S / s / Richard G . Chleboski SIGNED by Richard G . Chleboski for and on behalf of EVERGREEN SOLAR , INC .","1. Frank Wouters, PER for SILICIUM DE PROVENCE S.A.S., ORG
-2. Richard G. Chleboski, PER for Evergreen Solar, Inc., ORG","Frank Wouters, PER
-Frank Wouters, PER
-SILICIUM DE PROVENCE S, ORG
-Richard G, PER
-Chleboski, PER
-Richard G, PER
-Chleboski, PER
-EVERGREEN SOLAR , INC, ORG",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-Loan Servicing Agreement - PIM Ashford Venture I LLC and Ashford Hospitality Servicing LLC LOAN SERVICING AGREEMENT Dated as of ____________ , 2008 by and between PIM ASHFORD VENTURE I , LLC AND ASHFORD HOSPITALITY SERVICING LLC THIS LOAN SERVICING AGREEMENT ( this "" Agreement ""), dated as of , 2008 , is made and entered into by and between PIM Ashford Venture I , LLC , a Delaware limited liability company ( the "" Company ""), for itself and on behalf of its Subsidiaries ( hereinafter defined ), and Ashford Hospitality Servicing LLC , a Delaware limited liability company ( the "" Ashford "").","PIM Ashford Venture I, LLC, PER; PIM Ashford Venture I, LLC's Subsidiaries, ORG; Ashford Hospitality Servicing LLC, PER.","Ashford Venture I LLC, ORG
-Ashford Hospitality Servicing LLC, ORG
-ASHFORD VENTURE I, ORG
-LLC, ORG
-ASHFORD HOSPITALITY SERVICING LLC, ORG
-Ashford Venture I, ORG
-LLC, ORG
-Ashford Hospitality Servicing LLC, ORG",No
-"Please strictly format your answer with instructions:In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.
-
-WITNESSETH : WHEREAS , Ashford and Prudential Investment Management , Inc ., a Delaware corporation ("" PIM ""), are parties to that certain Investment Program Agreement dated of even date herewith ( the "" Program Agreement "").","""Ashford"", ""Prudential Investment Management, Inc."", ""PIM"" - ORG.","Ashford, ORG
-Prudential Investment Management, ORG",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-Pursuant to the Program Agreement , Ashford and PIM agreed to establish an exclusive investment program ( the "" Program "") whereby PIM will identify one ( 1 ) or more investors to invest in Master Ventures ( as defined in the Program Agreement ) to make Investments ( as defined in the Program Agreement ) through such Master Ventures and Master Venture subsidiaries ( the "" Subsidiaries ""); WHEREAS , Ashford and PRISA III Investments , LLC , a Delaware limited liability company ( the "" Investor ""), have formed the Company pursuant to that certain Limited Liability Company Agreement of the Company dated as of ___________ , 2008 ( the "" Master Venture Agreement "") to invest through one or more Subsidiaries in Investments .","1. Ashford, PER
-2. PIM, ORG
-3. Program, LOC (as defined in the Program Agreement)
-4. Master Ventures, ORG (as defined in the Program Agreement)
-5. Subsidiaries, ORG
-6. PRISA III Investments, LLC, ORG
-7. Company, ORG
-8. Master Venture Agreement, DOC
-9. ___________ , 2008, DATE.","Ashford, ORG
-Ashford, ORG
-PRISA III, ORG
-LLC, ORG",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-Bankruptcy Code "" shall mean the United States Bankruptcy Code , as amended from time to time , any successor statute or rule promulgated thereto . ""","No named entities are identified in this sentence. It is a legal citation and does not contain any proper nouns that can be classified as PER (person), ORG (organization), or LOC (location).","United States, LOC",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-Borrower "", for an Investment , shall mean , collectively , the borrowers under such Investment . ""","Borrower(s), ORG.
-
-""for an Investment"": This is not an identified entity and does not represent a PER, ORG, or LOC. It's just a phrase describing the context of the agreement.","Borrower, PER",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-Borrower Related Party "" shall mean any Affiliate of the Borrower .","Response: ""Borrower's Affiliate, ORG.""
-
-Explanation: The term ""Borrower Related Party"" is defined as any affiliate of the borrower. An affiliate is a legal entity related to the borrower through ownership or control relationships. Therefore, this identified entity represents an organization.","Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.
-
-For avoidance of doubt , any mezzanine lender shall be considered a Borrower Related Party if any such mezzanine lender becomes an Affiliate of the Borrower through foreclosure or other conversion of the collateral for a mezzanine loan in connection with any Property . ""","Mezzanine lender, PER (if it is a natural person) or ORG (if it is a legal entity)
-Borrower, ORG
-Affiliate, ORG
-Property, LOC","lender, PER
-Borrower, PER
-lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-Borrower Transfer "" means a "" Transfer ,"" as defined in the Loan Documents . ""","Response: No identified entities in this statement.
-
-However, I can provide some context for understanding the term 'Borrower Transfer': It refers to a transfer of debt obligations under a loan agreement. The identity and type (PER, ORG, or LOC) of the borrower would be specified elsewhere in the relevant legal documents, such as the Loan Documents mentioned above.","Borrower, PER",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-Business Day "" shall mean any day that is not a Saturday or Sunday , and that is not a legal holiday in New York , New York , nor a day that banking institutions or savings associations in any of the foregoing cities are closed for business . ""","No PERs, ORGs, or LOCs are mentioned in this text. It only describes what constitutes a Business Day. Therefore, there's no need to provide responses in the requested format.","New York, LOC
-New York, LOC",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-Insolvency Proceeding "" shall mean any proceeding under Title 11 of the United States Code ( 11 U . S . C .","Insolvency Proceeding, LOC (Location of the court where the insolvency proceedings are taking place)
-Title 11 of the United States Code, ORG (United States government agency responsible for bankruptcy laws and regulations)","United States, LOC",No
-"Please strictly format your answer with instructions:Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.
-
-or any other insolvency , liquidation , reorganization or other similar proceeding concerning the Borrower , any action for the dissolution of the Borrower , any proceeding ( judicial or otherwise ) concerning the application of the assets of the Borrower , for the benefit of its creditors , the appointment of or any proceeding seeking the appointment of a trustee , receiver or other similar custodian for all or any substantial part of the assets of the Borrower or any other action concerning the adjustment of the debts of the Borrower or the cessation of business by the Borrower , except following a sale , transfer or other disposition of all or substantially all of the assets of the Borrower in a transaction permitted under the Loan Documents ; provided , however , that following any such permitted transaction affecting the title to the Property or the Interests , the Borrower for purposes of this Agreement shall be defined to mean the successor owners to the Property or the Interests ; provided , further , however , that for the purposes of this definition , in the event that more than one entity comprises the Borrower , the term "" Borrower "" shall refer to any such entity . ""","1. Borrower, PER (implied as a legal entity)
-2. Loan Documents, ORG (assuming it's a collective term for various organizational documents related to the loan agreement)
-3. Creditors, PER (plural and unspecified individuals)
-4. Trustee, PER or ORG (depending on whether we are referring to a specific individual or an organization acting as a trustee)
-5. Receiver, PER or ORG (similar to above)
-6. Assets of the Borrower, LOC (the physical locations where the borrower's assets are situated)","Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-Interests "" shall mean the ownership interests in Borrower pledged to Lender pursuant to the Loan Documents .","""Borrower, ORG""
-
-This is assuming that ""Borrower"" refers to the borrowing entity mentioned in the context of the loan documents. If it's not clear from other information provided, you might want to consider this ambiguous until more context becomes available.","Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.
-
-2 "" Lender "" shall mean the holder of legal title to the Loan Documents .","Entity name: Lender
-Entity type: PER (implied; could be an individual or an organization)","Lender, PER",Yes
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-Initially , the Lender for each Investment and for all purposes under the Loan Documents and this Agreement shall be the Company or the Subsidiary that holds such Investment . ""","Entity 1: Company, ORG
-Entity 2: Subsidiary, ORG
-Entities mentioned are organizations within the given text.","Lender, PER",No
-"Please strictly format your answer with instructions:Analyze text from financial agreements in U.S. SEC filings to identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). The required response format is: 'entity name, entity type'.
-
-Loan "", for each Investment , shall mean the loan made or acquired by Lender and evidenced and secured by the Loan Documents . ""","Based on the provided text, no named entities representing PER, ORG, or LOC are explicitly mentioned. Therefore, there's no response according to the required format.","Lender, PER",No
-"Please strictly format your answer with instructions:In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.
-
-Person "" shall mean any individual , sole proprietorship , corporation , general partnership , limited partnership , limited liability company or partnership , joint venture , insurance company , association , joint stock company , bank , trust , estate , unincorporated organization , any federal , state , county or municipal government ( or any agency or political subdivision thereof ), and any other legal entity . ""","1. Any individual, PER
-2. Sole proprietorship, ORG (specifically mentioned as a type of ORG)
-3. Corporation, ORG
-4. General partnership, ORG
-5. Limited partnership, ORG
-6. Limited liability company or partnership, ORG
-7. Joint venture, ORG
-8. Insurance company, ORG
-9. Association, ORG
-10. Joint stock company, ORG
-11. Bank, ORG
-12. Trust, ORG
-13. Estate, ORG
-14. Unincorporated organization, ORG
-15. Federal, STATE, COUNTY or MUNICIPAL government, LOC (or any agency or political subdivision thereof), LOC","bank, ORG",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-Principal Balance "", for each Loan , shall mean , at any time of determination , the initial principal balance of the Loan thereof , less any payments of principal thereon received by the Lender . ""","No named entities are identified in this text section as PER, ORG, or LOC. This is simply describing how to calculate the remaining principal balance on a loan.","Lender, PER",No
-"Please strictly format your answer with instructions:Examine sentences from financial agreements in U.S. SEC filings to identify named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses should be formatted as: 'entity name, entity type'.
-
-Principal Prepayment "", for each Loan , shall mean any payment of principal made by the Borrower on the Loan that is received in advance of its scheduled payment date , whether made by reason of casualty or condemnation or otherwise . ""","No named entities are identified in this sentence from a financial agreement in US SEC filings. The sentence only describes a concept - Principal Prepayment - and does not mention any specific PERs, ORGs, or LOCs.","Borrower, PER",No
-"Please strictly format your answer with instructions:Assess sentences from financial agreements in U.S. SEC filings and identify the named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answers as: 'entity name, entity type'.
-
-Servicer "" shall mean initially Ashford or any replacement Servicer appointed in accordance with the terms of this Agreement . ""","Entity name: Ashford, Entity type: ORG (Organization).","Ashford, ORG",Yes
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-( b ) The Servicer shall : ( i ) provide to the Holders ( 1 ) a summary of the current status of principal and interest payments on the Loan , ( 2 ) copies of the Borrower ' s current financial statements , to the extent in the Servicer ' s possession , ( 3 ) current information , if any , as to the value of the Property , to the extent in the Servicer ' s possession , ( 4 ) copies of any default or acceleration notices sent to the Borrower with respect to the Loan and all material correspondence related thereto , ( 5 ) copies of all notices received or given by Servicer pursuant to any intercreditor agreement related to the Loan , ( 6 ) copies of any written report prepared by any consultant retained by Servicer , and ( 7 ) other information with respect to the Borrower or the Loan , requested by any Holder , to the extent in the Servicer ' s possession .","Entities identified and their types based on the provided text are:
-
-1. The Servicer, ORG
-2. The Holders, PER (representing multiple individuals or organizations)
-3. The Borrower, PER
-4. Intercreditor agreement related to the Loan, ORG
-5. Any consultant retained by Servicer, ORG
-
-These entities may appear elsewhere in the filing with additional context or specific names attached.","Borrower, PER
-Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.
-
-( ii ) receive all payments of interest , principal and other sums on account of or with respect to the Loan ; ( iii ) in accordance with the provisions of this Agreement , remit to the Company or to the applicable Subsidiary all interest , principal and other sums received by or on behalf of Servicer on account of or with respect to the Loan ; ( iv ) notwithstanding anything to the contrary in the Loan Documents , notify each Holder of the amount of each unfunded disbursement , if any , of the Loan requested by Borrower ( which may be greater than the amount actually disbursed ) at least five ( 5 ) Business Days prior to the date of disbursement .","(i) Borrower, PER
-(ii) Servicer, ORG
-(iii) Company, ORG
-(iv) Holders, ORG","Borrower, PER",No
-"Please strictly format your answer with instructions:In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.
-
-Subject to the below provisions of this Section 2 , the Program Agreement and the Master Venture Agreement , the Servicer shall have authority to act on behalf of the Lender and the Holders with respect to the Loan , to transact with the Borrower and to grant or withhold consents or approvals under the Loan Documents , enforce the Loan Documents and otherwise act on behalf of the Lender and the Holders , all in accordance with Accepted Loan Servicing Practices .","Entities mentioned in the given text and their classification:
-
-1. The Servicer, ORG
-2. The Lender, PER (implied as a legal entity)
-3. The Holders, PER (plural implying multiple individuals or entities)
-4. The Borrower, PER
-5. The Loan Documents, ORG (collective term for various loan-related documents)","Lender, PER
-Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-None of the following actions may be undertaken by the Servicer without the prior written consent of the Company : 4 ( i ) modify , amend or waive in any respect whatsoever ( A ) the interest rate , monthly payment , or other monetary or economic provisions ( including with respect to the date or time upon which any obligations are due ) of the Loan , including to defer interest payments ; ( B ) any provision in the Loan Documents that restricts Borrower from incurring additional indebtedness ; or ( C ) any other provisions in the Loan Documents other than non - monetary , non - economic or administrative amendments or modifications which the Servicer believes in good faith and in accordance with Accepted Loan Servicing Practices will not in any material and adverse way affect any Holder ' s rights under this Agreement , the Loan Documents or the value of the Property ; ( ii ) waive or reduce the amount of any reserves required to be maintained by Borrower , except as explicitly permitted by the Loan Agreement ; ( iii ) modify the principal amount of the Loan ; ( iv ) extend or shorten the maturity date of the Loan or any note , other than in accordance with the express provisions of the Loan Agreement ; ( v ) waive , compromise or settle any material claim against Borrower or any or other Person liable for payment of the Loan in whole or in part or for the observance and performance by Borrower of any of the terms , covenants , provisions and conditions of the Loan Documents , or release Borrower or any other Person liable for payment of the Loan in whole or in part from any obligation or liability under the Loan Documents ; ( vi ) approve or consent to a Borrower Transfer ; ( vii ) encumber , release , or modify , in whole or in part , any collateral or security interest held under the Loan Documents other than in accordance with the terms hereof or any of the express provisions of the Loan Agreement ; ( viii ) enforce or refrain from enforcing all of the rights , remedies and privileges afforded or available to the respective Holders under the terms of the Loan Documents , including , without limitation , accelerating the Loan ( unless such acceleration is automatic under the Loan Documents ), foreclosing on any mortgage or pledge or accepting a deed in lieu of foreclosure ; ( ix ) following a foreclosure of the Mortgage or any pledge or acceptance of a deed in lieu of foreclosure , approve a recommended course of action for the Property , approve the property manager and selling agent , and approve the sale price of the Property ; ( x ) the approval or adoption of any plan of bankruptcy , reorganization , restructuring or similar event in an Insolvency Proceeding with respect to the Borrower or any guarantor ; ( xi ) any incurrence of additional debt by the Borrower or any mezzanine financing by any direct or indirect beneficial owner of the Borrower ( to the extent that the Lender has consent rights pursuant to the Loan Documents with respect thereto ); 5 ( xii ) any waiver of the enforcement of any insurance requirements under the Loan Documents with respect to terrorism , earthquake , flooding , windstorm or political risk ; ( xiii ) any material amendment to the special purpose entity provisions in the Loan Agreement ; ( xiv ) the subordination of any mortgage or pledge to any other mortgage or pledge or other material monetary claim against the Property ; or ( xv ) waiver of any material default or Event of Default .","1. Company, ORG
-2. Servicer, PER or ORG (depending on whether it's an individual or organization acting as servicer)
-3. Borrower, PER
-4. Holder, ORG
-5. Property, LOC
-6. Lender, ORG
-7. Accepted Loan Servicing Practices, ORG
-8. Insurance requirements under the Loan Documents, ORG
-9. Special purpose entity, ORG","Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.
-
-Without limiting the generality of the foregoing , the Servicer , acting on behalf of the Holders in accordance with the terms of this Agreement , may rely on the advice of legal counsel , accountants and other experts ( including those retained by the Borrower ) and upon any written communication or telephone conversation which the Servicer believes to be genuine and correct or to have been signed , sent or made by the proper Person .","Servicer, ORG.
-The Holders, PER.
-This Agreement, ORG.
-Terms of This Agreement, ORG.
-Borrower, PER.","Borrower, PER",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-( f ) Each Holder hereby undertakes and agrees , upon the request of the Servicer , to execute , verify , deliver and file in a timely manner any proofs of claim , consents , assignments or other action necessary or appropriate to permit the Servicer to enforce the obligations of Borrower to the Lender in respect of the Loan , and to vote any claims at any meeting of creditors or for any plan or with respect to any matter as the Servicer shall direct , subject to the provisions of this Section 2 and otherwise in accordance with the terms of this Agreement , all in order to preserve and maintain all claims against Borrower for sums due under the Loan so that the Lender will have the benefit of such claims as provided in the Loan Documents or under applicable law .","Servicer, ORG.
-Borrower, PER.
-Lender, ORG.","Borrower, PER
-Lender, PER
-Borrower, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-( g ) Servicer shall not , without the consent of the Company , assign its rights or delegate its duties hereunder unless such assignment is to an Affiliate of Ashford ( as defined in the Master Venture Agreement ) and does not constitute a Change in Control ( as defined in the Master Venture Agreement ).","Servicer, ORG.
-Ashford, ORG (as defined in the Master Venture Agreement).","Ashford, ORG",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-( i ) As full compensation for its services hereunder , Servicer shall be entitled to a management fee with respect to each Investment , which shall be an annual fee payable in equal quarterly installments in arrears equal to 0 . 25 % multiplied by the Capital Contribution ( as defined in the Master Venture Agreement ) made by the Investor and Ashford ( as defined in the Master Venture Agreement ) to acquire such Investment ( the "" Management Fee "").","Servicer, ORG
-Capital Contribution, LOC (representing the location where the capital contribution was made)
-Investor, PER or ORG (depends on whether it's a specific individual or organization)
-Ashford, PER or ORG (depends on whether it's a specific individual or organization)","Ashford, ORG",No
-"Please strictly format your answer with instructions:In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.
-
-Notwithstanding the foregoing to the contrary and except as otherwise provided in Section 5 ( c ) below , with respect to any Investment that is subject to a default remaining uncured beyond any applicable notice and cure periods ( an "" Event of Default ""), Servicer shall receive a workout fee in lieu of the Management Fee with respect to such Investment , which shall be an annual fee payable for such Investment in the amount of 0 . 50 % of the Capital Contributions made by the Investor and Ashford ( as defined in the Master Venture Agreement ) to acquire such Investment ( the "" Workout Fee "").","Entities and their types:
-
-1. Servicer, ORG
-2. Section 5 (c), PER (implied) - party to the agreement containing this provision
-3. Section 5 (c) [below], PER (implied) - parties bound by this exception
-4. Any Investment, ORG
-5. Event of Default, PER (implied) - party causing the default
-6. Notice and cure periods, PER (plural, implied) - parties bound by these terms
-7. Capital Contributions, PLR (Plural Legal Entity) - investors' contributions
-8. Ashford, ORG","Ashford, ORG",No
-"Please strictly format your answer with instructions:Identify named entities that correspond to a person ('PER'), an organization ('ORG'), or a location ('LOC') in the sentences from financial agreements within U.S. SEC filings. Answer should be in the form: 'entity name, entity type'.
-
-If a court of competent jurisdiction orders , at any time that any amount received or collected in respect of the Loan must , pursuant to any insolvency , bankruptcy , fraudulent conveyance , preference or similar law , be returned to the Borrower or paid to any Holder or any other Person , then , notwithstanding any other provision of this Agreement , the Servicer shall not be required to distribute any portion thereof to any Holder , and all Holders shall promptly on demand repay to the Servicer the portion thereof which shall have been theretofore distributed to the related Holder , together with interest thereon at such rate , if any , as the Servicer shall have been required to pay to the Borrower , the Holders , or such other Person with respect thereto .","1. Servicer, ORG
-2. Borrower, PER
-3. Holder(s), ORG
-4. Court of competent jurisdiction, LOC (implied)
-5. Insolvency law, LOC (implied)
-6. Bankruptcy law, LOC (implied)
-7. Fraudulent conveyance law, LOC (implied)
-8. Preference law, LOC (implied)","Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.
-
-The Servicer shall notify the Holders promptly if the Borrower seeks or requests a release of the lien with respect to the Loan or seeks or requests the Lender ' s consent to , or takes any action in connection with or in furtherance of , any Borrower Transfer , incurring additional indebtedness or a Principal Prepayment of the Loan .","Entities and their types:
-
-1. The Servicer, ORG
-2. The Holders, PER (plural form for persons)
-3. The Borrower, PER
-4. The Lender, ORG","Borrower, PER
-Lender, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-If the Borrower requests consent to a Borrower Transfer or incurring any incur additional indebtedness , the Servicer shall obtain the prior written consent of the Company prior to the Lender ' s granting consent or agreement thereto ( which consent shall be subject to the same standard applicable to the Lender ' s ability to withhold such consent set forth in the Loan Documents ).","""Company, ORG""
-
-The Servicer, PER
-The Lender, ORG
-The Borrower, PER
-The Loan Documents, ORG","Borrower, PER
-Borrower, PER
-Lender, PER
-Lender, PER",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-An event of default by Servicer ( a "" Servicer Default "") hereunder shall exist in the event that one or more of the following events shall occur and be continuing beyond any applicable grace or cure periods : ( i ) a decree or order of a court or agency or supervisory authority having jurisdiction for the appointment of a conservator or receiver or liquidator in any insolvency , readjustment of debt , marshalling of assets and liabilities or similar proceedings , or for the winding - up or liquidation of its affairs , shall have been entered against Servicer ; ( ii ) Servicer shall consent to the appointment of a conservator or receiver or liquidator or liquidating committee in any insolvency , readjustment of debt , marshalling of assets and liabilities , voluntary liquidation or similar proceedings of or relating to Servicer or of or relating to all or substantially all of its property ; ( iii ) Servicer shall admit in writing its inability to pay its debts generally as they become due , file a petition to take advantage of any applicable insolvency or reorganization statute , make an assignment for the benefit of its creditors or voluntarily suspend payment of its obligations ; ( iv ) any failure on the part of Servicer to observe or perform in any material respect any covenant or agreement on the part of Servicer contained in this Agreement , which remains unremedied for a period of fifteen ( 15 ) Business Days after the date on which written notice of such failure , requiring the same to be remedied , shall have been given to Servicer by a Holder ( except that said fifteen ( 15 ) Business Day period shall be 8 extended for such period of time as shall be reasonably necessary in order to cure such default as long as Servicer shall be diligently prosecuting such cure to completion and said extended period would not reasonably be expected to materially impair a Holder ' s interest in the Loan but in no event shall such additional period exceed sixty ( 60 ) days ); or ( v ) any failure by Servicer to notify the Holders of a default by Borrower under the Loan Documents within five ( 5 ) Business Days after Servicer ' s receipt of written notice thereof .","1. Court or agency or supervisory authority, LOC.
-2. Servicer, PER.
-3. Insolvency, readjustment of debt, marshalling of assets and liabilities, or similar proceedings, LOC.
-4. Receiver, LIQUIDATOR, or liquidating committee, PER.
-5. Servicer, PER.
-6. Court, LOC.
-7. Agency or supervisory authority, LOC.
-8. Holder, ORG.
-9. Fifteen (15) Business Days, TIME.
-10. Sixty (60) days, TIME.","Borrower, PER",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-With respect to each Loan , Servicer hereby represents and warrants to each of the Holders on the date of acquisition of such Loan by the Holders : ( a ) if Servicer or any Affiliate ( as defined in the Master Venture Agreement ) of Servicer acquired the Loan , Servicer and / or such Affiliate conveying the Loan to the Holders have good title to , and are the sole holders of the Loan , free and clear of any liens , security interests , claims , charges or other encumbrances ; ( b ) Servicer has not assigned , pledged , transferred or encumbered all or any portion of the Loan ; ( c ) Servicer has no other material agreements with the Borrower under the Loan with respect to the Loan other than as set forth in the Loan Documents , ( d ) none of the Borrower or any guarantors under the Loan have been released by Servicer from any obligation under any of the Loan Documents , and no collateral has been 9 released by Servicer from the lien of any other security agreement executed in connection with the Loan ; ( e ) the Servicer has acted in accordance with Accepted Loan Servicing Practices in acquiring the Loan ; and ( f ) the Servicer will report the Loan as a purchase of an interest in the Loan under generally accepted accounting principles .","1. Servicer, PER
-2. Holders, ORG (assuming they are identified as specific organizations)
-3. Loan, ORG (representing the borrower and the loan itself)
-4. Borrower, PER
-5. Master Venture Agreement, ORG
-6. Affiliate, PER (implied reference to individuals or organizations affiliated with Servicer)","Borrower, PER
-Borrower, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-The Holders acknowledge and agree that the Loan represents a single "" claim "" under Section 101 of the Bankruptcy Code , and that no Holder would be a separate creditor of the Borrower under the Bankruptcy Code .","No named entities identified in this sentence.
-
-However, here are some examples from other sentences in financial agreements found in U.S. SEC filings:
-
-1. The Note shall bear interest at the rate of 5% per annum, payable semi-annually, to Citibank, N.A., as successor in interest to JPMorgan Chase Bank, N.A. (ORG)
-2. The Company warrants to the Underwriters that it has good title to all of the properties described on Exhibit 14.1 attached hereto, which exhibit sets forth a description of each property by street address (LOC).
-3. The Securities are issued and sold pursuant to an indenture dated as of December 15, 2020 between the Issuer and Goldman Sachs & Co. LLC (ORG), as trustee.
-4. The Merger is proposed to be effected through a merger statute of the State of Delaware (LOC).
-5. The Board of Directors consists of Messrs. John Doe (PER), Jane Smith (PER), Robert Johnson (PER), Mary Brown (PER), and Thomas White (PER).","Borrower, PER",No
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-The Lender or the Servicer on its behalf , as agent for the Holders , shall maintain a register for the recording of the names and addresses of the Holders , the name and address of each Holder ' s agent for service of process ( the "" Register "").","Entities identified:
-1. The Lender or the Servicer, ORG (on behalf of)
-2. The Holders, PER
-3. Each Holder, PER
-4. Agent for each Holder, PER
-5. The Register, LOC (for recording the names and addresses)","Lender, PER",No
-"Please strictly format your answer with instructions:From the sentences in financial agreements in U.S. SEC filings, recognize named entities representing either a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-PIM ASHFORD VENTURE I , LLC , a Delaware limited liability company By : PRISA III Investments , a Delaware limited liability company By : PRISA III REIT Operating LP , a Delaware limited partnership , its sole member By : PRISA III OP GP , LLC , a Delaware limited liability company , its general partner By : PRISA III Fund LP , a Delaware limited partnership , its manager By : PRISA III Fund GP , LLC , a Delaware limited liability company , its general partner By : PRISA III Fund PIM , LLC , a Delaware limited liability company , its sole member By : Prudential Investment Management , Inc ., a Delaware corporation , its sole member By : Name : James P . Walker Title : Vice President By : Ashford Hospitality Finance LP , a Delaware limited partnership By : Ashford Hospitality Finance General Partner LLC , a Delaware limited liability company , its general partner By : Name : David Brooks Title : Vice President Signature Page to Loan Servicing Agreement ASHFORD HOSPITALITY SERVICING LLC , a Delaware limited liability company By : Name : David Brooks Title : Vice President Signature Page to Loan Servicing Agreement SCHEDULE 1 LOAN DOCUMENTS Source : OneCLE Business Contracts .","1. PIM Ashford Venture I, LLC, a Delaware limited liability company (LLC)
-2. Prisa III Investments, a Delaware limited liability company (LLC)
-3. Prisa III REIT Operating LP, a Delaware limited partnership (LP), its sole member
-4. Prisa III OP GP, LLC, a Delaware limited liability company (LLC), its general partner
-5. Prisa III Fund LP, a Delaware limited partnership (LP), its manager
-6. Prisa III Fund GP, LLC, a Delaware limited liability company (LLC), its general partner
-7. Prisa III Fund PIM, LLC, a Delaware limited liability company (LLC), its sole member
-8. Prudential Investment Management, Inc., a Delaware corporation (Corp.), its sole member
-9. James P. Walker, Person, Vice President
-10. Ashford Hospitality Finance LP, a Delaware limited partnership (LP)
-11. Ashford Hospitality Finance General Partner LLC, a Delaware limited liability company (LLC), its general partner
-12. David Brooks, Person, Vice President
-13. Ashford Hospitality Servicing LLC, a Delaware limited liability company (LLC)
-14. OneCLE Business Contracts, Location, Source","ASHFORD VENTURE I, ORG
-LLC, ORG
-James P, PER
-Ashford Hospitality Finance LP, ORG
-Ashford Hospitality Finance General Partner LLC, ORG
-David Brooks, PER
-ASHFORD HOSPITALITY SERVICING LLC, ORG
-David Brooks, PER",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-1 ] - Union Bank of California NA and Crocs Inc . [ UNION BANK OF CALIFORNIA LOGO ] AMENDMENT NO .","Union Bank of California NA, ORG.
-Crocs Inc, ORG.","Union Bank, ORG
-California, LOC
-UNION BANK, ORG
-CALIFORNIA, LOC",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-1 TO LOAN AGREEMENT ( this "" Amendment ""), dated as of November 21 , 2007 , is entered into by and among Union Bank of California , N . A ., ("" Bank ""), and Crocs , Inc ., a Delaware corporation ("" Borrower ""), with reference to the following facts : RECITALS A .","1. Union Bank of California, N.A., ORG (Bank)
-2. Crocs, Inc., ORG (Borrower)","Union Bank, ORG
-California, LOC
-Bank, ORG
-Delaware, ORG
-Borrower, PER",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-The Borrower and Bank are parties to that certain Loan Agreement , dated as of May 8 , 2007 , ( the "" Loan Agreement ""), as amended from time to time , pursuant to which the Bank has provided the Borrower with certain credit facilities .","Borrower, PER; Bank, ORG.","Borrower, PER
-Bank, ORG
-Bank, ORG
-Borrower, PER",No
-"Please strictly format your answer with instructions:From financial agreements in U.S. SEC filings, identify named entities corresponding to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Each entity should be listed as: 'entity name, entity type'.
-
-B . Borrower has requested that Bank increase the commitment amount of certain of the existing credit facilities , extend maturity dates , and make certain other modifications to the Loan Agreement .","1. Borrower, PER.
-2. Bank, ORG.","Borrower, PER
-Bank, ORG",Yes
-"Please strictly format your answer with instructions:In the text of financial agreements extracted from U.S. SEC filings, locate and identify named entities that represent a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide responses in the format: 'entity name, entity type'.
-
-C . Bank is willing to grant such accommodations to Borrower on the terms and conditions set forth below .","C. Bank, ORG.","Bank, ORG
-Borrower, PER",No
-"Please strictly format your answer with instructions:In sentences extracted from financial agreements within U.S. SEC filings, find named entities that are classified as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your answers in the format: 'entity name, entity type'.
-
-Borrower will maintain Domestic Accounts Receivable of not less than $ 35 , 000 , 000 as of the fiscal quarter ended December 31 , 2007 and not less than $ 40 , 000 , 000 as of the fiscal quarter ended March 31 , 2008 and thereafter .","No named entities were identified in the given text for classification as PER, ORG, or LOC. The text only mentions amounts related to Borrower's Domestic Accounts Receivable.","Borrower, PER",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-"" Domestic Accounts Receivable "" means accounts receivable owing to Borrower , payable in United States dollars , arising out of the sale or lease of goods or the rendition of services by Borrower , with respect to which the account debtor is a resident of the United States .""","""Borrower"", PER.","Borrower, PER
-United States, LOC
-Borrower, PER
-United States, LOC",No
-"Please strictly format your answer with instructions:From sentences in financial agreements contained in U.S. SEC filings, identify named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Answers should be provided in the following format: 'entity name, entity type'.
-
-The Bank shall have received an original of this Amendment , duly executed by the Borrower and the Bank ; ( b ) Other Documents .","1. The Borrower, PER.
-2. The Bank, ORG.","Bank, ORG
-Borrower, PER
-Bank, ORG",No
-"Please strictly format your answer with instructions:Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.
-
-The Borrower shall have executed and delivered to the Bank the Revolving Note and such other documents and instruments as the Bank may reasonably require .","No named entities are identified in this sentence for PER, ORG, or LOC types.","Borrower, PER
-Bank, ORG
-Bank, ORG",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-All representations and warranties made in the Loan Agreement or in any other document or documents relating thereto , including , without limitation , any Loan Documents furnished in connection with this Amendment , shall survive the execution and delivery of this Amendment and the other Loan Documents , and no 1 investigation by the Bank or any closing shall affect the representations and warranties or the right of the Bank to rely thereon .","There are no clear-cut named entities identified in the given text for determination as PER, ORG, or LOC. The text mentions ""Bank"" which could be classified as an ORG but it does not provide enough context to definitively identify it as such since we don't have sufficient information about the Bank involved (e.g., its full name). Therefore, I cannot make a positive identification based on this text alone.","Bank, ORG
-Bank, ORG",No
-"Please strictly format your answer with instructions:In the excerpts from financial agreements found in U.S. SEC filings, determine the named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Provide your response in the format: 'entity name, entity type'.
-
-The Borrower is not aware of any events which now constitute , or with the passage of time or the giving of notice , or both , would constitute , an Event of Default under the Loan Agreement .","Entities mentioned: The Borrower
-
-Response: The Borrower, PER.","Borrower, PER",Yes
-"Please strictly format your answer with instructions:Review sentences extracted from financial agreements in U.S. SEC filings to find named entities related to a person ('PER'), an organization ('ORG'), or a location ('LOC'). Responses must be in the format: 'entity name, entity type'.
-
-The Loan Agreement and the other Loan Documents remain in full force and effect and the Borrower ratifies and confirms its agreements and covenants contained therein .","No named entities are identified in this sentence for PER, ORG, or LOC types.","Borrower, PER",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-The Borrower hereby confirms that , after giving effect to this Amendment , no Event of Default or Default exists as of such date .","""Borrower, ORG.""","Borrower, PER",No
-"Please strictly format your answer with instructions:In sentences derived from financial agreements in U.S. SEC filings, spot the named entities that denote a person ('PER'), an organization ('ORG'), or a location ('LOC'). Please format your answer as: 'entity name, entity type'.
-
-THIS AMENDMENT AND ALL OTHER LOAN DOCUMENTS EXECUTED PURSUANT HERETO SHALL BE DEEMED TO HAVE BEEN MADE AND TO BE PERFORMABLE IN THE STATE OF CALIFORNIA AND SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF CALIFORNIA .","Entities mentioned: None.
-
-This sentence is about the jurisdiction and governing law for the loan documents. No specific entities are identified.","CALIFORNIA, LOC
-CALIFORNIA, LOC",No
-"Please strictly format your answer with instructions:From the text of financial agreements in U.S. SEC filings, identify named entities referring to a person ('PER'), an organization ('ORG'), or a location ('LOC'). List each identified entity as: 'entity name, entity type'.
-
-This Amendment is binding upon and shall inure to the benefit of the Bank and the Borrower and their respective successors and assigns ; provided , however , that the Borrower may not assign or transfer any of its rights or obligations hereunder without the prior written consent of the Bank .","1. The Bank, ORG.
-2. The Borrower, PER or ORG (depending on whether it's a single individual or an organization).","Bank, ORG
-Borrower, PER
-Borrower, PER
-Bank, ORG",No
-"Please strictly format your answer with instructions:From financial agreement sentences in U.S. SEC filings, recognize and label named entities as a person ('PER'), an organization ('ORG'), or a location ('LOC'). Format your answer as: 'entity name, entity type'.
-
-THIS AMENDMENT , TOGETHER WITH THE OTHER LOAN DOCUMENTS AS WRITTEN , REPRESENTS THE FINAL AGREEMENT BETWEEN THE LENDERS AND THE BORROWER AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR , CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES .","The Lenders and the Borrower, ORGs.
-This Amendment and other Loan Documents, PERs.
-Represents the final agreement between them, ORGs.
-May not be contradicted by evidence of prior, contemporaneous or subsequent oral agreements of the Parties, ORGs.","BORROWER, PER",No
-"Please strictly format your answer with instructions:Identify named entities that signify a person ('PER'), an organization ('ORG'), or a location ('LOC') from the sentences in financial agreements in U.S. SEC filings. Answer in the following format: 'entity name, entity type'.
-
-THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE BANK AND THE BORROWER .",No identified entities or types in this sentence.,"BANK, ORG
-BORROWER, PER",No
-"Please strictly format your answer with instructions:Within the context of sentences taken from financial agreements in U.S. SEC filings, identify named entities that are either a person ('PER'), an organization ('ORG'), or a location ('LOC'). The expected format for answers is: 'entity name, entity type'.
-
-CROCS , INC . By : / s / Peter Case Peter Case Title : Chief Financial Officer Address : 6328 Monarch Park Place Niwot , Colorado 80503 Attention : Keith Love , Treasury Manager Telecopier : ( 303 ) 858 - 7048 Telephone : ( 303 ) 848 - 7084 UNION BANK OF CALIFORNIA , N . A .","* CROCS, INC., ORG
-* Peter Case, PER
-* Chief Financial Officer, ORG (within CROCS, INC.)
-* Niwot, Colorado, LOC
-* Union Bank of California, N.A., ORG","Peter Case Peter Case, PER
-6328 Monarch Park Place Niwot, LOC
-Colorado 80503, LOC
-Keith Love, PER
-UNION BANK, ORG
-CALIFORNIA, LOC",No
-"Please strictly format your answer with instructions:Analyze sentences from financial agreements in U.S. SEC filings to determine named entities representing a person ('PER'), an organization ('ORG'), or a location ('LOC'). Your answer should be formatted as: 'entity name, entity type'.
-
-By : / s / Douglas S . Lambell Douglas S . Lambell Title : Vice President Address : 530 B Street , 4th Floor San Diego , California 92101 Attention : Douglas S . Lambell , VP Telecopier : ( 619 ) 230 - 3766 Telephone : ( 619 ) 230 - 3029 3 Source : OneCLE Business Contracts .","Entity name: Douglas S. Lambell
-Entity type: PER
-
-Address: 530 B Street, 4th Floor
-Location type: LOC
-
-San Diego, California 92101
-
-Title: Vice President
-Entity type: ORG (implied)
-
-Attention: Douglas S. Lambell, VP
-Entity type: PER
-
-Telecopier: (619) 230-3766
-Telephone: (619) 230-3029
-Entity types: Neither of these are entities but rather methods of communication.","Douglas S, PER
-Douglas S, PER
-530 B Street, LOC
-4th Floor San Diego, LOC
-California, LOC
-Douglas S, PER",No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Many digital trading platforms provide custody, but few operate as qualified custodians, a designation often required by asset managers.
+
+[/INST]### Response:
+","noise. This sentence describes a difference between digital trading platforms, but it does not establish a direct cause-and-effect relationship between being a custodian versus being a qualified custodian in this context.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Whatever went on during Orbán and Weber's discussion, the dénouement was shocking. Weber announced that Orbán's Fidesz would be suspended from the EPP immediately and indefinitely.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it describes the outcome of a political conversation between two individuals.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ For them to win on the weekend would be just stunning for the code. The argument then was the AFL and some of its oldest clubs had more pressing issues than northern expansion and the money required to establish and sustain Greater Western Sydney and the Gold Coast Suns would be better spent closer to home. In the countdown to the Giants' first grand final, that argument has been flipped on its head.
+
+[/INST]### Response:
+","noise.
+
+This sentence discusses the debate surrounding the establishment of two new Australian Football League (AFL) teams, Greater Western Sydney and Gold Coast Suns, but does not provide any clear indication of a causal relationship between financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ To curtail hobbies being treated as businesses, the tax code includes rules that do not permit losses for not-for-profit activities such as hobbies.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply states a rule in the tax code regarding hobbies and losses.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ As on September 6, the resolution professional (RP) of the grounded airline has admitted claims worth Rs 14,054 crore.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports the amount of claims admitted by the resolution professional of a grounded airline as of September 6.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Mengniu aims to acquire 100 per cent of Bellamy's shares via a scheme of arrangement. It intends shareholders to get $12.65 in cash per share plus a 60c per share special dividend, the latter to be paid by Bellamy's before scheme implementation.
+
+[/INST]### Response:
+",casual,causal,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Business Mergers and Acquisitions  NCR Corporation Announces Retirement of Blackstone's Convertible Preferred Stock, Announces Offering of Common Stock Issued Upon Conversion Posted By: levertonbusiness news, financial news, local news, post event, press releases  28 Views  ATLANTA - (BUSINESS WIRE) - NCR Corporation (NYSE: NCR) (the Company or NCR) previously announced that it has entered into an agreement with The Blackstone Group L.P. (Blackstone) to retire the shares of Series A Convertible Preferred Stock (the Preferred Stock) that the private equity firm holds in NCR.
+
+[/INST]### Response:
+","noise
+
+This sentence does not directly indicate a causal relationship between financial events. It reports that NCR Corporation has agreed to retire Blackstone's convertible preferred stock, but it doesn't establish a cause-and-effect connection.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The S&P 500 Industrials Index is a Materials Index is a capitalization-weighted index that tracks the companies in the industrial sector as a subset of the S&P 500.
+
+[/INST]### Response:
+",noise. This statement describes the composition and nature of the S&P 500 Industrials Index but does not indicate a causal relationship between any financial events.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Last month, prosecutors raided the offices of Deutsche Boerse as part of the wider probe.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. The raid on Deutsche Boerse's offices could be a result of various reasons, such as an ongoing investigation, and it doesn't necessarily imply any specific cause-and-effect relationship with other financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Investment Governance for Fiduciaries, our new CFA Institute Research Foundation monograph, begins by asking this initial how question. We need to embrace the human dimension and define investment governance not just for fiduciaries, but for everyone in the investment organization, regardless of their specific function, skillset, and experience. Investment governance is both directional and relational: It is about policy and process as well as trust and culture.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it sets up the topic of discussion for the monograph on investment governance.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ These relationships are governed by lucrative external contracts.
+
+[/INST]### Response:
+","
+The given sentence implies a causal relationship between ""these relationships"" (presumably business relationships) and ""lucrative external contracts."" Therefore, the correct classification for this sentence would be 'causal'.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ It has 20 operating for American and 36 for Delta, all out in the Western US. But those 36 airplanes flying for Delta?
+
+[/INST]### Response:
+","noise.
+
+The given sentence appears to be fragmented and lacks clear information indicating a causal relationship between financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ ---  In other business, the Matlacha Civic Association board voted to donate $500 to Linda Joseph's son, Anthony, for a brain injury suffered when he was struck by a vehicle while working as a flagman on Pine Island Road two weeks ago.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It mentions a charitable donation made by the Matlacha Civic Association, but there is no information about any financial consequences or causes related to this event in the given text.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Each of the Morgan Stanley closed-end funds listed below (the Funds) today declared the following dividends.
+
+[/INST]### Response:
+",noise.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ In economic parlance, stagflation means a situation in a country's economy when inflation is persistently high, demand is stagnant and unemployment rates are high.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It is simply defining the term ""stagflation.""",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Law 1676 of 2013 defines the secured creditor as the person, legal entity, trust fund or governmental entity, which is secured through a movable collateral that may be actually held or not by the creditor (Article 8).
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It is describing a law and the definition of a secured creditor within that law.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Inasmuch as a bond is a promise to pay money, the monetary topic could hardly be weightier. Philipp Hildebrand, former head of the Swiss National Bank and a colleague of Rieder's at BlackRock, scooped the Rieder message in a Sept. 3 op-ed in the Financial Times. Come the next recession, Hildebrand proposes, let the monetary authorities directly infuse citizens with money, rather than futilely continuing to whack away at the stubble of the world's bond yields.
+
+[/INST]### Response:
+","
+This sentence expresses a proposal by Philipp Hildebrand for monetary authorities to inject citizens with money during the next recession instead of lowering bond yields through conventional means. The sentence suggests a causal relationship between economic conditions (recession) and monetary policy actions (infusing citizens with money). Therefore, the category for this sentence would be 'causal'.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Her pay-for would not only cover the costs of new benefits, but bring in enough extra revenue to extend the Social Security Trust Fund by 19 years.
+
+[/INST]### Response:
+",casual,noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ That's why we are saying that we will be out of the problem soon, he said. Describing HDIL as an old customer and the largest and has been supporting the bank for years, Thomas said, when we were a single unit bank, they supported us, they also supported us when we were facing problems.
+
+[/INST]### Response:
+","noise.
+
+The given text does not indicate any clear causal relationship between financial events. Instead, it seems more like personal anecdote about a long-term business relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Annuities have contract limitations, fees, and charges, including account and administrative fees, underlying investment management fees, mortality and expense fees, and charges for optional benefits.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply lists various types of fees associated with annuities.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ In addition to this, registered users can 'Like' specific news items, thus showing their support and appreciation for the item Comment on news items and rate comments Propose new 'tags' on news items to improve searchability The ability to engage in all of these actions is driven by a site-specific internal virtual currency                         which we call Kreds.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it describes additional features available to registered users on a website and the mechanism behind those features (the use of ""Kreds"" as a site-specific internal virtual currency).",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Altium Limited (ASX:ALU) currently has a Montier C-score of 3.00000.
+
+[/INST]### Response:
+","noise.
+
+The given sentence does not indicate a causal relationship between any financial events. It simply states the current Montier C-score for Altium Limited without implying any cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The purchase was disclosed in a legal filing with the SEC, which can be accessed through the SEC website.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a direct causal relationship between two financial events. Instead, it simply provides information about where to find additional details regarding a financial transaction (the purchase being disclosed in an SEC filing).",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ All three counties are asking for a 40 percent tax on all non-cigarette tobacco products and a $4 tax on each pack of cigarettes. The taxes would start in 2020, although Pitkin County's cigarette tax would start at $3.20 and increase by 10 cents a year until it reaches $4. These are measures that local public health experts would agree are good steps to help curb tobacco use among youths, and it would be easy to assume that they were initiated by concerned parents, but much of the push, as well as the mostly successful efforts to raise the tobacco purchase age to 21, has come from teens themselves.
+
+[/INST]### Response:
+","noise.
+
+The given text discusses local policies related to tobacco taxes and the age limit for purchasing tobacco products. While these facts might have some impact on financial markets involved in the tobacco industry, they do not directly cause any specific financial event or trend. Instead, they represent background information or context that should be disregarded when identifying causal relationships in financial data.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ How Teens In The Balkans Are Duping Trump Supporters With Fake News Menu Icon How Teens In The Balkans Are Duping Trump Supporters With Fake News Getty Images / BuzzFeed News This is the news of the millennium! said the story on WorldPoliticus.com.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between any financial events. Instead, it refers to fake news and teens in the Balkans duping Trump supporters, which is unrelated to finance.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Gox Legal (MGL) insolvency lawyers, MHM Japan, on Feb. 15, 2019. I was the coordinator of MGL at the time so MHM made the introduction.
+
+[/INST]### Response:
+",noise. This sentence appears to describe a personal connection or background information rather than indicating a causal relationship between financial events.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Shark Tank celebrity Daymond John waited tables at Red Lobster, building his clothing brand FUBU in his limited spare time.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It is sharing background information about Daymond John's past work experience and how he built his clothing brand, but it doesn't establish a cause-and-effect connection.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Fannie and Freddie are central players in the housing market, buying about half of all U.S. mortgages from lenders and packaging them for issuance as securities.
+
+[/INST]### Response:
+","noise.
+
+This sentence describes the role of Fannie Mae and Freddie Mac in the mortgage market but does not indicate a causal relationship between their actions and any specific financial event.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The deal expands Unity's services software development so that game makers are better able to operate games and retain players. Over the past years, DeltaDNA has placed increased emphasis on managing live operations, ensuring that games are monetizing and that their economies operate smoothly.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. This is because the sentence suggests a cause-and-effect relationship between Unity expanding its services for game developers (the cause) and improved ability of game makers to operate games and retain players (the effect). Additionally, the mention of DeltaDNA's focus on managing live operations implies a connection between these actions and successful monetization and smooth economy operation in games.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Investors often have to calculate risk/reward scenarios when navigating the equity market.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a specific causal relationship between two financial events. Instead, it sets up a general scenario for investors in the equity market.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ He suggested that if the government does indeed want to ease traffic congestion and improve the environment, a stated goal behind the original transit credit, the government could simply transfer funds to the various transit corporations across the country and let them increase the speed of transit and improve the schedule of buses.
+
+[/INST]### Response:
+",casual,noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The ROIC 5 year average is and the ROIC Quality ratio is . ROIC is a profitability ratio that measures the return that an investment generates for those providing capital.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports two different financial ratios without any indication of a cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ PUYI INC/ADR had issued 4,292,276 shares in its initial public offering on March 29th. The total size of the offering was $25,753,656 based on an initial share price of $6.00.
+
+[/INST]### Response:
+","noise.
+
+This sentence simply reports factual information about the number of shares issued, the total offering size, and the initial share price during PuYi Inc.'s IPO. It does not indicate any causal relationship between these financial events.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Sep 24, 07:00 The Capacity Utilization released by TurkStat is the percentage of the Turkish production capacity which is actually used over the short-time period. It is indicative of overall growth and demand in the Turkish economy.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. This is because the Capacity Utilization data indicated by TurkStat directly affects the interpretation of the overall growth and demand in the Turkish economy.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ If you are experiencing difficulties with a ATOL-protected hotel, or the hotel is requesting payment, call the CAA call centre on +44 1753 330 330. While arrangements are being made, do not make a payment to your hotel unless instructed otherwise by the CAA team.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It is providing information about what action to take in case of difficulties with an ATOL-protected hotel and is not making any causal statement about financial transactions or their outcomes.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ LON:AVG opened at GBX 243 ($3.18) on Friday.
+
+[/INST]### Response:
+",noise. This sentence simply states the opening price of LON:AVG without any indication of a causal relationship between financial events.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ That's true. But their shareholders got rich right alongside them.
+
+[/INST]### Response:
+","
+The given sentence is classified as 'noise'. It does not indicate a clear causal relationship between financial events. While it mentions the enrichment of shareholders, it doesn't provide information about what caused their wealth increase.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Energy  The oil price spiked after cruise missiles and drones inflicted substantial damage on the world's largest oil processing plant at Abqaiq. Donald Trump has not definitely stated that Iran was behind the strikes, but others in his administration have pinned blame on Tehran. Iran has denied responsibility for Saturday's attack, which knocked out more than half of crude output from the world's top exporter  -  5% of global oil supply  -  and cut output by 5.7 million barrels per day.
+
+[/INST]### Response:
+",casual,causal,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Don't over-emphasise recent billings.
+
+[/INST]### Response:
+",noise. This sentence does not indicate a clear causal relationship between financial events.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Investors may also use shareholder yield to gauge a baseline rate of return. Glacier Media Inc.
+
+[/INST]### Response:
+","noise. The given sentence does not indicate a causal relationship between financial events. Instead, it suggests that investors utilize one metric among several others for evaluation purposes.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ LKQ's stock rose 12 percent after an activist investor disclosed that it had taken a substantial stake in the automobile parts company.
+
+[/INST]### Response:
+",casual,causal,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The saying content is king is still true today and will be for years to come.
+
+[/INST]### Response:
+","
+The given sentence does not provide sufficient information to determine if it indicates a causal relationship between financial events. Therefore, the classification would be 'noise'.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Imports of goods and services, released by Statistics New Zealand , consist of transactions in goods and services (purchases, barter, gifts or grants) from non-residents to residents.
+
+[/INST]### Response:
+",noise.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Now, what I want to do is apply that growth rate to current earnings looking forward 10 years to get a final 10-year CAGR estimate. The way I think about this is, if I bought Starbucks' whole business for $100, it would pay me back $3.13 per year, and that amount would grow at 14.99% per year for 10 years.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. This is because the sentence explicitly states the cause-effect relationship between the growth rate of Starbucks' earnings (the cause) and the calculation of its 10-year Compound Annual Growth Rate (CAGR) estimate (the effect).",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ 17  Much of the dollar appreciation in that period was due to the financial institutions' hedging operations linked to their US investments (McCauley and McGuire (2009)).
+
+[/INST]### Response:
+","
+The given sentence falls under the category 'causal'. The sentence clearly states that ""much of the dollar appreciation in that period was due to the financial institutions' hedging operations linked to their US investments."" This implies a direct cause-and-effect relationship between the financial institutions' hedging activities and the dollar appreciation during that time frame.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ And this is just the beginning.
+
+[/INST]### Response:
+",noise. This sentence does not provide enough information to determine if there is a causal relationship between financial events.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Opinion  Beltway Confidential  UAW  Auto Industry  Labor  Labor unions  Transportation  GM  Share your thoughts with friends.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It appears to be an invitation for opinion sharing and mentions various entities within the automotive industry, but lacks any clear indication of cause-and-effect relationships.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ I worked with a small firm that found great success in focusing on their email marketing list over social media platforms. By segmenting their list, and offering unique deals dependant on the consumer's habits, they saw both higher conversions and leads. Another success I've experienced is around guest blogging.
+
+[/INST]### Response:
+","noise.
+
+The given text mentions two separate experiences of the speaker without any clear indication of a causal relationship between them. The first part talks about the success of focusing on email marketing lists instead of social media platforms, while the second part discusses the effectiveness of guest blogging. These statements do not directly relate to one another, making it categorized as noise.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The fewest Americans in almost five months filed for unemployment benefits last week, signaling the broad labor market remains healthy despite a slowdown in some parts of the economy.
+
+[/INST]### Response:
+","noise. Although the number of unemployment claims can indicate the health of the labor market, it does not directly cause the labor market to be healthy or unhealthy. Instead, it is an indicator of the current state of the labor market.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The final determination of the source and tax characteristics of all distributions in 2019 will be made after the end of the year. Morgan Stanley Investment Management, together with its investment advisory affiliates, has more than 665 investment professionals around the world and $497 billion in assets under management or supervision as of June 30, 2019.
+
+[/INST]### Response:
+",noise.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The Cross SMA 50/200, also known as the Golden Cross is the fifty day moving average divided by the two hundred day moving average.
+
+[/INST]### Response:
+","noise.
+
+This sentence explains the concept of the ""Golden Cross"" in finance but does not indicate a causal relationship between any specific financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ This number is calculated by dividing net income after tax by the company's total assets. A company that manages their assets well will have a higher return, while a company that manages their assets poorly will have a lower return. Shareholder Yield We also note that TheWorks.co.uk plc (LSE:WRKS) has a Shareholder Yield of 0.057657 and a Shareholder Yield (Mebane Faber) of 0.65009.
+
+[/INST]### Response:
+","casual.
+
+The given text suggests a causal relationship between a company's asset management skills and its Return on Assets (ROA), which in turn affects the Shareholder Yield.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ A deadline for filing a civil rehabilitation plan was postponed in April by Nobuaki Kobayashi, and before the end of October, no new plan will be filed.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It merely reports that there has been a change in the timeline for filing a civil rehabilitation plan without specifying any cause for the delay or connection to other financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Click here to give it a like!
+
+[/INST]### Response:
+","
+The given input does not provide sufficient information for classification as 'causal' or 'noise'. It appears to be a call-to-action statement rather than a description of financial events or relationships. Therefore, no category can be assigned based on this input alone.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Rising industrial production figures signify increasing economic growth and can positively influence the sentiment towards local currency.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. The cause-effect relationship in the sentence is clear - rising industrial production figures lead to increased economic growth, which in turn influences the sentiment towards the local currency in a positive way.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ We look forward to working with Franchise as our European distribution partner in this high growth region. MJardin has built a reputation as an operator with a top cultivation team. The Halifax facility is truly world class and fits with our strict quality standards.
+
+[/INST]### Response:
+","noise.
+
+This sentence expresses anticipatory excitement about a business partnership and compliments the quality of a specific facility. It does not establish a clear cause-and-effect relationship between two financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Are you a professional investor?
+
+[/INST]### Response:
+",noise. This question is unrelated to any financial event or causal relationship.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ -Andrew  We have a plan to end poverty, provide healthcare to all, and remake the economy -- but we have to build it together.
+
+[/INST]### Response:
+","noise. The given sentence does not indicate a causal relationship between financial events. Instead, it appears to be a statement of intent or goal by Andrew, likely in a political or campaign speech context.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ All this suggests that NWVCF stock's short- and long-term outlook remains exceptionally bullish.
+
+[/INST]### Response:
+","
+The given sentence expresses a positive outlook towards NWVCF stock, suggesting that its future performance will likely be strong both in the short term and the long term. This type of statement can often indicate a causal relationship, as it implies that there are factors currently at play which are driving the expected bullish trend. Therefore, the correct classification for this sentence would be 'causal'.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Get live Stock Prices from BSE and NSE and latest NAV, portfolio of Mutual Funds, calculate your tax by Income Tax Calculator, know market's Top Gainers, Top Losers & Best Equity Funds. Like us on Facebook and follow us on Twitter. Indronil Roychowdhury
+
+[/INST]### Response:
+","
+The given text contains instructions for accessing various financial information and tools, as well as social media engagement suggestions. This text does not indicate any causal relationship between financial events, thus it should be classified as 'noise'.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Advisors LLC raised its holdings in Kforce by 9.7% during the 2nd quarter. Advisors LLC now owns 7,943 shares of the business services provider's stock worth $279,000 after purchasing an additional 700 shares during the last quarter. Finally, US Bancorp DE raised its holdings in Kforce by 16.5% during the 1st quarter. US Bancorp DE now owns 8,152 shares of the business services provider's stock worth $287,000 after purchasing an additional 1,155 shares during the last quarter.
+
+[/INST]### Response:
+","noise.
+
+The given information does not directly indicate a causal relationship between financial events. It merely reports increases in holdings by different entities in a company (Kforce) over different quarters.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The minimum per-student allowance  -  which most districts receive, including charter schools  -  would increase from $7, 871 to $8,111, a $240, or 3%, increase.
+
+[/INST]### Response:
+","noise.
+
+This sentence describes a numerical change in funding for schools without indicating any specific cause or effect relationship between the two amounts mentioned. It does not indicate a causal relationship between financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Tax law generally does not allow deductions for personal expenses except those allowed as itemized deductions on the 1040 Schedule A, and this also applies to hobby expenses. Some hobbyists try to get a tax deduction for their hobby expenses by treating their hobby as a trade or a business.
+
+[/INST]### Response:
+","noise.
+
+This sentence discusses tax laws and how they apply to hobbies, but it does not establish a direct cause-and-effect relationship between two financial events. Instead, it explains the rules of tax deductions for hobby expenses, which is more of a background information or context rather than indicating a specific causality.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Ltd. raised its holdings in BlackRock Enhanced Global Dividend Trust by 93.1% in the first quarter. City of London Investment Management Co. Ltd. now owns 904,742 shares of the financial services provider's stock worth $9,649,000 after purchasing an additional 436,110 shares in the last quarter.
+
+[/INST]### Response:
+",The given sentence can be classified as 'causal'. The cause being the action taken by City of London Investment Management Co. Ltd. to purchase additional shares of BlackRock Enhance Global Dividend Trust leading to an increase in their holding and value.,causal,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ But things are changing. A cyber-curtain is set to divide the world A new Cold War looks likely as the US and China increasingly diverge and fall into dispute.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it discusses geopolitical tensions between the United States and China, which is unlikely to have a direct impact on financial markets without additional context.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Of course, everybody preaches the buy low sell high mantra, but it is much easier said than done.
+
+[/INST]### Response:
+","noise.
+
+This sentence expresses a common investment advice, but it does not establish a causal relationship between specific financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ There's no firm timeline for that, according to Russell. Calgary-headquartered Northview Apartment REIT (NVU-UN-T) owns 27,000 multifamily units and 1.1 million square feet of commercial space.
+
+[/INST]### Response:
+",noise.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ MUMBAI: Allaying fears of the depositors and customers, Punjab & Maharashtra Cooperative Bank (PMC), which is under RBI management now, said it has enough liquidity to meet all liabilities and every penny of the public is secure.
+
+[/INST]### Response:
+","noise.
+
+The statement by PMC Bank does not indicate a causal relationship between financial events. It is simply addressing concerns and reassuring its depositors and customers about the bank's ability to meet its obligations.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ ResearchPool Subscriptions Why subscribe? Access premium insights from a wide range of providers on one convenient platform Easily search, browse and choose exactly the research that you want to consume Get unbundled research at competitive prices  - separate from dealing commissions and other ancillary services How to subscribe Why subscribe?
+
+[/INST]### Response:
+","
+noise.
+
+This text does not indicate a causal relationship between financial events. It is simply describing the benefits and process of subscribing to ResearchPool, which is not inherently related to any specific cause-and-effect situation in finance.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ At a time when public opinion perceives corporations to be retaining wealth, it's important for Canada's top miners to show stakeholders the full picture. Relying on public filings and financial reports is no longer sufficient.
+
+[/INST]### Response:
+","noise.
+
+This sentence expresses an opinion about the importance of transparency in corporate reporting during a specific economic climate, but it does not establish a direct cause-and-effect relationship between public perception and the need for more comprehensive reporting by Canadian miners.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ High concentration of foreign returned executives are key target customers. Market Segmentation by Sourcing Channel: Trade-ins is the major way of sourcing the premium pre-owned cars in India. It is more popular in organized method of sourcing an inventory as compared to unorganized sector.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it discusses market segmentation and sourcing channels for premium pre-owned cars in India. While there may be financial implications related to these topics, the sentence itself does not establish a cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Investment governance is about values, about achieving great outcomes for those we serve. Fiduciaries must bring coherence to their investment governance practice. And that requires mission clarity: We need to tackle the why question!
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. Instead, it appears to be discussing the importance of investment governance and fiduciary responsibilities in a general sense.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Trucks, on average, are more expensive than cars.
+
+[/INST]### Response:
+","
+The given sentence does not provide any information related to financial events or their causal relationships. Therefore, the appropriate categorization for this sentence would be 'noise'.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this press release and in other filings.
+
+[/INST]### Response:
+",noise. This sentence does not indicate a causal relationship between financial events but rather includes a disclaimer for readers to consider additional information before making investment decisions.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The standard flat-rate expense allowance for uniform maintenance is £60 (2019/20)  -  if you're a basic-rate taxpayer, you can claim 20% of this back, so £12.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It explains how much can be claimed back as a tax deduction based on the standard flat-rate expense allowance, but it doesn't establish a cause-and-effect relationship.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Business sentiment plays a key role in both respects. Changes in PMIs are indeed closely correlated with equity indices and corporate bond spreads.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. The statement ""Changes in PMIs are closely correlated with equity indices and corporate bond spreads"" implies a causal relationship between business sentiment (as indicated by PMI) and stock prices (equity indices) as well as bond yields (corporate bond spreads).",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Earnings and Valuation  This table compares First Data and International Monetary Systems' gross revenue, earnings per share and valuation.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events as it merely presents comparative information without implying any cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The more bells and whistles on a vehicle, the higher the price and the better the mix.)
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It appears to be describing a correlation between the number of features on a vehicle and its price, which is not necessarily a cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The company has been set up on or after October 1, 2019 and has commenced manufacturing on or before March 31, 2023.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It appears to be descriptive information about a company's establishment and manufacturing timeline.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Hemendra Kothari, Chairman, DSP Investment Managers The move will structurally enhance corporate profitability, encourage Indian businesses to become globally competitive & also attract FDI capital to set up a manufacturing base in India and capitalise on the opportunities opening up due to shift in trade. Follow us on Facebook, Twitter & YouTube to never miss an update from Fortune India.
+
+[/INST]### Response:
+","
+The given sentence can be classified as 'causal'. This is because the sentence explicitly states that certain actions (the move) will lead to specific outcomes (structurally enhancing corporate profitability, encouraging global competitiveness of Indian businesses, attracting FDI capital for setting up manufacturing bases, and capitalizing on new opportunities).",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Consequently, in March 2013, P&ID began an arbitration action against the government before a London tribunal.
+
+[/INST]### Response:
+",casual,noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Investec warned that interim profits were likely to fall due to challenging conditions, with earnings per share up to 18% below the previous year.
+
+[/INST]### Response:
+","noise. The sentence expresses a potential decrease in earnings (Interim profits falling), but it does not establish a clear cause-and-effect relationship between the event and any specific factor.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ WeWork had delayed its highly anticipated public offering under intense scrutiny from potential investors over its wide losses and corporate governance. WeWork will name two current execs, Sebastian Gunningham and Artie Minson, as co-chief executives, a source familiar with the matter told Business Insider.
+
+[/INST]### Response:
+","noise.
+
+The information about WeWork naming new co-CEOs does not directly indicate a causal relationship between financial events. It is separate news and should be considered background information or context for understanding the broader situation surrounding WeWork's IPO.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ The company designs, manufactures, integrates, and services electric motors and pumps, steam turbines, gas compressors, pressure vessels, containers, and skidded systems and fabricated poles and cabinets for roadside safety cameras and rail track signaling. Featured Article: Accumulation/Distribution  Receive News & Ratings for Avingtrans Daily - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings for Avingtrans and related companies with MarketBeat.com's FREE daily email newsletter. Barry Rantel
+
+[/INST]### Response:
+",noise.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Bellamy's directors have unanimously recommended shareholders vote in favour of the deal, in the absence of a superior proposal and pending an independent expert concluding the scheme is in shareholders' best interests.
+
+[/INST]### Response:
+","
+The given sentence implies that the directors' recommendation for a deal is dependent on certain conditions being met, such as the lack of a superior proposal and the conclusion of an independent expert. This suggests a causal relationship between the directors' recommendation and these conditions. Therefore, the category for this sentence would be 'causal'.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ In the RCEP Ministerial concluded last week in Bangkok, member countries resolved to conclude negotiations by November.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports that negotiations at the RCEP Ministerial have been scheduled to be completed by November.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ On Friday, August 30th, Foresite Capital Management Ii purchased 25,000 shares of Aerie Pharmaceuticals stock. The shares were bought at an average cost of $21.36 per share, for a total transaction of $534,000.00.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports a purchase made by Foresite Capital Management II without any mention of why they made the purchase or how it relates to other financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ And now, through the first half of 2019, Etsy says the company, which loses money, had revenue of $23.1 million, up 37% year over year.
+
+[/INST]### Response:
+",noise. The sentence does not indicate a causal relationship between financial events. It simply reports revenue growth for Etsy during the first half of 2019.,noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Although that allocation is probably high for most investors, it is definitely a good sign when the fund sponsor has so much skin in the game. I usually keep a small basket of put options in my portfolio.
+
+[/INST]### Response:
+","noise.
+
+The given sentence expresses the speaker's opinion about investing strategies without any clear indication of a causal relationship between financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ It presents price developments that reflect most sensitively the supply and demand conditions in the services market.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a clear causal relationship between financial events. Instead, it seems to be describing how prices respond to market conditions, which is a common observation in finance but not necessarily indicative of a specific cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ But if no agreement can be reached, Marrero left open the door that he will continue to temporarily delay enforcement of the subpoena for Trump's tax returns.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a clear causal relationship between financial events. Instead, it discusses the possibility of continued inaction by a judge regarding the enforcement of a subpoena for Trump's tax returns.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Including their hotel and holiday package business alongside their airline operations, Thomas Cook has over 600,000 abroad and will have to cooperate with governments and other appropriate authorities to safely return them home.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a clear causal relationship between financial events. It mentions the cooperation of Thomas Cook with authorities due to having a large number of people abroad, but there isn't any information about specific financial consequences or causes in the sentence.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Yet they are also in a perfect position to exploit tax loopholes, especially those companies whose location of production or innovation is difficult to determine. The biggest challenges within the corporate tax system are tax competition and base erosion and profit shifting.
+
+[/INST]### Response:
+","
+The given sentence is classified as 'noise'. It mentions challenges within the corporate tax system but does not directly indicate a causal relationship between specific financial events.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Using this standard, the General Court reached opposite conclusions in the two cases, finding that an APA granted to a Fiat subsidiary by Luxembourg was illegal state aid but that an APA granted to a Starbucks subsidiary by the Netherlands was not. Today's judgments give important guidance on the application of EU State aid rules in the area of taxation.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a direct causal relationship between financial events. Instead, it reports the different outcomes of two court cases regarding tax incentives for Fiat and Starbucks subsidiaries in Luxembourg and the Netherlands, respectively. The sentence mentions the importance of the judgments for EU State aid rules in the area of taxation, but it doesn't establish a clear cause-and-effect relationship.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ So, linking with, and merchandising your wine program  -  say with extra bonus points  -  makes sense and can help both in increasing venue footfall and customer take-up of the program, as well as playing its part in improving your customer retention and repeat visits rates.
+
+[/INST]### Response:
+","
+The given sentence appears to describe a potential cause-and-effect relationship between implementing certain strategies related to a wine program (such as offering bonuses) and the resulting increase in foot traffic, customer participation, and customer loyalty. Therefore, the sentence should be classified as 'causal'.",noise,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ And gains this big take time to develop.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a clear causal relationship between financial events. Instead, it seems more like a statement about the general nature of stock market gains, which may be misinterpreted as implying a cause-and-effect relationship but doesn't actually provide one.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ If and when that happens, it's not hard to imagine that Bakkt will create a Bitcoin app for retail purchases. Bakkt hasn't shared its plans for retail payments publicly, but acknowledges that its partnership with [ignore=true hotlink]Starbucks[/hotlink] suggests big plans in the future. It's also in talks with other consumer brands looking to use digital currencies for consumer payments.
+
+[/INST]### Response:
+","noise
+
+This sentence expresses speculation about potential future plans of Bakkt without providing concrete evidence of a causal relationship between their current actions (partnerships) and these hypothetical future developments.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ If you insist on strict control over people working for you, don't hire freelancers.
+
+[/INST]### Response:
+","
+The given sentence is classified as 'noise'. This statement does not indicate a causal relationship between financial events. Instead, it appears to be offering general advice about hiring practices.",noise,Yes
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Certified Advisory Corp grew its position in shares of iShares Select Dividend ETF by 1.2% in the second quarter. Certified Advisory Corp now owns 13,150 shares of the company's stock valued at $1,309,000 after purchasing an additional 158 shares during the last quarter.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports the increase in the number of shares owned by Certified Advisory Corp and the value of those shares.",causal,No
+"[INST]Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+In this task, you are provided with sentences extracted from financial news and SEC data. Your goal is to classify each sentence into either 'causal' or 'noise' based on whether or not it indicates a causal relationship between financial events. Please return only the category 'causal' or 'noise'.
+
+### Input:
+ Eagle County looks to increase tobacco taxes  November ballot measures could generate $4.5 million in 2020  On Nov. 5, local voters will be asked whether or not new taxes on tobacco products should be approved.
+
+[/INST]### Response:
+","noise.
+
+This sentence does not indicate a causal relationship between financial events. It simply reports that local voters will be asked about increasing tobacco taxes on November 5th, which may result in $4.5 million in revenue for Eagle County if passed. However, there is no explicit statement of cause-and-effect relation here.",noise,Yes
