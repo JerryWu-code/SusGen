@@ -22,6 +22,7 @@ def load_model(model_path, lora_path, quantization='int4'):
             torch_dtype=torch.float16,
             quantization_config=bnb_config,
             low_cpu_mem_usage=True,
+            attn_implementation="flash_attention_2",
         )
     elif quantization == 'int8':
         bnb_config = BitsAndBytesConfig(load_in_8bit=True)
@@ -30,9 +31,13 @@ def load_model(model_path, lora_path, quantization='int4'):
             torch_dtype=torch.float16,
             quantization_config=bnb_config,
             low_cpu_mem_usage=True,
+            attn_implementation="flash_attention_2", 
         )
     if quantization == 'bf16':
-        model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.float16)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_path, torch_dtype=torch.float16,
+            attn_implementation="flash_attention_2",
+        )
     config = AutoConfig.from_pretrained(model_path)
 
     if lora_path:

@@ -38,12 +38,15 @@ def save_summary_to_csv(results, summary_csv_path, model_name):
 
 def main():
     model_path = "../../ckpts/Mistral-7B-Instruct-v0.2-hf"
+    # model_path = "../../ckpts/Mistral-7B-Instruct-v0.3-hf"
+    # model_path = "../../ckpts/Meta-Llama-3-8B-Instruct-hf"
+    
     prompt_type = 'mistral' # {'mistral', 'llama3}
     model_name = model_path.split('/')[-1]
-    model_name = 'model_test_2'
+    model_name = 'model_test_3'
     summary_csv_path = f"../results/evaluation_summary_{model_name}.csv"
     lora_path = False
-    quantization = 'int4' # {'int4', 'int8'}
+    quantization = 'bf16' # {'int4', 'int8', 'bf16'}
     random_count = 2
     
     args = {
