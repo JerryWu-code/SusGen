@@ -120,7 +120,6 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
       <a href="https://www.linkedin.com/in/xiaoneng-hsiang/">Xiaoneng Xiang</a><br>
       <a href="https://www.linkedin.com/in/hejia-huang-336268288/">Hejia Huang</a><br>
       <a href="https://www.linkedin.com/in/xuanw2060/">Xuan Wang</a><br>
-      <br>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/ranjansatapathy/">Dr. Satapathy Ranjan</a> (A*STAR)<br>
