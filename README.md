@@ -35,7 +35,7 @@ We present **SusGen-30K**, a meticulously curated instruction-tuning dataset for
 
 **2025.1.12**:  Code and checkpoints are released.
 
-**2024.12.14**:  🎉🎉🎉 SusGen is released! 🎉🎉🎉  See our [paper](https://arxiv.org/pdf/2412.10906) .
+**2024.12.14**:  🎉🎉🎉 SusGen is released! 🎉🎉🎉  See our [paper](https://arxiv.org/pdf/2412.10906).
 
 ## Getting Started
 
