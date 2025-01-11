@@ -99,7 +99,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
 - [X] Release the training & inference code.
 - [X] Release the data preprocessing code.
 - [X] Release the suite of trained model checkpoints SusGen-GPT.
-- [ ] Release the evaluation code.
+- [X] Release the evaluation code.
 - [ ] Release more if have time ...
 ## 🤝 About Team
 
