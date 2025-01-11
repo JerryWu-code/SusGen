@@ -6,7 +6,7 @@
 </p>
 
 <!-- <div align="center"> -->
-[![SusGen](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/abs/2412.03069)&nbsp;
+[![SusGen](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/abs/2412.10906)&nbsp;
 [![HFData](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Data-yellow)](https://huggingface.co/WHATX)&nbsp;
 [![project page](https://img.shields.io/badge/%F0%9F%A4%96%20wandb-Training-green?logo=)](https://wandb.ai/whatx)&nbsp;
 [![Video](https://img.shields.io/badge/%F0%9F%8E%A5%20Video-Demo-blue)](https://jerrywu-code.github.io/files/susgen_demo.mp4)
