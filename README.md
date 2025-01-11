@@ -117,9 +117,10 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
     <td>
       <a href="https://jerrywu-code.github.io/">Qilong Wu</a></td>
     <td>
-      Xiaoneng Xiang<br>
-      Hejia Huang<br>
-      Xuan Wang<br>
+      <a href="https://www.linkedin.com/in/xiaoneng-hsiang/">Xiaoneng Xiang</a><br>
+      <a href="https://www.linkedin.com/in/hejia-huang-336268288/">Hejia Huang</a><br>
+      <a href="https://www.linkedin.com/in/xuanw2060/">Xuan Wang</a><br>
+      <br>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/ranjansatapathy/">Dr. Satapathy Ranjan</a> (A*STAR)<br>
