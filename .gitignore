@@ -1,0 +1,36 @@
+# ignore the system cache file
+.DS_Store
+*/.DS_Store
+.vscode/
+
+# ignore the python package cache
+*/__pycache__
+__pycache__/
+.ipynb_checkpoints/
+
+# ignore PDFs inside raw_data
+# data/raw_data/*.pdf
+
+# ignore the logs
+wget-*
+src/wandb/
+
+# ignore the checkpoint files
+down_ckpt.py
+/ckpts
+/results
+src/results/
+
+# ignore the .gitignore itself and old requirements.txt
+requirements_old.txt
+# .gitignore*
+
+# ignore some original files from llama repo
+llama/Responsible-Use-Guide.pdf
+llama/download.sh
+
+# ignore the evaluation results
+eval/results/
+
+# ignore configs
+src/configs/demo_configs/models.yaml

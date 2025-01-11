@@ -1,0 +1,88 @@
+name: "SusGen30k-int4-adamw32_Mistral-7B-v0.3"
+output_dir: "../results/"
+local_rank: 0
+device: "cuda"
+trainer: "SFTrainer" # Trainer, SFTTrainer
+instruct_mask: True
+
+data:
+  train: "../data/SusGen/SusGen-30K/FINAL_PER3500_30k.json"
+  val: 
+  val_split_ratio: 0.005
+  prompt: mistral_formal
+
+tokenizer:
+  pretrained_model_name_or_path: "../ckpts/Mistral-7B-v0.3-hf" # Meta-Llama-3-8B-Instruct-hf
+  use_fast: True
+  padding_side: "left" # left use less memory
+  truncation_side: "right"
+  add_bos_token: True
+  add_eos_token: False # Different version will conflict, so set it to False and manually add eos token
+  add_prefix_space: False
+  model_max_length: 512
+  encode:
+    padding: "max_length" # True, max_length, longest, None
+    truncation: True
+    max_length: 512 # None to use the maximum length, set after checking the dataset
+    return_tensors: "pt" # pt for pytorch, tf for tensorflow, np for numpy, default is list
+
+model:
+  show_config: False
+  model_path: "../ckpts/Mistral-7B-v0.3-hf"
+  lora_path: False # set to False if base model without lora
+  seed: 2024
+  window: 256 # set the window size for the PEFT model
+  quantization: "int4" # int4, int8, bf16, None
+  lora: True
+  acceleration:  # require more memory to accelerate
+
+  lora:
+    task_type: "CAUSAL_LM"
+    inference_mode: False
+    r: 16 # low rank goes as data size increases
+    lora_alpha: 32 # delta_W scaled by alpha/r, set the rate to 2 or 4
+    lora_dropout: 0.1
+    bias: "none" # learnable, fixed, none
+    target_modules: [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj",
+      "lm_head",
+    ]
+
+  int4_config:
+    load_in_4bit: True
+    load_in_8bit: False
+    bnb_4bit_quant_type: "nf4"
+    bnb_4bit_use_double_quant: True
+    bnb_4bit_compute_dtype: bfloat16 # float32, bfloat16, float16
+
+  int8_config:
+    load_in_4bit: False
+    load_in_8bit: True
+
+training:
+  num_train_epochs: 3
+  per_device_train_batch_size: 16
+  learning_rate: 0.00005
+  gradient_accumulation_steps: 8
+  warmup_steps: 200
+  # max_steps: 8000 # total number of training steps
+  # eval_steps: 250
+  deepspeed: "./configs/ds_configs/ds_config_stage_2.json"
+  # Use deepspeed for training acceleration(if not could comment out)
+  lr_scheduler_type: "cosine" # linear, cosine, cosine_with_restarts, polynomial, constant, constant_with_warmup
+  bf16: True # set to True if using bfloat16 for training
+  optim: "paged_adamw_32bit" # adamw_apex_fused, adamw, paged_adamw_8/32bit
+  logging_steps: 8 # Log every ... step
+  save_strategy: "epoch" # Save the model checkpoint "steps", or "epoch"
+  # save_steps=500, # Save checkpoints every ... steps
+  # evaluation_strategy: "steps" # Evaluate the model every logging step
+  # eval_steps: 250 # Evaluate and save checkpoints every ... steps
+  # do_eval: True # Perform evaluation at the end of each epoch
+  report_to: "wandb" # Report to "wandb" or "tensorboard"
+  resume_from_checkpoint: False # Resume from the latest checkpoint
