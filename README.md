@@ -112,7 +112,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
 <table id="Team" style="margin: 0 auto; width:100%;">
   <tr>
     <th>Project Leader</th>
-    <th>Project Member</th>
+    <th>Project Members</th>
     <th>Other Members</th>
     <th>PI</th>
   </tr>
