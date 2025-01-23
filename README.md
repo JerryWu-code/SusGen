@@ -113,6 +113,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
   <tr>
     <th>Project Leader</th>
     <th>Project Member</th>
+    <th>Other Members</th>
     <th>PI</th>
   </tr>
   <tr>
@@ -122,6 +123,10 @@ CUDA_VISIBLE_DEVICES=0 python eval.py
       <a href="https://www.linkedin.com/in/xiaoneng-hsiang/">Xiaoneng Xiang</a><br>
       <a href="https://www.linkedin.com/in/hejia-huang-336268288/">Hejia Huang</a><br>
       <a href="https://www.linkedin.com/in/xuanw2060/">Xuan Wang</a><br>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/yeoweijie210/">Yeo Wei Jie</a><br>
+      <a href="https://www.linkedin.com/in/shirota/">Ricardo Shirota Filho</a><br>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/ranjansatapathy/">Dr. Satapathy Ranjan</a> (A*STAR)<br>
