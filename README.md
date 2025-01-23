@@ -1,7 +1,7 @@
 <p>
   <h1>
     <img src="./assets/logo.png" height=150px align="right"/>
-    SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation
+    SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation (NAACL Findings 2025)
   </h1>
 </p>
 
@@ -33,9 +33,11 @@ We present **SusGen-30K**, a meticulously curated instruction-tuning dataset for
 
 ## 📰 News
 
+**2025.1.23**:  🎉🎉🎉 **Our paper is accepted to [**NAACL**](https://2025.naacl.org/) Findings 2025!** 🎉🎉🎉
+
 **2025.1.12**:  Code and checkpoints are released.
 
-**2024.12.14**:  🎉🎉🎉 SusGen is released! 🎉🎉🎉  See our [paper](https://arxiv.org/pdf/2412.10906).
+**2024.12.14**:  🍃🍃🍃 SusGen is released! 🍃🍃🍃  See our [![SusGen](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/abs/2412.10906) and [![HFData](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Data-yellow)](https://huggingface.co/WHATX).
 
 ## Getting Started
 
